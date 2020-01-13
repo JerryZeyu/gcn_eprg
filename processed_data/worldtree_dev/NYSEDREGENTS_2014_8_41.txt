@@ -1,0 +1,102 @@
+Question	In a car accident, a seat belt helps prevent injuries by applying a force	question
+Answer	in the opposite direction of the passenger's motion	answer
+0	a seat belt applies force in the opposite direction of the passenger's motion	gold
+1	seat belts are used for preventing injuries to passengers in cars	gold
+2	an object acting against a force can cause that object to move in the opposite direction	nongold
+3	a passenger colliding with a windshield; a steering column; a dashboard during a car accident may cause injury	gold
+4	a passenger moving forward at high speeds causes that passenger to collide with the windshield; the steering column; the dashboard in a car accident	gold
+5	to inhibit means to prevent	nongold
+6	protecting something means preventing harm to that something	nongold
+7	motion is when moves an object; something to a direction	nongold
+8	harm means injury	nongold
+9	a passenger in a car is usually a human	gold
+10	a force acting on an object in the opposite direction that the object is moving can cause that object's speed to decrease in a forward motion	gold
+11	to hurt means to harm	nongold
+12	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+13	motion; movement means moving; to move	nongold
+14	damage means harm	nongold
+15	inhibitor means something that prevents something from happening	nongold
+16	car accidents are dangerous	nongold
+17	to help means to aid	nongold
+18	a moving object continues to move in the same direction at constant speed unless additional forces are applied	nongold
+19	harming something has a  negative impact on; effect on that something	nongold
+20	to help; to benefit means to be of use	nongold
+21	a car seat is a kind of object	nongold
+22	preventing something decreases the amount of that something	nongold
+23	when a force is applied to an object , that force is acting on that object	gold
+24	crashing a car causes harm to a person	nongold
+25	helping something has a  positive impact on that something	nongold
+26	counter means reduce; stop; resist	nongold
+27	damage has a negative impact on a thing	nongold
+28	a human is a kind of animal	gold
+29	negative impact is the opposite of positive impact	nongold
+30	to prevent means to make it not happen	nongold
+31	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+32	to be used  for something means to help to do that something	gold
+33	a force continually acting on an object in the same direction that the object is moving can cause that object's speed to increase in a forward motion	nongold
+34	person is synonymous with human	nongold
+35	a velocity is a measure of a speed in a direction	nongold
+36	a person is a kind of animal	nongold
+37	a car is a kind of vehicle	nongold
+38	an automobile is a kind of vehicle	nongold
+39	harm means danger	nongold
+40	avoiding is similar to preventing	nongold
+41	a vehicle is a kind of object	nongold
+42	a body part is a kind of object	nongold
+43	to keep something from happening means to prevent that something	nongold
+44	helping means to assist in a change	nongold
+45	a car is a kind of object	nongold
+46	a car is a kind of automobile	nongold
+47	if two unequal forces act on an object in opposite directions then that object will move in the same direction as the larger force	nongold
+48	friction is a kind of force	nongold
+49	harming an organism can cause that organism to die	nongold
+50	an animal is a kind of organism	nongold
+51	if two equal forces in opposite directions act on an object then that object will stay in the same place	nongold
+52	killing means harming something causing death	nongold
+53	friction exerts force on moving objects	nongold
+54	pulling is a kind of motion	nongold
+55	to impact means to affect	nongold
+56	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+57	if two balanced forces act on an object in opposite directions then that object will remain stationary	nongold
+58	a vehicle is a kind of tool for travel; transport	nongold
+59	a motion is a kind of event; action	nongold
+60	death means to die	nongold
+61	exerting force on an object means a force acts on an object	nongold
+62	movement is a kind of change	nongold
+63	impact means effect	nongold
+64	protection means resistance to damage increases	nongold
+65	friction is used for stopping a vehicle by brakes	nongold
+66	to slow; to slow down decreases speed	nongold
+67	a pull is a kind of force	nongold
+68	to reduce means to decrease	nongold
+69	a vehicle is used for transportation	nongold
+70	deflection is when something changes its moving direction	nongold
+71	strength is a property of an object; a material	nongold
+72	humans ride vehicles	nongold
+73	a force is a kind of push or pull on an object	nongold
+74	vibration is a kind of motion	nongold
+75	downward is a kind of direction	nongold
+76	the body is a part of an organism	nongold
+77	a device is a kind of object	nongold
+78	something harmful can cause harm	nongold
+79	down is a kind of direction	nongold
+80	moving is similar to travelling	nongold
+81	human is a kind of organism	nongold
+82	objects are made of materials; substances; matter	nongold
+83	opposite is a kind of different	nongold
+84	speed is a measure of how fast an object is moving	nongold
+85	distance moved; distance travelled is a measure of how far an object moves	nongold
+86	an animal is a kind of living thing	gold
+87	to lower means to decrease	nongold
+88	revolving is a kind of motion	nongold
+89	an event is a kind of action	nongold
+90	a tool is a kind of object	nongold
+91	push is a kind of force; application of force	nongold
+92	change is a kind of impact	nongold
+93	applying heat means adding heat energy	nongold
+94	applying is similar to increasing	nongold
+95	a negative impact is a kind of consequence; risk	nongold
+96	riding is a kind of motion	nongold
+97	to happen means to occur	nongold
+98	to protect means to make safe	nongold
+99	toward is a kind of direction	nongold

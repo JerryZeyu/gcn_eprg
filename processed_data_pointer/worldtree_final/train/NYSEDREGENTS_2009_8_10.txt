@@ -1,0 +1,102 @@
+0	temperature is a measure of heat energy	nongold
+1	a living thing is a kind of object	nongold
+2	an animal is a kind of living thing	nongold
+3	the head is a part of an animal	nongold
+4	fabric is always nonmagnetic	nongold
+5	electricity is used as an energy source by electrical devices	nongold
+6	materials are made of matter	nongold
+7	person is synonymous with human	nongold
+8	hair style is a kind of style	nongold
+9	coloration means a thing's color	nongold
+10	green is a kind of color	nongold
+11	if two objects; two materials have the same charge then those two objects; those two materials will repel each other	nongold
+12	a human is a kind of animal	nongold
+13	a hair is a kind of object	gold
+14	harming something has a  negative impact on; effect on that something	nongold
+15	hair is often a part of an animal	nongold
+16	attracting is a kind of function; activity	nongold
+17	touching is when a body part makes contact with the surface of an object	nongold
+18	a covering is a kind of object	nongold
+19	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	nongold
+20	appearance is a property of objects; materials	nongold
+21	electrical energy is a kind of energy	nongold
+22	touching something means feeling that something	nongold
+23	if something is powered by something else then that something requires a source of that something else	nongold
+24	a person is a kind of animal	nongold
+25	if an animal's skin looks like something then that animal looks like that something	nongold
+26	absorbing energy causes objects; materials; substances to heat	nongold
+27	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+28	if something emits something else then that something increases the amount of that something else	nongold
+29	a girl is a kind of animal	nongold
+30	light means light energy	nongold
+31	a body part is a kind of object	nongold
+32	conductivity is a measure of how easily electricity travels through a material	nongold
+33	to touch means to contact	nongold
+34	pulling of a sweater  is a kind of  rubbing	gold
+35	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	nongold
+36	due to means caused by	nongold
+37	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+38	heat means heat energy	nongold
+39	electricity is made of moving charges; moving charged particles	nongold
+40	an organism is a living thing	nongold
+41	a girl is a kind of organism	nongold
+42	if an object is black then that object absorbs all visible light; heat	nongold
+43	a boy is a kind of young male human	nongold
+44	high is similar to increase	nongold
+45	electrocution causes harm to an organism	nongold
+46	image means visual depiction of an object	nongold
+47	an insulator is the opposite of a conductor	nongold
+48	an electrical charge can attract objects to other objects	gold
+49	to look like means to have the visual properties of	nongold
+50	human skin is a kind of object	nongold
+51	attract means move closer	nongold
+52	a shirt is a kind of article of clothing	nongold
+53	metal is a kind of material	nongold
+54	metal is an  electrical; electrical energy conductor	nongold
+55	pull is similar to attract	nongold
+56	an part of an object is smaller than the entire object	nongold
+57	hair; fur is  a part of skin for protection; keeping warm	nongold
+58	A boy pulls a sweater off over his head. His hair is attracted to the sweater due to	question
+59	an object is an item	nongold
+60	a magnet is a kind of object	nongold
+61	hair is thin	nongold
+62	if something is made by something else then that something is affected by that something else	nongold
+63	heat is a kind of energy	nongold
+64	a face is often a part of an animal	nongold
+65	to put on means to wear	nongold
+66	a source of something emits; produces; generates; provides that something	nongold
+67	a child is a kind of young human	nongold
+68	color is a kind of physical; visual property	nongold
+69	if something transfers something else then that something is a source of something else	nongold
+70	plastic is a kind of material made by humans	nongold
+71	skin is a part of an animal; plant	nongold
+72	conductivity is a property of a material; substance	nongold
+73	if an object is made of a material then that object has the properties of that material	nongold
+74	hair is similar to fur	nongold
+75	a sweater is a kind of article of clothing	gold
+76	an electrical charge	answer
+77	plastic is a kind of electrical insulator	nongold
+78	color is a property of  an object; a material	nongold
+79	an object has properties	nongold
+80	electrical current means electrical energy	nongold
+81	a student is a kind of human	nongold
+82	a girl is a kind of young; female human	nongold
+83	structure is a property of an object; a material; a substance	nongold
+84	an animal is a kind of organism	nongold
+85	light is a kind of wave	nongold
+86	electricity means electrical energy	nongold
+87	an article of clothing is a kind of object	gold
+88	magnetism can affect objects that are not touching	nongold
+89	feeling is when an living thing senses through touch	nongold
+90	cloth is a kind of material	nongold
+91	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+92	skin is a kind of material	nongold
+93	attracting something to a location causes that something  to be near that location	nongold
+94	being  on something; placed in something; placed over something means touching  that something	nongold
+95	rubbing different materials can cause electrical charge	gold
+96	if a magnet is attracted to a metal then that magnet will stick to that metal	nongold
+97	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+98	objects are made of materials; substances; matter	gold
+99	metal is a thermal; thermal energy conductor	nongold
+100	a source of something increases the amount of that something	nongold
+101	a device is a kind of object	nongold

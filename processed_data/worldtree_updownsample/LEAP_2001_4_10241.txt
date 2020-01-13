@@ -1,0 +1,66 @@
+0	a river is a kind of flowing body of water	gold
+1	water is a kind of nonliving thing	gold
+2	soil is a kind of nonliving thing	nongold
+3	nonliving means not living	nongold
+4	a river is a kind of flowing body of water	gold
+5	a type is synonymous with a kind	nongold
+6	an animal is a kind of living thing	gold
+7	nonliving; non-living; die is the opposite of living; alive; live	gold
+8	an animal is a kind of organism	nongold
+9	an animal is a kind of living thing	gold
+10	a human is a kind of animal	nongold
+11	organisms lived in the water when they first appeared on Earth	nongold
+12	an animal; living thing requires nutrients for survival	nongold
+13	answering questions requires information	nongold
+14	greatest means largest; highest; most amount of something	nongold
+15	a plant; living thing requires food for survival	nongold
+16	a lake is a kind of body of water	nongold
+17	water is a kind of nonliving thing	gold
+18	a worm is a kind of animal	gold
+19	remains is similar to dead organisms	nongold
+20	an animal is a kind of living thing	gold
+21	nonliving; non-living; die is the opposite of living; alive; live	gold
+22	to lower means to decrease	nongold
+23	a bicycle is a kind of nonliving thing	nongold
+24	a river	answer
+25	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+26	survive means live	nongold
+27	a body of water contains water	nongold
+28	animals; living things require water for survival	nongold
+29	nonliving; non-living; die is the opposite of living; alive; live	gold
+30	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	nongold
+31	aquatic animal means water animal	nongold
+32	soil and sediment deposited by a river are usually high; rich in nutrients	nongold
+33	water is a kind of nonliving thing	gold
+34	a river	answer
+35	species means a group of like organisms	nongold
+36	Which of these is a nonliving thing?	question
+37	a fungus is a kind of living thing	gold
+38	lack is similar to low; little	nongold
+39	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+40	if there is none of a thing then that thing does not exist	nongold
+41	Which of these is a nonliving thing?	question
+42	lowest means least in value; amount; number	nongold
+43	a plants; living things require water for survival; to grow	nongold
+44	survival means to survive	nongold
+45	Which of these is a nonliving thing?	question
+46	a river	answer
+47	a plant is a kind of living thing	gold
+48	a river	answer
+49	killing means harming something causing death	nongold
+50	a plant is a kind of organism	nongold
+51	survive means live	nongold
+52	form means kind	nongold
+53	organisms; living things live in their habitat; their home	nongold
+54	remains mean parts of a dead organism	nongold
+55	a fungus is a kind of living thing	gold
+56	a body of water is a kind of environment	nongold
+57	a plant is a kind of living thing	gold
+58	a river is a kind of flowing body of water	gold
+59	a plant is a kind of living thing	gold
+60	if a species existed for a relatively short time then that species is now extinct	nongold
+61	Which of these is a nonliving thing?	question
+62	if a living thing dies then that living thing is dead	nongold
+63	a worm is a kind of animal	gold
+64	a worm is a kind of animal	gold
+65	a fungus is a kind of living thing	gold

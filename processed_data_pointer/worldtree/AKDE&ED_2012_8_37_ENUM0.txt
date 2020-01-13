@@ -1,0 +1,102 @@
+Question	An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?	question
+Answer	Star X is larger than star Y.	answer
+0	larger means greater; higher; more; increase in size	gold
+1	smaller means less; lower in size	nongold
+2	larger; bigger is the opposite of smaller	nongold
+3	brighter means higher; greater in brightness	nongold
+4	greater means higher; more in value	nongold
+5	as the size of a source of light increases , that source of light will appear brighter	gold
+6	small is the opposite of large	nongold
+7	larger is a kind of difference	nongold
+8	largest means greatest in size	nongold
+9	as a source of light becomes closer , that source will appear brighter	gold
+10	higher means greater; above in value; amount; number	nongold
+11	a star is a kind of celestial object; celestial body	nongold
+12	a star is usually larger than a planet	nongold
+13	decreasing is similar to becoming smaller	nongold
+14	an increase is the opposite of a decrease	nongold
+15	bright means bright; light in color	nongold
+16	less is similar to decrease	gold
+17	astronomy is the study of celestial (objects, bodies)	nongold
+18	closer means lower; less; a decrease in distance	gold
+19	a star produces light and heat	gold
+20	dimmer is the opposite of brighter	nongold
+21	low is similar to decrease	nongold
+22	as distance from an object decreases , that object will appear larger	nongold
+23	brightness means amount of light	nongold
+24	an increase is a kind of change	gold
+25	high is similar to increase	gold
+26	greatest means largest; highest; most amount of something	nongold
+27	a decrease is a kind of change	gold
+28	increase means more	nongold
+29	both means two	nongold
+30	the sun is average in size for a star in our galaxy	nongold
+31	brightness is a kind of property	nongold
+32	bright means a lot of light	nongold
+33	size is an extensive property	nongold
+34	same means identical; equal in value; amount; number; quantity	nongold
+35	as distance from a source of something increases , that something will decrease	nongold
+36	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+37	as distance from a source of light increases , that source of  light will appear dimmer	nongold
+38	different is the opposite of the same	gold
+39	taller means greater in height; size	nongold
+40	distant means great in distance	nongold
+41	two objects are usually different in size	nongold
+42	sunlight is a kind of light	nongold
+43	low is the opposite of high	gold
+44	to lower means to decrease	nongold
+45	expand means increase in size	nongold
+46	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+47	Earth is a kind of planet	nongold
+48	size difference is a kind of difference	nongold
+49	little is similar to decrease	nongold
+50	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+51	growing larger is when size increases	nongold
+52	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+53	the Sun has average brightness compared to other stars	nongold
+54	to change means to become different	gold
+55	the Sun is a kind of star	nongold
+56	as distance to an object increases , that object will appear smaller	nongold
+57	little means small	nongold
+58	length is a part of size	nongold
+59	if a star runs out of hydrogen , it becomes hotter; more luminous	nongold
+60	shrinking decreases size	nongold
+61	mass is similar to size	nongold
+62	mass; weight are the same on Earth	nongold
+63	massive is similar to large	nongold
+64	dimmer means less bright	nongold
+65	stars can be classified by temperature; color; chemical composition; brightness	nongold
+66	far means great in distance	nongold
+67	brightness is a property of a light source	nongold
+68	the sun is a source of light; light energy called sunlight	nongold
+69	less is the opposite of more	nongold
+70	studying is similar to observing	nongold
+71	shorter means smaller; less in  height	nongold
+72	a source of something increases the amount of that something	nongold
+73	the sun is  the largest celestial body in our solar system	nongold
+74	a star's type is determined by the star's mass	nongold
+75	stellar means related to stars	nongold
+76	as the cause of something decreases , that something will decrease	nongold
+77	opposite is a kind of different	nongold
+78	wider means greater in width	nongold
+79	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+80	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+81	near; close is the opposite of far; away	nongold
+82	studying  something usually requires seeing that something	nongold
+83	Earth is greater in mass than Mars	nongold
+84	a star's surface temperature causes the star's  color	nongold
+85	if something emits something else then that something increases the amount of that something else	nongold
+86	apparent magnitude is a measure of the brightness of a celestial object; celestial body as observed on Earth	nongold
+87	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	nongold
+88	the properties of something are used for describing that something	nongold
+89	as amount; size of something increases , the intensive properties of that something will not change	nongold
+90	Earth is the planet that is third closest to the  Sun	nongold
+91	another means different	nongold
+92	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+93	the sun is a source of radiation; heat called sunlight	nongold
+94	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+95	a change is a kind of difference	nongold
+96	identical is the opposite of different	nongold
+97	definite is the opposite of variable	nongold
+98	stars are located light years apart from each other	nongold
+99	a star is made of gases	nongold

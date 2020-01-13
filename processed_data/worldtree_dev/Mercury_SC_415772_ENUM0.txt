@@ -1,0 +1,102 @@
+Question	If you bounce a rubber ball on the floor, it goes up and then comes down. What causes the ball to come down?	question
+Answer	gravity	answer
+0	come down is similar to falling	gold
+1	downward means down	nongold
+2	rubber is a kind of solid	nongold
+3	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+4	low means down	nongold
+5	the floor is a kind of object	nongold
+6	rubber is a kind of material	nongold
+7	the bottom is the lowest part of something	nongold
+8	the floor is at the bottom of a room	nongold
+9	ground means floor	nongold
+10	if something strikes an object then that something may bounce off of that object	nongold
+11	below means lower down	nongold
+12	up means upward	nongold
+13	gravity is a kind of force	nongold
+14	a ball is a kind of object	gold
+15	falling means moving downward	nongold
+16	motion; movement means moving; to move	nongold
+17	gravity accelerates an object while that object falls by pulling on it	nongold
+18	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	gold
+19	rubber is usually flexible	nongold
+20	to lift means to move up	nongold
+21	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+22	sinking means moving down	nongold
+23	upward is the opposite of downward	nongold
+24	Weight is  the  force of gravity acting on an object	nongold
+25	rubber is thermal;thermal energy insulator	nongold
+26	weight means the force of gravity acting on an object	nongold
+27	objects are made of materials; substances; matter	nongold
+28	lowering is a kind of motion	nongold
+29	to bump means to hit	nongold
+30	to cause is similar to bring	nongold
+31	a surface is a part of an object	nongold
+32	the ground is at the bottom of an area	nongold
+33	motion is when moves an object; something to a direction	nongold
+34	a surface is a kind of object	nongold
+35	An example of hitting something is dropping an object onto that something	nongold
+36	to drop means to fall	nongold
+37	to land on the ground means to hit the ground	nongold
+38	a motion is a kind of event; action	nongold
+39	rubber is a kind of nonmetal	nongold
+40	the mass of an object causes the gravitational force exerted by that object	nongold
+41	producing thrust causes something; an animal; an object to move	nongold
+42	friction is a kind of force	nongold
+43	counter means reduce; stop; resist	nongold
+44	gravitational potential energy is a measure of the product of weight and height	nongold
+45	dropping something causes that something to fall	nongold
+46	a surface is a part of a material	nongold
+47	rising is a kind of motion	nongold
+48	a roll is a kind of movement	nongold
+49	rising means moving upward	nongold
+50	matter; materials; substances are made of atoms; particles	nongold
+51	a solid is a kind of substance	nongold
+52	rolling is a kind of motion	nongold
+53	raising is a kind of motion	nongold
+54	rolling down is similar to falling	nongold
+55	to reduce means to decrease	nongold
+56	An example of an object with kinetic energy is an object in motion	nongold
+57	to slow; to slow down decreases speed	nongold
+58	friction occurs when two object's surfaces move against each other	nongold
+59	motion is a source of kinetic energy in an object	nongold
+60	mass; weight is a property of matter; objects; materials	nongold
+61	to lower means to decrease	nongold
+62	down is soft	nongold
+63	solid is a kind of state of matter	nongold
+64	below is the opposite of above	nongold
+65	to travel up means to rise	nongold
+66	weight is a measure of the force of the gravity on the mass of an object	nongold
+67	the ceiling is at the top of a room	nongold
+68	weight is a property of objects; matter	nongold
+69	the ground means Earth's surface	nongold
+70	a pool ball; billiard ball is a kind of ball	nongold
+71	to impact means to affect	nongold
+72	beneath means below	nongold
+73	to be a source of something means to cause that something	nongold
+74	producing is similar to causing	nongold
+75	a living thing is a kind of object	nongold
+76	hitting an object causes the particles in that object to vibrate	nongold
+77	high is similar to increase	nongold
+78	to cause means to result in	nongold
+79	distance moved; distance travelled is a measure of how far an object moves	nongold
+80	bouncing something back means reflecting that something	nongold
+81	changes potential energy into kinetic energy through motion	nongold
+82	a table is hard	nongold
+83	if something causes a process then that something is required for that process	nongold
+84	deflection is when something changes its moving direction	nongold
+85	density is a measure of mass of an object over volume; divided by volume	nongold
+86	a wall is a kind of surface	nongold
+87	speed is a measure of how fast an object is moving	nongold
+88	can be means able to be	nongold
+89	drop means decrease	nongold
+90	as the mass of an object increases , the force of gravity on that object will increase	nongold
+91	something that happens is a kind of event	nongold
+92	an event is a kind of action	nongold
+93	strength is a property of an object; a material	nongold
+94	to change means to cause a change	nongold
+95	hitting something causes harm to that something	nongold
+96	substances are made of matter	nongold
+97	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+98	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+99	sliding is a kind of motion	nongold

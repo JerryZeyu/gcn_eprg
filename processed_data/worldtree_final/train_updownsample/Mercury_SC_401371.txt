@@ -1,0 +1,68 @@
+0	once per means every	nongold
+1	the afternoon is  a part of the day	nongold
+2	the sunlight occurs during the day	nongold
+3	event is similar to occurrence	nongold
+4	everyday means daily	nongold
+5	The Sun rises and sets.	answer
+6	rising is a kind of motion	gold
+7	plants appearing on Earth is a kind of event	nongold
+8	a planet is a kind of celestial object; body	nongold
+9	afternoon is a part of day time	nongold
+10	daily means every day; once per day	gold
+11	a moon phase occurs 28 days after the last time it occurred	nongold
+12	a change is a kind of event	nongold
+13	take place means happen	nongold
+14	a motion is a kind of event; action	gold
+15	cycles of day and night occur once per day	gold
+16	The Sun rises and sets.	answer
+17	setting is a kind of motion	gold
+18	being in the sun is synonymous with being in the sunlight	nongold
+19	rising means moving upward	nongold
+20	the Sun is a kind of star	gold
+21	to add means to increase	nongold
+22	daily means every day; once per day	gold
+23	the sun is a source of light; light energy called sunlight	nongold
+24	a star is a kind of celestial object; celestial body	gold
+25	rising is a kind of motion	gold
+26	rising is a kind of motion	gold
+27	setting is a kind of motion	gold
+28	to ascend means to rise	nongold
+29	sunshine means sunlight	nongold
+30	the Sun is a kind of star	gold
+31	the sun rising and setting causes cycles of day and night	gold
+32	sunrise occurs at the beginning of the day	nongold
+33	to happen means to occur	nongold
+34	cycles of day and night occur once per day	gold
+35	month is a kind of period of time	nongold
+36	daily means every day; once per day	gold
+37	a cycle is a kind of process	nongold
+38	the sun is the source of solar energy called sunlight	nongold
+39	a moon is a kind of celestial object; body	nongold
+40	The Sun rises and sets.	answer
+41	the Earth revolves around the sun	nongold
+42	cycles of day and night occur once per day	gold
+43	Which event occurs on a daily cycle?	question
+44	red giant is a kind of stage in the life cycle of a star	nongold
+45	events occur at a specific place; at a specific time; with a specific frequency	nongold
+46	rising means elevation	nongold
+47	sunlight produces heat	nongold
+48	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+49	the Sun is a kind of star	gold
+50	Earth is a kind of planet	nongold
+51	a motion is a kind of event; action	gold
+52	monthly means once per month	nongold
+53	a motion is a kind of event; action	gold
+54	Which event occurs on a daily cycle?	question
+55	setting is a kind of motion	gold
+56	the last stage of a life cycle occurs at the end of a life cycle	nongold
+57	a star is a kind of celestial object; celestial body	gold
+58	Which event occurs on a daily cycle?	question
+59	a star is a kind of celestial object; celestial body	gold
+60	The Sun rises and sets.	answer
+61	the sun rising and setting causes cycles of day and night	gold
+62	the sun sets in the west	nongold
+63	period is similar to amount of time	nongold
+64	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+65	Which event occurs on a daily cycle?	question
+66	sunlight is a kind of solar energy	nongold
+67	the sun rising and setting causes cycles of day and night	gold

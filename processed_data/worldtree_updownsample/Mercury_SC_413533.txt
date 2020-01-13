@@ -1,0 +1,55 @@
+0	a candle is a kind of object	nongold
+1	fire causes burning	gold
+2	a candle is made of wax	nongold
+3	a living thing is a kind of object	nongold
+4	fire is a kind of chemical reaction	gold
+5	new means different from the former one	nongold
+6	a candle burning	answer
+7	liquid is a kind of state of matter	nongold
+8	to generate means to form	nongold
+9	objects are made of materials; substances; matter	nongold
+10	a candle burning	answer
+11	a human is a kind of animal	nongold
+12	a chemical reaction is a kind of process	nongold
+13	fire is a kind of chemical reaction	gold
+14	forming is a kind of replenishing	nongold
+15	photosynthesis is a kind of chemical reaction	nongold
+16	a candle burning	answer
+17	chemical reactions cause new substances; different substances to form	gold
+18	if an event occurs by adding something then that event requires that something	nongold
+19	heat is a kind of energy	nongold
+20	combustion is a kind of exergonic reaction	nongold
+21	heat energy is synonymous with thermal energy	nongold
+22	a kind of something is an example of that something	nongold
+23	chemical reactions cause new substances; different substances to form	gold
+24	combustibility means the ability of combustion	nongold
+25	particles in objects are a kind of matter	nongold
+26	a burner is a kind of object; surface	nongold
+27	fire gives off light; heat; smoke	nongold
+28	form means kind	nongold
+29	putting out a fire stops the burning of that fire	nongold
+30	a demonstration is similar to an example	nongold
+31	Which example shows a new substance being formed?	question
+32	the formation of something is a kind of process	nongold
+33	fire causes burning	gold
+34	fire causes burning	gold
+35	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+36	to be used for something means to be required by that something	nongold
+37	to give is similar to to cause	nongold
+38	forming something is a kind of change	nongold
+39	Which example shows a new substance being formed?	question
+40	a candle burning	answer
+41	to be made of something means to be formed of that something	nongold
+42	to add means to increase	nongold
+43	chemical reactions cause new substances; different substances to form	gold
+44	an object; material; substance comes from that object or material's source	nongold
+45	fire transfers heat through waves	nongold
+46	fire is a kind of chemical reaction	gold
+47	can be means able to be	nongold
+48	Which example shows a new substance being formed?	question
+49	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+50	Which example shows a new substance being formed?	question
+51	a source of something emits; produces; generates; provides that something	nongold
+52	combustion is a kind of chemical change	nongold
+53	a process is a kind of event	nongold
+54	combining; mixing two substances chemically causes chemical reactions	nongold

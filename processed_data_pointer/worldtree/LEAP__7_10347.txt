@@ -1,0 +1,102 @@
+Question	Which resource is most likely found in large amounts in forest ecosystems?	question
+Answer	wood	answer
+0	a tree contains wood	gold
+1	wood is a kind of resource	nongold
+2	to be found in means to be contained in	gold
+3	a forest is a kind of ecosystem	gold
+4	natural resources are found in nature	nongold
+5	a forest is a kind of environment	nongold
+6	wood is a renewable resource	gold
+7	trees are a kind of resource	nongold
+8	trees are a kind of natural resource	nongold
+9	plants are a kind of resource	nongold
+10	found in means existing in	nongold
+11	an ecosystem contains a large community of; large numbers of living organisms	nongold
+12	a tree is a kind of plant	nongold
+13	an ecosystem is a kind of habitat	nongold
+14	if something is a part of something then that something can be found in that something	nongold
+15	a forest contains  lots of plants; trees	gold
+16	an environment is similar to an ecosystem	nongold
+17	wood is a kind of biomass	nongold
+18	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+19	a tree is a kind of living thing	nongold
+20	organisms can be found in their habitats	nongold
+21	trees are a renewable resource	nongold
+22	a lot means large in amount; quantity	gold
+23	plants are a part of the environment	nongold
+24	a plant is a kind of organism	nongold
+25	a rainforest is a kind of ecosystem	nongold
+26	an environment means an area	nongold
+27	amount is similar to abundance	nongold
+28	organisms are a part of an environment	nongold
+29	wood is a kind of object	nongold
+30	largest amount means most	nongold
+31	a renewable resource is a kind of natural resource	nongold
+32	wood is a kind of natural material	nongold
+33	a plant is a kind of living thing	nongold
+34	most means over 50% of something	nongold
+35	nature is the source of natural resources	nongold
+36	some species of tree are deciduous	nongold
+37	greatest means largest; highest; most amount of something	nongold
+38	contains means located in	nongold
+39	a natural ecosystem contains native living things only	nongold
+40	woodland means forest	nongold
+41	green plants are a kind of producer	nongold
+42	roots are a part of a plant; tree	nongold
+43	vegetation means plants	nongold
+44	a renewable resource is a kind of naturally replaced resource	nongold
+45	wood is a kind of energy resource	nongold
+46	nature means a natural environment	nongold
+47	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+48	often is similar to likely	nongold
+49	a tree is a kind of habitat	nongold
+50	an inexhaustible resource is a kind of renewable resource	nongold
+51	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+52	grass does not contain wood	nongold
+53	an organism is a living thing	nongold
+54	if something required by something else is in a place then that something else may be in that place	nongold
+55	an oak is a kind of tree	nongold
+56	an ecosystem contains nonliving things	nongold
+57	wood is usually sturdy	nongold
+58	abundant means high in number	nongold
+59	logging is when humans cut down trees; forests for wood	nongold
+60	forest is synonymous with wooded area	nongold
+61	food is a kind of resource	nongold
+62	if something is a part of something else then that something else contains that something	nongold
+63	habitat is similar to environment	nongold
+64	nutrients are a kind of resource	nongold
+65	including means containing	nongold
+66	to be used for something means to be required by that something	nongold
+67	a fossil fuel is a kind of natural resource	nongold
+68	often soil is found in an environment	nongold
+69	wood is a kind of nonmetal	nongold
+70	to contain means to have inside	nongold
+71	a plant is a member of a plant species	nongold
+72	a producer is a kind of living thing	nongold
+73	a wooden log is made of wood	nongold
+74	the Earth contains many ecosystems	nongold
+75	a plant; living thing requires nutrients to grow	nongold
+76	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+77	the amount of something is similar to the availability of something	nongold
+78	a leaf is a part of a tree	nongold
+79	concentration means amount	nongold
+80	a firewood is a kind of object	nongold
+81	a rain forest is a kind of forest	nongold
+82	if something is made of something; a material then that something contains that something; that material	nongold
+83	usually means most of the time	nongold
+84	a redwood tree is a kind of tree	nongold
+85	organisms are made of carbon	nongold
+86	usually something can be found  near a source in greater concentrations	nongold
+87	metal is a kind of natural resource	nongold
+88	a plant; living thing requires food for survival	nongold
+89	if something is located  in somewhere , then something can be found in somewhere	nongold
+90	water is a kind of natural resource	nongold
+91	water is a kind of natural resource	nongold
+92	an environment is a kind of place	nongold
+93	bark is a part of a tree	nongold
+94	a tree is a kind of matter	nongold
+95	a pine tree is a kind of tree	nongold
+96	to conserve means to not change	nongold
+97	area; space is a kind of resource	nongold
+98	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+99	a type is synonymous with a kind	nongold

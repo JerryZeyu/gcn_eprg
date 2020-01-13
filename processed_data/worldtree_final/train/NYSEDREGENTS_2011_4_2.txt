@@ -1,0 +1,101 @@
+0	How does the length of daylight in New York State change from summer to fall?	question
+1	It decreases.	answer
+2	amount of daylight means length of daylight	gold
+3	daylight means sunlight	nongold
+4	when the seasons change from the summer to the fall , the amount of daylight will decrease	gold
+5	New York; New York State is a state located in the United States of America	gold
+6	the amount of daylight is greatest in the summer	gold
+7	the amount of daylight is greatest on the summer solstice	nongold
+8	when the season changes , the amount of daylight will change	nongold
+9	fall follows summer	nongold
+10	daylight occurs during the day	nongold
+11	winter follows fall	nongold
+12	the amount of daylight is least in the winter	gold
+13	the amount of daylight is least on the winter solstice	nongold
+14	summer follows spring	nongold
+15	period of daylight is synonymous with amount of daylight	nongold
+16	fall means autumn	nongold
+17	summer is a kind of season	gold
+18	length of time means period of time	nongold
+19	fall is a kind of season	gold
+20	Autumn is a kind of season	nongold
+21	summer has the most sunlight	nongold
+22	spring follows winter	nongold
+23	a measure of time is a length of time	nongold
+24	daylight hours means time during which there is daylight	nongold
+25	spring is a kind of season	nongold
+26	length is a measure of distance from one end of an object to the other end of that object	nongold
+27	winter is a kind of season	nongold
+28	daylight is when the sun shines on a location	gold
+29	long means great in length	nongold
+30	new means different from the former one	nongold
+31	increase means more	nongold
+32	every summer  is a kind of period of time	nongold
+33	sunlight is a kind of light	nongold
+34	an increase is the opposite of a decrease	nongold
+35	longest means greatest in length	nongold
+36	New York is closer to the North Pole than Florida	nongold
+37	an increase is a kind of change	nongold
+38	a decrease is a kind of change	nongold
+39	winter is the opposite of summer	nongold
+40	to lower means to decrease	nongold
+41	length is a part of size	nongold
+42	shorter means decreased length	nongold
+43	Yorkshire is a county located in England	nongold
+44	a new season occurs once per 3.0 months	nongold
+45	to add means to increase	nongold
+46	to reduce means to decrease	nongold
+47	winter means environmental; outdoor temperature decreases	nongold
+48	state means form	nongold
+49	winter is a part of the year	nongold
+50	a new season occurs four times per year	nongold
+51	sunlight is a kind of solar energy	nongold
+52	spring has warm temperatures; weather	nongold
+53	a source of something increases the amount of that something	nongold
+54	as the distance of a location from the North Pole becomes smaller; closer , the amount of daylight received by that location will decrease during the winter	nongold
+55	annual means once per year	nongold
+56	as the distance of a location from the North Pole becomes smaller; closer , the  amount of daylight received by that location will increase during the summer	nongold
+57	seasons cause change to the environment	nongold
+58	less is similar to decrease	nongold
+59	high is similar to increase	nongold
+60	sunlight means solar energy	nongold
+61	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+62	phase means state	nongold
+63	to shorten means to make shorter	nongold
+64	old is the opposite of new	nongold
+65	as the amount of daylight increases , sunset will occur later in the day	nongold
+66	daytime means day	nongold
+67	falling means height decreases	nongold
+68	summer is when a hemisphere is tilted towards the sun	nongold
+69	a meter is a kind of unit for measuring distance; measuring length	nongold
+70	precipitation is when water falls from the sky	nongold
+71	snow is a kind of precipitation	nongold
+72	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+73	sunshine means sunlight	nongold
+74	as distance from a source of something increases , that something will decrease	nongold
+75	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+76	spring increases the amount of available food in an environment	nongold
+77	to limit means to decrease	nongold
+78	closer means lower; less; a decrease in distance	nongold
+79	to change means to become different	nongold
+80	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+81	as the cause of something decreases , that something will decrease	nongold
+82	a state is a kind of place	nongold
+83	precipitation is a kind of weather	nongold
+84	the sunlight occurs during the day	nongold
+85	different seasons occur during different times of the year	nongold
+86	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+87	low is similar to decrease	nongold
+88	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+89	rising means height; altitude increases	nongold
+90	precipitation is a kind of natural occurrence; cause	nongold
+91	a spring is a kind of object	nongold
+92	colder; cooler means lower in temperature	nongold
+93	weather changes from seasons to seasons	nongold
+94	winter has cold temperatures;weather	nongold
+95	stay the same means not changing	nongold
+96	night is low in light; in visibility	nongold
+97	to slow; to slow down decreases speed	nongold
+98	to drop means to fall	nongold
+99	each season occurs once per year	nongold
+100	to turn means to change	nongold

@@ -1,0 +1,99 @@
+0	You wish to closely observe a small insect. Which tool is the best to use?	question
+1	a magnifying glass	answer
+2	a magnifying glass is a kind of tool for observing small things	gold
+3	magnifying glass is used to see  small things by making objects appear bigger	gold
+4	an insect is a kind of animal	nongold
+5	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+6	a hand lens; a magnifying lens is synonymous with a magnifying glass	nongold
+7	an insect usually has a small size	gold
+8	inspect; observe means examine	nongold
+9	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+10	instrument means tool	nongold
+11	glass is a kind of object	nongold
+12	best means most positive	nongold
+13	a microscope is a kind of tool for observing small things	nongold
+14	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	nongold
+15	an instrument is a piece of equipment	nongold
+16	a tool is a kind of object	nongold
+17	observe means see	nongold
+18	optical tools are used for observing materials up close; in greater detail	nongold
+19	an organism is a living thing	nongold
+20	a living thing is a kind of object	nongold
+21	detecting is similar to observing	nongold
+22	an animal is a kind of living thing	nongold
+23	an insect is a kind of prey	nongold
+24	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+25	instrument means device	nongold
+26	look at means observe	nongold
+27	An insect is a pollinating animal	nongold
+28	determining often requires measuring; observing	nongold
+29	glass is a kind of material	nongold
+30	device means tool	nongold
+31	a device is a kind of object	nongold
+32	an part of an object is smaller than the entire object	nongold
+33	looking is similar to observing	nongold
+34	viewing means observing light	nongold
+35	an eyeglass lens is often made of glass	nongold
+36	small is the opposite of large	nongold
+37	an animal is a kind of organism	nongold
+38	an eyeglass lens is a kind of object	nongold
+39	studying is similar to observing	nongold
+40	An example of observing things is taking a picture	nongold
+41	an insect has three body parts	nongold
+42	measuring is a kind of observing	nongold
+43	if something is visible , then that something can be observed	nongold
+44	little means small	nongold
+45	studying  something usually requires seeing that something	nongold
+46	better means good	nongold
+47	to serve as means to be used as	nongold
+48	to be used for something means to be required by that something	nongold
+49	a lens is a part of a telescope	nongold
+50	casting an image of an object through a pinhole onto a screen does not require looking directly at the object	nongold
+51	if an object is made of a material then that object has the properties of that material	nongold
+52	examining sometimes requires measuring	nongold
+53	some lenses are made of glass	nongold
+54	useful means able to be used	nongold
+55	recording an observation sometimes requires measuring	nongold
+56	an animal is a member of an animal species	nongold
+57	to help; to benefit means to be of use	nongold
+58	glass is a kind of open container	nongold
+59	useful means good to use	nongold
+60	capturing an animal can be used for studying that animal	nongold
+61	a convex lens causes light to refract and concentrate to magnify distant objects	nongold
+62	helping means something can be done; completed more easily; better	nongold
+63	sight means to see	nongold
+64	binoculars are a kind of instrument for observing distant objects	nongold
+65	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+66	lenses are a kind of object	nongold
+67	to see means to look	nongold
+68	a surface is a part of an object	nongold
+69	a type is synonymous with a kind	nongold
+70	a camera is a kind of tool for recording images	nongold
+71	can be means able to be	nongold
+72	getting information sometimes requires observing; observation	nongold
+73	an insect has six legs	nongold
+74	identifying sometimes requires examining	nongold
+75	good means positive	nongold
+76	a container contains objects; material; substances	nongold
+77	glass; objects made of glass cause refraction of light	nongold
+78	a machine is a kind of  device	nongold
+79	microscopic means very small in size	nongold
+80	to get a better look at means to see better	nongold
+81	to observe means to gather information	nongold
+82	a surface is a part of a material	nongold
+83	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	nongold
+84	answering questions requires information	nongold
+85	a glass contains water	nongold
+86	an object has properties	nongold
+87	harming something has a  negative impact on; effect on that something	nongold
+88	a bird is a kind of living thing	nongold
+89	if a living thing requires something then that something has a positive impact on that living thing	nongold
+90	binoculars are used for observing distant objects	nongold
+91	form means kind	nongold
+92	visible means able to be seen	nongold
+93	a fly is a kind of insect	nongold
+94	a camera is used for recording images	nongold
+95	seeing is used for sensing visual things	nongold
+96	carnivores; omnivores; herbivores are a kind of animal	nongold
+97	to look like means to have the visual properties of	nongold
+98	a labybug  has a small  size	nongold

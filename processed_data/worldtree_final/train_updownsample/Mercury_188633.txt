@@ -1,0 +1,53 @@
+0	form means kind	nongold
+1	a cloud of dust and gas	answer
+2	dust is a kind of material	nongold
+3	the solar system is a kind of system	nongold
+4	A scientist is searching for areas where new solar systems might form. What feature is the scientist looking for?	question
+5	to be formed by is similar to being produced by	nongold
+6	an event is a kind of action	nongold
+7	a cloud is a kind of object	nongold
+8	A scientist is searching for areas where new solar systems might form. What feature is the scientist looking for?	question
+9	a cloud of dust and gas	answer
+10	a mountain is a kind of land feature	nongold
+11	a star is made of gases	nongold
+12	finding something means locating that something	nongold
+13	to discover means to find	nongold
+14	a cloud of dust and gas is a kind of feature	gold
+15	a component of something means a part of that something	nongold
+16	area; space is a kind of resource	nongold
+17	a cloud of dust and gas is a kind of feature	gold
+18	gas is a kind of state of matter	nongold
+19	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+20	new solar systems are made of dust and gas	gold
+21	new solar systems are made of dust and gas	gold
+22	the atmosphere is a kind of area	nongold
+23	a planet is a kind of location	nongold
+24	a region is a kind of location	nongold
+25	solar energy is a kind of light	nongold
+26	a cloud of dust and gas is a kind of feature	gold
+27	a land feature is a kind of physical characteristic	nongold
+28	the Sun is a kind of star	nongold
+29	an environment is a kind of place	nongold
+30	a cloud of dust and gas	answer
+31	a type is synonymous with a kind	nongold
+32	vapor is synonymous with gas	nongold
+33	A scientist is searching for areas where new solar systems might form. What feature is the scientist looking for?	question
+34	gaseous means of gas	nongold
+35	new means different from the former one	nongold
+36	A scientist is searching for areas where new solar systems might form. What feature is the scientist looking for?	question
+37	state means form	nongold
+38	a planet is a kind of place	nongold
+39	a source of something emits; produces; generates; provides that something	nongold
+40	denser means more dense	nongold
+41	a galaxy contains dust; stars; planets	nongold
+42	the photosphere is a kind of region of the sun	nongold
+43	clouds reflect solar energy back to space	nongold
+44	to be made of something means to be formed of that something	nongold
+45	if something required by something else is in a place then that something else may be in that place	nongold
+46	high is similar to increase	nongold
+47	new solar systems are made of dust and gas	gold
+48	a cloud of dust and gas	answer
+49	a desert is a kind of land feature	nongold
+50	clouds are usually found in the sky	nongold
+51	sunlight is a kind of solar energy	nongold
+52	gas is a kind of object	nongold

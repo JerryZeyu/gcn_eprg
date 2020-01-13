@@ -1,0 +1,102 @@
+0	a person is a kind of animal	nongold
+1	convert is similar to transfer	nongold
+2	to cause means to make	nongold
+3	person is synonymous with human	nongold
+4	helping something has a  positive impact on that something	nongold
+5	producing is a kind of process	nongold
+6	provide is similar to give; make	nongold
+7	emit means produce	nongold
+8	to turn means to change	nongold
+9	corn is a kind of plant	nongold
+10	harming something has a  negative impact on; effect on that something	nongold
+11	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+12	corn is a kind of crop	nongold
+13	a plant is a kind of living thing	nongold
+14	negative impact is the opposite of positive impact	nongold
+15	an animal is a kind of organism	nongold
+16	to convert means to change	nongold
+17	killing means harming something causing death	nongold
+18	a producer is a kind of living thing	nongold
+19	a human is a kind of animal	nongold
+20	to change means to cause a change	nongold
+21	plant reproduction often requires pollen	gold
+22	if a plant dies then that plant will not produce food	nongold
+23	a flower produces pollen and seeds	nongold
+24	pollen is part of a flower for reproduction	gold
+25	transfer is a kind of process	nongold
+26	production is similar to making	nongold
+27	changing the plants so they do not make pollen	answer
+28	to modify means to change	gold
+29	made by humans; artificial is the opposite of natural	nongold
+30	pathogen is similar to harmful substance	nongold
+31	to inhibit means to prevent	nongold
+32	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+33	a pesticide is infrequently poisonous to humans	nongold
+34	a living thing is a kind of object	nongold
+35	pollination requires pollinators; pollinating animals	nongold
+36	change is a kind of impact	nongold
+37	producing is similar to causing	nongold
+38	killing means changing a living thing from alive to dead by harming	nongold
+39	if something transfers something else then that something is a source of something else	nongold
+40	to be used for something means to be required by that something	nongold
+41	if something is made by something else then that something is affected by that something else	nongold
+42	harming an animal species has a  negative impact on the population size of that species	nongold
+43	if something causes a process then that something is required for that process	nongold
+44	to prevent means to make it not happen	nongold
+45	corn is a kind of seed	nongold
+46	pollinator means pollinating animal	nongold
+47	to produce means to provide	nongold
+48	A crop of corn plants is genetically modified so that the plants produce a natural pesticide. People are concerned that these corn plants might transfer modified genetic material to other plants. Which of the following is the best way to further modify the plants to prevent them from transferring their genetic materials to other plants?	question
+49	human is a kind of organism	nongold
+50	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+51	avoiding is similar to preventing	nongold
+52	make means produce	gold
+53	if an organism produces a substance then that organism has a gene that controls the production of that substance	nongold
+54	protecting something means preventing harm to that something	nongold
+55	preventing something decreases the amount of that something	nongold
+56	humans eat crops	nongold
+57	a producer produces its own food	nongold
+58	something harmful can cause harm	nongold
+59	if a living thing requires something then that something has a positive impact on that living thing	nongold
+60	crops are a kind of edible plant for eating	nongold
+61	having an impact on something means altering that something	nongold
+62	producers pass materials they use through the food chain	nongold
+63	pollination is a kind of process for plant reproduction	nongold
+64	providing something means making;delivering something	nongold
+65	cropland is used for farming by humans	nongold
+66	transfer is a kind of change	nongold
+67	change is a kind of process	nongold
+68	solution is similar to a positive impact	nongold
+69	converting is similar to producing	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	adverse effect means negative impact	nongold
+72	a crop is a kind of food	nongold
+73	plants are a part of the environment	nongold
+74	genetic engineering methods increase resistance to herbicides	nongold
+75	if something is required for a process then that something positively impacts that process	nongold
+76	harming an organism can cause that organism to die	nongold
+77	a plant is a member of a plant species	nongold
+78	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	nongold
+79	to change means to have an effect	nongold
+80	pollinated means after pollination	nongold
+81	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+82	if something required for a process is not produced then that process is prevented from occurring; cannot occur	gold
+83	affected means changed	nongold
+84	an organism is a living thing	nongold
+85	society is made of humans	nongold
+86	pesticides can cause pollution	nongold
+87	best means most positive	nongold
+88	a plant; living thing requires food for survival	nongold
+89	plant reproduction; seed production requires pollination	nongold
+90	using a pesticide usually requires spraying that pesticide on crops	nongold
+91	inhibitor means something that prevents something from happening	nongold
+92	to transfer means to bring; to get something to	nongold
+93	a concern; a problem is a possible negative impact	nongold
+94	a pesticide is usually very poisonous to insects	nongold
+95	a pesticide is used for protecting plants by killing insects	nongold
+96	a plant is a kind of organism	nongold
+97	to keep something from happening means to prevent that something	nongold
+98	a negative impact is a kind of consequence; risk	nongold
+99	eating food that contains pesticides can have a negative impact on humans	nongold
+100	an animal is a kind of living thing	nongold
+101	green plants are a kind of producer	nongold

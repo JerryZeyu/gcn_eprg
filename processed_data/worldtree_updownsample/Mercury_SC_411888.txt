@@ -1,0 +1,55 @@
+0	a student is a kind of human	nongold
+1	a pencil is a kind of object	nongold
+2	material means substance	nongold
+3	notebook paper	answer
+4	objects are made of materials; substances; matter	nongold
+5	paper is a kind of material	gold
+6	if a resource is limited in supply then that resource should be recycled	nongold
+7	trees are a source of paper	nongold
+8	notebook paper	answer
+9	going to school generally occurs during the day	nongold
+10	paper is a kind of material	gold
+11	a human is a kind of animal	nongold
+12	paper is a kind of material	gold
+13	to cause means to make	nongold
+14	recyclable means a material can be recycled	gold
+15	notebook paper	answer
+16	to slow; to slow down decreases speed	nongold
+17	trash is synonymous with waste	nongold
+18	recycling means reusing	nongold
+19	recyclable means a material can be recycled	gold
+20	a sheet of is similar to a piece of	nongold
+21	Which material is most easily recycled at school?	question
+22	recycling has a  positive impact on the environment	nongold
+23	to be used for something means to be required by that something	nongold
+24	a laptop is a kind of computer	nongold
+25	replace means change from one thing into  another	nongold
+26	answering questions requires information	nongold
+27	an eraser is a kind of solid	nongold
+28	a classroom is a kind of a room	nongold
+29	an object; material; substance comes from that object or material's source	nongold
+30	high-quality means positive	nongold
+31	composed of means made of	nongold
+32	recycling is a kind of method of disposal	nongold
+33	a paper is a kind of object	nongold
+34	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+35	recyclable means a material can be recycled	gold
+36	to recycle means return	nongold
+37	Which material is most easily recycled at school?	question
+38	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+39	a piece of something is a kind of object	nongold
+40	paper is recyclable	gold
+41	recycling is a kind of action	nongold
+42	Which material is most easily recycled at school?	question
+43	recycling reduces the resources needed to make something	nongold
+44	no longer means used to be	nongold
+45	notebook paper	answer
+46	paper is recyclable	gold
+47	a type is synonymous with a kind	nongold
+48	paper is not durable	nongold
+49	Which material is most easily recycled at school?	question
+50	person is synonymous with human	nongold
+51	structure is a property of an object; a material; a substance	nongold
+52	a piece is a part of a whole	nongold
+53	An example of recycling is using an object to make a new object	nongold
+54	paper is recyclable	gold

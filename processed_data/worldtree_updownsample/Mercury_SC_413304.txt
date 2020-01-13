@@ -1,0 +1,63 @@
+0	leather is a kind of material	gold
+1	manufacture means make	nongold
+2	production is similar to making	nongold
+3	cheap means low in cost	nongold
+4	water-resistance is a property of objects; matter and includes ordered values of water-resistant; not water-resistant	gold
+5	metal is a kind of natural resource	nongold
+6	leather is a kind of material	gold
+7	make means produce	nongold
+8	plastic is durable	nongold
+9	requiring is similar to needing help	nongold
+10	nature is the source of natural resources	nongold
+11	something hard; something strong can be used for protection	nongold
+12	rubber is usually flexible	nongold
+13	made by humans; artificial is the opposite of natural	nongold
+14	metal is a kind of material	nongold
+15	leather	answer
+16	leather is a kind of natural resource	gold
+17	if an object is made of a material then that object has the properties of that material	gold
+18	leather	answer
+19	water-resistance is a property of objects; matter and includes ordered values of water-resistant; not water-resistant	gold
+20	resistances are a property of living things	nongold
+21	leather is resistant to water	gold
+22	a living thing is a kind of object	nongold
+23	objects are made of materials; substances; matter	nongold
+24	animals; living things require water for survival	nongold
+25	adverse effect means negative impact	nongold
+26	shoes are a kind of object	gold
+27	if an object is made of a material then that object has the properties of that material	gold
+28	Which material is the best natural resource to use for making water-resistant shoes?	question
+29	water is a kind of substance	nongold
+30	useful means good to use	nongold
+31	to be used for something means to be required by that something	nongold
+32	shoes are a kind of object	gold
+33	an object; material; substance comes from that object or material's source	nongold
+34	making something requires resources	nongold
+35	to put on means to wear	nongold
+36	leather	answer
+37	Which material is the best natural resource to use for making water-resistant shoes?	question
+38	leather is a kind of material	gold
+39	harm means injury	nongold
+40	leather is resistant to water	gold
+41	leather	answer
+42	water is a kind of object	nongold
+43	shoes are a kind of object	gold
+44	boots often are made of rubber	nongold
+45	Which material is the best natural resource to use for making water-resistant shoes?	question
+46	if an object is made of a material then that object has the properties of that material	gold
+47	water is a kind of natural resource	nongold
+48	harming something has a  negative impact on; effect on that something	nongold
+49	water-resistance is a property of objects; matter and includes ordered values of water-resistant; not water-resistant	gold
+50	a surface is a part of a material	nongold
+51	gloves often are made of rubber	nongold
+52	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+53	leather is a kind of natural resource	gold
+54	if two things are made from the same objects; material then those two things are similar	nongold
+55	leather is resistant to water	gold
+56	flexible means high flexibility	nongold
+57	an article of clothing is a kind of object	nongold
+58	Which material is the best natural resource to use for making water-resistant shoes?	question
+59	a body of water is a kind of environment	nongold
+60	to make possible means to be required	nongold
+61	if a material scratches easily then that material has low hardness	nongold
+62	leather is a kind of natural resource	gold

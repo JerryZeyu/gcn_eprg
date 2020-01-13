@@ -1,0 +1,60 @@
+0	a nature preserve is a kind of protected area	gold
+1	a plant is a kind of organism	nongold
+2	a forest contains  lots of plants; trees	nongold
+3	Creating nature preserves	answer
+4	creating is a kind of activity	gold
+5	an animal is a kind of organism	nongold
+6	to increase is similar to to create	nongold
+7	Creating nature preserves	answer
+8	a decomposer is a kind of living thing	nongold
+9	protecting nature has a positive impact on the environment	gold
+10	to form means to create	nongold
+11	fire causes harm to trees; to forests; to living things	nongold
+12	an ecosystem is a kind of habitat	nongold
+13	Which of these activities is most likely to have a positive impact on the environment of Earth?	question
+14	to impact means to affect	nongold
+15	Which of these activities is most likely to have a positive impact on the environment of Earth?	question
+16	decreasing something negative has a positive impact on a thing	nongold
+17	adding is a kind of activity	nongold
+18	a nature preserve is a kind of protected area	gold
+19	Which of these activities is most likely to have a positive impact on the environment of Earth?	question
+20	a person is a kind of animal	nongold
+21	a nature preserve is a kind of habitat	nongold
+22	a forest is a kind of ecosystem	nongold
+23	a nature preserve is a kind of protected area	gold
+24	Which of these activities is most likely to have a positive impact on the environment of Earth?	question
+25	conservation is often conserving natural resources	nongold
+26	Earth is a kind of planet	nongold
+27	An example of protecting the environment is creating protected areas	gold
+28	Creating nature preserves	answer
+29	a forest is a kind of environment	nongold
+30	Creating nature preserves	answer
+31	a plant requires a habitat for survival	nongold
+32	action means activity	nongold
+33	reproducing is a kind of activity	nongold
+34	the Earth contains many ecosystems	nongold
+35	change is a kind of impact	nongold
+36	an organism is a living thing	nongold
+37	an environment means an area	gold
+38	an environment is similar to an ecosystem	nongold
+39	national parks have a positive impact on ecosystems	nongold
+40	An example of protecting the environment is creating protected areas	gold
+41	creating is a kind of activity	gold
+42	nature means a natural environment	nongold
+43	an event is a kind of action	nongold
+44	a producer is a kind of living thing	nongold
+45	a process is a kind of event	nongold
+46	an environment means an area	gold
+47	a source of something emits; produces; generates; provides that something	nongold
+48	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+49	an environment means an area	gold
+50	causing is a kind of affecting	nongold
+51	a plant is a kind of living thing	nongold
+52	protecting nature has a positive impact on the environment	gold
+53	An example of protecting the environment is creating protected areas	gold
+54	protecting nature has a positive impact on the environment	gold
+55	if a living thing requires something then that something has a positive impact on that living thing	nongold
+56	affected means changed	nongold
+57	creating is a kind of activity	gold
+58	a positive impact is  a benefit	nongold
+59	action can cause change	nongold

@@ -1,0 +1,102 @@
+0	Which instrument would be best to measure the volume of a liquid?	question
+1	a graduated cylinder	answer
+2	a graduated cylinder is used to measure volume of a liquid; of an object	gold
+3	a graduated cylinder is a kind of instrument for measuring volume of liquids or objects	gold
+4	a graduated cylinder is a kind of container	nongold
+5	instrument means device	nongold
+6	a rain gauge is a kind of graduated cylinder	nongold
+7	instrument means tool	nongold
+8	density is a measure of mass of an object over volume; divided by volume	nongold
+9	a liquid is a kind of substance	nongold
+10	a liquid is a kind of fluid	nongold
+11	size; amount of space means volume	nongold
+12	a tool is a kind of object	nongold
+13	an instrument is a piece of equipment	nongold
+14	a device is a kind of object	nongold
+15	a container contains objects; material; substances	nongold
+16	objects are made of materials; substances; matter	nongold
+17	Matter in the gas phase has variable volume	nongold
+18	Matter in the liquid phase has definite volume	nongold
+19	the volume of an object can be used to describe  the size of that object	nongold
+20	matter; materials; substances are made of atoms; particles	nongold
+21	device means tool	nongold
+22	volume is a property of matter	nongold
+23	mass; weight is a property of matter; objects; materials	nongold
+24	length is a part of size	nongold
+25	a balance is a kind of instrument for measuring mass; measuring weight	nongold
+26	a container is a kind of object	nongold
+27	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+28	Matter in the solid phase has definite volume	nongold
+29	a balance is used for measuring mass;weight of an object; of a substance	nongold
+30	mass is a measure of the amount of matter in an object	nongold
+31	substances are made of matter	nongold
+32	a measuring cup is a kind of tool for measuring the volume of substances	nongold
+33	materials are made of matter	nongold
+34	milliliters is a kind of unit for measuring volume of liquids	nongold
+35	material means substance	nongold
+36	can be means able to be	nongold
+37	liters are a kind of unit for measuring volume of liquids	nongold
+38	particles in objects are a kind of matter	nongold
+39	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+40	a machine is a kind of  device	nongold
+41	form means kind	nongold
+42	mass is a property of objects; matter	nongold
+43	when a flexible container is filled with a substance , then the volume of the container will be the volume of the substance	nongold
+44	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+45	level is similar to amount; quantity	nongold
+46	length is a measure of distance from one end of an object to the other end of that object	nongold
+47	property is similar to measurement	nongold
+48	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+49	liquid is a kind of state of matter	nongold
+50	contents means the substance in a container	nongold
+51	water is a kind of matter	nongold
+52	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+53	weight is a property of objects; matter	nongold
+54	a type is synonymous with a kind	nongold
+55	calculation means measurement	nongold
+56	water is a kind of liquid at room temperature	nongold
+57	quantity means amount	nongold
+58	mass is similar to size	nongold
+59	height is a measure of length from the top of an object to the bottom of an object	nongold
+60	a barometer is a kind of instrument for measuring air pressure	nongold
+61	if an object is made of a material then that object has the properties of that material	nongold
+62	a scale is used for measuring weight	nongold
+63	variable means able to change	nongold
+64	measuring requires reading a measurement	nongold
+65	density is a property of an object; a substance and includes ordered values of dense; not dense	nongold
+66	height is a property of the size of an object	nongold
+67	determining often requires measuring; observing	nongold
+68	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+69	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+70	a tape measure is a kind of tool for measuring distance; measuring length	nongold
+71	gas is a kind of material	nongold
+72	composed of means made of	nongold
+73	measuring is used for describing an object	nongold
+74	a gram  is a kind of unit for measuring mass	nongold
+75	seconds are a kind of unit for measuring time	nongold
+76	greatest means largest; highest; most amount of something	nongold
+77	a measuring cup is used for measuring the volume of substances	nongold
+78	best means most positive	nongold
+79	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+80	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+81	air mass means a volume of air	nongold
+82	Matter in the liquid phase has variable shape	nongold
+83	temperature is a measure of heat energy	nongold
+84	a machine is a kind of object	nongold
+85	water is a kind of substance	nongold
+86	motion; movement means moving; to move	nongold
+87	to add means to increase	nongold
+88	milliliters ( mL ) is a metric unit used for measuring volume generally used for values between 1.0 and 1000.0	nongold
+89	length is a property of the shape of an object	nongold
+90	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+91	seconds are used to measure time	nongold
+92	high is similar to increase	nongold
+93	a surface is a part of a material	nongold
+94	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+95	a meter is a kind of unit for measuring distance; measuring length	nongold
+96	temperature changing can cause volume of the object to change	nongold
+97	to measure means to calculate	nongold
+98	Matter in the gas phase has variable shape	nongold
+99	higher means greater; above in value; amount; number	nongold
+100	affected means changed	nongold
+101	if an object is placed in a liquid , then the  increased volume of the liquid will be equal to the volume of that object	nongold

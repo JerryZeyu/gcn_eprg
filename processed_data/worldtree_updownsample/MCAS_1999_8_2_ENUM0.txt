@@ -1,0 +1,55 @@
+0	to try means to make an effort	nongold
+1	weather is  a measure of the condition of the air in a place at a certain time	nongold
+2	answering questions requires information	nongold
+3	technology is used for application of science	nongold
+4	system means a set of objects	nongold
+5	satellites	answer
+6	predicting weather requires studying weater	nongold
+7	usually means most of the time	nongold
+8	Which technological advancement has done the most to improve the accuracy of weather predictions?	question
+9	to improve the chances means to increase the likelihood	nongold
+10	to give is similar to to cause	nongold
+11	increase means more	nongold
+12	satellites are used to take images from space	nongold
+13	if something is required for a process then that something positively impacts that process	nongold
+14	causing means influencing	nongold
+15	satellites have had the greatest; most positive impact on the accuracy of weather predictions	gold
+16	satellites are a kind of technological advancement	gold
+17	Which technological advancement has done the most to improve the accuracy of weather predictions?	question
+18	high is similar to increase	nongold
+19	astronomy is a kind of branch of science	nongold
+20	satellites	answer
+21	satellites have had the greatest; most positive impact on the accuracy of weather predictions	gold
+22	to improve means to have a positive impact	gold
+23	a human is a kind of animal	nongold
+24	a measurement is a kind of data	nongold
+25	a hypothesis is a kind of scientific term	nongold
+26	something that happens is a kind of event	nongold
+27	to improve means to have a positive impact	gold
+28	best means most positive	nongold
+29	to improve means to have a positive impact	gold
+30	Which technological advancement has done the most to improve the accuracy of weather predictions?	question
+31	hypothesis means scientific guess about the cause and effect of an event	nongold
+32	a scientist is a kind of human	nongold
+33	calculation means measurement	nongold
+34	helping something has a  positive impact on that something	nongold
+35	events occur at a specific place; at a specific time; with a specific frequency	nongold
+36	windy is a kind of weather	nongold
+37	mostly means being the most	nongold
+38	satellites	answer
+39	helping means something can be done; completed more easily; better	nongold
+40	satellites have had the greatest; most positive impact on the accuracy of weather predictions	gold
+41	satellite technology is used for predicting the weather	nongold
+42	satellites are a kind of technological advancement	gold
+43	satellites	answer
+44	tornado is a kind of weather	nongold
+45	an increase is the opposite of a decrease	nongold
+46	a cloud is a kind of weather	nongold
+47	satellites are a kind of technological advancement	gold
+48	seconds are a kind of unit for measuring time	nongold
+49	a source of something increases the amount of that something	nongold
+50	weather is a source of wind and water for the weathering process	nongold
+51	a process usually requires all of the stages in that process	nongold
+52	Which technological advancement has done the most to improve the accuracy of weather predictions?	question
+53	can be means able to be	nongold
+54	how long something takes is a kind of measurement of time	nongold

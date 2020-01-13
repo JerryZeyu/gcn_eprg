@@ -1,0 +1,102 @@
+0	Which action is most likely a learned behavior?	question
+1	A lion cub practices its hunting skills.	answer
+2	skills are learned characteristics; behaviors	gold
+3	a lion is a kind of mammal	nongold
+4	a lion is a kind of animal	nongold
+5	action means activity	nongold
+6	if an animal is trained to do something then that something is a learned behavior	nongold
+7	actions mean behavior	nongold
+8	using tools is a learned characteristic	nongold
+9	hunting is a kind of action	gold
+10	a tiger is a kind of animal	nongold
+11	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+12	skills often require practice	gold
+13	an animal is a kind of living thing	nongold
+14	hunting; scavenging is a kind of skill	gold
+15	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+16	conditioned behavior is a kind of learned behavior	nongold
+17	following orders is a learned characteristic	nongold
+18	a living thing is a kind of object	nongold
+19	a bear is a kind of predator	nongold
+20	a learned characteristic is a kind of acquired characteristic	nongold
+21	animal instinct means instinctive behavior	nongold
+22	a mammal is a kind of animal	nongold
+23	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+24	hunting requires seeing; sensing prey	nongold
+25	hunting is when a human kills an animal for food; recreation in the wild	nongold
+26	a behavior is a kind of characteristic	nongold
+27	fur is usually part of a mammal	nongold
+28	a bear is a kind of animal	nongold
+29	doing chores is a learned characteristic	nongold
+30	playing with toys is a learned characteristic	nongold
+31	a monkey is a kind of mammal	nongold
+32	an organism eating is a kind of action	nongold
+33	a cheetah is a kind of animal	nongold
+34	performance is similar to ability	nongold
+35	an organism is a living thing	nongold
+36	cub is a kind of offspring	nongold
+37	hunting is when an animal kills another animal to eat that animal	nongold
+38	a human is a kind of mammal	nongold
+39	fur is a part of a monkey	nongold
+40	social behavior is a kind of learned behavior	nongold
+41	fur is often part of an animal	nongold
+42	doing something more is a kind of conditioned behavior	nongold
+43	an animal is a kind of organism	nongold
+44	a human is a kind of animal	nongold
+45	a panther is a kind of predator	nongold
+46	a jaguar is a kind of big cat	nongold
+47	leopard is a kind of animal	nongold
+48	trait is synonymous with characteristic	nongold
+49	ability is a kind of characteristic	nongold
+50	a cat is a kind of mammal	nongold
+51	a motion is a kind of event; action	nongold
+52	an animal knows how to do  instinctive behaviors when it is born	nongold
+53	a predator avoiding some types of prey is a learned behavior	nongold
+54	if an organism undertakes an action with a positive effect , then that organism will learn to do that action more	nongold
+55	an event is a kind of action	nongold
+56	panda is a kind of animal	nongold
+57	intelligence is an acquired characteristic	nongold
+58	a cat is a kind of carnivore	nongold
+59	communication is a learned behavior	nongold
+60	becoming is a kind of action	nongold
+61	if a living thing requires something then that something has a positive impact on that living thing	nongold
+62	motion; movement means moving; to move	nongold
+63	a predator is a kind of animal	nongold
+64	hunting means humans kill animals in the wild	nongold
+65	locomotion is a generally learned behavior	nongold
+66	animals learn some behaviors from watching their parents	nongold
+67	howling is a kind of behavior	nongold
+68	an animal; living thing requires nutrients for survival	nongold
+69	to demonstrate means to exhibit	nongold
+70	to enhance means to increase	nongold
+71	fighting is a kind of action	nongold
+72	forming is a kind of action	nongold
+73	a cat is a kind of animal	nongold
+74	a dog is a kind of animal	nongold
+75	an eagle is a kind of predator	nongold
+76	person is synonymous with human	nongold
+77	a tiger is big in size	nongold
+78	preferences are generally learned characteristics	nongold
+79	hunting; overhunting decreases animal populations	nongold
+80	to prey on an animal means to eat that animal	nongold
+81	an inherited characteristic is a kind of characteristic	nongold
+82	killing means changing a living thing from alive to dead by harming	nongold
+83	an elephant is a kind of animal	nongold
+84	a trick is a learned behavior	nongold
+85	action can cause change	nongold
+86	trait means property	nongold
+87	mammals birth; give birth to live young	nongold
+88	a kind of something is an example of that something	nongold
+89	prey  is a kind of animal	nongold
+90	lion eat zebras	nongold
+91	classifying is a kind of skill	nongold
+92	a coyote is a kind of animal	nongold
+93	a kangaroo is a kind of animal	nongold
+94	learning; studying information causes one to know that information	nongold
+95	often is similar to likely	nongold
+96	high is similar to increase	nongold
+97	an animal needs to eat food for nutrients	nongold
+98	a predator eats other animals for food	nongold
+99	adaptation is when an organism develops a trait over time for survival	nongold
+100	determining is similar to learning	nongold
+101	over hunting means overhunting	nongold

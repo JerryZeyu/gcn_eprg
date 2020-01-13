@@ -1,0 +1,102 @@
+Question	Which pair of items will repel each other?	question
+Answer	a negatively-charged plastic strip and a negatively-charged piece of cloth	answer
+0	if two objects; two materials have the same charge then those two objects; those two materials will repel each other	gold
+1	a strip is a kind of object	gold
+2	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	gold
+3	pair means two	gold
+4	cloth is a kind of material	gold
+5	an object is an item	gold
+6	repel means move away	nongold
+7	a piece of something is a kind of object	gold
+8	both means two	nongold
+9	a human is a kind of animal	nongold
+10	objects are made of materials; substances; matter	nongold
+11	an animal is a kind of living thing	nongold
+12	a living thing is a kind of object	nongold
+13	an animal is a kind of organism	nongold
+14	an article of clothing is a kind of object	nongold
+15	negatively charged particles are involved in chemical reactions	nongold
+16	a predator is a kind of animal	nongold
+17	exerting force on an object means a force acts on an object	nongold
+18	magnetism can cause objects to repel each other	nongold
+19	plastic is a kind of material made by humans	gold
+20	when two objects are touched; are contacted; move against each other , sound is produced	nongold
+21	person is synonymous with human	nongold
+22	material means substance	nongold
+23	counter means reduce; stop; resist	nongold
+24	a sheet of is similar to a piece of	nongold
+25	if an object is made of a material then that object has the properties of that material	gold
+26	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+27	to absorb means to capture	nongold
+28	a predator is a kind of enemy to its prey	nongold
+29	plastic is high in strength	nongold
+30	an event is a kind of action	nongold
+31	a person is a kind of animal	nongold
+32	plastic is recyclable	nongold
+33	to hurt means to harm	nongold
+34	to protect means to defend	nongold
+35	friction occurs when two object's surfaces move against each other	nongold
+36	push out means expel	nongold
+37	a body part is a kind of object	nongold
+38	a surface is a part of an object	nongold
+39	an organism is a living thing	nongold
+40	a source of something emits; produces; generates; provides that something	nongold
+41	touching is when a body part makes contact with the surface of an object	nongold
+42	colliding is a kind of touching	nongold
+43	to hit means to strike	nongold
+44	an electrical charge can attract objects to other objects	nongold
+45	if something strikes an object then that something may bounce off of that object	nongold
+46	harming something has a  negative impact on; effect on that something	nongold
+47	protecting something means preventing harm to that something	nongold
+48	plastic is durable	nongold
+49	negative impact is the opposite of positive impact	nongold
+50	affected means changed	nongold
+51	pair is a kind of combination	nongold
+52	reactive is the opposite of unreactive	nongold
+53	fighting is a kind of action	nongold
+54	to touch means to contact	nongold
+55	a landform is a kind of object	nongold
+56	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+57	fiber is a kind of material	nongold
+58	actions mean behavior	nongold
+59	a surface is a part of a material	nongold
+60	each is simiar to one	nongold
+61	a surface is a kind of object	nongold
+62	to combust means to catch fire	nongold
+63	motion; movement means moving; to move	nongold
+64	can be means able to be	nongold
+65	a panther is a kind of predator	nongold
+66	conductivity is a property of a material; substance	nongold
+67	an insect is a kind of animal	nongold
+68	an object; material; substance comes from that object or material's source	nongold
+69	an object is made of its parts	nongold
+70	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+71	a worm is a kind of animal	nongold
+72	an enemy is a threat	nongold
+73	impact means effect	nongold
+74	a predator eats other animals for food	nongold
+75	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+76	an object being pushed across another object causes their surfaces to move against each other	nongold
+77	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+78	a piece is a part of a whole	nongold
+79	a vehicle is a kind of object	nongold
+80	attract means move closer	nongold
+81	damage has a negative impact on a thing	nongold
+82	eating an animal; a plant means killing that animal; that plant	nongold
+83	a motion is a kind of event; action	nongold
+84	to act on means to affect	nongold
+85	damage means harm	nongold
+86	plastic is a kind of thermal insulator	nongold
+87	food is a kind of object	nongold
+88	prey  is a kind of animal	nongold
+89	if something is made of something; a material then that something contains that something; that material	nongold
+90	if a pole is facing a pole of the same direction then those two poles will repel each other	nongold
+91	extreme means very high in value	nongold
+92	non-reactive means unreactive	nongold
+93	feeling is when an living thing senses through touch	nongold
+94	an part of an object is smaller than the entire object	nongold
+95	revolving is a kind of action	nongold
+96	an object has properties	nongold
+97	pull is similar to attract	nongold
+98	when a force is applied to an object , that force is acting on that object	nongold
+99	a reptile is a kind of animal	nongold

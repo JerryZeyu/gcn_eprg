@@ -1,0 +1,63 @@
+0	a mammal is warm-blooded	nongold
+1	producing is similar to causing	nongold
+2	to add means to increase	nongold
+3	a cat is a kind of mammal	nongold
+4	a cycle happens; occurs repeatedly	nongold
+5	an animal is a kind of living thing	gold
+6	to cause means to make	nongold
+7	living things perform biological processes	gold
+8	to cause an event is similar to being involved in that event	nongold
+9	a living thing is made of cells	nongold
+10	a mammal is a kind of animal	gold
+11	an animal is a kind of eukaryote	nongold
+12	cell division often causes growth; healing	gold
+13	a mammal is a kind of animal	gold
+14	healing is a kind of biological process	gold
+15	to cause something means to contribute to that something happening	nongold
+16	to lead to means to cause	nongold
+17	Which biological process in mammals occurs largely due to cell division?	question
+18	cell division often causes growth; healing	gold
+19	to be a source of something means to cause that something	nongold
+20	living things perform biological processes	gold
+21	something that happens is a kind of event	nongold
+22	due to means caused by	gold
+23	cells are a part of the body	nongold
+24	healing	answer
+25	cell division often causes growth; healing	gold
+26	cell division increases the number of cells in the body	nongold
+27	Which biological process in mammals occurs largely due to cell division?	question
+28	forming is similar to converting	nongold
+29	usually means most of the time	nongold
+30	an animal is a kind of living thing	gold
+31	decomposition is a kind of process	nongold
+32	An example of healing is a broken bone growing back together	nongold
+33	healing is a kind of biological process	gold
+34	healing is a kind of biological process	gold
+35	if something causes a process then that something is required for that process	nongold
+36	living things perform biological processes	gold
+37	healing	answer
+38	to be formed by is to be the result of	nongold
+39	the parent cell is the original cell	nongold
+40	producing is a kind of process	nongold
+41	Which biological process in mammals occurs largely due to cell division?	question
+42	due to means caused by	gold
+43	biological means of biology	nongold
+44	a living thing is a kind of object	nongold
+45	removing an inhibitor of a process causes that process	nongold
+46	to split means to divide	nongold
+47	converting is similar to producing	nongold
+48	absorption is a kind of process	nongold
+49	a mammal is a kind of animal	gold
+50	a cell is a kind of object	nongold
+51	healing	answer
+52	to happen means to occur	nongold
+53	an animal is a kind of organism	nongold
+54	due to means caused by	gold
+55	a component of something means a part of that something	nongold
+56	Which biological process in mammals occurs largely due to cell division?	question
+57	an animal is a kind of living thing	gold
+58	healing requires rest; nutrients; energy	nongold
+59	a human cell is a kind of cell	nongold
+60	healing	answer
+61	to cause means to result in	nongold
+62	conversion is a kind of process	nongold

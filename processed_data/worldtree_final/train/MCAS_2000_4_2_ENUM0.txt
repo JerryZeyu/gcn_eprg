@@ -1,0 +1,102 @@
+0	Which environmental problem was directly caused by the invention of the automobile?	question
+1	increase in air pollution	answer
+2	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	gold
+3	developing means creating; inventing	nongold
+4	automobiles; industrialization are a source of carbon dioxide	nongold
+5	the automobile is a kind of technology	nongold
+6	using a car causes pollution	gold
+7	an automobile is a kind of vehicle	gold
+8	a car is a kind of automobile	nongold
+9	pollution is a kind of environmental problem	nongold
+10	inventing a tool allows; enables that tool to be used	nongold
+11	an invention is a kind of tool	nongold
+12	a car is a kind of vehicle	nongold
+13	many vehicles emit pollution into the air	gold
+14	humans usually develop inventions that they require	nongold
+15	an electric car is a kind of invention	nongold
+16	a problem has a negative impact on a thing	nongold
+17	pollution has a negative impact on the environment; air quality; water quality; society	gold
+18	an engine is a part of an automobile	nongold
+19	causing problems is a kind of negative impact	nongold
+20	a concern; a problem is a possible negative impact	gold
+21	pollution is a source of pollutants	nongold
+22	air is a part of the environment	nongold
+23	to make means to invent	nongold
+24	to reduce means to decrease	nongold
+25	increase means more	nongold
+26	a car is a kind of object	nongold
+27	a source of something increases the amount of that something	nongold
+28	polluting gasses are a kind of pollution	nongold
+29	humans cause pollution	nongold
+30	if something emits something else then that something increases the amount of that something else	gold
+31	address a problem means reduce a problem	nongold
+32	burning gasoline; oil is a source of air pollution	nongold
+33	instrument means device	nongold
+34	problem is similar to issue	nongold
+35	pollutants have a negative impact on the environment; air quality	nongold
+36	device means tool	nongold
+37	using an object often requires creating that object	nongold
+38	to cause means to have an effect	nongold
+39	to be a source of something means to cause that something	nongold
+40	atmosphere means  air	nongold
+41	the assembly line is a kind of invention	nongold
+42	to lower means to decrease	nongold
+43	an increase is a kind of change	nongold
+44	an increase is the opposite of a decrease	nongold
+45	high is similar to increase	nongold
+46	the invention of the airplane occurred in 1903	nongold
+47	global warming is a kind of environmental problem	nongold
+48	the atmosphere is a part of nature; the environment	nongold
+49	if something is made by something else then that something is affected by that something else	nongold
+50	air is a kind of gas	nongold
+51	a decrease is a kind of change	nongold
+52	operating an automobile usually requires fossil fuels	nongold
+53	if something causes an increase in something else then that something produces that something else	nongold
+54	a vehicle is a kind of object	nongold
+55	the air is a kind of substance	nongold
+56	the emission of something is when something is added into the atmosphere	nongold
+57	impact means effect	nongold
+58	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+59	as use of public transportation increases , the use of automobiles decreases	nongold
+60	water is when humans pollute the environment with pollutants	nongold
+61	a pollutant is a kind of substance	nongold
+62	causing is a kind of affecting	nongold
+63	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+64	harming something has a  negative impact on; effect on that something	nongold
+65	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+66	to add means to increase	nongold
+67	to cause something means to contribute to that something happening	nongold
+68	to cause means to make	nongold
+69	a source of something emits; produces; generates; provides that something	nongold
+70	as the cause of something decreases , that something will decrease	nongold
+71	a vehicle is used for transportation	nongold
+72	to change means to have an effect	nongold
+73	causing means influencing	nongold
+74	a device is a kind of object	nongold
+75	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+76	affected means changed	nongold
+77	change is a kind of impact	nongold
+78	an event is a kind of action	nongold
+79	due to means caused by	nongold
+80	to impact means to affect	nongold
+81	a car engine is a part of a car	nongold
+82	living things in a polluted environment often contain pollutants	nongold
+83	chemicals can be pollutants	nongold
+84	if something releases something else then that something else decreases in that something	nongold
+85	manufacture means make	nongold
+86	to be used for something means to be required by that something	nongold
+87	adverse effect means negative impact	nongold
+88	negative impact is the opposite of positive impact	nongold
+89	a vehicle for something allows; enables that something to occur	nongold
+90	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+91	creating is similar to causing	nongold
+92	a human is a kind of animal	nongold
+93	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+94	something harmful can cause harm	nongold
+95	if something comes from something else then that something else is a source of that something	nongold
+96	a machine is a kind of  device	nongold
+97	air is a kind of matter	nongold
+98	vapor is synonymous with gas	nongold
+99	an environment means an area	nongold
+100	gases released during the use of fossil fuels causes global warming	nongold
+101	instrument means tool	nongold

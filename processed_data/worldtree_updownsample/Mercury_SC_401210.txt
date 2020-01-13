@@ -1,0 +1,62 @@
+0	a ruler is used for measuring the length of an object	gold
+1	round means circular in shape	gold
+2	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+3	measuring requires reading a measurement	nongold
+4	a meter stick is a kind of tool for measuring length; measuring distance	nongold
+5	Which tool is used to measure the diameter of a dime?	question
+6	a dime is a kind of coin	gold
+7	round means circular in shape	gold
+8	a ruler is a kind of tool for measuring length	gold
+9	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+10	higher means greater; above in value; amount; number	nongold
+11	a centimeter is a kind of unit of measurement	nongold
+12	increase means more	nongold
+13	a ruler is used for measuring the length of an object	gold
+14	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+15	a coin is a kind of object	gold
+16	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+17	ruler	answer
+18	a piece of something is a kind of object	nongold
+19	material means substance	nongold
+20	diameter is a measure of length through the center of a circle	gold
+21	a ball is a kind of object	nongold
+22	Which tool is used to measure the diameter of a dime?	question
+23	a tool is a kind of object	nongold
+24	a lot means large in amount; quantity	nongold
+25	a cube is a kind of object	nongold
+26	larger means greater; higher; more; increase in size	nongold
+27	diameter is a measure of length through the center of a circle	gold
+28	property is similar to measurement	nongold
+29	a ruler is a kind of tool for measuring length	gold
+30	low means down	nongold
+31	diameter is a measure of length through the center of a circle	gold
+32	round means circular in shape	gold
+33	Which tool is used to measure the diameter of a dime?	question
+34	the volume of an object can be used to describe  the size of that object	nongold
+35	objects are made of materials; substances; matter	nongold
+36	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+37	height is a measure of length from the top of an object to the bottom of an object	nongold
+38	particles in objects are a kind of matter	nongold
+39	a desk is a kind of table	nongold
+40	Which tool is used to measure the diameter of a dime?	question
+41	greatest means largest; highest; most amount of something	nongold
+42	a coin is a kind of object	gold
+43	a musical instrument is a kind of object	nongold
+44	a dime is a kind of coin	gold
+45	seconds are used to measure time	nongold
+46	amount is similar to number	nongold
+47	ruler	answer
+48	a meter is a kind of unit for measuring distance; measuring length	nongold
+49	a desk usually has a length with values between 50.0 and 250 cm	nongold
+50	a balance is a kind of instrument for measuring mass; measuring weight	nongold
+51	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+52	volume is a property of matter	nongold
+53	a coin is a kind of object	gold
+54	a ruler is a kind of tool for measuring length	gold
+55	ruler	answer
+56	a centimeter is used for measuring short lengths; short distances	nongold
+57	to measure means to calculate	nongold
+58	a ruler is used for measuring the length of an object	gold
+59	a dime is a kind of coin	gold
+60	ruler	answer
+61	size; amount of space means volume	nongold

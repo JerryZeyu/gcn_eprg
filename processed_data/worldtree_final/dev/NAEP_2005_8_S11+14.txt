@@ -1,0 +1,102 @@
+0	A human CANNOT survive the loss of which of the following?	question
+1	The liver	answer
+2	a human cannot survive the loss of their liver	gold
+3	survive means live	nongold
+4	survive means live	nongold
+5	a liver is a kind of organ	nongold
+6	human is a kind of organism	nongold
+7	a human is a kind of animal	nongold
+8	dying is the opposite of living; surviving	nongold
+9	cannot means not be able to	nongold
+10	death means to die	nongold
+11	if a living thing dies then that living thing is dead	nongold
+12	an animal is a kind of organism	nongold
+13	if there is a loss of something then that something decreases	nongold
+14	loss is similar to removal	nongold
+15	loss is a kind of change	nongold
+16	survival means to survive	nongold
+17	an organism is a living thing	nongold
+18	an animal is a kind of living thing	nongold
+19	loss means reduction	nongold
+20	dead means not alive	nongold
+21	a person is a kind of animal	nongold
+22	live means to be alive	nongold
+23	the kidney removes; filters bodily waste; cell waste; byproducts from the blood	nongold
+24	a kidney is a kind of organ in an animal	nongold
+25	losing something decreases the amount of that something	nongold
+26	person is synonymous with human	nongold
+27	the liver is a part of the digestive system	nongold
+28	to lower means to decrease	nongold
+29	an animal requires enough nutrients to maintain good health; survive	nongold
+30	to lose means to have less of	nongold
+31	a liver is a part of an animal used in  digestion	nongold
+32	killing means changing a living thing from alive to dead by harming	nongold
+33	killing means harming something causing death	nongold
+34	an animal; bacterium requires oxygen for survival; to breathe	nongold
+35	nonliving; non-living; die is the opposite of living; alive; live	nongold
+36	once-living means dead	nongold
+37	an event is a kind of action	nongold
+38	requiring is similar to needing help	nongold
+39	a living thing is a kind of object	nongold
+40	life means living things	nongold
+41	destruction means loss	nongold
+42	greatest means largest; highest; most amount of something	nongold
+43	all the other means the rest of	nongold
+44	healthy means not having disease	nongold
+45	form means kind	nongold
+46	the body is a part of an organism	nongold
+47	a process usually requires all of the stages in that process	nongold
+48	remains mean parts of a dead organism	nongold
+49	a decrease is a kind of change	nongold
+50	less is similar to decrease	nongold
+51	an increase is the opposite of a decrease	nongold
+52	inhibitor means something that prevents something from happening	nongold
+53	events occur at a specific place; at a specific time; with a specific frequency	nongold
+54	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+55	the stomach is a kind of organ	nongold
+56	an animal; living thing requires nutrients for survival	nongold
+57	disease means illness	nongold
+58	blood absorbs oxygen in the lungs	nongold
+59	if an organism dies then that organism can not perform its function	nongold
+60	can be means able to be	nongold
+61	if something causes a process then that something is required for that process	nongold
+62	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+63	dead organisms are a source of disease	nongold
+64	a process is a kind of event	nongold
+65	low is similar to decrease	nongold
+66	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+67	cannot is the opposite of  can	nongold
+68	a worm is a kind of animal	nongold
+69	a motion is a kind of event; action	nongold
+70	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+71	a type is synonymous with a kind	nongold
+72	internal organs are a part of the body	nongold
+73	healing requires rest; nutrients; energy	nongold
+74	to happen means to occur	nongold
+75	an autoimmune disease is when the body attacks its own tissues	nongold
+76	able is the opposite of unable	nongold
+77	a component means a part of	nongold
+78	to reduce means to decrease	nongold
+79	a part of a process means a stage in a process	nongold
+80	the small intestine is a kind of organ	nongold
+81	affected means changed	nongold
+82	meat means dead animal for eating	nongold
+83	a human is a kind of mammal	nongold
+84	due to means caused by	nongold
+85	a source of something emits; produces; generates; provides that something	nongold
+86	if an organism dies then the population of that organism will decrease	nongold
+87	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+88	extreme means very high in value	nongold
+89	higher means greater; above in value; amount; number	nongold
+90	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+91	harming something has a  negative impact on; effect on that something	nongold
+92	if an event is required for a process then that event must occur before that process can occur	nongold
+93	a mammal is a kind of animal	nongold
+94	something that happens is a kind of event	nongold
+95	disease has a negative impact on an organism	nongold
+96	unit is similar to part	nongold
+97	most means over 50% of something	nongold
+98	a change is a kind of event	nongold
+99	too much is similar to increase	nongold
+100	the liver is located in the abdomen	nongold
+101	a component of something means a part of that something	nongold

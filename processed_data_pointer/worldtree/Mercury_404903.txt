@@ -1,0 +1,102 @@
+Question	If a child scrapes his foot on a piece of rusty metal, it is important to get medical treatment because the	question
+Answer	metal may be contaminated and cause infection.	answer
+0	scraping oneself on a contaminated object may cause infection	gold
+1	rusty metal is sometimes contaminated	gold
+2	infection often requires medical treatment	gold
+3	to scrape means to scratch	nongold
+4	rusty means having rust	nongold
+5	harming something has a  negative impact on; effect on that something	nongold
+6	something harmful can cause harm	nongold
+7	a piece of something is a kind of object	nongold
+8	harm means injury	nongold
+9	receiving a treat is a kind of positive effect	nongold
+10	if something has a positive impact on something else then that something is important to that something else	nongold
+11	metal is a kind of substance	nongold
+12	a child is a kind of young human	nongold
+13	if something requires something else then that something else is important to that something	nongold
+14	damage means harm	nongold
+15	metal is a kind of material	gold
+16	a germ is a kind of harmful substance	nongold
+17	chemical splashing can cause harm to humans; to the eyes	nongold
+18	a human is a kind of animal	nongold
+19	adverse effect means negative impact	nongold
+20	an animal is a kind of organism	nongold
+21	disease has a negative impact on an organism	nongold
+22	an animal is a kind of living thing	nongold
+23	requiring is similar to needing help	nongold
+24	a surface is a part of an object	nongold
+25	a surface is a part of a material	nongold
+26	to be used  for something means to help to do that something	nongold
+27	poison causes harm to living things; organisms	nongold
+28	helping something has a  positive impact on that something	nongold
+29	harming an organism can cause that organism to die	nongold
+30	surfaces sometimes cause objects to break	nongold
+31	negative impact is the opposite of positive impact	nongold
+32	a boy is a kind of young male human	nongold
+33	medicine can cause people to have bad reactions	nongold
+34	to help means to aid	nongold
+35	damage has a negative impact on a thing	nongold
+36	to help; to benefit means to be of use	nongold
+37	something dangerous can cause harm	nongold
+38	receive means get	nongold
+39	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+40	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+41	a foot is a part of some animals for walking	nongold
+42	burning a living thing usually causes harm to that living thing	nongold
+43	a living thing is a kind of object	nongold
+44	a piece of an object is smaller in size than the whole object	nongold
+45	human is a kind of organism	nongold
+46	toxic means poisonous	nongold
+47	a toe is a part of some animals	nongold
+48	if an object is made of a material then that object has the properties of that material	nongold
+49	person is synonymous with human	nongold
+50	metals are made of metal	nongold
+51	an organism is a living thing	nongold
+52	zinc has a positive impact on the healing of wounds	nongold
+53	material means substance	nongold
+54	metal rusts	nongold
+55	a baby is a kind of young animal	nongold
+56	hitting something causes harm to that something	nongold
+57	if a living thing requires something then that something has a positive impact on that living thing	nongold
+58	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+59	rust is a kind of substance	nongold
+60	dead organisms are a source of disease	nongold
+61	a surface is a kind of object	nongold
+62	protecting something means preventing harm to that something	nongold
+63	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+64	iron is a kind of metal	nongold
+65	steel is a kind of metal	nongold
+66	an part of an object is smaller than the entire object	nongold
+67	poisoning an environment means poisoning the organisms in that environment	nongold
+68	aluminum is a kind of metal	nongold
+69	medicine is used for curing people when they are sick	nongold
+70	debris can cause harm to an organism	nongold
+71	children; young is synonymous with offspring	nongold
+72	a person is a kind of animal	nongold
+73	food poisoning is a kind of illness	nongold
+74	if something causes a process then that something is required for that process	nongold
+75	a positive impact is a helpful effect	nongold
+76	death means to die	nongold
+77	a scratch is a kind of wound	nongold
+78	get rid of means eliminate; remove	nongold
+79	a bad reaction to medicine is a kind of problem	nongold
+80	to be required means to be necessary	nongold
+81	illness has a negative impact on an organism's health	nongold
+82	a negative impact is a kind of consequence; risk	nongold
+83	to be a source of something means to cause that something	nongold
+84	to hurt means to harm	nongold
+85	bacteria; viruses cause food poisoning	nongold
+86	a concern; a problem is a possible negative impact	nongold
+87	contaminated means polluted	nongold
+88	a tool is a kind of object	nongold
+89	best means most positive	nongold
+90	tearing is a kind of damage	nongold
+91	a cut is a kind of wound	nongold
+92	harming an animal species has a  negative impact on the population size of that species	nongold
+93	killing means harming something causing death	nongold
+94	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+95	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+96	to make something easier means to help	nongold
+97	to give is similar to to cause	nongold
+98	getting something increases the amount of that something	nongold
+99	scraping an object may cause small particles to break off of that object	nongold

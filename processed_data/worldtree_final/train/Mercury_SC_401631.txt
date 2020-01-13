@@ -1,0 +1,102 @@
+0	To use energy from the Sun to power household appliances, the solar energy must be converted to	question
+1	electrical energy.	answer
+2	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+3	household appliances are a kind of electrical device	gold
+4	solar power means solar energy	nongold
+5	operating electrical appliances requires electricity	nongold
+6	electric devices require electrical energy to function	gold
+7	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+8	the sun is a source of light; light energy called sunlight	nongold
+9	the sun is the source of solar energy called sunlight	gold
+10	solar energy is a source of electricity	nongold
+11	to transform means to convert	nongold
+12	where something  comes from is a source of that something	gold
+13	solar energy is a kind of energy	nongold
+14	to power means to provide energy for	gold
+15	if something is powered by something else then that something requires a source of that something else	nongold
+16	sunlight means solar energy	nongold
+17	to be used for something means to be required by that something	nongold
+18	solar energy is a renewable; inexhaustible resource	nongold
+19	energy conversion is similar to energy transformation	nongold
+20	sunlight is a kind of solar energy	nongold
+21	must have means require	nongold
+22	electrical energy is a kind of energy	nongold
+23	electricity is used as an energy source by electrical devices	gold
+24	electricity means electrical energy	nongold
+25	if something comes from something else then that something else is a source of that something	nongold
+26	the sun is a source of radiation; heat called sunlight	nongold
+27	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+28	if something is required then that something must be provided	nongold
+29	electrical devices are used for industrial purposes; household purposes by humans	nongold
+30	solar energy is a kind of heat energy	nongold
+31	requiring is similar to needing help	nongold
+32	requiring something means needing that something	nongold
+33	converting is similar to generating	nongold
+34	solar energy is a kind of light	nongold
+35	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+36	energy transformation means one kind of energy changes into another kind of energy	nongold
+37	to use means to utilize	nongold
+38	appliance is similar to technology	nongold
+39	converting is a kind of function	nongold
+40	a source of something emits; produces; generates; provides that something	nongold
+41	if something requires something else then that something requires a source of that something else	nongold
+42	the Sun is a kind of star	nongold
+43	the sun is the source of energy for life on Earth	nongold
+44	if something generates energy for something else then that something powers that something else	nongold
+45	to convert means to change	nongold
+46	the function of something is what that something  is used to do	nongold
+47	to turn means to convert	nongold
+48	resources sometimes are used for energy	nongold
+49	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+50	generating power is a kind of positive impact	nongold
+51	a food processor is a kind of household appliances	nongold
+52	a battery is a source of electrical energy; electricity	nongold
+53	to provide something means to be the source of that something	gold
+54	convert is similar to transfer	nongold
+55	if something is a raw material then that something comes directly from a source	nongold
+56	a  battery  is a kind of electrical power source	nongold
+57	an object; material; substance comes from that object or material's source	nongold
+58	converting is similar to producing	nongold
+59	an energy source is a kind of resource	nongold
+60	if something transfers something else then that something is a source of something else	nongold
+61	the sun  is the source of energy for physical cycles on Earth	nongold
+62	if something is a raw material in a process then that something is required for that process	nongold
+63	the solar system is a kind of system	nongold
+64	conversion is a kind of process	nongold
+65	to depend on; to rely on; to need means to require	nongold
+66	solar cells convert solar energy into electrical energy	nongold
+67	solar panels are a kind of power supplies	nongold
+68	household appliances are connected  in parallel circuit	nongold
+69	sunlight produces heat	nongold
+70	forming is similar to converting	nongold
+71	sunlight is a kind of light	nongold
+72	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+73	if something causes a process then that something is required for that process	nongold
+74	being used for is similar to providing	nongold
+75	to be required means to be necessary	nongold
+76	as a system; a device grows old , that system; device will use more energy	nongold
+77	a power plant converts chemical energy from energy source into electricity	nongold
+78	solar energy is an inexhaustible resource	nongold
+79	tool is similar to appliance	nongold
+80	sunshine means sunlight	nongold
+81	solar radiation means solar energy	nongold
+82	the sun is a kind of yellow dwarf	nongold
+83	light is a kind of energy	nongold
+84	light is a kind of energy	nongold
+85	a  plant requires sunlight for photosynthesis	nongold
+86	a source of something supplies that something	nongold
+87	a device requires energy to operate	nongold
+88	a producer is a source of energy for consumers	nongold
+89	a process usually requires all of the stages in that process	nongold
+90	electricity sometimes is used for heating buildings; substances	nongold
+91	if an event is required for a process then that event must occur before that process can occur	nongold
+92	producing renewable electric energy requires renewable resources	nongold
+93	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+94	heat is a kind of energy	nongold
+95	renewable is the opposite of nonrenewable	nongold
+96	a supply of something is a source of that something	nongold
+97	to create means to make	nongold
+98	if something gains something from something else then that something else is a source of that something	nongold
+99	green plants are a kind of producer	nongold
+100	a generator is a kind of  device	nongold
+101	using an object often requires creating that object	nongold

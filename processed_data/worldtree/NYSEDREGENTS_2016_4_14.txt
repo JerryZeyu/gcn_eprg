@@ -1,0 +1,102 @@
+Question	The number of daylight hours in New York State changes with the	question
+Answer	season of the year	answer
+0	New York; New York State is a state located in the United States of America	nongold
+1	when the season changes , the amount of daylight will change	gold
+2	daylight hours means time during which there is daylight	gold
+3	daylight means sunlight	nongold
+4	daylight occurs during the day	nongold
+5	amount of daylight means length of daylight	nongold
+6	a new season occurs once per 3.0 months	nongold
+7	the amount of daylight is least in the winter	nongold
+8	a new season occurs four times per year	nongold
+9	the amount of daylight is least on the winter solstice	nongold
+10	period of daylight is synonymous with amount of daylight	nongold
+11	the amount of daylight is greatest in the summer	nongold
+12	daytime means day	nongold
+13	the amount of daylight is greatest on the summer solstice	nongold
+14	amount is similar to number	gold
+15	hours are a kind of unit for measuring time	gold
+16	New York is closer to the North Pole than Florida	nongold
+17	each season occurs once per year	gold
+18	sunlight is a kind of light	nongold
+19	one is a kind of number	nongold
+20	summer is a kind of season	nongold
+21	the sunlight occurs during the day	nongold
+22	season is a major yearly temperature change	nongold
+23	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+24	the number of parts of something is a property of that something	nongold
+25	how many means what number	nongold
+26	years are a kind of unit for measuring time	nongold
+27	1 year is equal to 365 days	nongold
+28	daylight is when the sun shines on a location	nongold
+29	winter is a kind of season	nongold
+30	an increase is a kind of change	nongold
+31	daily means every day; once per day	nongold
+32	sunshine means sunlight	nongold
+33	sunlight means solar energy	nongold
+34	the Earth revolving around the Sun causes the seasons to change; to occur on its axis	nongold
+35	sunlight is a kind of solar energy	nongold
+36	different seasons occur during different times of the year	nongold
+37	annual means once per year	nongold
+38	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+39	the sun is a source of light; light energy called sunlight	nongold
+40	high is similar to increase	nongold
+41	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+42	spring is a kind of season	nongold
+43	the Earth being tilted on its rotating axis causes seasons	nongold
+44	winter is a part of the year	nongold
+45	new means different from the former one	nongold
+46	yearly means every year	nongold
+47	days are a kind of unit for measuring time	nongold
+48	when the seasons change from the summer to the fall , the amount of daylight will decrease	nongold
+49	1 day is equal to 24 hours	nongold
+50	every summer  is a kind of period of time	nongold
+51	seasons cause change to the environment	nongold
+52	intensity of sunlight is similar to amount of sunlight	nongold
+53	higher means greater; above in value; amount; number	nongold
+54	1 year is equal to 12 months	nongold
+55	once per means every	nongold
+56	to add means to increase	nongold
+57	lowest means least in value; amount; number	nongold
+58	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+59	summer has the most sunlight	nongold
+60	affected means changed	nongold
+61	winter is when a hemisphere is tilted away from the sun	nongold
+62	the day time is part of one day	nongold
+63	the night time is part of one day	nongold
+64	light year is a measure of the distance light travels in one year	nongold
+65	all the time means at day and at night	nongold
+66	winter is the opposite of summer	nongold
+67	old is the opposite of new	nongold
+68	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+69	an increase is the opposite of a decrease	nongold
+70	greatest means largest; highest; most amount of something	nongold
+71	winter means environmental; outdoor temperature decreases	nongold
+72	Yorkshire is a county located in England	nongold
+73	a decrease is a kind of change	nongold
+74	state of matter means physical state	nongold
+75	state means form	nongold
+76	Earth orbiting the Sun causes seasons to change	nongold
+77	phase means state	nongold
+78	Autumn is a kind of season	nongold
+79	four is a kind of number	nongold
+80	becoming is similar to changing	nongold
+81	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+82	to turn means to change	nongold
+83	summer is when a hemisphere is tilted towards the sun	nongold
+84	months are a kind of unit for measuring time	nongold
+85	same means identical; equal in value; amount; number; quantity	nongold
+86	adding something is a kind of change	nongold
+87	a state is a kind of place	nongold
+88	the afternoon is  a part of the day	nongold
+89	a phase of the moon is a kind of state	nongold
+90	physical state means state of matter	nongold
+91	to convert means to change	nongold
+92	unchanged means not changed	nongold
+93	many means high in number	nongold
+94	answering questions requires information	nongold
+95	monthly means once per month	nongold
+96	variable means able to change	nongold
+97	constant means not changing	nongold
+98	changed is the opposite of unchanged	nongold
+99	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold

@@ -1,0 +1,102 @@
+Question	What is the main function of scales on a fish?	question
+Answer	to protect the fish	answer
+0	scales are used for protection by scaled animals	gold
+1	a scale is a part of a fish	gold
+2	a fish is a kind of animal	gold
+3	a fish is a kind of aquatic animal	nongold
+4	a fish is a kind of predator	nongold
+5	a fish is a kind of scaled animal	gold
+6	the function of something is what that something  is used to do	nongold
+7	protecting is a kind of function	gold
+8	role means function	nongold
+9	a fish lives in water	nongold
+10	if something performs a task then that task is that something's function	nongold
+11	to protect means to defend	nongold
+12	an animal's scales are small in size	nongold
+13	scales are found on the skin of scaled animals	gold
+14	to be a vehicle for is a kind of function	nongold
+15	protecting something means preventing harm to that something	nongold
+16	purpose means role	nongold
+17	an aquatic animal is a kind of animal	nongold
+18	scales are a covering around the body of a scaled animal	nongold
+19	a scale is hard	gold
+20	something hard; something strong can be used for protection	gold
+21	function is similar to purpose	nongold
+22	an animal is a kind of living thing	nongold
+23	a shark is a kind of fish	nongold
+24	harming something has a  negative impact on; effect on that something	nongold
+25	a living thing is a kind of object	nongold
+26	providing is a kind of function	nongold
+27	something is used for that something's purpose	nongold
+28	causing is a kind of function	nongold
+29	to protect means to make safe	nongold
+30	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+31	an organism is a living thing	nongold
+32	fish eat insects	nongold
+33	predators eat prey	nongold
+34	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+35	a predator is a kind of animal	nongold
+36	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+37	an animal is a kind of organism	nongold
+38	prey  is a kind of animal	nongold
+39	role is similar to importance	nongold
+40	prey is a kind of food for predators	nongold
+41	a function is a kind of characteristic	nongold
+42	protection means resistance to damage increases	nongold
+43	a  fish is cold-blooded	nongold
+44	harm means danger	nongold
+45	covering something is a kind of protection	nongold
+46	a scale is used for measuring weight	nongold
+47	killing means harming something causing death	nongold
+48	part means role	nongold
+49	to serve as means to be used as	nongold
+50	to have a function is similar to to be responsible for	nongold
+51	damage means harm	nongold
+52	providing structure is a kind of function	nongold
+53	an animal is a member of an animal species	nongold
+54	to be used for something means to be required by that something	nongold
+55	harm means injury	nongold
+56	food is a kind of object	nongold
+57	a function is an activity	nongold
+58	aquatic animal means water animal	nongold
+59	a tool is a kind of object	nongold
+60	instrument means tool	nongold
+61	an part of an object is smaller than the entire object	nongold
+62	humans sometimes eat fish	nongold
+63	producing is a kind of function	nongold
+64	being  on something; placed in something; placed over something means touching  that something	nongold
+65	trait is synonymous with characteristic	nongold
+66	to prey on an animal means to eat that animal	nongold
+67	length is a part of size	nongold
+68	remora fish eat food by attaching themselves to sharks and eating the food left behind	nongold
+69	harming an animal species has a  negative impact on the population size of that species	nongold
+70	to work means to function	nongold
+71	attracting is a kind of function; activity	nongold
+72	fish is a kind of meat	nongold
+73	a mammal is a kind of animal	nongold
+74	an object is an item	nongold
+75	eating prey requires catching prey	nongold
+76	destroying is a kind of function	nongold
+77	function means job	nongold
+78	killing means changing a living thing from alive to dead by harming	nongold
+79	an instrument is a piece of equipment	nongold
+80	something dangerous can cause harm	nongold
+81	hiding is a kind of protection against predators; from predators	nongold
+82	a type is synonymous with a kind	nongold
+83	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+84	pollinating is a kind of function	nongold
+85	a surface is a part of an object	nongold
+86	something harmful can cause harm	nongold
+87	a predator usually kills its prey to eat it	nongold
+88	to hurt means to harm	nongold
+89	to be involved in something means to have a role in something	nongold
+90	living things carry out basic life functions	nongold
+91	moving something is a kind of function	nongold
+92	providing support is a kind of function	nongold
+93	producer is a kind of role in the food chain process; in an ecosystem	nongold
+94	saving an organism's life means preventing the death of that organism	nongold
+95	skin is used for protecting the body from harmful substances	nongold
+96	if something causes a process then that something is required for that process	nongold
+97	converting is a kind of function	nongold
+98	fish lay eggs	nongold
+99	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold

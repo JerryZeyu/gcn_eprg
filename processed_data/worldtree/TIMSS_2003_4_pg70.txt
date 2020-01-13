@@ -1,0 +1,102 @@
+Question	Kate sees a full moon. About how much time will go by before the next full moon?	question
+Answer	one month	answer
+0	a full moon occurs after a waxing gibbous moon	nongold
+1	months are a kind of unit for measuring time	gold
+2	a full moon is a kind of phase of the moon	gold
+3	month is a kind of period of time	nongold
+4	1 month is equal to 28-31 days	nongold
+5	how long something takes is a kind of measurement of time	nongold
+6	a rotation of the moon takes 1; one month	nongold
+7	a new moon occurs 14 days after a full moon	nongold
+8	each of the moon's phases occurs once per month	gold
+9	the day time is part of one day	nongold
+10	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+11	1 year is equal to 12 months	nongold
+12	monthly means once per month	nongold
+13	a revolution of the moon around the Earth takes 1; one month	gold
+14	days are a kind of unit for measuring time	nongold
+15	a moon is a kind of celestial object; body	nongold
+16	period is similar to amount of time	nongold
+17	June is a kind of month	nongold
+18	the night time is part of one day	nongold
+19	length of time means period of time	nongold
+20	1 year is equal to 365 days	nongold
+21	August is a kind of month	nongold
+22	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+23	a new moon is a kind of phase of the moon	nongold
+24	the new moon is when the dark half of the moon faces the Earth	nongold
+25	years are a kind of unit for measuring time	nongold
+26	once means one time	nongold
+27	quickly means in a short period of time	nongold
+28	the new moon is when the lighted half of the moon faces the Sun	nongold
+29	instantaneously means short in time	nongold
+30	once per means every	nongold
+31	moons are large; solid; spherical	nongold
+32	type of moon; kind of moon means moon phase	nongold
+33	hours are a kind of unit for measuring time	nongold
+34	events occur at a specific place; at a specific time; with a specific frequency	nongold
+35	the Moon is Earth's moon	nongold
+36	all the time means at day and at night	nongold
+37	annual means once per year	nongold
+38	high is similar to increase	nongold
+39	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+40	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+41	daily means every day; once per day	nongold
+42	1 day is equal to 24 hours	nongold
+43	a unit for measuring time is a kind of time interval	nongold
+44	to add means to increase	nongold
+45	a measure of time is a length of time	nongold
+46	December is a kind of month	nongold
+47	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+48	counting something usually requires seeing that something	nongold
+49	Tuesday is a kind of  time	nongold
+50	approximately means about	nongold
+51	greatest means largest; highest; most amount of something	nongold
+52	gradual means slow; over time	nongold
+53	to pass means to occur	nongold
+54	a moon phase occurs 28 days after the last time it occurred	nongold
+55	the first quarter phase of the moon occurs after the new moon	nongold
+56	to happen means to occur	nongold
+57	a different moon phase occurs once per week	nongold
+58	to slow; to slow down decreases speed	nongold
+59	to turn means to change	nongold
+60	a cycle happens; occurs repeatedly	nongold
+61	to see means to look	nongold
+62	shortest means the least amount of time	nongold
+63	a motion is a kind of event; action	nongold
+64	an increase is the opposite of a decrease	nongold
+65	minutes are a kind of unit for measuring time	nongold
+66	amount is similar to number	nongold
+67	low is similar to decrease	nongold
+68	rapidly means quickly	nongold
+69	one in  two means half; 50%	nongold
+70	sight means to see	nongold
+71	to lower means to decrease	nongold
+72	affected means changed	nongold
+73	to depend on; to rely on; to need means to require	nongold
+74	yearly means every year	nongold
+75	lowest means least in value; amount; number	nongold
+76	fast means quickly	nongold
+77	an increase is a kind of change	nongold
+78	seconds are a kind of unit for measuring time	nongold
+79	something that happens is a kind of event	nongold
+80	centuries are a kind of unit for measuring time	nongold
+81	both means two	nongold
+82	a phase of the moon is a kind of state	nongold
+83	the sun rising; setting occurs once per day	nongold
+84	take place means happen	nongold
+85	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+86	a process is a kind of event	nongold
+87	a watch;clock;stopwatch is used for measuring time	nongold
+88	form means kind	nongold
+89	one is a kind of number	nongold
+90	observe means see	nongold
+91	the moon orbiting the Earth occurs once per month	nongold
+92	the moon rising occurs once per day	nongold
+93	answering questions requires information	nongold
+94	a moon phase is a kind of natural event	nongold
+95	winter is a part of the year	nongold
+96	the moon revolving around; orbiting the Earth causes the phases of the moon	gold
+97	a change is a kind of event	nongold
+98	a last quarter is a kind of phase of the moon	nongold
+99	increase means more	nongold

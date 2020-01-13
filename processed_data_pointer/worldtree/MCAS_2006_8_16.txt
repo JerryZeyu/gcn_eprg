@@ -1,0 +1,102 @@
+Question	A researcher found shark fossils on top of a mountain. This evidence suggests which of the following about this region?	question
+Answer	It was once covered by an ocean.	answer
+0	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	gold
+1	a region is similar to an environment	nongold
+2	a mountain is a kind of land feature	nongold
+3	an ocean is a kind of body of water	gold
+4	sharks live in oceans	gold
+5	a mountain top is a part of a mountain	nongold
+6	mountain top is a kind of location	nongold
+7	a mountain is made of rocks; soil	nongold
+8	a mountain; hill is taller than the land around it	nongold
+9	mountain is a kind of geographic obstacles	nongold
+10	a shark is a kind of fish	gold
+11	an environment means an area	nongold
+12	region means place	gold
+13	a region is a kind of location	nongold
+14	oceans cover 70% of the surface of the earth	nongold
+15	a mountain is a kind of landform	gold
+16	researcher is a kind of scientist	nongold
+17	if two or more continents have similar fossils; rocks then those continents probably once were a single landmass	nongold
+18	the surface of the Earth contains mountains	nongold
+19	fossil means preserved remains of ancient organisms	nongold
+20	a mountain is taller than a hill	nongold
+21	an aquatic animal is a kind of animal	nongold
+22	once means one time	nongold
+23	an environment is a kind of place	nongold
+24	a mountain is high in altitude	nongold
+25	once-living means dead	nongold
+26	if something used to be in the past then that something  has changed	nongold
+27	a hill is a kind of place	nongold
+28	no longer means used to be	nongold
+29	a mountain; mountain range is a kind of environment	nongold
+30	a body of water is a kind of environment	nongold
+31	landform means surface feature; physical feature; land feature	nongold
+32	sea means ocean	nongold
+33	aquatic animal means water animal	gold
+34	under water means covered by water; in water	nongold
+35	a body of water is a kind of land feature	nongold
+36	oceans are located on Earth	nongold
+37	prehistoric means before 300000000 years ago	nongold
+38	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	gold
+39	bodies of water are located on Earth's surface	nongold
+40	a whale shark is a kind of shark	nongold
+41	at the top of a place means at the highest point of the place	nongold
+42	the surface of the Moon contains mountains	nongold
+43	an animal is a kind of living thing	nongold
+44	summit means the top of the mountain	nongold
+45	an animal is a kind of organism	nongold
+46	a fish is a kind of aquatic animal	nongold
+47	preserved means from the past; from long ago	nongold
+48	a fish is a kind of animal	nongold
+49	mountains are formed by earthquakes; volcanoes; plate tectonics	nongold
+50	hills are a kind of small mountain	nongold
+51	land is a kind of landform	nongold
+52	oceans contains most of  earth's water	nongold
+53	a landform is a kind of place	nongold
+54	a landform is a kind of place	gold
+55	if something is a part of something then that something can be found in that something	nongold
+56	if two or more continents seem to fit together like pieces of a puzzle then those continents probably once were a single landmass	nongold
+57	an ocean is a kind of habitat	nongold
+58	an ocean contains waves	nongold
+59	a deep sea animal is a kind of marine organism	nongold
+60	a continent is a kind of large land mass	nongold
+61	water is a part of an environment	nongold
+62	the ground is at the bottom of an area	nongold
+63	land is a kind of environment	nongold
+64	organisms are located on Earth's surface	nongold
+65	many mountain ranges are no longer covered in water	nongold
+66	the surface of the Earth is made of 70% ocean	nongold
+67	if two or more continents have similar rocks of similar ages then those continents probably once were a single landmass	nongold
+68	ocean animal is similar to water animal	nongold
+69	an island is a kind of landform	nongold
+70	organisms lived in the water when they first appeared on Earth	nongold
+71	area is similar to location	nongold
+72	if rocks in an area have many scratches then that area was once covered by glaciers	nongold
+73	most predators live in; live near the same environment as their prey	nongold
+74	aquatic animals; plants live in bodies of water	gold
+75	if the surface of an object contains something then that object is covered with that something	nongold
+76	if something exists on a surface then that surface contains that something	nongold
+77	organisms are a part of an environment	nongold
+78	fossils are formed when layers of sediment cover the remains of organisms over time	nongold
+79	a continent is a kind of location	nongold
+80	environments changing can cause layers of rock that are near each other or on top of each other to have different amounts of fossils; different kinds of rock	nongold
+81	Earth's surface is made of rock	nongold
+82	a body of water contains water	nongold
+83	history occurred a long time ago	nongold
+84	organisms can be found in their habitats	nongold
+85	a living thing is a kind of object	nongold
+86	the bottom is the lowest part of something	nongold
+87	rock is a kind of nonliving thing	nongold
+88	history means the past	nongold
+89	fish have been on Earth for 419000000 years	nongold
+90	a coast is where land meets the edge of a body of water	nongold
+91	a fish lives in water	gold
+92	conclusions can be drawn about changes in organisms over time by determining the age of fossils of those organisms	nongold
+93	high mountains with well-rounded peaks can be formed by collision of crustal plates; erosion	nongold
+94	animals; living things live and feed in their habitats; near their habitats	nongold
+95	a rock is a kind of object	nongold
+96	approximately means about	nongold
+97	an environment is similar to an ecosystem	nongold
+98	a fish is a kind of predator	nongold
+99	a fish is a kind of scaled animal	nongold

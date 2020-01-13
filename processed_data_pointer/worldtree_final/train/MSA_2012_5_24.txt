@@ -1,0 +1,102 @@
+0	a surface is a kind of object	nongold
+1	thermal insulation requires covering the conductor with an insulator	nongold
+2	person is synonymous with human	nongold
+3	rubber is usually flexible	nongold
+4	wiring requires an electrical conductor	nongold
+5	covering something is a kind of protection	nongold
+6	electricity is used as an energy source by electrical devices	nongold
+7	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+8	an insulator is the opposite of a conductor	gold
+9	an object has properties	nongold
+10	substances are made of matter	nongold
+11	plastic is a kind of material made by humans	gold
+12	all elements are a kind of pure substance	nongold
+13	electrocution causes harm to an organism	gold
+14	metal is sometimes magnetic	nongold
+15	a thermal conductor is made of materials that conduct thermal energy	nongold
+16	if something is made of something; a material then that something contains that something; that material	nongold
+17	a machine is a kind of object	nongold
+18	a wire is a kind of path for electricity	nongold
+19	electric devices require electrical energy to function	nongold
+20	electricity means electrical energy	gold
+21	a surface is a part of a material	nongold
+22	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+23	plastic is high in strength	nongold
+24	plastic is a kind of thermal insulator	nongold
+25	a  rubber eraser is made of rubber	nongold
+26	materials are made of matter	nongold
+27	a wire is a part of an electrical circuit for conducting electricity	nongold
+28	an insulator is a kind of material	nongold
+29	electrical current means electrical energy	nongold
+30	an animal is a kind of living thing	nongold
+31	electrical insulation requires wrapping a conductor in an insulator	nongold
+32	a physical property is a kind of property	nongold
+33	a person is a kind of animal	nongold
+34	An electrical conductor is a vehicle for the flow of electricity	nongold
+35	electrical current running through a wire causes that wire to heat up; to become warm	nongold
+36	not is similar to the opposite of	nongold
+37	rubber is a kind of solid	nongold
+38	metal is a kind of material	nongold
+39	to be used for something means to be required by that something	nongold
+40	a living thing is a kind of object	nongold
+41	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+42	conductivity is a kind of physical property	nongold
+43	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+44	metal is a kind of substance	nongold
+45	rubber is a kind of material	gold
+46	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+47	if two things are made from the same objects; material then those two things are similar	nongold
+48	an element is a kind of material	nongold
+49	a circuit is a kind of electrical component	nongold
+50	substances are made of elements	nongold
+51	electricity is made of moving charges; moving charged particles	nongold
+52	Most electrical wires are covered with plastic or rubber. The wires are covered with plastic or rubber because those materials	question
+53	metal is usually flexible	nongold
+54	an object; material; substance comes from that object or material's source	nongold
+55	an electrical device requires electricity to turn on	nongold
+56	are not conductors of electricity	answer
+57	a wire is a kind of object	nongold
+58	friction converts mechanical energy into heat energy	nongold
+59	an object is made of its parts	nongold
+60	a wire is usually made of metal	nongold
+61	a source of something emits; produces; generates; provides that something	nongold
+62	rubber is a kind of nonmetal	nongold
+63	a larger power source provides more current to a wire; a conductor; an electromagnet	nongold
+64	a good conductor is a conductor	nongold
+65	plastic is usually translucent	nongold
+66	a human is a kind of animal	nongold
+67	a complete electrical circuit is a source of  electrical energy	nongold
+68	plastic is a kind of electrical insulator	nongold
+69	if an object is made of a material then that object has the properties of that material	nongold
+70	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+71	the function of something is what that something  is used to do	nongold
+72	electrical signals are made of electrical energy	nongold
+73	an insulator is insulated	nongold
+74	a chemical property is the opposite of a physical property	nongold
+75	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	gold
+76	when an electrical circuit is working properly , electrical current runs through that circuit; the wires in that circuit	nongold
+77	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+78	electrical devices are used for industrial purposes; household purposes by humans	nongold
+79	if the surface of an object contains something then that object is covered with that something	nongold
+80	plastic is usually an electrical insulator	gold
+81	wax is an electrical; electrical energy insulator	nongold
+82	rubber is thermal;thermal energy insulator	gold
+83	if one electrical conductor contacts another electrical conductor then electricity will flow through both conductors	nongold
+84	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+85	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+86	a surface is a part of an object	nongold
+87	water is an thermal; thermal energy conductor	nongold
+88	an electrical insulator slows; prevents the transfer of; flow of electricity	gold
+89	heat means heat energy	nongold
+90	rubber is durable	nongold
+91	metal is a thermal; thermal energy conductor	nongold
+92	plastic is always nonmagnetic	nongold
+93	a covering is a kind of object	nongold
+94	material means substance	nongold
+95	a device is a kind of object	nongold
+96	metal is an  electrical; electrical energy conductor	nongold
+97	different materials usually have different properties	nongold
+98	can be means able to be	nongold
+99	conductivity is a property of a material; substance	nongold
+100	objects are made of materials; substances; matter	nongold
+101	conductivity is a measure of how easily electricity travels through a material	nongold

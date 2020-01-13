@@ -1,0 +1,102 @@
+Question	A student observes a glowing band across the night sky. This glowing band is most likely	question
+Answer	a partial view of the Milky Way galaxy.	answer
+0	the Milky Way galaxy appears as a glowing band across the night sky	gold
+1	the Milky Way is a kind of galaxy	nongold
+2	the Milky Way is a kind of spiral galaxy	nongold
+3	Earth is located in the Milky Way Galaxy	nongold
+4	to view means to see	nongold
+5	the Sun is located near the edge of the Milky Way Galaxy	nongold
+6	a galaxy is a kind of celestial body; celestial object	nongold
+7	a galaxy is a kind of celestial body	nongold
+8	look at means observe	nongold
+9	a galaxy is made of stars	nongold
+10	if something is visible , then that something can be observed	nongold
+11	a student is a kind of human	nongold
+12	observe means see	nongold
+13	visible means able to be seen	nongold
+14	a galaxy is made of a group of objects in space	nongold
+15	viewing means observing light	nongold
+16	to see means to look	nongold
+17	a galaxy is a kind of very large system of stars	nongold
+18	a galaxy contains dust; stars; planets	nongold
+19	milk is a kind of liquid at room temperature	nongold
+20	a star is a kind of celestial object; celestial body	nongold
+21	a galaxy is held together by gravity	nongold
+22	sunlight is a kind of light	nongold
+23	observable means visible	nongold
+24	light is a kind of wave	nongold
+25	galaxies are located  millions of light years from Earth	nongold
+26	a spiral galaxy is a kind of galaxy	nongold
+27	astronomy is the study of celestial (objects, bodies)	nongold
+28	a halo is a part of a galaxy	nongold
+29	light reflecting off of an object causes that object to be visible to the observer	nongold
+30	a elliptical galaxy is a kind of galaxy	nongold
+31	visible light is a kind of  light	nongold
+32	eyes can sense;detect light energy for seeing	nongold
+33	looking is similar to observing	nongold
+34	seeing requires light	nongold
+35	a living thing is a kind of object	nongold
+36	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+37	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+38	sight means to see	nongold
+39	a galaxy is a kind of structure	nongold
+40	if an object reflects light toward the eye then that object can be seen	nongold
+41	to get a better look at means to see better	nongold
+42	night is low in light; in visibility	nongold
+43	a nebula is a kind of celestial body	nongold
+44	to reflect light means to scatter light	nongold
+45	liquid is a kind of state of matter	nongold
+46	galaxies often contain hundreds of billions of stars	nongold
+47	a landform is a kind of object	nongold
+48	a typical galaxy contains billions of stars	nongold
+49	a human is a kind of animal	nongold
+50	the stars in the night sky are very far away from the Earth	nongold
+51	the sun is not a star in the night sky	nongold
+52	a star produces light and heat	nongold
+53	waves can travel through matter	nongold
+54	stars are located light years apart from each other	nongold
+55	a wave is a kind of object	nongold
+56	a white dwarf is a kind of star	nongold
+57	the night time is part of one day	nongold
+58	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+59	galaxies are usually thousands of light years in diameter	nongold
+60	seeing is used for sensing visual things	nongold
+61	can be means able to be	nongold
+62	eyes are a part of a human for seeing	nongold
+63	the sky is similar to space	nongold
+64	often is similar to likely	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	reflecting light; sound is the opposite of absorbing light; sound	nongold
+67	image means visual depiction of an object	nongold
+68	a moon is a kind of celestial object; body	nongold
+69	main-sequences stars are a kind of star	nongold
+70	an irregular galaxy is a kind of galaxy	nongold
+71	to watch means to look at	nongold
+72	an animal is a kind of living thing	nongold
+73	nighttime means night	nongold
+74	a star is formed by collapsing clouds of gas and dust	nongold
+75	stellar means related to stars	nongold
+76	UV light is a kind of light	nongold
+77	the Sun is a kind of star	nongold
+78	a type is synonymous with a kind	nongold
+79	light means light energy	nongold
+80	a physical property is a kind of property	nongold
+81	temperature is a measure of heat energy	nongold
+82	if an object reflects more light then that object is more easily seen	nongold
+83	not visible means cannot be seen	nongold
+84	heat means heat energy	nongold
+85	a constellation contains stars	nongold
+86	an object is made of its parts	nongold
+87	a star is a source of light; light energy through nuclear reactions	nongold
+88	the location of an object can be used to describe that object	nongold
+89	sunlight is intense in space	nongold
+90	electromagnetic spectrum is bands; ranges of frequencies of light waves	nongold
+91	milk is a kind of food	nongold
+92	milk is a kind of food	nongold
+93	revolving  around something means orbiting that something	nongold
+94	cycles of day and night occur once per day	nongold
+95	a yellow dwarf is a kind of main-sequence star	nongold
+96	to bounce back means to reflect	nongold
+97	a liquid is a kind of substance	nongold
+98	Proxima Centauri is a kind of star	nongold
+99	yellow dwarf is a kind of small star	nongold

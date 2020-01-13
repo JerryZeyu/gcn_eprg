@@ -1,0 +1,102 @@
+Question	The temperature of water in a glass changes from 5°C to -1°C. How will the water most likely change?	question
+Answer	It will freeze.	answer
+0	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+1	glass is a kind of solid at room temperature	nongold
+2	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold
+3	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+4	freezing means cold temperatures	nongold
+5	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+6	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+7	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+8	a glass contains water	nongold
+9	liquid water cooling causes that liquid water to freeze	nongold
+10	cooling means temperature decreases	nongold
+11	freezing is a kind of phase change	nongold
+12	cold means low in temperature	nongold
+13	water is a kind of liquid at room temperature	gold
+14	ice is a kind of solid	nongold
+15	colder; cooler means lower in temperature	nongold
+16	ice is colder than water in temperature	nongold
+17	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+18	an increase is a kind of change	nongold
+19	frozen means solid	nongold
+20	solid is a kind of state of matter	nongold
+21	liquid is a kind of state of matter	nongold
+22	ice is cold in temperature	nongold
+23	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+24	glass is a kind of material	nongold
+25	a decrease is a kind of change	nongold
+26	water is a kind of substance	nongold
+27	to add means to increase	nongold
+28	glass is a kind of open container	nongold
+29	temperature is a measure of heat energy	gold
+30	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+31	an increase is the opposite of a decrease	nongold
+32	glass is a kind of object	nongold
+33	heat means heat energy	nongold
+34	something in a cold place becomes cold	nongold
+35	icy means made of ice	nongold
+36	melting is a kind of phase change	nongold
+37	temperature changing can cause phase changes	nongold
+38	ice is a kind of water phase	nongold
+39	to reduce means to decrease	gold
+40	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+41	cool means cold	nongold
+42	temperature drop means cooling	nongold
+43	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+44	cycles of freezing and thawing water cause ice wedging	nongold
+45	ice is a kind of object	nongold
+46	heat energy can change the state of matter	nongold
+47	a liquid is a kind of substance	nongold
+48	to lower means to decrease	nongold
+49	water is a kind of matter	nongold
+50	freezing point is similar to melting point	nongold
+51	water expanding when it freezes is a physical property of water	nongold
+52	a solid is a kind of substance	nongold
+53	heat means temperature increases	nongold
+54	when water freezes , that water expands	nongold
+55	high is similar to increase	nongold
+56	adding heat means increasing temperature	nongold
+57	gas is a kind of state of matter	nongold
+58	variable means able to change	nongold
+59	temperature drop means temperature decrease	nongold
+60	phase means state	nongold
+61	temperature is a property of weather	nongold
+62	freezing causes a solid to form	nongold
+63	ice is a kind of food	nongold
+64	low is similar to decrease	nongold
+65	a phase change is a kind of physical change	nongold
+66	if something is  cold in temperature , then something will be cold to touch	nongold
+67	melting is when solids are heated above their melting point	nongold
+68	water is a kind of water phase	nongold
+69	temperature  rise means temperature increase	nongold
+70	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+71	temperature drop means become colder	nongold
+72	glass is a kind of medium	nongold
+73	increase means more	nongold
+74	water is a kind of object	nongold
+75	hot means high in heat energy; temperature	nongold
+76	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+77	heating means adding heat	nongold
+78	less is similar to decrease	nongold
+79	evaporating is a kind of phase change	nongold
+80	physical state means state of matter	nongold
+81	volume has no impact on boiling; melting; freezing point	nongold
+82	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+83	a container contains objects; material; substances	nongold
+84	affected means changed	nongold
+85	to change means to cause a change	nongold
+86	cooling is a kind of condition	nongold
+87	cold is a kind of weather	nongold
+88	state of matter means physical state	nongold
+89	if an object is touching a warmer object , then the  cooler  object will increase in temperature until two objects reach the same temperature	nongold
+90	cooler means colder	nongold
+91	an ice cube is a kind of solid	nongold
+92	objects are made of materials; substances; matter	nongold
+93	warmer means greater; higher in temperature; warmth	nongold
+94	substances are made of matter	nongold
+95	a freezer is used for cooling things	nongold
+96	staying means not changing	nongold
+97	an ice cube is a kind of object	nongold
+98	to slow; to slow down decreases speed	nongold
+99	gas is a kind of substance	nongold

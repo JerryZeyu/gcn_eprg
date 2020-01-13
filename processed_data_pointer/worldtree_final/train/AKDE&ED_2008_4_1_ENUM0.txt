@@ -1,0 +1,101 @@
+0	classifying	answer
+1	can be means able to be	nongold
+2	circular means having the shape of a circle	nongold
+3	stay the same means not changing	nongold
+4	living things in the same class are  more closely related than living things in different classes	nongold
+5	to be characterized by  a property means to have that property	nongold
+6	a leaf is often green in color	nongold
+7	another means different	nongold
+8	the properties of something are used for describing that something	nongold
+9	grouping means putting; placing in different groups	gold
+10	if something is definite in shape then that something will not change shape easily	nongold
+11	classify is similar to characterize	nongold
+12	to group means to separate	nongold
+13	species means a group of like organisms	nongold
+14	a leaf is a kind of object	gold
+15	identical is the opposite of different	nongold
+16	studying is similar to observing	nongold
+17	objects are made of materials; substances; matter	nongold
+18	straight is a kind of shape	nongold
+19	a part of a process means a stage in a process	nongold
+20	person is synonymous with human	nongold
+21	to tell the difference between things means to classify those things	nongold
+22	shape is a property of an object	gold
+23	a tool is a kind of object	nongold
+24	characteristic means property	nongold
+25	a plant; living thing requires food for survival	nongold
+26	to distinguish means to tell the difference between	nongold
+27	an object is made of its parts	nongold
+28	classification is a kind of process	nongold
+29	a human is a kind of animal	nongold
+30	affected means changed	nongold
+31	change is a kind of process	nongold
+32	classifying is a kind of skill	nongold
+33	leaves are sometimes brown in color	nongold
+34	trees of different species have differently shaped leaves	nongold
+35	a plant is a kind of organism	nongold
+36	an part of an object is smaller than the entire object	nongold
+37	a student is a kind of human	nongold
+38	shape is a kind of physical property	nongold
+39	together means in a group	nongold
+40	a living thing is a kind of object	nongold
+41	a structure of something is synonymous with a part of that something	nongold
+42	a tree is a kind of living thing	nongold
+43	form means kind	nongold
+44	an animal is a kind of living thing	nongold
+45	an event is a kind of action	nongold
+46	if an object is made of something then the parts of that object are made of that something	nongold
+47	a plant is a kind of living thing	nongold
+48	each is similar to individual	nongold
+49	a type is synonymous with a kind	nongold
+50	structure is similar to shape	nongold
+51	an organism is a living thing	nongold
+52	a person is a kind of animal	nongold
+53	to categorize means to classify	nongold
+54	to classify means to decide what class something belongs to	nongold
+55	definite shape means the shape of an object stays the same when moved to different spot	nongold
+56	shape is a property of the appearance of an object	nongold
+57	trait is synonymous with characteristic	nongold
+58	sorting is similar to classifying	nongold
+59	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+60	a fern is a kind of plant	nongold
+61	the shape  of an object can be discovered through feeling that object; touching that object	nongold
+62	leaves changing color is a kind of process	nongold
+63	to belong to a group means to be classified in that group	nongold
+64	not is similar to the opposite of	nongold
+65	shape of the parts of something is a property of that something	nongold
+66	a kind of something is classified as that something	nongold
+67	a leaf is small in size	nongold
+68	a kind of something is an example of that something	nongold
+69	to change means to become different	nongold
+70	a leaf is a part of a tree	nongold
+71	system means a set of objects	nongold
+72	a leaf is a part of a  green plant	nongold
+73	unique  is the opposite of diverse	nongold
+74	to be made of something means to be formed of that something	nongold
+75	classifying means grouping objects; materials by their properties	gold
+76	an animal is a kind of organism	nongold
+77	the properties of something can be used to identify; used to describe that something	nongold
+78	opposite is a kind of different	nongold
+79	a circle is a kind of shape	nongold
+80	classifying requires comparing	nongold
+81	a leaf is a kind of plant	nongold
+82	if two organisms are more closely related , then the two  organisms will be classifed in a class	nongold
+83	a process is a kind of event	nongold
+84	classifying is when one sorts something by kind; type	nongold
+85	category means kind	nongold
+86	studying  something usually requires seeing that something	nongold
+87	an insect is a kind of animal	nongold
+88	classifying is a kind of science process	gold
+89	a tree is a kind of plant	nongold
+90	Students are studying some leaves. They group the leaves by shape. Which science process are the students using when they put the leaves in different groups?	question
+91	different is the opposite of the same	nongold
+92	plant parts are made of plants	nongold
+93	a flower is a kind of object	nongold
+94	shape is a kind of characteristic	nongold
+95	to belong to a class means to be a kind of something	nongold
+96	human is similar to individual	nongold
+97	to belong to a group means to be a kind of something	nongold
+98	a leaf performs photosynthesis; gas exchange	nongold
+99	process is similar to method	nongold
+100	composition is a property of an object; matter	nongold

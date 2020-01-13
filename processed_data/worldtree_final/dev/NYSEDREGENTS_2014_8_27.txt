@@ -1,0 +1,102 @@
+0	Which weather condition commonly occurs along a cold front?	question
+1	precipitation	answer
+2	precipitation is a kind of weather	gold
+3	rain is a kind of precipitation	nongold
+4	typically means usually	nongold
+5	temperature is a kind of condition	nongold
+6	cold is a kind of weather	nongold
+7	weather is  a measure of the condition of the air in a place at a certain time	nongold
+8	weather  usually happens in troposphere	nongold
+9	An example of stormy weather is rain	nongold
+10	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+11	storm is a kind of weather; weather event	nongold
+12	freezing means cold temperatures	nongold
+13	rainfall means precipitation	nongold
+14	snow is a kind of precipitation	nongold
+15	climate is the usual kind of weather in a location over a period of time	nongold
+16	a warm front causes cloudy and rainy weather	nongold
+17	precipitation is a property of weather	nongold
+18	rain; snow falls	nongold
+19	precipitation is when water falls from the sky	nongold
+20	cold fronts cause thunderstorms as they pass by	gold
+21	snowstorm is a kind of weather	nongold
+22	temperature is a property of weather	nongold
+23	winter has cold temperatures;weather	nongold
+24	a storm is a source of precipitation	gold
+25	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+26	to happen means to occur	nongold
+27	rain is a kind of water	nongold
+28	ice is cold in temperature	nongold
+29	rainfall means the amount of precipitation	nongold
+30	rainstorm means rain storm	nongold
+31	precipitation is a kind of natural occurrence; cause	nongold
+32	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+33	something in a cold place becomes cold	nongold
+34	if a jet stream moves south of a location then that location will experience cold weather	nongold
+35	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+36	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+37	condition is a property of an environment	nongold
+38	to lower means to decrease	nongold
+39	cold means low in temperature	nongold
+40	a cold front is when a cooler air mass moves into contact with an area of warmer air	nongold
+41	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+42	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+43	a thunderstorm is a kind of storm	gold
+44	motion is when moves an object; something to a direction	nongold
+45	events occur at a specific place; at a specific time; with a specific frequency	nongold
+46	rainy is a kind of weather	nongold
+47	rainfall is the amount of rain an area receives	nongold
+48	hail is a kind of precipitation; ice	nongold
+49	a blizzard is a kind of storm	nongold
+50	cooling is a kind of condition	nongold
+51	cloudy is a kind of sky condition	nongold
+52	a warm front is when warm air mass rises and passes over; collides a cold air mass	nongold
+53	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+54	colder; cooler means lower in temperature	nongold
+55	ice is colder than water in temperature	nongold
+56	cloudy is a kind of  weather	nongold
+57	a motion is a kind of event; action	nongold
+58	something that happens is a kind of event	nongold
+59	snow is a kind of ice	nongold
+60	an area receiving rain means rain falling in that area	nongold
+61	snow is cold	nongold
+62	affected means changed	nongold
+63	extreme means very high in value	nongold
+64	an increase is a kind of change	nongold
+65	a climate is synonymous with an environment	nongold
+66	a decrease is a kind of change	nongold
+67	weather is a property of a environment	nongold
+68	average amount of precipitation is a property of climate	nongold
+69	an event is a kind of action	nongold
+70	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+71	usually means most of the time	nongold
+72	a change is a kind of event	nongold
+73	water vapor has an impact on weather conditions associated with an air mass	nongold
+74	condition means the state of the property	nongold
+75	freezing is a kind of phase change	nongold
+76	to reduce means to decrease	nongold
+77	if weather is stormy then there is a greater chance of rain	nongold
+78	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+79	snowing is when snow fall from clouds to the Earth;ground	nongold
+80	snowfall means the amount of precipitation in snow form	nongold
+81	temperature is a measure of heat energy	nongold
+82	ice is a kind of solid	nongold
+83	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+84	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+85	ice is a kind of object	nongold
+86	pressure is a kind of condition	nongold
+87	summer has hot temperatures; weather	nongold
+88	event is similar to occurrence	nongold
+89	windy is a kind of weather	nongold
+90	sky conditions are a property of weather	nongold
+91	high is similar to increase	nongold
+92	to change means to cause a change	nongold
+93	low is similar to decrease	nongold
+94	a cloud is a kind of weather	nongold
+95	an increase is the opposite of a decrease	nongold
+96	intense means extreme	nongold
+97	cloudy conditions cause a low-pressure weather system	nongold
+98	a process is a kind of event	nongold
+99	water is a kind of liquid at room temperature	nongold
+100	cycles of freezing and thawing water cause ice wedging	nongold
+101	wind speed is a property of weather	nongold

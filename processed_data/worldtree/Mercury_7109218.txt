@@ -1,0 +1,102 @@
+Question	Which region of the Milky Way contains a population that consists mostly of old stars?	question
+Answer	the halo	answer
+0	a halo contains mostly old stars	gold
+1	the Milky Way is a kind of galaxy	gold
+2	mostly means being the most	nongold
+3	contains means located in	nongold
+4	a halo is a part of a galaxy	gold
+5	Earth is located in the Milky Way Galaxy	nongold
+6	to be made of means to consist of	nongold
+7	the Milky Way is a kind of spiral galaxy	nongold
+8	the Milky Way galaxy appears as a glowing band across the night sky	nongold
+9	made up of means contains; made of	nongold
+10	to be found in means to be contained in	nongold
+11	if something is a part of something else then that something else contains that something	nongold
+12	the Sun is located near the edge of the Milky Way Galaxy	nongold
+13	a star is a kind of celestial object; celestial body	nongold
+14	to contain something means to have that something	nongold
+15	region means place	nongold
+16	if something absorbs something else then that something will contain that something else	nongold
+17	to contain means to have inside	nongold
+18	old is the opposite of new	nongold
+19	made of is similar to contains	nongold
+20	an animal is a kind of living thing	nongold
+21	if something is made of something; a material then that something contains that something; that material	nongold
+22	if something is a source of something else then that something usually contains that something else	nongold
+23	stellar means related to stars	nongold
+24	a region is a kind of location	nongold
+25	milk is a kind of liquid at room temperature	nongold
+26	a human is a kind of animal	nongold
+27	an animal is a kind of organism	nongold
+28	a population is made of one type of organism in an area	nongold
+29	an organism is a living thing	nongold
+30	a galaxy is made of stars	nongold
+31	a type is synonymous with a kind	nongold
+32	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+33	contain is similar to store	nongold
+34	a galaxy contains dust; stars; planets	nongold
+35	a white dwarf is a kind of star	nongold
+36	ancient means a long time in the past	nongold
+37	a star is a source of light; light energy through nuclear reactions	nongold
+38	to be filled with means to contain	nongold
+39	a region is similar to an environment	nongold
+40	a living thing is a kind of object	nongold
+41	milk is a kind of food	nongold
+42	milk is a kind of food	nongold
+43	a galaxy is a kind of very large system of stars	nongold
+44	a community is made of many types of organisms in an area	nongold
+45	a typical galaxy contains billions of stars	nongold
+46	most means over 50% of something	nongold
+47	to carry something means to contain something	nongold
+48	if something does not contain something else then that something lacks that something else	nongold
+49	composed of means made of	nongold
+50	a whole is formed by its parts	nongold
+51	a yellow dwarf is a kind of main-sequence star	nongold
+52	the photosphere is a kind of region of the sun	nongold
+53	no longer means used to be	nongold
+54	if something is a part of something then that something can be found in that something	nongold
+55	new means different from the former one	nongold
+56	can be means able to be	nongold
+57	a type of something is a kind of property of that something	nongold
+58	a cluster of stars is made of stars	nongold
+59	astronomy is the study of celestial (objects, bodies)	nongold
+60	including means containing	nongold
+61	yellow dwarf is a kind of small star	nongold
+62	a star is formed by collapsing clouds of gas and dust	nongold
+63	a star produces light and heat	nongold
+64	to be made of something means to be formed of that something	nongold
+65	galaxies often contain hundreds of billions of stars	nongold
+66	a source of something emits; produces; generates; provides that something	nongold
+67	usually means most of the time	nongold
+68	an event is a kind of action	nongold
+69	the Sun is a kind of star	nongold
+70	preserved means from the past; from long ago	nongold
+71	composition is a property of an object; matter	nongold
+72	main-sequences stars are a kind of star	nongold
+73	many means high in number	nongold
+74	a constellation contains stars	nongold
+75	light is a kind of wave	nongold
+76	the solar system contains the moon	nongold
+77	an object is made of its parts	nongold
+78	astronomy is a kind of branch of science	nongold
+79	system means a set of objects	nongold
+80	concentration means amount	nongold
+81	a landform is a kind of object	nongold
+82	a galaxy is a kind of celestial body; celestial object	nongold
+83	the effect of halos is when light reflects off the ice crystals in the atmosphere	nongold
+84	a structure of something is synonymous with a part of that something	nongold
+85	a liquid is a kind of substance	nongold
+86	stars can be classified by temperature; color; chemical composition; brightness	nongold
+87	a galaxy is a kind of celestial body	nongold
+88	a star is made of gases	nongold
+89	a physical property is a kind of property	nongold
+90	a component means a part of	nongold
+91	region is similar to range	nongold
+92	nucleus is synonymous with core; center	nongold
+93	classifying is when one sorts something by kind; type	nongold
+94	Saturn is a kind of planet	nongold
+95	to belong to a group means to be a kind of something	nongold
+96	to be formed by is similar to being produced by	nongold
+97	answering questions requires information	nongold
+98	the sun is a kind of yellow dwarf	nongold
+99	typically means usually	nongold

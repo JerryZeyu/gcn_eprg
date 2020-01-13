@@ -1,0 +1,101 @@
+0	form means kind	nongold
+1	mostly means being the most	nongold
+2	an object has properties	nongold
+3	a piece is a part of a whole	nongold
+4	recycling is similar to reusing	nongold
+5	affected means changed	nongold
+6	recyclable means a material can be recycled	gold
+7	recycling reduces; decreases the amount of waste sent to landfills	nongold
+8	recycling is a kind of method of disposal	nongold
+9	an object; material; substance comes from that object or material's source	nongold
+10	a source of something emits; produces; generates; provides that something	nongold
+11	can be means able to be	nongold
+12	generally means usually	nongold
+13	a paper clip is a kind of object	nongold
+14	to cause means to make	nongold
+15	usually people learn how to read and write in school	nongold
+16	replacing is similar to recycling	nongold
+17	replace means change from one thing into  another	nongold
+18	going to school generally occurs during the day	nongold
+19	a laptop is a kind of computer	nongold
+20	typically means usually	nongold
+21	identical means copy	nongold
+22	if a resource is limited in supply then that resource should be recycled	nongold
+23	garbage means waste	nongold
+24	a piece of something is a kind of object	nongold
+25	a paper bag is a kind of object	nongold
+26	largest amount means most	nongold
+27	recycling reduces the resources needed to make something	nongold
+28	medium is similar to average	nongold
+29	an object is made of its parts	nongold
+30	processes sometimes produce waste products	nongold
+31	an eraser is a kind of solid	nongold
+32	recycling is a kind of action	nongold
+33	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+34	cardboard is a kind of material	nongold
+35	answering questions requires information	nongold
+36	paper is a kind of material	gold
+37	trash is synonymous with waste	nongold
+38	best means most positive	nongold
+39	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+40	person is synonymous with human	nongold
+41	to be made of is similar to collection	nongold
+42	a classroom is a kind of a room	nongold
+43	to create means to make	nongold
+44	to contain means to have inside	nongold
+45	high-quality means positive	nongold
+46	if an object is made of a material then that object has the properties of that material	nongold
+47	to slow; to slow down decreases speed	nongold
+48	a sheet of is similar to a piece of	nongold
+49	to recycle means return	nongold
+50	dead organisms are a kind of waste	nongold
+51	if something is a raw material in a process then that something is required for that process	nongold
+52	recycling has a  positive impact on the environment	nongold
+53	if something is made of something; a material then that something contains that something; that material	nongold
+54	a newspaper is made of paper	nongold
+55	a paper is a kind of object	nongold
+56	a component means a part of	nongold
+57	to be formed by is similar to being produced by	nongold
+58	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+59	An example of avoiding waste is using an object; a material more than once	nongold
+60	most means over 50% of something	nongold
+61	a surface is a part of a material	nongold
+62	greatest means largest; highest; most amount of something	nongold
+63	Which material is most easily recycled at school?	question
+64	an object is an item	nongold
+65	recycling means using over again	nongold
+66	a sheet of paper is a kind of object	nongold
+67	a book is a kind of object	nongold
+68	An example of recycling is using an object to make a new object	nongold
+69	recycling means reusing	nongold
+70	paper burns	nongold
+71	an eraser is a kind of object	nongold
+72	a tool is a kind of object	nongold
+73	a human is a kind of animal	nongold
+74	material means substance	nongold
+75	waste has a  negative impact on the environment	nongold
+76	to be used for something means to be required by that something	nongold
+77	an part of an object is smaller than the entire object	nongold
+78	high is similar to increase	nongold
+79	structure is a property of an object; a material; a substance	nongold
+80	notebook paper	answer
+81	made up of means contains; made of	nongold
+82	objects are made of materials; substances; matter	nongold
+83	lowest means least in value; amount; number	nongold
+84	composed of means made of	nongold
+85	a pencil is a kind of object	nongold
+86	paper is recyclable	gold
+87	a student is a kind of human	nongold
+88	to conserve means to not change	nongold
+89	a kind of something is an example of that something	nongold
+90	trees are a source of paper	nongold
+91	no longer means used to be	nongold
+92	made of is similar to contains	nongold
+93	a material is a kind of resource	nongold
+94	paper is not durable	nongold
+95	if something causes a process then that something is required for that process	nongold
+96	make means produce	nongold
+97	a type is synonymous with a kind	nongold
+98	usually means most of the time	nongold
+99	composition means the (materials, substances) of which something is composed	nongold
+100	a room is a kind of object	nongold

@@ -1,0 +1,102 @@
+Question	What safety rule is most important for students to follow when working with acids and bases?	question
+Answer	put on safety goggles	answer
+0	safety goggles are a kind of safety gear	nongold
+1	goggles are a kind of object	nongold
+2	safety goggles are used for protecting the eyes during experiments	gold
+3	wearing safety goggles is a kind of safe practice in a laboratory	gold
+4	protecting something means preventing harm to that something	nongold
+5	if something requires something else then that something else is important to that something	nongold
+6	to protect means to make safe	gold
+7	a student is a kind of human	gold
+8	harming something has a  negative impact on; effect on that something	nongold
+9	neutralization is when an acid and a base react to form water and salt	nongold
+10	if something has a positive impact on something else then that something is important to that something else	nongold
+11	a base is basic	gold
+12	a human is a kind of animal	nongold
+13	a tool is a kind of object	nongold
+14	instrument means tool	nongold
+15	something hard; something strong can be used for protection	nongold
+16	acidity is a property of chemicals; substances and includes ordered values of basic; neutral; acidic	gold
+17	objects are made of materials; substances; matter	nongold
+18	an acid is corrosive	nongold
+19	if an object is made of a material then that object has the properties of that material	nongold
+20	acid can cause chemical change	nongold
+21	harm means danger	nongold
+22	negative impact is the opposite of positive impact	nongold
+23	protection means resistance to damage increases	nongold
+24	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+25	to put on means to wear	gold
+26	an acid is acidic	gold
+27	a device is a kind of object	nongold
+28	an instrument is a piece of equipment	nongold
+29	adverse effect means negative impact	nongold
+30	damage means harm	nongold
+31	instrument means device	nongold
+32	warning people of dangers has a positive impact on the safety of those people	nongold
+33	helping something has a  positive impact on that something	nongold
+34	metal is a kind of material	nongold
+35	chemical splashing can cause harm to humans; to the eyes	gold
+36	a molecule is a kind of object	nongold
+37	requiring is similar to needing help	nongold
+38	chemicals means substances	nongold
+39	to hurt means to harm	nongold
+40	substances have chemical properties	nongold
+41	compound is a kind of chemical	nongold
+42	something dangerous can cause harm	nongold
+43	an animal is a kind of living thing	nongold
+44	being  on something; placed in something; placed over something means touching  that something	nongold
+45	substances are made of molecules	nongold
+46	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+47	harm means injury	nongold
+48	best means most positive	nongold
+49	a negative impact is a kind of consequence; risk	nongold
+50	person is synonymous with human	nongold
+51	an event is a kind of action	nongold
+52	to protect means to defend	nongold
+53	inhibitor means something that prevents something from happening	nongold
+54	good means positive	nongold
+55	damage has a negative impact on a thing	nongold
+56	if something is  chemically unreactive , then something will not show a lot of chemical activity	nongold
+57	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+58	an animal is a kind of organism	nongold
+59	danger has a negative impact on a thing	nongold
+60	an part of an object is smaller than the entire object	nongold
+61	a person should be careful about something dangerous	nongold
+62	hydrochloric acid is a kind of acid	nongold
+63	the chemistry of something is similar to what that something is made of	nongold
+64	something harmful can cause harm	nongold
+65	a chemical reaction is a kind of process	nongold
+66	materials are made of matter	nongold
+67	the function of something is what that something  is used to do	nongold
+68	a chemical compound is a kind of compound	nongold
+69	tool is similar to appliance	nongold
+70	pH is a measure of acidity of a substance ranging from 0 to 14	nongold
+71	solution is similar to a positive impact	nongold
+72	An example of a chemical change is acid breaking down substances	nongold
+73	to work means to function	nongold
+74	substances are made of matter	nongold
+75	a process is a kind of event	nongold
+76	proteins are made of a chain of 20 amino acids	nongold
+77	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+78	covering something is a kind of protection	nongold
+79	impact means effect	nongold
+80	An example of a chemical property is how a material reacts chemically	nongold
+81	safe is the opposite of unsafe; harm; danger	nongold
+82	an insulator is a kind of material	nongold
+83	death means to die	nongold
+84	a compound is a kind of material	nongold
+85	device means tool	nongold
+86	combustibility is a kind of  chemical property	nongold
+87	answering questions requires information	nongold
+88	a living thing is a kind of object	nongold
+89	chemical splashing sometimes occurs during experiments	gold
+90	structure is a property of an object; a material; a substance	nongold
+91	high is similar to increase	nongold
+92	chemical reactions cause chemical change	nongold
+93	a process usually requires all of the stages in that process	nongold
+94	meat is made of amino acids	nongold
+95	a source of something emits; produces; generates; provides that something	nongold
+96	chemical change is a kind of chemical reaction	nongold
+97	a reaction is a kind of process	nongold
+98	preparing for an experiment in a laboratory requires practicing safety	nongold
+99	a sharp object can be used for protection	nongold

@@ -1,0 +1,102 @@
+Question	Four different students take turns pushing a large, heavy ball on the school parking lot. What is the best way to determine which student used the most force to push the ball?	question
+Answer	compare the distances that the ball rolled	answer
+0	comparing requires measuring	gold
+1	pushing an object requires force	gold
+2	distance moved; distance travelled is a measure of how far an object moves	nongold
+3	a roll is a kind of movement	gold
+4	determining often requires measuring; observing	gold
+5	a ball is a kind of object	gold
+6	rolling is a kind of motion	nongold
+7	push is a kind of force; application of force	nongold
+8	pushing is a kind of motion	nongold
+9	comparing requires observing that something	nongold
+10	as the mass of an object increases , the force required to push that object will increase	nongold
+11	round objects roll	nongold
+12	a student is a kind of human	nongold
+13	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+14	rolling over is a kind of action	nongold
+15	as force exerted on an object increases , distance travelled will increase	gold
+16	motion; movement means moving; to move	nongold
+17	pushing something can cause that something  to move	nongold
+18	turning is a kind of motion	nongold
+19	force causes the speed of an object to increase; to decrease	nongold
+20	An example of hitting something is dropping an object onto that something	nongold
+21	larger means greater; higher; more; increase in size	nongold
+22	far means great in distance	nongold
+23	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+24	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+25	a force is a kind of push or pull on an object	nongold
+26	hitting is a kind of motion	nongold
+27	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+28	an object being pushed across another object causes their surfaces to move against each other	nongold
+29	rolling down is similar to falling	nongold
+30	a human is a kind of animal	nongold
+31	a pull is a kind of force	nongold
+32	greatest means largest; highest; most amount of something	nongold
+33	mechanical energy exerted by an object can be used to push or pull another object	nongold
+34	a kick is a kind of push	nongold
+35	a surface is a part of an object	nongold
+36	a motion is a kind of event; action	nongold
+37	the kinetic energy of an object can change from kinetic energy to sound energy by hitting another object	nongold
+38	weight means the force of gravity acting on an object	nongold
+39	speed is a measure of how fast an object is moving	nongold
+40	if an object slides across another object then those objects are touching	nongold
+41	as an object moves faster , the kinetic energy of that object will increase	nongold
+42	An example of an object with kinetic energy is an object in motion	nongold
+43	to bump means to hit	nongold
+44	increase means more	gold
+45	if something strikes an object then that something may bounce off of that object	nongold
+46	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+47	wheels; gears usually move against other surfaces	nongold
+48	motion is a source of kinetic energy in an object	nongold
+49	the mass of an object causes the gravitational force exerted by that object	nongold
+50	force requires energy	nongold
+51	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+52	high is similar to increase	nongold
+53	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+54	an increase is a kind of change	nongold
+55	smaller means less; lower in size	nongold
+56	to land on the ground means to hit the ground	nongold
+57	kinetic energy is a kind of mechanical energy	nongold
+58	if an object is kicked then force is exerted on that object	nongold
+59	Weight is  the  force of gravity acting on an object	nongold
+60	a surface is a kind of object	nongold
+61	to slow; to slow down decreases speed	nongold
+62	furthest; farthest means greatest; most; highest in distance	nongold
+63	if a wheel travels on a surface then the wheel touches that surface	nongold
+64	hitting something causes harm to that something	nongold
+65	moving is similar to travelling	nongold
+66	seconds are used to measure time	nongold
+67	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+68	sliding is a kind of motion	nongold
+69	parking is a kind of  stopping	nongold
+70	turns is similar to changes	nongold
+71	a force acting on an object in the opposite direction that the object is moving can cause that object's speed to decrease in a forward motion	nongold
+72	a lot means large in amount; quantity	nongold
+73	as the speed of an object increases , the force that object exerts will increase	nongold
+74	changes potential energy into kinetic energy through motion	nongold
+75	as kinetic energy of an object increases , that object will travel faster	nongold
+76	additional force is similar to outside force	nongold
+77	as the mass of an object increases , the force of gravity on that object will increase	nongold
+78	heavy means a large amount of weight	nongold
+79	a balance is used for measuring mass;weight of an object; of a substance	nongold
+80	sliding is a kind of movement	nongold
+81	skidding is a kind of motion	nongold
+82	friction causes the speed of an object to decrease	nongold
+83	as the amount of heat energy of a substance; of an object increases , the amount of kinetic energy will increase	nongold
+84	a vehicle is a kind of object	nongold
+85	gravity accelerates an object while that object falls by pulling on it	nongold
+86	friction is a kind of force	nongold
+87	as the power of the force exerted on an object increases , the speed with which that object is moved will increase	nongold
+88	producing thrust causes something; an animal; an object to move	nongold
+89	dropping something causes that something to fall	nongold
+90	a lever is used for lifting;moving heavy objects	nongold
+91	thrust means to push in a given direction	nongold
+92	length is a measure of distance from one end of an object to the other end of that object	nongold
+93	a measure of time is a length of time	nongold
+94	mechanical force is a kind of mechanical energy	nongold
+95	objects are made of materials; substances; matter	nongold
+96	a tool is a kind of object	nongold
+97	as the  amount of heat energy of a substance; of an object decreases , the amount of kinetic energy will decrease	nongold
+98	moving changes position	nongold
+99	breaking down an object changes that object's shape and that object's mass	nongold

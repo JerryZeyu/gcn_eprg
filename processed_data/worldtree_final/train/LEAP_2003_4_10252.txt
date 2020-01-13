@@ -1,0 +1,101 @@
+0	A rock sample will most likely contain	question
+1	minerals.	answer
+2	rock is made of minerals	gold
+3	a mineral is a kind of solid; natural material	nongold
+4	sample is similar to small amount of substance; matter	nongold
+5	to be found in means to be contained in	nongold
+6	a mineral is a kind of object	nongold
+7	if something is made of something; a material then that something contains that something; that material	nongold
+8	if something is a part of something else then that something else contains that something	nongold
+9	to contain means to have inside	nongold
+10	if something absorbs something else then that something will contain that something else	nongold
+11	rock is a kind of material	nongold
+12	answering questions requires information	nongold
+13	to contain something means to have that something	nongold
+14	contains means located in	nongold
+15	a rock is a kind of object	nongold
+16	made of is similar to contains	nongold
+17	contain is similar to store	nongold
+18	some minerals are nutrients	nongold
+19	material means substance	nongold
+20	all minerals are formed by natural geological processes	nongold
+21	minerals are a nonrenewable resource	nongold
+22	if something does not contain something else then that something lacks that something else	nongold
+23	often is similar to likely	nongold
+24	if something is a source of something else then that something usually contains that something else	nongold
+25	if something is a part of something then that something can be found in that something	nongold
+26	made up of means contains; made of	gold
+27	containing something is similar to providing that something	nongold
+28	gypsum is a kind of mineral	nongold
+29	if something contains something , then something is able to provide something	nongold
+30	rock is a kind of nonliving thing	nongold
+31	hypothesis means scientific guess about the cause and effect of an event	nongold
+32	to be filled with means to contain	nongold
+33	rocks sometimes contain aluminum	nongold
+34	to give is similar to to cause	nongold
+35	an element is a kind of material	nongold
+36	can be means able to be	nongold
+37	a component of something means a part of that something	nongold
+38	a container contains objects; material; substances	nongold
+39	an element is a kind of  substance	nongold
+40	a rock is usually a solid	nongold
+41	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+42	a component means a part of	nongold
+43	to be made of is similar to collection	nongold
+44	including means containing	nongold
+45	a hypothesis is a kind of scientific term	nongold
+46	take in means absorb	nongold
+47	denser means more dense	nongold
+48	an event is a kind of action	nongold
+49	a liquid is a kind of substance	nongold
+50	rocks often contain large amounts of metal	nongold
+51	talc is a kind of mineral	nongold
+52	high is similar to increase	nongold
+53	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+54	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+55	substances are made of matter	nongold
+56	a living thing is a kind of object	nongold
+57	a type is synonymous with a kind	nongold
+58	mica is a kind of mineral	nongold
+59	to be used for something means to be required by that something	nongold
+60	all elements are a kind of pure substance	nongold
+61	composed of means made of	nongold
+62	metamorphosed rock is a kind of rock	nongold
+63	a particle is a kind of object	nongold
+64	to disperse means to separate	nongold
+65	to carry something means to contain something	nongold
+66	objects are made of materials; substances; matter	nongold
+67	form means kind	nongold
+68	contents means the substance in a container	nongold
+69	a process is a kind of event	nongold
+70	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+71	particles in objects are a kind of matter	nongold
+72	an object; material; substance comes from that object or material's source	nongold
+73	to depend on; to rely on; to need means to require	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	a part of a process means a stage in a process	nongold
+76	substances are made of elements	nongold
+77	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+78	to collect means to gather	nongold
+79	materials are made of matter	nongold
+80	most means over 50% of something	nongold
+81	knowing the properties of something means knowing information about that something	nongold
+82	amount is similar to abundance	nongold
+83	quantity means amount	nongold
+84	composition means the (materials, substances) of which something is composed	nongold
+85	rocks sometimes contain iron	nongold
+86	sulfur is a kind of mineral	nongold
+87	a structure of something is synonymous with a part of that something	nongold
+88	calcium is a kind of element	nongold
+89	water is a kind of substance	nongold
+90	if something causes a process then that something is required for that process	nongold
+91	to be formed by is similar to being produced by	nongold
+92	concentration means amount	nongold
+93	containing something is similar to holding something	nongold
+94	if an event is required for a process then that event must occur before that process can occur	nongold
+95	matter; materials; substances are made of atoms; particles	nongold
+96	something that contains water is similar to a body of water	nongold
+97	iron is a kind of mineral	nongold
+98	an part of an object is smaller than the entire object	nongold
+99	high-quality means positive	nongold
+100	absorption is a kind of event	nongold

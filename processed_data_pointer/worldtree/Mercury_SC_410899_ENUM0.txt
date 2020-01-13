@@ -1,0 +1,102 @@
+Question	Claudia's teacher places a photograph of an organism on the board. He asks Claudia to determine if the organism is a plant or an animal. The answer to which question will best help Claudia determine if the organism is a plant or an animal?	question
+Answer	Does the organism make its own food?	answer
+0	a plant; living thing requires food for survival	nongold
+1	a plant is a kind of living thing	nongold
+2	an animal is a kind of living thing	nongold
+3	an organism is a living thing	nongold
+4	a producer produces its own food	gold
+5	a plant is a kind of organism	gold
+6	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+7	an animal is a kind of organism	nongold
+8	an animal; living thing requires nutrients for survival	nongold
+9	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+10	an animal is a kind of consumer	gold
+11	an animal needs to eat food for nutrients	nongold
+12	a consumer can not produce its own food	gold
+13	green plants are a kind of producer	gold
+14	a food contains nutrients for living things	nongold
+15	food is what an animal eats	nongold
+16	make means produce	gold
+17	if a living thing requires something then that something has a positive impact on that living thing	nongold
+18	a living thing is a kind of object	nongold
+19	a source of something emits; produces; generates; provides that something	nongold
+20	to eat means to consume food	nongold
+21	a human is a kind of animal	nongold
+22	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+23	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+24	a producer is a kind of living thing	nongold
+25	determining often requires measuring; observing	nongold
+26	diet means what an animal eats	nongold
+27	a consumer is a kind of organism	nongold
+28	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+29	helping something has a  positive impact on that something	nongold
+30	to be used  for something means to help to do that something	nongold
+31	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	gold
+32	production is similar to making	nongold
+33	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+34	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+35	determine is similar to cause	nongold
+36	human is a kind of organism	nongold
+37	if a plant dies then that plant will not produce food	nongold
+38	life means living things	nongold
+39	living things eat their food source	nongold
+40	a predator eats other animals for food	nongold
+41	a  plant requires sunlight for photosynthesis	nongold
+42	to cause means to make	nongold
+43	to create means to make	nongold
+44	a student is a kind of human	nongold
+45	creating means making	nongold
+46	a product is a kind of object	nongold
+47	providing something means making;delivering something	nongold
+48	food is a kind of substance	nongold
+49	organisms are a part of an environment	nongold
+50	usually plants store the food they produce for future use	nongold
+51	best means most positive	nongold
+52	to be used for something means to be required by that something	nongold
+53	image means visual depiction of an object	nongold
+54	a plant requires photosynthesis to grow; survive	nongold
+55	provide is similar to give; make	nongold
+56	a board is a kind of object	nongold
+57	In the food chain process a  green plant has the role of  producer	nongold
+58	vegetation means plants	nongold
+59	a mammal is a kind of animal	nongold
+60	identifying is similar to determining	nongold
+61	to produce means to provide	nongold
+62	a vegetable is a kind of food	nongold
+63	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+64	prey is a kind of food for predators	nongold
+65	plant parts are made of plants	nongold
+66	baking is when a human makes food by adding heat	nongold
+67	food is a kind of object	nongold
+68	products are formed; are produced; are created	nongold
+69	both means two	nongold
+70	humans eat crops	nongold
+71	to enable is to help	nongold
+72	producing is a kind of process	nongold
+73	to help; to benefit means to be of use	nongold
+74	a vegetable is a kind of plant	nongold
+75	plants are a part of the environment	nongold
+76	if an organism eats something then that something is a source of frood to that organism	nongold
+77	organisms mean life	nongold
+78	requiring is similar to needing help	nongold
+79	material means substance	nongold
+80	producing is similar to causing	nongold
+81	an aquatic animal is a kind of animal	nongold
+82	living things can all reproduce	nongold
+83	determining is similar to learning	nongold
+84	making something requires resources	nongold
+85	pollination requires pollinators; pollinating animals	nongold
+86	eating an animal; a plant means killing that animal; that plant	nongold
+87	to provide something means to be the source of that something	nongold
+88	consumers eat other organisms	nongold
+89	an insect is a kind of animal	nongold
+90	a plant is a member of a plant species	nongold
+91	a crop is a kind of food	nongold
+92	a human is a kind of mammal	nongold
+93	fruit is a kind of food	nongold
+94	to produce means to create	nongold
+95	consumption means use	nongold
+96	answering questions requires information	nongold
+97	if something is required for a process then that something positively impacts that process	nongold
+98	objects are made of materials; substances; matter	nongold
+99	if something is made by something else then that something is affected by that something else	nongold

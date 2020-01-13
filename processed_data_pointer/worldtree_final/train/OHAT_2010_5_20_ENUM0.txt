@@ -1,0 +1,102 @@
+0	if something comes from something else then that something else is a source of that something	nongold
+1	a flower is a part of a plant for attracting pollinators; producing seeds	nongold
+2	hummingbirds eat nectar	nongold
+3	a stick is a kind of object	nongold
+4	a living thing is a kind of object	nongold
+5	an animal is a kind of organism	nongold
+6	emit means produce	nongold
+7	to provide something means to be the source of that something	nongold
+8	purpose means role	nongold
+9	to help; to benefit means to be of use	nongold
+10	a plant is a kind of organism	nongold
+11	a plant; living thing requires food for survival	nongold
+12	reproduction produces; produce offspring	nongold
+13	an organism is a living thing	nongold
+14	life means living things	nongold
+15	An insect is a pollinating animal	nongold
+16	the function of something is what that something  is used to do	nongold
+17	an animal is a member of an animal species	nongold
+18	a plant is a kind of living thing	nongold
+19	an insect is a kind of animal	nongold
+20	to be used for something means to be required by that something	nongold
+21	a hummingbird is a kind of animal	nongold
+22	converting is similar to producing	nongold
+23	A bird is a pollinating animal	gold
+24	if a living thing requires something then that something has a positive impact on that living thing	nongold
+25	nectar is used for attracting pollinators by plants	nongold
+26	to help means to aid	nongold
+27	a hummingbird is a kind of bird	gold
+28	as the number of pollinators attracted to a flower; a plant increases , the ability of that flower; of that plant to reproduce will increase	nongold
+29	pollinating is a kind of function	nongold
+30	a flower is a source of nectar	nongold
+31	green plants are a kind of producer	nongold
+32	an animal; living thing requires nutrients for survival	nongold
+33	producer is a kind of role in the food chain process; in an ecosystem	nongold
+34	where something  comes from is a source of that something	nongold
+35	role means function	nongold
+36	an animal needs to eat food for nutrients	nongold
+37	all living things have life cycles	nongold
+38	causing is a kind of function	nongold
+39	In the food chain process a  green plant has the role of  producer	nongold
+40	a food contains nutrients for living things	nongold
+41	a flower produces pollen and seeds	nongold
+42	reproduction is a stage in the life cycle process	gold
+43	In the flowering plant life cycle , reproduction can follow growth	nongold
+44	to be involved in something means to have a role in something	nongold
+45	food is a source of energy for animals; plants	nongold
+46	a bird is a kind of living thing	nongold
+47	a role in the ecosystem is a role in the food chain process	nongold
+48	flowers often have a sweet smell to attract pollinators	nongold
+49	part means role	nongold
+50	A hummingbird helps the plant reproduce.	answer
+51	a beak is a part of a bird	nongold
+52	when pollen sticks to a hummingbird , that pollen will move to where the hummingbird moves	gold
+53	living things can all reproduce	nongold
+54	a beverage is a kind of liquid	nongold
+55	when an animal eats or drinks something , that animal tastes that something	nongold
+56	In the flowering plant life cycle , fruiting is part of reproduction	nongold
+57	to be a vehicle for is a kind of function	nongold
+58	pollinator means pollinating animal	nongold
+59	pollen is part of a flower for reproduction	gold
+60	living things eat their food source	nongold
+61	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+62	In the flowering plant life cycle , pollination can follow flowering	nongold
+63	reproduction is a kind of process	nongold
+64	a flower contains pollen for sexual reproduction	nongold
+65	high is similar to increase	nongold
+66	an animal is a kind of living thing	nongold
+67	producing is similar to releasing	nongold
+68	a cycle is a kind of process	nongold
+69	to produce means to provide	nongold
+70	In the flowering plant life cycle , flowering can follow growth	nongold
+71	a plant is a member of a plant species	nongold
+72	a beak is used for catching prey by some birds	nongold
+73	In the flowering plant life cycle , pollination is part of reproduction	nongold
+74	requiring something means needing that something	nongold
+75	if something performs a task then that task is that something's function	nongold
+76	In the flowering plant life cycle , flowering is part of reproduction	nongold
+77	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	gold
+78	a hummingbird can reach flowers by hovering in the air	nongold
+79	a source of something emits; produces; generates; provides that something	nongold
+80	a flower is a kind of plant	nongold
+81	pollination is a kind of process for plant reproduction	gold
+82	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+83	Nectar is a sweet liquid that some flowering plants produce. A hummingbird drinks nectar from a flower. When a hummingbird drinks nectar, pollen from the flower sticks to the hummingbird's beak. The picture shows a hummingbird drinking nectar from a flower. Which statement explains the role of a hummingbird in the life cycle of a flowering plant?	question
+84	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+85	producing is a kind of function	nongold
+86	reproduction increases the number; population of a living thing	nongold
+87	pollination requires pollinators; pollinating animals	nongold
+88	to be used  for something means to help to do that something	nongold
+89	providing is a kind of function	nongold
+90	helping something has a  positive impact on that something	nongold
+91	a bird is a kind of animal	nongold
+92	plant reproduction often requires pollen	nongold
+93	a flower is a kind of object	nongold
+94	a producer is a kind of living thing	nongold
+95	an object; material; substance comes from that object or material's source	nongold
+96	plant reproduction; seed production requires pollination	nongold
+97	to eat means to consume food	nongold
+98	a flower's purpose is to produce seeds	nongold
+99	role is similar to importance	nongold
+100	requiring is similar to needing help	nongold
+101	a liquid is a kind of substance	nongold

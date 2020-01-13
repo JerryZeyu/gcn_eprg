@@ -1,0 +1,102 @@
+Question	Which action forms a different chemical substance?	question
+Answer	burning a piece of wood	answer
+0	burning is a kind of action	nongold
+1	chemical reactions cause new substances; different substances to form	gold
+2	fire is a kind of chemical reaction	gold
+3	wood burns	gold
+4	a motion is a kind of event; action	nongold
+5	forming is a kind of action	nongold
+6	an event is a kind of action	nongold
+7	action means activity	nongold
+8	wood is a kind of object	nongold
+9	fire causes burning	gold
+10	combustion is a kind of exergonic reaction	nongold
+11	a piece of something is a kind of object	nongold
+12	burning wood is used to produce heat	nongold
+13	combustion is a kind of chemical change	nongold
+14	to combust means to catch fire	nongold
+15	combustion means fire converts chemical energy into light energy and heat energy	nongold
+16	a flame are a part of a fire	nongold
+17	form means kind	nongold
+18	chemicals means substances	nongold
+19	chemical reactions cause chemical change	nongold
+20	fire gives off light; heat; smoke	nongold
+21	wood is a kind of natural material	nongold
+22	action can cause change	nongold
+23	chemical change is a kind of chemical reaction	nongold
+24	a burner is a kind of object; surface	nongold
+25	a piece is a part of a whole	nongold
+26	a process is a kind of event	nongold
+27	substances have chemical properties	nongold
+28	lighting a match is a kind of action	nongold
+29	a chemical reaction is a kind of process	nongold
+30	a reaction is a kind of process	nongold
+31	material means substance	nongold
+32	chemical reactions releasing new substances means chemical reactions forming new substances	nongold
+33	adding heat to an object sometimes causes chemical reactions	nongold
+34	to make means to form	nongold
+35	dissolving is a kind of action	nongold
+36	a firewood is a kind of object	nongold
+37	a burner is made of metal	nongold
+38	to be made of something means to be formed of that something	nongold
+39	state means form	nongold
+40	An example of combustion is explosion	nongold
+41	wood is a light material	nongold
+42	a tree contains wood	nongold
+43	objects are made of materials; substances; matter	nongold
+44	metal is a kind of material	nongold
+45	combustion is a kind of activity	nongold
+46	wood is a strong material	nongold
+47	putting out a fire stops the burning of that fire	nongold
+48	a piece of an object is smaller in size than the whole object	nongold
+49	wood is a kind of nonmetal	nongold
+50	to change means to become different	nongold
+51	An example of a chemical property is how a material reacts chemically	nongold
+52	acid can cause chemical change	nongold
+53	to be formed by is similar to being produced by	nongold
+54	combining; mixing two substances chemically causes chemical reactions	nongold
+55	cooking is a kind of action	nongold
+56	dry wood easily burns	nongold
+57	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+58	burning a living thing usually causes harm to that living thing	nongold
+59	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+60	fire transfers heat through waves	nongold
+61	most chemical reactions release or absorb heat energy	nongold
+62	to change into means to form	nongold
+63	wood is a thermal; thermal energy insulator	nongold
+64	discarding is a kind of action	nongold
+65	wood is an thermal; thermal energy insulator	nongold
+66	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+67	different materials usually have different properties	nongold
+68	to cause the formation of means to form	nongold
+69	high temperatures can cause an object to combust	nongold
+70	forming is similar to converting	nongold
+71	gas is a kind of substance	nongold
+72	a burner is a part of a  stove	nongold
+73	revolving is a kind of action	nongold
+74	combustion is a kind of exothermic reaction	nongold
+75	if an object is made of a material then that object has the properties of that material	nongold
+76	to cause means to have an effect	nongold
+77	recycling is a kind of action	nongold
+78	gas is a kind of material	nongold
+79	heat means heat energy	nongold
+80	actions mean behavior	nongold
+81	chemical reaction means chemical bonds change	nongold
+82	bringing is a kind of action	nongold
+83	becoming is a kind of action	nongold
+84	concluding is a kind of action	nongold
+85	placing is a kind of action	nongold
+86	to cause an event is similar to being involved in that event	nongold
+87	something that happens is a kind of event	nongold
+88	forming something is a kind of change	nongold
+89	an object is made of its parts	nongold
+90	a chemical reaction producing a lot of gas and heat in a short time causes an explosion	nongold
+91	combustibility means the ability of combustion	nongold
+92	if an object undergoes chemical change then that object will have new chemical properties	nongold
+93	a candle is a kind of object	nongold
+94	leaving something on is a kind of action	nongold
+95	opposite is a kind of different	nongold
+96	temperature is a measure of heat energy	nongold
+97	can be means able to be	nongold
+98	different types of matter have different chemical properties	nongold
+99	a liquid is a kind of substance	nongold

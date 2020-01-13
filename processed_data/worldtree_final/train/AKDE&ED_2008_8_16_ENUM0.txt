@@ -1,0 +1,102 @@
+0	Genes are unable to determine a person's	question
+1	athletic ability.	answer
+2	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+3	genes are able to determine the inherited characteristics of a living thing	gold
+4	able is the opposite of unable	gold
+5	a person is a kind of animal	nongold
+6	physical fitness is similar to athletic ability	gold
+7	determining often requires measuring; observing	nongold
+8	inability is the opposite of ability	nongold
+9	ability is a kind of characteristic	nongold
+10	person is synonymous with human	gold
+11	trait is synonymous with characteristic	nongold
+12	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+13	physical fitness is an acquired characteristic	gold
+14	cannot means not be able to	nongold
+15	determining is similar to learning	nongold
+16	an inherited characteristic is a kind of characteristic	nongold
+17	a human is a kind of animal	gold
+18	performance is similar to ability	nongold
+19	intelligence is an acquired characteristic	nongold
+20	an animal is a kind of organism	nongold
+21	identifying is similar to determining	nongold
+22	skills are learned characteristics; behaviors	nongold
+23	a learned characteristic is a kind of acquired characteristic	nongold
+24	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+25	an animal is a kind of living thing	gold
+26	human is a kind of organism	nongold
+27	exercise means physical fitness	nongold
+28	a behavior is a kind of characteristic	nongold
+29	a part of something means a characteristic of something	nongold
+30	height is an inherited characteristic	nongold
+31	to lack means to not have	nongold
+32	answering questions requires information	nongold
+33	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+34	traits can be determined by one pair; many pairs of genes in an organism	nongold
+35	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+36	determining the type of an organism requires having information about that organism	nongold
+37	a student is a kind of human	nongold
+38	testing often requires measuring	nongold
+39	a living thing is a kind of object	nongold
+40	can means having the ability to	nongold
+41	determining is similar to controlling	nongold
+42	determine is similar to cause	nongold
+43	what an object is made of is a kind of characteristic	nongold
+44	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+45	an organism is a living thing	nongold
+46	a kind of something is an example of that something	nongold
+47	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+48	comparing requires measuring	nongold
+49	human is similar to individual	nongold
+50	a type is synonymous with a kind	nongold
+51	high is similar to increase	nongold
+52	potential is a kind of ability	nongold
+53	an increase is the opposite of a decrease	nongold
+54	body weight is a generally acquired characteristic	nongold
+55	skills often require practice	nongold
+56	an part of an object is smaller than the entire object	nongold
+57	personality is an acquired characteristic	nongold
+58	according to is similar to be determined by	nongold
+59	conditioned behavior is a kind of learned behavior	nongold
+60	gaining is similar to increasing	nongold
+61	learned behaviors are learned over the  lifetime of the animal	nongold
+62	can be means able to be	nongold
+63	the size of an organism is an inherited characteristic	nongold
+64	affected means changed	nongold
+65	the ability to do means be able to do	nongold
+66	phenotype of an organism means the visible traits of  an organism	nongold
+67	a child is a kind of young human	nongold
+68	feature is synonymous with characteristic	nongold
+69	playing with toys is a learned characteristic	nongold
+70	the condition of parts of an organism are acquired characteristics	nongold
+71	strong means high in strength	nongold
+72	species is an inherited characteristic	nongold
+73	high means a lot of something	nongold
+74	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+75	identifying sometimes requires examining	nongold
+76	style is an acquired characteristic	nongold
+77	the ability to grow is a kind of trait	nongold
+78	genotype of  an organism means the genes of  an organism	nongold
+79	lack is similar to low; little	nongold
+80	classifying is a kind of skill	nongold
+81	low is the opposite of high	nongold
+82	trait means property	nongold
+83	selection means choosing	nongold
+84	low is similar to decrease	nongold
+85	the inherited characteristics of the parents can be used to predict inherited characteristics of the offspring	nongold
+86	children; young is synonymous with offspring	nongold
+87	variable means able to change	nongold
+88	to enhance means to increase	nongold
+89	curiosity is a kind of human quality	nongold
+90	to produce means to result in	nongold
+91	greatest means largest; highest; most amount of something	nongold
+92	resemble means similar characteristics	nongold
+93	tall means great in height	nongold
+94	comparing requires observing that something	nongold
+95	experimentation requires measuring	nongold
+96	genetics is a part of biology	nongold
+97	eye color is an inherited characteristic	nongold
+98	genetic variation is similar to trait variation	nongold
+99	unique  is the opposite of diverse	nongold
+100	genetic; hereditary means of genes; heredity	nongold
+101	a brain is a part of an animal	nongold

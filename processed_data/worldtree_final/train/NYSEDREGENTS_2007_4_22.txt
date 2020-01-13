@@ -1,0 +1,101 @@
+0	A decrease in air temperature from 60°F to 35°F would most likely cause a person to	question
+1	shiver	answer
+2	cold temperatures; cool temperatures cause animals to shiver	gold
+3	shivering is when an animal creates heat by shaking to keep the body warm	gold
+4	shivering is a kind of shaking	nongold
+5	a person is a kind of animal	nongold
+6	person is synonymous with human	gold
+7	air temperature is a kind of temperature	nongold
+8	to a  human a air; environment temperature of 32 F to 50 F is considered cold	gold
+9	a human is a kind of animal	gold
+10	an increase is the opposite of a decrease	nongold
+11	to reduce means to decrease	nongold
+12	to a  human a air; environment temperature of 50 F to 70 F is considered cool	nongold
+13	temperature is a measure of heat energy	nongold
+14	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+15	a decrease is a kind of change	nongold
+16	an increase is a kind of change	nongold
+17	to a  human a air; environment temperature of -450 F to 32 F is considered very cold	nongold
+18	to a  human a air; environment temperature of 0 C to 10 C is considered cold	nongold
+19	heat means temperature increases	nongold
+20	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+21	heat means heat energy	nongold
+22	to lower means to decrease	nongold
+23	to a  human a air; environment temperature of -273 C to 0 C is considered very cold	nongold
+24	to a  human a air; environment temperature of 70 F to 82 F is considered warm	nongold
+25	to add means to increase	nongold
+26	an animal is a kind of organism	nongold
+27	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	gold
+28	an animal is a kind of living thing	gold
+29	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	gold
+30	cold means low in temperature	nongold
+31	low is similar to decrease	nongold
+32	human is a kind of organism	nongold
+33	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+34	to a  human a air; environment temperature of 82 F to 95 F is considered hot	nongold
+35	to a  human a air; environment temperature of 10 C to 21 C is considered cool	nongold
+36	to a  human a air; environment temperature of 28 C to 35 C is considered hot	nongold
+37	high is similar to increase	nongold
+38	less is similar to decrease	nongold
+39	atmosphere means  air	nongold
+40	the air is a kind of substance	nongold
+41	colder; cooler means lower in temperature	nongold
+42	gas is a kind of state of matter	nongold
+43	water is a kind of liquid at room temperature	nongold
+44	air is a kind of matter	nongold
+45	solid is a kind of state of matter	nongold
+46	as temperature decreases , the air pressure will decrease	nongold
+47	a living thing is a kind of object	nongold
+48	freezing is a kind of phase change	nongold
+49	hot means high in heat energy; temperature	nongold
+50	temperature is a property of weather	nongold
+51	liquid is a kind of state of matter	nongold
+52	to a  human a air; environment temperature of 95 F to 50000000 F is considered very hot	nongold
+53	air is a kind of gas	nongold
+54	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+55	temperature changing can cause phase changes	nongold
+56	gas is a kind of substance	nongold
+57	if heat is transferred to the air , then the temperature of the air will increase	nongold
+58	to a  human a air; environment temperature of 35 C to 50000000 C is considered very hot	nongold
+59	freezing means cold temperatures	nongold
+60	cool means cold	nongold
+61	air is usually a thermal; thermal energy insulator	nongold
+62	cold  air is usually high in air pressure	nongold
+63	an organism is a living thing	nongold
+64	temperature  is a property of air mass and includes ordered values of cold; warm	nongold
+65	to a  human a air; environment temperature of 21 C to 28 C is considered warm	nongold
+66	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+67	to change means to cause a change	nongold
+68	adding heat means increasing temperature	nongold
+69	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+70	increase means more	nongold
+71	if an object is touching a warmer object , then the  cooler  object will increase in temperature until two objects reach the same temperature	nongold
+72	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+73	heat energy can change the state of matter	nongold
+74	air is a part of the environment	nongold
+75	if something is  cold in temperature , then something will be cold to touch	nongold
+76	warmer means greater; higher in temperature; warmth	nongold
+77	extreme means very high in value	nongold
+78	warm means medium heat energy; temperature	nongold
+79	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+80	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+81	to slow; to slow down decreases speed	nongold
+82	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+83	objects are made of materials; substances; matter	nongold
+84	water is a kind of substance	nongold
+85	temperature  rise means temperature increase	nongold
+86	as the cause of something decreases , that something will decrease	nongold
+87	as altitude increases , the temperature of the air will decrease in the troposphere	nongold
+88	cooling means temperature decreases	nongold
+89	heat energy is synonymous with thermal energy	nongold
+90	water is a kind of matter	nongold
+91	as the temperature of an object increases , the size of that object will increase	nongold
+92	variable means able to change	nongold
+93	cold temperatures usually have a negative impact on organisms	nongold
+94	as the amount of carbon dioxide in the atmosphere increases , the temperature of the planet; the atmosphere will increase	nongold
+95	keeping cool means not increasing temperature	nongold
+96	when gas compresses , the temperature of the gas increases	nongold
+97	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+98	as heat is transferred from something to something else , the temperature of that something will decrease	nongold
+99	something in a cold place becomes cold	nongold
+100	temperature is a kind of condition	nongold

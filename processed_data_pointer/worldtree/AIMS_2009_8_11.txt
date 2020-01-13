@@ -1,0 +1,102 @@
+Question	Which is an example of a chemical reaction?	question
+Answer	nails rusting	answer
+0	metal rusts	nongold
+1	rusting means forming rust	nongold
+2	rust is a kind of substance	nongold
+3	a nail is a kind of object	nongold
+4	iron nails are made of iron	nongold
+5	nails are often made of iron	gold
+6	rust forming is a kind of chemical change	gold
+7	rust is a kind of compound	nongold
+8	chemical change is a kind of chemical reaction	nongold
+9	a kind of something is an example of that something	gold
+10	to combust means to catch fire	nongold
+11	chemicals means substances	nongold
+12	fire is a kind of chemical reaction	nongold
+13	chemical reactions cause chemical change	gold
+14	rusty means having rust	nongold
+15	shredding is similar to tearing	nongold
+16	tearing is a kind of damage	nongold
+17	combustibility is a kind of  chemical property	nongold
+18	a chemical reaction is a kind of process	nongold
+19	high temperatures can cause an object to combust	nongold
+20	adding heat to an object sometimes causes chemical reactions	nongold
+21	An example of a chemical property is how a material reacts chemically	nongold
+22	combining; mixing two substances chemically causes chemical reactions	nongold
+23	to scrape means to scratch	nongold
+24	a  chemical property is a kind of  property	nongold
+25	iron oxide; rust; Fe2O3 is made of iron and oxygen	nongold
+26	wood is a kind of object	nongold
+27	chemical reactions cause new substances; different substances to form	nongold
+28	wood burns	nongold
+29	damage means harm	nongold
+30	damage has a negative impact on a thing	nongold
+31	a physical reaction is a kind of process	nongold
+32	An example of a physical change is breaking an object	nongold
+33	acid can cause chemical change	nongold
+34	rubber is a kind of material	nongold
+35	death means to die	nongold
+36	a reaction is a kind of process	nongold
+37	wood is a strong material	nongold
+38	a hammer is a kind of object	nongold
+39	objects are made of materials; substances; matter	nongold
+40	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+41	rubber is a kind of solid	nongold
+42	a human is a kind of animal	nongold
+43	surfaces sometimes cause objects to break	nongold
+44	an event is a kind of action	nongold
+45	a wax crayon is made of wax	nongold
+46	An example of a chemical change is acid breaking down substances	nongold
+47	steel is a kind of metal	nongold
+48	tearing means  ripping	nongold
+49	a finger is a part of a hand	nongold
+50	material means substance	nongold
+51	burning is a kind of action	nongold
+52	a brick is a kind of object	nongold
+53	wax is an electrical; electrical energy insulator	nongold
+54	substances have chemical properties	nongold
+55	a hand is a kind of object	nongold
+56	dry wood easily burns	nongold
+57	harming something has a  negative impact on; effect on that something	nongold
+58	cracking something usually has a negative impact on that something	nongold
+59	iron in contact with water and oxygen will rust	gold
+60	chemical reaction means chemical bonds change	nongold
+61	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+62	chemical reactions releasing new substances means chemical reactions forming new substances	nongold
+63	to repair means to fix damage	nongold
+64	metal is a kind of material	nongold
+65	most chemical reactions release or absorb heat energy	nongold
+66	an animal is a kind of organism	nongold
+67	wood is an thermal; thermal energy insulator	nongold
+68	a chemical property is the opposite of a physical property	nongold
+69	breaking down fat and sugar is a kind of  chemical reaction	nongold
+70	paper burns	nongold
+71	rusty metal is sometimes contaminated	nongold
+72	brick is an electrical; electrical energy insulator	nongold
+73	chemicals can be pollutants	nongold
+74	rubber is thermal;thermal energy insulator	nongold
+75	a hammer often is made of metal	nongold
+76	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+77	harm means injury	nongold
+78	combustion is a kind of chemical change	nongold
+79	hammering an object requires movement	nongold
+80	if an object is made of a material then that object has the properties of that material	nongold
+81	plastic is high in strength	nongold
+82	leather is a kind of material	nongold
+83	chemical change is the opposite of physical change	nongold
+84	wood is a thermal; thermal energy insulator	nongold
+85	a piece of something is a kind of object	nongold
+86	chemical weathering is a kind of weathering	nongold
+87	fire causes burning	nongold
+88	a  rubber eraser is made of rubber	nongold
+89	if an object undergoes chemical change then that object will have new chemical properties	nongold
+90	strength is a property of an object; a material	nongold
+91	rubber is usually flexible	nongold
+92	wood is a kind of natural material	nongold
+93	conductivity is a property of a material; substance	nongold
+94	a process is a kind of event	nongold
+95	wood has a smooth surface	nongold
+96	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+97	cooking causes a chemical reaction	nongold
+98	rubber is durable	nongold
+99	a surface is a part of an object	nongold

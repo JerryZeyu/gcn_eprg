@@ -1,0 +1,102 @@
+0	A student uses a high-efficiency gasoline lawnmower to cut grass. The term "high efficiency" is used to indicate that the lawnmower	question
+1	uses less energy than other lawnmowers.	answer
+2	a lawnmower is used to cut grass	gold
+3	a lawnmower is a kind of device	gold
+4	high-efficiency device uses less energy	gold
+5	grass is a kind of green plant	nongold
+6	a gasoline engine is  a part of gasoline lawn mower	nongold
+7	a lawn mower is a kind of machine	nongold
+8	less is similar to decrease	nongold
+9	gasoline is a kind of fuel	nongold
+10	fuel efficient means uses less fuel	nongold
+11	to depend on; to rely on; to need means to require	nongold
+12	less is the opposite of more	nongold
+13	less means a reduced amount	nongold
+14	resources sometimes are used for energy	nongold
+15	gasoline is a source of chemical energy	nongold
+16	a student is a kind of human	nongold
+17	high is similar to increase	nongold
+18	burning gasoline is a source of  heat energy	nongold
+19	consumption means use	nongold
+20	using resources decreases those resources	nongold
+21	to use means to utilize	nongold
+22	using less of a resource means conserving that resource	nongold
+23	not efficient means inefficient	nongold
+24	gasoline is a kind of chemical power source	nongold
+25	grass does not contain wood	nongold
+26	a human is a kind of animal	nongold
+27	an increase is the opposite of a decrease	nongold
+28	using a gasoline engine requires burning  gasoline	nongold
+29	to be used for something means to be required by that something	nongold
+30	an animal is a kind of living thing	nongold
+31	greater means higher; more in value	nongold
+32	using less of a resource increases the availability of that resource	nongold
+33	vehicles usually require gasoline to operate	nongold
+34	a source of something emits; produces; generates; provides that something	nongold
+35	to power means to provide energy for	nongold
+36	cutting requires rigid tools	nongold
+37	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+38	using less resources usually causes money to be saved	nongold
+39	using gasoline is a source of carbon dioxide	nongold
+40	a device requires energy to operate	nongold
+41	fewer means lower; less in number	nongold
+42	a source of something increases the amount of that something	nongold
+43	a plant is a kind of living thing	nongold
+44	electric devices require electrical energy to function	nongold
+45	an animal requires energy to move	nongold
+46	high means a lot of something	nongold
+47	cheap means low in cost	nongold
+48	person is synonymous with human	nongold
+49	a living thing is a kind of object	nongold
+50	low is similar to decrease	nongold
+51	electrical energy is a kind of energy	nongold
+52	heat is a kind of energy	nongold
+53	a fuel is used to make energy	nongold
+54	negative impact is the opposite of positive impact	nongold
+55	An example of managing the use of something is using less of that something	nongold
+56	green plants are a kind of producer	nongold
+57	if something is powered by something else then that something requires a source of that something else	nongold
+58	losing energy decreases the efficiency of an object; of a system	nongold
+59	the function of something is what that something  is used to do	nongold
+60	cheaper means lower in cost	nongold
+61	if something with the same function as something else is being used then the use of that something else decreases	nongold
+62	a device is a kind of object	nongold
+63	lower means less	nongold
+64	if an object is made of a material then that object has the properties of that material	nongold
+65	cutting an object requires mechanical force	nongold
+66	an animal is a kind of organism	nongold
+67	grass is a rough surface	nongold
+68	an organism requires energy for growth; repair	nongold
+69	a plant is a kind of organism	nongold
+70	as a system; a device grows old , that system; device will use more energy	nongold
+71	increase means more	nongold
+72	a vehicle is a kind of object	nongold
+73	a person is a kind of animal	nongold
+74	electricity causes less pollution than gasoline	nongold
+75	heat means heat energy	nongold
+76	a simple machine requires mechanical energy to function	nongold
+77	instrument means device	nongold
+78	an object; material; substance comes from that object or material's source	nongold
+79	tool is similar to appliance	nongold
+80	good means positive	nongold
+81	an electric motor converts electrical energy into mechanical energy	nongold
+82	cutting a material usually requires measuring length	nongold
+83	food is a source of energy for animals; plants	nongold
+84	an organism is a living thing	nongold
+85	low is the opposite of high	nongold
+86	electrical devices are used for industrial purposes; household purposes by humans	nongold
+87	strong means high in strength	nongold
+88	better means good	nongold
+89	electricity means electrical energy	nongold
+90	instrument means tool	nongold
+91	a producer is a kind of living thing	nongold
+92	a tool is a kind of object	nongold
+93	to lower means to decrease	nongold
+94	a producer is a source of energy for consumers	nongold
+95	objects are made of materials; substances; matter	nongold
+96	conductivity is a property of a material; substance	nongold
+97	if something requires something else then that something requires a source of that something else	nongold
+98	a material is a kind of resource	nongold
+99	metal is a kind of material	nongold
+100	solar energy is a kind of energy	nongold
+101	friction converts mechanical energy into heat energy	nongold

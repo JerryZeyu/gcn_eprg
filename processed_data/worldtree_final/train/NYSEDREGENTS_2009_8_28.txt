@@ -1,0 +1,102 @@
+0	In humans, a trait can be determined by one pair or many pairs of	question
+1	genes	answer
+2	traits can be determined by one pair; many pairs of genes in an organism	gold
+3	trait is synonymous with characteristic	nongold
+4	human is a kind of organism	nongold
+5	genes are able to determine the inherited characteristics of a living thing	nongold
+6	a human is a kind of animal	gold
+7	pair means two	nongold
+8	an animal is a kind of organism	gold
+9	trait means property	nongold
+10	genes can be used for classifying  organisms	nongold
+11	an animal is a kind of living thing	nongold
+12	determining is similar to learning	nongold
+13	an organism is a living thing	nongold
+14	an inherited characteristic is a kind of characteristic	nongold
+15	according to is similar to be determined by	nongold
+16	human is similar to individual	nongold
+17	determine is similar to cause	nongold
+18	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+19	identifying is similar to determining	nongold
+20	trait is a kind of genetic information	nongold
+21	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+22	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+23	how many means what number	nongold
+24	a gene is a kind of unit of hereditary information	nongold
+25	pair is a kind of combination	nongold
+26	an allele is a kind of gene	nongold
+27	many means high in number	nongold
+28	a learned characteristic is a kind of acquired characteristic	nongold
+29	can be means able to be	nongold
+30	to classify means to decide what class something belongs to	nongold
+31	a chromosomes of a human contains thousands of genes	nongold
+32	one is a kind of number	nongold
+33	a somatic cell of a human contains 23 pairs of; 46  chromosomes	nongold
+34	a  chromosome contains genes	nongold
+35	a type is synonymous with a kind	nongold
+36	selection means choosing	nongold
+37	a part of something means a characteristic of something	nongold
+38	genetic variation is similar to trait variation	nongold
+39	classifying is when one sorts something by kind; type	nongold
+40	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+41	an adaptation is a kind of characteristic	nongold
+42	an allele is formed by mutation	nongold
+43	inherited characteristics can change over several generations	nongold
+44	intelligence is an acquired characteristic	nongold
+45	a human is a kind of mammal	nongold
+46	determining often requires measuring; observing	nongold
+47	inherited characteristics are a kind of hereditary information	nongold
+48	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+49	an allele can be a recessive gene	nongold
+50	genes are located on chromosomes	nongold
+51	answering questions requires information	nongold
+52	most means over 50% of something	nongold
+53	genetic variation in offspring has a positive impact on an organism's; offspring's survival; health; ability to reproduce	nongold
+54	if an offspring has a recessive trait , then each parent has at least one recessive gene	nongold
+55	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+56	genotype of  an organism means the genes of  an organism	nongold
+57	species is an inherited characteristic	nongold
+58	determining is similar to controlling	nongold
+59	blood type is an inherited characteristic	nongold
+60	a living thing is a kind of object	nongold
+61	genes are made of DNA	nongold
+62	to be affected by something is similar to depending on something	nongold
+63	to be formed by is similar to being produced by	nongold
+64	characteristic means property	nongold
+65	mammals is a kind of class	nongold
+66	the inherited characteristics of the parents can be used to predict inherited characteristics of the offspring	nongold
+67	reproduction is when an organism passes genetic information from itself to its offspring	nongold
+68	each is similar to individual	nongold
+69	genes contains genetic information	nongold
+70	the number of parts of something is a property of that something	nongold
+71	if an organism passes on its traits then future generations will have those traits	nongold
+72	a component of something means a part of that something	nongold
+73	information in an organism's chromosomes cause genetic traits to be passed down to that organism's offspring	nongold
+74	adaptation is when an organism develops a trait over time for survival	nongold
+75	all the other means the rest of	nongold
+76	a homozygous recessive organism contains only recessive genes	nongold
+77	genes is a vehicle for passing genetic information from one generation to  the next	nongold
+78	a plant is a kind of organism	nongold
+79	genetics is a part of biology	nongold
+80	amount is similar to number	nongold
+81	unique  is the opposite of diverse	nongold
+82	feature is synonymous with characteristic	nongold
+83	an allele can be a dominant gene	nongold
+84	sorting is similar to classifying	nongold
+85	offspring receives half of the genes from each parent	nongold
+86	a mammal is a kind of animal	nongold
+87	a component means a part of	nongold
+88	identical means copy	nongold
+89	a function is a kind of characteristic	nongold
+90	a heterozygous organism contains both dominant and recessive genes	nongold
+91	variable means able to change	nongold
+92	alleles are found at the same place on a chromosome	nongold
+93	genetic; hereditary means of genes; heredity	nongold
+94	four is a kind of number	nongold
+95	reproductive behavior is an inherited characteristic	nongold
+96	an event is a kind of action	nongold
+97	ability is a kind of characteristic	nongold
+98	a sequence is an ordered strand	nongold
+99	both means two	nongold
+100	a behavior is a kind of characteristic	nongold
+101	a factor impacts something	nongold

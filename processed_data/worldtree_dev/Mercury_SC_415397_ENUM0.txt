@@ -1,0 +1,102 @@
+Question	Which change makes a structure on Earth's surface?	question
+Answer	A volcano makes new land with lava.	answer
+0	new land can be formed by volcanoes erupting by lava cooling	gold
+1	a volcano is a source of magma; lava	nongold
+2	a volcanic eruption is a kind of change	gold
+3	a structure of something is synonymous with a part of that something	nongold
+4	to cause means to make	nongold
+5	a volcano is a kind of landform	nongold
+6	land is a kind of environment	nongold
+7	land is a kind of landform	gold
+8	system is similar to structure	nongold
+9	structure is a property of an object; a material; a substance	nongold
+10	the ground means Earth's surface	nongold
+11	Earth's surface is made of rock	nongold
+12	a volcanic eruption is a kind of quick process	nongold
+13	make means produce	nongold
+14	to make means to form	gold
+15	lava is a kind of matter	nongold
+16	landform means surface feature; physical feature; land feature	gold
+17	lava is found above the ground	nongold
+18	to turn means to change	nongold
+19	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+20	the ground is part of the Earth	nongold
+21	a volcano is a kind of geological event	nongold
+22	an island is formed by lava being released; cooling on the ocean floor over time	nongold
+23	Earth is a kind of planet	nongold
+24	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+25	to cause the formation of means to form	nongold
+26	to create means to make	nongold
+27	volcanoes are often found under oceans	nongold
+28	to change means to cause a change	nongold
+29	forming something is a kind of change	nongold
+30	creating means making	nongold
+31	creating is similar to causing	nongold
+32	an island is a kind of landform	nongold
+33	breaking down is a kind of forming	nongold
+34	a landform is a kind of place	nongold
+35	a landform is a kind of place	nongold
+36	a surface is a part of an object	nongold
+37	magma is found below the ground	nongold
+38	an increase is a kind of change	nongold
+39	a part of a living thing is a natural structure	nongold
+40	magma is a kind of hot rock	nongold
+41	land is a kind of resource	nongold
+42	place means space	nongold
+43	if something exists on a surface then that surface contains that something	nongold
+44	a surface is a kind of object	nongold
+45	producing is similar to causing	nongold
+46	a change is a kind of event	nongold
+47	a process is a kind of event	nongold
+48	if something returns to a place then that something increases in that place	nongold
+49	to lower means to decrease	nongold
+50	old is the opposite of new	nongold
+51	if lava is on Earth's surface then that lava will cool	nongold
+52	to change into means to form	nongold
+53	if something causes a process then that something is required for that process	nongold
+54	alteration means change	nongold
+55	affected means changed	nongold
+56	Earth is made of rock	nongold
+57	a whole is formed by its parts	nongold
+58	made up of means contains; made of	nongold
+59	position means a place in a structure	nongold
+60	humans live on land	nongold
+61	a motion is a kind of event; action	nongold
+62	change is a kind of process	nongold
+63	land area means land mass	nongold
+64	the movement of tectonic plates causes volcanic eruptions	nongold
+65	volcanoes are most common along tectonic plate boundaries	nongold
+66	the formation of something is a kind of process	nongold
+67	volcanic eruptions early on Earth maybe caused a large proportion of the matter in hydrosphere	nongold
+68	increase means more	nongold
+69	an object is made of its parts	nongold
+70	a volcano changes the environment around it by covering the environment in ash	nongold
+71	give off is similar to make	nongold
+72	an event is a kind of action	nongold
+73	to increase is similar to to create	nongold
+74	natural events usually cause changes to Earth's surface	nongold
+75	a land mass is a kind of object	nongold
+76	a source of something emits; produces; generates; provides that something	nongold
+77	an erupting volcano releases sulfur gas and ash into the atmosphere	nongold
+78	place means area	nongold
+79	to be made of something means to be formed of that something	nongold
+80	can be means able to be	nongold
+81	a landform is a kind of object	nongold
+82	a decrease is a kind of change	nongold
+83	to be a source of something means to cause that something	nongold
+84	to happen means to occur	nongold
+85	a structure is a kind of feature	gold
+86	to reduce means to decrease	nongold
+87	composed of means made of	nongold
+88	if something is made of something else then the formation of that something requires that something else	nongold
+89	soil is formed by rocks eroding	nongold
+90	no longer means used to be	nongold
+91	the surface of the Earth contains mountains	nongold
+92	the Earth's surface contains many craters	nongold
+93	to be formed by is similar to being produced by	nongold
+94	a component means a part of	nongold
+95	if something releases something else then that something is the source of that something else	nongold
+96	an increase is the opposite of a decrease	nongold
+97	a continent is a kind of large land mass	nongold
+98	greatest means largest; highest; most amount of something	nongold
+99	bodies of water are located on Earth's surface	nongold

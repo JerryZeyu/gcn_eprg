@@ -1,0 +1,102 @@
+0	You need to move products across the ocean from Boston to Europe. What are your choices?	question
+1	ship or airplane	answer
+2	a airplane is used for moving people; products across bodies of water; to far away places	gold
+3	a ship is used for moving people; products across bodies of water	gold
+4	an airplane is a kind of vehicle	nongold
+5	Boston is city that is near to the  coast of the Atlantic Ocean	nongold
+6	Europe is a kind of continent	nongold
+7	selection means choosing	nongold
+8	travel means to move	nongold
+9	transport means to move; to make travel	nongold
+10	transportation technology is used for moving people; products	nongold
+11	to depend on; to rely on; to need means to require	nongold
+12	a vehicle is a kind of tool for travel; transport	nongold
+13	distance moved; distance travelled is a measure of how far an object moves	nongold
+14	to ship means to transport	nongold
+15	transportation technology is a kind of system for moving people and products	nongold
+16	motion; movement means moving; to move	nongold
+17	motion is when moves an object; something to a direction	nongold
+18	an ocean is a kind of body of water	gold
+19	a product is a kind of object	nongold
+20	an airplane is fast in speed	nongold
+21	move around means revolve	nongold
+22	Atlantic Ocean is located in  the northwestern coast of Europe	nongold
+23	to carry means to move something	nongold
+24	sea means ocean	nongold
+25	Atlantic Ocean is a kind of ocean	nongold
+26	answering questions requires information	nongold
+27	requiring something means needing that something	nongold
+28	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+29	moving something is a kind of function	nongold
+30	product means result	nongold
+31	maritime means close to the ocean	nongold
+32	products are formed; are produced; are created	nongold
+33	moving is similar to travelling	nongold
+34	a type is synonymous with a kind	nongold
+35	person is synonymous with human	nongold
+36	speed is a measure of how fast an object is moving	nongold
+37	a boat is similar to a ship	nongold
+38	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+39	to transfer is similar to transport	nongold
+40	carrying something means moving that something	nongold
+41	a part of a process means a stage in a process	nongold
+42	requiring is similar to needing help	nongold
+43	a velocity is a measure of a speed in a direction	nongold
+44	providing something means making;delivering something	nongold
+45	to be used for something means to be required by that something	nongold
+46	a vehicle is a kind of object	nongold
+47	affected means changed	nongold
+48	a producer is a kind of living thing	nongold
+49	to be required means to be necessary	nongold
+50	if something causes a process then that something is required for that process	nongold
+51	a surface is a part of an object	nongold
+52	greatest means largest; highest; most amount of something	nongold
+53	a human is a kind of animal	nongold
+54	flying is a kind of motion through air; space	nongold
+55	a plane travels through the atmosphere	nongold
+56	a vehicle is used for travel	nongold
+57	a consumer is a kind of organism	nongold
+58	to slow; to slow down decreases speed	nongold
+59	a continent is a kind of location	nongold
+60	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+61	to make possible means to be required	nongold
+62	a wise choice is a good choice	nongold
+63	flight is similar to a movement in the air made by an airplane	nongold
+64	needing something means depending on that something	nongold
+65	transferring is moving from one place to another place	nongold
+66	a machine is a kind of object	nongold
+67	make means produce	nongold
+68	to place in is similar to to move to	nongold
+69	if something is a raw material in a process then that something is required for that process	nongold
+70	a vehicle is used for transportation	nongold
+71	form means kind	nongold
+72	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+73	a motion is a kind of event; action	nongold
+74	to bring means to transport	nongold
+75	revolving is a kind of action	nongold
+76	a surface is a part of a material	nongold
+77	shift means move	nongold
+78	arrival is a kind of movement	nongold
+79	race is when vehicles; humans compete	nongold
+80	to turn means to change	nongold
+81	must have means require	nongold
+82	high is similar to increase	nongold
+83	lowest means least in value; amount; number	nongold
+84	a source of something emits; produces; generates; provides that something	nongold
+85	making something requires resources	nongold
+86	a meter is a kind of unit for measuring distance; measuring length	nongold
+87	variable means able to change	nongold
+88	furthest; farthest means greatest; most; highest in distance	nongold
+89	quantity means amount	nongold
+90	speed is a property of an object and includes values of slow; fast	nongold
+91	category means kind	nongold
+92	producing thrust causes something; an animal; an object to move	nongold
+93	provide is similar to give; make	nongold
+94	fast means quickly	nongold
+95	rotate means turn	nongold
+96	material means substance	nongold
+97	rolling is a kind of motion	nongold
+98	high-quality means positive	nongold
+99	rate is similar to speed	nongold
+100	launching is a kind of motion	nongold
+101	an part of an object is smaller than the entire object	nongold

@@ -1,0 +1,61 @@
+0	fertilizers have a positive impact on algae growth	gold
+1	fertilizers contain nitrogen	nongold
+2	harming something has a  negative impact on; effect on that something	nongold
+3	plants are a part of the environment	nongold
+4	a lake is a kind of body of water	gold
+5	fertilizers have a positive impact on algae growth	gold
+6	a human is a kind of animal	nongold
+7	a house is a kind of home	nongold
+8	algae is found in bodies of water	gold
+9	an algae is a kind of organism	gold
+10	an increase is the opposite of a decrease	nongold
+11	if something has a positive impact on an organism's growth then that something increases the population of that organism	gold
+12	to keep something occurring means to cause that something to occur	nongold
+13	to add means to increase	nongold
+14	if something has a positive impact on an organism's growth then that something increases the population of that organism	gold
+15	an animal is a kind of organism	nongold
+16	an ecosystem contains a large community of; large numbers of living organisms	nongold
+17	grass is a kind of green plant	nongold
+18	to cause means to have an effect	nongold
+19	Lori owns a house next to the lake. She uses lots of fertilizer to keep her lawn green. Which impact could fertilizing her lawn have on the lake?	question
+20	an increase in the algae population	answer
+21	an increase in the algae population	answer
+22	algae is found in bodies of water	gold
+23	green plants are a kind of producer	nongold
+24	a house is a kind of building	nongold
+25	vegetation means plants	nongold
+26	an organism is a living thing	nongold
+27	to be used for something means to be required by that something	nongold
+28	Lori owns a house next to the lake. She uses lots of fertilizer to keep her lawn green. Which impact could fertilizing her lawn have on the lake?	question
+29	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+30	algae is a kind of living thing	nongold
+31	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+32	a forest contains  lots of plants; trees	nongold
+33	an animal; living thing requires nutrients for survival	nongold
+34	algae is found in bodies of water	gold
+35	a lake is a kind of body of water	gold
+36	an increase in the algae population	answer
+37	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+38	a concern; a problem is a possible negative impact	nongold
+39	water is a part of an environment	nongold
+40	fertilizers have a positive impact on algae growth	gold
+41	an algae is a kind of organism	gold
+42	a plant is a kind of living thing	nongold
+43	an increase in the algae population	answer
+44	if a living thing requires something then that something has a positive impact on that living thing	nongold
+45	green marine algae are a kind of producer	nongold
+46	to keep a process or event happening is similar to causing that process or event to happen	nongold
+47	rich nutrients can cause algae and phytoplankton to increase	nongold
+48	having an impact on something means altering that something	nongold
+49	fertilizers are a source of pollution	nongold
+50	organisms are a part of an environment	nongold
+51	to lower means to decrease	nongold
+52	a lake is a kind of body of water	gold
+53	a plants; living things require water for survival; to grow	nongold
+54	an algae is a kind of organism	gold
+55	water is a kind of natural resource	nongold
+56	a source of something increases the amount of that something	nongold
+57	Lori owns a house next to the lake. She uses lots of fertilizer to keep her lawn green. Which impact could fertilizing her lawn have on the lake?	question
+58	if something has a positive impact on an organism's growth then that something increases the population of that organism	gold
+59	fertilizer contains chemicals	nongold
+60	Lori owns a house next to the lake. She uses lots of fertilizer to keep her lawn green. Which impact could fertilizing her lawn have on the lake?	question

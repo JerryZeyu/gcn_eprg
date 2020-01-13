@@ -1,0 +1,102 @@
+Question	Cancer is best described as	question
+Answer	abnormal cell division	answer
+0	cancer is a kind of abnormal cell division	gold
+1	cancerous cells are formed by abnormal cell division	nongold
+2	cell division often causes growth; healing	nongold
+3	cell division means cell reproduction	nongold
+4	an animal cell is a kind of cell	nongold
+5	cell division is a kind of process	nongold
+6	cell division increases the number of cells in the body	nongold
+7	sickle cell anemia is a kind of genetic disease	nongold
+8	a plant cell is a kind of cell	nongold
+9	a human cell is a kind of cell	nongold
+10	genetic disorder is a kind of disease	nongold
+11	sickle cell anemia is a recessive trait in human	nongold
+12	an animal is a kind of organism	nongold
+13	multicellular organisms produce more cells through cell division	nongold
+14	the cell cycle is when a cell forms new cells	nongold
+15	mitosis produces cells that are identical to the parent cell	nongold
+16	a body cell means a somatic cell	nongold
+17	different cellular tissues are made of different types of  somatic cells	nongold
+18	a cell is very small	nongold
+19	the parent cell is the original cell	nongold
+20	an autoimmune disease is when the body attacks its own tissues	nongold
+21	the cell is the most basic structural unit of life	nongold
+22	affected means changed	nongold
+23	a prokaryotic cell does not contain a nucleus	nongold
+24	an organism is a living thing	nongold
+25	as the structural complexity of a cell increases , the speed with which the cell can divide decreases	nongold
+26	a unicellular organism has one cell	nongold
+27	a cell nucleus is a part of a cell	nongold
+28	decomposing is similar to separating	nongold
+29	causing is a kind of affecting	nongold
+30	a single-celled organism is a kind of organism	nongold
+31	a type is synonymous with a kind	nongold
+32	if something is caused by something else , then that something can be explained by that something else	nongold
+33	cells are a smaller level of organization than tissues in living things	nongold
+34	single-cell organism means unicellular organism	nongold
+35	a human is a kind of animal	nongold
+36	tissue is a kind of group of cells with a common structure that work together to perform a similar function	nongold
+37	a somatic cell of a human contains 23 pairs of; 46  chromosomes	nongold
+38	a cell membrane is a kind of cell structure	nongold
+39	if something is insoluble in something , then they will remain separated	nongold
+40	an event is a kind of action	nongold
+41	a source of something emits; produces; generates; provides that something	nongold
+42	organs are made of different types of  cellular tissues	nongold
+43	answering questions requires information	nongold
+44	a kind of something is an example of that something	nongold
+45	a bacterium is a kind of organism	nongold
+46	to split means to break down	nongold
+47	a living thing is made of cells	nongold
+48	a disordered immune system causes autoimmune diseases	nongold
+49	all living things are made of cells according to the cell theory	nongold
+50	a chloroplast is a kind of plant cell structure	nongold
+51	meiosis produces cells that are different from the parent cell	nongold
+52	the cell membrane is a part of a cell	nongold
+53	a plant is made of plant cells	nongold
+54	a single-celled organism is a kind of living thing	nongold
+55	if something is made of something else then that something can be broken down into that something else	nongold
+56	to split means to divide	nongold
+57	something's function can be used to describe; identify that something	nongold
+58	a component means a part of	nongold
+59	a single-cell organism cannot specialize	nongold
+60	a component of something means a part of that something	nongold
+61	RNA are found in the nucleus of the cell	nongold
+62	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	nongold
+63	a cell is a kind of object	nongold
+64	the nucleus is a kind of cell organelle	nongold
+65	single-celled organism is made of only one cell	nongold
+66	a cell wall is the outermost structure of a plant cell	nongold
+67	disease has a negative impact on an organism	nongold
+68	a yeast cell is a kind of single cell organism	nongold
+69	a whole is formed by its parts	nongold
+70	made up of means contains; made of	nongold
+71	mitosis is a source of two identical nuclei	nongold
+72	cells copy DNA	nongold
+73	disease means illness	nongold
+74	cell activity means cell process	nongold
+75	separate is similar to break down	nongold
+76	breaking down is a kind of forming	nongold
+77	typically means usually	nongold
+78	to be made of means to consist of	nongold
+79	a structure of something is synonymous with a part of that something	nongold
+80	nucleus is synonymous with core; center	nongold
+81	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+82	can be means able to be	nongold
+83	due to means caused by	nongold
+84	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+85	all cells perform cellular respiration	nongold
+86	to be made of something means to be formed of that something	nongold
+87	the body of an animal contains arteries; veins	nongold
+88	an animal is a kind of living thing	nongold
+89	the properties of something are used for describing that something	nongold
+90	nonliving things are not made of cells	nongold
+91	chloroplast is a part of a plant cell	nongold
+92	a multicellular organism contains more than one cell	nongold
+93	a fungus is a kind of organism	nongold
+94	a cell absorbs nutrients	nongold
+95	form means kind	nongold
+96	usually means most of the time	nongold
+97	mast cells are a kind of white blood cell	nongold
+98	a description sometimes provides information	nongold
+99	best means most positive	nongold

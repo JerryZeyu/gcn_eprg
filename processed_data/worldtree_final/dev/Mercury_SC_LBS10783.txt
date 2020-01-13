@@ -1,0 +1,102 @@
+0	What force is needed to help stop a child from slipping on ice?	question
+1	friction	answer
+2	slipping on ice requires walking on that ice	gold
+3	requiring is similar to needing help	nongold
+4	requiring something means needing that something	nongold
+5	friction is used for stopping a vehicle by brakes	nongold
+6	counter means reduce; stop; resist	gold
+7	to help means to aid	nongold
+8	slipping is a kind of motion	gold
+9	friction is a kind of force	gold
+10	to help; to benefit means to be of use	nongold
+11	a child is a kind of young human	gold
+12	sliding is a kind of movement	nongold
+13	icy means made of ice	nongold
+14	sliding is a kind of motion	nongold
+15	friction acts to counter the motion of two objects when their surfaces are touching	gold
+16	ice is a kind of object	gold
+17	to inhibit means to prevent	nongold
+18	ice is a kind of solid	nongold
+19	as roughness of a surface increases , friction will increase	nongold
+20	if something causes a process then that something is required for that process	nongold
+21	stop; stopped means zero; 0; no speed	nongold
+22	to be used  for something means to help to do that something	nongold
+23	friction exerts force on moving objects	nongold
+24	to keep something from happening means to prevent that something	nongold
+25	inhibitor means something that prevents something from happening	nongold
+26	ice is cold in temperature	nongold
+27	to slow; to slow down decreases speed	nongold
+28	a human is a kind of animal	gold
+29	friction occurs when two object's surfaces move against each other	nongold
+30	to depend on; to rely on; to need means to require	nongold
+31	a surface is a kind of object	nongold
+32	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+33	a surface is a part of an object	gold
+34	to be required means to be necessary	nongold
+35	stop means not move	nongold
+36	to reduce means to decrease	nongold
+37	harming something has a  negative impact on; effect on that something	nongold
+38	rough is the opposite of smooth	nongold
+39	helping something has a  positive impact on that something	nongold
+40	motion; movement means moving; to move	nongold
+41	to hurt means to harm	nongold
+42	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+43	needing something means depending on that something	nongold
+44	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+45	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+46	to be used for something means to be required by that something	nongold
+47	a person is a kind of animal	nongold
+48	an animal is a kind of organism	nongold
+49	a surface is a part of a material	nongold
+50	to prevent means to make it not happen	nongold
+51	touching is when a body part makes contact with the surface of an object	nongold
+52	ice is colder than water in temperature	nongold
+53	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	nongold
+54	felt is high in roughness	nongold
+55	a force is a kind of push or pull on an object	nongold
+56	to impact means to affect	nongold
+57	person is synonymous with human	nongold
+58	rubbing against something is a kind of contact	nongold
+59	water is a kind of liquid at room temperature	nongold
+60	to rub; to rub together means to move against	nongold
+61	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+62	what something needs is a property of that something	nongold
+63	ice wedging is a kind of mechanical weathering	nongold
+64	to make something easier means to help	nongold
+65	cycles of freezing and thawing water cause ice wedging	nongold
+66	cool means cold	nongold
+67	objects are made of materials; substances; matter	nongold
+68	shaking is a kind of motion	nongold
+69	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	nongold
+70	pulling is a kind of motion	nongold
+71	an animal is a kind of living thing	gold
+72	when a force is applied to an object , that force is acting on that object	nongold
+73	skidding causes friction	nongold
+74	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+75	a pull is a kind of force	nongold
+76	surfaces sometimes cause objects to break	nongold
+77	cold temperatures usually have a negative impact on organisms	nongold
+78	a living thing is a kind of object	gold
+79	friction causes speed to decrease	nongold
+80	if something is required for a process then that something positively impacts that process	nongold
+81	friction causes the temperature of an object to increase	nongold
+82	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+83	to lower means to decrease	nongold
+84	if something absorbs; requires more heat than it gives off in an reaction , then something will be cold in temperature	nongold
+85	if an object is held under a substance then that object is touching that substance	nongold
+86	if something is required for a process then keeping that something from reaching that process can stop that process	nongold
+87	being  on something; placed in something; placed over something means touching  that something	nongold
+88	stopping a moving object changes kinetic energy into potential energy	nongold
+89	helping means to assist in a change	nongold
+90	water is a kind of substance	nongold
+91	if an object slides across another object then those objects are touching	nongold
+92	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+93	protecting something means preventing harm to that something	nongold
+94	cold means low in temperature	nongold
+95	an organism is a living thing	nongold
+96	if something is  cold in temperature , then something will be cold to touch	nongold
+97	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+98	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+99	motion is when moves an object; something to a direction	nongold
+100	something in a cold place becomes cold	nongold
+101	harm means injury	nongold

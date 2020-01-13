@@ -1,0 +1,55 @@
+0	oil is a kind of fossil fuel	nongold
+1	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+2	a tree is a kind of plant	nongold
+3	wood is a kind of nonmetal	nongold
+4	to give is similar to to cause	nongold
+5	a plant is a kind of organism	nongold
+6	renewable is the opposite of nonrenewable	gold
+7	natural gas is a nonrenewable resource	nongold
+8	trees are a renewable resource	nongold
+9	renewable is the opposite of nonrenewable	gold
+10	fossil fuels are a nonrenewable resource	gold
+11	coal is a kind of fuel	nongold
+12	gasoline is a kind of fuel	nongold
+13	wood burns	nongold
+14	Wood	answer
+15	renewable is the opposite of nonrenewable	gold
+16	a type is synonymous with a kind	nongold
+17	Which is NOT a fossil fuel?	question
+18	Which is NOT a fossil fuel?	question
+19	Which is NOT a fossil fuel?	question
+20	a plant is a kind of living thing	nongold
+21	a producer is a kind of living thing	nongold
+22	to create means to make	nongold
+23	wood is a renewable resource	gold
+24	fossil fuels have high potential energy	nongold
+25	green plants are a kind of producer	nongold
+26	a renewable resource is a kind of natural resource	nongold
+27	wood is a renewable resource	gold
+28	powering is similar to fueling	nongold
+29	a source of something emits; produces; generates; provides that something	nongold
+30	coal is a kind of fossil fuel	nongold
+31	dry wood easily burns	nongold
+32	Which is NOT a fossil fuel?	question
+33	An example of conservation is not using fossil fuel	nongold
+34	wood is an thermal; thermal energy insulator	nongold
+35	burning wood is used to produce heat	nongold
+36	fossil fuel contains chemical energy	nongold
+37	plants can be fossilized	nongold
+38	fossil fuels are a nonrenewable resource	gold
+39	Wood	answer
+40	wood is a renewable resource	gold
+41	an inexhaustible resource is a kind of renewable resource	nongold
+42	Wood	answer
+43	wood is usually sturdy	nongold
+44	fuel is a source of energy	nongold
+45	fossil fuels burning causes pollution	nongold
+46	fossil fuels are a nonrenewable resource	gold
+47	wood is a kind of natural material	nongold
+48	petroleum is a kind of fossil fuel	nongold
+49	using coal requires burning coal	nongold
+50	a tree contains wood	nongold
+51	an object; material; substance comes from that object or material's source	nongold
+52	if something is a raw material then that something comes directly from a source	nongold
+53	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+54	Wood	answer

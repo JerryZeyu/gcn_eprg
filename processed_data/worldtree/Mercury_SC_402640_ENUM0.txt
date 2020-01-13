@@ -1,0 +1,102 @@
+Question	An example of a renewable resource is	question
+Answer	wood.	answer
+0	wood is a renewable resource	gold
+1	wood is a kind of resource	nongold
+2	trees are a renewable resource	nongold
+3	renewable is the opposite of nonrenewable	nongold
+4	a kind of something is an example of that something	nongold
+5	a renewable resource is a kind of natural resource	nongold
+6	a tree contains wood	nongold
+7	wood is a kind of energy resource	nongold
+8	fossil fuels are a nonrenewable resource	nongold
+9	a fossil fuel is a kind of natural resource	nongold
+10	a renewable resource is a kind of naturally replaced resource	nongold
+11	wood is a kind of biomass	nongold
+12	trees are a kind of natural resource	nongold
+13	trees are a kind of resource	nongold
+14	a tree is a kind of plant	nongold
+15	fossil fuels are a kind of energy resource	nongold
+16	wood is a kind of natural material	nongold
+17	plants are a kind of resource	nongold
+18	renewable resources are often available for many years	nongold
+19	wood is a strong material	nongold
+20	a source of something emits; produces; generates; provides that something	nongold
+21	an oak is a kind of tree	nongold
+22	a material is a kind of resource	nongold
+23	green plants are a kind of producer	nongold
+24	to depend on; to rely on; to need means to require	nongold
+25	an inexhaustible resource is a kind of renewable resource	nongold
+26	nature is the source of natural resources	nongold
+27	a tree is a kind of living thing	nongold
+28	fire causes harm to trees; to forests; to living things	nongold
+29	resources sometimes are used for energy	nongold
+30	logging is when humans cut down trees; forests for wood	nongold
+31	coal is a kind of fossil fuel	nongold
+32	coal is a nonrenewable resource	nongold
+33	oil is a nonrenewable resource	nongold
+34	renewable resources can be used over again	nongold
+35	wood burns	nongold
+36	answering questions requires information	nongold
+37	water is a renewable resource	nongold
+38	wood is a kind of object	nongold
+39	animals are a renewable resource	nongold
+40	oil is a kind of fossil fuel	nongold
+41	if something requires something else then that something requires a source of that something else	nongold
+42	wood is a kind of nonmetal	nongold
+43	to be used for something means to be required by that something	nongold
+44	burning wood is used to produce heat	nongold
+45	a producer is a kind of living thing	nongold
+46	an event is a kind of action	nongold
+47	a leaf is a part of a tree	nongold
+48	metal is a kind of natural resource	nongold
+49	natural gas is a nonrenewable resource	nongold
+50	bark is a part of a tree	nongold
+51	generate means produce	nongold
+52	a wooden log is made of wood	nongold
+53	An example of conservation is not using fossil fuel	nongold
+54	a nonrenewable resource is limited in supply	nongold
+55	if something causes a process then that something is required for that process	nongold
+56	metal is a nonrenewable resource	nongold
+57	a renewable resource can be renewed	nongold
+58	a forest is a kind of ecosystem	nongold
+59	a process is a kind of event	nongold
+60	if something transfers something else then that something is a source of something else	nongold
+61	a renewable resource can be replaced	nongold
+62	affected means changed	nongold
+63	petroleum is a kind of fossil fuel	nongold
+64	if something comes from something else then that something else is a source of that something	nongold
+65	if something releases something else then that something is the source of that something else	nongold
+66	an energy source is a kind of resource	nongold
+67	can be means able to be	nongold
+68	producing renewable electric energy requires renewable resources	nongold
+69	wood is a thermal; thermal energy insulator	nongold
+70	wood is an thermal; thermal energy insulator	nongold
+71	to be formed by is similar to being produced by	nongold
+72	solar energy is a renewable; inexhaustible resource	nongold
+73	where something  comes from is a source of that something	nongold
+74	a part of a process means a stage in a process	nongold
+75	made up of means contains; made of	nongold
+76	wood is usually sturdy	nongold
+77	if something is a raw material in a process then that something is required for that process	nongold
+78	a natural resource is a kind of environmental factor	nongold
+79	a forest is a kind of environment	nongold
+80	oil is a kind of energy resource	nongold
+81	a forest contains  lots of plants; trees	nongold
+82	fossil fuels have high potential energy	nongold
+83	composed of means made of	nongold
+84	material means substance	nongold
+85	a plant is a kind of living thing	nongold
+86	emit means produce	nongold
+87	if something is required for a process then that something positively impacts that process	nongold
+88	a plant is a kind of organism	nongold
+89	timber companies cut down trees	nongold
+90	if something gains something from something else then that something else is a source of that something	nongold
+91	a component of something means a part of that something	nongold
+92	an object; material; substance comes from that object or material's source	nongold
+93	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+94	products are formed; are produced; are created	nongold
+95	form means kind	nongold
+96	wood is a light material	nongold
+97	a leaf is a part of a  green plant	nongold
+98	producing is a kind of process	nongold
+99	a component means a part of	nongold

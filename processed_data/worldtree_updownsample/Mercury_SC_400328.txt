@@ -1,0 +1,63 @@
+0	a surface is a part of an object	nongold
+1	protection means resistance to damage increases	nongold
+2	negative impact is the opposite of positive impact	nongold
+3	water is a part of an environment	nongold
+4	Camouflage is synonymous with visual disguise	nongold
+5	protecting something means preventing harm to that something	gold
+6	safety goggles	answer
+7	safety goggles are used for protecting the eyes during experiments	gold
+8	to be used  for something means to help to do that something	nongold
+9	fire is a kind of chemical reaction	nongold
+10	material means substance	nongold
+11	an object is an item	gold
+12	goggles are a kind of object	gold
+13	Which item is used for protection from chemical splashing?	question
+14	requiring is similar to needing help	nongold
+15	chemical splashing can cause harm to humans; to the eyes	gold
+16	laboratory apron; laboratory coat is a kind of safety gear for protecting a person during an experiment	nongold
+17	an article of clothing is a kind of object	nongold
+18	chemical splashing sometimes occurs during experiments	gold
+19	a source of something emits; produces; generates; provides that something	nongold
+20	decreasing use  of a resource protects that resource	nongold
+21	safe is the opposite of unsafe; harm; danger	nongold
+22	a vehicle is a kind of object	nongold
+23	strong means high in strength	nongold
+24	toxic means poisonous	nongold
+25	safety goggles are used for protecting the eyes during experiments	gold
+26	an object is an item	gold
+27	goggles are a kind of object	gold
+28	an object is an item	gold
+29	danger has a negative impact on a thing	nongold
+30	an animal is a kind of organism	nongold
+31	shelter is a kind of place;building;structure for protection	nongold
+32	chemical splashing sometimes occurs during experiments	gold
+33	chemical splashing sometimes occurs during experiments	gold
+34	inhibitor means something that prevents something from happening	nongold
+35	an event is a kind of action	nongold
+36	a body part is a kind of object	nongold
+37	Which item is used for protection from chemical splashing?	question
+38	something hard; something strong can be used for protection	nongold
+39	goggles are a kind of object	gold
+40	safety goggles are used for protecting the eyes during experiments	gold
+41	skin is a part of a frog for breathing; protection; absorbing moisture	nongold
+42	harming something has a  negative impact on; effect on that something	nongold
+43	Which item is used for protection from chemical splashing?	question
+44	protecting something means preventing harm to that something	gold
+45	protecting something means preventing harm to that something	gold
+46	chemical reactions cause chemical change	nongold
+47	objects are made of materials; substances; matter	nongold
+48	safety goggles	answer
+49	water is a kind of substance	nongold
+50	safety goggles are a kind of safety gear	nongold
+51	safety goggles	answer
+52	a liquid is a kind of substance	nongold
+53	safety goggles	answer
+54	chemical splashing can cause harm to humans; to the eyes	gold
+55	Which item is used for protection from chemical splashing?	question
+56	skin is used for protecting the body from harmful substances	nongold
+57	person is synonymous with human	nongold
+58	damage means harm	nongold
+59	combustibility is a kind of  chemical property	nongold
+60	chemical splashing can cause harm to humans; to the eyes	gold
+61	helping something has a  positive impact on that something	nongold
+62	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold

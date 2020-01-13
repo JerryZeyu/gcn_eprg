@@ -1,0 +1,101 @@
+0	Sara tums on a flashlight and holds an object up to the light. How will she be able to tell if the object is opaque?	question
+1	No light will shine through.	answer
+2	no light shines through an opaque object	nongold
+3	if an object is opaque , then light will not shine through that object	gold
+4	opacity is a property of an object and includes ordered values of opaque; translucent; transparent	gold
+5	if an object is translucent , then some light will shine through that object	nongold
+6	to shine means to emit light	nongold
+7	if an object is transparent , then light will shine through that object without scattering	nongold
+8	a flashlight is a kind of tool	nongold
+9	a flashlight is a kind of electrical device	nongold
+10	a flashlight emits light	gold
+11	a flashlight is a kind of battery-operated device	nongold
+12	if an object is in the light then that object is blocking the light	nongold
+13	sight means to see	nongold
+14	a flashlight converts electrical energy; electricity into light energy	nongold
+15	objects are made of materials; substances; matter	nongold
+16	sunlight is a kind of light	nongold
+17	reflecting light; sound is the opposite of absorbing light; sound	nongold
+18	can be means able to be	nongold
+19	brightness means amount of light	nongold
+20	if one is holding an object then one is touching that object	nongold
+21	dark means a low amount of light	nongold
+22	to illuminate means to light up	nongold
+23	a human is a kind of animal	nongold
+24	dark is the opposite of light	nongold
+25	a surface is a part of an object	nongold
+26	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+27	to see means to look	nongold
+28	shiny things; objects reflect light	nongold
+29	if an object is translucent , then some light will scatter	nongold
+30	an animal is a kind of living thing	nongold
+31	clay is usually opaque	nongold
+32	observe means see	nongold
+33	light means light energy	nongold
+34	an animal is a kind of organism	nongold
+35	to pass through means to move through	nongold
+36	a living thing is a kind of object	nongold
+37	a person is a kind of animal	nongold
+38	a surface is a part of a material	nongold
+39	to reflect light means to scatter light	nongold
+40	eyes are used for seeing by animals by sensing light	nongold
+41	seeing requires light	nongold
+42	a light bulb is a kind of tool for seeing in the dark	nongold
+43	dim means a small amount of light	nongold
+44	cannot means not be able to	nongold
+45	sunlight shining means sunlight is provided	nongold
+46	eyes can sense;detect light energy for seeing	nongold
+47	a flashlight requires a source of electricity to produce light	nongold
+48	when object is in direct light then that object is not shaded	nongold
+49	to store means to hold	nongold
+50	if an object is made of a material then that object has the properties of that material	nongold
+51	a light bulb is used for seeing in the dark	nongold
+52	room contains walls	nongold
+53	a device is a kind of object	nongold
+54	person is synonymous with human	nongold
+55	an part of an object is smaller than the entire object	nongold
+56	a tool is a kind of object	nongold
+57	sight means vision	nongold
+58	eyes are usually part of an animal for seeing	nongold
+59	a container contains objects; material; substances	nongold
+60	when light hits a reflective object , that light bounces off that object	nongold
+61	the ability to do means be able to do	nongold
+62	not looking means not seeing	nongold
+63	eyes are a part of a human for seeing	nongold
+64	if an object is black then that object absorbs all visible light; heat	nongold
+65	an organism is a living thing	nongold
+66	sight is a kind of sense	nongold
+67	not visible means cannot be seen	nongold
+68	brightness is a property of a light source	nongold
+69	human eyes can only see light in the range of visible light	nongold
+70	visible means able to be seen	nongold
+71	device means tool	nongold
+72	if something is in a dark place , then that something will not reflect enough light to be seen	nongold
+73	a source of something emits; produces; generates; provides that something	nongold
+74	if the surface of an object contains something then that object is covered with that something	nongold
+75	if an object is held under a substance then that object is touching that substance	nongold
+76	light reflecting off of an object causes that object to be visible to the observer	nongold
+77	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+78	metal is reflective	nongold
+79	invisible means cannot be seen	nongold
+80	a surface is a kind of object	nongold
+81	counter means reduce; stop; resist	nongold
+82	a wall is a kind of surface	nongold
+83	motion; movement means moving; to move	nongold
+84	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+85	observable means visible	nongold
+86	human is a kind of organism	nongold
+87	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+88	cardboard is opaque	nongold
+89	darkness occurs at night	nongold
+90	a girl is a kind of animal	nongold
+91	low means down	nongold
+92	glass; objects made of glass cause refraction of light	nongold
+93	material means substance	nongold
+94	to view means to see	nongold
+95	light means low  in weight	nongold
+96	night is low in light; in visibility	nongold
+97	daylight means sunlight	nongold
+98	light is a kind of wave	nongold
+99	being  on something; placed in something; placed over something means touching  that something	nongold
+100	sunlight contains infrared light	nongold

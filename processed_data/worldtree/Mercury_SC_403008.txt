@@ -1,0 +1,102 @@
+Question	Which tool is best used to collect information about the weather?	question
+Answer	thermometer	answer
+0	a thermometer is a kind of instrument for measuring temperature	gold
+1	a thermometer is used to measure temperature	gold
+2	An example of collecting data is measuring	gold
+3	instrument means tool	gold
+4	to collect means to gather	nongold
+5	data means information	gold
+6	answering questions requires information	nongold
+7	a measurement is a kind of data	nongold
+8	an instrument is a piece of equipment	nongold
+9	getting information sometimes requires observing; observation	nongold
+10	monitoring something is used for knowing information about that something	nongold
+11	measuring sometimes requires  recording; learning an amount	nongold
+12	weather forecast means weather prediction	nongold
+13	a tool is a kind of object	nongold
+14	to observe means to gather information	nongold
+15	measuring requires reading a measurement	nongold
+16	a weather report describes weather	nongold
+17	weather is  a measure of the condition of the air in a place at a certain time	nongold
+18	measuring is a kind of observing	nongold
+19	instrument means device	nongold
+20	knowing the properties of something means knowing information about that something	nongold
+21	temperature is a property of weather	gold
+22	calculation means measurement	nongold
+23	recording an observation sometimes requires measuring	nongold
+24	approximately means about	nongold
+25	if studying something is used to learn about something then that something is a source of information	nongold
+26	measuring is used for describing an object	nongold
+27	device means tool	nongold
+28	to be made of is similar to collection	nongold
+29	storm is a kind of weather; weather event	nongold
+30	collecting is similar to absorbing	nongold
+31	rainy is a kind of weather	nongold
+32	an increase is a kind of change	nongold
+33	recording is similar to measuring	nongold
+34	predicting weather requires studying weater	nongold
+35	information is used to describe something	nongold
+36	inventing a tool allows; enables that tool to be used	nongold
+37	weather is a property of a environment	nongold
+38	learning about something sometimes requires observing that something	nongold
+39	can be means able to be	nongold
+40	to be used for something means to be required by that something	nongold
+41	useful means able to be used	nongold
+42	the function of something is what that something  is used to do	nongold
+43	a process is a kind of event	nongold
+44	indication is similar to a piece of information	nongold
+45	a speedometer is used for giving a driver feedback on the speed of their vehicle	nongold
+46	precipitation is a kind of weather	nongold
+47	a description sometimes provides information	nongold
+48	best means most positive	nongold
+49	an event is a kind of action	nongold
+50	an anemometer is a kind of instrument for measuring wind speed	nongold
+51	a type is synonymous with a kind	nongold
+52	tool is similar to appliance	nongold
+53	weather  usually happens in troposphere	nongold
+54	technology is similar to tool	nongold
+55	wind speed is a property of weather	nongold
+56	a cloud is a kind of weather	nongold
+57	climate is the usual kind of weather in a location over a period of time	nongold
+58	astronomy is the study of celestial (objects, bodies)	nongold
+59	sense is used for obtaining information about one's environment	nongold
+60	high is similar to increase	nongold
+61	cloudy is a kind of  weather	nongold
+62	a property is a kind of information	nongold
+63	an anemometer is used to measure wind speed	nongold
+64	days are a kind of unit for measuring time	nongold
+65	property is similar to measurement	nongold
+66	a barometer is a kind of instrument for measuring air pressure	nongold
+67	scientists make observations	nongold
+68	to measure means to calculate	nongold
+69	a speedometer is a part of an automobile	nongold
+70	a human is a kind of animal	nongold
+71	a station model is used for displaying information about weather in a particular point and time	nongold
+72	calculating speed requires knowing distance travelled	nongold
+73	cold is a kind of weather	nongold
+74	weather is a source of wind and water for the weathering process	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	a vehicle is a kind of tool for travel; transport	nongold
+77	clear weather means sunny; not cloudy; not rainy weather	nongold
+78	process is similar to method	nongold
+79	a change is a kind of event	nongold
+80	helping something has a  positive impact on that something	nongold
+81	mass is a kind of information	nongold
+82	an object is an item	nongold
+83	a component means a part of	nongold
+84	satellites have had the greatest; most positive impact on the accuracy of weather predictions	nongold
+85	to create means to make	nongold
+86	condensing is similar to collecting	nongold
+87	an indicator is made of litmus paper	nongold
+88	to provide something means to be the source of that something	nongold
+89	atmosphere means  air	nongold
+90	a barometer is used to measure air pressure	nongold
+91	location is a kind of information	nongold
+92	no longer means used to be	nongold
+93	observations; data are a part of the results of an experiment	nongold
+94	a simple machine is a kind of tool	nongold
+95	form means kind	nongold
+96	measuring is a kind of science skill	nongold
+97	to produce means to create	nongold
+98	satellite technology is used for predicting the weather	nongold
+99	thermosphere is a  layer of Earth's atmosphere	nongold

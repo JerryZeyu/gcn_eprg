@@ -1,0 +1,51 @@
+0	construction of a building usually requires clearing the land as the first step; beforehand	gold
+1	typically means usually	gold
+2	land area means land mass	nongold
+3	slab is a kind of foundation in construction	nongold
+4	a landform is a kind of object	nongold
+5	typically means usually	gold
+6	high is similar to increase	nongold
+7	helping means something can be done; completed more easily; better	nongold
+8	the ground means Earth's surface	nongold
+9	a wall is a kind of surface	nongold
+10	The first step in the construction of a building typically involves	question
+11	clearing the land.	answer
+12	clearing the land.	answer
+13	a surface is a part of an object	nongold
+14	answering questions requires information	nongold
+15	construction of a building usually requires clearing the land as the first step; beforehand	gold
+16	clearing the land.	answer
+17	place means area	nongold
+18	land is a kind of landform	nongold
+19	soil is a part of the ground outside	nongold
+20	forming is a kind of action	nongold
+21	a vehicle for something allows; enables that something to occur	nongold
+22	clearing the land.	answer
+23	final means last	nongold
+24	to cause an event is similar to being involved in that event	nongold
+25	a landform is a kind of place	nongold
+26	if something performs a task then that task is that something's function	nongold
+27	a step in a process means a stage in a process	nongold
+28	typically means usually	gold
+29	the function of something is what that something  is used to do	nongold
+30	clearing a forest means humans cutting down the trees	nongold
+31	person is synonymous with human	nongold
+32	lots means much	nongold
+33	The first step in the construction of a building typically involves	question
+34	soil is made of very small rocks; minerals	nongold
+35	an animal is a kind of living thing	nongold
+36	a part of a process means a stage in a process	nongold
+37	a process is a kind of event	nongold
+38	an event is a kind of action	nongold
+39	greatest means largest; highest; most amount of something	nongold
+40	construction of a building usually requires clearing the land as the first step; beforehand	gold
+41	a home is a kind of building	nongold
+42	In the construction of a building excavation has the role of hollowing out the ground for the foundation	nongold
+43	The first step in the construction of a building typically involves	question
+44	land is a kind of resource	nongold
+45	a landform is a kind of place	nongold
+46	building something often requires measuring the materials	nongold
+47	place is synonymous with location	nongold
+48	vegetation means plants	nongold
+49	problem is similar to issue	nongold
+50	The first step in the construction of a building typically involves	question

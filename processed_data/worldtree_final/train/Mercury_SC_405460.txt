@@ -1,0 +1,101 @@
+0	Some types of medicines can be used to cure people when they are sick. Some medicines, however, may cause bad reactions to the people taking them. This difference is an example of	question
+1	the solution to one problem causing another problem.	answer
+2	a bad reaction to medicine is a kind of problem	gold
+3	medicine can cause people to have bad reactions	gold
+4	being sick is a kind of problem; harm	gold
+5	cure means solution to being sick	gold
+6	a problem has a negative impact on a thing	nongold
+7	causing problems is a kind of negative impact	nongold
+8	medicine is used for curing people when they are sick	gold
+9	disease means illness	nongold
+10	a person is a kind of animal	nongold
+11	problem is similar to issue	nongold
+12	solution is similar to a positive impact	nongold
+13	a kind of something is an example of that something	nongold
+14	illness has a negative impact on an organism's health	nongold
+15	a  solution  is a kind of object	nongold
+16	a concern; a problem is a possible negative impact	nongold
+17	harming something has a  negative impact on; effect on that something	nongold
+18	person is synonymous with human	nongold
+19	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+20	taking in something means receiving; absorbing; getting something	nongold
+21	a human is a kind of animal	nongold
+22	an animal is a kind of organism	nongold
+23	address a problem means reduce a problem	nongold
+24	negative impact is the opposite of positive impact	nongold
+25	adverse effect means negative impact	nongold
+26	a type is synonymous with a kind	nongold
+27	something harmful can cause harm	nongold
+28	helping something has a  positive impact on that something	nongold
+29	to cause means to have an effect	nongold
+30	taking is the opposite of giving; leaving	nongold
+31	to help; to benefit means to be of use	nongold
+32	to be used  for something means to help to do that something	nongold
+33	harming an organism can cause that organism to die	nongold
+34	disease has a negative impact on an organism	nongold
+35	a reaction is a kind of process	nongold
+36	requiring is similar to needing help	nongold
+37	good means positive	nongold
+38	receiving a treat is a kind of positive effect	nongold
+39	high is similar to increase	nongold
+40	impact means effect	nongold
+41	an animal is a kind of living thing	nongold
+42	death means to die	nongold
+43	an increase is the opposite of a decrease	nongold
+44	a negative impact is a kind of consequence; risk	nongold
+45	if something causes a process then that something is required for that process	nongold
+46	to be a source of something means to cause that something	nongold
+47	learning about the cause of a disease has a positive impact on finding a cure for the disease	nongold
+48	to be used for something means to be required by that something	nongold
+49	to cause means to result in	nongold
+50	dying is the opposite of living; surviving	nongold
+51	to add means to increase	nongold
+52	causing is a kind of affecting	nongold
+53	to help means to aid	nongold
+54	result means outcome	nongold
+55	low is similar to decrease	nongold
+56	human is a kind of organism	nongold
+57	to make something easier means to help	nongold
+58	to change means to cause a change	nongold
+59	food poisoning is a kind of illness	nongold
+60	if a living thing requires something then that something has a positive impact on that living thing	nongold
+61	to lead to means to cause	nongold
+62	best means most positive	nongold
+63	to change means to have an effect	nongold
+64	to impact means to affect	nongold
+65	an organism is a living thing	nongold
+66	can be means able to be	nongold
+67	nonliving; non-living; die is the opposite of living; alive; live	nongold
+68	to cause means to make	nongold
+69	a change is a kind of difference	nongold
+70	to give is similar to to cause	nongold
+71	solution is a kind of liquid	nongold
+72	a solution is formed by one substance being dissolved in another substance	nongold
+73	to slow; to slow down decreases speed	nongold
+74	a solution is made of one substance dissolved in another substance	nongold
+75	affected means changed	nongold
+76	to hurt means to harm	nongold
+77	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+78	better means good	nongold
+79	less is similar to decrease	nongold
+80	to lower means to decrease	nongold
+81	to cause an event is similar to being involved in that event	nongold
+82	to keep a process or event happening is similar to causing that process or event to happen	nongold
+83	to cause something means to contribute to that something happening	nongold
+84	to cause means to be responsible for	nongold
+85	form means kind	nongold
+86	life means living things	nongold
+87	dysentery is a kind of illness	nongold
+88	if a living thing dies then that living thing is dead	nongold
+89	high-quality means positive	nongold
+90	to reduce means to decrease	nongold
+91	producing is similar to causing	nongold
+92	damage means harm	nongold
+93	decreasing something negative has a positive impact on a thing	nongold
+94	bacteria can cause people to become ill	nongold
+95	food is a kind of substance	nongold
+96	decreasing something positive has a negative impact on a thing	nongold
+97	to happen means to occur	nongold
+98	variable means able to change	nongold
+99	to be good for means to have a positive impact on	nongold
+100	larger is a kind of difference	nongold

@@ -1,0 +1,102 @@
+Question	Foam weather stripping is often placed in the frames of doors and windows in a home. What is the purpose of this weather stripping?	question
+Answer	The weather stripping reduces heat loss due to convection.	answer
+0	weather stripping is used for reducing heat loss by convection	gold
+1	a strip is a kind of object	nongold
+2	a home is a kind of building	nongold
+3	function is similar to purpose	nongold
+4	loss means reduction	nongold
+5	convection is a kind of process	nongold
+6	something is used for that something's purpose	gold
+7	the function of something is what that something  is used to do	nongold
+8	convection is when a liquid is heated by hotter material rising to the top of the liquid	nongold
+9	if there is a loss of something then that something decreases	nongold
+10	convection is when the heated part of gas rises	nongold
+11	purpose means role	nongold
+12	a house is a kind of home	nongold
+13	convection causes uneven heating	nongold
+14	due to means caused by	nongold
+15	a house is a kind of building	nongold
+16	temperature is a measure of heat energy	nongold
+17	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+18	to reduce means to decrease	nongold
+19	loss is a kind of change	nongold
+20	heat has a great impact on weather	nongold
+21	heat means heat energy	nongold
+22	a surface is a part of a material	nongold
+23	temperature is a property of weather	nongold
+24	plastic is a kind of thermal insulator	nongold
+25	typically means usually	nongold
+26	if an object is made of a material then that object has the properties of that material	nongold
+27	rubber is a kind of material	nongold
+28	to add means to increase	nongold
+29	a window is a part of a house	nongold
+30	weather is a property of a environment	nongold
+31	being  on something; placed in something; placed over something means touching  that something	nongold
+32	if something performs a task then that task is that something's function	nongold
+33	to be used for something means to be required by that something	nongold
+34	heat means temperature increases	nongold
+35	conductivity is a property of a material; substance	nongold
+36	foam; bubble is made of pockets of gas trapped in a liquid or solid	nongold
+37	weather  usually happens in troposphere	nongold
+38	a surface is a part of an object	nongold
+39	plastic is high in strength	nongold
+40	placing is a kind of action	nongold
+41	an increase is a kind of change	nongold
+42	to lower means to decrease	nongold
+43	reducing is a kind of change	nongold
+44	objects are made of materials; substances; matter	nongold
+45	high is similar to increase	nongold
+46	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+47	weather is a source of wind and water for the weathering process	nongold
+48	plastic is a kind of material made by humans	nongold
+49	if something is places over a heat source then that something is exposed to that heat source	nongold
+50	if something emits something else then that something increases the amount of that something else	nongold
+51	materials are made of matter	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	harming something has a  negative impact on; effect on that something	nongold
+54	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+55	a source of something increases the amount of that something	nongold
+56	adding heat means increasing temperature	nongold
+57	weather is  a measure of the condition of the air in a place at a certain time	nongold
+58	a decrease is a kind of change	nongold
+59	storm is a kind of weather; weather event	nongold
+60	to give off means to be the source of	nongold
+61	an insulator is a kind of material	nongold
+62	a door is a kind of object	nongold
+63	counter means reduce; stop; resist	nongold
+64	rubber is a kind of solid	nongold
+65	an increase is the opposite of a decrease	nongold
+66	air is usually a thermal; thermal energy insulator	nongold
+67	rubber is usually flexible	nongold
+68	rubber is thermal;thermal energy insulator	nongold
+69	absorbing energy causes objects; materials; substances to heat	nongold
+70	requiring is similar to needing help	nongold
+71	absorbing sunlight causes objects to heat	nongold
+72	low is similar to decrease	nongold
+73	plastic is usually translucent	nongold
+74	a surface is a kind of object	nongold
+75	a weather report describes weather	nongold
+76	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+77	cloudy is a kind of  weather	nongold
+78	helping something has a  positive impact on that something	nongold
+79	moisture means liquid; liquid water	nongold
+80	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+81	as the cause of something decreases , that something will decrease	nongold
+82	if something with the same function as something else is being used then the use of that something else decreases	nongold
+83	a tool is a kind of object	nongold
+84	rubber is a kind of nonmetal	nongold
+85	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+86	metal is a kind of material	nongold
+87	substances are made of matter	nongold
+88	cold is a kind of weather	nongold
+89	a thermal insulator slows; prevents the transfer of heat	nongold
+90	a window is a kind of object	nongold
+91	a process usually requires all of the stages in that process	nongold
+92	a source of heat can be used to heat something	nongold
+93	a source of heat can be used to heat something	nongold
+94	weathering is a kind of process	nongold
+95	a process is a kind of event	nongold
+96	if something causes a process then that something is required for that process	nongold
+97	a hot; warm something is a source of heat	nongold
+98	can be means able to be	nongold
+99	an environment means an area	nongold

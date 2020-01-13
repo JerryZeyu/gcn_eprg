@@ -1,0 +1,63 @@
+0	place means area	nongold
+1	a beach is a kind of location	nongold
+2	erosion	answer
+3	soil erosion means soil loss through wind;water; animals	gold
+4	erosion of soil has a  negative impact on the environment; soil quality	nongold
+5	sand is insoluble in water	nongold
+6	At some places in Florida, sand on the beaches is being reduced. New sand is brought from other areas and spread on the beaches. What process causes this reduction to the beach sand?	question
+7	change is a kind of process	nongold
+8	if something transfers something else then that something is a source of something else	nongold
+9	sand is similar to soil	gold
+10	to create means to make	nongold
+11	soil erosion is a kind of slow; natural process	gold
+12	spreading is a kind of motion	nongold
+13	to limit means to decrease	nongold
+14	erosion	answer
+15	to be a source of something means to cause that something	nongold
+16	a body of water is a kind of environment	nongold
+17	remove means decrease	nongold
+18	soil contains water; humus; weathered rocks; organic matter	nongold
+19	At some places in Florida, sand on the beaches is being reduced. New sand is brought from other areas and spread on the beaches. What process causes this reduction to the beach sand?	question
+20	soil erosion is when wind; moving water; gravity move soil from fields; environments	gold
+21	a beach is a kind of habitat; environment	gold
+22	soil erosion is when wind; moving water; gravity move soil from fields; environments	gold
+23	sand is a part of a beach	nongold
+24	soil erosion means soil loss through wind;water; animals	gold
+25	overgrazing increases soil erosion	nongold
+26	new means different from the former one	nongold
+27	sand has a rough surface	nongold
+28	a beach is usually part of an island	nongold
+29	At some places in Florida, sand on the beaches is being reduced. New sand is brought from other areas and spread on the beaches. What process causes this reduction to the beach sand?	question
+30	a process is a kind of event	nongold
+31	soil is usually part of an environment	nongold
+32	a source of something emits; produces; generates; provides that something	nongold
+33	soil erosion is a kind of event	nongold
+34	soil erosion is a kind of slow; natural process	gold
+35	to cause means to make	nongold
+36	landform means surface feature; physical feature; land feature	nongold
+37	bringing is a kind of action	nongold
+38	erosion is a kind of change	nongold
+39	to be used for something means to be required by that something	nongold
+40	the formation of something is a kind of process	nongold
+41	soil erosion is a kind of slow; natural process	gold
+42	sand is insoluble in water	nongold
+43	soil erosion means soil loss through wind;water; animals	gold
+44	creating is similar to causing	nongold
+45	At some places in Florida, sand on the beaches is being reduced. New sand is brought from other areas and spread on the beaches. What process causes this reduction to the beach sand?	question
+46	loss means reduction	gold
+47	an increase is the opposite of a decrease	nongold
+48	to cause something means to contribute to that something happening	nongold
+49	a process usually requires all of the stages in that process	nongold
+50	a beach is a kind of habitat; environment	gold
+51	erosion	answer
+52	loss means reduction	gold
+53	the surface of a beach is formed by mechanical weathering	nongold
+54	loss means reduction	gold
+55	less means a reduced amount	nongold
+56	soil erosion is when wind; moving water; gravity move soil from fields; environments	gold
+57	sand is similar to soil	gold
+58	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+59	a beach is a kind of habitat; environment	gold
+60	sand is similar to soil	gold
+61	erosion	answer
+62	a source of something increases the amount of that something	nongold

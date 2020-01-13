@@ -1,0 +1,66 @@
+0	less is similar to decrease	nongold
+1	high is similar to increase	gold
+2	low is similar to decrease	nongold
+3	harming something has a  negative impact on; effect on that something	nongold
+4	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+5	Earth's distance from the Sun helps the planet sustain life. If the Sun were larger, what would most likely also have to be true for Earth to sustain life?	question
+6	moving away from the source increases the distance	nongold
+7	furthest; farthest means greatest; most; highest in distance	gold
+8	sunlight is a kind of light	nongold
+9	the sun is a source of radiation; heat called sunlight	gold
+10	little is similar to decrease	nongold
+11	high is similar to increase	gold
+12	an animal; living thing requires nutrients for survival	nongold
+13	to reduce means to decrease	nongold
+14	greater means higher; more in value	nongold
+15	larger means greater; higher; more; increase in size	gold
+16	solar energy is a kind of heat energy	nongold
+17	larger is a kind of difference	nongold
+18	as distance from a source of something increases , that something will decrease	gold
+19	an animal is a kind of living thing	nongold
+20	solar radiation means solar energy	nongold
+21	a star is a kind of celestial object; celestial body	nongold
+22	Earth's distance from the Sun helps the planet sustain life. If the Sun were larger, what would most likely also have to be true for Earth to sustain life?	question
+23	the sun is a source of radiation; heat called sunlight	gold
+24	as the size of a source of something increases , the amount of the something that that source produces will decrease	gold
+25	larger means greater; higher; more; increase in size	gold
+26	flourishing means large; high in population size	nongold
+27	the distance between the Sun and Earth causes liquid water to be able to exist on Earth	nongold
+28	high is similar to increase	gold
+29	as distance from an object decreases , that object will appear larger	nongold
+30	Earth would have to be further from the Sun.	answer
+31	increase means more	nongold
+32	a planet is a kind of location	nongold
+33	the sun is the strongest source of gravity in the solar system	nongold
+34	change is a kind of impact	nongold
+35	as distance from a source of something increases , that something will decrease	gold
+36	furthest; farthest means greatest; most; highest in distance	gold
+37	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+38	Earth would have to be further from the Sun.	answer
+39	to create means to make	nongold
+40	higher means greater; above in value; amount; number	nongold
+41	the Sun is the  star that is closest to Earth	nongold
+42	as the size of a source of something increases , the amount of the something that that source produces will decrease	gold
+43	the sun is a source of radiation; heat called sunlight	gold
+44	as distance from a source of something increases , that something will decrease	gold
+45	an increase is the opposite of a decrease	gold
+46	to lower means to decrease	nongold
+47	far means great in distance	nongold
+48	to help; to benefit means to be of use	nongold
+49	sunlight means solar energy	nongold
+50	larger means greater; higher; more; increase in size	gold
+51	smaller means less; lower in size	nongold
+52	Earth's distance from the Sun helps the planet sustain life. If the Sun were larger, what would most likely also have to be true for Earth to sustain life?	question
+53	an increase is the opposite of a decrease	gold
+54	the sun is the source of energy for life on Earth	nongold
+55	an increase is the opposite of a decrease	gold
+56	Earth would have to be further from the Sun.	answer
+57	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+58	Earth would have to be further from the Sun.	answer
+59	good means positive	nongold
+60	furthest; farthest means greatest; most; highest in distance	gold
+61	Earth's distance from the Sun helps the planet sustain life. If the Sun were larger, what would most likely also have to be true for Earth to sustain life?	question
+62	a human is a kind of animal	nongold
+63	Earth is the planet that is third closest to the  Sun	nongold
+64	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+65	as the size of a source of something increases , the amount of the something that that source produces will decrease	gold

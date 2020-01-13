@@ -1,0 +1,102 @@
+0	Which color shirt will reflect the most light on a hot, sunny day?	question
+1	white	answer
+2	a sunny day has  lots of sunlight	gold
+3	white is a kind of color	gold
+4	white objects absorbs the least sunlight	nongold
+5	if an object is white then that object reflects all visible light	nongold
+6	a shirt is a kind of article of clothing	gold
+7	a white object reflects all visible light	gold
+8	sunshine means sunlight	nongold
+9	sunny is a kind of weather	nongold
+10	bright means bright; light in color	nongold
+11	reflecting light; sound is the opposite of absorbing light; sound	nongold
+12	black objects absorbs the most sunlight	nongold
+13	if an object reflects a light of a certain color then the object appears to be that color	nongold
+14	clear weather means sunny; not cloudy; not rainy weather	nongold
+15	sunlight is a kind of light	gold
+16	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+17	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+18	if an object is black then that object absorbs all visible light; heat	nongold
+19	color is a property of  an object; a material	nongold
+20	brightness means amount of light	nongold
+21	bright means a lot of light	nongold
+22	sunlight means solar energy	nongold
+23	hot means high in heat energy; temperature	nongold
+24	the sun is a source of light; light energy called sunlight	nongold
+25	if an object reflects more light then that object is more easily seen	nongold
+26	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+27	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+28	sunlight produces heat	nongold
+29	the sun is a source of radiation; heat called sunlight	nongold
+30	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+31	white light is made of all colors of visible light combined	nongold
+32	to bounce back means to reflect	nongold
+33	coloration means a thing's color	nongold
+34	the sunlight occurs during the day	nongold
+35	objects of other colors absorbs less amount of sunlight than black objects	nongold
+36	sunlight is a kind of solar energy	nongold
+37	green is a kind of color	nongold
+38	shiny things; objects reflect light	nongold
+39	daylight means sunlight	nongold
+40	color is a kind of physical; visual property	nongold
+41	heat means heat energy	nongold
+42	dark means a low amount of light	nongold
+43	a hot; warm something is a source of heat	nongold
+44	warm means medium heat energy; temperature	nongold
+45	if something is outside during the day then that something will receive sunlight	nongold
+46	solar energy is a kind of light	nongold
+47	black is a kind of color	nongold
+48	intensity of sunlight is similar to amount of sunlight	nongold
+49	dark is the opposite of light	nongold
+50	darker objects absorb more light than light colored objects	nongold
+51	solar energy is a kind of heat energy	nongold
+52	if an object is blue then that object reflects only blue light	nongold
+53	the sun is the source of solar energy called sunlight	nongold
+54	to receive sunlight means to absorb sunlight	nongold
+55	temperature is a measure of heat energy	nongold
+56	absorbing sunlight causes objects to heat	nongold
+57	a type is synonymous with a kind	nongold
+58	brighter means higher; greater in brightness	nongold
+59	to put on means to wear	nongold
+60	red is a kind of color	nongold
+61	a human is a kind of animal	nongold
+62	increase means more	nongold
+63	gray is a combination of black and white	nongold
+64	a blue object reflects only blue light	nongold
+65	shade means low sunlight	nongold
+66	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+67	high is similar to increase	nongold
+68	as lightness in color of an object increases , the ability of that object to reflect light will increase	nongold
+69	coloration means a pattern of colors	nongold
+70	to lower means to decrease	nongold
+71	light reflecting off of an object causes that object to be visible to the observer	nongold
+72	receiving sunlight  is synonymous with absorbing sunlight	nongold
+73	if an object is blue , then that object absorbs all the lights except blue light	nongold
+74	solar energy is a kind of energy	nongold
+75	UV light is a kind of light	nongold
+76	an increase is the opposite of a decrease	nongold
+77	a sweater is a kind of article of clothing	nongold
+78	rainy is a kind of weather	nongold
+79	as the sunlight absorbed by the object increases ,  the temperature of the object  will increase more	nongold
+80	solar radiation means solar energy	nongold
+81	temperature is a property of weather	nongold
+82	low is similar to decrease	nongold
+83	temperature changing does not cause color to change	nongold
+84	heat has a great impact on weather	nongold
+85	sunlight shining means sunlight is provided	nongold
+86	a cloudy day has little sunlight	nongold
+87	warm is the opposite of cool	nongold
+88	An example of camouflage is when something is; has the same color as its environment	nongold
+89	the Sun is a kind of star	nongold
+90	greatest means largest; highest; most amount of something	nongold
+91	as the light reflected off of an object increases , the object will appear to be brighter	nongold
+92	to reduce means to decrease	nongold
+93	warm is similar to hot	nongold
+94	an article of clothing is a kind of object	gold
+95	light means light energy	nongold
+96	to reflect light means to scatter light	nongold
+97	cool means cold	nongold
+98	an animal is a kind of living thing	nongold
+99	pink is a combination of red and white	nongold
+100	to be in the sun means to be in the sunlight	nongold
+101	summer has hot temperatures; weather	nongold

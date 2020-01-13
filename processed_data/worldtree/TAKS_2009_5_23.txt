@@ -1,0 +1,102 @@
+Question	The Davis Mountains in West Texas used to be taller than they are now. Which of the following conditions most likely caused the mountains to become shorter over time?	question
+Answer	Rain and wind	answer
+0	rain is a kind of precipitation	nongold
+1	rain is a kind of water	gold
+2	rainfall means precipitation	nongold
+3	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+4	precipitation is a kind of weather	nongold
+5	rain; snow falls	nongold
+6	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+7	a mountain; hill is taller than the land around it	nongold
+8	shorter means smaller; less in  height	gold
+9	precipitation is when water falls from the sky	nongold
+10	shorter means decreased length	nongold
+11	rain is a source of water	nongold
+12	wind and rain; storms cause erosion	nongold
+13	to shorten means to make shorter	nongold
+14	Texas is a state located in the United States of America	nongold
+15	length of time means period of time	nongold
+16	rising means height; altitude increases	nongold
+17	taller means greater in height; size	nongold
+18	rain causes erosion	nongold
+19	rainfall means the amount of precipitation	nongold
+20	tall means great in height	nongold
+21	precipitation is a property of weather	nongold
+22	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+23	a mountain; mountain range is a kind of environment	nongold
+24	rainfall is the amount of rain an area receives	nongold
+25	a mountain is a kind of landform	nongold
+26	rainy means often raining	nongold
+27	a mountain is taller than a hill	nongold
+28	precipitation is a kind of natural occurrence; cause	nongold
+29	cloudy is a kind of sky condition	nongold
+30	no longer means used to be	nongold
+31	rainstorm means rain storm	nongold
+32	weather is a source of wind and water for the weathering process	nongold
+33	low means low in elevation; height; altitude	nongold
+34	wind speed is a property of weather	nongold
+35	long means great in length	nongold
+36	clouds produce rain	nongold
+37	storm is a kind of weather; weather event	nongold
+38	an increase is the opposite of a decrease	nongold
+39	sky conditions are a property of weather	nongold
+40	a mountain is high in altitude	nongold
+41	a storm is a source of precipitation	nongold
+42	condition is a property of an environment	nongold
+43	to lower means to decrease	nongold
+44	rainy is a kind of weather	nongold
+45	storms;rain cause bodies of water to increase amount of water they contain	nongold
+46	falling means height decreases	nongold
+47	becoming is similar to changing	nongold
+48	an increase is a kind of change	nongold
+49	increase means more	nongold
+50	a decrease is a kind of change	nongold
+51	clouds produce precipitation	nongold
+52	high is similar to increase	nongold
+53	hills are a kind of small mountain	nongold
+54	a measure of time is a length of time	nongold
+55	a mountain range contains mountains	nongold
+56	extreme means very high in value	nongold
+57	closer means lower; less; a decrease in distance	nongold
+58	wind means moving air	nongold
+59	snow is a kind of precipitation	nongold
+60	low is similar to decrease	nongold
+61	wind direction is a property of weather	nongold
+62	precipitation is a kind of  natural process	nongold
+63	a mountain is made of rocks; soil	gold
+64	to reduce means to decrease	nongold
+65	highest means largest; greatest; most in height	nongold
+66	mountains are formed by earthquakes; volcanoes; plate tectonics	nongold
+67	rising is a kind of motion	nongold
+68	rising means elevation	nongold
+69	height is a measure of length from the top of an object to the bottom of an object	nongold
+70	low is the opposite of high	nongold
+71	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	gold
+72	windy is a kind of weather	nongold
+73	mountain is a kind of geographic obstacles	nongold
+74	An example of stormy weather is rain	nongold
+75	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+76	a mountain is a kind of land feature	nongold
+77	to change means to cause a change	nongold
+78	higher means greater; above in value; amount; number	nongold
+79	due to means caused by	nongold
+80	length is a part of size	nongold
+81	a cloud is a kind of weather	nongold
+82	to add means to increase	nongold
+83	condition means the state of the property	nongold
+84	as height decreases , distance from sea level will decrease	nongold
+85	greater means higher; more in value	nongold
+86	to change means to become different	nongold
+87	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+88	less is similar to decrease	nongold
+89	when a plant grows , the roots of that plant may become longer	nongold
+90	weathering; erosion usually occurs over a period of many years	nongold
+91	weather is a property of a environment	nongold
+92	low means down	nongold
+93	the Appalachian Mountains are a kind of mountain	nongold
+94	north is the opposite of south	nongold
+95	the surface of the Earth contains mountains	nongold
+96	both means two	nongold
+97	cloudy is a kind of  weather	nongold
+98	decreasing is similar to becoming smaller	nongold
+99	a type is synonymous with a kind	nongold

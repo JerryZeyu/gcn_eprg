@@ -1,0 +1,101 @@
+0	to impact means to affect	nongold
+1	human is a kind of organism	nongold
+2	pollution is a kind of environmental problem	nongold
+3	good means positive	nongold
+4	as use of public transportation increases , the use of automobiles decreases	gold
+5	decreasing something positive has a negative impact on a thing	nongold
+6	solution is similar to a positive impact	nongold
+7	reducing is a kind of change	nongold
+8	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+9	better means good	nongold
+10	to reduce means to decrease	gold
+11	less is the opposite of more	nongold
+12	impact means effect	nongold
+13	high is similar to increase	nongold
+14	to be a source of something means to cause that something	nongold
+15	to be dependent on something means to depend on that something	nongold
+16	damage has a negative impact on a thing	nongold
+17	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+18	humans cause pollution	nongold
+19	helping something has a  positive impact on that something	nongold
+20	decreasing something negative has a positive impact on a thing	gold
+21	society is similar to culture	nongold
+22	if something emits something else then that something increases the amount of that something else	nongold
+23	best means most positive	nongold
+24	a city is a part of a society	nongold
+25	answering questions requires information	nongold
+26	an animal is a kind of organism	nongold
+27	to limit means to decrease	nongold
+28	to add means to increase	nongold
+29	less means a reduced amount	nongold
+30	a source of something increases the amount of that something	nongold
+31	negative impact is the opposite of positive impact	nongold
+32	public transportation is a kind of way of commuting	nongold
+33	life means living things	nongold
+34	humans ride vehicles	nongold
+35	a decrease is a kind of change	nongold
+36	a concern; a problem is a possible negative impact	nongold
+37	increase means more	nongold
+38	low is similar to decrease	nongold
+39	if something is required for a process then that something positively impacts that process	nongold
+40	too much is similar to increase	nongold
+41	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+42	an increase is the opposite of a decrease	nongold
+43	saving money has a positive impact on a person; a company	nongold
+44	using a car causes pollution	gold
+45	requiring something means needing that something	nongold
+46	to improve means to have a positive impact	nongold
+47	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+48	a positive impact is  a benefit	gold
+49	a car is a kind of vehicle	nongold
+50	if a living thing requires something then that something has a positive impact on that living thing	nongold
+51	a bus is a kind of vehicle	nongold
+52	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+53	by reducing the amount of pollution	answer
+54	address a problem means reduce a problem	nongold
+55	causing is a kind of affecting	nongold
+56	if there is a loss of something then that something decreases	nongold
+57	a vehicle is a kind of object	nongold
+58	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+59	loss means reduction	nongold
+60	a negative impact is a kind of consequence; risk	nongold
+61	harming something has a  negative impact on; effect on that something	nongold
+62	causing problems is a kind of negative impact	nongold
+63	reducing is similar to slowing	nongold
+64	transit system means public transportation	gold
+65	to help; to benefit means to be of use	nongold
+66	a human is a kind of animal	nongold
+67	counter means reduce; stop; resist	nongold
+68	system means a set of objects	nongold
+69	transport means to move; to make travel	nongold
+70	pollution has a negative impact on the environment; air quality; water quality; society	gold
+71	to lower means to decrease	nongold
+72	a problem has a negative impact on a thing	nongold
+73	many vehicles emit pollution into the air	nongold
+74	an organism is a living thing	nongold
+75	as the cause of something decreases , that something will decrease	gold
+76	In what way do transit systems, such as buses, benefit society?	question
+77	if something causes an increase in something else then that something produces that something else	nongold
+78	adverse effect means negative impact	nongold
+79	society is made of humans	nongold
+80	to provide something means to be the source of that something	nongold
+81	to depend on; to rely on; to need means to require	nongold
+82	change is a kind of impact	nongold
+83	if something causes a process then that something is required for that process	nongold
+84	to be good for means to have a positive impact on	nongold
+85	if something requires something else then that something requires a source of that something else	nongold
+86	a vehicle for something allows; enables that something to occur	nongold
+87	protecting something means preventing harm to that something	nongold
+88	an event is a kind of action	nongold
+89	a vehicle is a kind of tool for travel; transport	nongold
+90	less is similar to decrease	nongold
+91	a vehicle is used for travel	nongold
+92	pollution is a source of pollutants	nongold
+93	controlling the amount of pollution is similar to reducing the amount of pollution	nongold
+94	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+95	to be used for something means to be required by that something	nongold
+96	an increase is a kind of change	nongold
+97	an environment means an area	nongold
+98	waste has a  negative impact on the environment	nongold
+99	a source of something emits; produces; generates; provides that something	nongold
+100	a vehicle is used for transportation	nongold

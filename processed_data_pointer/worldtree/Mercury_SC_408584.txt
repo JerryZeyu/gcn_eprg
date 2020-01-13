@@ -1,0 +1,102 @@
+Question	At some places in Florida, sand on the beaches is being reduced. New sand is brought from other areas and spread on the beaches. What process causes this reduction to the beach sand?	question
+Answer	erosion	answer
+0	sand is a part of a beach	nongold
+1	to reduce means to decrease	nongold
+2	reducing is a kind of change	nongold
+3	erosion is a kind of process	nongold
+4	erosion is a kind of change	nongold
+5	sand is similar to soil	gold
+6	a decrease is a kind of change	nongold
+7	erosion usually causes harm to the environment	nongold
+8	to lower means to decrease	nongold
+9	an increase is the opposite of a decrease	nongold
+10	to cause is similar to bring	nongold
+11	soil erosion means soil loss through wind;water; animals	gold
+12	weathering; erosion usually occurs over a period of many years	nongold
+13	an increase is a kind of change	nongold
+14	Florida is a state located in the United States of America	nongold
+15	as the cause of something decreases , that something will decrease	nongold
+16	sand  is a kind of solid	nongold
+17	sand is made of very small rocks; minerals	nongold
+18	an environment means an area	nongold
+19	low is similar to decrease	nongold
+20	soil erosion is when wind; moving water; gravity move soil from fields; environments	gold
+21	a beach is a kind of habitat; environment	gold
+22	a beach is a kind of location	nongold
+23	soil erosion is a kind of slow; natural process	gold
+24	erosion sometimes decreases the amount of nutrients in soil	nongold
+25	erosion of soil has a  negative impact on the environment; soil quality	nongold
+26	spreading is a kind of motion	nongold
+27	a beach is usually part of an island	nongold
+28	soil loss causes an area decrease in size	nongold
+29	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+30	wind and rain; storms cause erosion	nongold
+31	erosion causes deposition	nongold
+32	sand  is a kind of substance	nongold
+33	an environment is a kind of place	nongold
+34	expand means spread out	nongold
+35	place means area	nongold
+36	to change means to cause a change	nongold
+37	change is a kind of process	nongold
+38	weathering is a kind of erosion	nongold
+39	weathering is a kind of process	nongold
+40	a process is a kind of event	nongold
+41	weathering; mechanical weathering means breaking down rocks; surface materials from a larger whole  into smaller pieces by weather	nongold
+42	high is similar to increase	nongold
+43	less means a reduced amount	nongold
+44	sand is insoluble in water	nongold
+45	sand is insoluble in water	nongold
+46	sand is made of small particles	nongold
+47	the surface of a beach is formed by mechanical weathering	nongold
+48	soil erosion is a kind of event	nongold
+49	to be a source of something means to cause that something	nongold
+50	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+51	if something causes a process then that something is required for that process	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	overgrazing increases soil erosion	nongold
+54	harming something has a  negative impact on; effect on that something	nongold
+55	where something  comes from is a source of that something	nongold
+56	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+57	less is similar to decrease	nongold
+58	soil is usually part of an environment	nongold
+59	if something returns to a place then that something increases in that place	nongold
+60	increase means more	nongold
+61	if something emits something else then that something increases the amount of that something else	nongold
+62	sand dunes are made of sand	nongold
+63	if something comes from something else then that something else is a source of that something	nongold
+64	new means different from the former one	nongold
+65	bringing is a kind of action	nongold
+66	greatest means largest; highest; most amount of something	nongold
+67	change is a kind of impact	nongold
+68	a source of something increases the amount of that something	nongold
+69	loss means reduction	gold
+70	sand has a rough surface	nongold
+71	to limit means to decrease	nongold
+72	little is similar to decrease	nongold
+73	old is the opposite of new	nongold
+74	if something releases something else then that something else decreases in that something	nongold
+75	to create means to make	nongold
+76	to be used for something means to be required by that something	nongold
+77	soil contains water; humus; weathered rocks; organic matter	nongold
+78	remove means decrease	nongold
+79	landform means surface feature; physical feature; land feature	nongold
+80	a process usually requires all of the stages in that process	nongold
+81	a body of water is a kind of environment	nongold
+82	a part of a process means a stage in a process	nongold
+83	nutrients are a kind of matter	nongold
+84	no longer means used to be	nongold
+85	affected means changed	nongold
+86	if something releases something else then that something is the source of that something else	nongold
+87	helping something has a  positive impact on that something	nongold
+88	creating is similar to causing	nongold
+89	a type is synonymous with a kind	nongold
+90	to produce means to create	nongold
+91	to cause means to make	nongold
+92	to cause something means to contribute to that something happening	nongold
+93	sand  is a kind of material	nongold
+94	if something transfers something else then that something is a source of something else	nongold
+95	the formation of something is a kind of process	nongold
+96	an event is a kind of action	nongold
+97	sand is denser than water	nongold
+98	sand dunes; arches are formed by the wind transporting and depositing sand	nongold
+99	removing an inhibitor of a process causes that process	nongold

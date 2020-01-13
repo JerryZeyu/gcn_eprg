@@ -1,0 +1,102 @@
+Question	Which form of water is most likely to appear when the temperature is below freezing?	question
+Answer	snow	answer
+0	freezing means cold temperatures	nongold
+1	freezing causes a solid to form	nongold
+2	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold
+3	form means kind	nongold
+4	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+5	temperature is a measure of heat energy	nongold
+6	snow is a kind of precipitation	nongold
+7	state means form	gold
+8	snow is a kind of ice	gold
+9	water is a kind of liquid at room temperature	gold
+10	colder; cooler means lower in temperature	nongold
+11	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+12	cold means low in temperature	nongold
+13	heat means temperature increases	nongold
+14	ice is colder than water in temperature	nongold
+15	freezing is a kind of phase change	nongold
+16	occur is similar to appear	nongold
+17	ice is cold in temperature	nongold
+18	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+19	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+20	temperature is a property of weather	nongold
+21	snow is cold	nongold
+22	frozen means solid	nongold
+23	freezing point means temperature at which a liquid freezes; below which a liquid freezes	gold
+24	water is a kind of substance	nongold
+25	to lower means to decrease	nongold
+26	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+27	water is a kind of matter	nongold
+28	temperature drop means become colder	nongold
+29	ice is a kind of solid	nongold
+30	precipitation is when water falls from the sky	nongold
+31	high is similar to increase	nongold
+32	temperature  rise means temperature increase	nongold
+33	cooling means temperature decreases	nongold
+34	temperature drop means temperature decrease	nongold
+35	an increase is the opposite of a decrease	nongold
+36	increase means more	nongold
+37	cold is a kind of weather	nongold
+38	moisture means liquid; liquid water	nongold
+39	cooler means colder	nongold
+40	something in a cold place becomes cold	nongold
+41	an increase is a kind of change	nongold
+42	winter has cold temperatures;weather	nongold
+43	melting point means temperature at which a solid melts; above which a solid melts	nongold
+44	often is similar to likely	nongold
+45	low is similar to decrease	nongold
+46	appearing is similar to seeming	nongold
+47	temperature rise means become warmer	nongold
+48	to reduce means to decrease	nongold
+49	a decrease is a kind of change	nongold
+50	warmer means greater; higher in temperature; warmth	nongold
+51	form is similar to body	nongold
+52	temperature drop means cooling	nongold
+53	to change into means to form	nongold
+54	heat means heat energy	nongold
+55	temperature is a kind of condition	nongold
+56	to add means to increase	nongold
+57	precipitation is a kind of weather	nongold
+58	below means lower down	nongold
+59	to be made of something means to be formed of that something	nongold
+60	appear is similar to apparent	nongold
+61	snowy means a large amount of snow	nongold
+62	solid is a kind of state of matter	nongold
+63	answering questions requires information	nongold
+64	heating means adding heat	nongold
+65	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+66	ice is a kind of water phase	nongold
+67	temperature changing can cause phase changes	nongold
+68	liquid is a kind of state of matter	nongold
+69	variable means able to change	nongold
+70	develop is similar to form	nongold
+71	forming something is a kind of change	nongold
+72	a liquid is a kind of substance	nongold
+73	water is a part of an environment	nongold
+74	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+75	to cause an event means to make that event more likely	nongold
+76	frost is a kind of solid water	nongold
+77	phase means state	nongold
+78	a solid is a kind of substance	nongold
+79	to make means to form	nongold
+80	a body of water is a kind of environment	nongold
+81	cool means cold	nongold
+82	warm up means increase temperature	nongold
+83	snow is a kind of object	nongold
+84	become cold means get cold	nongold
+85	extreme means very high in value	nongold
+86	melting is a kind of phase change	nongold
+87	higher means greater; above in value; amount; number	nongold
+88	precipitation is a kind of natural occurrence; cause	nongold
+89	cycles of freezing and thawing water cause ice wedging	nongold
+90	snowfall means the amount of precipitation in snow form	nongold
+91	less is similar to decrease	nongold
+92	to cause the formation of means to form	nongold
+93	if something absorbs; requires more heat than it gives off in an reaction , then something will be cold in temperature	nongold
+94	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+95	water is a kind of object	nongold
+96	to limit means to decrease	nongold
+97	water is a kind of polar substance	nongold
+98	a body of water is a source of water	nongold
+99	to change means to cause a change	nongold

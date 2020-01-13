@@ -1,0 +1,50 @@
+0	intelligence is an acquired characteristic	nongold
+1	personality is an acquired characteristic	nongold
+2	Verbal accent	answer
+3	a living thing is a kind of object	nongold
+4	a human is a kind of animal	nongold
+5	conditioned behavior is a kind of learned behavior	nongold
+6	a chin without a cleft is  a recessive trait in human	nongold
+7	Which of the following is an acquired human characteristic?	question
+8	Which of the following is an acquired human characteristic?	question
+9	causing is a kind of affecting	nongold
+10	not is similar to the opposite of	nongold
+11	blood type is an inherited characteristic	nongold
+12	an animal is a kind of living thing	nongold
+13	speaking is a kind of communication	nongold
+14	playing with toys is a learned characteristic	nongold
+15	verbal accent is an acquired characteristic	gold
+16	a property of something is a feature of that something	nongold
+17	a component means a part of	nongold
+18	an animal is a kind of organism	nongold
+19	verbal accent is an acquired characteristic	gold
+20	the colors of parts of an organism are inherited characteristics	nongold
+21	human is similar to individual	nongold
+22	a brain is a part of an animal	nongold
+23	Verbal accent	answer
+24	following orders is a learned characteristic	nongold
+25	human voice is a kind of sound	nongold
+26	Which of the following is an acquired human characteristic?	question
+27	communication is a learned behavior	nongold
+28	species is an inherited characteristic	nongold
+29	the condition of parts of an organism are acquired characteristics	nongold
+30	verbal accent is an acquired characteristic	gold
+31	a body part is a kind of object	nongold
+32	an organism's environment affects that organism's acquired characteristics	nongold
+33	a landform is a kind of object	nongold
+34	trait means property	nongold
+35	the shape of body parts is an inherited characteristic	nongold
+36	a behavior is a kind of characteristic	nongold
+37	a kind of something is an example of that something	nongold
+38	a person speaking is a source of sound	nongold
+39	animal instinct means instinctive behavior	nongold
+40	hearing is a kind of sense	nongold
+41	Verbal accent	answer
+42	the ability to reflect off of a surface is a kind of characteristic	nongold
+43	a structure is a kind of feature	nongold
+44	Which of the following is an acquired human characteristic?	question
+45	a source of something emits; produces; generates; provides that something	nongold
+46	a plant is a kind of organism	nongold
+47	Verbal accent	answer
+48	a learned characteristic is a kind of acquired characteristic	nongold
+49	reproductive behavior is an inherited characteristic	nongold

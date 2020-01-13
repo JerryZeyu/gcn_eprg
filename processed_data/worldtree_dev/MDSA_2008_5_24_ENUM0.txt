@@ -1,0 +1,102 @@
+Question	Many natural resources are found in Maryland and the surrounding area. Some of these natural resources are renewable and some are nonrenewable. People use both kinds of resources in daily activities. Using natural resources often produces waste products. Recycling centers are where people take materials that may be reused to make new products. How does recycling paper positively affect the environment?	question
+Answer	reduces trees that are cut	answer
+0	recycling has a  positive impact on the environment	gold
+1	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+2	recycling means reusing	nongold
+3	recycling is similar to reusing	nongold
+4	creating paper requires cutting down trees	gold
+5	recycling reduces the resources needed to make something	gold
+6	recycling reduces; decreases the amount of waste sent to landfills	nongold
+7	creating wood-free paper does not require cutting down trees	nongold
+8	trees are a source of paper	nongold
+9	paper is recyclable	gold
+10	paper is a kind of material	nongold
+11	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+12	if a tree is cut down then that tree will die	nongold
+13	to reduce means to decrease	nongold
+14	reducing is a kind of change	nongold
+15	waste has a  negative impact on the environment	nongold
+16	An example of recycling is using an object to make a new object	nongold
+17	logging is when humans cut down trees; forests for wood	nongold
+18	to impact means to affect	nongold
+19	negative impact is the opposite of positive impact	nongold
+20	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+21	Maryland is a state located in the United States of America	nongold
+22	human waste often causes harm to an environment	nongold
+23	causing is a kind of affecting	nongold
+24	Maryland is a kind of region	nongold
+25	impact means effect	nongold
+26	recycling means using over again	nongold
+27	if something is required for a process then that something positively impacts that process	nongold
+28	decreasing something negative has a positive impact on a thing	nongold
+29	timber companies cut down trees	nongold
+30	paper is not durable	nongold
+31	a paper is a kind of object	nongold
+32	decreasing something positive has a negative impact on a thing	nongold
+33	recycling is a kind of action	nongold
+34	processes sometimes produce waste products	nongold
+35	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+36	harming something has a  negative impact on; effect on that something	nongold
+37	planting trees is the opposite of cutting down trees	nongold
+38	deforestation is the process of cutting down trees	nongold
+39	to lower means to decrease	nongold
+40	recyclable means a material can be recycled	gold
+41	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+42	protecting nature has a positive impact on the environment	nongold
+43	a tree contains wood	nongold
+44	recycling is a kind of method of disposal	nongold
+45	trees are a kind of natural resource	nongold
+46	wood is a kind of natural material	nongold
+47	daily means every day; once per day	nongold
+48	people can plant trees	nongold
+49	replacing is similar to recycling	nongold
+50	less is similar to decrease	nongold
+51	change is a kind of impact	nongold
+52	a tree is a kind of plant	nongold
+53	building usually requires cutting down trees	nongold
+54	a sheet of paper is a kind of object	nongold
+55	everyday means daily	nongold
+56	trees are a renewable resource	nongold
+57	low is similar to decrease	nongold
+58	paper is flexible	nongold
+59	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+60	a decrease is a kind of change	nongold
+61	make means produce	nongold
+62	cutting down a forest means cutting down the trees in that forest	nongold
+63	counter means reduce; stop; resist	nongold
+64	conserving resources has a positive impact on the environment	nongold
+65	person is synonymous with human	nongold
+66	roots are a part of a plant; tree	nongold
+67	an environment means an area	nongold
+68	renewable is the opposite of nonrenewable	nongold
+69	a tree is a kind of living thing	nongold
+70	clearing a forest means humans cutting down the trees	nongold
+71	an increase is the opposite of a decrease	nongold
+72	if something is made by something else then that something is affected by that something else	nongold
+73	wood is a renewable resource	nongold
+74	a tree can be replaced by planting a new tree each time one is cut down	nongold
+75	deforested area means an area where trees have been cut down	nongold
+76	using raw materials increases waste	nongold
+77	affected means changed	nongold
+78	a human is a kind of animal	nongold
+79	nature means a natural environment	nongold
+80	a renewable resource is a kind of natural resource	nongold
+81	a forest contains  lots of plants; trees	nongold
+82	reducing is similar to slowing	nongold
+83	less means a reduced amount	nongold
+84	helping something has a  positive impact on that something	nongold
+85	humans discarding waste in an environment causes harm to that environment	nongold
+86	natural resources are found in nature	nongold
+87	tree roots reduce soil erosion	nongold
+88	materials are used for making products by manufacturers	nongold
+89	remove means decrease	nongold
+90	a positive impact is a helpful effect	nongold
+91	using resources decreases those resources	nongold
+92	cutting means changing the object from a whole into smaller pieces	nongold
+93	if a human discards an object then that object will become waste	nongold
+94	trees are a kind of resource	gold
+95	wood is a kind of resource	nongold
+96	humans cause pollution	nongold
+97	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+98	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+99	removing a forest means cutting down the trees in that forest	nongold

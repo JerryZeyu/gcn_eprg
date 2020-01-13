@@ -1,0 +1,102 @@
+0	food can be a source of an odor	nongold
+1	smell is used for  finding food by some animals	gold
+2	a property of something is a feature of that something	nongold
+3	prey  is a kind of animal	nongold
+4	smell means scent	nongold
+5	a food contains nutrients for living things	nongold
+6	a structure of something is synonymous with a part of that something	nongold
+7	finding something means locating that something	nongold
+8	scavenging is synonymous with looking for food	nongold
+9	a dog is a kind of animal	nongold
+10	ability is a kind of characteristic	nongold
+11	a part of something means a characteristic of something	nongold
+12	characteristic means property	nongold
+13	trait is synonymous with characteristic	nongold
+14	a fox is a kind of animal	gold
+15	what an object is made of is a kind of characteristic	nongold
+16	a part of a living thing is a natural structure	nongold
+17	hair; fur is  a part of skin for protection; keeping warm	nongold
+18	a human is a kind of animal	nongold
+19	most animals avoid bad odors	nongold
+20	food is a kind of object	nongold
+21	hunting requires seeing; sensing prey	nongold
+22	to be used  for something means to help to do that something	gold
+23	hiding is a kind of protection against predators; from predators	nongold
+24	feeling is when an living thing senses through touch	nongold
+25	an object is an item	nongold
+26	senses are an inherited characteristic	nongold
+27	killing means changing a living thing from alive to dead by harming	nongold
+28	hiding can be used for avoiding predators	nongold
+29	a learned characteristic is a kind of acquired characteristic	nongold
+30	a wolf is a kind of animal	nongold
+31	finding something requires sensing that something	nongold
+32	sense is a kind of characteristic of an animal	gold
+33	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+34	hearing is used for sensing sound by animals	nongold
+35	sight is a kind of sense	nongold
+36	an animal is a kind of organism	nongold
+37	seeing is used for sensing visual things	nongold
+38	fur is often part of an animal	nongold
+39	odor means scent	nongold
+40	coloration is a kind of adaptation for hiding;camouflage	nongold
+41	coloration means a thing's color	nongold
+42	smell is a property of an object; a material; a substance	nongold
+43	long ears are a part of a rabbit	nongold
+44	sense of smell	answer
+45	protecting something means preventing harm to that something	nongold
+46	odor is a property of gas	nongold
+47	rabbits eat plants	nongold
+48	hearing is a kind of sense	nongold
+49	a rabbit is a kind of herbivore	nongold
+50	a skunk produces a bad odor	nongold
+51	an organism is a living thing	nongold
+52	sensory organs are used for sensing	nongold
+53	an animal needs to eat food for nutrients	nongold
+54	person is synonymous with human	nongold
+55	a rabbit is a kind of prey	nongold
+56	to help means to aid	nongold
+57	sensing food has a positive impact on finding food	nongold
+58	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+59	trait means property	nongold
+60	an animal; living thing requires nutrients for survival	nongold
+61	smell is used for detecting odor	nongold
+62	coat means fur coat	nongold
+63	a plant; living thing requires food for survival	nongold
+64	aspect of something is similar to part of something	nongold
+65	search for means seek to find	nongold
+66	a rabbit is a kind of animal	nongold
+67	to help; to benefit means to be of use	nongold
+68	a rabbit is a kind of mammal	nongold
+69	skin is a part of an animal; plant	nongold
+70	an adaptation is a kind of characteristic	nongold
+71	the color of; coloration of fur is an inherited characteristic	nongold
+72	foxes eat rabbits	nongold
+73	feature is synonymous with characteristic	nongold
+74	helping means to assist in a change	nongold
+75	a squirrel is a kind of animal	nongold
+76	a structure is a kind of feature	nongold
+77	requiring is similar to needing help	nongold
+78	seeking something means trying to find; searching for something	nongold
+79	touch is a kind of sense	nongold
+80	an animal is a kind of living thing	nongold
+81	harming something has a  negative impact on; effect on that something	nongold
+82	helping something has a  positive impact on that something	nongold
+83	smell is a kind of sense	gold
+84	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+85	Which characteristic helps a fox find food?	question
+86	to discover means to find	nongold
+87	to be helpful means to help to do	nongold
+88	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+89	prey is a kind of food for predators	nongold
+90	fur is a part of a mouse	nongold
+91	camouflage is a kind of adaptation for hiding in an environment	nongold
+92	a behavior is a kind of characteristic	nongold
+93	eating prey requires catching prey	nongold
+94	fur is usually part of a mammal	nongold
+95	to detect means to find	nongold
+96	better senses have a positive impact on an animal's survival; health; ability to reproduce	nongold
+97	helping means something can be done; completed more easily; better	nongold
+98	if a living thing requires something then that something has a positive impact on that living thing	nongold
+99	a living thing is a kind of object	nongold
+100	a sense is a kind of ability	nongold
+101	taste is a kind of sense	nongold

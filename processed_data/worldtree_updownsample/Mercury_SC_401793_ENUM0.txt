@@ -1,0 +1,66 @@
+0	a flashlight emits light	gold
+1	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+2	a complete electrical circuit is a source of  electrical energy	gold
+3	electrical energy is a kind of energy	nongold
+4	a flashlight emits light	gold
+5	a type is synonymous with a kind	nongold
+6	can be means able to be	nongold
+7	a tool is a kind of object	gold
+8	a machine is a kind of object	nongold
+9	electrocution causes harm to an organism	nongold
+10	if the electrical  devices are connected in parallel circuit , then turning on or off any devices will not affect other devices	nongold
+11	a flashlight	answer
+12	electrical current means electrical energy	nongold
+13	a closed circuit has continuous path	nongold
+14	a complete electrical circuit is a source of  electrical energy	gold
+15	if something is powered by something else then that something requires a source of that something else	gold
+16	an object has properties	nongold
+17	instrument means device	nongold
+18	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+19	battery-powered is similar to battery-operated	nongold
+20	device means tool	gold
+21	Which object is powered by an electrical circuit?	question
+22	a battery-operated device is a kind of electrical device	nongold
+23	to power means to provide energy for	nongold
+24	a generator is a kind of  device	nongold
+25	when an electrical conductor is plugged into an outlet , a circuit is completed	nongold
+26	Which object is powered by an electrical circuit?	question
+27	a device requires energy to operate	nongold
+28	a flashlight	answer
+29	an object is an item	nongold
+30	light is a kind of energy	nongold
+31	electric devices require electrical energy to function	gold
+32	a flashlight	answer
+33	Which object is powered by an electrical circuit?	question
+34	if something is powered by something else then that something requires a source of that something else	gold
+35	wiring requires an electrical conductor	nongold
+36	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+37	instrument means tool	nongold
+38	a flashlight is a kind of electrical device	gold
+39	a tool is a kind of object	gold
+40	a flashlight emits light	gold
+41	when an electrical circuit is working properly , electrical current runs through that circuit; the wires in that circuit	nongold
+42	pushing a button sometimes completes a circuit	nongold
+43	a flashlight converts electrical energy; electricity into light energy	nongold
+44	a complete electrical circuit is a source of  electrical energy	gold
+45	UV light is a kind of light	nongold
+46	a source of something emits; produces; generates; provides that something	nongold
+47	a flashlight	answer
+48	Which object is powered by an electrical circuit?	question
+49	An electrical conductor is a vehicle for the flow of electricity	nongold
+50	a wire is a part of an electrical circuit for conducting electricity	nongold
+51	a flashlight is a kind of electrical device	gold
+52	a flashlight is a kind of tool	nongold
+53	electromagnets can be powered by electricity	nongold
+54	an electric outlet is a source of electricity	nongold
+55	device means tool	gold
+56	device means tool	gold
+57	to be a vehicle for is a kind of function	nongold
+58	electric devices require electrical energy to function	gold
+59	if something is powered by something else then that something requires a source of that something else	gold
+60	electric devices require electrical energy to function	gold
+61	an electric motor is a kind of electrical device	nongold
+62	a flashlight is a kind of electrical device	gold
+63	an animal is a kind of organism	nongold
+64	a tool is a kind of object	gold
+65	a flashlight is a kind of battery-operated device	nongold

@@ -1,0 +1,102 @@
+Question	The first step in the construction of a building typically involves	question
+Answer	clearing the land.	answer
+0	construction of a building usually requires clearing the land as the first step; beforehand	gold
+1	clearing is similar to removing	nongold
+2	a step in a process means a stage in a process	nongold
+3	construction means building	nongold
+4	building usually requires cutting down trees	nongold
+5	In the construction of a building excavation has the role of hollowing out the ground for the foundation	nongold
+6	to make means to build	nongold
+7	land is a kind of landform	nongold
+8	answering questions requires information	nongold
+9	an event is a kind of action	nongold
+10	a lot means large in amount; quantity	nongold
+11	building something often requires measuring the materials	nongold
+12	clearing a forest means humans cutting down the trees	nongold
+13	a process usually requires all of the stages in that process	nongold
+14	undertaking is similar to doing	nongold
+15	soil is a kind of material	nongold
+16	a process is a kind of event	nongold
+17	planting is a kind of human action	nongold
+18	something that happens is a kind of event	nongold
+19	to be used for something means to be required by that something	nongold
+20	typically means usually	gold
+21	clearing a forest is similar to deforestation	nongold
+22	a house is a kind of building	nongold
+23	land is a kind of environment	nongold
+24	lots means much	nongold
+25	person is synonymous with human	nongold
+26	a part of a process means a stage in a process	nongold
+27	land is a kind of resource	nongold
+28	soil is usually part of an environment	nongold
+29	place means area	nongold
+30	a landform is a kind of object	nongold
+31	a landform is a kind of place	nongold
+32	a landform is a kind of place	nongold
+33	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+34	placing is a kind of action	nongold
+35	a field contains soil	nongold
+36	to create means to make	nongold
+37	to depend on; to rely on; to need means to require	nongold
+38	a motion is a kind of event; action	nongold
+39	generally means usually	nongold
+40	to cause an event is similar to being involved in that event	nongold
+41	if something performs a task then that task is that something's function	nongold
+42	settling is a kind of action	nongold
+43	place is synonymous with location	nongold
+44	events occur at a specific place; at a specific time; with a specific frequency	nongold
+45	a mound is a kind of landform	nongold
+46	dirt means soil	nongold
+47	helping means something can be done; completed more easily; better	nongold
+48	soil is a part of the ground outside	nongold
+49	soil is made of solid particles	nongold
+50	requiring is similar to needing help	nongold
+51	land area means land mass	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	the function of something is what that something  is used to do	nongold
+54	a home is a kind of building	nongold
+55	something is used for that something's purpose	nongold
+56	furthest; farthest means greatest; most; highest in distance	nongold
+57	a structure of something is synonymous with a part of that something	nongold
+58	to happen means to occur	nongold
+59	the ground is part of the Earth	nongold
+60	a shore is the land found at the edge of a body of water	nongold
+61	problem is similar to issue	nongold
+62	soil is made of very small rocks; minerals	nongold
+63	affected means changed	nongold
+64	an environment means an area	nongold
+65	planting trees is sometimes a human activity	nongold
+66	locating means determining	nongold
+67	located means situated	nongold
+68	a wall is a kind of surface	nongold
+69	high is similar to increase	nongold
+70	vegetation means plants	nongold
+71	work is a kind of place	nongold
+72	often soil is found in an environment	nongold
+73	the ground means Earth's surface	nongold
+74	objects are made of materials; substances; matter	nongold
+75	the formation of something is a kind of process	nongold
+76	to make possible means to be required	nongold
+77	soil is found on the surface of the Earth	nongold
+78	slab is a kind of foundation in construction	nongold
+79	a wall is a kind of object	nongold
+80	a landform is a kind of natural formation	nongold
+81	a vehicle for something allows; enables that something to occur	nongold
+82	a surface is a kind of object	nongold
+83	landform means surface feature; physical feature; land feature	nongold
+84	roots are a part of a plant; tree	nongold
+85	logging is when humans cut down trees; forests for wood	nongold
+86	final means last	nongold
+87	forming is a kind of action	nongold
+88	a surface is a part of an object	nongold
+89	a  solution  is a kind of object	nongold
+90	loss is similar to removal	nongold
+91	process is similar to method	nongold
+92	an animal is a kind of living thing	nongold
+93	a human is a kind of animal	nongold
+94	greatest means largest; highest; most amount of something	nongold
+95	largest amount means most	nongold
+96	sand  is a kind of material	nongold
+97	a desert is a kind of land feature	nongold
+98	a surface is a part of a material	nongold
+99	a hectare  is 10^4 square meter	nongold

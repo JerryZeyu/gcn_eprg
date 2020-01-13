@@ -1,0 +1,102 @@
+Question	The body of a fish is covered by scales for	question
+Answer	protection.	answer
+0	scales are used for protection by scaled animals	gold
+1	scales are a covering around the body of a scaled animal	gold
+2	a scale is a part of a fish	nongold
+3	covering something is a kind of protection	nongold
+4	a fish is a kind of scaled animal	gold
+5	a covering is a kind of object	nongold
+6	protecting something means preventing harm to that something	nongold
+7	a fish is a kind of aquatic animal	nongold
+8	scales are found on the skin of scaled animals	nongold
+9	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+10	a fish is a kind of animal	nongold
+11	a living thing is a kind of object	nongold
+12	to protect means to defend	nongold
+13	an animal's scales are small in size	nongold
+14	something hard; something strong can be used for protection	gold
+15	an animal is a kind of living thing	nongold
+16	a fish is a kind of predator	nongold
+17	skin is used for protecting the body from harmful substances	nongold
+18	an aquatic animal is a kind of animal	nongold
+19	an animal is a kind of organism	nongold
+20	a scale is hard	gold
+21	protection means resistance to damage increases	nongold
+22	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+23	harming something has a  negative impact on; effect on that something	nongold
+24	a part of a living thing is a natural structure	nongold
+25	if a living thing requires something then that something has a positive impact on that living thing	nongold
+26	a sharp object can be used for protection	nongold
+27	if the surface of an object contains something then that object is covered with that something	nongold
+28	the body is a part of an organism	nongold
+29	an organism is a living thing	nongold
+30	a structure of something is synonymous with a part of that something	nongold
+31	skin is a part of an animal; plant	nongold
+32	the head is a part of an animal	nongold
+33	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+34	an part of an object is smaller than the entire object	nongold
+35	a human is a kind of animal	nongold
+36	to hurt means to harm	nongold
+37	a fish lives in water	nongold
+38	food is a kind of object	nongold
+39	reptiles have scales	nongold
+40	a body part is a kind of object	nongold
+41	an object is made of its parts	nongold
+42	a scale is used for measuring weight	nongold
+43	under water means covered by water; in water	nongold
+44	a structure is a kind of feature	nongold
+45	damage means harm	nongold
+46	a shark is a kind of fish	nongold
+47	length is a part of size	nongold
+48	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+49	aquatic animal means water animal	nongold
+50	skin is the first; outermost layer around the body of some animals	nongold
+51	helping something has a  positive impact on that something	nongold
+52	damage has a negative impact on a thing	nongold
+53	objects are made of materials; substances; matter	nongold
+54	protecting is a kind of function	nongold
+55	prey  is a kind of animal	nongold
+56	harming an animal species has a  negative impact on the population size of that species	nongold
+57	a landform is a kind of object	nongold
+58	killing means changing a living thing from alive to dead by harming	nongold
+59	anatomy studies the body structure of organisms	nongold
+60	a reptile is a kind of animal	nongold
+61	an amphibian has smooth skin	nongold
+62	a face is often a part of an animal	nongold
+63	a predator is a kind of animal	nongold
+64	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold
+65	structure is similar to shape	nongold
+66	skin is a kind of material	nongold
+67	fins are a part of aquatic animals used for moving through water	nongold
+68	answering questions requires information	nongold
+69	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+70	ocean animal is similar to water animal	nongold
+71	length is a property of the shape of an object	nongold
+72	an amphibian is a kind of animal	nongold
+73	a part of something means a characteristic of something	nongold
+74	a body of water is a kind of environment	nongold
+75	coloration means a thing's color	nongold
+76	life means living things	nongold
+77	fish eat insects	nongold
+78	harm means danger	nongold
+79	if an object is made of something then the parts of that object are made of that something	nongold
+80	hiding is a kind of protection against predators; from predators	nongold
+81	killing means harming something causing death	nongold
+82	death means to die	nongold
+83	motion; movement means moving; to move	nongold
+84	organisms are a part of an environment	nongold
+85	an object is an item	nongold
+86	a type is synonymous with a kind	nongold
+87	high is similar to increase	nongold
+88	an animal; living thing requires nutrients for survival	nongold
+89	trout is a kind of fish	nongold
+90	a surface is a part of an object	nongold
+91	a  fish is cold-blooded	nongold
+92	long means great in length	nongold
+93	an object has properties	nongold
+94	form is similar to body	nongold
+95	structure is a property of an object; a material; a substance	nongold
+96	water is a kind of object	nongold
+97	objects in an environment are a part of that environment	nongold
+98	person is synonymous with human	nongold
+99	can be means able to be	nongold

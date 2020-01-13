@@ -1,0 +1,102 @@
+Question	Which of the following runs ONLY on electricity?	question
+Answer	a ceiling fan	answer
+0	a ceiling fan is a kind of fan	gold
+1	an electric fan is a kind of electrical device for cooling; ventilation	gold
+2	a fan converts electrical energy into mechanical energy; heat energy; sound energy	nongold
+3	an electric motor is  a part of an electric fan for rotating the vanes in the fan	nongold
+4	to run on means to use as an energy source	gold
+5	electricity means electrical energy	nongold
+6	electricity sometimes is used for heating buildings; substances	nongold
+7	fans are used for cooling humans;rooms	nongold
+8	electric devices require electrical energy to function	nongold
+9	An electrical conductor is a vehicle for the flow of electricity	nongold
+10	if something is powered by something else then that something requires a source of that something else	nongold
+11	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+12	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+13	conductivity is a property of a material; substance	nongold
+14	an electrical device requires electricity to turn on	nongold
+15	an electric outlet is a source of electricity	nongold
+16	to run through means to transfer	nongold
+17	an electric motor is a kind of electrical device	nongold
+18	a source of something emits; produces; generates; provides that something	nongold
+19	electricity is used as an energy source by electrical devices	gold
+20	form means kind	nongold
+21	electrical devices are used for industrial purposes; household purposes by humans	nongold
+22	the vanes rotating in an electric fan causes air to move	nongold
+23	if something requires something else then that something requires a source of that something else	nongold
+24	a device is a kind of object	nongold
+25	an insulator is the opposite of a conductor	nongold
+26	conductivity is a measure of how easily electricity travels through a material	nongold
+27	to be used for something means to be required by that something	nongold
+28	if an object is made of a material then that object has the properties of that material	nongold
+29	objects are made of materials; substances; matter	nongold
+30	can be means able to be	nongold
+31	a machine is a kind of  device	nongold
+32	emit means produce	nongold
+33	a machine is a kind of object	nongold
+34	if something transfers something else then that something is a source of something else	nongold
+35	electricity is made of moving charges; moving charged particles	nongold
+36	an insulator is a kind of material	nongold
+37	a source of something supplies that something	nongold
+38	to provide something means to be the source of that something	nongold
+39	a tool is a kind of object	nongold
+40	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+41	device means tool	nongold
+42	a thermal conductor is made of materials that conduct thermal energy	nongold
+43	a surface is a part of a material	nongold
+44	metal is an  electrical; electrical energy conductor	nongold
+45	metal is a thermal; thermal energy conductor	nongold
+46	running is a kind of movement	nongold
+47	if something is a raw material then that something comes directly from a source	nongold
+48	if something comes from something else then that something else is a source of that something	nongold
+49	if something releases something else then that something is the source of that something else	nongold
+50	a motion is a kind of event; action	nongold
+51	generate means produce	nongold
+52	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+53	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+54	a supply of something is a source of that something	nongold
+55	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+56	wiring requires an electrical conductor	nongold
+57	ground means floor	nongold
+58	to provide means to supply	nongold
+59	tool is similar to appliance	nongold
+60	material means substance	nongold
+61	water is an thermal; thermal energy conductor	nongold
+62	a type is synonymous with a kind	nongold
+63	operating electrical appliances requires electricity	nongold
+64	underground means under ground	nongold
+65	to power means to provide energy for	nongold
+66	a device requires energy to operate	nongold
+67	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+68	a wall is a kind of object	nongold
+69	the function of something is what that something  is used to do	nongold
+70	a surface is a part of an object	nongold
+71	conductivity is a kind of physical property	nongold
+72	must have means require	nongold
+73	harming something has a  negative impact on; effect on that something	nongold
+74	a process is a kind of event	nongold
+75	to conduct is similar to to transfer	nongold
+76	a wall is a kind of surface	nongold
+77	wood is an thermal; thermal energy insulator	nongold
+78	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+79	the ceiling is at the top of a room	nongold
+80	wood is a thermal; thermal energy insulator	nongold
+81	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+82	affected means changed	nongold
+83	heat energy is synonymous with thermal energy	nongold
+84	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+85	being used for is similar to providing	nongold
+86	a mechanism is a kind of system that performs a function	nongold
+87	an event is a kind of action	nongold
+88	electrocution causes harm to an organism	nongold
+89	a container contains objects; material; substances	nongold
+90	instrument means device	nongold
+91	room contains walls	nongold
+92	current means electric current	nongold
+93	a component means a part of	nongold
+94	to produce means to provide	nongold
+95	the floor is a kind of object	nongold
+96	a room is a kind of object	nongold
+97	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+98	unit is similar to part	nongold
+99	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold

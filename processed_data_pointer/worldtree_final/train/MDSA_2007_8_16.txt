@@ -1,0 +1,101 @@
+0	to remain means to stay where it is	nongold
+1	process is similar to method	nongold
+2	measuring is a kind of science skill	nongold
+3	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+4	investigation sometimes requires experimentation	nongold
+5	formation of a state of matter is a kind of process	nongold
+6	bias can cause error in an experiment	nongold
+7	to provide something means to be the source of that something	nongold
+8	something that happens is a kind of event	nongold
+9	observations; data are a part of the results of an experiment	nongold
+10	result means outcome	nongold
+11	a kind of something is an example of that something	nongold
+12	form means kind	nongold
+13	to be good for means to have a positive impact on	nongold
+14	to repeat an experiment means to perform multiple trials of the same experiment	nongold
+15	trial is synonymous with test	nongold
+16	a human is a kind of animal	nongold
+17	to generate means to form	nongold
+18	best means most positive	nongold
+19	change is a kind of process	nongold
+20	good means positive	nongold
+21	an organism is a living thing	nongold
+22	emit means produce	nongold
+23	a source of something emits; produces; generates; provides that something	nongold
+24	high is similar to increase	nongold
+25	testing often requires measuring	nongold
+26	experimentation requires measuring	nongold
+27	a type is synonymous with a kind	nongold
+28	better means good	nongold
+29	to conclude means to make a conclusion	nongold
+30	human is a kind of organism	nongold
+31	change is a kind of impact	nongold
+32	chemical splashing sometimes occurs during experiments	nongold
+33	generate means produce	nongold
+34	affected means changed	nongold
+35	determine is similar to cause	nongold
+36	if something requires something else then that something requires a source of that something else	nongold
+37	examining is a kind of process	nongold
+38	a research team is made of humans	nongold
+39	a process is a kind of event	nongold
+40	to produce means to create	nongold
+41	a hypothesis is a kind of scientific term	nongold
+42	to happen means to occur	nongold
+43	if an experiment is repeated then the results are more likely to be correct due to fewer errors being made	nongold
+44	instrument means tool	nongold
+45	to change means to have an effect	nongold
+46	an increase is a kind of change	nongold
+47	harming something has a  negative impact on; effect on that something	nongold
+48	negative impact is the opposite of positive impact	nongold
+49	An example of evidence for a scientific theory is observations	nongold
+50	a scientist is a kind of human	nongold
+51	incomplete is the opposite of complete	nongold
+52	a negative impact is a kind of consequence; risk	nongold
+53	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+54	helping something has a  positive impact on that something	nongold
+55	a theory is more accepted; tested than a hypothesis	nongold
+56	scientists make observations	nongold
+57	analyzing all results has a  positive impact on the effort to remain objective during experiments	gold
+58	answering questions requires information	nongold
+59	a source of something increases the amount of that something	nongold
+60	creating means making	nongold
+61	requiring is similar to needing help	nongold
+62	research is used for learning	nongold
+63	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	nongold
+64	a theory is a kind of scientific term	nongold
+65	if something releases something else then that something is the source of that something else	nongold
+66	creating is similar to causing	nongold
+67	can be means able to be	nongold
+68	to create means to make	nongold
+69	to be formed by is to be the result of	nongold
+70	a reaction is a kind of process	nongold
+71	a process usually requires all of the stages in that process	nongold
+72	a part of a process means a stage in a process	nongold
+73	to remain means to not change	nongold
+74	experiment is synonymous with test	nongold
+75	Scientists analyze all results.	answer
+76	the function of something is what that something  is used to do	nongold
+77	Scientists perform experiments to test hypotheses. How do scientists try to remain objective during experiments?	question
+78	product means result	nongold
+79	solution is similar to a positive impact	nongold
+80	to try means to make an effort	gold
+81	hypothesis means scientific guess about the cause and effect of an event	nongold
+82	a physicist is a kind of scientist	nongold
+83	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+84	to cause means to result in	nongold
+85	to generate means to create	nongold
+86	high-quality means positive	nongold
+87	a result of something is evidence of that something	nongold
+88	to impact means to affect	nongold
+89	a problem has a negative impact on a thing	nongold
+90	researcher is a kind of scientist	nongold
+91	comparing data increases; improves the likelihood of obtaining accurate experiment results	nongold
+92	to increase is similar to to create	nongold
+93	a change is a kind of event	nongold
+94	impact means effect	nongold
+95	to form means to create	nongold
+96	if something performs a task then that task is that something's function	nongold
+97	to produce means to result in	nongold
+98	an event is a kind of action	nongold
+99	producing is a kind of process	nongold
+100	to make means to form	nongold

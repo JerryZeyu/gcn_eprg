@@ -1,0 +1,60 @@
+0	life means living things	nongold
+1	matter; materials; substances are made of atoms; particles	nongold
+2	made up of means contains; made of	nongold
+3	little means small	gold
+4	little means small	gold
+5	food is a kind of substance	nongold
+6	When a thin slice from an onion is viewed through a microscope, lots of little box-like shapes are seen. These shapes are most likely	question
+7	an onion is a kind of vegetable	gold
+8	a source of something emits; produces; generates; provides that something	nongold
+9	studying  something usually requires seeing that something	nongold
+10	a plant cell is box-like in shape	gold
+11	a plant is a kind of organism	nongold
+12	elliptical is a kind of shape	nongold
+13	cells.	answer
+14	a human is a kind of animal	nongold
+15	an animal is a kind of organism	nongold
+16	length is a part of size	nongold
+17	an part of an object is smaller than the entire object	nongold
+18	length is a property of the shape of an object	nongold
+19	When a thin slice from an onion is viewed through a microscope, lots of little box-like shapes are seen. These shapes are most likely	question
+20	cutting means changing the object from a whole into smaller pieces	nongold
+21	a plant cell is box-like in shape	gold
+22	elliptical is a kind of shape	nongold
+23	greatest means largest; highest; most amount of something	nongold
+24	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+25	cells.	answer
+26	shape is a property of the appearance of an object	nongold
+27	if something is visible , then that something can be observed	nongold
+28	often is similar to likely	nongold
+29	a plant cell is box-like in shape	gold
+30	all living things are made of cells according to the cell theory	nongold
+31	a living thing is made of cells	nongold
+32	an onion is a kind of vegetable	gold
+33	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+34	lots means much	nongold
+35	a cell is very small	gold
+36	to show means to display	nongold
+37	cells.	answer
+38	can be means able to be	nongold
+39	material means substance	nongold
+40	cells.	answer
+41	a cell is very small	gold
+42	eyes are a part of a human for seeing	nongold
+43	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+44	sight means to see	nongold
+45	to be formed by is similar to being produced by	nongold
+46	a cell is very small	gold
+47	little means small	gold
+48	When a thin slice from an onion is viewed through a microscope, lots of little box-like shapes are seen. These shapes are most likely	question
+49	observable means visible	nongold
+50	look at means observe	nongold
+51	an onion is a kind of vegetable	gold
+52	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+53	When a thin slice from an onion is viewed through a microscope, lots of little box-like shapes are seen. These shapes are most likely	question
+54	high means a lot of something	nongold
+55	shape is a kind of physical property	nongold
+56	to view means to see	nongold
+57	if something is made of something; a material then that something contains that something; that material	nongold
+58	seeing is used for sensing visual things	nongold
+59	a plant cell is a kind of cell	nongold

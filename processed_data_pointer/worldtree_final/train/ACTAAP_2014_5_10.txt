@@ -1,0 +1,102 @@
+0	species means a group of like organisms	nongold
+1	function is similar to purpose	nongold
+2	a function is a kind of characteristic	nongold
+3	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+4	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+5	food is what an animal eats	nongold
+6	a plant is a kind of organism	nongold
+7	a cricket is a kind of insect	gold
+8	a predator is a kind of enemy to its prey	nongold
+9	eating prey requires catching prey	nongold
+10	a bird is a kind of animal	gold
+11	a bird is a kind of living thing	nongold
+12	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+13	an animal is a kind of living thing	nongold
+14	catching something is synonymous with obtaining that something	nongold
+15	a robin is a kind of bird	gold
+16	a plant is a kind of living thing	nongold
+17	an insect is a kind of animal	gold
+18	prey is a kind of food for predators	nongold
+19	an animal; living thing requires nutrients for survival	nongold
+20	In the food chain process a  green plant has the role of  producer	nongold
+21	some birds are predators	gold
+22	part means role	nongold
+23	if a living thing requires something then that something has a positive impact on that living thing	nongold
+24	prey  is a kind of animal	nongold
+25	life means living things	nongold
+26	killing means changing a living thing from alive to dead by harming	nongold
+27	to be involved in something means to have a role in something	nongold
+28	role is similar to importance	nongold
+29	become prey means get eaten	nongold
+30	to eat means to consume food	nongold
+31	animal instinct means instinctive behavior	nongold
+32	an animal needs to eat food for nutrients	nongold
+33	survive means live	nongold
+34	to be a vehicle for is a kind of function	nongold
+35	pollinating is a kind of function	nongold
+36	a bird is warm-blooded	nongold
+37	if an animal eats another animal then that animal is a carnivore or omnivore or predator	gold
+38	to have a function is similar to to be responsible for	nongold
+39	to depend on; to rely on; to need means to require	nongold
+40	a human is a kind of animal	nongold
+41	to prey on an animal means to eat that animal	nongold
+42	a motion is a kind of event; action	nongold
+43	if an organism eats something then that something is a source of frood to that organism	nongold
+44	producing is a kind of function	nongold
+45	an event is a kind of action	nongold
+46	producer is a kind of role in the food chain process; in an ecosystem	nongold
+47	birds sometimes eat insects	nongold
+48	an animal is a kind of consumer	nongold
+49	trait means property	nongold
+50	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+51	both means two	nongold
+52	some crickets live in forests	nongold
+53	a plant; living thing requires food for survival	nongold
+54	role means niche	nongold
+55	death means to die	nongold
+56	killing means harming something causing death	nongold
+57	an insect is a kind of prey	nongold
+58	a mammal is a kind of animal	nongold
+59	high is similar to increase	nongold
+60	role means function	nongold
+61	A robin catches and eats a cricket. Which statement best describes the roles of each animal?	question
+62	opposite is a kind of different	nongold
+63	can be means able to be	nongold
+64	moving something is a kind of function	nongold
+65	if two animals eat the same prey then those animals compete for that prey	nongold
+66	an animal is a kind of organism	nongold
+67	a function is an activity	nongold
+68	trait is synonymous with characteristic	nongold
+69	function means job	nongold
+70	a predator is a kind of animal	nongold
+71	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+72	attracting is a kind of function; activity	nongold
+73	nonliving; non-living; die is the opposite of living; alive; live	nongold
+74	the function of something is what that something  is used to do	nongold
+75	a food contains nutrients for living things	nongold
+76	a predator usually kills its prey to eat it	nongold
+77	predators eat prey	gold
+78	a living thing is a kind of object	nongold
+79	an insect has three body parts	nongold
+80	best means most positive	nongold
+81	purpose means role	nongold
+82	survive means live	nongold
+83	a source of something emits; produces; generates; provides that something	nongold
+84	an organism eating is a kind of action	nongold
+85	some predators move  quickly to  catch prey	gold
+86	each is similar to individual	nongold
+87	answering questions requires information	nongold
+88	a predator eats other animals for food	nongold
+89	a role in the ecosystem is a role in the food chain process	nongold
+90	most predators live in; live near the same environment as their prey	nongold
+91	eating an animal; a plant means killing that animal; that plant	nongold
+92	food is a kind of object	nongold
+93	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+94	form means kind	nongold
+95	predators; carnivores; omnivores eat other animals	nongold
+96	diet means what an animal eats	nongold
+97	a type is synonymous with a kind	nongold
+98	an animal is a member of an animal species	nongold
+99	an organism is a living thing	nongold
+100	The robin is the predator and the cricket is the prey.	answer
+101	better means good	nongold

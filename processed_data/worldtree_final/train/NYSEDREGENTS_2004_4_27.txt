@@ -1,0 +1,102 @@
+0	Fourth graders are planning a roller-skate race. Which surface would be the best for this race?	question
+1	blacktop	answer
+2	a roller skate is a kind of vehicle	gold
+3	wheels are a part of roller skates	gold
+4	best means most positive	nongold
+5	race is when vehicles; humans compete	gold
+6	blacktop means asphalt	gold
+7	better means good	nongold
+8	a surface is a part of an object	nongold
+9	a surface is a kind of object	nongold
+10	good means positive	nongold
+11	a surface is a part of a material	nongold
+12	helping means something can be done; completed more easily; better	nongold
+13	high is similar to increase	nongold
+14	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+15	negative impact is the opposite of positive impact	nongold
+16	to improve means to have a positive impact	nongold
+17	a roller coaster  is a kind of  object	nongold
+18	desirable result means positive impact	nongold
+19	to be good for means to have a positive impact on	nongold
+20	high-quality means positive	nongold
+21	a board is a kind of object	nongold
+22	start of a race is located at the beginning of a track	nongold
+23	solution is similar to a positive impact	nongold
+24	an increase is the opposite of a decrease	nongold
+25	to slow; to slow down decreases speed	nongold
+26	low is similar to decrease	nongold
+27	greatest means largest; highest; most amount of something	nongold
+28	helping something has a  positive impact on that something	nongold
+29	impact means effect	nongold
+30	less is similar to decrease	nongold
+31	high means a lot of something	nongold
+32	result means outcome	nongold
+33	a terrain contains a surface	nongold
+34	fastest means greatest in  speed	nongold
+35	lowest means least in value; amount; number	nongold
+36	to lower means to decrease	nongold
+37	finish of a race is located at the end of a track	nongold
+38	black is a kind of color	nongold
+39	to add means to increase	nongold
+40	wheels; gears usually move against other surfaces	nongold
+41	a machine is a kind of object	nongold
+42	faster means an increase; higher in speed	nongold
+43	greater means higher; more in value	nongold
+44	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+45	affected means changed	nongold
+46	person is synonymous with human	nongold
+47	lower means less	nongold
+48	a type is synonymous with a kind	nongold
+49	low is the opposite of high	nongold
+50	least is the opposite of greatest	nongold
+51	higher means greater; above in value; amount; number	nongold
+52	speed is a property of an object and includes values of slow; fast	nongold
+53	an part of an object is smaller than the entire object	nongold
+54	a motion is a kind of event; action	nongold
+55	speed is a measure of how fast an object is moving	nongold
+56	motion is when moves an object; something to a direction	nongold
+57	answering questions requires information	nongold
+58	to try means to make an effort	nongold
+59	a negative impact is a kind of consequence; risk	nongold
+60	a human is a kind of animal	nongold
+61	motion; movement means moving; to move	nongold
+62	a process is a kind of event	nongold
+63	an animal is a kind of living thing	nongold
+64	stop; stopped means zero; 0; no speed	nongold
+65	if an object is black then that object absorbs all visible light; heat	nongold
+66	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+67	low means down	nongold
+68	flat means level	nongold
+69	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+70	a living thing is a kind of object	nongold
+71	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+72	if a wheel travels on a surface then the wheel touches that surface	nongold
+73	adverse effect means negative impact	nongold
+74	riding something is to move that thing over a surface	nongold
+75	surfaces sometimes cause objects to break	nongold
+76	if something is required for a process then that something positively impacts that process	nongold
+77	except means not	nongold
+78	riding is a kind of motion	nongold
+79	extreme means very high in value	nongold
+80	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+81	furthest; farthest means greatest; most; highest in distance	nongold
+82	black is dark in color	nongold
+83	slowest means lowest in  speed	nongold
+84	a vehicle is a kind of object	nongold
+85	less is the opposite of more	nongold
+86	something that happens is a kind of event	nongold
+87	an animal is a kind of organism	nongold
+88	form means kind	nongold
+89	closer means lower; less; a decrease in distance	nongold
+90	to turn means to change	nongold
+91	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+92	counter means reduce; stop; resist	nongold
+93	faster means increased rate	nongold
+94	problem is similar to issue	nongold
+95	increase means more	nongold
+96	speed up means increase	nongold
+97	the bottom is the lowest part of something	nongold
+98	little means low in amount	nongold
+99	rate is similar to speed	nongold
+100	little is similar to decrease	nongold
+101	wheels are a part of a car	nongold

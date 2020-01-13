@@ -1,0 +1,66 @@
+0	organisms; living things live in their habitat; their home	gold
+1	an event is a kind of action	nongold
+2	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+3	survive means live	nongold
+4	removing a forest means cutting down a forest	gold
+5	to cause an event means to make that event more likely	nongold
+6	a deer is a kind of animal	gold
+7	an animal is a kind of organism	gold
+8	an animal requires shelter	nongold
+9	a deer is a kind of prey	nongold
+10	a shelter is used for living in by animals	nongold
+11	a deer lives in a forest	gold
+12	The deer would move to another forest area.	answer
+13	killing means changing a living thing from alive to dead by harming	nongold
+14	The deer would move to another forest area.	answer
+15	Deer live in forest for shelter. If the forest was cut down, which situation would most likely happen?	question
+16	a deer lives in a forest	gold
+17	an animal is a kind of organism	gold
+18	organisms; living things live in their habitat; their home	gold
+19	protecting something means preventing harm to that something	nongold
+20	humans changing animal habitats usually causes harm to those animals	nongold
+21	if a habitat can no longer support animals then those animals will move to another area	gold
+22	if a habitat can no longer support animals then those animals will move to another area	gold
+23	clearing a forest means humans cutting down the trees	nongold
+24	if a tree is cut down then that tree will die	nongold
+25	an environment means an area	nongold
+26	removing a forest means cutting down a forest	gold
+27	organisms; living things live in their habitat; their home	gold
+28	logging is when humans cut down trees; forests for wood	nongold
+29	The deer would move to another forest area.	answer
+30	removing a forest means cutting down a forest	gold
+31	Deer live in forest for shelter. If the forest was cut down, which situation would most likely happen?	question
+32	objects in an environment are a part of that environment	nongold
+33	removing forests means removing animal habitats	gold
+34	distance moved; distance travelled is a measure of how far an object moves	nongold
+35	travel means to move	nongold
+36	harming something has a  negative impact on; effect on that something	nongold
+37	Deer live in forest for shelter. If the forest was cut down, which situation would most likely happen?	question
+38	a deer is a kind of animal	gold
+39	removing forests means removing animal habitats	gold
+40	Deer live in forest for shelter. If the forest was cut down, which situation would most likely happen?	question
+41	life means living things	nongold
+42	shelter is a kind of place;building;structure for protection	nongold
+43	if a habitat can no longer support animals then those animals will move to another area	gold
+44	a deer is a kind of herbivore	nongold
+45	an organism's shelter is a part of that organism's environment	nongold
+46	motion; movement means moving; to move	nongold
+47	a deer is a kind of animal	gold
+48	removing forests means removing animal habitats	gold
+49	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+50	deforested area means an area where trees have been cut down	nongold
+51	a deer lives in a forest	gold
+52	The deer would move to another forest area.	answer
+53	place is synonymous with location	nongold
+54	place means space	nongold
+55	to place in is similar to to move to	nongold
+56	an animal needs to move to find shelter	nongold
+57	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+58	an animal is a kind of living thing	nongold
+59	to happen means to occur	nongold
+60	a region is a kind of location	nongold
+61	an animal is a kind of organism	gold
+62	survive means live	nongold
+63	hiding is a kind of protection against predators; from predators	nongold
+64	a forest is a kind of environment	nongold
+65	destroying a forest means cutting down the trees in that forest	nongold

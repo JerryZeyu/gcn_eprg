@@ -1,0 +1,101 @@
+0	a plant light is used for help plants by mimicking sunlight	gold
+1	light is a kind of energy	nongold
+2	an animal is a kind of consumer	nongold
+3	a food contains nutrients for living things	nongold
+4	sunlight is a kind of light	gold
+5	a tree is a kind of living thing	nongold
+6	if something causes a process then that something is required for that process	nongold
+7	make means produce	nongold
+8	to enable is to help	nongold
+9	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+10	sunlight is a kind of solar energy	nongold
+11	life means living things	nongold
+12	if something is required then that something must be provided	nongold
+13	to illuminate means to light up	nongold
+14	a plant is a kind of living thing	nongold
+15	providing something means making;delivering something	nongold
+16	a plant is a kind of organism	nongold
+17	the function of something is what that something  is used to do	nongold
+18	provide is similar to give; make	nongold
+19	a plant requires photosynthesis to grow; survive	nongold
+20	living things eat their food source	nongold
+21	good means positive	nongold
+22	being used for is similar to providing	nongold
+23	make food	answer
+24	to make something easier means to help	nongold
+25	creating means making	nongold
+26	helping means to assist in a change	nongold
+27	In the food chain process a  green plant has the role of  producer	nongold
+28	crops are a kind of edible plant for eating	nongold
+29	to depend on; to rely on; to need means to require	nongold
+30	providing is a kind of function	nongold
+31	providing support is a kind of function	nongold
+32	an animal; living thing requires nutrients for survival	nongold
+33	food is what an animal eats	nongold
+34	to help means to aid	nongold
+35	a  plant requires sunlight for photosynthesis	nongold
+36	solar energy is a kind of light	nongold
+37	if a living thing requires something then that something has a positive impact on that living thing	nongold
+38	to be used  for something means to help to do that something	nongold
+39	light means light energy	nongold
+40	to cause means to make	nongold
+41	helping something has a  positive impact on that something	nongold
+42	light is a kind of energy	nongold
+43	the sun is a source of light; light energy called sunlight	nongold
+44	herbivores only eat plants	nongold
+45	cooking food requires adding heat energy to the food	nongold
+46	usually plants store the food they produce for future use	nongold
+47	a plants; living things require water for survival; to grow	nongold
+48	to produce means to provide	nongold
+49	helping means something can be done; completed more easily; better	nongold
+50	a flower is a kind of plant	nongold
+51	a leaf performs photosynthesis; gas exchange	nongold
+52	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+53	an animal is a kind of organism	nongold
+54	to be used for something means to be required by that something	nongold
+55	food is a kind of substance	nongold
+56	a tree is a kind of plant	nongold
+57	a plant; living thing requires nutrients to grow	nongold
+58	a living thing is a kind of object	nongold
+59	sunlight shining means sunlight is provided	nongold
+60	requiring something means needing that something	nongold
+61	best means most positive	nongold
+62	green plants are a kind of producer	nongold
+63	if a plant dies then that plant will not produce food	nongold
+64	Howie put his plants under a plant light. What was he helping his plants do by providing light?	question
+65	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+66	humans eat crops	nongold
+67	to help; to benefit means to be of use	nongold
+68	a consumer is a kind of organism	nongold
+69	a producer produces its own food	nongold
+70	a vegetable is a kind of food	nongold
+71	a source of something emits; produces; generates; provides that something	nongold
+72	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	gold
+73	solar energy is a kind of energy	nongold
+74	a  plant requires sunlight to  grow	nongold
+75	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+76	production is similar to making	nongold
+77	an animal needs to eat food for nutrients	nongold
+78	help means advantage	nongold
+79	providing structure is a kind of function	nongold
+80	food is a source of energy for animals; plants	nongold
+81	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+82	requiring is similar to needing help	nongold
+83	an animal is a kind of living thing	nongold
+84	food is a kind of object	nongold
+85	an organism is a living thing	nongold
+86	to be helpful means to help to do	nongold
+87	sunlight means solar energy	nongold
+88	a plant; living thing requires food for survival	nongold
+89	to power means to provide energy for	nongold
+90	vegetation means plants	nongold
+91	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+92	a tree is a kind of matter	nongold
+93	if something contains something , then something is able to provide something	nongold
+94	cooking is a kind of skill for preparing food	nongold
+95	a human is a kind of animal	nongold
+96	containing something is similar to providing that something	nongold
+97	to provide means to supply	nongold
+98	to be good for means to have a positive impact on	nongold
+99	to provide something means to be the source of that something	nongold
+100	to eat means to consume food	nongold

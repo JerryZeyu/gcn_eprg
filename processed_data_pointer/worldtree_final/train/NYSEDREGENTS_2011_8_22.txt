@@ -1,0 +1,102 @@
+0	an object is an item	nongold
+1	an event is a kind of action	nongold
+2	a behavior is a kind of characteristic	nongold
+3	high is similar to increase	nongold
+4	jumping off is a kind of  moving down	nongold
+5	an environment is similar to an ecosystem	nongold
+6	feeling is when an living thing senses through touch	nongold
+7	a source of something emits; produces; generates; provides that something	nongold
+8	sensing a warning means receiving a warning	nongold
+9	sensory organs are used for sensing	nongold
+10	An example of hitting something is dropping an object onto that something	nongold
+11	an object has properties	nongold
+12	sound can be used for communication by animals	nongold
+13	a bird is a kind of animal	nongold
+14	food is a kind of object	nongold
+15	an animal requires energy to move	nongold
+16	an environment means an area	nongold
+17	harming something has a  negative impact on; effect on that something	nongold
+18	sliding is a kind of motion	nongold
+19	the head is a part of an animal	nongold
+20	a kitten is a young; baby cat	nongold
+21	speed is a measure of how fast an object is moving	nongold
+22	volume means the loudness of a sound	nongold
+23	an ear is a kind of body part	nongold
+24	sensing food has a positive impact on finding food	nongold
+25	the kinetic energy of an object can change from kinetic energy to sound energy by hitting another object	nongold
+26	objects are made of materials; substances; matter	nongold
+27	motion; movement means moving; to move	nongold
+28	An example of an object with kinetic energy is an object in motion	nongold
+29	sense is a kind of characteristic of an animal	nongold
+30	seeing is used for sensing visual things	nongold
+31	smell is a kind of sense	nongold
+32	sound is a kind of sound energy	nongold
+33	An example of playing with toys is jumping to catch a ball	nongold
+34	eyes can sense;detect light energy for seeing	nongold
+35	sliding is a kind of movement	nongold
+36	loud noises can cause animals to startle	gold
+37	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+38	answering questions requires information	nongold
+39	motion is when moves an object; something to a direction	nongold
+40	an part of an object is smaller than the entire object	nongold
+41	loud means high in sound energy;sound intensity	nongold
+42	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+43	an animal is a kind of organism	gold
+44	the body is a part of an organism	nongold
+45	sight is a kind of sense	nongold
+46	noise means sound	gold
+47	an increase is a kind of change	nongold
+48	surroundings means environment	nongold
+49	actions mean behavior	nongold
+50	impact means effect	nongold
+51	walking is a kind of behavior	nongold
+52	walking is a kind of motion	nongold
+53	a jaguar is a kind of big cat	nongold
+54	an animal is a kind of living thing	nongold
+55	can be means able to be	nongold
+56	when two objects are touched; are contacted; move against each other , sound is produced	nongold
+57	a sense is a kind of ability	nongold
+58	a mammal is a kind of animal	nongold
+59	a cat is a kind of carnivore	nongold
+60	objects in an environment are a part of that environment	nongold
+61	a dog is a kind of animal	nongold
+62	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+63	hearing is a kind of sense	gold
+64	better senses have a positive impact on an animal's survival; health; ability to reproduce	nongold
+65	an environment is a kind of place	nongold
+66	hearing is used for sensing sound by animals	gold
+67	a kind of something is an example of that something	nongold
+68	communication is a learned behavior	nongold
+69	avoiding something requires sensing that something	nongold
+70	if an animal is trained to do something then that something is a learned behavior	nongold
+71	matter; molecules vibrating can cause sound	nongold
+72	an organism is a living thing	nongold
+73	a motion is a kind of event; action	nongold
+74	pulling is a kind of motion	nongold
+75	touch is a kind of sense	nongold
+76	An example of an organism responding to its external environment is an animal jumping when startled	gold
+77	louder means higher; greater in volume	nongold
+78	sensing and responding to its external environment	answer
+79	A cat jumps when startled by a loud noise. This is an example of an organism	question
+80	an insect is a kind of animal	nongold
+81	echolocation is when some animals detect objects by hearing echoes by emitting sound	nongold
+82	motion is a source of kinetic energy in an object	nongold
+83	when sound reaches the ear , that sound can be heard	nongold
+84	a part of a living thing is a natural structure	nongold
+85	eyes are used for seeing by animals by sensing light	nongold
+86	the senses are used for making observations	nongold
+87	a cat is a kind of animal	gold
+88	a human is a kind of animal	nongold
+89	speed is a property of an object and includes values of slow; fast	nongold
+90	sound means sound energy	nongold
+91	a living thing is made of cells	nongold
+92	organisms are a part of an environment	nongold
+93	a predator is a kind of animal	nongold
+94	sound is a kind of energy	nongold
+95	An example of an adaptation is moving fast	nongold
+96	moving is similar to travelling	nongold
+97	a bird is a kind of living thing	nongold
+98	human is a kind of organism	nongold
+99	dogs can hear  sounds with higher frequency  than human can	nongold
+100	a living thing is a kind of object	nongold
+101	a cat is a kind of mammal	nongold

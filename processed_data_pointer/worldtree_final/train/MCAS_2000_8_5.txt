@@ -1,0 +1,102 @@
+0	a multicellular organism is a kind of living thing	nongold
+1	a cell is very small	nongold
+2	living things perform biological processes	nongold
+3	result means outcome	nongold
+4	to happen means to occur	nongold
+5	both means two	nongold
+6	multicellular organisms produce more cells through cell division	nongold
+7	a living thing is a kind of object	nongold
+8	a producer is a kind of living thing	nongold
+9	converting is similar to producing	nongold
+10	live means to be alive	nongold
+11	if something is copied then that something will be the same; similar; identical	nongold
+12	to add means to increase	nongold
+13	all living things have life cycles	nongold
+14	cell division often causes growth; healing	nongold
+15	make means produce	nongold
+16	a single-celled organism is a kind of living thing	nongold
+17	four is a kind of number	nongold
+18	chromosome is made of DNA	nongold
+19	the number of parts of something is a property of that something	nongold
+20	generate means produce	nongold
+21	life means living things	nongold
+22	a chromosome is a part of a cell	nongold
+23	comparing requires measuring	nongold
+24	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+25	mitosis produces two cells with the same number of chromosomes as the parent cell	gold
+26	producing is a kind of process	nongold
+27	different is the opposite of the same	nongold
+28	product means result	nongold
+29	to cause means to result in	nongold
+30	mitosis produces two diploid cells from a diploid parent cell	nongold
+31	high is similar to increase	nongold
+32	nonliving; non-living; die is the opposite of living; alive; live	nongold
+33	the cell cycle is when a cell forms new cells	nongold
+34	to produce means to provide	nongold
+35	emit means produce	nongold
+36	cell division is a kind of process	nongold
+37	all living things are made of cells according to the cell theory	nongold
+38	in common is similar to the same	nongold
+39	if something changes , then that something is not the same	nongold
+40	how many means what number	nongold
+41	products are formed; are produced; are created	nongold
+42	a source of something emits; produces; generates; provides that something	nongold
+43	to split means to divide	nongold
+44	to produce means to result in	gold
+45	cancerous cells are formed by abnormal cell division	nongold
+46	amount is similar to number	nongold
+47	lowest means least in value; amount; number	nongold
+48	if something causes an increase in something else then that something produces that something else	nongold
+49	to match means to be the same	nongold
+50	a chromosomes of a human contains thousands of genes	nongold
+51	one in  two means half; 50%	nongold
+52	constant is similar to same	nongold
+53	an animal is a kind of eukaryote	nongold
+54	one is a kind of number	nongold
+55	higher means greater; above in value; amount; number	nongold
+56	to change means to become different	nongold
+57	new means different from the former one	nongold
+58	living things can all reproduce	nongold
+59	to contribute is similar to produce	nongold
+60	comparing requires observing that something	nongold
+61	an animal is a kind of living thing	nongold
+62	living things eat their food source	nongold
+63	fewer means lower; less in number	nongold
+64	mitosis produces cells that are identical to the parent cell	gold
+65	cell division means cell reproduction	nongold
+66	a protozoan is a kind of animal	nongold
+67	to produce means to create	nongold
+68	meiosis produces cells that are different from the parent cell	nongold
+69	biotic means living	nongold
+70	affected means changed	nongold
+71	producing is similar to causing	nongold
+72	largest amount means most	nongold
+73	survive means live	nongold
+74	if something has no impact on something else then that something else stays the same	nongold
+75	a living thing is made of cells	nongold
+76	pair means two	nongold
+77	the parent cell is the original cell	gold
+78	the  property of something is the same for the things of same kind	nongold
+79	greatest means largest; highest; most amount of something	nongold
+80	the same number	answer
+81	an animal cell is a kind of cell	nongold
+82	to be formed by is similar to being produced by	nongold
+83	an organism is a living thing	nongold
+84	producing is similar to releasing	nongold
+85	can be means able to be	nongold
+86	to remain means to stay the same	nongold
+87	decomposing is similar to separating	nongold
+88	to subdivide is similar to to divide	nongold
+89	produce is similar to release	nongold
+90	mitosis is a source of two identical nuclei	nongold
+91	many means high in number	nongold
+92	organisms mean life	nongold
+93	the number of body parts of an organism is an inherited characteristic	nongold
+94	new cells with a full set of chromosomes are formed by fertilization	nongold
+95	same means identical; equal in value; amount; number; quantity	gold
+96	to split means to break down	nongold
+97	Mitosis occurs in living things when a cell divides to produce two cells. Compared to the original cell, how many chromosomes are in each of the resulting cells?	question
+98	alleles are found at the same place on a chromosome	nongold
+99	two somatic cells from the same multicellular organism will have the same number of chromosomes	nongold
+100	stay the same means not changing	nongold
+101	survive means live	nongold

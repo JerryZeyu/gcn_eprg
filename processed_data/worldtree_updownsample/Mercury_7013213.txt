@@ -1,0 +1,63 @@
+0	heat means heat energy	nongold
+1	combustion means fire converts chemical energy into light energy and heat energy	nongold
+2	material means substance	nongold
+3	action means activity	gold
+4	intense means high in intensity	nongold
+5	lighting a match is a kind of action	gold
+6	the length of time of a substance burning can be used to measure the amount of the chemical energy in the substance	nongold
+7	fire is a kind of chemical reaction	gold
+8	mixing is a kind of activity	nongold
+9	a candle is a source of light when it is burned	nongold
+10	chemical energy is a kind of energy	nongold
+11	if the color of a substance changes then a chemical change may have occurred	nongold
+12	lighting a match	answer
+13	Which activity is an example of a chemical change?	question
+14	chemical reactions cause chemical change	gold
+15	lighting a match is a kind of action	gold
+16	chemical reactions do not cause the total number of atoms to change	nongold
+17	cooking causes a chemical reaction	nongold
+18	hydrogen contains chemical energy	nongold
+19	lighting a match causes that match to burn	gold
+20	action means activity	gold
+21	light means light energy	nongold
+22	affected means changed	nongold
+23	forming is a kind of action	nongold
+24	the chemistry of something is similar to what that something is made of	nongold
+25	fire is a kind of chemical reaction	gold
+26	fire is a kind of chemical reaction	gold
+27	substances are made of matter	nongold
+28	lighting a match is a kind of action	gold
+29	An example of a chemical property is how a material reacts chemically	nongold
+30	action means activity	gold
+31	phase means state	nongold
+32	fire gives off light; heat; smoke	nongold
+33	Which activity is an example of a chemical change?	question
+34	substances are made of elements	nongold
+35	fire causes burning	gold
+36	light is made of photons	nongold
+37	a candle is a kind of object	nongold
+38	acid can cause chemical change	nongold
+39	chemical change is a kind of chemical reaction	nongold
+40	a chemical compound is a kind of compound	nongold
+41	to illuminate means to light up	nongold
+42	Which activity is an example of a chemical change?	question
+43	lighting a match causes that match to burn	gold
+44	chemical reactions cause chemical change	gold
+45	fire causes burning	gold
+46	Which activity is an example of a chemical change?	question
+47	creating is a kind of activity	nongold
+48	to cause an event is similar to being involved in that event	nongold
+49	a function is an activity	nongold
+50	photosynthesis is a kind of chemical reaction	nongold
+51	a process is a kind of event	nongold
+52	lighting a match	answer
+53	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+54	lighting a match	answer
+55	objects contain chemical energy	nongold
+56	a change is a kind of event	nongold
+57	fire causes burning	gold
+58	reproducing is a kind of activity	nongold
+59	chemical reactions cause chemical change	gold
+60	substances have chemical properties	nongold
+61	lighting a match causes that match to burn	gold
+62	lighting a match	answer

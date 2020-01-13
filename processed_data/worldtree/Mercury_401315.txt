@@ -1,0 +1,102 @@
+Question	What keeps Mars in orbit around the Sun?	question
+Answer	gravity	answer
+0	Mars is a kind of planet	gold
+1	to keep something occurring means to cause that something to occur	gold
+2	keeping means staying	nongold
+3	Mars is a kind of inner planet	nongold
+4	revolving  around something means orbiting that something	nongold
+5	Mars is the planet that is fourth closest to the  Sun	nongold
+6	the Earth revolves around the sun	nongold
+7	the Mars Rover is a kind of vehicle	nongold
+8	to keep a process or event happening is similar to causing that process or event to happen	nongold
+9	Earth is greater in mass than Mars	nongold
+10	planets orbit stars	gold
+11	gravity causes orbits	gold
+12	Mars contains ice	nongold
+13	the Sun is a kind of star	gold
+14	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+15	Mercury is closer to the Sun than Mars	nongold
+16	planets in the solar system orbit the Sun	nongold
+17	a star is a kind of celestial object; celestial body	nongold
+18	a planet is a kind of celestial object; body	nongold
+19	keeping is similar to storing	nongold
+20	a star produces light and heat	nongold
+21	being around something means surrounding  that something	nongold
+22	a revolution occurs when something revolves around something else	nongold
+23	the sun is a source of light; light energy called sunlight	nongold
+24	an animal is a kind of living thing	nongold
+25	astronomy is the study of celestial (objects, bodies)	nongold
+26	staying warm means keeping warm	nongold
+27	the sun is a kind of yellow dwarf	nongold
+28	moons orbit planets	nongold
+29	a star is a source of light; light energy through nuclear reactions	nongold
+30	a satellite orbits a planet	nongold
+31	planets have cleared their orbits	nongold
+32	a planet completes one orbit around its star over a period of one planetary year	nongold
+33	a source of something emits; produces; generates; provides that something	nongold
+34	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+35	a star requires energy	nongold
+36	a star is very hot in temperature	nongold
+37	a star is usually larger than a planet	nongold
+38	the sun is a source of radiation; heat called sunlight	nongold
+39	orbit means orbital path	nongold
+40	all planets orbit the sun in the same direction	nongold
+41	orbiting is a kind of action	nongold
+42	an animal is a kind of organism	nongold
+43	the sun  is the source of energy for physical cycles on Earth	nongold
+44	a star is made of gases	nongold
+45	answering questions requires information	nongold
+46	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+47	Mali is located in the southern hemisphere	nongold
+48	the asteroid belt is located between Mars and Jupiter	nongold
+49	gravity pulls objects towards planets	nongold
+50	the sun is not a star in the night sky	nongold
+51	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+52	yellow dwarf is a kind of small star	nongold
+53	Proxima Centauri is a kind of star	nongold
+54	a yellow dwarf is a kind of main-sequence star	nongold
+55	the Sun is the  star that is closest to Earth	nongold
+56	a living thing is a kind of object	nongold
+57	a planet is exposed to the heat of the star around which it revolves	nongold
+58	the moon orbits the Earth	nongold
+59	keeping cool means not increasing temperature	nongold
+60	Celestial bodies move in orbits in space around other celestial bodies	nongold
+61	orbit is a kind of characteristic	nongold
+62	Malta is located in the northern hemisphere	nongold
+63	Maldives is located in the northern hemisphere	nongold
+64	an animal is a member of an animal species	nongold
+65	the sun is the source of energy for life on Earth	nongold
+66	nucleus is synonymous with core; center	nongold
+67	to be in the sun means to be in the sunlight	nongold
+68	main-sequences stars are a kind of star	nongold
+69	a human is a kind of animal	nongold
+70	to slow; to slow down decreases speed	nongold
+71	an organism is a living thing	nongold
+72	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+73	an orbit is a kind of regular path	nongold
+74	a white dwarf is a kind of star	nongold
+75	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+76	a comet orbit occurs usually once per 1000.0 years	nongold
+77	Earth is a kind of planet	nongold
+78	solar energy is a kind of heat energy	nongold
+79	events occur at a specific place; at a specific time; with a specific frequency	nongold
+80	objects are made of materials; substances; matter	nongold
+81	solar energy is a kind of energy	nongold
+82	revolving is a kind of motion	nongold
+83	Maldives is located in the equatorial region	nongold
+84	Alpha Mensae is a kind of main-sequence star	nongold
+85	a type is synonymous with a kind	nongold
+86	an object; material; substance comes from that object or material's source	nongold
+87	a producer is a kind of living thing	nongold
+88	to change means to have an effect	nongold
+89	emit means produce	nongold
+90	matter; materials; substances are made of atoms; particles	nongold
+91	providing warmth is synonymous with keeping warm	nongold
+92	Uranus is a kind of planet	nongold
+93	the function of something is what that something  is used to do	nongold
+94	greatest means largest; highest; most amount of something	nongold
+95	being in the sun is synonymous with being in the sunlight	nongold
+96	high is similar to increase	nongold
+97	stars are some of the hottest objects	nongold
+98	to depend on; to rely on; to need means to require	nongold
+99	to keep something from happening means to prevent that something	nongold

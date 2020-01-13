@@ -1,0 +1,101 @@
+0	combining; mixing two substances chemically causes chemical reactions	nongold
+1	transferring a section of something requires separating the section of something	nongold
+2	to disperse means to separate	nongold
+3	an mixture is formed by two or more substances combined together physically	nongold
+4	if something does not contain something else then that something lacks that something else	nongold
+5	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	gold
+6	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+7	fruit contains seeds	nongold
+8	to add means to combine	nongold
+9	apart means away	nongold
+10	a sifter is a kind of tool for separating mixtures	nongold
+11	plants are the source of fruit	nongold
+12	cooking is a kind of process	nongold
+13	an object; material; substance comes from that object or material's source	nongold
+14	if something contains something , then something is able to provide something	nongold
+15	if an object is made of a material then that object has the properties of that material	nongold
+16	to eat means to consume food	nongold
+17	if something is made of something; a material then that something contains that something; that material	nongold
+18	spice is a kind of  food	nongold
+19	purity is a property of substance and includes ordered values of pure substance; mixture	nongold
+20	contains means located in	nongold
+21	high is similar to increase	nongold
+22	can be means able to be	nongold
+23	made up of means contains; made of	nongold
+24	to contain means to have inside	nongold
+25	a type is synonymous with a kind	nongold
+26	a sifter is used for separating mixtures	nongold
+27	take apart means break down	nongold
+28	a solution is a kind of mixture	nongold
+29	form means kind	nongold
+30	to decompose means to separate	nongold
+31	material means substance	nongold
+32	a berry is a kind of fruit	nongold
+33	flowers are a source of fruit	nongold
+34	decomposing is similar to separating	nongold
+35	if something is a part of something then that something can be found in that something	nongold
+36	filtration can be used for separating a mixture of a liquid and a solid	nongold
+37	if two substances together form a mixture then those substances can be separated from one another by physical changes	nongold
+38	to be used for something means to be required by that something	nongold
+39	if something is a part of something else then that something else contains that something	nongold
+40	fruit salad is a kind of salad	gold
+41	a vegetable is a kind of food	nongold
+42	fruit is a part of a plant; tree	nongold
+43	food is a kind of object	nongold
+44	a mixture usually is made of objects with different physical properties	nongold
+45	apart is the opposite of together	nongold
+46	separate is similar to break down	nongold
+47	an object is an item	nongold
+48	to be made of something means to be formed of that something	nongold
+49	to split means to break down	nongold
+50	Which mixture contains ingredients that can be easily separated?	question
+51	including means containing	nongold
+52	to serve as means to be used as	nongold
+53	a product is a kind of object	nongold
+54	made of is similar to contains	nongold
+55	evaporation can be used for separating a mixture of a liquid and a solid	nongold
+56	an part of an object is smaller than the entire object	nongold
+57	to contain something means to have that something	nongold
+58	a food contains nutrients for living things	nongold
+59	a source of something emits; produces; generates; provides that something	nongold
+60	contain is similar to store	nongold
+61	to be formed by is similar to being produced by	nongold
+62	if something is insoluble in something , then they will remain separated	nongold
+63	if something is made of something else then that something can be broken down into that something else	nongold
+64	a petri dish is a kind of tool	nongold
+65	containing something is similar to providing that something	nongold
+66	fruit salad often is made of  fruit	gold
+67	an orange is a kind of fruit	nongold
+68	a dessert is a kind of food	nongold
+69	a mixture is a kind of substance	nongold
+70	a component means a part of	nongold
+71	nutrients are a kind of substance	nongold
+72	composed of means made of	nongold
+73	to be made of means to consist of	nongold
+74	when two substances together form a compound then those substances cannot be physically separated	nongold
+75	fruit is a kind of food	nongold
+76	a container contains objects; material; substances	nongold
+77	to provide something means to be the source of that something	nongold
+78	if something absorbs something else then that something will contain that something else	nongold
+79	answering questions requires information	nongold
+80	affected means changed	nongold
+81	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+82	fruit salad	answer
+83	to split means to divide	nongold
+84	soup is a kind of food	nongold
+85	food is a kind of substance	nongold
+86	a fruit is a kind of object	nongold
+87	a vegetable is a kind of plant	nongold
+88	to be found in means to be contained in	nongold
+89	break apart means break down	nongold
+90	spices are a kind of material	nongold
+91	fruit is  usually a solid	gold
+92	if something is a source of something else then that something usually contains that something else	nongold
+93	providing something means making;delivering something	nongold
+94	a gourd is a kind of fruit	nongold
+95	provide is similar to give; make	nongold
+96	salad  is a kind of mixture	gold
+97	to group means to separate	nongold
+98	contents means the substance in a container	nongold
+99	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+100	a mixture of solids can be easily separated	gold

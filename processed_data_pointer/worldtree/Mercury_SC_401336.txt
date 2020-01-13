@@ -1,0 +1,102 @@
+Question	Which feature best helps an animal defend itself from predators?	question
+Answer	a skunk's strong scent	answer
+0	feature is synonymous with characteristic	nongold
+1	a skunk is a kind of animal	gold
+2	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+3	to protect means to defend	nongold
+4	a skunk produces a bad odor	gold
+5	odor means scent	gold
+6	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+7	an animal is a kind of living thing	gold
+8	smell means scent	gold
+9	best means most positive	nongold
+10	helping something has a  positive impact on that something	gold
+11	to protect means to make safe	nongold
+12	protecting something means preventing harm to that something	nongold
+13	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+14	a predator is a kind of animal	gold
+15	a structure is a kind of feature	nongold
+16	an animal is a kind of organism	gold
+17	smell is a property of an object; a material; a substance	gold
+18	food can be a source of an odor	nongold
+19	something hard; something strong can be used for protection	nongold
+20	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+21	to help; to benefit means to be of use	nongold
+22	if a substance has a strong odor , then the substance has a high concentration of odor	nongold
+23	a living thing is a kind of object	gold
+24	a property of something is a feature of that something	gold
+25	smell is used for detecting odor	nongold
+26	strong means high in strength	nongold
+27	protection means resistance to damage increases	nongold
+28	to hurt means to harm	nongold
+29	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	gold
+30	harm means injury	nongold
+31	an organism is a living thing	nongold
+32	to be used  for something means to help to do that something	nongold
+33	to help means to aid	nongold
+34	if a living thing requires something then that something has a positive impact on that living thing	nongold
+35	smell is used for  finding food by some animals	nongold
+36	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+37	strength is a property of an object; a material	nongold
+38	harming something has a  negative impact on; effect on that something	nongold
+39	a chipmunk is a kind of mammal	nongold
+40	damage means harm	nongold
+41	prey  is a kind of animal	nongold
+42	harm means danger	nongold
+43	a predator is a kind of enemy to its prey	nongold
+44	characteristic means property	nongold
+45	hair; fur is  a part of skin for protection; keeping warm	nongold
+46	most animals avoid bad odors	gold
+47	danger has a negative impact on a thing	nongold
+48	trait is synonymous with characteristic	nongold
+49	hiding is a kind of protection against predators; from predators	nongold
+50	good means positive	nongold
+51	a land feature is a kind of physical characteristic	nongold
+52	smell is a kind of sense	nongold
+53	a human is a kind of animal	nongold
+54	something dangerous can cause harm	nongold
+55	a structure of something is synonymous with a part of that something	nongold
+56	protecting is a kind of function	nongold
+57	weak means low in strength	nongold
+58	an adaptation is an adaptive feature	nongold
+59	better senses have a positive impact on an animal's survival; health; ability to reproduce	nongold
+60	helping means to assist in a change	nongold
+61	help means advantage	nongold
+62	a rabbit is a kind of prey	nongold
+63	requiring is similar to needing help	nongold
+64	better means good	nongold
+65	landform means surface feature; physical feature; land feature	nongold
+66	a rabbit is a kind of animal	nongold
+67	a plant is a kind of living thing	nongold
+68	a part of something means a characteristic of something	nongold
+69	predators eat prey	nongold
+70	odor is made of gas	nongold
+71	a plant; living thing requires food for survival	nongold
+72	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+73	a plant is a kind of organism	nongold
+74	some animals move quickly to escape predators	nongold
+75	an object has properties	nongold
+76	trait means property	nongold
+77	to be good for means to have a positive impact on	nongold
+78	to enable is to help	nongold
+79	killing means harming something causing death	nongold
+80	answering questions requires information	nongold
+81	avoiding is a kind of defense	gold
+82	feeling is when an living thing senses through touch	nongold
+83	fur is often part of an animal	nongold
+84	something harmful can cause harm	nongold
+85	to make something easier means to help	nongold
+86	to be in danger means to be around; to be near something dangerous	nongold
+87	an onion has a strong odor	nongold
+88	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+89	fragrance means smell	nongold
+90	what an object is made of is a kind of characteristic	nongold
+91	a predator eats other animals for food	nongold
+92	a cloud of dust and gas is a kind of feature	nongold
+93	an animal is a kind of consumer	nongold
+94	odor is a property of gas	nongold
+95	most predators live in; live near the same environment as their prey	nongold
+96	prey is a kind of food for predators	nongold
+97	structure is a property of an object; a material; a substance	nongold
+98	perfume has a strong odor	nongold
+99	animal instinct means instinctive behavior	nongold

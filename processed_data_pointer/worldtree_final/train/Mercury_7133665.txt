@@ -1,0 +1,101 @@
+0	aluminum is recyclable	nongold
+1	wood is a kind of object	nongold
+2	a fire requires  oxygen to burn	nongold
+3	a burner is a kind of object; surface	nongold
+4	chemical reaction means chemical bonds change	nongold
+5	fire causes harm to trees; to forests; to living things	nongold
+6	rubber is a kind of nonmetal	nongold
+7	burning is a kind of action	gold
+8	to give off means to be the source of	nongold
+9	material means substance	nongold
+10	wood is a kind of resource	nongold
+11	combustibility is a kind of  chemical property	nongold
+12	wood is a kind of biomass	nongold
+13	wood is a kind of nonmetal	nongold
+14	lighting a match is a kind of action	nongold
+15	acid can cause chemical change	nongold
+16	to combust means to catch fire	nongold
+17	image means visual depiction of an object	nongold
+18	rust is a kind of substance	nongold
+19	chemical change is a kind of chemical reaction	nongold
+20	burning a living thing usually causes harm to that living thing	nongold
+21	a forest fire is a kind of event	nongold
+22	action can cause change	nongold
+23	metal is a kind of material	nongold
+24	combining; mixing two substances chemically causes chemical reactions	nongold
+25	a chemical reaction is a kind of process	nongold
+26	a tree contains wood	nongold
+27	action means activity	nongold
+28	a  chemical property is a kind of  property	nongold
+29	combustion is a kind of chemical change	nongold
+30	chemical reactions releasing new substances means chemical reactions forming new substances	nongold
+31	wood is a strong material	nongold
+32	a change is a kind of event	nongold
+33	dry wood easily burns	nongold
+34	wood burns	gold
+35	plastic is recyclable	nongold
+36	fire gives off light; heat; smoke	nongold
+37	metal rusts	nongold
+38	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+39	chemical reactions cause new substances; different substances to form	nongold
+40	burning wood chips	answer
+41	lighting a match causes that match to burn	nongold
+42	affected means changed	nongold
+43	objects are made of materials; substances; matter	nongold
+44	rubber is a kind of material	nongold
+45	wood is an thermal; thermal energy insulator	nongold
+46	An example of a chemical change is acid breaking down substances	nongold
+47	combustion means fire converts chemical energy into light energy and heat energy	nongold
+48	paper burns	nongold
+49	high temperatures can cause an object to combust	nongold
+50	wood is a kind of natural material	nongold
+51	death means to die	nongold
+52	chemicals means substances	nongold
+53	An example of combustion is explosion	nongold
+54	wildfire is when a forest catches fire	nongold
+55	if an object undergoes chemical change then that object will have new chemical properties	nongold
+56	plastic is a kind of material made by humans	nongold
+57	plastic is high in strength	nongold
+58	wood is a thermal; thermal energy insulator	nongold
+59	wood is a light material	nongold
+60	substances are made of elements	nongold
+61	photosynthesis is a kind of chemical reaction	nongold
+62	wood is a renewable resource	nongold
+63	burning wood is used to produce heat	nongold
+64	substances have chemical properties	nongold
+65	a reaction is a kind of process	nongold
+66	Which action illustrates a chemical change?	question
+67	most chemical reactions release or absorb heat energy	nongold
+68	becoming is a kind of action	nongold
+69	An example of a chemical property is how a material reacts chemically	nongold
+70	iron oxide; rust; Fe2O3 is made of iron and oxygen	nongold
+71	fire destroys plants in an environment	nongold
+72	chemical reactions cause chemical change	gold
+73	forming is a kind of action	nongold
+74	change is a kind of process	nongold
+75	fire is a kind of chemical reaction	gold
+76	a motion is a kind of event; action	nongold
+77	wildfire means forest fire	nongold
+78	a flame are a part of a fire	nongold
+79	chemical change is the opposite of physical change	nongold
+80	a process is a kind of event	nongold
+81	rust forming is a kind of chemical change	nongold
+82	a demonstration is similar to an example	nongold
+83	adding something is a kind of change	nongold
+84	combustibility means the ability of combustion	nongold
+85	a firewood is a kind of object	nongold
+86	all elements are a kind of pure substance	nongold
+87	to change means to cause a change	nongold
+88	carbon is a kind of element	nongold
+89	rust is a kind of compound	nongold
+90	wood chips are made of wood	gold
+91	fire causes burning	gold
+92	adding heat to an object sometimes causes chemical reactions	nongold
+93	putting out a fire stops the burning of that fire	nongold
+94	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+95	a chemical reaction producing a lot of gas and heat in a short time causes an explosion	nongold
+96	combustion is a kind of exergonic reaction	nongold
+97	an event is a kind of action	nongold
+98	actions mean behavior	nongold
+99	dissolving is a kind of action	nongold
+100	cooking causes a chemical reaction	nongold

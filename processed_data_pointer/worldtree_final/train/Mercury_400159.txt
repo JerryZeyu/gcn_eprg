@@ -1,0 +1,102 @@
+0	a food contains nutrients for living things	nongold
+1	living things eat their food source	nongold
+2	a piece of something is a kind of object	nongold
+3	impact means effect	nongold
+4	a hamburger patty is a kind of meat	nongold
+5	walking is a kind of behavior	nongold
+6	a human is a kind of animal	nongold
+7	locomotion is a generally learned behavior	nongold
+8	Which behavior is a learned behavior?	question
+9	preferences are generally learned characteristics	nongold
+10	social behavior is a kind of learned behavior	nongold
+11	to eat means to consume food	nongold
+12	food is a kind of object	nongold
+13	ability is a kind of characteristic	nongold
+14	consumers eat other organisms	nongold
+15	a tool is a kind of object	nongold
+16	a spoon is a kind of object	nongold
+17	rolling in mud is a learned behavior	nongold
+18	if an organism eats something then that something is a source of frood to that organism	nongold
+19	soup is a kind of food	nongold
+20	an animal knows how to do  instinctive behaviors when it is born	nongold
+21	prey  is a kind of animal	nongold
+22	a trick is a learned behavior	nongold
+23	trait is synonymous with characteristic	nongold
+24	a predator usually kills its prey to eat it	nongold
+25	an animal needs to eat food for nutrients	nongold
+26	a fork is a kind of utensil	gold
+27	playing with toys is a learned characteristic	nongold
+28	doing something more is a kind of conditioned behavior	nongold
+29	a person is a kind of animal	nongold
+30	lizards eat insects	nongold
+31	learned behaviors are learned over the  lifetime of the animal	nongold
+32	learning; studying information causes one to know that information	nongold
+33	an organism eating is a kind of action	nongold
+34	a source of something emits; produces; generates; provides that something	nongold
+35	eating certain foods is a kind of habit	nongold
+36	intelligence is an acquired characteristic	nongold
+37	a child is a kind of young human	nongold
+38	an insect is a kind of prey	nongold
+39	to impact means to affect	nongold
+40	answering questions requires information	nongold
+41	metal fork is made of metal for eating	nongold
+42	conditioned behavior is a kind of learned behavior	nongold
+43	a fork is a kind of object	nongold
+44	a utensil is a kind of tool for eating	gold
+45	an event is a kind of action	nongold
+46	curling is a kind of behavior	nongold
+47	instrument means tool	nongold
+48	meat is a kind of food	nongold
+49	communication is a learned behavior	nongold
+50	cooking is a kind of action	nongold
+51	following orders is a learned characteristic	nongold
+52	using tools is a learned characteristic	gold
+53	cooking is a kind of skill for preparing food	nongold
+54	a fruit is a kind of object	nongold
+55	a predator is a kind of animal	nongold
+56	become prey means get eaten	nongold
+57	animal instinct means instinctive behavior	nongold
+58	counter means reduce; stop; resist	nongold
+59	prey is a kind of food for predators	nongold
+60	a predator avoiding some types of prey is a learned behavior	nongold
+61	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+62	an animal; living thing requires nutrients for survival	nongold
+63	inability is the opposite of ability	nongold
+64	a learned characteristic is a kind of acquired characteristic	nongold
+65	a behavior is a kind of characteristic	gold
+66	if an animal is trained to do something then that something is a learned behavior	nongold
+67	predators eat prey	nongold
+68	diet means what an animal eats	nongold
+69	avoiding is a kind of conditioned behavior	nongold
+70	eating with a fork	answer
+71	a living thing is a kind of object	nongold
+72	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+73	a process is a kind of event	nongold
+74	determining is similar to learning	nongold
+75	to prey on an animal means to eat that animal	nongold
+76	eating prey requires catching prey	nongold
+77	to produce means to create	nongold
+78	an organism is a living thing	nongold
+79	eating something decreases the amount of that something	nongold
+80	human is a kind of organism	nongold
+81	food is a kind of substance	nongold
+82	actions mean behavior	nongold
+83	a dessert is a kind of food	nongold
+84	high is similar to increase	nongold
+85	begging for food is a kind of conditioned behavior	nongold
+86	doing chores is a learned characteristic	nongold
+87	skills are learned characteristics; behaviors	nongold
+88	lunch is a kind of meal	nongold
+89	to create means to make	nongold
+90	breakfast is a kind of food	nongold
+91	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+92	a student is a kind of human	nongold
+93	a predator eats other animals for food	nongold
+94	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+95	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+96	an animal is a kind of living thing	nongold
+97	a utensil is used for eating	gold
+98	an animal is a kind of organism	nongold
+99	food is what an animal eats	nongold
+100	an object is an item	nongold
+101	animals learn some behaviors from watching their parents	nongold

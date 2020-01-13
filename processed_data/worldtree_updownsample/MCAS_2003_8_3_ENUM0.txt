@@ -1,0 +1,58 @@
+0	sunlight produces heat	nongold
+1	a flashlight converts electrical energy; electricity into light energy	nongold
+2	some light bulbs convert electrical energy; electricity into light energy and heat energy	gold
+3	the function of something is what that something  is used to do	nongold
+4	What energy transformation occurs when an electric lamp is turned on?	question
+5	if something generates energy for something else then that something powers that something else	nongold
+6	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+7	heat means heat energy	nongold
+8	heating means adding heat	nongold
+9	turning is a kind of motion	nongold
+10	electricity means electrical energy	gold
+11	electrical energy to light and heat energy	answer
+12	electricity means electrical energy	gold
+13	to transform means to convert	gold
+14	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+15	heat is a kind of energy	nongold
+16	person is synonymous with human	nongold
+17	to turn means to convert	nongold
+18	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+19	electricity means electrical energy	gold
+20	a machine is a kind of object	nongold
+21	energy transformation means one kind of energy changes into another kind of energy	nongold
+22	electrical energy to light and heat energy	answer
+23	converting is similar to turning into	nongold
+24	electrical energy to light and heat energy	answer
+25	an increase is a kind of change	nongold
+26	a light bulb is a part of a  lamp	gold
+27	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+28	heat energy  can be used to heat up  an object	nongold
+29	a source of something emits; produces; generates; provides that something	nongold
+30	if the electrical  devices are connected in parallel circuit , then turning on or off any devices will not affect other devices	nongold
+31	both means two	nongold
+32	combustion means fire converts chemical energy into light energy and heat energy	nongold
+33	to combust means to catch fire	nongold
+34	a light bulb is a part of a  lamp	gold
+35	an object; material; substance comes from that object or material's source	nongold
+36	UV light is a kind of light	nongold
+37	temperature is a measure of heat energy	nongold
+38	some light bulbs convert electrical energy; electricity into light energy and heat energy	gold
+39	solar energy is a kind of heat energy	nongold
+40	to turn means to change	nongold
+41	some light bulbs convert electrical energy; electricity into light energy and heat energy	gold
+42	What energy transformation occurs when an electric lamp is turned on?	question
+43	an electric motor converts electrical energy into mechanical energy	nongold
+44	electricity is used as an energy source by electrical devices	nongold
+45	to transform means to convert	gold
+46	an electric stove changes electrical energy into heat energy	nongold
+47	a physical property is a kind of property	nongold
+48	What energy transformation occurs when an electric lamp is turned on?	question
+49	the heat energy produced by the light bulb is not used	nongold
+50	electrical energy to light and heat energy	answer
+51	sunlight is a kind of light	nongold
+52	to be made of something means to be formed of that something	nongold
+53	to transform means to convert	gold
+54	a source of something increases the amount of that something	nongold
+55	What energy transformation occurs when an electric lamp is turned on?	question
+56	a light bulb is a part of a  lamp	gold
+57	a process is a kind of event	nongold

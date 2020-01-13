@@ -1,0 +1,101 @@
+0	an object is made of its parts	nongold
+1	a branch is a part of a tree	nongold
+2	a mammal is a kind of animal	nongold
+3	nonliving things are not made of cells	nongold
+4	an environment means an area	nongold
+5	air is a kind of nonliving thing	nongold
+6	an organism is a living thing	nongold
+7	a plant; living thing requires food for survival	nongold
+8	a part of something means a characteristic of something	nongold
+9	if something is a part of something then that something can be found in that something	nongold
+10	biotic means living	nongold
+11	a shrub is a kind of plant	nongold
+12	Soil	answer
+13	a plant; living thing requires nutrients to grow	nongold
+14	forest is synonymous with wooded area	nongold
+15	soil is made of solid particles	nongold
+16	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+17	a plant is a kind of living thing	gold
+18	woodland means forest	nongold
+19	a component means a part of	nongold
+20	a human is a kind of animal	nongold
+21	a component of something means a part of that something	nongold
+22	a plant is a kind of organism	nongold
+23	a tree is a kind of plant	gold
+24	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+25	plants are a part of the environment	nongold
+26	species means a group of like organisms	nongold
+27	a plant requires soil for survival; to grow	nongold
+28	an animal is a member of an animal species	nongold
+29	a tree is a kind of living thing	nongold
+30	if an object is made of something then the parts of that object are made of that something	nongold
+31	a type is synonymous with a kind	nongold
+32	often soil is found in an environment	nongold
+33	soil is a kind of nonliving thing	gold
+34	a structure of something is synonymous with a part of that something	nongold
+35	carnivores; omnivores; herbivores are a kind of animal	nongold
+36	an ecosystem contains nonliving things	nongold
+37	soil contains water; humus; weathered rocks; organic matter	nongold
+38	soil is usually part of an environment	gold
+39	made of is similar to contains	nongold
+40	plant parts are made of plants	nongold
+41	a leaf is a part of a tree	nongold
+42	rock is a kind of nonliving thing	nongold
+43	an animal is a kind of living thing	gold
+44	a tree is a kind of matter	nongold
+45	land is a kind of environment	nongold
+46	each is similar to individual	nongold
+47	a tree is a kind of habitat	nongold
+48	nonliving means not living	nongold
+49	abiotic means nonliving	nongold
+50	an environment is similar to an ecosystem	nongold
+51	vegetation means plants	nongold
+52	a part of a living thing is a natural structure	nongold
+53	a seed is a part of a plant	nongold
+54	soil contains nutrients for plants	nongold
+55	a field contains soil	nongold
+56	the ground is part of the Earth	nongold
+57	a whole is formed by its parts	nongold
+58	organisms are a part of an environment	nongold
+59	bacteria is a part of soil	nongold
+60	answering questions requires information	nongold
+61	Which of these is a nonliving part of a forest?	question
+62	soil erosion is a kind of slow; natural process	nongold
+63	made up of means contains; made of	nongold
+64	a forest contains  lots of plants; trees	nongold
+65	a plant is a member of a plant species	nongold
+66	a plants; living things require water for survival; to grow	nongold
+67	an animal; living thing requires nutrients for survival	nongold
+68	a fungus is a kind of organism	nongold
+69	to give is similar to to cause	nongold
+70	aspect of something is similar to part of something	nongold
+71	all living and nonliving materials are made of elements	nongold
+72	a mushroom is a kind of fungus	gold
+73	soil is a kind of material	nongold
+74	an ecosystem is a kind of habitat	nongold
+75	a forest is a kind of environment	gold
+76	a rain forest is a kind of forest	nongold
+77	a fungus is a kind of living thing	gold
+78	plant and animal matter means organic matter	nongold
+79	roots are a part of a plant; tree	nongold
+80	life means living things	nongold
+81	objects in an environment are a part of that environment	nongold
+82	a forest is a kind of ecosystem	nongold
+83	all the other means the rest of	nongold
+84	unit is similar to part	nongold
+85	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+86	water is a part of an environment	nongold
+87	if something is a part of something else then that something else contains that something	nongold
+88	a part of a process means a stage in a process	nongold
+89	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+90	some animals live in forests	nongold
+91	a tree contains wood	nongold
+92	dirt means soil	nongold
+93	a leaf is a part of a  green plant	nongold
+94	water is a kind of nonliving thing	nongold
+95	a living thing is a kind of object	nongold
+96	an ecosystem contains a large community of; large numbers of living organisms	nongold
+97	an animal is a kind of organism	nongold
+98	soil is found on the surface of the Earth	nongold
+99	soil is a part of the ground outside	nongold
+100	nonliving; non-living; die is the opposite of living; alive; live	nongold

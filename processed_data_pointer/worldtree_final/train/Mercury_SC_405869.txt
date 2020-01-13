@@ -1,0 +1,101 @@
+0	a cell nucleus is a part of a cell	nongold
+1	removing an inhibitor of a process causes that process	nongold
+2	if something causes a process then that something is required for that process	nongold
+3	life means living things	nongold
+4	if a living thing dies then that living thing is dead	nongold
+5	all living things are made of cells according to the cell theory	nongold
+6	the cell membrane is the membrane around the cell of all living things	nongold
+7	an organism is a living thing	nongold
+8	virus is a kind of living thing	nongold
+9	a decomposer is a kind of living thing	nongold
+10	vaccines are a source of long-term immunity against some diseases for the human body	nongold
+11	the blood vessels are a part of the body	nongold
+12	a bacterium is a kind of organism	nongold
+13	dead organisms are a source of disease	nongold
+14	destroying something causes harm to that something	nongold
+15	white is a kind of color	nongold
+16	bacteria; viruses cause food poisoning	nongold
+17	bacteria is a kind of living thing	nongold
+18	destruction means loss	nongold
+19	answering questions requires information	nongold
+20	a living thing is made of cells	nongold
+21	an event is a kind of action	nongold
+22	disease has a negative impact on an organism	nongold
+23	harming something has a  negative impact on; effect on that something	nongold
+24	an animal; bacterium requires oxygen for survival; to breathe	nongold
+25	disease-causing microbes have a negative impact on the body	nongold
+26	to help means to aid	nongold
+27	a body cell means a somatic cell	nongold
+28	nonliving things are not made of cells	nongold
+29	person is synonymous with human	nongold
+30	pathogens can cause disease	nongold
+31	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+32	to be a source of something means to cause that something	nongold
+33	In the food chain process bacteria have the role of decomposer	nongold
+34	bacteria is small; microscopic in size	nongold
+35	something harmful can cause harm	nongold
+36	adding heat to something kills viruses; bacteria in that something	nongold
+37	if a living thing requires something then that something has a positive impact on that living thing	nongold
+38	negative impact is the opposite of positive impact	nongold
+39	destroying is a kind of function	nongold
+40	mast cells are a kind of white blood cell	nongold
+41	bacteria is a kind of pathogen sometimes	nongold
+42	white blood cell destroys pathogens in the body	gold
+43	harming an organism can cause that organism to die	nongold
+44	saving an organism's life means preventing the death of that organism	nongold
+45	white blood cells are a part of the immune system	nongold
+46	a cell is very small	nongold
+47	helping something has a  positive impact on that something	nongold
+48	protecting something means preventing harm to that something	nongold
+49	a body system is a part of the body; an animal	nongold
+50	killing means harming something causing death	nongold
+51	an animal cell is a kind of cell	nongold
+52	nonliving; non-living; die is the opposite of living; alive; live	nongold
+53	sneezing is used for getting rid of bacteria; viruses by the body	nongold
+54	bacteria sometimes cause disease	nongold
+55	something being destroyed means that something no longer exists	nongold
+56	burning a living thing usually causes harm to that living thing	nongold
+57	an animal; living thing requires nutrients for survival	nongold
+58	the cell membrane allows materials to enter and leave the cell	nongold
+59	dead organisms are the source of nutrients for decomposers	nongold
+60	the immune system defends the body against disease	nongold
+61	human is a kind of organism	nongold
+62	killing means changing a living thing from alive to dead by harming	nongold
+63	cooking food to proper temperatures protects against food poisoning by killing bacteria and viruses	nongold
+64	to be used  for something means to help to do that something	nongold
+65	damage means harm	nongold
+66	specialized cells are a source of chemicals that destroy disease-causing microbes	nongold
+67	destroying something decreases the amount of that something	nongold
+68	a human is a kind of animal	nongold
+69	a cell is a kind of object	nongold
+70	living things perform biological processes	nongold
+71	to help; to benefit means to be of use	nongold
+72	the cell membrane is a part of a cell	nongold
+73	if an organism can do something , then that organism is able to do that something	nongold
+74	Which cells help to destroy pathogens such as bacteria that enter the human body?	question
+75	organisms mean life	nongold
+76	a plant cell is a kind of cell	nongold
+77	a worm is a kind of decomposer	nongold
+78	an animal is a kind of organism	nongold
+79	humans changing an environment sometimes causes that environment to be destroyed	nongold
+80	the function of something is what that something  is used to do	nongold
+81	death means to die	nongold
+82	a decomposer is usually a bacterium; fungus	nongold
+83	an animal is a kind of living thing	nongold
+84	the body is a part of an organism	nongold
+85	a source of something emits; produces; generates; provides that something	nongold
+86	infection often requires medical treatment	nongold
+87	the immune system is a kind of body; human body system	nongold
+88	get rid of means eliminate; remove	nongold
+89	cells are a part of the body	nongold
+90	destruction means to destroy	nongold
+91	a fungus is a kind of organism	nongold
+92	to pass into means to enter	nongold
+93	a human cell is a kind of cell	nongold
+94	human is similar to individual	nongold
+95	if something enters something else then that something is in that something else	nongold
+96	white blood cells	answer
+97	a bacterium is a kind of decomposer	nongold
+98	the parent cell is the original cell	nongold
+99	pathogen is similar to harmful substance	nongold
+100	bacteria can help digest food in humans	nongold

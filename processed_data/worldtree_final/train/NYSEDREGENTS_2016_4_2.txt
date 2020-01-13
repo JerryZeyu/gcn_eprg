@@ -1,0 +1,100 @@
+0	An example of a learned behavior is	question
+1	driving a car	answer
+2	a car is a kind of automobile	nongold
+3	an automobile is a kind of vehicle	nongold
+4	a car is a kind of vehicle	gold
+5	a car is a kind of object	nongold
+6	skills are learned characteristics; behaviors	gold
+7	conditioned behavior is a kind of learned behavior	nongold
+8	a learned characteristic is a kind of acquired characteristic	nongold
+9	a vehicle is a kind of object	nongold
+10	a behavior is a kind of characteristic	gold
+11	a kind of something is an example of that something	nongold
+12	learned behaviors are learned over the  lifetime of the animal	nongold
+13	communication is a learned behavior	nongold
+14	actions mean behavior	nongold
+15	driving is a kind of skill for operating a vehicle	gold
+16	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+17	a human is a kind of animal	nongold
+18	if an animal is trained to do something then that something is a learned behavior	nongold
+19	intelligence is an acquired characteristic	nongold
+20	answering questions requires information	nongold
+21	to drive means to cause	nongold
+22	an animal is a kind of organism	nongold
+23	humans ride vehicles	nongold
+24	trait is synonymous with characteristic	nongold
+25	an animal is a kind of living thing	nongold
+26	person is synonymous with human	nongold
+27	riding in; driving in a vehicle means using that vehicle	nongold
+28	learning; studying information causes one to know that information	nongold
+29	personality is an acquired characteristic	nongold
+30	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+31	ability is a kind of characteristic	nongold
+32	locomotion is a generally learned behavior	nongold
+33	human is a kind of organism	nongold
+34	if a  car is being driven , then the car will be moving	nongold
+35	rolling in mud is a learned behavior	nongold
+36	doing something more is a kind of conditioned behavior	nongold
+37	following orders is a learned characteristic	nongold
+38	to impact means to affect	nongold
+39	a brain is a part of an animal	nongold
+40	an organism is a living thing	nongold
+41	animal instinct means instinctive behavior	nongold
+42	a living thing is a kind of object	nongold
+43	an inherited characteristic is a kind of characteristic	nongold
+44	what an object is made of is a kind of characteristic	nongold
+45	instruction is a kind of information	nongold
+46	sense is a kind of characteristic of an animal	nongold
+47	a person is a kind of animal	nongold
+48	an event is a kind of action	nongold
+49	playing with toys is a learned characteristic	nongold
+50	affected means changed	nongold
+51	preferences are generally learned characteristics	nongold
+52	learning about something sometimes requires observing that something	nongold
+53	trait means property	nongold
+54	a child is a kind of young human	nongold
+55	a vehicle is a kind of tool for travel; transport	nongold
+56	wheels are a part of a car	nongold
+57	the brain is a part of the body	nongold
+58	a motion is a kind of event; action	nongold
+59	a demonstration is similar to an example	nongold
+60	impact means effect	nongold
+61	walking is a kind of behavior	nongold
+62	determining is similar to learning	nongold
+63	using tools is a learned characteristic	nongold
+64	a sense is a kind of ability	nongold
+65	high is similar to increase	nongold
+66	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+67	a car moves on a road	nongold
+68	a machine is a kind of object	nongold
+69	an animal's brain controls that animal	nongold
+70	social behavior is a kind of learned behavior	nongold
+71	being distracted while driving can cause people to crash their car	nongold
+72	curiosity is a kind of human quality	nongold
+73	characteristic means property	nongold
+74	a trick is a learned behavior	nongold
+75	a passenger in a car is usually a human	nongold
+76	speed is a property of an object and includes values of slow; fast	nongold
+77	variable means able to change	nongold
+78	senses are an inherited characteristic	nongold
+79	animals learn some behaviors from watching their parents	nongold
+80	human is similar to individual	nongold
+81	an animal knows how to do  instinctive behaviors when it is born	nongold
+82	to slow; to slow down decreases speed	nongold
+83	a dog is a kind of animal	nongold
+84	hibernation is an inherited behavior	nongold
+85	definite is the opposite of variable	nongold
+86	causing is a kind of affecting	nongold
+87	events occur at a specific place; at a specific time; with a specific frequency	nongold
+88	good means positive	nongold
+89	a toy car is a kind of object	nongold
+90	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+91	an object has properties	nongold
+92	a type is synonymous with a kind	nongold
+93	an increase is the opposite of a decrease	nongold
+94	action can cause change	nongold
+95	begging for food is a kind of conditioned behavior	nongold
+96	if something affects a part of something else then that something affects that something else	nongold
+97	performance is similar to ability	nongold
+98	knowing the properties of something means knowing information about that something	nongold
+99	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold

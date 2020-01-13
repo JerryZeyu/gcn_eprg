@@ -1,0 +1,52 @@
+0	to contribute is similar to produce	nongold
+1	if something requires something else then that something requires a source of that something else	nongold
+2	geothermal	answer
+3	a renewable resource is a kind of natural resource	nongold
+4	if something causes an increase in something else then that something produces that something else	nongold
+5	the potential energy in fossil fuels mostly are converted into thermal energy	nongold
+6	if something causes a process then that something is required for that process	nongold
+7	if something releases something else then that something is the source of that something else	nongold
+8	electrical energy is a kind of energy	nongold
+9	if something is required for a process then that something positively impacts that process	nongold
+10	green plants are a kind of producer	nongold
+11	a renewable resource is a kind of naturally replaced resource	nongold
+12	to produce means to provide	nongold
+13	converting is similar to producing	nongold
+14	producing renewable electric energy requires renewable resources	gold
+15	coal is a kind of fossil fuel	nongold
+16	producing renewable electric energy requires renewable resources	gold
+17	a process is a kind of event	nongold
+18	geothermal energy is a renewable resource	gold
+19	geothermal	answer
+20	geothermal	answer
+21	Which resource has the most potential for production of renewable electric energy?	question
+22	if something emits something else then that something increases the amount of that something else	nongold
+23	plants are a kind of resource	nongold
+24	if something comes from something else then that something else is a source of that something	nongold
+25	oil is a kind of energy resource	nongold
+26	In the food chain process a  green plant has the role of  producer	nongold
+27	natural gas is a nonrenewable resource	nongold
+28	a source of something increases the amount of that something	nongold
+29	to power means to provide energy for	nongold
+30	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+31	can be means able to be	nongold
+32	converting is similar to generating	nongold
+33	geothermal energy is a renewable resource	gold
+34	Which resource has the most potential for production of renewable electric energy?	question
+35	natural gas is a kind of fossil fuel	nongold
+36	Which resource has the most potential for production of renewable electric energy?	question
+37	products are formed; are produced; are created	nongold
+38	most means over 50% of something	nongold
+39	geothermal	answer
+40	hydroelectric power is a kind of natural resource	nongold
+41	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+42	producing renewable electric energy requires renewable resources	gold
+43	a fossil fuel is a kind of natural resource	nongold
+44	Which resource has the most potential for production of renewable electric energy?	question
+45	if something generates energy for something else then that something powers that something else	nongold
+46	to be used for something means to be required by that something	nongold
+47	solar energy is a renewable; inexhaustible resource	nongold
+48	electricity means electrical energy	nongold
+49	geothermal energy is a renewable resource	gold
+50	producing is a kind of process	nongold
+51	petroleum is a kind of fossil fuel	nongold

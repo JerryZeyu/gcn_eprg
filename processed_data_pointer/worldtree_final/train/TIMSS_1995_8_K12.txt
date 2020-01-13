@@ -1,0 +1,102 @@
+0	a negative impact is a kind of consequence; risk	nongold
+1	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+2	if a living thing requires something then that something has a positive impact on that living thing	nongold
+3	to lower means to decrease	nongold
+4	killing a living thing decreases the number; population size of that living thing	nongold
+5	to reduce means to decrease	gold
+6	harming an animal species has a  negative impact on the population size of that species	nongold
+7	reducing is a kind of change	nongold
+8	a producer is a kind of living thing	nongold
+9	decreasing something negative has a positive impact on a thing	nongold
+10	a wasp is a kind of insect	nongold
+11	extreme means very high in value	nongold
+12	sexual reproduction is a source of genetic variation; naturally occurring variation in offspring; in a species	nongold
+13	as population of predators increases , the population of prey will decrease in an environment	nongold
+14	An insect is a pollinating animal	nongold
+15	a reptile is a kind of animal	nongold
+16	to keep something from happening means to prevent that something	nongold
+17	an animal; living thing requires nutrients for survival	nongold
+18	organisms are a part of an environment	nongold
+19	animals reproduce sexually	nongold
+20	increase means more	nongold
+21	a plant is a kind of organism	nongold
+22	loss means reduction	nongold
+23	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+24	most insects reproduce by sexual reproduction	gold
+25	to reproduce means to have; to produce offspring	nongold
+26	living things can all reproduce	nongold
+27	The male insects in a population are treated to prevent sperm production. Would this reduce this insect population?	question
+28	if something causes an increase in something else then that something produces that something else	nongold
+29	preventing something decreases the amount of that something	nongold
+30	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+31	high is similar to increase	nongold
+32	positive impacts on a species will increase populations of a species	nongold
+33	if an organism dies then the population of that organism will decrease	nongold
+34	an insect is a kind of prey	nongold
+35	sexual reproduction is a kind of reproduction	nongold
+36	an event is a kind of action	nongold
+37	inhibitor means something that prevents something from happening	nongold
+38	harming something has a  negative impact on; effect on that something	nongold
+39	to change means to have an effect	nongold
+40	an increase is the opposite of a decrease	nongold
+41	protecting something means preventing harm to that something	nongold
+42	death means to die	nongold
+43	producing is similar to causing	nongold
+44	negative impacts on a species will decrease populations of a species	nongold
+45	sexual reproduction produces offspring with genetic material from both parents; cells with genetic material from both parent cells	nongold
+46	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+47	to prevent means to make it not happen	nongold
+48	reproduction increases the number; population of a living thing	nongold
+49	a plant is a kind of living thing	nongold
+50	a decrease is a kind of change	nongold
+51	as the rate of  reproduction decreases , the population will decrease	gold
+52	as the population of plants decreases , the population of herbivores will decrease	nongold
+53	if something affects a part of something else then that something affects that something else	nongold
+54	if something releases something else then that something else decreases in that something	nongold
+55	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+56	a living thing is a kind of object	nongold
+57	adverse effect means negative impact	nongold
+58	a plant; living thing requires food for survival	nongold
+59	an insect is a kind of animal	nongold
+60	controlling insects means killing insects	nongold
+61	the reproductive system produces sperm; egg cells	nongold
+62	negative impact is the opposite of positive impact	nongold
+63	an ant is a kind of insect	nongold
+64	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	reproduction produces; produce offspring	nongold
+67	decreasing something positive has a negative impact on a thing	nongold
+68	to limit means to decrease	nongold
+69	to impact means to affect	nongold
+70	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+71	pollination requires pollinators; pollinating animals	nongold
+72	an animal is a kind of organism	nongold
+73	impact means effect	nongold
+74	sexual reproduction in animals is when egg; sperm join together	nongold
+75	reducing is similar to slowing	nongold
+76	affected means changed	nongold
+77	preventing reproduction decreases the rate of reproduction	gold
+78	harming an animal species causes that animal's population to decrease	nongold
+79	a mammal is a kind of animal	nongold
+80	to inhibit means to prevent	nongold
+81	receiving a treat is a kind of positive effect	nongold
+82	Yes, because it would sharply decrease the reproduction rate.	answer
+83	as  population of prey decreases , the population of predators will  decrease	nongold
+84	if something emits something else then that something increases the amount of that something else	nongold
+85	as the cause of something decreases , that something will decrease	nongold
+86	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+87	a producer produces its own food	nongold
+88	avoiding is similar to preventing	nongold
+89	an organism is a living thing	nongold
+90	remove means decrease	nongold
+91	causing is a kind of affecting	nongold
+92	low is similar to decrease	nongold
+93	controlling a population is similar to decreasing a population	nongold
+94	an animal is a kind of living thing	nongold
+95	male animals require sperm cells to reproduce	nongold
+96	helping something has a  positive impact on that something	nongold
+97	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+98	an increase is a kind of change	nongold
+99	less is similar to decrease	nongold
+100	killing means harming something causing death	nongold
+101	a source of something increases the amount of that something	nongold

@@ -1,0 +1,102 @@
+Question	Which skill is a scientist using when sorting rocks into two groups based on physical appearance?	question
+Answer	classifying	answer
+0	appearance is a property of objects; materials	nongold
+1	classifying is a kind of skill	gold
+2	sorting is similar to classifying	nongold
+3	classifying means grouping objects; materials by their properties	gold
+4	classifying is when one sorts something by kind; type	gold
+5	classify is similar to characterize	nongold
+6	organizing is sorting something by their properties in order	nongold
+7	classifying is a kind of science process	nongold
+8	appearance  is a kind of physical property	gold
+9	to categorize means to classify	nongold
+10	appearance is sometimes a physical property	nongold
+11	rock means stone	nongold
+12	to group means to separate	nongold
+13	a scientist is a kind of human	nongold
+14	a rock is a kind of object	gold
+15	to belong to a group means to be a kind of something	nongold
+16	to belong to a group means to be classified in that group	nongold
+17	a rock is usually a solid	nongold
+18	measuring is a kind of science skill	nongold
+19	class is a property of a rock and includes values of sedimentary; metamorphic; igneous	nongold
+20	ability is a kind of characteristic	nongold
+21	to classify means to decide what class something belongs to	nongold
+22	together means in a group	nongold
+23	class is a measure of how a rock is formed	nongold
+24	shape is a property of the appearance of an object	nongold
+25	skills are learned characteristics; behaviors	nongold
+26	grouping means putting; placing in different groups	nongold
+27	different classes of rocks are formed by different methods	nongold
+28	a living thing is a kind of object	nongold
+29	appearing is similar to seeming	nongold
+30	to belong to a class means to be a kind of something	nongold
+31	can be means able to be	nongold
+32	an animal is a kind of living thing	nongold
+33	to tell the difference between things means to classify those things	nongold
+34	a part of something means a characteristic of something	nongold
+35	physical state means state of matter	nongold
+36	skills often require practice	nongold
+37	objects are made of materials; substances; matter	nongold
+38	rock is made of minerals	nongold
+39	sedimentary rocks are often light brown in color	nongold
+40	a human is a kind of animal	nongold
+41	an organism is a living thing	nongold
+42	rock is a kind of material	nongold
+43	what an object is made of is a kind of characteristic	nongold
+44	the properties of something can be used to identify; used to describe that something	nongold
+45	to look like means to have the visual properties of	nongold
+46	scientists make observations	nongold
+47	a tool is a kind of object	nongold
+48	sedimentary rocks are made of small particles	nongold
+49	coming together means forming a group	nongold
+50	the formation of rock is a kind of process	nongold
+51	determining often requires measuring; observing	nongold
+52	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+53	a body part is a kind of object	nongold
+54	an animal is a kind of organism	nongold
+55	a mineral is a kind of solid; natural material	nongold
+56	if something undergoes a physical change then the physical properties of that something will change	nongold
+57	to split means to divide	nongold
+58	state of matter means physical state	nongold
+59	a person is a kind of animal	nongold
+60	a boulder is a kind of large rock	nongold
+61	a boulder is a kind of rock	nongold
+62	an part of an object is smaller than the entire object	nongold
+63	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+64	researcher is a kind of scientist	nongold
+65	how something  appears is how that something  looks	nongold
+66	form means kind	nongold
+67	sedimentary is a kind of rock	nongold
+68	classifying requires comparing	nongold
+69	affected means changed	nongold
+70	a type is synonymous with a kind	nongold
+71	to collect means to gather	nongold
+72	a mineral is a kind of object	nongold
+73	resemble means look like	nongold
+74	classification is a kind of process	nongold
+75	rock is hard	nongold
+76	made up of means contains; made of	nongold
+77	a surface is a part of an object	nongold
+78	identifying is similar to determining	nongold
+79	to be used for something means to be required by that something	nongold
+80	to be made of means to consist of	nongold
+81	the properties of something are used for describing that something	nongold
+82	hunting; scavenging is a kind of skill	nongold
+83	as the class of a rock changes ,  the mass of the rock will stay the same	nongold
+84	granite is a kind of igneous rock	nongold
+85	process is similar to method	nongold
+86	characteristic means property	nongold
+87	using tools is a learned characteristic	nongold
+88	the phases of the Moon change the appearance of the Moon	nongold
+89	a kind of something is classified as that something	nongold
+90	if something is made of something else then that something can be broken down into that something else	nongold
+91	both means two	nongold
+92	composed of means made of	nongold
+93	if two substances together form a mixture then those substances can be separated from one another by physical changes	nongold
+94	landform means surface feature; physical feature; land feature	nongold
+95	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+96	person is synonymous with human	nongold
+97	surface type is a kind of characteristic	nongold
+98	the head is a part of an animal	nongold
+99	a structure of something is synonymous with a part of that something	nongold

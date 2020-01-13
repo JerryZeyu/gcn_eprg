@@ -1,0 +1,102 @@
+0	a tree is a kind of plant	gold
+1	roots are a part of a plant; tree	nongold
+2	if something emits something else then that something increases the amount of that something else	nongold
+3	to change means to cause a change	nongold
+4	if the component of something changed , then the whole thing will change	nongold
+5	if a living thing requires something then that something has a positive impact on that living thing	nongold
+6	a rain forest is a kind of forest	nongold
+7	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+8	a tree is a kind of living thing	nongold
+9	an increase is the opposite of a decrease	nongold
+10	to cause means to have an effect	nongold
+11	dying is the opposite of living; surviving	nongold
+12	a decrease is a kind of change	nongold
+13	an organism is a living thing	nongold
+14	if an organism dies then the population of that organism will decrease	nongold
+15	a symbiotic organism is made of two or more organisms in a symbiotic relationship	nongold
+16	crops; farming cause nutrients in the soil to decrease	nongold
+17	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+18	a forest contains  lots of plants; trees	nongold
+19	helping something has a  positive impact on that something	nongold
+20	high is similar to increase	nongold
+21	soil contains nutrients for plants	nongold
+22	New York is closer to the North Pole than Florida	nongold
+23	organisms are a part of an environment	nongold
+24	if something used to be in the past then that something  has changed	nongold
+25	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+26	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+27	a factor impacts something	nongold
+28	acidic means low; 0 to 6 in pH	nongold
+29	a natural resource is a kind of environmental factor	nongold
+30	precipitation is a kind of natural occurrence; cause	nongold
+31	to cause means to result in	gold
+32	rain is a kind of precipitation	nongold
+33	an environment means an area	nongold
+34	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+35	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+36	commensalism is a kind of symbiotic relationship	nongold
+37	changes in the pH of soil can cause plants to die	gold
+38	In the Adirondack forests of New York, some trees have died. The change in the forest is thought to be related to air pollution and rain. Which abiotic factor most likely has been changed as a result of the pollution and rain which resulted in the death of the trees?	question
+39	low is similar to decrease	nongold
+40	a plant is a kind of living thing	nongold
+41	the temperature; pH of water has an impact on the health of that water	nongold
+42	harming an organism can cause that organism to die	nongold
+43	nonliving; non-living; die is the opposite of living; alive; live	nongold
+44	rain is a kind of water	nongold
+45	often soil is found in an environment	nongold
+46	adverse effect means negative impact	nongold
+47	green plants are a kind of producer	nongold
+48	a forest is a kind of ecosystem	nongold
+49	a decrease in the pH of the soil	answer
+50	soil is a renewable resource for growing plants	nongold
+51	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+52	decreasing something negative has a positive impact on a thing	nongold
+53	to add means to increase	nongold
+54	as the amount of sulfur gas in the atmosphere increases , the pH of rain will decrease	nongold
+55	the atmosphere is a part of nature; the environment	nongold
+56	a forest is a kind of environment	nongold
+57	New York; New York State is a state located in the United States of America	nongold
+58	a property is similar to a factor	nongold
+59	moisture is a kind of environmental factor	nongold
+60	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+61	a tree is a kind of matter	nongold
+62	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+63	abiotic means nonliving	gold
+64	a source of something increases the amount of that something	nongold
+65	decreasing something positive has a negative impact on a thing	nongold
+66	a plant is a kind of organism	nongold
+67	soil is usually part of an environment	nongold
+68	if a living thing dies then that living thing is dead	nongold
+69	low quality soil has a small; a low number of nutrients	nongold
+70	plants are a part of the environment	nongold
+71	a plants; living things require water for survival; to grow	nongold
+72	to change means to have an effect	nongold
+73	negative impact is the opposite of positive impact	nongold
+74	to reduce means to decrease	nongold
+75	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+76	air is a part of the environment	nongold
+77	to be a source of something means to cause that something	nongold
+78	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+79	rain is a source of water	nongold
+80	if a tree is cut down then that tree will die	nongold
+81	an increase is a kind of change	nongold
+82	affected means changed	nongold
+83	to lower means to decrease	nongold
+84	air pollution; rain can cause the pH of soil to decrease	gold
+85	killing means harming something causing death	nongold
+86	pH is a measure of acidity of a substance ranging from 0 to 14	nongold
+87	as the cause of something decreases , that something will decrease	nongold
+88	less is similar to decrease	nongold
+89	air is a kind of nonliving thing	nongold
+90	soil is a kind of nonliving thing	gold
+91	change is a kind of impact	nongold
+92	a plant requires soil for survival; to grow	nongold
+93	precipitation is when water falls from the sky	nongold
+94	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+95	impact means effect	nongold
+96	if there is a loss of something then that something decreases	nongold
+97	some species of tree are deciduous	nongold
+98	rainfall means precipitation	nongold
+99	harming something has a  negative impact on; effect on that something	nongold
+100	death means to die	nongold
+101	killing means changing a living thing from alive to dead by harming	nongold

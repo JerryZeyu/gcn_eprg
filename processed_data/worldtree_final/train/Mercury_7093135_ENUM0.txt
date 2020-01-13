@@ -1,0 +1,101 @@
+0	Which technology used to generate electrical power involves a trade-off between economical electricity and long-term waste disposal problems?	question
+1	nuclear reactor	answer
+2	nuclear reactor can cause long-term waste disposal problems	gold
+3	the disposal of nuclear waste products is a controversial issue associated with the use of nuclear power	nongold
+4	nuclear reactor generates electrical power	gold
+5	trade-off means balancing  the negative impact and the positive impact	gold
+6	problem is similar to issue	nongold
+7	a problem has a negative impact on a thing	nongold
+8	generate means produce	nongold
+9	a source of something emits; produces; generates; provides that something	nongold
+10	electricity means electrical energy	nongold
+11	generating power is a kind of positive impact	gold
+12	causing problems is a kind of negative impact	gold
+13	a concern; a problem is a possible negative impact	nongold
+14	waste must be removed	nongold
+15	causing is similar to generating	nongold
+16	recycling is a kind of method of disposal	nongold
+17	humans move waste to a  landfill for disposal;storage	nongold
+18	to depend on; to rely on; to need means to require	nongold
+19	nuclear energy is a kind of energy	nongold
+20	to generate means to form	nongold
+21	to be used for something means to be required by that something	nongold
+22	address a problem means reduce a problem	nongold
+23	electrical energy is a kind of energy	nongold
+24	an event is a kind of action	nongold
+25	to cause an event is similar to being involved in that event	nongold
+26	if something generates energy for something else then that something powers that something else	nongold
+27	if something causes a process then that something is required for that process	nongold
+28	to generate means to create	nongold
+29	if a human discards an object then that object will become waste	nongold
+30	the function of something is what that something  is used to do	nongold
+31	if something requires something else then that something requires a source of that something else	nongold
+32	electricity is used as an energy source by electrical devices	nongold
+33	converting is similar to generating	nongold
+34	dumping something in an environment means adding that something to that environment	nongold
+35	to power means to provide energy for	nongold
+36	to provide something means to be the source of that something	nongold
+37	if something is a raw material in a process then that something is required for that process	nongold
+38	if something is a raw material then that something comes directly from a source	nongold
+39	something that happens is a kind of event	nongold
+40	if an event is required for a process then that event must occur before that process can occur	nongold
+41	answering questions requires information	nongold
+42	a process is a kind of event	nongold
+43	a material is a kind of resource	nongold
+44	a source of something increases the amount of that something	nongold
+45	if something is powered by something else then that something requires a source of that something else	nongold
+46	a renewable resource is a kind of natural resource	nongold
+47	an inexhaustible resource is a kind of renewable resource	nongold
+48	high is similar to increase	nongold
+49	solution is similar to a positive impact	nongold
+50	removing waste is a kind of function	nongold
+51	using raw materials increases waste	nongold
+52	to give off means to be the source of	nongold
+53	material means substance	nongold
+54	an object; material; substance comes from that object or material's source	nongold
+55	where something  comes from is a source of that something	nongold
+56	if something transfers something else then that something is a source of something else	nongold
+57	an energy source is a kind of resource	nongold
+58	opposite is a kind of different	nongold
+59	metal is a kind of natural resource	nongold
+60	if something comes from something else then that something else is a source of that something	nongold
+61	if something releases something else then that something is the source of that something else	nongold
+62	if something is required for a process then that something positively impacts that process	nongold
+63	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+64	to be formed by is similar to being produced by	nongold
+65	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+66	an increase is a kind of change	nongold
+67	a nuclear reaction can be found in a nuclear power plant	nongold
+68	a component means a part of	nongold
+69	a fossil fuel is a kind of natural resource	nongold
+70	dead organisms are a kind of waste	nongold
+71	an element is a kind of material	nongold
+72	a component of something means a part of that something	nongold
+73	if something emits something else then that something increases the amount of that something else	nongold
+74	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+75	can be means able to be	nongold
+76	events occur at a specific place; at a specific time; with a specific frequency	nongold
+77	emit means produce	nongold
+78	if something is made of something; a material then that something contains that something; that material	nongold
+79	recycling reduces; decreases the amount of waste sent to landfills	nongold
+80	a process usually requires all of the stages in that process	nongold
+81	if something causes an increase in something else then that something produces that something else	nongold
+82	to happen means to occur	nongold
+83	a part of a process means a stage in a process	nongold
+84	a change is a kind of event	nongold
+85	renewable is the opposite of nonrenewable	nongold
+86	requiring something means needing that something	nongold
+87	processes sometimes produce waste products	nongold
+88	both means two	nongold
+89	uranium is a kind of energy resource	nongold
+90	waste has a  negative impact on the environment	nongold
+91	all living things eliminate waste	nongold
+92	fossil fuels are a kind of energy resource	nongold
+93	nuclear fusion is a kind of process	nongold
+94	nuclear fusion is a kind of process	nongold
+95	not is similar to the opposite of	nongold
+96	good means positive	nongold
+97	an increase is the opposite of a decrease	nongold
+98	pollution is a kind of environmental problem	nongold
+99	metal is an  electrical; electrical energy conductor	nongold
+100	resources sometimes are used for energy	nongold

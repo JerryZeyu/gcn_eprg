@@ -1,0 +1,55 @@
+0	if something is powered by something else then that something requires a source of that something else	nongold
+1	an inexhaustible resource is a kind of renewable resource	nongold
+2	sunlight is a kind of solar energy	gold
+3	natural gas is a kind of fossil fuel	nongold
+4	both means two	nongold
+5	all elements are a kind of pure substance	nongold
+6	wind is a renewable; inexhaustible resource	gold
+7	an event is a kind of action	nongold
+8	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+9	wind and sunlight	answer
+10	wind and sunlight	answer
+11	an energy source is a kind of resource	nongold
+12	if something is required for a process then that something positively impacts that process	nongold
+13	where something  comes from is a source of that something	nongold
+14	plants are a kind of resource	nongold
+15	solar energy is a renewable; inexhaustible resource	gold
+16	solar power means solar energy	nongold
+17	a renewable resource can be renewed	nongold
+18	to be used for something means to be required by that something	nongold
+19	if something causes a process then that something is required for that process	nongold
+20	sunlight is a kind of solar energy	gold
+21	a source of something emits; produces; generates; provides that something	nongold
+22	sunlight is a kind of solar energy	gold
+23	electricity is used as an energy source by electrical devices	nongold
+24	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+25	Electricity to play your radio can be made using renewable or nonrenewable resources. Which of the following resources are renewable?	question
+26	using renewable resources to generate power reduces greenhouse gases	nongold
+27	wind is a renewable; inexhaustible resource	gold
+28	sound is a kind of energy	nongold
+29	can be means able to be	nongold
+30	solar energy is a renewable; inexhaustible resource	gold
+31	an object; material; substance comes from that object or material's source	nongold
+32	wind and sunlight	answer
+33	renewable is the opposite of nonrenewable	nongold
+34	to provide something means to be the source of that something	nongold
+35	fossil fuels are a kind of energy resource	nongold
+36	if something requires something else then that something requires a source of that something else	nongold
+37	wind is a renewable; inexhaustible resource	gold
+38	wind and sunlight	answer
+39	Electricity to play your radio can be made using renewable or nonrenewable resources. Which of the following resources are renewable?	question
+40	a renewable resource can be replaced	nongold
+41	solar energy is a renewable; inexhaustible resource	gold
+42	sunlight is a kind of light	nongold
+43	solar energy is a kind of heat energy	nongold
+44	a radio is used for communication	nongold
+45	to power means to provide energy for	nongold
+46	Electricity to play your radio can be made using renewable or nonrenewable resources. Which of the following resources are renewable?	question
+47	a renewable resource is a kind of natural resource	nongold
+48	electricity means electrical energy	nongold
+49	generate means produce	nongold
+50	sunlight means solar energy	nongold
+51	Electricity to play your radio can be made using renewable or nonrenewable resources. Which of the following resources are renewable?	question
+52	a radio is a kind of tool	nongold
+53	fossil fuels are a nonrenewable resource	nongold
+54	answering questions requires information	nongold

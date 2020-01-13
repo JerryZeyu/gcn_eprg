@@ -1,0 +1,102 @@
+Question	Why are different stars seen during different seasons?	question
+Answer	Earth changes position in its orbit during different seasons.	answer
+0	Earth orbiting the Sun causes seasons to change	nongold
+1	different seasons occur during different times of the year	gold
+2	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+3	the Earth revolving around the Sun causes the seasons to change; to occur on its axis	nongold
+4	the Earth being tilted on its rotating axis causes seasons	nongold
+5	revolving  around something means orbiting that something	gold
+6	each season occurs once per year	nongold
+7	planets orbit stars	nongold
+8	orbit means orbital path	nongold
+9	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	gold
+10	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+11	a star is a kind of celestial object; celestial body	nongold
+12	Earth is a kind of planet	nongold
+13	a planet completes one orbit around its star over a period of one planetary year	nongold
+14	the Earth revolves around the sun	nongold
+15	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	nongold
+16	the Earth rotates on its axis	nongold
+17	place; location is synonymous with position	nongold
+18	a planet rotating causes cycles of day and night on that planet	nongold
+19	to change means to become different	nongold
+20	annual means once per year	nongold
+21	orbiting is a kind of action	nongold
+22	gravity causes orbits	nongold
+23	planets in the solar system orbit the Sun	nongold
+24	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+25	the Sun is a kind of star	nongold
+26	moons orbit planets	nongold
+27	moving changes position	gold
+28	the sun rising and setting causes cycles of day and night	nongold
+29	Earth rotating on its axis occurs once per day	nongold
+30	cycles of day and night occur once per day	nongold
+31	a planet is a kind of celestial object; body	nongold
+32	the moon orbits the Earth	nongold
+33	summer is when a hemisphere is tilted towards the sun	nongold
+34	the Earth being tilted on its axis causes one side of the Earth; one hemisphere to receive less energy from the Sun than the other side	nongold
+35	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+36	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+37	Celestial bodies move in orbits in space around other celestial bodies	nongold
+38	planets have cleared their orbits	nongold
+39	summer is a kind of season	nongold
+40	the intensity of sunlight is a kind of seasonal weather pattern	nongold
+41	different is the opposite of the same	nongold
+42	a new season occurs four times per year	nongold
+43	winter is when a hemisphere is tilted away from the sun	nongold
+44	every summer  is a kind of period of time	nongold
+45	seasons cause change to the environment	nongold
+46	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+47	a new season occurs once per 3.0 months	nongold
+48	an orbit is a kind of regular path	nongold
+49	north is the opposite of south	nongold
+50	the moon orbiting the Earth occurs once per month	nongold
+51	astronomy is the study of celestial (objects, bodies)	nongold
+52	a motion is a kind of event; action	nongold
+53	Earth's angle of tilt causes the length of day and night to vary	nongold
+54	an increase is a kind of change	nongold
+55	Autumn is a kind of season	nongold
+56	the sun sets in the west	nongold
+57	the sun rising; setting occurs once per day	nongold
+58	winter is a kind of season	nongold
+59	a moon is a kind of celestial object; body	nongold
+60	to change means to cause a change	nongold
+61	spring is a kind of season	nongold
+62	affected means changed	nongold
+63	if something changes , then that something is not the same	nongold
+64	different celestial body has different gravity	nongold
+65	the sun rises in the east	nongold
+66	summer follows spring	nongold
+67	setting is a kind of motion	nongold
+68	an event is a kind of action	nongold
+69	to rearrange is to change position; order	nongold
+70	yearly means every year	nongold
+71	stay the same means not changing	nongold
+72	spring follows winter	nongold
+73	variable means able to change	nongold
+74	if something used to be in the past then that something  has changed	nongold
+75	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+76	a cycle happens; occurs repeatedly	nongold
+77	a change is a kind of event	nongold
+78	a planet is a kind of location	nongold
+79	a decrease is a kind of change	nongold
+80	position means a place in a structure	nongold
+81	if it is night then the sun has set	nongold
+82	when an object moves , that object loses its relative fixed position	nongold
+83	summer has hot temperatures; weather	nongold
+84	opposite is a kind of different	nongold
+85	visible means able to be seen	nongold
+86	the sun setting is a kind of event	nongold
+87	Earth's rotation causes time zones	nongold
+88	to see means to look	nongold
+89	weather changes from seasons to seasons	nongold
+90	the night time is part of one day	nongold
+91	winter is a part of the year	nongold
+92	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+93	the solar system is a kind of system	nongold
+94	the day time is part of one day	nongold
+95	as the distance of a planet from the star  it orbits increases , the length of a planetary year on that planet will increase	nongold
+96	events occur at a specific place; at a specific time; with a specific frequency	nongold
+97	fall is a kind of season	nongold
+98	winter is the opposite of summer	nongold
+99	a source of something emits; produces; generates; provides that something	nongold

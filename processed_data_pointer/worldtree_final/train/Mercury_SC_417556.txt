@@ -1,0 +1,102 @@
+0	most predators live in; live near the same environment as their prey	nongold
+1	a vehicle is a kind of object	nongold
+2	a deer is a kind of prey	nongold
+3	to help; to benefit means to be of use	nongold
+4	a forest is a kind of ecosystem	nongold
+5	requiring is similar to needing help	nongold
+6	covering something is a kind of protection	nongold
+7	animals usually distance themselves from humans	nongold
+8	killing means harming something causing death	gold
+9	a deer lives in a forest	nongold
+10	a car is a kind of object	nongold
+11	feeders attract animals to a location	gold
+12	a forest contains  lots of plants; trees	nongold
+13	to protect means to defend	nongold
+14	an automobile is a kind of vehicle	nongold
+15	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+16	harming an animal species has a  negative impact on the population size of that species	nongold
+17	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+18	a forest environment usually is green in color	nongold
+19	a car is a kind of vehicle	nongold
+20	an animal requires a habitat for survival	nongold
+21	person is synonymous with human	nongold
+22	a living thing is a kind of object	nongold
+23	a rabbit is a kind of animal	nongold
+24	a deer is a kind of animal	gold
+25	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+26	harming an animal species causes that animal's population to decrease	nongold
+27	a rabbit is a kind of prey	nongold
+28	humans changing animal habitats usually causes harm to those animals	nongold
+29	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+30	organisms are a part of an environment	nongold
+31	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+32	if an animal is near a road then that animal might be killed by a car	gold
+33	death means to die	nongold
+34	avoiding  predators is synonymous with avoiding being eaten	nongold
+35	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+36	killing means changing a living thing from alive to dead by harming	nongold
+37	an animal; living thing requires nutrients for survival	nongold
+38	live means to be alive	nongold
+39	eating an animal; a plant means killing that animal; that plant	nongold
+40	some animals live in forests	nongold
+41	to help means to aid	nongold
+42	forest is synonymous with wooded area	nongold
+43	a car moves on a road	nongold
+44	helping something has a  positive impact on that something	nongold
+45	nonliving means not living	nongold
+46	animals; living things live and feed in their habitats; near their habitats	nongold
+47	negative impact is the opposite of positive impact	gold
+48	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+49	a human is a kind of animal	nongold
+50	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+51	an environment is similar to an ecosystem	nongold
+52	protecting something means preventing harm to that something	nongold
+53	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+54	threatening the existence of an organism has a negative impact on that organism	nongold
+55	something hard; something strong can be used for protection	nongold
+56	destroying animal habitats has a negative  impact on an ecosystem	nongold
+57	decreasing something negative has a positive impact on a thing	nongold
+58	killing a living thing decreases the number; population size of that living thing	nongold
+59	to be in danger means to be around; to be near something dangerous	nongold
+60	a danger is dangerous	nongold
+61	dying is the opposite of living; surviving	nongold
+62	harming something has a  negative impact on; effect on that something	gold
+63	whitetail deer is a kind of deer	nongold
+64	a road is a kind of location	gold
+65	feeders on the side of the road	answer
+66	nonliving; non-living; die is the opposite of living; alive; live	nongold
+67	harming an organism can cause that organism to die	nongold
+68	an environment means an area	nongold
+69	if a living thing requires something then that something has a positive impact on that living thing	nongold
+70	a rabbit is a kind of mammal	nongold
+71	hunting; overhunting decreases animal populations	nongold
+72	an organism is a living thing	nongold
+73	a road is a kind of object	nongold
+74	A town built a road through a forest. Deer live in the forest on both sides of the road. Which would not help protect deer from the cars on the road?	question
+75	warning people of dangers has a positive impact on the safety of those people	nongold
+76	a car is a kind of automobile	nongold
+77	to be used  for something means to help to do that something	nongold
+78	humans ride vehicles	nongold
+79	hiding is a kind of protection against predators; from predators	nongold
+80	woodland means forest	nongold
+81	shelter is a kind of place;building;structure for protection	nongold
+82	an animal requires shelter	nongold
+83	protecting nature has a positive impact on the environment	nongold
+84	harm means danger	nongold
+85	a forest is a kind of environment	nongold
+86	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+87	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+88	something harmful can cause harm	nongold
+89	something dangerous can cause harm	nongold
+90	danger has a negative impact on a thing	nongold
+91	not is similar to the opposite of	nongold
+92	life means living things	nongold
+93	some rabbits live in forests	nongold
+94	an animal is a member of an animal species	nongold
+95	an animal is a kind of living thing	nongold
+96	saving an organism's life means preventing the death of that organism	nongold
+97	an animal is a kind of organism	nongold
+98	a deer is a kind of herbivore	nongold
+99	organisms; living things live in their habitat; their home	nongold
+100	if a living thing dies then that living thing is dead	nongold
+101	to protect means to make safe	nongold

@@ -1,0 +1,55 @@
+0	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+1	wind is a source of energy	gold
+2	resources becoming available has a positive impact on the things that need those resources	nongold
+3	wind is a renewable; inexhaustible resource	gold
+4	developing means creating; inventing	nongold
+5	a source of something increases the amount of that something	nongold
+6	wind is a source of energy	gold
+7	to depend on; to rely on; to need means to require	nongold
+8	an energy source is a kind of resource	gold
+9	an energy source is a kind of resource	gold
+10	wind direction is a property of weather	nongold
+11	providing something means making;delivering something	nongold
+12	as a system; a device grows old , that system; device will use more energy	nongold
+13	coal is a kind of fossil fuel	nongold
+14	wind is a renewable; inexhaustible resource	gold
+15	an energy source is a kind of resource	gold
+16	Nonrenewable sources of energy have limited supplies. Researchers are developing devices that will make renewable energy more available. Which is a source of renewable energy?	question
+17	to provide something means to be the source of that something	nongold
+18	wind   is a kind of airflow	nongold
+19	wind is a source of energy	gold
+20	if something comes from something else then that something else is a source of that something	nongold
+21	wind	answer
+22	instrument means device	nongold
+23	if something is a raw material in a process then that something is required for that process	nongold
+24	Nonrenewable sources of energy have limited supplies. Researchers are developing devices that will make renewable energy more available. Which is a source of renewable energy?	question
+25	electrical energy is a kind of energy	nongold
+26	wind	answer
+27	to provide means to supply	nongold
+28	if something is required for a process then that something positively impacts that process	nongold
+29	wind	answer
+30	an event is a kind of action	nongold
+31	wind is a renewable; inexhaustible resource	gold
+32	oil is a kind of fossil fuel	nongold
+33	fossil fuels are a kind of energy resource	nongold
+34	oil is a kind of energy resource	nongold
+35	make means produce	nongold
+36	using less of a resource increases the availability of that resource	nongold
+37	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+38	petroleum is a kind of fossil fuel	nongold
+39	less is similar to decrease	nongold
+40	less is the opposite of more	nongold
+41	a wind turbine is a kind of windmill	nongold
+42	coal is a nonrenewable resource	nongold
+43	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+44	natural gas is a nonrenewable resource	nongold
+45	wind	answer
+46	if something releases something else then that something is the source of that something else	nongold
+47	if a resource is limited in supply then that resource will run out	nongold
+48	a nonrenewable resource is limited in supply	nongold
+49	a process is a kind of event	nongold
+50	if something generates energy for something else then that something powers that something else	nongold
+51	green plants are a kind of producer	nongold
+52	Nonrenewable sources of energy have limited supplies. Researchers are developing devices that will make renewable energy more available. Which is a source of renewable energy?	question
+53	Nonrenewable sources of energy have limited supplies. Researchers are developing devices that will make renewable energy more available. Which is a source of renewable energy?	question
+54	if something transfers something else then that something is a source of something else	nongold

@@ -1,0 +1,102 @@
+Question	The human body is composed of different systems made of specialized cells, tissues, and organs. Each of these structures has a specific function that aids in the survival of the human species. Which organs are used in reproduction?	question
+Answer	ovaries, uterus, and fallopian tubes	answer
+0	the fallopian tubes are used in reproduction	gold
+1	the fallopian tubes are a kind of organ	gold
+2	the ovaries are used in reproduction	gold
+3	the uterus is used in reproduction	gold
+4	the ovaries are a kind of organ	gold
+5	the uterus is a kind of organ	gold
+6	the function of something is what that something  is used to do	nongold
+7	the reproductive system is a kind of body system	nongold
+8	living things can all reproduce	nongold
+9	sexual reproduction is a kind of reproduction	nongold
+10	composed of means made of	nongold
+11	organs are made of different types of  cellular tissues	nongold
+12	a human is a kind of animal	nongold
+13	organ system means body system	nongold
+14	a living thing is made of cells	nongold
+15	an animal is a member of an animal species	nongold
+16	function is similar to purpose	nongold
+17	reproduction is a stage in the life cycle process	nongold
+18	human is a kind of organism	nongold
+19	an animal; living thing requires nutrients for survival	nongold
+20	reproduction is a kind of process	nongold
+21	role means function	nongold
+22	to help means to aid	nongold
+23	to be used for something means to be required by that something	nongold
+24	the reproductive system is used for continuing the species	nongold
+25	a human cell is a kind of cell	nongold
+26	an animal is a kind of living thing	nongold
+27	if something performs a task then that task is that something's function	nongold
+28	a body system is a part of the body; an animal	nongold
+29	to be made of means to consist of	nongold
+30	continuation of a species means survival of that species	nongold
+31	an organism is a living thing	nongold
+32	an animal is a kind of organism	nongold
+33	something is used for that something's purpose	nongold
+34	to serve as means to be used as	nongold
+35	a structure of something is synonymous with a part of that something	nongold
+36	cells are a part of the body	nongold
+37	the reproductive system produces sperm; egg cells	nongold
+38	animals require fertilization to reproduce	nongold
+39	reproduction produces; produce offspring	nongold
+40	reproduction increases the number; population of a living thing	nongold
+41	purpose means role	nongold
+42	the body is a part of an organism	nongold
+43	causing is a kind of function	nongold
+44	life means living things	nongold
+45	system is similar to structure	nongold
+46	living things carry out basic life functions	nongold
+47	a function is a kind of characteristic	nongold
+48	animals reproduce sexually	nongold
+49	the endocrine system is a kind of body; organ system	nongold
+50	reproduction ensures the continuation of a plant or animal species	nongold
+51	to help; to benefit means to be of use	nongold
+52	to be a vehicle for is a kind of function	nongold
+53	to be made of something means to be formed of that something	nongold
+54	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+55	a function is an activity	nongold
+56	organisms mean life	nongold
+57	providing structure is a kind of function	nongold
+58	providing is a kind of function	nongold
+59	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+60	both means two	nongold
+61	a body system is a kind of object	nongold
+62	living things perform biological processes	nongold
+63	sexual reproduction in animals is when egg; sperm join together	nongold
+64	survival means to survive	nongold
+65	sexual reproduction produces offspring with genetic material from both parents; cells with genetic material from both parent cells	nongold
+66	producing is a kind of function	nongold
+67	all living things have life cycles	nongold
+68	an animal being born; being hatched when food is available has a positive impact on that animal's survival; health	nongold
+69	survive means live	nongold
+70	survive means live	nongold
+71	converting is a kind of function	nongold
+72	an animal is a kind of eukaryote	nongold
+73	An example of reproduction is laying eggs	nongold
+74	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold
+75	protecting is a kind of function	nongold
+76	a human is a kind of mammal	nongold
+77	an animal cell is a kind of cell	nongold
+78	reproduction occurs during adulthood	nongold
+79	sexual reproduction is a source of genetic variation; naturally occurring variation in offspring; in a species	nongold
+80	if a living thing requires something then that something has a positive impact on that living thing	nongold
+81	species means a group of like organisms	nongold
+82	basic life functions occur in the cells of organisms	nongold
+83	different organisms reproduce differently	nongold
+84	fertilization is a stage in the sexual reproduction process	nongold
+85	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+86	an animal being born; being hatched when temperatures are warm has a positive impact on that animal's survival; health	nongold
+87	a living thing is a kind of object	nongold
+88	reproduction is when an organism passes genetic information from itself to its offspring	nongold
+89	helping something has a  positive impact on that something	nongold
+90	to have a function is similar to to be responsible for	nongold
+91	cell division means cell reproduction	nongold
+92	fertilization is not a stage in the asexual reproduction process	nongold
+93	all living things are made of cells according to the cell theory	nongold
+94	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+95	a part of a process means a stage in a process	nongold
+96	organs are a smaller level of organization than organ systems in living things	nongold
+97	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+98	to work means to function	nongold
+99	to reproduce means to have; to produce offspring	nongold

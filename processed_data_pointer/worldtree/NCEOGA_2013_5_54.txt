@@ -1,0 +1,102 @@
+Question	As more people have moved to the beach, the sea turtle population has decreased. Which is most likely the cause of this decrease?	question
+Answer	habitat loss	answer
+0	a beach is a kind of habitat; environment	gold
+1	a turtle is a kind of animal	nongold
+2	a sea turtle is a kind of animal	gold
+3	a sea turtle lives in the ocean	nongold
+4	a turtle is a kind of reptile	nongold
+5	humans moving in an environment usually causes native species to lose their habitats	gold
+6	a turtle is a kind of omnivore	nongold
+7	a beach is usually part of an island	nongold
+8	loss means reduction	nongold
+9	an ocean is a kind of habitat	nongold
+10	if a habitat is removed then that habitat is destroyed	nongold
+11	a beach is a kind of location	nongold
+12	if there is a loss of something then that something decreases	nongold
+13	an aquatic animal is a kind of animal	nongold
+14	a body of water meets land at a beach	nongold
+15	destruction means loss	nongold
+16	aquatic animal means water animal	nongold
+17	as water increases in an environment , the population of aquatic animals will increase	nongold
+18	sea means ocean	nongold
+19	humans changing an environment causes animal populations to decrease in that environment	nongold
+20	if a habitat can no longer support animals then those animals will move to another area	nongold
+21	a coastal area is a kind of environment	nongold
+22	an estuary is a kind of body of water	nongold
+23	sand is a part of a beach	nongold
+24	habitat is similar to environment	nongold
+25	a mollusk is a kind of animal	nongold
+26	loss is a kind of change	nongold
+27	an ocean is a kind of body of water	nongold
+28	a body of water is a kind of environment	nongold
+29	an ecosystem is a kind of habitat	nongold
+30	harming an animal species causes that animal's population to decrease	gold
+31	an animal requires a habitat for survival	nongold
+32	a coast is a kind of environment	nongold
+33	loss is similar to removal	nongold
+34	an animal is a kind of living thing	nongold
+35	as the cause of something decreases , that something will decrease	nongold
+36	humans changing an environment sometimes causes that environment to be destroyed	nongold
+37	coastline means coast	nongold
+38	an environment means an area	nongold
+39	aquatic animals; plants live in bodies of water	nongold
+40	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+41	a shore is the land found at the edge of a body of water	nongold
+42	person is synonymous with human	nongold
+43	loss of land has a negative impact on the residents in an environment	nongold
+44	if a habitat is destroyed then that habitat can not support animals	nongold
+45	to reduce means to decrease	nongold
+46	increase means more	nongold
+47	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+48	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+49	habitat destruction causes animals to move to find shelter in another habitat	nongold
+50	an increase is the opposite of a decrease	nongold
+51	an ocean contains waves	nongold
+52	population increase means more survive	nongold
+53	to lower means to decrease	nongold
+54	destroying animal habitats changes an ecosystem	nongold
+55	a coast is a coastal area	nongold
+56	a population is made of one type of organism in an area	nongold
+57	if a body of water loses all water then that body of water does not exist any more	nongold
+58	a person is a kind of animal	nongold
+59	a deep sea animal is a kind of marine organism	nongold
+60	as the  level of water rises , the amount of available land will decrease	nongold
+61	as the available water in an environment increases , the populations of organisms in that environment will increase	nongold
+62	if the population of an organism increases then the ecosystem may become overpopulated with that organism	nongold
+63	a coast is where land meets the edge of a body of water	nongold
+64	an environment is similar to an ecosystem	nongold
+65	something being destroyed means that something no longer exists	nongold
+66	ocean animal is similar to water animal	nongold
+67	a decrease is a kind of change	nongold
+68	when a habitat can support living things , living things can live in that habitat	nongold
+69	water is a part of an environment	nongold
+70	organisms; living things live in their habitat; their home	nongold
+71	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+72	an animal is a kind of organism	nongold
+73	an ecosystem contains a large community of; large numbers of living organisms	nongold
+74	a crab is a kind of water animal	nongold
+75	waves are made of moving water	nongold
+76	an animal; living thing requires nutrients for survival	nongold
+77	marine is similar to water	nongold
+78	land is a kind of environment	nongold
+79	sand dunes are made of sand	nongold
+80	less is similar to decrease	nongold
+81	high is similar to increase	nongold
+82	a human is a kind of animal	nongold
+83	organisms are a part of an environment	nongold
+84	an organism is a living thing	nongold
+85	a coral reef is a kind of ecosystem	nongold
+86	humans live on land	nongold
+87	ocean is a source of wild fish for human populations	nongold
+88	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	gold
+89	a body of water is a source of water	nongold
+90	endangered means low in population	nongold
+91	a whale  is a kind of mammal	nongold
+92	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+93	an increase is a kind of change	nongold
+94	an island is a kind of landform	nongold
+95	if an amount of objects decreases then those objects are fewer in number	nongold
+96	often is similar to likely	nongold
+97	coral is a kind of aquatic animal	nongold
+98	an environment is a kind of place	nongold
+99	erosion usually causes harm to the environment	nongold

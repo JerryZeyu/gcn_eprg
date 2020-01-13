@@ -1,0 +1,102 @@
+Question	Which of the following was probably most important in the formation of dark, fertile soil that is good for farming?	question
+Answer	plant decomposition	answer
+0	if something requires something else then that something else is important to that something	gold
+1	to be good for means to have a positive impact on	gold
+2	if something has a positive impact on something else then that something is important to that something else	nongold
+3	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	gold
+4	better means good	nongold
+5	good means positive	nongold
+6	a farmer farms crops; plants for  food	nongold
+7	crops; farming cause nutrients in the soil to decrease	nongold
+8	to cause the formation of means to form	nongold
+9	fertile soil is high in quality	gold
+10	farming is when a human plants crops for food	gold
+11	if something is made of something else then the formation of that something requires that something else	gold
+12	a plant requires soil for survival; to grow	nongold
+13	decomposition increases the  amount of nutrients; nitrogen in the soil	gold
+14	if something causes a process then that something is required for that process	nongold
+15	decomposition is when a decomposer recycles; returns nutrients; nitrogen from dead organisms to the soil by eating those dead organisms	gold
+16	the formation of something is a kind of process	nongold
+17	to be used for something means to be required by that something	nongold
+18	a farmer is a kind of human	nongold
+19	soil contains nutrients for plants	nongold
+20	crops grow in soil	nongold
+21	decomposition is when a decomposer breaks down dead organisms	gold
+22	farming is a kind of process	gold
+23	requiring something means needing that something	nongold
+24	a plant; living thing requires nutrients to grow	gold
+25	best means most positive	nongold
+26	soil is a renewable resource for growing plants	nongold
+27	farming is a source of food	nongold
+28	to be required means to be necessary	nongold
+29	to depend on; to rely on; to need means to require	nongold
+30	helping something has a  positive impact on that something	nongold
+31	decomposition is a kind of process	nongold
+32	crops are a kind of edible plant for eating	gold
+33	useful means good to use	nongold
+34	to be formed by is to be the result of	nongold
+35	if something is a raw material in a process then that something is required for that process	nongold
+36	requiring is similar to needing help	nongold
+37	a plant is a kind of organism	gold
+38	decomposition  increases amount of organic matter in soil	nongold
+39	a crop is a kind of food	nongold
+40	decomposer is a kind of role in the food chain process; in an ecosystem	nongold
+41	to be formed by is similar to being produced by	nongold
+42	planting crops is synonymous with growing crops	gold
+43	products are formed; are produced; are created	nongold
+44	a decomposer is usually a bacterium; fungus	nongold
+45	to be made of something means to be formed of that something	nongold
+46	if something requires something else then that something requires a source of that something else	nongold
+47	green plants are a kind of producer	nongold
+48	a bacterium is a kind of decomposer	nongold
+49	crop rotation has a  positive impact on soil quality	nongold
+50	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+51	a microorganism is a kind of decomposer	nongold
+52	crop rotation renews; protects soil	nongold
+53	farming happens on a farm	nongold
+54	a plant is a kind of living thing	nongold
+55	low quality soil has a small; a low number of nutrients	nongold
+56	a source of something emits; produces; generates; provides that something	nongold
+57	vegetation means plants	nongold
+58	role is similar to importance	nongold
+59	crops growing well has a positive impact on a farmer's livelihood	nongold
+60	cropland is used for farming by humans	nongold
+61	if an event is required for a process then that event must occur before that process can occur	nongold
+62	farming changes the environment	nongold
+63	In the food chain process a  green plant has the role of  producer	nongold
+64	if something is required for a process then that something positively impacts that process	gold
+65	planting crops requires growing crops	nongold
+66	a decomposer is a kind of living thing	nongold
+67	soil fertility means the ability of soil to sustain plant growth	nongold
+68	if a living thing requires something then that something has a positive impact on that living thing	nongold
+69	soil is usually part of an environment	nongold
+70	a process usually requires all of the stages in that process	nongold
+71	a worm is a kind of decomposer	nongold
+72	a fungus is a kind of organism	nongold
+73	producing crops requires using farm land	nongold
+74	In the food chain process fungi have the role of decomposer	nongold
+75	dead organisms are the source of nutrients for decomposers	nongold
+76	an animal; living thing requires nutrients for survival	nongold
+77	In the food chain process bacteria have the role of decomposer	nongold
+78	to form means to create	nongold
+79	a process is a kind of event	nongold
+80	forming is similar to growing	nongold
+81	to make means to form	nongold
+82	decomposition is a stage in the carbon cycle process	nongold
+83	a role in the ecosystem is a role in the food chain process	nongold
+84	a bacterium is a kind of organism	nongold
+85	if something causes something else then that something else depends on that something	nongold
+86	corn is a kind of crop	nongold
+87	essential means required	nongold
+88	a part of a process means a stage in a process	nongold
+89	plants are a part of the environment	nongold
+90	roots are a part of a plant; tree	nongold
+91	an earthworm is a kind of decomposer	nongold
+92	producer is a kind of role in the food chain process; in an ecosystem	nongold
+93	forming is a kind of replenishing	nongold
+94	forming something is a kind of change	nongold
+95	to cause means to be responsible for	nongold
+96	harming something has a  negative impact on; effect on that something	nongold
+97	negative impact is the opposite of positive impact	nongold
+98	to change into means to form	nongold
+99	if a plant dies then that plant will not produce food	nongold

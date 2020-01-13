@@ -1,0 +1,102 @@
+0	stars can be classified by temperature; color; chemical composition; brightness	nongold
+1	a liquid is a kind of substance	nongold
+2	can be means able to be	nongold
+3	elements on the right side of the Periodic Table of Elements are gases at room temperature	nongold
+4	provide is similar to give; make	nongold
+5	temperature changing does not cause color to change	nongold
+6	CO2 is a kind of chemical formula	nongold
+7	oxygen is a kind of gas at room temperature	nongold
+8	hydrogen is a kind of gas at room temperature	nongold
+9	coloration means a pattern of colors	nongold
+10	characteristic means property	nongold
+11	the color of an environment means the color of the things that environment contains	nongold
+12	water is a kind of matter	nongold
+13	condition means the state of the property	nongold
+14	CO2 means carbon dioxide	gold
+15	to contain means to have inside	nongold
+16	to be made of something means to be formed of that something	nongold
+17	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+18	appearance is a property of objects; materials	nongold
+19	phase means state	nongold
+20	to cause means to make	nongold
+21	particles in objects are a kind of matter	nongold
+22	cannot is the opposite of  can	nongold
+23	H2O means water	nongold
+24	color is an intensive property	nongold
+25	a structure of something is synonymous with a part of that something	nongold
+26	a chemical property is the opposite of a physical property	nongold
+27	structure is a property of an object; a material; a substance	nongold
+28	affected means changed	nongold
+29	a star's surface temperature causes the star's  color	nongold
+30	no longer means used to be	nongold
+31	state means form	nongold
+32	coloration means a thing's color	nongold
+33	to give is similar to to cause	nongold
+34	materials are made of matter	nongold
+35	if an object is black then that object absorbs all visible light; heat	nongold
+36	air is a kind of gas	nongold
+37	brown is a kind of color	nongold
+38	chemical composition is a kind of property	nongold
+39	material means substance	nongold
+40	substances have chemical properties	nongold
+41	matter is made of molecules	nongold
+42	carbon dioxide is colorless	gold
+43	as amount; size of something increases , the intensive properties of that something will not change	nongold
+44	state of matter means physical state	nongold
+45	made of is similar to contains	nongold
+46	composed of means made of	nongold
+47	a living thing is a kind of object	nongold
+48	air is colorless	nongold
+49	reaction to light is a kind of chemical property	nongold
+50	gas is a kind of object	nongold
+51	to be formed by is similar to being produced by	nongold
+52	dark means dark in color	nongold
+53	yellow is a kind of color	nongold
+54	state of matter is a kind of physical property	nongold
+55	black is dark in color	nongold
+56	solid is a kind of state of matter	nongold
+57	O2 means oxygen	nongold
+58	composition means the (materials, substances) of which something is composed	nongold
+59	not is similar to the opposite of	nongold
+60	a property of something is a feature of that something	nongold
+61	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+62	a bonding property is a kind of chemical property	nongold
+63	gas is a kind of nonmetal	nongold
+64	make means produce	nongold
+65	form means kind	nongold
+66	what something needs is a property of that something	nongold
+67	gaseous means of gas	nongold
+68	liquid is a kind of state of matter	nongold
+69	orange is a kind of color	nongold
+70	gas is a kind of substance	nongold
+71	composition is a property of an object; matter	nongold
+72	material composition is a kind of chemical property	nongold
+73	the effects of something is a property of that something	nongold
+74	a molecule is a kind of object	nongold
+75	objects are made of materials; substances; matter	nongold
+76	substances are made of matter	nongold
+77	state of matter at room temperature is a kind of physical property	nongold
+78	a  gas is a kind of  element	nongold
+79	colorless means no color	gold
+80	red is a kind of color	nongold
+81	gas is a kind of state of matter	nongold
+82	if the color of a substance changes then a chemical change may have occurred	nongold
+83	white is a kind of color	nongold
+84	a physical property is a kind of property	nongold
+85	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	nongold
+86	a type of something is a kind of property of that something	nongold
+87	a  chemical property is a kind of  property	nongold
+88	to turn means to change	nongold
+89	to convert means to change	nongold
+90	color is a property of  an object; a material	nongold
+91	physical state means state of matter	nongold
+92	blue is a kind of color	nongold
+93	black is a kind of color	nongold
+94	It is colorless.	answer
+95	color is a kind of physical; visual property	gold
+96	shape of the parts of something is a property of that something	nongold
+97	gas is a kind of material	nongold
+98	an object has properties	nongold
+99	Which of the following is a property of CO2 gas?	question
+100	as the state  of matter changes , the color of the object will stay the same	nongold
+101	matter; materials; substances are made of atoms; particles	nongold

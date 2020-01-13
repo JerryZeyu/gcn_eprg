@@ -1,0 +1,102 @@
+0	loss is similar to removal	nongold
+1	An example of recycling is using an object to make a new object	nongold
+2	replacing is similar to recycling	nongold
+3	creating wood-free paper does not require cutting down trees	nongold
+4	a branch is a part of a tree	nongold
+5	fewer means lower; less in number	nongold
+6	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+7	waste has a  negative impact on the environment	nongold
+8	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+9	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+10	waste must be removed	nongold
+11	deforested area means an area where trees have been cut down	nongold
+12	to be good for means to have a positive impact on	nongold
+13	decreasing something positive has a negative impact on a thing	nongold
+14	cardboard boxes are made of cardboard	nongold
+15	decreasing something negative has a positive impact on a thing	nongold
+16	recycling means reusing	nongold
+17	all living things eliminate waste	nongold
+18	a paper is a kind of object	nongold
+19	to change means to have an effect	nongold
+20	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+21	Fewer trees need to be cut.	answer
+22	roots are a part of a plant; tree	nongold
+23	cardboard is inexpensive	nongold
+24	recycling is similar to reusing	nongold
+25	fire causes harm to trees; to forests; to living things	nongold
+26	if something is required for a process then that something positively impacts that process	nongold
+27	planting trees is sometimes a human activity	nongold
+28	paper is a kind of material	nongold
+29	less means a reduced amount	nongold
+30	a tree contains wood	nongold
+31	a forest contains  lots of plants; trees	nongold
+32	fewest means lowest; least in number	nongold
+33	recycling is a kind of action	nongold
+34	a student is a kind of human	nongold
+35	humans discarding waste in an environment causes harm to that environment	nongold
+36	a tree is a kind of plant	nongold
+37	if a tree is cut down then that tree will die	nongold
+38	a source of something emits; produces; generates; provides that something	nongold
+39	to cause means to have an effect	nongold
+40	if an amount of objects decreases then those objects are fewer in number	gold
+41	an increase is the opposite of a decrease	nongold
+42	a leaf is a part of a tree	nongold
+43	recycling means using over again	nongold
+44	using less resources usually causes money to be saved	nongold
+45	requiring something means needing that something	nongold
+46	to recycle means return	nongold
+47	garbage means waste	nongold
+48	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+49	best means most positive	nongold
+50	less is similar to decrease	nongold
+51	a redwood tree is a kind of tree	nongold
+52	recycling is a kind of method of disposal	nongold
+53	bark is a part of a tree	nongold
+54	a box is a kind of object	nongold
+55	if something causes a process then that something is required for that process	nongold
+56	little is similar to decrease	nongold
+57	trash is synonymous with waste	nongold
+58	cardboard is recyclable	nongold
+59	helping something has a  positive impact on that something	nongold
+60	a plant is a kind of living thing	nongold
+61	harming something has a  negative impact on; effect on that something	nongold
+62	recycling reduces the resources needed to make something	gold
+63	creating paper requires cutting down trees	gold
+64	recycling has a  positive impact on the environment	nongold
+65	to be used for something means to be required by that something	nongold
+66	negative impact is the opposite of positive impact	gold
+67	if a resource is limited in supply then that resource should be recycled	nongold
+68	paper is not durable	nongold
+69	removing a forest means cutting down the trees in that forest	nongold
+70	cutting down a forest means cutting down the trees in that forest	nongold
+71	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+72	less is the opposite of more	nongold
+73	cardboard is biodegradable	nongold
+74	greatest means largest; highest; most amount of something	nongold
+75	impact means effect	gold
+76	planting trees is the opposite of cutting down trees	nongold
+77	cardboard is a kind of material	nongold
+78	clearing a forest means humans cutting down the trees	nongold
+79	to be required means to be necessary	nongold
+80	resources becoming available has a positive impact on the things that need those resources	nongold
+81	trees are a source of paper	nongold
+82	tree roots reduce soil erosion	nongold
+83	adverse effect means negative impact	nongold
+84	Some schools have programs to recycle paper products such as student papers, newspapers, and cardboard boxes. Which of these statements describes a positive effect of recycling paper products?	question
+85	people can plant trees	nongold
+86	a newspaper is made of paper	nongold
+87	processes sometimes produce waste products	nongold
+88	a tree can be replaced by planting a new tree each time one is cut down	nongold
+89	planting trees has a  positive impact on an ecosystem	nongold
+90	recyclable means a material can be recycled	nongold
+91	to depend on; to rely on; to need means to require	nongold
+92	recycling reduces; decreases the amount of waste sent to landfills	nongold
+93	a positive impact is  a benefit	nongold
+94	if a living thing requires something then that something has a positive impact on that living thing	nongold
+95	requiring is similar to needing help	nongold
+96	paper is recyclable	nongold
+97	logging is when humans cut down trees; forests for wood	nongold
+98	a tree is a kind of living thing	nongold
+99	good means positive	nongold
+100	building usually requires cutting down trees	nongold
+101	human waste often causes harm to an environment	nongold

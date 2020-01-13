@@ -1,0 +1,101 @@
+0	freezing causes a solid to form	nongold
+1	crystal is a kind of  solid	nongold
+2	clouds are made of water vapor; rain droplets	nongold
+3	gas is a kind of material	nongold
+4	breaking down is a kind of forming	nongold
+5	objects are made of materials; substances; matter	nongold
+6	high is similar to increase	nongold
+7	low means down	nongold
+8	to be formed by is similar to being produced by	nongold
+9	ice is colder than water in temperature	nongold
+10	an ice cube is a kind of solid	nongold
+11	clouds produce precipitation	nongold
+12	to be formed means to be originated	nongold
+13	a particle is a kind of object	nongold
+14	intense means extreme	nongold
+15	ice is a kind of object	nongold
+16	high means a lot of something	nongold
+17	a source of something emits; produces; generates; provides that something	nongold
+18	substances are made of elements	nongold
+19	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+20	altitude is the distance from the ground to an object in the sky	nongold
+21	mostly means being the most	nongold
+22	if something releases something else then that something is the source of that something else	nongold
+23	a living thing is a kind of object	nongold
+24	snow is a kind of ice	nongold
+25	to form means to create	nongold
+26	gas is a kind of substance	nongold
+27	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+28	temperature is a measure of heat energy	nongold
+29	can be means able to be	nongold
+30	emit means produce	nongold
+31	water is a kind of substance	gold
+32	Mars contains ice	nongold
+33	rising means height; altitude increases	nongold
+34	matter; materials; substances are made of atoms; particles	nongold
+35	High-altitude cirrus clouds are primarily formed from which substance?	question
+36	frozen means solid	nongold
+37	solid ice crystals	answer
+38	to make means to form	nongold
+39	sometimes ice crystals are found in the atmosphere	nongold
+40	to increase is similar to to create	nongold
+41	a mountain is high in altitude	nongold
+42	high means great in altitude	nongold
+43	materials are made of matter	nongold
+44	a component means a part of	nongold
+45	a solid is a kind of substance	nongold
+46	if something is made of something; a material then that something contains that something; that material	nongold
+47	freezing is a kind of phase change	nongold
+48	cirrus clouds are made of ice crystals	gold
+49	low means low in elevation; height; altitude	nongold
+50	if something comes from something else then that something else is a source of that something	nongold
+51	clouds are formed by water vapor rising into colder regions of the atmosphere and condensing	nongold
+52	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+53	ice wedging is a kind of mechanical weathering	nongold
+54	an element is a kind of  substance	nongold
+55	thermosphere contains high-energy particles	nongold
+56	cirrus clouds are found in high-altitude area	gold
+57	water is a kind of liquid at room temperature	nongold
+58	liquid is a kind of state of matter	nongold
+59	clouds are located in the atmosphere	nongold
+60	made of is similar to contains	nongold
+61	substances are made of matter	nongold
+62	denser means more dense	nongold
+63	a component of something means a part of that something	nongold
+64	ice is a kind of food	nongold
+65	ice crystals means  ice	gold
+66	freezing means cold temperatures	nongold
+67	if something transfers something else then that something is a source of something else	nongold
+68	where something  comes from is a source of that something	nongold
+69	phase means state	nongold
+70	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+71	a type is synonymous with a kind	nongold
+72	snow is a kind of object	nongold
+73	an event is a kind of action	nongold
+74	particles in objects are a kind of matter	nongold
+75	an object; material; substance comes from that object or material's source	nongold
+76	made up of means contains; made of	nongold
+77	ice is cold in temperature	nongold
+78	ice is a kind of solid	nongold
+79	if two things are made from the same objects; material then those two things are similar	nongold
+80	to cause the formation of means to form	nongold
+81	extreme means very high in value	nongold
+82	composed of means made of	nongold
+83	being made of crystals is synonymous with having a crystal structure	nongold
+84	frost is a kind of solid water	nongold
+85	typically means usually	nongold
+86	solid is a kind of state of matter	nongold
+87	state means form	nongold
+88	a cloud is a kind of weather	nongold
+89	to be made of something means to be formed of that something	gold
+90	ice is a kind of water phase	nongold
+91	snow is a kind of precipitation	nongold
+92	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+93	a process is a kind of event	nongold
+94	material means substance	nongold
+95	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+96	clouds are usually found in the sky	nongold
+97	cloudy means the presence  of clouds in the sky	nongold
+98	a liquid is a kind of substance	nongold
+99	a cloud is a kind of object	nongold
+100	form means kind	nongold

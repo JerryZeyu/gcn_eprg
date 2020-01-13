@@ -1,0 +1,71 @@
+0	sunlight is a kind of light	gold
+1	when sunlight strikes something , that something receives sunlight	nongold
+2	sunlight is intense in space	gold
+3	the ability to reflect off of a surface is a kind of characteristic	nongold
+4	metal is reflective	nongold
+5	an astronaut is a kind of human	gold
+6	intense sunlight.	answer
+7	eyes are a part of a human for seeing	nongold
+8	astronauts wear spacesuits in space	gold
+9	harming something has a  negative impact on; effect on that something	gold
+10	astronauts live on a space station while in outer space	nongold
+11	color is a kind of physical; visual property	nongold
+12	solar energy is a kind of energy	nongold
+13	an organism is a living thing	nongold
+14	materials are made of matter	nongold
+15	answering questions requires information	nongold
+16	The outer layers of astronauts' space suits are reflective in order to protect them from	question
+17	a planet is a kind of celestial object; body	nongold
+18	sunlight produces heat	gold
+19	an animal is a kind of organism	gold
+20	intense sunlight.	answer
+21	a surface is a part of an object	nongold
+22	solar energy is a kind of heat energy	nongold
+23	celestial bodies; celestial objects are found in space	nongold
+24	sunshine means sunlight	nongold
+25	an object has properties	nongold
+26	solar radiation means solar energy	nongold
+27	The outer layers of astronauts' space suits are reflective in order to protect them from	question
+28	astronauts wear spacesuits in space	gold
+29	an astronaut is a kind of human	gold
+30	a property of something is a feature of that something	nongold
+31	an astronaut is a kind of human	gold
+32	space shuttles require materials that can withstand heat	nongold
+33	astronauts wear spacesuits in space	gold
+34	sunlight is a kind of light	gold
+35	a body part is a kind of object	nongold
+36	harming something has a  negative impact on; effect on that something	gold
+37	reflection is a property of light	nongold
+38	intense means high in intensity	nongold
+39	to be in the sun means to be in the sunlight	nongold
+40	an animal is a kind of organism	gold
+41	being in the sun is synonymous with being in the sunlight	nongold
+42	reflection is a kind of process	nongold
+43	The outer layers of astronauts' space suits are reflective in order to protect them from	question
+44	an animal is a kind of organism	gold
+45	intense sunlight.	answer
+46	opacity is a property of an object and includes ordered values of opaque; translucent; transparent	nongold
+47	sunlight is intense in space	gold
+48	material means substance	nongold
+49	sunlight produces heat	gold
+50	light means light energy	nongold
+51	sunlight is a kind of light	gold
+52	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+53	if an object is made of a material then that object has the properties of that material	nongold
+54	The outer layers of astronauts' space suits are reflective in order to protect them from	question
+55	sunlight is intense in space	gold
+56	protecting something means preventing harm to that something	gold
+57	a human is a kind of animal	gold
+58	a human is a kind of animal	gold
+59	Earth is a kind of planet	nongold
+60	a human is a kind of animal	gold
+61	protecting something means preventing harm to that something	gold
+62	protecting something means preventing harm to that something	gold
+63	intensity of sunlight is similar to amount of sunlight	nongold
+64	a structure of something is synonymous with a part of that something	nongold
+65	harming something has a  negative impact on; effect on that something	gold
+66	sunlight is made of ultraviolet, infrared, and visible light	nongold
+67	sunlight produces heat	gold
+68	absorbing sunlight causes objects to heat	nongold
+69	shiny things; objects reflect light	nongold
+70	intense sunlight.	answer

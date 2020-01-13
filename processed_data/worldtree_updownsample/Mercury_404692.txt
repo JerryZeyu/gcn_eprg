@@ -1,0 +1,52 @@
+0	sharpness is a property of shape	nongold
+1	length is a part of size	nongold
+2	a particle is a kind of object	nongold
+3	Which is the best tool to measure the angles of a triangular object?	question
+4	a protractor is a kind of tool for measuring the angles of a triangular object	gold
+5	objects are made of materials; substances; matter	nongold
+6	Which is the best tool to measure the angles of a triangular object?	question
+7	length is a property of the shape of an object	nongold
+8	if two objects are apart from each other then matter is between those two objects	nongold
+9	a piece of something is a kind of object	nongold
+10	a protractor	answer
+11	to measure means to calculate	nongold
+12	Which is the best tool to measure the angles of a triangular object?	question
+13	a protractor is used for measuring the angles of a triangular object	gold
+14	can be means able to be	nongold
+15	a protractor is used for measuring the angles of a triangular object	gold
+16	shape is a kind of physical property	nongold
+17	a protractor is a kind of tool for measuring the angles of a triangular object	gold
+18	weight is a property of objects; matter	nongold
+19	a utensil is a kind of tool for eating	nongold
+20	a human is a kind of animal	nongold
+21	a protractor	answer
+22	elliptical is a kind of shape	nongold
+23	a protractor	answer
+24	circular means having the shape of a circle	nongold
+25	a structure of something is synonymous with a part of that something	nongold
+26	diameter is a measure of length through the center of a circle	nongold
+27	to be formed by is to be the result of	nongold
+28	greater means higher; more in value	nongold
+29	property is similar to measurement	nongold
+30	seconds are a kind of unit for measuring time	nongold
+31	work is a measure of the product of force and distance	nongold
+32	a protractor is a kind of tool for measuring the angles of a triangular object	gold
+33	better means good	nongold
+34	Which is the best tool to measure the angles of a triangular object?	question
+35	good means positive	nongold
+36	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+37	measuring is used for describing an object	nongold
+38	a protractor	answer
+39	a component means a part of	nongold
+40	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+41	refraction is when a wave goes through; transmits through; passes through a surface; a material; an object and travels in a different direction relative to the angle of incidence	nongold
+42	answering questions requires information	nongold
+43	length is a measure of distance from one end of an object to the other end of that object	nongold
+44	a centimeter is a kind of unit of measurement	nongold
+45	structure is a property of an object; a material; a substance	nongold
+46	made up of means contains; made of	nongold
+47	an animal is a kind of living thing	nongold
+48	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+49	shape is a property of an object	nongold
+50	a protractor is used for measuring the angles of a triangular object	gold
+51	thickness is a property of an object and includes ordered  values of thin; thick	nongold

@@ -1,0 +1,66 @@
+0	state means form	nongold
+1	a type is synonymous with a kind	gold
+2	rainy is a kind of weather	nongold
+3	intense means extreme	nongold
+4	forming something is a kind of change	nongold
+5	to change into means to form	nongold
+6	a thunderstorm is a kind of storm	gold
+7	event is similar to occurrence	nongold
+8	cold fronts cause thunderstorms as they pass by	gold
+9	cloudy conditions cause a low-pressure weather system	nongold
+10	grey clouds appear before precipitation	nongold
+11	a storm is a source of precipitation	gold
+12	a type is synonymous with a kind	gold
+13	clouds are usually found in the sky	nongold
+14	if cumulus clouds appear in a location , then the weather of that day will be fair	nongold
+15	a type is synonymous with a kind	gold
+16	precipitation is a property of weather	gold
+17	precipitation is a property of weather	gold
+18	a storm is a source of precipitation	gold
+19	precipitation is a property of weather	gold
+20	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+21	rain is a kind of precipitation	gold
+22	to be formed by is to be the result of	nongold
+23	to make means to form	nongold
+24	rain is a kind of precipitation	gold
+25	temperature  is a property of air mass and includes ordered values of cold; warm	nongold
+26	to cause the formation of means to form	nongold
+27	events occur at a specific place; at a specific time; with a specific frequency	gold
+28	Cumulonimbus clouds often form along cold fronts. Which type of weather is most likely to occur along a cold front?	question
+29	rain with possible severe thunderstorms	answer
+30	a thunderstorm is a kind of storm	gold
+31	rain with possible severe thunderstorms	answer
+32	a kind of something is an example of that something	nongold
+33	a motion is a kind of event; action	nongold
+34	a storm is usually a source of strong winds	nongold
+35	a type of something is a kind of property of that something	nongold
+36	wind means moving air	nongold
+37	a cloud is a kind of object	nongold
+38	rain with possible severe thunderstorms	answer
+39	cold fronts cause thunderstorms as they pass by	gold
+40	Cumulonimbus clouds often form along cold fronts. Which type of weather is most likely to occur along a cold front?	question
+41	cloudy is a kind of  weather	nongold
+42	an event is a kind of action	nongold
+43	lightning occurs during lightning storms; thunderstorms	nongold
+44	Cumulonimbus clouds often form along cold fronts. Which type of weather is most likely to occur along a cold front?	question
+45	a thunderstorm is a kind of storm	gold
+46	An example of stormy weather is rain	nongold
+47	Cumulonimbus clouds often form along cold fronts. Which type of weather is most likely to occur along a cold front?	question
+48	cloudy means the presence  of clouds in the sky	nongold
+49	to lower means to decrease	nongold
+50	events occur at a specific place; at a specific time; with a specific frequency	gold
+51	rain with possible severe thunderstorms	answer
+52	cool means cold	nongold
+53	colder; cooler means lower in temperature	nongold
+54	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+55	cold  air is usually high in air pressure	nongold
+56	events occur at a specific place; at a specific time; with a specific frequency	gold
+57	cold fronts cause thunderstorms as they pass by	gold
+58	rain is a kind of precipitation	gold
+59	weather  usually happens in troposphere	nongold
+60	often is similar to likely	nongold
+61	clouds are formed by water vapor rising into colder regions of the atmosphere and condensing	nongold
+62	snowstorm is a kind of weather	nongold
+63	cold means low in temperature	nongold
+64	form means kind	nongold
+65	a storm is a source of precipitation	gold

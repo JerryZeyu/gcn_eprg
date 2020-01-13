@@ -1,0 +1,57 @@
+0	metal is a kind of material	gold
+1	medicine is used for curing people when they are sick	nongold
+2	metal is a kind of substance	nongold
+3	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+4	metal may be contaminated and cause infection.	answer
+5	surfaces sometimes cause objects to break	nongold
+6	dead organisms are a source of disease	nongold
+7	a person is a kind of animal	nongold
+8	if an object is made of a material then that object has the properties of that material	nongold
+9	metal is a kind of material	gold
+10	rusty metal is sometimes contaminated	gold
+11	adverse effect means negative impact	nongold
+12	helping something has a  positive impact on that something	nongold
+13	receive means get	nongold
+14	disease has a negative impact on an organism	nongold
+15	receiving a treat is a kind of positive effect	nongold
+16	a concern; a problem is a possible negative impact	nongold
+17	zinc has a positive impact on the healing of wounds	nongold
+18	If a child scrapes his foot on a piece of rusty metal, it is important to get medical treatment because the	question
+19	to scrape means to scratch	nongold
+20	metal may be contaminated and cause infection.	answer
+21	harming an organism can cause that organism to die	nongold
+22	If a child scrapes his foot on a piece of rusty metal, it is important to get medical treatment because the	question
+23	get rid of means eliminate; remove	nongold
+24	a piece of an object is smaller in size than the whole object	nongold
+25	scraping oneself on a contaminated object may cause infection	gold
+26	killing means harming something causing death	nongold
+27	metal may be contaminated and cause infection.	answer
+28	an part of an object is smaller than the entire object	nongold
+29	material means substance	nongold
+30	infection often requires medical treatment	gold
+31	person is synonymous with human	nongold
+32	hitting something causes harm to that something	nongold
+33	a toe is a part of some animals	nongold
+34	If a child scrapes his foot on a piece of rusty metal, it is important to get medical treatment because the	question
+35	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+36	scraping oneself on a contaminated object may cause infection	gold
+37	best means most positive	nongold
+38	harm means injury	nongold
+39	an animal is a kind of organism	nongold
+40	metal rusts	nongold
+41	a piece of something is a kind of object	nongold
+42	burning a living thing usually causes harm to that living thing	nongold
+43	human is a kind of organism	nongold
+44	chemical splashing can cause harm to humans; to the eyes	nongold
+45	infection often requires medical treatment	gold
+46	a positive impact is a helpful effect	nongold
+47	iron is a kind of metal	nongold
+48	rusty metal is sometimes contaminated	gold
+49	infection often requires medical treatment	gold
+50	metal is a kind of material	gold
+51	to help means to aid	nongold
+52	rusty metal is sometimes contaminated	gold
+53	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+54	metal may be contaminated and cause infection.	answer
+55	If a child scrapes his foot on a piece of rusty metal, it is important to get medical treatment because the	question
+56	scraping oneself on a contaminated object may cause infection	gold

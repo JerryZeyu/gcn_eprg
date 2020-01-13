@@ -1,0 +1,102 @@
+Question	Where would animals and plants be most affected by a flood?	question
+Answer	low areas	answer
+0	if an animal cannot fly; climb then that animal will be more affected by a flood	nongold
+1	a plant is a kind of living thing	nongold
+2	an animal is a kind of living thing	nongold
+3	vegetation means plants	nongold
+4	a plant is a kind of organism	gold
+5	when a body of water receives more water than it can hold , a flood occurs	nongold
+6	an environment means an area	gold
+7	an animal is a kind of organism	gold
+8	a plants; living things require water for survival; to grow	nongold
+9	as elevation of a place decreases , how much a flood will affect that place will increases	gold
+10	flooding is a kind of change	nongold
+11	heavy rains cause flooding	nongold
+12	plants are a part of the environment	nongold
+13	to impact means to affect	nongold
+14	animals; living things require water for survival	nongold
+15	a plant; living thing requires food for survival	nongold
+16	low means down	nongold
+17	flood plains are located near rivers	nongold
+18	low is similar to decrease	nongold
+19	affected means changed	nongold
+20	an organism is a living thing	nongold
+21	aquatic animals; plants live in bodies of water	nongold
+22	area is similar to location	nongold
+23	a tree is a kind of plant	nongold
+24	impact means effect	nongold
+25	when a river floods , that river deposits soil; sediment in flood plains	nongold
+26	flooding decreases the availability of food	nongold
+27	high is similar to increase	nongold
+28	a floodplain is a kind of land; landform	nongold
+29	a human is a kind of animal	nongold
+30	an animal; living thing requires nutrients for survival	nongold
+31	a region is similar to an environment	nongold
+32	storms;rain cause bodies of water to increase amount of water they contain	nongold
+33	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+34	low pressure systems cause precipitation	nongold
+35	causing is a kind of affecting	nongold
+36	to lower means to decrease	gold
+37	harming something has a  negative impact on; effect on that something	nongold
+38	organisms are a part of an environment	gold
+39	changes in an environment cause animals; plants to adapt to survive	nongold
+40	low is the opposite of high	nongold
+41	a population is made of one type of organism in an area	nongold
+42	an aquatic animal is a kind of animal	nongold
+43	a forest contains  lots of plants; trees	nongold
+44	to reduce means to decrease	nongold
+45	precipitation is when water falls from the sky	nongold
+46	aquatic animal means water animal	nongold
+47	water is a part of an environment	nongold
+48	a body of water is a kind of environment	nongold
+49	plant and animal matter means organic matter	nongold
+50	a living thing is a kind of object	nongold
+51	rain is a kind of water	nongold
+52	high means a lot of something	nongold
+53	rain is a kind of precipitation	nongold
+54	place means area	nongold
+55	death means to die	nongold
+56	to act on means to affect	nongold
+57	an increase is the opposite of a decrease	nongold
+58	to be a source of something means to cause that something	nongold
+59	damage has a negative impact on a thing	nongold
+60	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+61	natural disasters can cause animals to leave an environment	nongold
+62	if something affects a part of something else then that something affects that something else	nongold
+63	rainfall is the amount of rain an area receives	nongold
+64	increase means more	nongold
+65	a region is a kind of location	nongold
+66	if a living thing requires something then that something has a positive impact on that living thing	nongold
+67	an environment is similar to an ecosystem	nongold
+68	storm is a kind of weather; weather event	nongold
+69	damage means harm	nongold
+70	low means low in elevation; height; altitude	gold
+71	area; space is a kind of resource	nongold
+72	an environment is a kind of place	nongold
+73	life means living things	nongold
+74	due to means caused by	nongold
+75	an ecosystem contains a large community of; large numbers of living organisms	nongold
+76	an area receiving rain means rain falling in that area	nongold
+77	a plant requires a habitat for survival	nongold
+78	dead plants means dead plant material	nongold
+79	harming an animal species causes that animal's population to decrease	nongold
+80	a concern; a problem is a possible negative impact	nongold
+81	rainstorm means rain storm	nongold
+82	runoff is a kind of water	nongold
+83	to cause means to result in	nongold
+84	precipitation is a kind of natural occurrence; cause	nongold
+85	a drought is a kind of natural disaster	nongold
+86	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+87	as available water decreases , the population of plants will decrease	nongold
+88	an event is a kind of action	nongold
+89	if a living thing dies then that living thing is dead	nongold
+90	to cause means to have an effect	nongold
+91	rainfall means precipitation	nongold
+92	adverse effect means negative impact	nongold
+93	change is a kind of impact	nongold
+94	loss means reduction	nongold
+95	to be affected by something is similar to depending on something	nongold
+96	as the cause of something decreases , that something will decrease	nongold
+97	answering questions requires information	nongold
+98	most means over 50% of something	nongold
+99	negative impact is the opposite of positive impact	nongold

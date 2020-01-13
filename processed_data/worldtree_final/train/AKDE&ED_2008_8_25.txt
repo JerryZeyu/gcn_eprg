@@ -1,0 +1,102 @@
+0	Why do scientists perform multiple trials of the same experiment?	question
+1	to increase the likelihood of accurate experiment results	answer
+2	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	gold
+3	trial is synonymous with test	nongold
+4	chance means likelihood	nongold
+5	to repeat an experiment means to perform multiple trials of the same experiment	nongold
+6	likelihood is simiar to probability	nongold
+7	comparing data increases; improves the likelihood of obtaining accurate experiment results	nongold
+8	experiment is synonymous with test	nongold
+9	a scientist is a kind of human	nongold
+10	result means outcome	nongold
+11	to improve the chances means to increase the likelihood	nongold
+12	experimentation requires measuring	nongold
+13	more likely means increased likelihood	nongold
+14	if an experiment is repeated then the results are more likely to be correct due to fewer errors being made	nongold
+15	observations; data are a part of the results of an experiment	nongold
+16	increase means more	nongold
+17	testing often requires measuring	nongold
+18	to cause means to result in	nongold
+19	scientists make observations	nongold
+20	high is similar to increase	nongold
+21	an increase is the opposite of a decrease	nongold
+22	100% probability means always	nongold
+23	same means identical; equal in value; amount; number; quantity	nongold
+24	an increase is a kind of change	nongold
+25	answering questions requires information	nongold
+26	to produce means to result in	nongold
+27	to add means to increase	nongold
+28	an animal is a kind of organism	nongold
+29	an event is a kind of action	nongold
+30	to depend on; to rely on; to need means to require	nongold
+31	a result of something is evidence of that something	nongold
+32	a human is a kind of animal	nongold
+33	a negative impact is a kind of consequence; risk	nongold
+34	a decrease is a kind of change	nongold
+35	investigation sometimes requires experimentation	nongold
+36	hypothesis means scientific guess about the cause and effect of an event	nongold
+37	repeating the same experiment can be used for comparing  data	nongold
+38	a source of something increases the amount of that something	nongold
+39	often is similar to likely	nongold
+40	analyzing all results has a  positive impact on the effort to remain objective during experiments	nongold
+41	faster means increased rate	nongold
+42	determining often requires measuring; observing	nongold
+43	a process is a kind of event	nongold
+44	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+45	to enhance means to increase	nongold
+46	can be means able to be	nongold
+47	to be formed by is to be the result of	nongold
+48	to reduce means to decrease	nongold
+49	25% probability is similar to one in four	nongold
+50	low is similar to decrease	nongold
+51	may happen means having a chance of happening	nongold
+52	less is similar to decrease	nongold
+53	bias can cause error in an experiment	nongold
+54	a demonstration is similar to an example	nongold
+55	a hypothesis is a kind of scientific term	nongold
+56	causing means influencing	nongold
+57	if something emits something else then that something increases the amount of that something else	nongold
+58	if something causes an increase in something else then that something produces that something else	nongold
+59	product means result	nongold
+60	faster means an increase; higher in speed	nongold
+61	impact means effect	nongold
+62	an animal is a kind of living thing	nongold
+63	variable means able to change	nongold
+64	different is the opposite of the same	nongold
+65	double is a kind of increase	nongold
+66	to impact means to affect	nongold
+67	a component of something means a part of that something	nongold
+68	events occur at a specific place; at a specific time; with a specific frequency	nongold
+69	performing lab expiriments accurately requires reading; understanding all directions beforehand	nongold
+70	to lower means to decrease	nongold
+71	to cause an event means to make that event more likely	nongold
+72	if something changes , then that something is not the same	nongold
+73	something that happens is a kind of event	nongold
+74	researcher is a kind of scientist	nongold
+75	to cause an event is similar to being involved in that event	nongold
+76	stay the same means not changing	nongold
+77	a part of a process means a stage in a process	nongold
+78	speed up means increase	nongold
+79	to try means to make an effort	nongold
+80	a component means a part of	nongold
+81	An example of evidence for a scientific theory is observations	nongold
+82	affected means changed	nongold
+83	the function of something is what that something  is used to do	nongold
+84	if something performs a task then that task is that something's function	nongold
+85	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+86	a type is synonymous with a kind	nongold
+87	negative impact is the opposite of positive impact	nongold
+88	to cause means to have an effect	nongold
+89	too much is similar to increase	nongold
+90	a source of something emits; produces; generates; provides that something	nongold
+91	event is similar to occurrence	nongold
+92	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+93	once means one time	nongold
+94	an organism is a living thing	nongold
+95	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+96	a factor impacts something	nongold
+97	determining is similar to learning	nongold
+98	a particle is a kind of object	nongold
+99	a process usually requires all of the stages in that process	nongold
+100	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+101	to be used for something means to be required by that something	nongold

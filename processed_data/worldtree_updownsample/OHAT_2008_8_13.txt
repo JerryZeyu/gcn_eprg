@@ -1,0 +1,68 @@
+0	an animal is a kind of living thing	gold
+1	a plant; living thing requires food for survival	nongold
+2	omnivores eat plants; animals	nongold
+3	food contains carbohydrates	nongold
+4	an insect is a kind of prey	nongold
+5	a protozoan is a kind of animal	gold
+6	mutualism	answer
+7	an animal is a kind of organism	nongold
+8	an animal; living thing requires nutrients for survival	gold
+9	an insect is a kind of animal	gold
+10	predators; carnivores; omnivores eat other animals	nongold
+11	a nutrient is a kind of object	nongold
+12	an animal; living thing requires nutrients for survival	gold
+13	a living thing is made of cells	nongold
+14	Termites eat wood but cannot digest it. Protozoans live in the termites' stomachs and use enzymes to break down the wood. The digested wood provides nutrition for both the termites and the protozoans. What type of relationship is this?	question
+15	a small intestine is a part of a human's; animal's digestive system for the digestion of proteins	nongold
+16	an organism is a living thing	gold
+17	if a living thing requires something then that something has a positive impact on that living thing	gold
+18	if a living thing requires something then that something has a positive impact on that living thing	gold
+19	digestion of proteins occurs in the stomach; small intestine	nongold
+20	if something contains something , then something is able to provide something	nongold
+21	an animal is a kind of living thing	gold
+22	carnivores; omnivores; herbivores are a kind of animal	nongold
+23	an animal is a kind of living thing	gold
+24	mutualism has a positive impact on both organisms in the relationship	gold
+25	an animal; living thing requires nutrients for survival	gold
+26	separate is similar to break down	nongold
+27	the body is a part of an organism	nongold
+28	requiring something means needing that something	nongold
+29	a stomach is a part of a human's; animal's digestive system for the digestion of proteins	nongold
+30	an organism is a living thing	gold
+31	mutualism	answer
+32	become prey means get eaten	nongold
+33	a living thing is a kind of object	nongold
+34	mutualism	answer
+35	to break down means to break into smaller pieces	nongold
+36	mutualism has a positive impact on both organisms in the relationship	gold
+37	a protozoan is a kind of animal	gold
+38	digestion is when food is absorbed into the blood stream	nongold
+39	mutualism	answer
+40	a protozoan is a kind of animal	gold
+41	an insect is a kind of animal	gold
+42	a fungus is a kind of organism	nongold
+43	digestion is when stomach acid breaks down food	nongold
+44	Termites eat wood but cannot digest it. Protozoans live in the termites' stomachs and use enzymes to break down the wood. The digested wood provides nutrition for both the termites and the protozoans. What type of relationship is this?	question
+45	a worm is a kind of living thing	nongold
+46	an organism is a living thing	gold
+47	breaking down is a kind of forming	nongold
+48	a relationship occurs when two or more things interact with one another	nongold
+49	mutualism has a positive impact on both organisms in the relationship	gold
+50	living things eat their food source	nongold
+51	requiring is similar to needing help	nongold
+52	Termites eat wood but cannot digest it. Protozoans live in the termites' stomachs and use enzymes to break down the wood. The digested wood provides nutrition for both the termites and the protozoans. What type of relationship is this?	question
+53	to digest means to break down food	nongold
+54	provide is similar to give; make	nongold
+55	a termite is a kind of insect	gold
+56	Termites eat wood but cannot digest it. Protozoans live in the termites' stomachs and use enzymes to break down the wood. The digested wood provides nutrition for both the termites and the protozoans. What type of relationship is this?	question
+57	an animal is a kind of eukaryote	nongold
+58	food is what an animal eats	nongold
+59	both means two	nongold
+60	an insect is a kind of animal	gold
+61	if a living thing requires something then that something has a positive impact on that living thing	gold
+62	a plant is a kind of living thing	nongold
+63	a termite is a kind of insect	gold
+64	a termite is a kind of insect	gold
+65	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+66	a predator usually kills its prey to eat it	nongold
+67	diet means what an animal eats	nongold

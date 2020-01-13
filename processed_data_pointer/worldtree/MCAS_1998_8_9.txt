@@ -1,0 +1,102 @@
+Question	Lemon juice turns litmus paper red, is corrosive and tastes sour. Lemon juice is classified as	question
+Answer	an acid.	answer
+0	an acid is often sour in taste	gold
+1	an acid is corrosive	gold
+2	lemon juice is a kind of acid	gold
+3	lemon juice is a kind of acid	nongold
+4	an acid changes the color of litmus paper from blue to red	gold
+5	an acid is acidic	nongold
+6	lemon juice is a kind of substance	nongold
+7	a kind of something is classified as that something	gold
+8	acidity is a property of chemicals; substances and includes ordered values of basic; neutral; acidic	nongold
+9	classifying is when one sorts something by kind; type	nongold
+10	an indicator is made of litmus paper	nongold
+11	classifying means grouping objects; materials by their properties	nongold
+12	a lemon is a kind of fruit	nongold
+13	juice is a kind of liquid	nongold
+14	a lemon has strong odor	nongold
+15	paper burns	nongold
+16	fruit juice is a kind of  drink	nongold
+17	juice is a kind of matter	nongold
+18	lemonade is made of water, lemon juice, and sugar	nongold
+19	category means kind	nongold
+20	a type is synonymous with a kind	nongold
+21	a base changes the color of litmus paper from red to blue	nongold
+22	acidic means low; 0 to 6 in pH	nongold
+23	to turn means to change	gold
+24	a paper is a kind of object	nongold
+25	chemicals means substances	nongold
+26	paper is a kind of material	nongold
+27	fruit juice is usually high in sugar	nongold
+28	a source of something emits; produces; generates; provides that something	nongold
+29	classify is similar to characterize	nongold
+30	acid can cause chemical change	nongold
+31	form means kind	nongold
+32	ethanol is a kind of substance	nongold
+33	substances have chemical properties	nongold
+34	tasting bad is a kind of negative effect	nongold
+35	to give off means to be the source of	nongold
+36	to belong to a class means to be a kind of something	nongold
+37	moisture means liquid; liquid water	nongold
+38	neutralization is when an acid and a base react to form water and salt	nongold
+39	a sheet of paper is a kind of object	nongold
+40	paper is recyclable	nongold
+41	acid rain is acidic	nongold
+42	a liquid is a kind of substance	nongold
+43	a poison is very poisonous	nongold
+44	toxic means poisonous	nongold
+45	a beverage is a kind of liquid	nongold
+46	juice is a kind of solution	nongold
+47	a base is caustic; corrosive	nongold
+48	a poison is a kind of substance	nongold
+49	material means substance	nongold
+50	answering questions requires information	nongold
+51	high is similar to increase	nongold
+52	to tell the difference between things means to classify those things	nongold
+53	a living thing is a kind of object	nongold
+54	a beverage is a kind of food	nongold
+55	alcohol is a kind of liquid	nongold
+56	sugary means high in sugar	nongold
+57	to lower means to decrease	nongold
+58	water is a kind of compound	nongold
+59	combustibility is a kind of  chemical property	nongold
+60	food is a kind of substance	nongold
+61	An example of a chemical property is how a material reacts chemically	nongold
+62	vinegar is a kind of acid	nongold
+63	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+64	to add means to increase	nongold
+65	fruit drink is a kind of beverage	nongold
+66	a compound is a kind of substance	nongold
+67	compound is a kind of chemical	nongold
+68	conductivity is a property of a material; substance	nongold
+69	can be means able to be	nongold
+70	substances are made of matter	nongold
+71	sugar is a kind of pure substance	nongold
+72	state means form	nongold
+73	to reduce means to decrease	nongold
+74	humans drink beverages	nongold
+75	poison causes harm to living things; organisms	nongold
+76	a volatile substance gives off gas	nongold
+77	both means two	nongold
+78	adding heat to an object sometimes causes chemical reactions	nongold
+79	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+80	to combust means to catch fire	nongold
+81	paper is flexible	nongold
+82	not is similar to the opposite of	nongold
+83	chemicals can be pollutants	nongold
+84	to slow; to slow down decreases speed	nongold
+85	to cause means to make	nongold
+86	heat means heat energy	nongold
+87	a compound is a kind of material	nongold
+88	purity is a property of substance and includes ordered values of pure substance; mixture	nongold
+89	soda is a kind of carbonated beverage	nongold
+90	water is a kind of substance	nongold
+91	paper can  not be melted	nongold
+92	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	nongold
+93	chemical composition is a kind of property	nongold
+94	red is a kind of color	nongold
+95	sweet is a kind of flavor	nongold
+96	vinegar is acidic	nongold
+97	better means good	nongold
+98	taste is a kind of property	nongold
+99	when an animal eats or drinks something , that animal tastes that something	nongold

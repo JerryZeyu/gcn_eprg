@@ -1,0 +1,102 @@
+Question	Which object will conduct electricity, conduct heat, and be attracted to a magnet?	question
+Answer	iron nail	answer
+0	iron nails are made of iron	gold
+1	a nail is a kind of object	gold
+2	nails are often made of iron	nongold
+3	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+4	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+5	an electrical charge can attract objects to other objects	nongold
+6	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+7	metal is an  electrical; electrical energy conductor	gold
+8	conductivity is a property of a material; substance	gold
+9	a magnet is a kind of object	nongold
+10	soft iron; iron is always ferromagnetic; magnetic	nongold
+11	electricity means electrical energy	nongold
+12	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	gold
+13	iron is always magnetic	gold
+14	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+15	iron is a kind of metal	gold
+16	an electromagnet is a kind of electric magnet	nongold
+17	metal is a thermal; thermal energy conductor	gold
+18	iron is a kind of solid	nongold
+19	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold
+20	iron filings are made of small pieces of iron	nongold
+21	objects are made of materials; substances; matter	nongold
+22	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+23	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+24	magnetism does not require contact between objects to act	nongold
+25	metal is a kind of substance	nongold
+26	conductivity is a measure of how easily electricity travels through a material	nongold
+27	Magnetite is always magnetic	nongold
+28	metal is sometimes magnetic	nongold
+29	a thermal conductor is made of materials that conduct thermal energy	nongold
+30	metal is a kind of material	nongold
+31	if a magnet is attracted to a metal then that magnet will stick to that metal	nongold
+32	heat means heat energy	gold
+33	rubber is thermal;thermal energy insulator	nongold
+34	to conduct is similar to to transfer	nongold
+35	conductivity is a kind of physical property	nongold
+36	if something contains a large amount of magnetic material then that something will attract magnets	nongold
+37	conduction is a kind of process	nongold
+38	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+39	electricity is made of moving charges; moving charged particles	nongold
+40	attracting is a kind of function; activity	nongold
+41	pull is similar to attract	nongold
+42	iron is a kind of element	gold
+43	a device is a kind of object	nongold
+44	if an object is made of a material then that object has the properties of that material	gold
+45	an insulator is a kind of material	nongold
+46	wax is an electrical; electrical energy insulator	nongold
+47	if battery in an electromagnet is active then the nail in the electromagnet will become magnetic	nongold
+48	substances are made of matter	nongold
+49	an insulator is the opposite of a conductor	nongold
+50	a horseshoe magnet is a kind of magnet	nongold
+51	magnetic separation is using a magnet to attract magnetic material from the mixture of magnetic and nonmagnetic material	nongold
+52	steel; carbon steel is always ferromagnetic; magnetic	nongold
+53	wood is an thermal; thermal energy insulator	nongold
+54	magnetic attraction pulls two objects together	nongold
+55	wood is a thermal; thermal energy insulator	nongold
+56	plastic is a kind of electrical insulator	nongold
+57	a  rubber eraser is made of rubber	nongold
+58	filings are a kind of object	nongold
+59	metals are made of metal	nongold
+60	a paper clip is often made of magnetic metals; ferromagnetic metals	nongold
+61	magnetism is a kind of physical property	nongold
+62	plastic is usually an electrical insulator	nongold
+63	magnetic force means magnetism	nongold
+64	material means substance	nongold
+65	brick is an electrical; electrical energy insulator	nongold
+66	materials are made of matter	nongold
+67	magnetism can cause objects to repel each other	nongold
+68	temperature is a measure of heat energy	nongold
+69	can be means able to be	nongold
+70	a wax crayon is made of wax	nongold
+71	a source of something emits; produces; generates; provides that something	nongold
+72	a conducting metal loop is a kind of electromagnet	nongold
+73	to give off means to be the source of	nongold
+74	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+75	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+76	a source of heat can be used to heat something	nongold
+77	a source of heat can be used to heat something	nongold
+78	attract means move closer	nongold
+79	an electromagnet is a kind of device	nongold
+80	heat energy is synonymous with thermal energy	gold
+81	absorbing energy causes objects; materials; substances to heat	nongold
+82	zinc is a kind of metal	nongold
+83	a metal is usually a solid at room temperature	nongold
+84	aluminum is a kind of matter	nongold
+85	a surface is a part of a material	nongold
+86	electricity is used as an energy source by electrical devices	nongold
+87	electric devices require electrical energy to function	nongold
+88	solid is a kind of state of matter	nongold
+89	plastic is a kind of thermal insulator	nongold
+90	a crayon is a kind of object	nongold
+91	static electricity is when electrons are exchanged between objects though friction	nongold
+92	a hot substance is a source of heat	nongold
+93	magnetism is a kind of force	nongold
+94	aluminum is a kind of metal	nongold
+95	magnet can be  used for separating a magnetic material from a mixture of a magnetic and nonmagnetic material	nongold
+96	an object has properties	nongold
+97	heat means the transfer of thermal energy	nongold
+98	form means kind	nongold
+99	a tool is a kind of object	nongold

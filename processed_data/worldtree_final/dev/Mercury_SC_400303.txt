@@ -1,0 +1,102 @@
+0	Which of these tools is used to measure the melting point of ice?	question
+1	thermometer	answer
+2	a thermometer is used to measure temperature	gold
+3	a thermometer is a kind of instrument for measuring temperature	gold
+4	melting point means temperature at which a solid melts; above which a solid melts	gold
+5	instrument means tool	gold
+6	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+7	device means tool	nongold
+8	freezing point is similar to melting point	nongold
+9	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+10	a tool is a kind of object	nongold
+11	instrument means device	nongold
+12	ice is a kind of solid	gold
+13	temperature is a measure of heat energy	nongold
+14	melting point is a property of a substance; material	nongold
+15	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+16	freezing point is a property of a substance; material	nongold
+17	ice is a kind of object	nongold
+18	ice is cold in temperature	nongold
+19	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+20	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+21	a device is a kind of object	nongold
+22	to measure means to calculate	nongold
+23	a simple machine is a kind of tool	nongold
+24	technology is similar to tool	nongold
+25	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+26	water is a kind of liquid at room temperature	nongold
+27	calculation means measurement	nongold
+28	a machine is a kind of  device	nongold
+29	degrees celsius ( C ) is a metric unit used for measuring temperature generally used for values between -273.0 and 50000000.0	nongold
+30	form means kind	nongold
+31	property is similar to measurement	nongold
+32	heat means heat energy	nongold
+33	can be means able to be	nongold
+34	a liquid is a kind of substance	nongold
+35	the melting point of iron is 2800F; 1538C; 1811K	nongold
+36	degrees kelvin ( K ) is an SI unit used for measuring temperature generally used for values between 0.0 and 50000000.0	nongold
+37	a solid is a kind of substance	nongold
+38	a measurement is a kind of data	nongold
+39	boiling point is a property of a substance; material	nongold
+40	a meter is a kind of unit for measuring distance; measuring length	nongold
+41	a calculator is a kind of tool	nongold
+42	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+43	water is a kind of substance	nongold
+44	determining often requires measuring; observing	nongold
+45	degrees fahrenheit ( F ) is a imperial unit used for measuring temperature generally used for values between -450.0 and 50000000.0	nongold
+46	a machine is a kind of object	nongold
+47	ice is colder than water in temperature	nongold
+48	measuring requires reading a measurement	nongold
+49	the melting point of oxygen is -361.8F; -218.8C; 54.4K	nongold
+50	freezing means cold temperatures	nongold
+51	liquid is a kind of state of matter	nongold
+52	approximately means about	nongold
+53	objects are made of materials; substances; matter	nongold
+54	cold means low in temperature	nongold
+55	quantity means amount	nongold
+56	melting point can be used to identify a pure substance	nongold
+57	to lower means to decrease	nongold
+58	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+59	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+60	an increase is a kind of change	nongold
+61	seconds are a kind of unit for measuring time	nongold
+62	greatest means largest; highest; most amount of something	nongold
+63	solid is a kind of state of matter	nongold
+64	higher means greater; above in value; amount; number	nongold
+65	measuring is a kind of observing	nongold
+66	high is similar to increase	nongold
+67	a type is synonymous with a kind	nongold
+68	astronomy is the study of celestial (objects, bodies)	nongold
+69	measuring sometimes requires  recording; learning an amount	nongold
+70	observations; data are a part of the results of an experiment	nongold
+71	affected means changed	nongold
+72	seconds are used to measure time	nongold
+73	mass has no impact on boiling; melting; freezing point	nongold
+74	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+75	freezing point is a kind of physical property	nongold
+76	days are a kind of unit for measuring time	nongold
+77	as the temperature of an object increases , the size of that object will increase	nongold
+78	unit is similar to part	nongold
+79	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+80	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+81	air temperature is a kind of temperature	nongold
+82	a graduated cylinder is a kind of instrument for measuring volume of liquids or objects	nongold
+83	a boiling point can be used for identifying a liquid	nongold
+84	greater means higher; more in value	nongold
+85	an part of an object is smaller than the entire object	nongold
+86	to turn means to change	nongold
+87	water is a kind of matter	nongold
+88	a container contains objects; material; substances	nongold
+89	minutes are a kind of unit for measuring time	nongold
+90	a centimeter is a kind of unit of measurement	nongold
+91	an anemometer is a kind of instrument for measuring wind speed	nongold
+92	an instrument is a piece of equipment	nongold
+93	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+94	a component means a part of	nongold
+95	a metal is usually a solid at room temperature	nongold
+96	a centimeter is used for measuring short lengths; short distances	nongold
+97	hot means high in heat energy; temperature	nongold
+98	months are a kind of unit for measuring time	nongold
+99	temperature  is a property of air mass and includes ordered values of cold; warm	nongold
+100	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+101	length is a part of size	nongold

@@ -1,0 +1,100 @@
+0	Which item would a magnet attract?	question
+1	iron nail	answer
+2	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+3	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+4	a nail is a kind of object	gold
+5	iron nails are made of iron	nongold
+6	nails are often made of iron	nongold
+7	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+8	soft iron; iron is always ferromagnetic; magnetic	nongold
+9	a magnet is a kind of object	nongold
+10	iron is always magnetic	gold
+11	iron is a kind of metal	gold
+12	if something contains a large amount of magnetic material then that something will attract magnets	nongold
+13	an object is an item	gold
+14	metal is sometimes magnetic	nongold
+15	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	gold
+16	iron is a kind of solid	nongold
+17	if a magnet is attracted to a metal then that magnet will stick to that metal	nongold
+18	a device is a kind of object	nongold
+19	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold
+20	metal is a kind of substance	nongold
+21	steel; carbon steel is always ferromagnetic; magnetic	nongold
+22	metal is a kind of material	gold
+23	a tool is a kind of object	nongold
+24	iron is a kind of element	nongold
+25	objects are made of materials; substances; matter	nongold
+26	magnetism is a kind of physical property	nongold
+27	magnetic attraction pulls two objects together	nongold
+28	Magnetite is always magnetic	nongold
+29	iron is a kind of mineral	nongold
+30	attract means move closer	nongold
+31	iron filings are made of small pieces of iron	nongold
+32	magnetism is a kind of force	nongold
+33	materials are made of matter	nongold
+34	pull is similar to attract	nongold
+35	magnetic force means magnetism	nongold
+36	magnetism can cause objects to repel each other	nongold
+37	to touch means to contact	nongold
+38	substances are made of matter	nongold
+39	magnetism is a kind of energy	nongold
+40	attracting is a kind of function; activity	nongold
+41	magnetic separation is using a magnet to attract magnetic material from the mixture of magnetic and nonmagnetic material	nongold
+42	ferrous metals contain iron	nongold
+43	if an object is made of a material then that object has the properties of that material	gold
+44	magnetism can affect objects that are not touching	nongold
+45	steel is a kind of metal	nongold
+46	an electrical charge can attract objects to other objects	nongold
+47	device means tool	nongold
+48	metal is a thermal; thermal energy conductor	nongold
+49	material means substance	nongold
+50	an object has properties	nongold
+51	a surface is a part of a material	nongold
+52	a surface is a part of an object	nongold
+53	if battery in an electromagnet is active then the nail in the electromagnet will become magnetic	nongold
+54	can be means able to be	nongold
+55	touch is a kind of sense	nongold
+56	hematite is always ferromagnetic; magnetic	nongold
+57	an iron chain is made of iron	nongold
+58	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+59	metals are made of metal	nongold
+60	matter; materials; substances are made of atoms; particles	nongold
+61	a hammer is a kind of object	nongold
+62	stainless steel is always magnetic; nonmagnetic	nongold
+63	a finger is a part of a hand	nongold
+64	magnet can be  used for separating a magnetic material from a mixture of a magnetic and nonmagnetic material	nongold
+65	pewter is always nonmagnetic	nongold
+66	an element is a kind of material	nongold
+67	a hand is a kind of object	nongold
+68	affected means changed	nongold
+69	a surface is a kind of object	nongold
+70	a piece of something is a kind of object	nongold
+71	a magnet contains a north pole; south pole	nongold
+72	feeling is when an living thing senses through touch	nongold
+73	size of the object attracted by the electromagnet has no impact on the strength of the electromagnet	nongold
+74	rocks sometimes contain iron	nongold
+75	a metal is a kind of element	nongold
+76	magnetic energy is a kind of energy	nongold
+77	a bar of copper is a kind of object	nongold
+78	an electromagnet is a kind of electric magnet	nongold
+79	Siderite is always magnetic	nongold
+80	a physical property is a kind of property	nongold
+81	a source of something emits; produces; generates; provides that something	nongold
+82	a sheet of copper is a kind of object	nongold
+83	a hammer often is made of metal	nongold
+84	attracting something to a location causes that something  to be near that location	nongold
+85	a horseshoe magnet is a kind of magnet	nongold
+86	the chemical symbol for iron is Fe	nongold
+87	wood is always nonmagnetic	nongold
+88	an animal is a kind of living thing	nongold
+89	a living thing is a kind of object	nongold
+90	instrument means tool	nongold
+91	a machine is a kind of  device	nongold
+92	metal is an  electrical; electrical energy conductor	nongold
+93	copper is a kind of metal	nongold
+94	a machine is a kind of object	nongold
+95	an object is made of its parts	nongold
+96	conductivity is a kind of physical property	nongold
+97	a molecule is a kind of object	nongold
+98	emit means produce	nongold
+99	a magnetic field is a kind of force	nongold

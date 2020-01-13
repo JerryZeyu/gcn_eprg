@@ -1,0 +1,102 @@
+0	Which object most likely has magnetic properties?	question
+1	iron nail	answer
+2	a nail is a kind of object	gold
+3	iron nails are made of iron	gold
+4	nails are often made of iron	nongold
+5	soft iron; iron is always ferromagnetic; magnetic	nongold
+6	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+7	a magnet is a kind of object	nongold
+8	iron is always magnetic	gold
+9	an electromagnet is a kind of electric magnet	nongold
+10	magnetism is a kind of physical property	nongold
+11	iron is a kind of metal	nongold
+12	iron is a kind of element	nongold
+13	metal is sometimes magnetic	nongold
+14	iron is a kind of solid	nongold
+15	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	gold
+16	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	nongold
+17	Magnetite is always magnetic	nongold
+18	steel; carbon steel is always ferromagnetic; magnetic	nongold
+19	metal is a kind of substance	nongold
+20	an object has properties	nongold
+21	cobalt is always ferromagnetic; magnetic	nongold
+22	aluminum is a kind of matter	nongold
+23	a physical property is a kind of property	nongold
+24	an electromagnet is a kind of device	nongold
+25	if an object is made of a material then that object has the properties of that material	gold
+26	if battery in an electromagnet is active then the nail in the electromagnet will become magnetic	nongold
+27	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold
+28	aluminum is a kind of metal	nongold
+29	aluminum is a kind of element	nongold
+30	aluminum is always nonmagnetic	nongold
+31	zinc is a kind of metal	nongold
+32	often is similar to likely	nongold
+33	zinc is always nonmagnetic	nongold
+34	metal is a kind of material	nongold
+35	the core of an electromagnet is the metal	nongold
+36	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+37	objects are made of materials; substances; matter	nongold
+38	stainless steel is always magnetic; nonmagnetic	nongold
+39	nickel is always ferromagnetic; magnetic	nongold
+40	a device is a kind of object	nongold
+41	Cadmium is always magnetic	nongold
+42	conductivity is a kind of physical property	nongold
+43	solid is a kind of state of matter	nongold
+44	Chromite is always magnetic	nongold
+45	a metal is a kind of element	nongold
+46	lead is always nonmagnetic	nongold
+47	iron is a kind of mineral	nongold
+48	mercury  is a kind of metal	nongold
+49	state of matter at room temperature is a kind of physical property	nongold
+50	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+51	a metal is usually a solid at room temperature	nongold
+52	an element is a kind of  substance	nongold
+53	copper is a kind of element	nongold
+54	state of matter is a kind of physical property	nongold
+55	iron filings are made of small pieces of iron	nongold
+56	bronze is always nonmagnetic	nongold
+57	substances are made of matter	nongold
+58	melting point is a property of a substance; material	nongold
+59	metals are made of metal	nongold
+60	chromium is always nonmagnetic	nongold
+61	a solid is a kind of substance	nongold
+62	mercury is a kind of element	nongold
+63	lead is a kind of element	nongold
+64	zinc is a kind of mineral	nongold
+65	an element is a kind of material	nongold
+66	tungsten is a kind of metal	nongold
+67	copper is a kind of metal	nongold
+68	pewter is always nonmagnetic	nongold
+69	tin is always nonmagnetic	nongold
+70	magnetism is a kind of force	nongold
+71	copper is always nonmagnetic	nongold
+72	silver is always nonmagnetic	nongold
+73	a wax crayon is made of wax	nongold
+74	if something contains a large amount of magnetic material then that something will attract magnets	nongold
+75	materials are made of matter	nongold
+76	magnetic force means magnetism	nongold
+77	an insulator is a kind of material	nongold
+78	steel is a kind of metal	nongold
+79	matter; materials; substances are made of atoms; particles	nongold
+80	all elements are a kind of pure substance	nongold
+81	an alkaline earth metal is a kind of element	nongold
+82	an alloy is made of two or more metals	nongold
+83	gold is always nonmagnetic	nongold
+84	Siderite is always magnetic	nongold
+85	a horseshoe magnet is a kind of magnet	nongold
+86	electromagnets generate magnetic fields	nongold
+87	silver is a kind of metal	nongold
+88	Barite is always magnetic	nongold
+89	Platinum is always magnetic	nongold
+90	wax is an electrical; electrical energy insulator	nongold
+91	conductivity is a property of a material; substance	nongold
+92	wax is always nonmagnetic	nongold
+93	chromium is a kind of metal	nongold
+94	particles in objects are a kind of matter	nongold
+95	gold is a kind of element	nongold
+96	an electromagnet requires a ferrous metal to be the core	nongold
+97	Ferberite is always magnetic	nongold
+98	bronze is a kind of alloy	nongold
+99	magnet can be  used for separating a magnetic material from a mixture of a magnetic and nonmagnetic material	nongold
+100	substances are made of elements	nongold
+101	salt is always nonmagnetic	nongold

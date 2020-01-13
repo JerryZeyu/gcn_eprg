@@ -1,0 +1,70 @@
+0	an object; material; substance comes from that object or material's source	nongold
+1	chemical energy is a kind of energy	nongold
+2	thermal energy is a kind of energy	nongold
+3	heat means temperature increases	nongold
+4	a source of something increases the amount of that something	nongold
+5	energy conversion is similar to energy transformation	nongold
+6	a source of heat can be used to heat something	nongold
+7	Hand dryer	answer
+8	a human is a kind of animal	nongold
+9	Which item is designed to change electrical energy into heat energy?	question
+10	electricity means electrical energy	gold
+11	Which item is designed to change electrical energy into heat energy?	question
+12	electrical energy is a kind of energy	gold
+13	to change means to have an effect	nongold
+14	a hand dryer produces heat	gold
+15	Which item is designed to change electrical energy into heat energy?	question
+16	Hand dryer	answer
+17	washing clothes requires water use	nongold
+18	a vehicle is a kind of object	nongold
+19	Which item is designed to change electrical energy into heat energy?	question
+20	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+21	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+22	wet is the opposite of dry	nongold
+23	a device is a kind of object	gold
+24	a hand dryer is a kind of electrical device for drying hair	gold
+25	if something emits something else then that something increases the amount of that something else	nongold
+26	electrical energy is a kind of energy	gold
+27	wood is a thermal; thermal energy insulator	nongold
+28	electricity means electrical energy	gold
+29	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+30	if an object is made of a material then that object has the properties of that material	nongold
+31	absorbing energy causes objects; materials; substances to heat	nongold
+32	an object is an item	gold
+33	heat is a kind of energy	gold
+34	energy transformation means one kind of energy changes into another kind of energy	nongold
+35	heat energy  can be used to heat up  an object	nongold
+36	a hand dryer produces heat	gold
+37	an increase is a kind of change	nongold
+38	wood is an thermal; thermal energy insulator	nongold
+39	to convert means to change	gold
+40	Hand dryer	answer
+41	heat is a kind of energy	gold
+42	water is an thermal; thermal energy conductor	nongold
+43	if something transfers something else then that something is a source of something else	nongold
+44	a hand dryer is a kind of electrical device for drying hair	gold
+45	an object is an item	gold
+46	drying means amount of water; amount of liquid; wetness decreases	nongold
+47	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+48	can be means able to be	nongold
+49	a hand dryer is a kind of electrical device for drying hair	gold
+50	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+51	electrical energy is a kind of energy	gold
+52	a machine is a kind of object	nongold
+53	solar energy is a kind of heat energy	nongold
+54	heat is a kind of energy	gold
+55	heat means the transfer of thermal energy	nongold
+56	metal is an  electrical; electrical energy conductor	nongold
+57	if the component of something changed , then the whole thing will change	nongold
+58	a device is a kind of object	gold
+59	a device is a kind of object	gold
+60	to convert means to change	gold
+61	an object is an item	gold
+62	a hand dryer produces heat	gold
+63	to convert means to change	gold
+64	to modify means to change	nongold
+65	a product is a kind of object	nongold
+66	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+67	household appliances are a kind of electrical device	nongold
+68	Hand dryer	answer
+69	electricity means electrical energy	gold

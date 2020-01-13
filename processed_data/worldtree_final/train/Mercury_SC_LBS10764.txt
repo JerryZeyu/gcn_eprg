@@ -1,0 +1,101 @@
+0	When a thin slice from an onion is viewed through a microscope, lots of little box-like shapes are seen. These shapes are most likely	question
+1	cells.	answer
+2	a plant cell is box-like in shape	gold
+3	lots means much	nongold
+4	a lot means large in amount; quantity	nongold
+5	a microscope is a kind of tool for observing small things	nongold
+6	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+7	a box is a kind of object	nongold
+8	an onion is a kind of vegetable	gold
+9	a living thing is made of cells	nongold
+10	a cell is a kind of object	nongold
+11	a plant cell is a kind of cell	nongold
+12	an animal cell is a kind of cell	nongold
+13	little means small	gold
+14	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+15	a living thing is a kind of object	nongold
+16	a cell is very small	gold
+17	microscopic means very small in size	nongold
+18	little means low in amount	nongold
+19	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+20	seeing is used for sensing visual things	nongold
+21	visible means able to be seen	nongold
+22	to view means to see	nongold
+23	a plant is made of plant cells	nongold
+24	thin means small in width	nongold
+25	shape is a property of an object	nongold
+26	form means kind	nongold
+27	a human cell is a kind of cell	nongold
+28	often is similar to likely	nongold
+29	structure is similar to shape	nongold
+30	a plant is a kind of living thing	nongold
+31	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+32	to see means to look	nongold
+33	an electron microscope is used for seeing very small objects by making them appear bigger	nongold
+34	an animal is a kind of living thing	nongold
+35	answering questions requires information	nongold
+36	objects are made of materials; substances; matter	nongold
+37	little is similar to decrease	nongold
+38	observe means see	nongold
+39	shape is a kind of physical property	nongold
+40	an animal is a kind of organism	nongold
+41	a plant is a kind of organism	nongold
+42	an organism is a living thing	nongold
+43	look at means observe	nongold
+44	shape is a kind of characteristic	nongold
+45	shape is a property of the appearance of an object	nongold
+46	an part of an object is smaller than the entire object	nongold
+47	if something is visible , then that something can be observed	nongold
+48	sight means to see	nongold
+49	can be means able to be	nongold
+50	size; amount of space means volume	nongold
+51	viewing means observing light	nongold
+52	all living things are made of cells according to the cell theory	nongold
+53	the shape  of an object can be discovered through feeling that object; touching that object	nongold
+54	material means substance	nongold
+55	shape of the parts of something is a property of that something	nongold
+56	a type is synonymous with a kind	nongold
+57	high means a lot of something	nongold
+58	particles in objects are a kind of matter	nongold
+59	food is a kind of object	nongold
+60	a structure of something is synonymous with a part of that something	nongold
+61	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+62	a landform is a kind of object	nongold
+63	a source of something emits; produces; generates; provides that something	nongold
+64	image means visual depiction of an object	nongold
+65	structure is a property of an object; a material; a substance	nongold
+66	eyes are usually part of an animal for seeing	nongold
+67	an object is made of its parts	nongold
+68	food is a kind of substance	nongold
+69	composed of means made of	nongold
+70	eyes are a part of a human for seeing	nongold
+71	plant cells can perform photosynthesis	nongold
+72	a human is a kind of animal	nongold
+73	studying  something usually requires seeing that something	nongold
+74	amount is similar to number	nongold
+75	plant and animal matter means organic matter	nongold
+76	a unicellular organism has one cell	nongold
+77	length is a part of size	nongold
+78	greatest means largest; highest; most amount of something	nongold
+79	if something is made of something; a material then that something contains that something; that material	nongold
+80	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+81	small is the opposite of large	nongold
+82	a cell nucleus is a part of a cell	nongold
+83	instrument means device	nongold
+84	most means over 50% of something	nongold
+85	matter; materials; substances are made of atoms; particles	nongold
+86	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+87	observable means visible	nongold
+88	length is a property of the shape of an object	nongold
+89	a component of something means a part of that something	nongold
+90	life means living things	nongold
+91	to show means to display	nongold
+92	if an object is made of something then the parts of that object are made of that something	nongold
+93	all cells perform cellular respiration	nongold
+94	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+95	the parent cell is the original cell	nongold
+96	made up of means contains; made of	nongold
+97	to be formed by is similar to being produced by	nongold
+98	elliptical is a kind of shape	nongold
+99	elliptical is a kind of shape	nongold
+100	cutting means changing the object from a whole into smaller pieces	nongold

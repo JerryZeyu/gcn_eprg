@@ -1,0 +1,101 @@
+0	Which of these stars is most similar to the Sun?	question
+1	the main sequence star Alpha Mensae	answer
+2	main-sequences stars are a kind of star	nongold
+3	Alpha Mensae is a kind of main-sequence star	gold
+4	a yellow dwarf is a kind of main-sequence star	gold
+5	the Sun is a kind of star	nongold
+6	main sequence is a kind of stage in the life cycle of a star	nongold
+7	the sun is a kind of yellow dwarf	gold
+8	main-sequence stars are generally yellow	nongold
+9	a star is a kind of celestial object; celestial body	gold
+10	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+11	a star produces light and heat	nongold
+12	stars spend most of their life cycle in the main sequence stage	nongold
+13	a star is usually larger than a planet	nongold
+14	Proxima Centauri is a kind of star	nongold
+15	a star is a source of light; light energy through nuclear reactions	nongold
+16	red giant stars have greater volume than main sequence stars	nongold
+17	astronomy is the study of celestial (objects, bodies)	nongold
+18	not is similar to the opposite of	nongold
+19	yellow dwarf is a kind of small star	nongold
+20	a planet is a kind of celestial object; body	nongold
+21	if something is copied then that something will be the same; similar; identical	nongold
+22	made of is similar to contains	nongold
+23	stars are located light years apart from each other	nongold
+24	to change means to become different	nongold
+25	the sun is a source of light; light energy called sunlight	nongold
+26	stellar means related to stars	nongold
+27	the sun is average in size for a star in our galaxy	nongold
+28	to be formed by is similar to being produced by	nongold
+29	to be believed to be is similar to maybe	nongold
+30	a white dwarf is a kind of star	nongold
+31	to give is similar to to cause	nongold
+32	different is the opposite of the same	nongold
+33	if something changes , then that something is not the same	nongold
+34	opposite is a kind of different	nongold
+35	Mars is a kind of planet	nongold
+36	if something is not the same as something else then that something is different from that something else	nongold
+37	planets orbit stars	nongold
+38	can be means able to be	nongold
+39	similar means in common	nongold
+40	the Sun is the  star that is closest to Earth	nongold
+41	composed of means made of	nongold
+42	a cluster of stars is made of stars	nongold
+43	according to is similar to be determined by	nongold
+44	determine is similar to cause	nongold
+45	in common is similar to the same	nongold
+46	stars can be classified by temperature; color; chemical composition; brightness	nongold
+47	a galaxy is made of stars	nongold
+48	a type is synonymous with a kind	gold
+49	red giant stars burn at cooler temperatures than main sequence stars	nongold
+50	form means kind	nongold
+51	to be made of something means to be formed of that something	nongold
+52	mostly means being the most	nongold
+53	certain is similar to specific	nongold
+54	a star's type is determined by the star's mass	nongold
+55	a constellation contains stars	nongold
+56	identical is the opposite of different	nongold
+57	high is similar to increase	nongold
+58	often is similar to likely	nongold
+59	unit is similar to part	nongold
+60	provide is similar to give; make	nongold
+61	stars generally have the same chemical composition	nongold
+62	greatest means largest; highest; most amount of something	nongold
+63	affected means changed	nongold
+64	another means different	nongold
+65	if two things perform the same function then those two things are similar	nongold
+66	if two things are made from the same objects; material then those two things are similar	nongold
+67	Maine is a state located in the United States of America	nongold
+68	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+69	each is similar to individual	nongold
+70	the sun is not a star in the night sky	nongold
+71	Mars is a kind of inner planet	nongold
+72	similarity means the same property	nongold
+73	both means two	nongold
+74	to enable is similar to cause	nongold
+75	the sun is a source of radiation; heat called sunlight	nongold
+76	a galaxy is a kind of very large system of stars	nongold
+77	usually means most of the time	nongold
+78	the chemistry of something is similar to what that something is made of	nongold
+79	planets have cleared their orbits	nongold
+80	variable means able to change	nongold
+81	the Sun has average brightness compared to other stars	nongold
+82	a source of something emits; produces; generates; provides that something	nongold
+83	producing is similar to causing	nongold
+84	largest amount means most	nongold
+85	Earth is a kind of planet	nongold
+86	binary stars can be used to determine a star's mass	nongold
+87	decomposing is similar to separating	nongold
+88	a star requires energy	nongold
+89	to contain means to have inside	nongold
+90	made up of means contains; made of	nongold
+91	a component means a part of	nongold
+92	sunlight is a kind of light	nongold
+93	resemble means similar characteristics	nongold
+94	if two things have the same features then those two things are alike	nongold
+95	no longer means used to be	nongold
+96	same means identical; equal in value; amount; number; quantity	nongold
+97	answering questions requires information	nongold
+98	a star is made of gases	nongold
+99	the sun is average in temperature  for a star in our galaxy	nongold
+100	identical means copy	nongold

@@ -1,0 +1,102 @@
+Question	Some scientists think their new car fuel will produce fewer chemicals than burning gasoline. The scientists test their hypothesis by performing several trials to compare the fuels. If the results of the trials agree with their hypothesis, in which area will their research most likely help?	question
+Answer	reducing air pollution	answer
+0	burning gasoline; oil is a source of air pollution	gold
+1	helping something has a  positive impact on that something	gold
+2	to help; to benefit means to be of use	nongold
+3	gasoline is a kind of fuel	nongold
+4	to help means to aid	nongold
+5	trial is synonymous with test	nongold
+6	pollution has a negative impact on the environment; air quality; water quality; society	gold
+7	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+8	pollution is a source of pollutants	nongold
+9	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	nongold
+10	many vehicles emit pollution into the air	nongold
+11	to be used  for something means to help to do that something	nongold
+12	pollution is a kind of environmental problem	nongold
+13	fewer means lower; less in number	gold
+14	to reduce means to decrease	gold
+15	using a car causes pollution	nongold
+16	helping means something can be done; completed more easily; better	nongold
+17	pollutants have a negative impact on the environment; air quality	nongold
+18	chemicals means substances	nongold
+19	humans cause pollution	nongold
+20	harming something has a  negative impact on; effect on that something	nongold
+21	an environment means an area	nongold
+22	decreasing something negative has a positive impact on a thing	gold
+23	using gasoline is a source of carbon dioxide	nongold
+24	fossil fuels burning causes pollution	nongold
+25	to produce means to result in	nongold
+26	to repeat an experiment means to perform multiple trials of the same experiment	nongold
+27	experiment is synonymous with test	nongold
+28	a hypothesis is a kind of scientific term	nongold
+29	negative impact is the opposite of positive impact	nongold
+30	less is similar to decrease	nongold
+31	a source of something emits; produces; generates; provides that something	nongold
+32	helping means to assist in a change	nongold
+33	if something causes an increase in something else then that something produces that something else	nongold
+34	if something is required for a process then that something positively impacts that process	nongold
+35	electricity causes less pollution than gasoline	nongold
+36	gasoline is a source of chemical energy	nongold
+37	decreasing something positive has a negative impact on a thing	nongold
+38	something harmful can cause harm	nongold
+39	reducing is a kind of change	nongold
+40	producing is similar to causing	nongold
+41	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+42	a car is a kind of automobile	nongold
+43	a scientist is a kind of human	nongold
+44	less is the opposite of more	nongold
+45	to contribute is similar to produce	nongold
+46	to lower means to decrease	gold
+47	often is similar to likely	nongold
+48	automobiles; industrialization are a source of carbon dioxide	nongold
+49	lower means less	nongold
+50	chemicals can be pollutants	gold
+51	gasoline is a kind of chemical power source	nongold
+52	classifying requires comparing	nongold
+53	polluting gasses are a kind of pollution	nongold
+54	a car is a kind of vehicle	nongold
+55	burning is a kind of action	nongold
+56	an increase is the opposite of a decrease	nongold
+57	a car is a kind of object	nongold
+58	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+59	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+60	requiring is similar to needing help	nongold
+61	a positive impact is a helpful effect	nongold
+62	to be helpful means to help to do	nongold
+63	oil is a source of gasoline	nongold
+64	operating an automobile usually requires fossil fuels	nongold
+65	an automobile is a kind of vehicle	nongold
+66	comparing requires measuring	nongold
+67	comparing data increases; improves the likelihood of obtaining accurate experiment results	nongold
+68	a theory is more accepted; tested than a hypothesis	nongold
+69	living things in a polluted environment often contain pollutants	nongold
+70	solution is similar to a positive impact	nongold
+71	producing is a kind of process	nongold
+72	comparing requires observing that something	nongold
+73	less means a reduced amount	nongold
+74	greatest means largest; highest; most amount of something	nongold
+75	oil is a kind of fossil fuel	nongold
+76	burning a living thing usually causes harm to that living thing	nongold
+77	using the fuel requires burning the fuel	nongold
+78	a problem has a negative impact on a thing	nongold
+79	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+80	if something emits something else then that something increases the amount of that something else	nongold
+81	good means positive	nongold
+82	burning fossil fuels increases the carbon in the atmosphere	nongold
+83	converting is similar to producing	nongold
+84	increase means more	nongold
+85	most means over 50% of something	nongold
+86	a concern; a problem is a possible negative impact	nongold
+87	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+88	a source of something increases the amount of that something	nongold
+89	result means outcome	nongold
+90	a decrease is a kind of change	nongold
+91	low is similar to decrease	nongold
+92	oil is a kind of pollutant	nongold
+93	little is similar to decrease	nongold
+94	if a living thing requires something then that something has a positive impact on that living thing	nongold
+95	make means produce	nongold
+96	a human is a kind of animal	nongold
+97	fossil fuel contains chemical energy	nongold
+98	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	nongold
+99	high is similar to increase	nongold

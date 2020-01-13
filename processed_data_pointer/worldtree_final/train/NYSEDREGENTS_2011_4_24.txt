@@ -1,0 +1,101 @@
+0	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+1	to be used for something means to be required by that something	nongold
+2	a component of something means a part of that something	nongold
+3	a bad reaction to medicine is a kind of problem	nongold
+4	exercise has a  positive impact on a body's strength	nongold
+5	an increase is a kind of change	nongold
+6	an increase is the opposite of a decrease	nongold
+7	high-quality means positive	nongold
+8	a human is a kind of animal	nongold
+9	eating certain foods is a kind of habit	nongold
+10	a source of something emits; produces; generates; provides that something	nongold
+11	an organism is a living thing	nongold
+12	rest has a  positive impact on a health	nongold
+13	if a living thing requires something then that something has a positive impact on that living thing	nongold
+14	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+15	all the time means at day and at night	nongold
+16	negative impact is the opposite of positive impact	nongold
+17	usually means most of the time	nongold
+18	exercising every day	answer
+19	sleeping all day has a  negative impact on a human's health	nongold
+20	reproducing is a kind of activity	nongold
+21	less is similar to decrease	nongold
+22	doing chores is a learned characteristic	nongold
+23	exercising is a kind of habit	gold
+24	daily means every day; once per day	nongold
+25	exercising causes the body to become stronger	nongold
+26	useful means good to use	nongold
+27	solution is similar to a positive impact	nongold
+28	an event is a kind of action	nongold
+29	cure means solution to being sick	nongold
+30	a living thing is a kind of object	nongold
+31	if something has a positive impact on health then that something can help to maintain good health	nongold
+32	requiring is similar to needing help	nongold
+33	to improve means to have a positive impact	nongold
+34	washing is a kind of activity	nongold
+35	food is a kind of substance	nongold
+36	to produce means to create	nongold
+37	healthy means not having disease	nongold
+38	a part of a process means a stage in a process	nongold
+39	the body is a part of an organism	nongold
+40	creating is a kind of activity	nongold
+41	low is similar to decrease	nongold
+42	exercise is a kind of physical activity	gold
+43	an animal requires enough nutrients to maintain good health; survive	nongold
+44	answering questions requires information	nongold
+45	once per means every	nongold
+46	food is a kind of object	nongold
+47	beneficial means helpful	nongold
+48	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+49	undertaking is similar to doing	nongold
+50	to enhance means to increase	nongold
+51	a function is an activity	nongold
+52	healing requires rest; nutrients; energy	nongold
+53	reading is a kind of activity	nongold
+54	better means good	nongold
+55	process is similar to method	nongold
+56	emit means produce	nongold
+57	helping means something can be done; completed more easily; better	nongold
+58	a human requires sleep; rest to be healthy	nongold
+59	the day time is part of one day	nongold
+60	the afternoon is  a part of the day	nongold
+61	high is similar to increase	gold
+62	exercise means physical fitness	gold
+63	trait is synonymous with characteristic	nongold
+64	a kind of something is an example of that something	gold
+65	a process is a kind of event	nongold
+66	best means most positive	nongold
+67	to create means to make	nongold
+68	an animal is a kind of living thing	nongold
+69	typically means usually	nongold
+70	dying is the opposite of living; surviving	nongold
+71	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+72	aspect of something is similar to part of something	nongold
+73	an animal is a kind of organism	nongold
+74	can be means able to be	nongold
+75	everyday means daily	nongold
+76	a positive impact is  a benefit	nongold
+77	skills are learned characteristics; behaviors	nongold
+78	Which activity is an example of a good health habit?	question
+79	human is a kind of organism	nongold
+80	action means activity	nongold
+81	person is synonymous with human	nongold
+82	generally means usually	nongold
+83	a process usually requires all of the stages in that process	nongold
+84	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+85	nutrients are a kind of substance	nongold
+86	exercise increases a body's strength	gold
+87	a type is synonymous with a kind	nongold
+88	rest is a kind of activity	nongold
+89	a person is a kind of animal	nongold
+90	helping something has a  positive impact on that something	nongold
+91	good means positive	gold
+92	a component means a part of	nongold
+93	afternoon is a part of day time	nongold
+94	adding is a kind of activity	nongold
+95	exercise has a positive impact on a human's health	gold
+96	life means living things	nongold
+97	to impact means to affect	nongold
+98	harming something has a  negative impact on; effect on that something	nongold
+99	to be good for means to have a positive impact on	nongold
+100	a body system is a part of the body; an animal	nongold

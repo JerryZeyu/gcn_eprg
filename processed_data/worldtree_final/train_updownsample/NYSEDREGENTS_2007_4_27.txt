@@ -1,0 +1,76 @@
+0	the sunlight occurs during the day	nongold
+1	solar energy is a kind of heat energy	nongold
+2	the Sun	answer
+3	nutrients are a source of energy for living things	nongold
+4	change is a kind of impact	nongold
+5	a human is a kind of animal	nongold
+6	an animal; living thing requires nutrients for survival	gold
+7	a plant is a kind of living thing	gold
+8	living things all require energy for survival	nongold
+9	life means living things	gold
+10	a  plant requires sunlight for photosynthesis	gold
+11	if something is a raw material in a process then that something is required for that process	nongold
+12	the Sun is the  star that is closest to Earth	nongold
+13	Living things depend on energy from	question
+14	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+15	an animal is a kind of living thing	gold
+16	Living things depend on energy from	question
+17	requiring something means needing that something	nongold
+18	the sun is a source of light; light energy called sunlight	gold
+19	an animal is a kind of living thing	gold
+20	what something needs is a property of that something	nongold
+21	all living things have life cycles	nongold
+22	answering questions requires information	nongold
+23	sunshine means sunlight	nongold
+24	an animal; living thing requires nutrients for survival	gold
+25	a star is a kind of celestial object; celestial body	nongold
+26	the sun is a source of light; light energy called sunlight	gold
+27	resources sometimes are used for energy	nongold
+28	a plant is a kind of living thing	gold
+29	the sun  is the source of energy for physical cycles on Earth	gold
+30	if a living thing requires something then that something has a positive impact on that living thing	nongold
+31	eating; taking in food is used to get nutrients;energy by animals; living things	gold
+32	solar energy is a kind of light	nongold
+33	the sun is the source of energy for life on Earth	gold
+34	to depend on; to rely on; to need means to require	gold
+35	an animal; living thing requires nutrients for survival	gold
+36	to depend on; to rely on; to need means to require	gold
+37	to depend on; to rely on; to need means to require	gold
+38	the Sun	answer
+39	life means living things	gold
+40	a  plant requires sunlight for photosynthesis	gold
+41	food is a source of energy for animals; plants	gold
+42	an organism is a living thing	nongold
+43	the sun  is the source of energy for physical cycles on Earth	gold
+44	a process usually requires all of the stages in that process	nongold
+45	if something requires something else then that something requires a source of that something else	nongold
+46	the Sun	answer
+47	solar energy is a kind of energy	nongold
+48	living things require respiration to use energy	nongold
+49	food is a source of energy for animals; plants	gold
+50	if something requires something else then that something else is important to that something	nongold
+51	an increase is a kind of change	nongold
+52	eating; taking in food is used to get nutrients;energy by animals; living things	gold
+53	a producer is a kind of living thing	nongold
+54	the sun is the source of energy for life on Earth	gold
+55	the sun  is the source of energy for physical cycles on Earth	gold
+56	light is a kind of energy	nongold
+57	the sun is the source of energy for life on Earth	gold
+58	if something transfers something else then that something is a source of something else	nongold
+59	the Sun	answer
+60	a living thing is a kind of object	nongold
+61	a  plant requires sunlight for photosynthesis	gold
+62	the sun is a source of radiation; heat called sunlight	nongold
+63	if something is required for a process then that something positively impacts that process	nongold
+64	Living things depend on energy from	question
+65	eating; taking in food is used to get nutrients;energy by animals; living things	gold
+66	the sun is a source of light; light energy called sunlight	gold
+67	if something causes a process then that something is required for that process	nongold
+68	a planet is a kind of celestial object; body	nongold
+69	living things carry out basic life functions	nongold
+70	needing something means depending on that something	nongold
+71	life means living things	gold
+72	a plant is a kind of living thing	gold
+73	food is a source of energy for animals; plants	gold
+74	an animal is a kind of living thing	gold
+75	Living things depend on energy from	question

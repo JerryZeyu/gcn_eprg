@@ -1,0 +1,102 @@
+Question	Diesel engines can burn many kinds of fuel. Which fuel would be the most renewable fuel for a diesel engine?	question
+Answer	organically produced vegetable oil	answer
+0	vegetable oil is a kind of fuel	gold
+1	vegetable oil is a renewable resource	gold
+2	oil is a kind of fossil fuel	nongold
+3	renewable is the opposite of nonrenewable	nongold
+4	a vegetable is a kind of plant	nongold
+5	gasoline is a kind of fuel	nongold
+6	using a gasoline engine requires burning  gasoline	nongold
+7	a vegetable is a kind of food	nongold
+8	make means produce	nongold
+9	oil is a source of gasoline	nongold
+10	green plants are a kind of producer	nongold
+11	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+12	an onion is a kind of vegetable	nongold
+13	a producer produces its own food	nongold
+14	a fossil fuel is a kind of natural resource	nongold
+15	an organism is a source of organic material	nongold
+16	using gasoline is a source of carbon dioxide	nongold
+17	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+18	organic is similar to natural	nongold
+19	oil is a kind of substance; matter	nongold
+20	In the food chain process a  green plant has the role of  producer	nongold
+21	if something is a raw material in a process then that something is required for that process	nongold
+22	oil is a nonrenewable resource	nongold
+23	a source of something emits; produces; generates; provides that something	nongold
+24	a producer is a kind of living thing	nongold
+25	burning is a kind of action	nongold
+26	gasoline is a source of chemical energy	nongold
+27	fossil fuel contains chemical energy	nongold
+28	converting is similar to producing	nongold
+29	to combust means to catch fire	nongold
+30	crops are a kind of edible plant for eating	nongold
+31	using the fuel requires burning the fuel	nongold
+32	a plant is a kind of organism	nongold
+33	combustion means fire converts chemical energy into light energy and heat energy	nongold
+34	producing is a kind of process	nongold
+35	form means kind	nongold
+36	a renewable resource is a kind of naturally replaced resource	nongold
+37	a fire requires  oxygen to burn	nongold
+38	production is similar to making	nongold
+39	fossil fuels are a nonrenewable resource	nongold
+40	to be used for something means to be required by that something	nongold
+41	if something requires something else then that something requires a source of that something else	nongold
+42	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+43	gasoline is a kind of chemical power source	nongold
+44	oil is a kind of liquid	nongold
+45	oil is a kind of liquid	nongold
+46	a renewable resource is a kind of natural resource	nongold
+47	fire causes burning	nongold
+48	a plant is a kind of living thing	nongold
+49	powering is similar to fueling	nongold
+50	a renewable resource is a natural resource	nongold
+51	synthesize means to make	nongold
+52	burning gasoline; oil is a source of air pollution	nongold
+53	petroleum is a kind of fossil fuel	nongold
+54	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+55	gas-efficient engines use less gas	nongold
+56	burning gasoline is a source of  heat energy	nongold
+57	fossil fuels burning causes pollution	nongold
+58	products are formed; are produced; are created	nongold
+59	fuel contains chemical energy	nongold
+60	an inexhaustible resource is a kind of renewable resource	nongold
+61	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+62	most means over 50% of something	nongold
+63	provide is similar to give; make	nongold
+64	burning fossil fuels increases the carbon in the atmosphere	nongold
+65	generate means produce	nongold
+66	to be formed by is similar to being produced by	nongold
+67	to produce means to provide	nongold
+68	natural gas is used for cooking food by burning	nongold
+69	to depend on; to rely on; to need means to require	nongold
+70	wood burns	nongold
+71	to contribute is similar to produce	nongold
+72	organic compounds mainly are made of carbon; hydrogen; oxygen; nitrogen	nongold
+73	to provide something means to be the source of that something	nongold
+74	combustion is a kind of chemical change	nongold
+75	a combustion engine requires fuel to operate	nongold
+76	natural gas is a kind of fossil fuel	nongold
+77	fire gives off light; heat; smoke	nongold
+78	cooking oil is a kind of oil	nongold
+79	alternative fuel is usually a renewable resource	nongold
+80	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+81	fossil fuels have high potential energy	nongold
+82	manufacture means make	nongold
+83	producing electricity sometimes requires burning oil	nongold
+84	if something is a raw material then that something comes directly from a source	nongold
+85	renewable resources are replenished more quickly than they are used	nongold
+86	renewable resources can be used over again	nongold
+87	less is the opposite of more	nongold
+88	biogas means biofuel	nongold
+89	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+90	plants are a source of oxygen through photosynthesis	nongold
+91	if something comes from something else then that something else is a source of that something	nongold
+92	emit means produce	nongold
+93	fuel efficient means uses less fuel	nongold
+94	producing is similar to causing	nongold
+95	an organism is a source of organic matter	nongold
+96	an engine is a part of an automobile	nongold
+97	if something causes a process then that something is required for that process	nongold
+98	natural gas is a source of heat by burning	nongold
+99	can be means able to be	nongold

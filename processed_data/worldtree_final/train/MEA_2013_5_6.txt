@@ -1,0 +1,101 @@
+0	What information is needed to calculate the speed of a car?	question
+1	the distance travel	answer
+2	calculating speed requires knowing distance travelled	gold
+3	answering questions requires information	nongold
+4	an automobile is a kind of vehicle	nongold
+5	a car is a kind of vehicle	nongold
+6	a car is a kind of automobile	nongold
+7	a car is a kind of object	nongold
+8	a vehicle is used for travel	nongold
+9	a vehicle is a kind of tool for travel; transport	nongold
+10	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	gold
+11	to depend on; to rely on; to need means to require	nongold
+12	calculating is similar to estimating	nongold
+13	calculation means measurement	nongold
+14	distance moved; distance travelled is a measure of how far an object moves	nongold
+15	to measure means to calculate	nongold
+16	speed is a measure of how fast an object is moving	nongold
+17	a velocity is a measure of a speed in a direction	nongold
+18	a vehicle is a kind of object	nongold
+19	data means information	nongold
+20	furthest; farthest means greatest; most; highest in distance	nongold
+21	to be required means to be necessary	nongold
+22	to be used for something means to be required by that something	nongold
+23	information is used to describe something	nongold
+24	determining often requires measuring; observing	nongold
+25	a speedometer is a part of an automobile	nongold
+26	travel means to move	nongold
+27	measuring requires reading a measurement	nongold
+28	a measurement is a kind of data	nongold
+29	rate is similar to speed	nongold
+30	a car moves on a road	nongold
+31	timing; multiplying is a kind of calculating	nongold
+32	a speedometer is used for giving a driver feedback on the speed of their vehicle	nongold
+33	moving is similar to travelling	nongold
+34	speed is a property of an object and includes values of slow; fast	nongold
+35	a motion is a kind of event; action	nongold
+36	far means great in distance	nongold
+37	if a  car is being driven , then the car will be moving	nongold
+38	getting information sometimes requires observing; observation	nongold
+39	motion; movement means moving; to move	nongold
+40	a measure of time is a length of time	nongold
+41	faster means an increase; higher in speed	nongold
+42	stop; stopped means zero; 0; no speed	nongold
+43	motion is when moves an object; something to a direction	nongold
+44	location is a kind of information	nongold
+45	a calculator is used for adding; subtracting; multiplying; dividing	nongold
+46	knowing the properties of something means knowing information about that something	nongold
+47	if a property affects a value then that property is needed to calculate that value	nongold
+48	setting is a kind of motion	nongold
+49	travelling requires  navigation	nongold
+50	miles are a kind of unit for measuring distance	nongold
+51	a vehicle is used for transportation	nongold
+52	a calculator is a kind of tool	nongold
+53	curiosity means the need to know new information	nongold
+54	measuring is used for describing an object	nongold
+55	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+56	indication is similar to a piece of information	nongold
+57	fastest means greatest in  speed	nongold
+58	a property is a kind of information	nongold
+59	instruction is a kind of information	nongold
+60	high is similar to increase	nongold
+61	transport means to move; to make travel	nongold
+62	instantaneously means short in time	nongold
+63	events occur at a specific place; at a specific time; with a specific frequency	nongold
+64	learning; studying information causes one to know that information	nongold
+65	affected means changed	nongold
+66	length of time means period of time	nongold
+67	far is the opposite of close	nongold
+68	high speed means fast	nongold
+69	mass is a kind of information	nongold
+70	a computer is used for communication; finding information	nongold
+71	navigation requires knowing direction	nongold
+72	a description sometimes provides information	nongold
+73	if a wheel travels on a surface then the wheel touches that surface	nongold
+74	variable means able to change	nongold
+75	movement is a kind of change	nongold
+76	a unit for measuring time is a kind of time interval	nongold
+77	an event is a kind of action	nongold
+78	determining the type of an organism requires having information about that organism	nongold
+79	wheels are a part of a car	nongold
+80	length is a measure of distance from one end of an object to the other end of that object	nongold
+81	determining is similar to learning	nongold
+82	fast means quickly	nongold
+83	how long something takes is a kind of measurement of time	nongold
+84	a road is a kind of object	nongold
+85	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+86	slowest means lowest in  speed	nongold
+87	can be means able to be	nongold
+88	communicating means sharing information	nongold
+89	An example of collecting data is measuring	nongold
+90	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+91	trait is a kind of genetic information	nongold
+92	a machine is a kind of object	nongold
+93	faster means increased rate	nongold
+94	locating means determining	nongold
+95	to slow; to slow down decreases speed	nongold
+96	approximately means about	nongold
+97	to pass means to travel	nongold
+98	a vehicle transmits something	nongold
+99	a source of something emits; produces; generates; provides that something	nongold
+100	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold

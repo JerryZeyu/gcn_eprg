@@ -1,0 +1,1 @@
+2019-12-06 12:09:37,841 - test_06_12_2019_12:09:37 - [INFO] - {'data': 'cora', 'gpu': '0', 'name': 'test_06_12_2019_12:09:37', 'lr': 0.01, 'max_epochs': 200, 'l2': 0.0005, 'seed': 1234, 'opt': 'adam', 'gcn_dim': 16, 'dropout': 0.5, 'restore': False, 'log_dir': './log/', 'config_dir': './config/', 'model_dir': './models/', 'save_dir': './models//test_06_12_2019_12:09:37'}

@@ -1,0 +1,102 @@
+Question	What is one way that humans can maintain good health?	question
+Answer	exercise daily	answer
+0	an animal requires enough nutrients to maintain good health; survive	nongold
+1	exercise has a positive impact on a human's health	gold
+2	daily means every day; once per day	nongold
+3	everyday means daily	nongold
+4	if something has a positive impact on health then that something can help to maintain good health	gold
+5	exercise means physical fitness	nongold
+6	exercise is a kind of physical activity	nongold
+7	a human requires sleep; rest to be healthy	nongold
+8	good means positive	gold
+9	a human is a kind of animal	nongold
+10	better means good	nongold
+11	to be good for means to have a positive impact on	nongold
+12	exercise has a  positive impact on a body's strength	nongold
+13	to maintain means to not change	nongold
+14	person is synonymous with human	nongold
+15	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+16	helping something has a  positive impact on that something	nongold
+17	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+18	an animal is a kind of organism	nongold
+19	an animal is a kind of living thing	nongold
+20	human is a kind of organism	nongold
+21	rest has a  positive impact on a health	nongold
+22	if a living thing requires something then that something has a positive impact on that living thing	nongold
+23	exercise increases a body's strength	nongold
+24	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+25	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+26	an increase is the opposite of a decrease	nongold
+27	requiring is similar to needing help	nongold
+28	a person is a kind of animal	nongold
+29	maintain is similar to control	nongold
+30	negative impact is the opposite of positive impact	nongold
+31	physical fitness is an acquired characteristic	nongold
+32	best means most positive	nongold
+33	the body is a part of an organism	nongold
+34	high is similar to increase	nongold
+35	smoking tobacco decreases stamina; cardiovascular efficiency	nongold
+36	healthy means not having disease	nongold
+37	sleeping all day has a  negative impact on a human's health	nongold
+38	an organism is a living thing	nongold
+39	physical fitness is similar to athletic ability	nongold
+40	low is similar to decrease	nongold
+41	human is similar to individual	nongold
+42	a body system is a part of the body; an animal	nongold
+43	dying is the opposite of living; surviving	nongold
+44	to be used for something means to be required by that something	nongold
+45	can means having the ability to	nongold
+46	solution is similar to a positive impact	nongold
+47	requiring something means needing that something	nongold
+48	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+49	an animal; living thing requires nutrients for survival	nongold
+50	exercising is a kind of habit	nongold
+51	some types of new technology cause physical activity to decrease	nongold
+52	harming something has a  negative impact on; effect on that something	nongold
+53	the day time is part of one day	nongold
+54	An example of managing; maintaining the number; the use of something is replacing that something	nongold
+55	to depend on; to rely on; to need means to require	nongold
+56	to improve means to have a positive impact	nongold
+57	if something is required for a process then that something positively impacts that process	nongold
+58	little is similar to decrease	nongold
+59	less is similar to decrease	nongold
+60	a source of something emits; produces; generates; provides that something	nongold
+61	1 week is equal to 7 days	nongold
+62	an increase is a kind of change	nongold
+63	trait is synonymous with characteristic	nongold
+64	illness has a negative impact on an organism's health	nongold
+65	increase means more	nongold
+66	a process is a kind of event	nongold
+67	a part of a process means a stage in a process	nongold
+68	a process usually requires all of the stages in that process	nongold
+69	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+70	adverse effect means negative impact	nongold
+71	healing requires rest; nutrients; energy	nongold
+72	rest is a kind of activity	nongold
+73	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+74	1 day is equal to 24 hours	nongold
+75	a positive impact is  a benefit	nongold
+76	beneficial means helpful	nongold
+77	a decrease is a kind of change	nongold
+78	helping means something can be done; completed more easily; better	nongold
+79	decreasing something positive has a negative impact on a thing	nongold
+80	an event is a kind of action	nongold
+81	action means activity	nongold
+82	low is the opposite of high	nongold
+83	to enhance means to increase	nongold
+84	a component of something means a part of that something	nongold
+85	usually means most of the time	nongold
+86	able is the opposite of unable	nongold
+87	can be means able to be	nongold
+88	what something needs is a property of that something	nongold
+89	to impact means to affect	nongold
+90	a source of something increases the amount of that something	nongold
+91	being sick is a kind of problem; harm	nongold
+92	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+93	a food contains nutrients for living things	nongold
+94	nutrients are a kind of matter	nongold
+95	a component means a part of	nongold
+96	a positive impact is a helpful effect	nongold
+97	hard is the opposite of easy	nongold
+98	to help; to benefit means to be of use	nongold
+99	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold

@@ -1,0 +1,101 @@
+0	hydropower means hydroelectric power	nongold
+1	a plant is a kind of living thing	nongold
+2	renewable is the opposite of nonrenewable	nongold
+3	an event is a kind of action	nongold
+4	a source of something emits; produces; generates; provides that something	nongold
+5	hydroelectric power is a renewable resource	nongold
+6	plants are a kind of resource	nongold
+7	solar energy is a renewable; inexhaustible resource	gold
+8	if something is required then that something must be provided	nongold
+9	solar	answer
+10	resources sometimes are used for energy	nongold
+11	solar energy is a kind of heat energy	nongold
+12	a producer is a kind of living thing	nongold
+13	plants are a part of the environment	nongold
+14	a renewable resource is a kind of naturally replaced resource	nongold
+15	if something is powered by something else then that something requires a source of that something else	nongold
+16	to be used for something means to be required by that something	nongold
+17	an environment means an area	nongold
+18	if a living thing requires something then that something has a positive impact on that living thing	nongold
+19	electricity means electrical energy	nongold
+20	sunlight produces heat	nongold
+21	the sun is a source of radiation; heat called sunlight	nongold
+22	a  plant requires sunlight for photosynthesis	nongold
+23	emit means produce	nongold
+24	conserving resources has a positive impact on the environment	nongold
+25	a component of something means a part of that something	nongold
+26	negative impact is the opposite of positive impact	nongold
+27	nature means a natural environment	nongold
+28	causing is similar to generating	nongold
+29	solar energy rarely causes pollution	gold
+30	the solar system is a kind of system	nongold
+31	nature is the source of natural resources	nongold
+32	land is a kind of environment	nongold
+33	to be formed by is similar to being produced by	nongold
+34	a type is synonymous with a kind	nongold
+35	fossil fuels are a nonrenewable resource	nongold
+36	a region is similar to an environment	nongold
+37	the atmosphere is a part of nature; the environment	nongold
+38	using renewable resources to generate power reduces greenhouse gases	nongold
+39	an inexhaustible resource is a kind of renewable resource	nongold
+40	a source of something increases the amount of that something	nongold
+41	Las Vegas has access to renewable resources for generation of electrical power, which includes hydroelectric power. Which of these energy resources is renewable and available to generate electricity in Las Vegas without degrading the environment?	question
+42	oil is a kind of fossil fuel	nongold
+43	if something requires something else then that something requires a source of that something else	nongold
+44	hydroelectric power is a kind of natural resource	nongold
+45	if something is a raw material in a process then that something is required for that process	nongold
+46	generate means produce	nongold
+47	a component means a part of	nongold
+48	to power means to provide energy for	nongold
+49	if something causes a process then that something is required for that process	nongold
+50	an increase is the opposite of a decrease	nongold
+51	the sun is the source of solar energy called sunlight	nongold
+52	solar energy is an inexhaustible resource	nongold
+53	solar energy is a kind of light	nongold
+54	fossil fuels are a kind of energy resource	nongold
+55	solar energy is a source of electricity	nongold
+56	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+57	to reduce means to decrease	nongold
+58	an energy source is a kind of resource	nongold
+59	humans changing an environment sometimes causes that environment to be destroyed	nongold
+60	a hydroelectric plant produces hydropower	nongold
+61	a natural resource is a kind of environmental factor	nongold
+62	a fossil fuel is a kind of natural resource	nongold
+63	natural gas is a kind of fossil fuel	nongold
+64	a climate is synonymous with an environment	nongold
+65	solar energy is a kind of energy	nongold
+66	requiring something means needing that something	nongold
+67	to provide something means to be the source of that something	nongold
+68	an environment is similar to an ecosystem	nongold
+69	answering questions requires information	nongold
+70	a producer is a source of energy for consumers	nongold
+71	producing renewable electric energy requires renewable resources	nongold
+72	if something emits something else then that something increases the amount of that something else	nongold
+73	water is a part of an environment	nongold
+74	green plants are a kind of producer	nongold
+75	an environment is a kind of place	nongold
+76	if something generates energy for something else then that something powers that something else	nongold
+77	hydroelectric power uses water to generate electricity	nongold
+78	electrical energy is a kind of energy	nongold
+79	sunlight means solar energy	nongold
+80	water is a renewable resource	nongold
+81	pollution has a negative impact on the environment; air quality; water quality; society	gold
+82	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+83	solar power means solar energy	nongold
+84	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+85	if something causes an increase in something else then that something produces that something else	nongold
+86	to generate means to form	nongold
+87	where something  comes from is a source of that something	nongold
+88	renewable resources are often available for many years	nongold
+89	generating power is a kind of positive impact	nongold
+90	a renewable resource is a kind of natural resource	nongold
+91	high is similar to increase	nongold
+92	if something is required for a process then that something positively impacts that process	nongold
+93	biogas means biofuel	nongold
+94	converting is similar to generating	nongold
+95	degrading is similar to having a negative impact	gold
+96	surroundings means environment	nongold
+97	sunlight is a kind of solar energy	nongold
+98	to depend on; to rely on; to need means to require	nongold
+99	resources becoming available has a positive impact on the things that need those resources	nongold
+100	to generate means to create	nongold

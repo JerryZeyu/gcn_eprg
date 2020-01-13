@@ -1,0 +1,102 @@
+Question	A star is a large astronomical body that	question
+Answer	emits light.	answer
+0	a star is a kind of celestial object; celestial body	gold
+1	astronomical body means celestial body	gold
+2	emit means produce	gold
+3	a source of something emits; produces; generates; provides that something	nongold
+4	sunlight is a kind of light	nongold
+5	small is the opposite of large	nongold
+6	astronomy is the study of celestial (objects, bodies)	nongold
+7	the Sun is a kind of star	nongold
+8	a star produces light and heat	gold
+9	to shine means to emit light	nongold
+10	a planet is a kind of celestial object; body	nongold
+11	the sun is a source of light; light energy called sunlight	nongold
+12	a moon is a kind of celestial object; body	nongold
+13	quasars emit large amounts of light	nongold
+14	where something  comes from is a source of that something	nongold
+15	a star is a source of light; light energy through nuclear reactions	nongold
+16	larger; bigger is the opposite of smaller	nongold
+17	a white dwarf is a kind of star	nongold
+18	emit means send out	nongold
+19	massive is similar to large	nongold
+20	a galaxy is a kind of very large system of stars	nongold
+21	sunlight is a kind of solar energy	nongold
+22	if something comes from something else then that something else is a source of that something	nongold
+23	solar radiation means solar energy	nongold
+24	can be means able to be	nongold
+25	astronomy is a kind of branch of science	nongold
+26	yellow dwarf is a kind of small star	nongold
+27	solar energy is a kind of light	nongold
+28	visible light is a kind of  light	nongold
+29	light means light energy	nongold
+30	a galaxy is a kind of celestial body	nongold
+31	the sun is the source of solar energy called sunlight	nongold
+32	if something emits something else then that something increases the amount of that something else	nongold
+33	a galaxy is a kind of celestial body; celestial object	nongold
+34	a yellow dwarf is a kind of main-sequence star	nongold
+35	stellar means related to stars	nongold
+36	light is made of photons	nongold
+37	sunlight means solar energy	nongold
+38	UV light is a kind of light	nongold
+39	a living thing is a kind of object	nongold
+40	to be a source of something means to cause that something	nongold
+41	form is similar to body	nongold
+42	an event is a kind of action	nongold
+43	light is a kind of electromagnetic radiation	nongold
+44	larger means greater; higher; more; increase in size	nongold
+45	stars are located light years apart from each other	nongold
+46	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+47	sunlight produces heat	nongold
+48	an part of an object is smaller than the entire object	nongold
+49	if something transfers something else then that something is a source of something else	nongold
+50	a type is synonymous with a kind	nongold
+51	to be formed by is similar to being produced by	nongold
+52	a star is usually larger than a planet	nongold
+53	to give off means to be the source of	nongold
+54	a motion is a kind of event; action	nongold
+55	a galaxy is made of stars	nongold
+56	planets reflect the light of the sun	nongold
+57	the sun is a source of radiation; heat called sunlight	nongold
+58	Proxima Centauri is a kind of star	nongold
+59	an animal is a kind of living thing	nongold
+60	astronomical unit is a measure of distance between Earth and the Sun	nongold
+61	if something generates energy for something else then that something powers that something else	nongold
+62	light is a kind of wave	nongold
+63	a galaxy contains dust; stars; planets	nongold
+64	to reflect light means to scatter light	nongold
+65	dim means a small amount of light	nongold
+66	an object; material; substance comes from that object or material's source	nongold
+67	smaller means less; lower in size	nongold
+68	a nebula is a kind of celestial body	nongold
+69	moons are large; solid; spherical	nongold
+70	a quasar is a kind of distant celestial object; celestial body	nongold
+71	a physical property is a kind of property	nongold
+72	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+73	a whole is formed by its parts	nongold
+74	solar energy is a kind of heat energy	nongold
+75	causing is similar to generating	nongold
+76	main-sequences stars are a kind of star	nongold
+77	form means kind	nongold
+78	the sun is a kind of yellow dwarf	nongold
+79	a process is a kind of event	nongold
+80	composed of means made of	nongold
+81	to be made of something means to be formed of that something	nongold
+82	bright means a lot of light	nongold
+83	radiation means radiant energy	nongold
+84	to emit means to release	nongold
+85	generate means produce	nongold
+86	A celestial body is any identifiable object in space	nongold
+87	a component of something means a part of that something	nongold
+88	little means small	nongold
+89	to illuminate means to light up	nongold
+90	typically means usually	nongold
+91	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+92	events occur at a specific place; at a specific time; with a specific frequency	nongold
+93	a type of something is a kind of property of that something	nongold
+94	answering questions requires information	nongold
+95	something that happens is a kind of event	nongold
+96	fire gives off light; heat; smoke	nongold
+97	the sun rising and setting causes cycles of day and night	nongold
+98	a human is a kind of animal	nongold
+99	cycles of day and night occur once per day	nongold

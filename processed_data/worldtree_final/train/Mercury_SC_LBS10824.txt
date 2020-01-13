@@ -1,0 +1,99 @@
+0	Which pair of English and metric units has most nearly the same value?	question
+1	liter and quart	answer
+2	a liter is 1.06 quart	gold
+3	quarts ( qt ) is a imperial unit used for measuring volume generally used for values between 1.0 and 4.0	gold
+4	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	gold
+5	liters are a kind of unit for measuring volume of liquids	nongold
+6	pair means two	nongold
+7	a gram  is a kind of unit for measuring mass	nongold
+8	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+9	same means identical; equal in value; amount; number; quantity	nongold
+10	both means two	nongold
+11	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+12	most means over 50% of something	nongold
+13	an ounce is a kind of unit for measuring mass	nongold
+14	quail are a kind of bird	nongold
+15	a meter is a kind of unit for measuring distance; measuring length	nongold
+16	unit is similar to part	nongold
+17	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+18	different is the opposite of the same	nongold
+19	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+20	pair is a kind of combination	nongold
+21	a human is a kind of animal	nongold
+22	an animal is a kind of living thing	nongold
+23	fluid ounce ( fl oz ) is a imperial unit used for measuring volume generally used for values between 0.125 and 8.0	nongold
+24	usually means most of the time	nongold
+25	a ratio is a measure of  one value divided by another value	nongold
+26	the  property of something is the same for the things of same kind	nongold
+27	one is a kind of number	nongold
+28	greatest means largest; highest; most amount of something	nongold
+29	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+30	if something changes , then that something is not the same	nongold
+31	classifying is when one sorts something by kind; type	nongold
+32	in common is similar to the same	nongold
+33	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+34	stay the same means not changing	nongold
+35	a type is synonymous with a kind	nongold
+36	gallons ( gal ) is a imperial unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+37	furthest; farthest means greatest; most; highest in distance	nongold
+38	mostly means being the most	nongold
+39	quantity means amount	nongold
+40	all the other means the rest of	nongold
+41	greater means higher; more in value	nongold
+42	can be means able to be	nongold
+43	ounces ( oz ) are a  imperial unit used for measuring weight generally used for values between 1.0 and 16.0	nongold
+44	a living thing is a kind of object	nongold
+45	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+46	milliliters ( mL ) is a metric unit used for measuring volume generally used for values between 1.0 and 1000.0	nongold
+47	not is similar to the opposite of	nongold
+48	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+49	person is synonymous with human	nongold
+50	if something has no impact on something else then that something else stays the same	nongold
+51	high is similar to increase	nongold
+52	identical is the opposite of different	nongold
+53	measuring requires reading a measurement	nongold
+54	opposite is a kind of different	nongold
+55	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+56	another means different	nongold
+57	affected means changed	nongold
+58	measuring is used for describing an object	nongold
+59	a centimeter is a kind of unit of measurement	nongold
+60	an animal is a kind of organism	nongold
+61	to be made of something means to be formed of that something	nongold
+62	length is a part of size	nongold
+63	variable means able to change	nongold
+64	to be a combination of means to be made of	nongold
+65	best means most positive	nongold
+66	an event is a kind of action	nongold
+67	the volume of an object can be used to describe  the size of that object	nongold
+68	higher means greater; above in value; amount; number	nongold
+69	composed of means made of	nongold
+70	each is similar to individual	nongold
+71	made up of means contains; made of	nongold
+72	to be made of means to consist of	nongold
+73	classifying means grouping objects; materials by their properties	nongold
+74	largest amount means most	nongold
+75	an object is made of its parts	nongold
+76	the properties of something are used for describing that something	nongold
+77	if something is copied then that something will be the same; similar; identical	nongold
+78	to measure means to calculate	nongold
+79	typically means usually	nongold
+80	astronomical unit is a measure of distance between Earth and the Sun	nongold
+81	amount is similar to number	nongold
+82	to change means to become different	nongold
+83	degrees celsius ( C ) is a metric unit used for measuring temperature generally used for values between -273.0 and 50000000.0	nongold
+84	the number of parts of something is a property of that something	nongold
+85	a measurement is a kind of data	nongold
+86	to belong to a class means to be a kind of something	nongold
+87	the head is a part of an animal	nongold
+88	extreme means very high in value	nongold
+89	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+90	to remain means to stay the same	nongold
+91	the parts of something make up that something	nongold
+92	if a value decreases then that value may become; may reach zero; 0	nongold
+93	cubic centimeter ( cm^3 ) is a metric unit used for measuring volume	nongold
+94	to tell the difference between things means to classify those things	nongold
+95	if a property affects a value then that property is needed to calculate that value	nongold
+96	calculation means measurement	nongold
+97	density is a measure of mass of an object over volume; divided by volume	nongold
+98	a component means a part of	nongold

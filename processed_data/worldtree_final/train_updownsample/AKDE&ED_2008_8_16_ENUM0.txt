@@ -1,0 +1,68 @@
+0	resemble means similar characteristics	nongold
+1	Genes are unable to determine a person's	question
+2	an animal is a kind of living thing	gold
+3	a type is synonymous with a kind	nongold
+4	the ability to do means be able to do	nongold
+5	to lack means to not have	nongold
+6	physical fitness is similar to athletic ability	gold
+7	potential is a kind of ability	nongold
+8	genes are able to determine the inherited characteristics of a living thing	gold
+9	Genes are unable to determine a person's	question
+10	physical fitness is similar to athletic ability	gold
+11	Genes are unable to determine a person's	question
+12	performance is similar to ability	nongold
+13	a person is a kind of animal	nongold
+14	eye color is an inherited characteristic	nongold
+15	an organism is a living thing	nongold
+16	strong means high in strength	nongold
+17	able is the opposite of unable	gold
+18	tall means great in height	nongold
+19	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+20	cannot means not be able to	nongold
+21	physical fitness is similar to athletic ability	gold
+22	identifying is similar to determining	nongold
+23	athletic ability.	answer
+24	playing with toys is a learned characteristic	nongold
+25	experimentation requires measuring	nongold
+26	physical fitness is an acquired characteristic	gold
+27	athletic ability.	answer
+28	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+29	what an object is made of is a kind of characteristic	nongold
+30	variable means able to change	nongold
+31	traits can be determined by one pair; many pairs of genes in an organism	nongold
+32	classifying is a kind of skill	nongold
+33	a learned characteristic is a kind of acquired characteristic	nongold
+34	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+35	determining the type of an organism requires having information about that organism	nongold
+36	an inherited characteristic is a kind of characteristic	nongold
+37	genes are able to determine the inherited characteristics of a living thing	gold
+38	conditioned behavior is a kind of learned behavior	nongold
+39	a kind of something is an example of that something	nongold
+40	low is similar to decrease	nongold
+41	athletic ability.	answer
+42	ability is a kind of characteristic	nongold
+43	according to is similar to be determined by	nongold
+44	an animal is a kind of living thing	gold
+45	genotype of  an organism means the genes of  an organism	nongold
+46	physical fitness is an acquired characteristic	gold
+47	person is synonymous with human	gold
+48	a brain is a part of an animal	nongold
+49	Genes are unable to determine a person's	question
+50	physical fitness is an acquired characteristic	gold
+51	person is synonymous with human	gold
+52	an animal is a kind of living thing	gold
+53	a human is a kind of animal	gold
+54	a human is a kind of animal	gold
+55	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+56	athletic ability.	answer
+57	a part of something means a characteristic of something	nongold
+58	able is the opposite of unable	gold
+59	height is an inherited characteristic	nongold
+60	genes are able to determine the inherited characteristics of a living thing	gold
+61	greatest means largest; highest; most amount of something	nongold
+62	skills often require practice	nongold
+63	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+64	able is the opposite of unable	gold
+65	a human is a kind of animal	gold
+66	genetic; hereditary means of genes; heredity	nongold
+67	person is synonymous with human	gold

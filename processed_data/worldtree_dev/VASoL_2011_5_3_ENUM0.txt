@@ -1,0 +1,102 @@
+Question	To make an electromagnet, a conductor should be coiled around -	question
+Answer	an iron nail	answer
+0	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold
+1	iron nails are made of iron	gold
+2	a nail is a kind of object	nongold
+3	nails are often made of iron	nongold
+4	an electromagnet is a kind of electric magnet	nongold
+5	an electromagnet contains a wire; cylindrical ferrous metal	gold
+6	an electromagnet is a kind of device	nongold
+7	a conducting metal loop is a kind of electromagnet	nongold
+8	metal is an  electrical; electrical energy conductor	gold
+9	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+10	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+11	soft iron; iron is always ferromagnetic; magnetic	gold
+12	the core of an electromagnet is the metal	nongold
+13	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	nongold
+14	an electromagnet requires a ferrous metal to be the core	gold
+15	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	nongold
+16	if battery in an electromagnet is active then the nail in the electromagnet will become magnetic	nongold
+17	manufacture means make	nongold
+18	iron is a kind of metal	gold
+19	iron filings are made of small pieces of iron	nongold
+20	metal is a kind of material	nongold
+21	make means produce	nongold
+22	electricity means electrical energy	nongold
+23	a wire is a part of an electrical circuit for conducting electricity	nongold
+24	a magnet is a kind of object	nongold
+25	conductivity is a property of a material; substance	nongold
+26	electromagnets can be powered by electricity	nongold
+27	objects are made of materials; substances; matter	nongold
+28	moving a coil of wire in the magnetic field generates electrical current	nongold
+29	if an object is made of a material then that object has the properties of that material	nongold
+30	a magnet moving in a coil of copper wire can cause an electric current	nongold
+31	metal is a kind of substance	nongold
+32	iron is a kind of solid	nongold
+33	steel; carbon steel is always ferromagnetic; magnetic	nongold
+34	a wire is usually made of metal	nongold
+35	metals are made of metal	nongold
+36	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+37	electromagnets generate magnetic fields	nongold
+38	a device is a kind of object	nongold
+39	to create means to make	nongold
+40	a wire is a kind of object	nongold
+41	plastic is a kind of electrical insulator	nongold
+42	iron is always magnetic	nongold
+43	conductivity is a measure of how easily electricity travels through a material	nongold
+44	plastic is usually an electrical insulator	nongold
+45	an insulator is a kind of material	nongold
+46	to make means to form	nongold
+47	metal is sometimes magnetic	nongold
+48	looping is similar to wrapping	nongold
+49	magnetic force means magnetism	nongold
+50	a  rubber eraser is made of rubber	nongold
+51	an insulator is the opposite of a conductor	nongold
+52	electricity is made of moving charges; moving charged particles	nongold
+53	a larger power source provides more current to a wire; a conductor; an electromagnet	nongold
+54	substances are made of matter	nongold
+55	materials are made of matter	nongold
+56	electrical insulation requires wrapping a conductor in an insulator	nongold
+57	metal is a thermal; thermal energy conductor	nongold
+58	a tool is a kind of object	nongold
+59	material means substance	nongold
+60	instrument means device	nongold
+61	to be made of something means to be formed of that something	nongold
+62	a surface is a part of a material	nongold
+63	metal is usually flexible	nongold
+64	a crayon is a kind of object	nongold
+65	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+66	wiring requires an electrical conductor	nongold
+67	matter; materials; substances are made of atoms; particles	nongold
+68	an alloy is made of two or more metals	nongold
+69	passing a magnet through a closed loop of wire generates an electric current	nongold
+70	electric devices require electrical energy to function	nongold
+71	to cause means to make	nongold
+72	magnetism does not require contact between objects to act	nongold
+73	a crayon is a kind of solid	nongold
+74	a paper clip is often made of magnetic metals; ferromagnetic metals	nongold
+75	magnet can be  used for separating a magnetic material from a mixture of a magnetic and nonmagnetic material	nongold
+76	device means tool	nongold
+77	iron is a kind of element	nongold
+78	a horseshoe magnet is a kind of magnet	nongold
+79	Magnetite is always magnetic	nongold
+80	steel is a kind of metal	nongold
+81	to make possible means to be required	nongold
+82	a screw is a kind of object	nongold
+83	an iron chain is made of iron	nongold
+84	electric currents produce magnetic fields	nongold
+85	to assemble means to make	nongold
+86	an object is made of its parts	nongold
+87	conductivity is a kind of physical property	nongold
+88	a metal rod is a kind of object	nongold
+89	a wax crayon is made of wax	nongold
+90	emit means produce	nongold
+91	aluminum is a kind of metal	nongold
+92	size of the object attracted by the electromagnet has no impact on the strength of the electromagnet	nongold
+93	rubber is thermal;thermal energy insulator	nongold
+94	magnetism is a kind of force	nongold
+95	a metal is usually a solid at room temperature	nongold
+96	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+97	copper is a kind of metal	nongold
+98	a surface is a part of an object	nongold
+99	a thermal conductor is made of materials that conduct thermal energy	nongold

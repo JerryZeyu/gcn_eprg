@@ -1,0 +1,102 @@
+Question	Which best explains why some reptiles and amphibians lay an abundance of eggs?	question
+Answer	It increases the chance of some eggs surviving to hatch.	answer
+0	amphibians lay eggs	nongold
+1	reptiles lay eggs	nongold
+2	amphibians hatch from eggs	nongold
+3	some adult animals lay eggs	nongold
+4	an amphibian is a kind of animal	nongold
+5	as the number of eggs laid by an animal increases , the number of eggs that hatch will increase	gold
+6	abundant means high in number	gold
+7	an increase is the opposite of a decrease	nongold
+8	amount is similar to abundance	nongold
+9	An example of reproduction is laying eggs	nongold
+10	survive means live	nongold
+11	survive means live	nongold
+12	a source of something increases the amount of that something	nongold
+13	an amphibian is a kind of vertebrate	nongold
+14	an organism is a living thing	nongold
+15	survival means to survive	nongold
+16	an animal; living thing requires nutrients for survival	nongold
+17	reptiles reproduce through internal fertilization	nongold
+18	an egg is a kind of object	nongold
+19	reproduction increases the number; population of a living thing	nongold
+20	high is similar to increase	gold
+21	a mammal is a kind of animal	nongold
+22	predators eat prey	nongold
+23	a living thing is a kind of object	nongold
+24	an animal is a kind of living thing	nongold
+25	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+26	laying eggs is a kind of property of an animal	nongold
+27	eating something decreases the amount of that something	nongold
+28	an egg is a kind of food	nongold
+29	chance means likelihood	nongold
+30	an animal being born; being hatched when food is available has a positive impact on that animal's survival; health	nongold
+31	if something emits something else then that something increases the amount of that something else	nongold
+32	frogs lay eggs	nongold
+33	to add means to increase	nongold
+34	if members of a species are born; survive then the population of that species increases	nongold
+35	low is similar to decrease	nongold
+36	to lower means to decrease	nongold
+37	some animals have offspring by laying eggs	nongold
+38	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+39	if an animal hatches from an egg then that animal is born	nongold
+40	positively impacting an organism's survival increases the likelihood of survival of that organism	nongold
+41	young means immature	nongold
+42	lack is similar to low; little	nongold
+43	to lack means to not have	nongold
+44	predators; carnivores; omnivores eat other animals	nongold
+45	less is similar to decrease	nongold
+46	population increase means more survive	nongold
+47	animals require fertilization to reproduce	nongold
+48	living things can all reproduce	nongold
+49	prey is a kind of food for predators	nongold
+50	dying is the opposite of living; surviving	nongold
+51	an amphibian is cold-blooded	nongold
+52	an animal is a member of an animal species	nongold
+53	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+54	nonliving; non-living; die is the opposite of living; alive; live	nongold
+55	an increase is a kind of change	nongold
+56	a decrease is a kind of change	nongold
+57	death means to die	nongold
+58	a food contains nutrients for living things	nongold
+59	a predator is a kind of animal	nongold
+60	carnivores; omnivores are predators	nongold
+61	having a positive impact on reproduction increases the chance of reproduction	nongold
+62	a hatchling is a kind of newborn; baby; young bird	nongold
+63	to reproduce means to have; to produce offspring	nongold
+64	preventing something decreases the amount of that something	nongold
+65	best means most positive	nongold
+66	an animal needs to eat food for nutrients	nongold
+67	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+68	adult amphibians live on land	nongold
+69	increase means more	nongold
+70	if an organism eats something then that something is a source of frood to that organism	nongold
+71	an animal is a kind of organism	nongold
+72	a lizard is a kind of animal	nongold
+73	if a living thing requires something then that something has a positive impact on that living thing	nongold
+74	carnivores only eat animals	nongold
+75	the amount of something is similar to the availability of something	nongold
+76	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+77	reproduction produces; produce offspring	nongold
+78	greater means higher; more in value	nongold
+79	an animal being born; being hatched when temperatures are warm has a positive impact on that animal's survival; health	nongold
+80	an egg requires warmth to survive; hatch; develop	nongold
+81	more likely means increased likelihood	nongold
+82	an animal is a kind of eukaryote	nongold
+83	amphibians undergo metamorphosis	nongold
+84	if something causes an increase in something else then that something produces that something else	nongold
+85	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+86	reptiles produce amniotic eggs	nongold
+87	getting something increases the amount of that something	nongold
+88	a predator eats other animals for food	nongold
+89	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+90	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+91	trait is synonymous with characteristic	nongold
+92	to reduce means to decrease	nongold
+93	to eat means to consume food	nongold
+94	life means living things	nongold
+95	as the cause of something decreases , that something will decrease	nongold
+96	harming something has a  negative impact on; effect on that something	nongold
+97	species means a group of like organisms	nongold
+98	newly hatched is similar to just born	nongold
+99	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold

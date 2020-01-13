@@ -1,0 +1,61 @@
+0	an event is a kind of action	nongold
+1	a body system is a kind of object	nongold
+2	an part of an object is smaller than the entire object	nongold
+3	the sun is the strongest source of gravity in the solar system	gold
+4	a star is a kind of celestial object; celestial body	gold
+5	strong means high in strength	nongold
+6	the sun is not a star in the night sky	nongold
+7	the Sun is a kind of star	gold
+8	to give is similar to to cause	nongold
+9	planets in the solar system orbit the Sun	nongold
+10	a star is a kind of celestial object; celestial body	gold
+11	a source of something emits; produces; generates; provides that something	nongold
+12	the Sun is a kind of star	gold
+13	the Sun is a kind of star	gold
+14	our Sun is located at the center of our solar system	gold
+15	a component of something means a part of that something	nongold
+16	the solar system contains the moon	nongold
+17	the Sun	answer
+18	a star is a kind of celestial object; celestial body	gold
+19	our Sun is located at the center of our solar system	gold
+20	the Sun	answer
+21	a moon is a kind of celestial object; body	nongold
+22	the sun is the strongest source of gravity in the solar system	gold
+23	composed of means made of	nongold
+24	the sun is  the largest celestial body in our solar system	nongold
+25	Which object has a gravitational force so strong that it forms the center of the solar system?	question
+26	to be made of something means to be formed of that something	nongold
+27	Earth is a kind of planet	nongold
+28	intense means extreme	nongold
+29	weak means low in strength	nongold
+30	to cause the formation of means to form	nongold
+31	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+32	the Earth revolves around the sun	nongold
+33	solar energy is a kind of light	nongold
+34	system means a set of objects	nongold
+35	a star is a source of light; light energy through nuclear reactions	nongold
+36	the Sun	answer
+37	to increase is similar to to create	nongold
+38	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+39	the sun is the strongest source of gravity in the solar system	gold
+40	a force is a kind of push or pull on an object	nongold
+41	force requires energy	nongold
+42	our Sun is located at the center of our solar system	gold
+43	Which object has a gravitational force so strong that it forms the center of the solar system?	question
+44	pulling is a kind of motion	nongold
+45	the sun is the source of solar energy called sunlight	nongold
+46	Which object has a gravitational force so strong that it forms the center of the solar system?	question
+47	gravitational fore is a kind of non-contact force	nongold
+48	sunlight is a kind of solar energy	nongold
+49	gravity pulls objects towards planets	nongold
+50	if it is night then the sun has set	nongold
+51	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+52	solar energy is a kind of heat energy	nongold
+53	the sun rising is a kind of event	nongold
+54	sunlight means solar energy	nongold
+55	the sun rises in the east	nongold
+56	if something weakens , then that something is weaker	nongold
+57	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+58	Which object has a gravitational force so strong that it forms the center of the solar system?	question
+59	to give off means to be the source of	nongold
+60	the Sun	answer

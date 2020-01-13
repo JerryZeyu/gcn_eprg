@@ -1,0 +1,102 @@
+Question	A water company uses lab tests on the water supply before sending the water through pipes to people's homes. How do these lab tests help people?	question
+Answer	by checking the water to make sure it is safe to drink	answer
+0	a lab test on a water supply is used for checking water to make sure it is safe to drink by water companies	gold
+1	sending a fluid; a liquid through a channel; through a pipe causes that fluid; that liquid to flow through that channel; through that pipe	nongold
+2	safe is the opposite of unsafe; harm; danger	nongold
+3	a pipe is a kind of object	nongold
+4	drinking is a kind of water use	nongold
+5	harming something has a  negative impact on; effect on that something	nongold
+6	a person is a kind of animal	nongold
+7	protecting something means preventing harm to that something	nongold
+8	to help means to aid	nongold
+9	to be used  for something means to help to do that something	nongold
+10	helping something has a  positive impact on that something	gold
+11	person is synonymous with human	gold
+12	to protect means to make safe	gold
+13	to help; to benefit means to be of use	nongold
+14	if a body of water has high turbidity levels then it is unsafe to drink	nongold
+15	a home is a kind of building	nongold
+16	testing often requires measuring	nongold
+17	warning people of dangers has a positive impact on the safety of those people	nongold
+18	water is a part of an environment	nongold
+19	water is a kind of liquid at room temperature	nongold
+20	lab equipment is often used for measuring; observing	nongold
+21	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+22	a human is a kind of animal	gold
+23	treating water is used to remove harmful substances before drinking	nongold
+24	water is a kind of substance	nongold
+25	helping means something can be done; completed more easily; better	nongold
+26	negative impact is the opposite of positive impact	nongold
+27	something harmful can cause harm	nongold
+28	something dangerous can cause harm	nongold
+29	helping means to assist in a change	nongold
+30	humans drink beverages	nongold
+31	adverse effect means negative impact	nongold
+32	requiring is similar to needing help	nongold
+33	a positive impact is a helpful effect	nongold
+34	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+35	to provide means to supply	nongold
+36	something hard; something strong can be used for protection	nongold
+37	the temperature; pH of water has an impact on the health of that water	nongold
+38	saving money has a positive impact on a person; a company	nongold
+39	a liquid is a kind of substance	nongold
+40	animals; living things require water for survival	nongold
+41	an animal is a kind of organism	nongold
+42	a supply of something is a source of that something	nongold
+43	a house is a kind of home	nongold
+44	a body of water is a source of water	nongold
+45	to be used for something means to be required by that something	nongold
+46	to send means to transfer	nongold
+47	harm means danger	nongold
+48	a body of water is a kind of environment	nongold
+49	being used for is similar to providing	nongold
+50	organisms are a part of an environment	nongold
+51	if a living thing requires something then that something has a positive impact on that living thing	nongold
+52	human is a kind of organism	nongold
+53	a body of water contains water	nongold
+54	to be helpful means to help to do	nongold
+55	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+56	experiment is synonymous with test	nongold
+57	liquid water is available  for organisms	nongold
+58	death means to die	nongold
+59	killing means harming something causing death	nongold
+60	to make something easier means to help	nongold
+61	a beverage is a kind of liquid	nongold
+62	harming an organism can cause that organism to die	nongold
+63	high is similar to increase	nongold
+64	a homeowner is a kind of human	nongold
+65	something that contains water is similar to a body of water	nongold
+66	low is similar to decrease	nongold
+67	inspect; observe means examine	nongold
+68	providing something means making;delivering something	nongold
+69	warning  people of something requires knowing about; predicting that something	nongold
+70	best means most positive	nongold
+71	to lower means to decrease	nongold
+72	good means positive	nongold
+73	to enable is to help	nongold
+74	solution is similar to a positive impact	nongold
+75	a person should be careful about something dangerous	nongold
+76	water is a kind of object	nongold
+77	trial is synonymous with test	nongold
+78	a source of something emits; produces; generates; provides that something	nongold
+79	water is a kind of natural resource	nongold
+80	water is a kind of natural resource	nongold
+81	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+82	high-quality means positive	nongold
+83	a resident is a kind of person	nongold
+84	inhibitor means something that prevents something from happening	nongold
+85	emit means send out	nongold
+86	a scientist is a kind of human	nongold
+87	to slow; to slow down decreases speed	nongold
+88	damage means harm	nongold
+89	answering questions requires information	nongold
+90	transferring is similar to supplying	nongold
+91	a plants; living things require water for survival; to grow	nongold
+92	to be in danger means to be around; to be near something dangerous	nongold
+93	being  on something; placed in something; placed over something means touching  that something	nongold
+94	humans cause pollution	nongold
+95	if something is required for a process then that something positively impacts that process	nongold
+96	an increase is the opposite of a decrease	nongold
+97	decreasing something negative has a positive impact on a thing	nongold
+98	the function of something is what that something  is used to do	nongold
+99	a negative impact is a kind of consequence; risk	nongold

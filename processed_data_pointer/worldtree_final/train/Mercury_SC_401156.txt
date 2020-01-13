@@ -1,0 +1,101 @@
+0	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+1	metals are made of metal	nongold
+2	household appliances are connected  in parallel circuit	nongold
+3	nonmetal means not metal	nongold
+4	metal is a thermal; thermal energy conductor	nongold
+5	substances are made of elements	nongold
+6	a home is a kind of building	nongold
+7	copper is a kind of metal	gold
+8	if something generates energy for something else then that something powers that something else	nongold
+9	electrical energy is a kind of energy	nongold
+10	an insulator is a kind of material	nongold
+11	wiring requires an electrical conductor	gold
+12	something is used for that something's purpose	nongold
+13	to use means to utilize	nongold
+14	emit means produce	nongold
+15	if something transfers something else then that something is a source of something else	nongold
+16	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+17	copper is always nonmagnetic	nongold
+18	an element is a kind of material	nongold
+19	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+20	where something  comes from is a source of that something	nongold
+21	to provide something means to be the source of that something	nongold
+22	if an object is made of a material then that object has the properties of that material	nongold
+23	all elements are a kind of pure substance	nongold
+24	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold
+25	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+26	material means substance	nongold
+27	a component of something means a part of that something	nongold
+28	An electrical conductor is a vehicle for the flow of electricity	nongold
+29	iron is a kind of metal	nongold
+30	electricity is used as an energy source by electrical devices	nongold
+31	a source of something emits; produces; generates; provides that something	nongold
+32	metal is a kind of material	nongold
+33	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+34	conductivity is a property of a material; substance	nongold
+35	a device is a kind of object	nongold
+36	insulation requires an insulator	nongold
+37	a circuit is a kind of electrical component	nongold
+38	wax is an electrical; electrical energy insulator	nongold
+39	conductivity is a kind of physical property	nongold
+40	carbon is a kind of element	nongold
+41	to depend on; to rely on; to need means to require	nongold
+42	steel is a kind of metal	nongold
+43	if something is powered by something else then that something requires a source of that something else	nongold
+44	zinc is a kind of metal	nongold
+45	electricity means electrical energy	nongold
+46	metal rusts	nongold
+47	an electromagnet is a kind of device	nongold
+48	a metal is a kind of element	nongold
+49	aluminum is a kind of metal	nongold
+50	a complete electrical circuit is a source of  electrical energy	nongold
+51	electrical devices are used for industrial purposes; household purposes by humans	nongold
+52	if something is a raw material then that something comes directly from a source	nongold
+53	if something requires something else then that something requires a source of that something else	nongold
+54	wood is a thermal; thermal energy insulator	nongold
+55	an element is a kind of  substance	nongold
+56	electrical insulation requires wrapping a conductor in an insulator	nongold
+57	a telephone is a kind of electrical device for communication	nongold
+58	a thermal conductor is made of materials that conduct thermal energy	nongold
+59	tungsten is a kind of metal	nongold
+60	metal is an  electrical; electrical energy conductor	gold
+61	copper is a kind of transition metal	nongold
+62	electrocution causes harm to an organism	nongold
+63	a house is a kind of home	nongold
+64	electromagnets can be powered by electricity	nongold
+65	if one electrical conductor contacts another electrical conductor then electricity will flow through both conductors	nongold
+66	if two things perform the same function then those two things are similar	nongold
+67	metal is a kind of natural resource	nongold
+68	a house is a kind of building	nongold
+69	aluminum is a kind of element	nongold
+70	a wire is a part of an electrical circuit for conducting electricity	nongold
+71	brick is an electrical; electrical energy insulator	nongold
+72	metal is a kind of substance	nongold
+73	if something comes from something else then that something else is a source of that something	nongold
+74	household appliances are a kind of electrical device	nongold
+75	metal is sometimes magnetic	nongold
+76	a machine is a kind of  device	nongold
+77	electricity sometimes is used for heating buildings; substances	nongold
+78	Copper is used in house wiring because it is	question
+79	conductivity is a measure of how easily electricity travels through a material	nongold
+80	wood is an thermal; thermal energy insulator	nongold
+81	aluminum is a kind of matter	nongold
+82	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+83	nonconductor is similar to insulator	nongold
+84	insulator means good insulator	nongold
+85	an insulator is the opposite of a conductor	nongold
+86	electric devices require electrical energy to function	nongold
+87	an electrical conductor.	answer
+88	copper is a kind of element	nongold
+89	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+90	to be used for something means to be required by that something	gold
+91	answering questions requires information	nongold
+92	a good conductor is a conductor	nongold
+93	device means tool	nongold
+94	to power means to provide energy for	nongold
+95	the function of something is what that something  is used to do	nongold
+96	a battery-operated device is a kind of electrical device	nongold
+97	an electromagnet is a kind of electric magnet	nongold
+98	a living thing is a kind of object	nongold
+99	an object; material; substance comes from that object or material's source	nongold
+100	ringing is a kind of function of a doorbell	nongold

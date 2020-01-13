@@ -1,0 +1,102 @@
+0	absorbing something harmful has a negative impact on a thing	nongold
+1	plants are a source of biofuel	nongold
+2	absorbing is a kind of function	nongold
+3	a process is a kind of event	nongold
+4	high is similar to increase	nongold
+5	green plants are a kind of producer	nongold
+6	the Earth absorbs more energy than it loses	nongold
+7	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+8	plants are a kind of resource	nongold
+9	resources sometimes are used for energy	nongold
+10	an event is a kind of action	nongold
+11	a chemical reaction is a kind of process	nongold
+12	if something emits something else then that something increases the amount of that something else	nongold
+13	to provide something means to be the source of that something	nongold
+14	plants are a source of oxygen through photosynthesis	nongold
+15	plant and animal matter means organic matter	nongold
+16	photosynthesizing means performing photosynthesis	gold
+17	a source of something emits; produces; generates; provides that something	nongold
+18	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+19	a plant requires photosynthesis to grow; survive	nongold
+20	sunlight means solar energy	nongold
+21	chemical reactions cause new substances; different substances to form	nongold
+22	a plant is a kind of organism	nongold
+23	cellular respiration is a kind of process	nongold
+24	to be used for something means to be required by that something	nongold
+25	most chemical reactions release or absorb heat energy	nongold
+26	if something causes a process then that something is required for that process	nongold
+27	photosynthesis stores; captures energy	nongold
+28	In the cellular respiration process heat is a by-product in animals	nongold
+29	chemical energy is a kind of energy	nongold
+30	vegetation means plants	nongold
+31	combustion means fire converts chemical energy into light energy and heat energy	nongold
+32	a leaf absorbs sunlight to perform photosynthesis	gold
+33	answering questions requires information	nongold
+34	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+35	respiration releases energy	nongold
+36	objects contain chemical energy	nongold
+37	an energy source is a kind of resource	nongold
+38	water absorbs light energy	nongold
+39	a step in a process means a stage in a process	nongold
+40	the photosynthetic life performs photosynthesis	nongold
+41	if something transfers energy to something else then that something else absorbs that energy	nongold
+42	take in means absorb	nongold
+43	plant cells can perform photosynthesis	nongold
+44	absorbing energy causes objects; materials; substances to heat	nongold
+45	to give off means to be the source of	nongold
+46	to add means to increase	nongold
+47	sunlight is a kind of solar energy	gold
+48	if something absorbs something else then that something will contain that something else	nongold
+49	nutrients are a source of energy for living things	nongold
+50	cellular energy is a kind of chemical energy	nongold
+51	In the photosynthesis process oxygen has the role of  waste product	nongold
+52	chlorophyll is used for absorbing light energy by plants	nongold
+53	cellular respiration is when a cell converts from oxygen and carbohydrates into carbon dioxide, water, and energy	nongold
+54	fossil fuel contains chemical energy	nongold
+55	when carbon dioxide in the atmosphere is absorbed by plants , the amount of carbon dioxide in the atmosphere is reduced in the atmosphere	nongold
+56	absorption is a kind of event	nongold
+57	a cycle is a kind of process	nongold
+58	to absorb means to capture	nongold
+59	a  plant requires sunlight for photosynthesis	nongold
+60	sunlight produces heat	nongold
+61	a tree is a kind of plant	nongold
+62	food is a source of energy for animals; plants	nongold
+63	solar energy is a kind of energy	gold
+64	solar energy is a kind of heat energy	nongold
+65	if something is a raw material in a process then that something is required for that process	nongold
+66	heat is a kind of energy	nongold
+67	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+68	evaporation is a kind of process	nongold
+69	photosynthesis is a kind of chemical  process	gold
+70	carbohydrates store chemical energy	nongold
+71	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+72	photosynthesis is a source of oxygen	nongold
+73	energy transformation means one kind of energy changes into another kind of energy	nongold
+74	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+75	photosynthesis is a kind of chemical reaction	nongold
+76	plants photosynthesizing	answer
+77	During which chemical process is energy absorbed?	question
+78	fossil fuels are a kind of energy resource	nongold
+79	absorbing is similar to obtaining	nongold
+80	if heat is added to a substance then that substance absorbs that heat	nongold
+81	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+82	a plant; living thing requires food for survival	nongold
+83	matter; energy is always conserved in any physical or chemical process	nongold
+84	food is a kind of chemical energy	nongold
+85	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+86	water absorbs solar energy in the water cycle	nongold
+87	a plant is a kind of living thing	nongold
+88	a part of a process means a stage in a process	nongold
+89	a process usually requires all of the stages in that process	nongold
+90	to be formed by is similar to being produced by	nongold
+91	absorption is a kind of process	nongold
+92	if the energy is  reflected before being absorbed , then the energy will be lost	nongold
+93	synthesize means to make	nongold
+94	In the food chain process a  green plant has the role of  producer	nongold
+95	using a raw material sometimes requires absorbing that raw material	nongold
+96	if something is required for a process then that something positively impacts that process	nongold
+97	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+98	emit means produce	nongold
+99	remaining energy not used by plants or transferred to consumers is released into the ecosystem as heat	nongold
+100	heat means heat energy	nongold
+101	material means substance	nongold

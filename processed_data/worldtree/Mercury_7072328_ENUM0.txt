@@ -1,0 +1,102 @@
+Question	The primary function of a doorbell circuit is to convert electrical energy into	question
+Answer	sound.	answer
+0	a doorbell converts electrical energy; electricity into sound energy	gold
+1	a doorbell is a kind of bell	nongold
+2	a doorbell is a kind of electric device	gold
+3	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+4	ringing is a kind of function of a doorbell	gold
+5	electricity means electrical energy	nongold
+6	sound means sound energy	nongold
+7	sound is a kind of sound energy	nongold
+8	the encoders in the telephone convert sound energy into electrical energy	nongold
+9	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+10	the function of something is what that something  is used to do	nongold
+11	a complete electrical circuit is a source of  electrical energy	nongold
+12	sound is produced when mechanical energy is transformed into sound energy	nongold
+13	sound is a kind of energy	nongold
+14	electrical energy is a kind of energy	nongold
+15	electric devices require electrical energy to function	nongold
+16	converting is a kind of function	nongold
+17	converting is similar to producing	nongold
+18	function is similar to purpose	nongold
+19	an electric motor converts electrical energy into mechanical energy	nongold
+20	a circuit is a kind of electrical component	nongold
+21	electricity is used as an energy source by electrical devices	nongold
+22	to transform means to convert	nongold
+23	a door is a kind of object	nongold
+24	closing an electric circuit causes an electrical device to function	gold
+25	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+26	role means function	nongold
+27	converting is similar to generating	nongold
+28	a bell ringing is a source of sound	nongold
+29	a source of something emits; produces; generates; provides that something	nongold
+30	electrical signals are made of electrical energy	nongold
+31	to convert means to change	nongold
+32	producing is a kind of function	nongold
+33	emit means produce	nongold
+34	if something performs a task then that task is that something's function	nongold
+35	household appliances are a kind of electrical device	nongold
+36	a machine is a kind of  device	nongold
+37	to power means to provide energy for	nongold
+38	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+39	electrical devices are used for industrial purposes; household purposes by humans	nongold
+40	generate means produce	nongold
+41	electromagnetic energy is a kind of energy	nongold
+42	to be a vehicle for is a kind of function	nongold
+43	a doorknob is a kind of object	nongold
+44	a generator converts kinetic energy into electrical energy; electricity	nongold
+45	conversion is a kind of process	nongold
+46	a device is a kind of object	nongold
+47	causing is a kind of function	nongold
+48	energy conversion is similar to energy transformation	nongold
+49	a mechanism is a kind of system that performs a function	nongold
+50	to work means to function	nongold
+51	forming is similar to converting	nongold
+52	to produce means to provide	nongold
+53	an object; material; substance comes from that object or material's source	nongold
+54	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+55	a generator is a kind of  device	nongold
+56	instrument means device	nongold
+57	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+58	if something generates energy for something else then that something powers that something else	nongold
+59	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+60	mechanical energy is a kind of energy	nongold
+61	a machine is a kind of object	nongold
+62	heat is a kind of energy	nongold
+63	an electric motor is a kind of electrical device	nongold
+64	a human is a kind of animal	nongold
+65	electrical impulses are a kind of electrical energy	nongold
+66	make means produce	nongold
+67	if something transfers something else then that something is a source of something else	nongold
+68	something is used for that something's purpose	nongold
+69	a hum is a kind of sound	nongold
+70	providing is a kind of function	nongold
+71	vibrating matter can produce sound	nongold
+72	a light bulb requires electrical energy to produce light	nongold
+73	flipping a switch completes an electrical circuit	nongold
+74	a device requires energy to operate	nongold
+75	if something comes from something else then that something else is a source of that something	nongold
+76	household appliances are connected  in parallel circuit	nongold
+77	a radio converts electrical energy into vibrations; sound energy	nongold
+78	a simple machine requires mechanical energy to function	nongold
+79	magnetic energy is a kind of energy	nongold
+80	operating electrical appliances requires electricity	nongold
+81	to convert means to exchange	nongold
+82	ringing is a kind of action	nongold
+83	musical instruments make sound when they are played	nongold
+84	convert is similar to transfer	nongold
+85	electrical current means electrical energy	nongold
+86	the formation of lightning converts mechanical energy into electrical energy	nongold
+87	chemical energy is a kind of energy	nongold
+88	if something converts one kind of energy into other kinds of energy then that something originally stores that energy as the first kind of energy	nongold
+89	a musical instrument is a kind of object	nongold
+90	where something  comes from is a source of that something	nongold
+91	to have a function is similar to to be responsible for	nongold
+92	a light bulb is a kind of electrical device	nongold
+93	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+94	material means substance	nongold
+95	objects are made of materials; substances; matter	nongold
+96	if two things perform the same function then those two things are similar	nongold
+97	to provide something means to be the source of that something	nongold
+98	can be means able to be	nongold
+99	an event is a kind of action	nongold

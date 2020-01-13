@@ -1,0 +1,65 @@
+0	something hard; something strong can be used for protection	gold
+1	scales are used for protection by scaled animals	gold
+2	a fish is a kind of scaled animal	gold
+3	a function is a kind of characteristic	nongold
+4	to be a vehicle for is a kind of function	nongold
+5	attracting is a kind of function; activity	nongold
+6	living things carry out basic life functions	nongold
+7	a function is an activity	nongold
+8	a predator usually kills its prey to eat it	nongold
+9	producing is a kind of function	nongold
+10	to have a function is similar to to be responsible for	nongold
+11	a fish is a kind of scaled animal	gold
+12	a scale is a part of a fish	gold
+13	an animal is a kind of living thing	nongold
+14	a scale is hard	gold
+15	to hurt means to harm	nongold
+16	a fish is a kind of animal	gold
+17	What is the main function of scales on a fish?	question
+18	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+19	a scale is hard	gold
+20	something hard; something strong can be used for protection	gold
+21	a scale is hard	gold
+22	protecting is a kind of function	gold
+23	a mammal is a kind of animal	nongold
+24	a fish is a kind of animal	gold
+25	a scale is a part of a fish	gold
+26	to protect the fish	answer
+27	protecting is a kind of function	gold
+28	scales are found on the skin of scaled animals	gold
+29	scales are found on the skin of scaled animals	gold
+30	to protect the fish	answer
+31	scales are used for protection by scaled animals	gold
+32	a fish is a kind of animal	gold
+33	to protect means to make safe	nongold
+34	a living thing is a kind of object	nongold
+35	killing means changing a living thing from alive to dead by harming	nongold
+36	scales are found on the skin of scaled animals	gold
+37	What is the main function of scales on a fish?	question
+38	if something causes a process then that something is required for that process	nongold
+39	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold
+40	scales are used for protection by scaled animals	gold
+41	an animal is a member of an animal species	nongold
+42	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+43	prey is a kind of food for predators	nongold
+44	providing structure is a kind of function	nongold
+45	remora fish eat food by attaching themselves to sharks and eating the food left behind	nongold
+46	a scale is used for measuring weight	nongold
+47	a fish is a kind of scaled animal	gold
+48	a scale is a part of a fish	gold
+49	aquatic animal means water animal	nongold
+50	a surface is a part of an object	nongold
+51	to be involved in something means to have a role in something	nongold
+52	role is similar to importance	nongold
+53	causing is a kind of function	nongold
+54	to protect the fish	answer
+55	What is the main function of scales on a fish?	question
+56	a fish is a kind of aquatic animal	nongold
+57	a predator is a kind of animal	nongold
+58	hiding is a kind of protection against predators; from predators	nongold
+59	What is the main function of scales on a fish?	question
+60	to be used for something means to be required by that something	nongold
+61	protecting is a kind of function	gold
+62	to protect the fish	answer
+63	an aquatic animal is a kind of animal	nongold
+64	something hard; something strong can be used for protection	gold

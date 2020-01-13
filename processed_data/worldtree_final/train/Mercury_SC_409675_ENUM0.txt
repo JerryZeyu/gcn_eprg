@@ -1,0 +1,102 @@
+0	A scientist put several different plants in a sealed container. Every hour, she checked the oxygen in the container to see if it changed. How did the oxygen in the container most likely change?	question
+1	The amount of oxygen increased.	answer
+2	a scientist is a kind of human	nongold
+3	oxygen is a kind of gas at room temperature	nongold
+4	an increase is the opposite of a decrease	nongold
+5	to add means to increase	nongold
+6	plants are a source of oxygen through photosynthesis	gold
+7	increase means more	nongold
+8	a source of something increases the amount of that something	gold
+9	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+10	a decrease is a kind of change	nongold
+11	an increase is a kind of change	gold
+12	an animal; bacterium requires oxygen for survival; to breathe	nongold
+13	oxygenated means having oxygen	nongold
+14	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+15	if something emits something else then that something increases the amount of that something else	nongold
+16	as the population of plants decreases , carbon in the atmosphere will increase	nongold
+17	a container contains objects; material; substances	nongold
+18	to reduce means to decrease	nongold
+19	high is similar to increase	nongold
+20	low is similar to decrease	nongold
+21	less is similar to decrease	nongold
+22	variable means able to change	nongold
+23	contents means the substance in a container	nongold
+24	if there is a loss of something then that something decreases	nongold
+25	a seal is a kind of animal	nongold
+26	releasing something into the atmosphere increases the amount of that something in the atmosphere	nongold
+27	a plant is a kind of living thing	nongold
+28	oxygen rich means a high amount of oxygen	nongold
+29	water is made of hydrogen and oxygen	nongold
+30	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+31	gas is a kind of substance	nongold
+32	absorbing something from the air decreases the  amount of  that something in the air	nongold
+33	as the cause of something decreases , that something will decrease	nongold
+34	quantity means amount	nongold
+35	deplete is similar to decrease	nongold
+36	carbon dioxide is a kind of gas	nongold
+37	to change means to become different	nongold
+38	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+39	oxygen gas is made of only  oxygen element	nongold
+40	affected means changed	nongold
+41	heat means temperature increases	nongold
+42	to lower means to decrease	nongold
+43	if something causes an increase in something else then that something produces that something else	nongold
+44	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+45	breathing is when animals convert oxygen into carbon dioxide	nongold
+46	a plant is a kind of organism	nongold
+47	hydrogen is a kind of gas at room temperature	nongold
+48	unchanged means not changed	nongold
+49	scientists make observations	nongold
+50	less means a reduced amount	nongold
+51	green plants are a kind of producer	nongold
+52	hours are a kind of unit for measuring time	nongold
+53	largest amount means most	nongold
+54	if a value decreases then that value may become; may reach zero; 0	nongold
+55	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+56	an organism is a living thing	nongold
+57	water contains dissolved oxygen	nongold
+58	when carbon dioxide in the atmosphere is absorbed by plants , the amount of carbon dioxide in the atmosphere is reduced in the atmosphere	nongold
+59	the amount of something is similar to the availability of something	nongold
+60	little is similar to decrease	nongold
+61	once per means every	nongold
+62	to slow; to slow down decreases speed	nongold
+63	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+64	a container is a kind of object	nongold
+65	as the use of something decreases , the use of the source of that something will decrease	nongold
+66	gas is a kind of material	nongold
+67	less is the opposite of more	nongold
+68	oxygen  is a kind of element	nongold
+69	as amount; size of something increases , the intensive properties of that something will not change	nongold
+70	an animal requires air for survival	nongold
+71	a source of something emits; produces; generates; provides that something	nongold
+72	too much is similar to increase	nongold
+73	concentration means amount	nongold
+74	often is similar to likely	nongold
+75	person is synonymous with human	nongold
+76	to conserve means to not change	nongold
+77	to change means to cause a change	nongold
+78	photosynthesis is a source of oxygen	nongold
+79	gaseous means of gas	nongold
+80	air is a kind of gas	nongold
+81	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+82	animals are a source of carbon dioxide by exhaling	nongold
+83	early photosynthetic life increases the  oxygen level in Earth's atmosphere	nongold
+84	life means living things	nongold
+85	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+86	a liquid is a kind of substance	nongold
+87	heat means heat energy	nongold
+88	as the amount of water in a body of water increases , the amount of water  evaporated from the body of water will increase	nongold
+89	to be used for something means to be required by that something	nongold
+90	a plant; living thing requires food for survival	nongold
+91	an animal is a kind of living thing	nongold
+92	different substances usually have different amount of chemical energy	nongold
+93	researcher is a kind of scientist	nongold
+94	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+95	constant means not changing	nongold
+96	adding heat means increasing temperature	nongold
+97	a human is a kind of animal	nongold
+98	greater means higher; more in value	nongold
+99	to give off means to be the source of	nongold
+100	most means over 50% of something	nongold
+101	to breathe in means to absorb air	nongold

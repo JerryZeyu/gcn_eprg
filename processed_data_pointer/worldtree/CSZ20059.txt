@@ -1,0 +1,102 @@
+Question	Which action will result in a product with new chemical properties?	question
+Answer	popping popcorn	answer
+0	a motion is a kind of event; action	nongold
+1	product means result	nongold
+2	popping popcorn requires adding heat	gold
+3	to cause means to result in	gold
+4	an event is a kind of action	nongold
+5	substances have chemical properties	nongold
+6	if an object undergoes chemical change then that object will have new chemical properties	gold
+7	chemical reactions cause new substances; different substances to form	nongold
+8	to produce means to result in	nongold
+9	action means activity	nongold
+10	a  chemical property is a kind of  property	nongold
+11	result means outcome	nongold
+12	structure is a property of an object; a material; a substance	nongold
+13	An example of a chemical property is how a material reacts chemically	nongold
+14	action can cause change	nongold
+15	chemicals means substances	nongold
+16	chemical reactions cause chemical change	gold
+17	to be formed by is to be the result of	nongold
+18	cooking is a kind of action	nongold
+19	forming is a kind of action	nongold
+20	chemical reactions releasing new substances means chemical reactions forming new substances	nongold
+21	food is a kind of substance	nongold
+22	combustibility is a kind of  chemical property	nongold
+23	an organism eating is a kind of action	nongold
+24	a beverage is a kind of food	nongold
+25	burning is a kind of action	nongold
+26	an object has properties	nongold
+27	a product is a kind of object	nongold
+28	chemical change is a kind of chemical reaction	nongold
+29	the effects of something is a property of that something	nongold
+30	recycling is a kind of action	nongold
+31	actions mean behavior	nongold
+32	to happen means to occur	nongold
+33	a process is a kind of event	nongold
+34	to cause means to have an effect	nongold
+35	reaction to light is a kind of chemical property	nongold
+36	a type of something is a kind of property of that something	nongold
+37	becoming is a kind of action	nongold
+38	squeezing is a kind of action	nongold
+39	to change means to have an effect	nongold
+40	high is similar to increase	nongold
+41	to add means to increase	nongold
+42	concluding is a kind of action	nongold
+43	a liquid is a kind of substance	nongold
+44	a chemical property is the opposite of a physical property	nongold
+45	something that happens is a kind of event	nongold
+46	acidity is a property of chemicals; substances and includes ordered values of basic; neutral; acidic	nongold
+47	acid can cause chemical change	nongold
+48	dissolving is a kind of action	nongold
+49	producing is similar to releasing	nongold
+50	compound is a kind of chemical	nongold
+51	revolving is a kind of action	nongold
+52	new means different from the former one	nongold
+53	combining; mixing two substances chemically causes chemical reactions	nongold
+54	to cause an event is similar to being involved in that event	nongold
+55	bringing is a kind of action	nongold
+56	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+57	a chemical reaction is a kind of process	nongold
+58	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+59	products are formed; are produced; are created	nongold
+60	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+61	a can is a kind of object	nongold
+62	to change means to cause a change	nongold
+63	a beverage is a kind of liquid	nongold
+64	a reaction is a kind of process	nongold
+65	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+66	An example of a chemical property is the elements a compound is made of	nongold
+67	produce is similar to release	nongold
+68	converting is similar to releasing	nongold
+69	placing is a kind of action	nongold
+70	if an object is made of a material then that object has the properties of that material	nongold
+71	chemical reaction means chemical bonds change	nongold
+72	cooking causes a chemical reaction	nongold
+73	most chemical reactions release or absorb heat energy	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	discarding is a kind of action	nongold
+76	rolling over is a kind of action	nongold
+77	flowing is a kind of action	nongold
+78	food is a kind of chemical energy	nongold
+79	temperature is a measure of heat energy	nongold
+80	to be formed by is similar to being produced by	nongold
+81	the chemistry of something is similar to what that something is made of	nongold
+82	flammability is a kind of chemical property	nongold
+83	taste is a kind of property	nongold
+84	adding heat to an object sometimes causes chemical reactions	gold
+85	a producer is a kind of living thing	nongold
+86	to keep a process or event happening is similar to causing that process or event to happen	nongold
+87	what something needs is a property of that something	nongold
+88	passing is a kind of action	nongold
+89	if an event occurs by adding something then that event requires that something	nongold
+90	converting is similar to producing	nongold
+91	laying down is a kind of action	nongold
+92	to cause means to make	nongold
+93	to give is similar to to cause	nongold
+94	food is a kind of object	nongold
+95	temperature is an intensive property	nongold
+96	as amount; size of something increases , the intensive properties of that something will not change	nongold
+97	a chemical compound is a kind of compound	nongold
+98	soda is a kind of carbonated beverage	nongold
+99	metabolism is the sum of all chemical reactions in an animal's body	nongold

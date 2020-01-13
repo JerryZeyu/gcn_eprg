@@ -1,0 +1,102 @@
+Question	Which upgrade to a school will most likely reduce the school's consumption of nonrenewable resources?	question
+Answer	solar-collection panels	answer
+0	a solar panel is made of solar cells	nongold
+1	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+2	to reduce means to decrease	gold
+3	solar power means solar energy	nongold
+4	solar panels are a kind of power supplies	nongold
+5	sunlight means solar energy	nongold
+6	sunlight is a kind of solar energy	nongold
+7	solar energy is a renewable; inexhaustible resource	gold
+8	to lower means to decrease	nongold
+9	solar radiation means solar energy	nongold
+10	consumption means use	gold
+11	to be made of is similar to collection	nongold
+12	solar energy is a kind of heat energy	nongold
+13	to improve means to have a positive impact	nongold
+14	to depend on; to rely on; to need means to require	nongold
+15	solar energy is a kind of energy	nongold
+16	less is similar to decrease	nongold
+17	solar energy rarely causes pollution	nongold
+18	solar energy is an inexhaustible resource	nongold
+19	solar energy is a source of electricity	nongold
+20	an increase is the opposite of a decrease	nongold
+21	solar energy is a kind of light	nongold
+22	using resources decreases those resources	nongold
+23	fossil fuels are a nonrenewable resource	nongold
+24	renewable is the opposite of nonrenewable	nongold
+25	less means a reduced amount	nongold
+26	the solar system is a kind of system	nongold
+27	solar cells convert solar energy into electrical energy	nongold
+28	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	gold
+29	to limit means to decrease	nongold
+30	high is similar to increase	nongold
+31	a source of something emits; produces; generates; provides that something	nongold
+32	a nonrenewable resource is limited in supply	nongold
+33	reducing is a kind of change	nongold
+34	a panel is a kind of object	nongold
+35	a decrease is a kind of change	nongold
+36	to be used for something means to be required by that something	nongold
+37	affected means changed	nongold
+38	low is similar to decrease	nongold
+39	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+40	to enhance means to increase	nongold
+41	a renewable resource can be replaced	nongold
+42	replacing something causes that something to decrease	nongold
+43	a source of something increases the amount of that something	nongold
+44	a producer is a source of energy for consumers	nongold
+45	increase means more	nongold
+46	to impact means to affect	nongold
+47	as the cause of something decreases , that something will decrease	nongold
+48	change is a kind of impact	nongold
+49	new solar systems are made of dust and gas	nongold
+50	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+51	if something emits something else then that something increases the amount of that something else	nongold
+52	loss means reduction	nongold
+53	sunlight produces heat	nongold
+54	a student is a kind of human	nongold
+55	resources sometimes are used for energy	nongold
+56	an increase is a kind of change	nongold
+57	an animal is a kind of consumer	nongold
+58	a material is a kind of resource	nongold
+59	electricity means electrical energy	nongold
+60	resources becoming available has a positive impact on the things that need those resources	nongold
+61	less is the opposite of more	nongold
+62	oil is a nonrenewable resource	nongold
+63	negative impact is the opposite of positive impact	nongold
+64	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+65	green plants are a kind of producer	nongold
+66	an event is a kind of action	nongold
+67	An example of collecting data is measuring	nongold
+68	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+69	if something is required for a process then that something positively impacts that process	nongold
+70	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+71	an energy source is a kind of resource	nongold
+72	metal is a nonrenewable resource	nongold
+73	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+74	to change means to have an effect	nongold
+75	heat means heat energy	nongold
+76	an inexhaustible resource is a kind of renewable resource	nongold
+77	little is similar to decrease	nongold
+78	as the use of something decreases , the use of the source of that something will decrease	nongold
+79	good means positive	nongold
+80	if something is powered by something else then that something requires a source of that something else	nongold
+81	electric devices require electrical energy to function	nongold
+82	sunlight is a kind of light	nongold
+83	helping something has a  positive impact on that something	nongold
+84	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+85	a concern; a problem is a possible negative impact	nongold
+86	solar energy can warm up  the air	nongold
+87	impact means effect	nongold
+88	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+89	to add means to increase	nongold
+90	often is similar to likely	nongold
+91	the sun is the source of solar energy called sunlight	nongold
+92	fossil fuels are a kind of energy resource	nongold
+93	aluminum is a nonrenewable resource	nongold
+94	decreasing something positive has a negative impact on a thing	nongold
+95	decreasing something negative has a positive impact on a thing	nongold
+96	if something causes a process then that something is required for that process	nongold
+97	replacement means something that is replaced	nongold
+98	going to school generally occurs during the day	nongold
+99	using less of a resource increases the availability of that resource	nongold

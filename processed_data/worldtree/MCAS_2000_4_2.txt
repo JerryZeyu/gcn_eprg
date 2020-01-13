@@ -1,0 +1,102 @@
+Question	Which environmental problem was directly caused by the invention of the automobile?	question
+Answer	increase in air pollution	answer
+0	pollution is a kind of environmental problem	nongold
+1	a problem has a negative impact on a thing	nongold
+2	an automobile is a kind of vehicle	gold
+3	causing problems is a kind of negative impact	nongold
+4	pollution has a negative impact on the environment; air quality; water quality; society	gold
+5	a concern; a problem is a possible negative impact	gold
+6	using a car causes pollution	gold
+7	automobiles; industrialization are a source of carbon dioxide	nongold
+8	increase means more	nongold
+9	a car is a kind of automobile	nongold
+10	problem is similar to issue	nongold
+11	air is a part of the environment	nongold
+12	humans cause pollution	nongold
+13	the atmosphere is a part of nature; the environment	nongold
+14	a source of something increases the amount of that something	nongold
+15	atmosphere means  air	nongold
+16	due to means caused by	nongold
+17	address a problem means reduce a problem	nongold
+18	many vehicles emit pollution into the air	gold
+19	a car is a kind of vehicle	nongold
+20	an increase is the opposite of a decrease	nongold
+21	to be a source of something means to cause that something	nongold
+22	the automobile is a kind of technology	nongold
+23	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	gold
+24	pollution is a source of pollutants	nongold
+25	an environment means an area	nongold
+26	if something emits something else then that something increases the amount of that something else	gold
+27	the emission of something is when something is added into the atmosphere	nongold
+28	to add means to increase	nongold
+29	an increase is a kind of change	nongold
+30	air is a kind of gas	nongold
+31	to reduce means to decrease	nongold
+32	operating an automobile usually requires fossil fuels	nongold
+33	high is similar to increase	nongold
+34	a source of something emits; produces; generates; provides that something	nongold
+35	global warming is a kind of environmental problem	nongold
+36	a decrease is a kind of change	nongold
+37	causing means influencing	nongold
+38	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+39	an engine is a part of an automobile	nongold
+40	if something causes an increase in something else then that something produces that something else	nongold
+41	to cause means to have an effect	nongold
+42	to lower means to decrease	nongold
+43	an environment is similar to an ecosystem	nongold
+44	causing is a kind of affecting	nongold
+45	an invention is a kind of tool	nongold
+46	pollutants have a negative impact on the environment; air quality	nongold
+47	developing means creating; inventing	nongold
+48	impact means effect	nongold
+49	burning gasoline; oil is a source of air pollution	nongold
+50	to cause means to result in	nongold
+51	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+52	inventing a tool allows; enables that tool to be used	nongold
+53	water vapor is a kind of greenhouse gas	nongold
+54	change is a kind of impact	nongold
+55	an animal requires air for survival	nongold
+56	a vehicle is a kind of object	nongold
+57	polluting gasses are a kind of pollution	nongold
+58	to be used for something means to be required by that something	nongold
+59	a car is a kind of object	nongold
+60	carbon dioxide is a kind of greenhouse gas	nongold
+61	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+62	if something causes a process then that something is required for that process	nongold
+63	as the cause of something decreases , that something will decrease	nongold
+64	to cause an event is similar to being involved in that event	nongold
+65	water is a part of an environment	nongold
+66	as the population of plants decreases , carbon in the atmosphere will increase	nongold
+67	to lead to means to cause	nongold
+68	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+69	water vapor is found in the atmosphere	nongold
+70	carbon dioxide is a kind of gas	nongold
+71	water is when humans pollute the environment with pollutants	nongold
+72	creating is similar to causing	nongold
+73	to change means to cause a change	nongold
+74	negative impact is the opposite of positive impact	nongold
+75	producing is similar to causing	nongold
+76	if something is required for a process then that something positively impacts that process	nongold
+77	to cause something means to contribute to that something happening	nongold
+78	if something is caused by something else , then that something can be explained by that something else	nongold
+79	adverse effect means negative impact	nongold
+80	the air is a kind of substance	nongold
+81	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+82	humidity is a kind of water vapor	nongold
+83	fossil fuels burning causes pollution	nongold
+84	atmospheric means of the atmosphere	nongold
+85	An example of moisture is water vapor in the atmosphere	nongold
+86	to impact means to affect	nongold
+87	an event is a kind of action	nongold
+88	to change means to have an effect	nongold
+89	decreasing something negative has a positive impact on a thing	nongold
+90	a vehicle is used for transportation	nongold
+91	Earth has air	nongold
+92	to depend on; to rely on; to need means to require	nongold
+93	a natural resource is a kind of environmental factor	nongold
+94	to give off means to be the source of	nongold
+95	absorbing something from the air decreases the  amount of  that something in the air	nongold
+96	an environment is a kind of place	nongold
+97	releasing something into the atmosphere increases the amount of that something in the atmosphere	nongold
+98	the atmosphere is a kind of area	nongold
+99	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold

@@ -1,0 +1,102 @@
+Question	A bee depends on certain flowers for food. The flowers depend on the bee to	question
+Answer	carry pollen for reproduction.	answer
+0	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	gold
+1	to be dependent on something means to depend on that something	nongold
+2	A bee is a pollinating animal	gold
+3	pollen is part of a flower for reproduction	gold
+4	a flower contains pollen for sexual reproduction	nongold
+5	a bee is a kind of insect	nongold
+6	a flower is a source of nectar	nongold
+7	bees eat pollen	nongold
+8	a flower is a part of a plant for attracting pollinators; producing seeds	nongold
+9	to carry means to transport	nongold
+10	pollination requires pollinators; pollinating animals	gold
+11	An insect is a pollinating animal	nongold
+12	plant reproduction often requires pollen	nongold
+13	pollination is a kind of process for plant reproduction	nongold
+14	a flower is a kind of plant	nongold
+15	bees eat honey	nongold
+16	bees convert nectar into honey for food	nongold
+17	carrier means the ones that carry	nongold
+18	needing something means depending on that something	nongold
+19	a flower produces pollen and seeds	nongold
+20	a plant; living thing requires food for survival	nongold
+21	an insect is a kind of animal	nongold
+22	to carry means to move something	nongold
+23	plant reproduction; seed production requires pollination	gold
+24	a flower is a kind of object	nongold
+25	carrying something means moving that something	nongold
+26	reproduction is a kind of process	nongold
+27	a plant is a kind of organism	nongold
+28	to depend on; to rely on; to need means to require	gold
+29	a plant is a kind of living thing	nongold
+30	pollinator means pollinating animal	nongold
+31	a producer is a kind of living thing	nongold
+32	to be affected by something is similar to depending on something	nongold
+33	flowers are a source of fruit	nongold
+34	an animal; living thing requires nutrients for survival	nongold
+35	an animal needs to eat food for nutrients	nongold
+36	an organism is a living thing	nongold
+37	a living thing is a kind of object	nongold
+38	a source of something emits; produces; generates; provides that something	nongold
+39	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+40	transporting is a kind of function	nongold
+41	an animal is a kind of living thing	nongold
+42	an animal is a kind of organism	nongold
+43	pollinating is a kind of function	nongold
+44	if a living thing requires something then that something has a positive impact on that living thing	nongold
+45	a food contains nutrients for living things	nongold
+46	if something causes something else then that something else depends on that something	nongold
+47	a producer produces its own food	nongold
+48	a plant is a member of a plant species	nongold
+49	food is what an animal eats	nongold
+50	an animal is a kind of consumer	nongold
+51	to carry something means to contain something	nongold
+52	as the number of pollinators attracted to a flower; a plant increases , the ability of that flower; of that plant to reproduce will increase	nongold
+53	flowers often have a sweet smell to attract pollinators	nongold
+54	pollinated means after pollination	nongold
+55	to eat means to consume food	nongold
+56	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+57	to be used for something means to be required by that something	nongold
+58	a flower's purpose is to produce seeds	nongold
+59	distributing is similar to carrying	nongold
+60	an ant is a kind of insect	nongold
+61	nectar is used for attracting pollinators by plants	nongold
+62	a consumer is a kind of organism	nongold
+63	reproduction increases the number; population of a living thing	nongold
+64	blossoms means flowers	nongold
+65	reproduction produces; produce offspring	nongold
+66	requiring something means needing that something	nongold
+67	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+68	a flower's petals often are bright in color to attract pollinators	nongold
+69	carrying is similar to conducting	nongold
+70	as the amount of fragrance of a flower increases , the number of pollinators it will attract increases	nongold
+71	living things can all reproduce	nongold
+72	food is a kind of object	nongold
+73	to bring means to transport	nongold
+74	a source of something supplies that something	nongold
+75	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+76	certain is similar to specific	nongold
+77	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+78	a plant; living thing requires nutrients to grow	nongold
+79	green plants are a kind of producer	nongold
+80	an animal is a member of an animal species	nongold
+81	to transfer is similar to transport	nongold
+82	transport means to move; to make travel	nongold
+83	to provide something means to be the source of that something	nongold
+84	a stem is often a part of plant	nongold
+85	to produce means to provide	nongold
+86	to contribute is similar to produce	nongold
+87	to reproduce means to have; to produce offspring	nongold
+88	seed dispersal is when the seeds of a plant are moved; are carried; are spread; are dropped; from the parent plant to another area	nongold
+89	if something requires something else then that something requires a source of that something else	nongold
+90	producing is a kind of process	nongold
+91	most insects reproduce by sexual reproduction	nongold
+92	providing something means making;delivering something	nongold
+93	if something causes a process then that something is required for that process	nongold
+94	if something is required for a process then that something positively impacts that process	nongold
+95	sexual reproduction is a source of genetic variation; naturally occurring variation in offspring; in a species	nongold
+96	provide is similar to give; make	nongold
+97	requiring is similar to needing help	nongold
+98	as the size of a flower increases , the number of pollinators it will attract increases	nongold
+99	a wildflower is a kind of flower	nongold

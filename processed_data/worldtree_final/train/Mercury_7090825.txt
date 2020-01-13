@@ -1,0 +1,102 @@
+0	Some power plants release heated water into rivers. This practice adds thermal energy to the river that most likely	question
+1	threatens the existence of aquatic organisms.	answer
+2	threatening the existence of an organism has a negative impact on that organism	gold
+3	an threat threatens	nongold
+4	adding heat means increasing temperature	nongold
+5	to add means to increase	gold
+6	heating means adding heat	nongold
+7	harming something has a  negative impact on; effect on that something	nongold
+8	aquatic animals; plants live in bodies of water	gold
+9	a river is a kind of flowing body of water	gold
+10	temperature is a measure of heat energy	nongold
+11	an aquatic animal is a kind of animal	nongold
+12	heat energy is synonymous with thermal energy	nongold
+13	danger has a negative impact on a thing	nongold
+14	heat means heat energy	nongold
+15	to emit means to release	nongold
+16	intense heat has a negative impact on an organism	nongold
+17	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+18	an organism is a living thing	nongold
+19	thermal energy is a kind of energy	nongold
+20	aquatic animal means water animal	nongold
+21	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+22	a plant is a kind of organism	gold
+23	if something releases something else then that something is the source of that something else	nongold
+24	hot means high in heat energy; temperature	nongold
+25	water is an thermal; thermal energy conductor	nongold
+26	heat is a kind of energy	nongold
+27	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+28	organisms are a part of an environment	nongold
+29	organisms mean life	nongold
+30	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+31	water is a kind of liquid at room temperature	nongold
+32	negative impact is the opposite of positive impact	nongold
+33	harming an organism can cause that organism to die	nongold
+34	power station means power plant	nongold
+35	a stream is a kind of body of water	nongold
+36	if an event occurs by adding something then that event requires that something	nongold
+37	if there is none of a thing then that thing does not exist	nongold
+38	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+39	to power means to provide energy for	nongold
+40	cold temperatures usually have a negative impact on organisms	nongold
+41	water is a part of an environment	nongold
+42	harm means danger	nongold
+43	a source of heat can be used to heat something	nongold
+44	a source of heat can be used to heat something	nongold
+45	an animal is a kind of organism	gold
+46	a river is a kind of channel for water	nongold
+47	a riverbed is a part of a river	nongold
+48	animals; living things require water for survival	nongold
+49	a plant is a kind of living thing	nongold
+50	to reduce means to decrease	nongold
+51	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+52	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+53	if something is powered by something else then that something requires a source of that something else	nongold
+54	a negative impact is a kind of consequence; risk	nongold
+55	water is a kind of substance	nongold
+56	a body of water is a source of water	nongold
+57	a source of something emits; produces; generates; provides that something	nongold
+58	a body of water is a kind of environment	gold
+59	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+60	producing is similar to releasing	nongold
+61	to contribute means to add	nongold
+62	solar energy is a kind of heat energy	nongold
+63	a hot; warm something is a source of heat	nongold
+64	an increase is the opposite of a decrease	nongold
+65	high is similar to increase	nongold
+66	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+67	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+68	a hot substance is a source of heat	nongold
+69	converting is similar to releasing	nongold
+70	heat means temperature increases	nongold
+71	an animal is a kind of living thing	nongold
+72	adding is a kind of activity	nongold
+73	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+74	electricity sometimes is used for heating buildings; substances	nongold
+75	an ecosystem contains a large community of; large numbers of living organisms	nongold
+76	to lower means to decrease	nongold
+77	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+78	extreme temperatures cause an organism's energy levels to decrease	nongold
+79	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+80	a body of water contains water	nongold
+81	remaining energy not used by plants or transferred to consumers is released into the ecosystem as heat	nongold
+82	the thermal pollution of water bodies used for cooling is a controversial issue associated with the use of nuclear power	nongold
+83	often is similar to likely	nongold
+84	an environment is similar to an ecosystem	gold
+85	a power plant converts chemical energy from energy source into electricity	nongold
+86	organism requires liquid water to survive	nongold
+87	a source of something increases the amount of that something	nongold
+88	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+89	as the surface area of a body of water increases , evaporation of that body of water will increase	nongold
+90	low is similar to decrease	nongold
+91	warm; becoming warm means heat is added	nongold
+92	heat energy  can be used to heat up  an object	nongold
+93	produce is similar to release	nongold
+94	the potential energy in fossil fuels mostly are converted into thermal energy	nongold
+95	if an organism becomes too hot then that organism may die	nongold
+96	evaporation causes amount of water to decrease	nongold
+97	an event is a kind of action	nongold
+98	life means living things	nongold
+99	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+100	if something causes an increase in something else then that something produces that something else	nongold
+101	increase means more	nongold

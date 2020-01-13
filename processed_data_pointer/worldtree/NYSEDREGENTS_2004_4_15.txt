@@ -1,0 +1,102 @@
+Question	A mother hen clucks loudly when danger is near and her chicks quickly gather around her. Which sense helps the chicks receive this warning about danger from their mother?	question
+Answer	sound	answer
+0	sensing a warning means receiving a warning	gold
+1	to be in danger means to be around; to be near something dangerous	nongold
+2	a cluck is a kind of sound	gold
+3	chickens cluck	gold
+4	near means close	nongold
+5	being around something means surrounding  that something	nongold
+6	a danger is dangerous	nongold
+7	harm means danger	nongold
+8	an threat threatens	nongold
+9	helping something has a  positive impact on that something	nongold
+10	a chick is a kind of young; baby chicken	gold
+11	a hen is a kind of female adult chicken	gold
+12	a chicken is a kind of bird	gold
+13	hearing is a kind of sense	nongold
+14	noise means sound	nongold
+15	a bird is a kind of animal	gold
+16	loud means high in sound energy;sound intensity	gold
+17	near; close is the opposite of far; away	nongold
+18	to help means to aid	nongold
+19	a bird is a kind of living thing	nongold
+20	hearing is used for sensing sound by animals	gold
+21	danger has a negative impact on a thing	nongold
+22	dogs can hear  sounds with higher frequency  than human can	nongold
+23	protecting something means preventing harm to that something	nongold
+24	a dog is a kind of animal	nongold
+25	an animal is a kind of living thing	nongold
+26	a mother is a kind of female parent	nongold
+27	some birds are predators	nongold
+28	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+29	sound can be used for communication by animals	nongold
+30	loud noises can cause animals to startle	nongold
+31	to be used  for something means to help to do that something	nongold
+32	to help; to benefit means to be of use	gold
+33	a duck is a kind of bird	nongold
+34	communication can be used to warn people of dangers	nongold
+35	a living thing is a kind of object	nongold
+36	A bird is a pollinating animal	nongold
+37	an animal is a kind of organism	nongold
+38	receive means get	nongold
+39	warning  people of something requires knowing about; predicting that something	nongold
+40	better senses have a positive impact on an animal's survival; health; ability to reproduce	nongold
+41	harming something has a  negative impact on; effect on that something	nongold
+42	to collect means to gather	nongold
+43	warning people of dangers has a positive impact on the safety of those people	nongold
+44	feeling is when an living thing senses through touch	nongold
+45	requiring is similar to needing help	nongold
+46	a human is a kind of animal	nongold
+47	a mammal is a kind of animal	nongold
+48	a kitten is a young; baby cat	nongold
+49	a father is a kind of male parent	nongold
+50	sight is a kind of sense	nongold
+51	to protect means to make safe	nongold
+52	near means local	nongold
+53	sound means sound energy	nongold
+54	a goose is a kind of bird	nongold
+55	helping means to assist in a change	nongold
+56	a duck is a kind of animal	nongold
+57	the heath hen is a kind of animal	nongold
+58	something dangerous can cause harm	nongold
+59	human voice is a kind of sound	nongold
+60	if a living thing requires something then that something has a positive impact on that living thing	nongold
+61	to enable is to help	nongold
+62	quickly means in a short period of time	nongold
+63	louder means higher; greater in volume	nongold
+64	an egg is a kind of object	nongold
+65	an organism is a living thing	nongold
+66	a sense is a kind of ability	nongold
+67	smell is a kind of sense	nongold
+68	a predator is a kind of animal	nongold
+69	a nest is used for protecting young by birds	nongold
+70	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+71	a plant is a kind of organism	nongold
+72	attracting something to a location causes that something  to be near that location	nongold
+73	threatening behavior causes a fight-or-flight response in animals	nongold
+74	senses are an inherited characteristic	nongold
+75	sensing food has a positive impact on finding food	nongold
+76	a person should be careful about something dangerous	nongold
+77	to hurt means to harm	nongold
+78	an insect is a kind of animal	nongold
+79	howling is a kind of behavior	nongold
+80	animal instinct means instinctive behavior	nongold
+81	touch is a kind of sense	nongold
+82	An example of being careful is avoiding danger	nongold
+83	talking is when a human produces sound to communicate	nongold
+84	animals learn some behaviors from watching their parents	nongold
+85	an insect is a kind of prey	nongold
+86	sense is a kind of characteristic of an animal	nongold
+87	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+88	mammals birth; give birth to live young	nongold
+89	person is synonymous with human	nongold
+90	sound wave is similar to sound	nongold
+91	sound is a kind of air vibration	nongold
+92	a source of something emits; produces; generates; provides that something	nongold
+93	a human is a kind of mammal	nongold
+94	the senses are used for making observations	nongold
+95	motion; movement means moving; to move	nongold
+96	taking in something means receiving; absorbing; getting something	nongold
+97	sense is used for obtaining information about one's environment	nongold
+98	bark is a kind of sound	nongold
+99	down is part of a young bird	nongold

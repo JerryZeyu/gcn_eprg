@@ -1,0 +1,102 @@
+Question	The Moon is visible to observers on Earth because of	question
+Answer	reflected sunlight	answer
+0	the moon reflects sunlight towards the Earth	gold
+1	visible means able to be seen	nongold
+2	if something is visible , then that something can be observed	nongold
+3	a moon is a kind of celestial object; body	gold
+4	light reflecting off of an object causes that object to be visible to the observer	gold
+5	the dark half of the moon is not visible	nongold
+6	the Moon is Earth's moon	nongold
+7	not visible means cannot be seen	nongold
+8	sunlight is a kind of light	gold
+9	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+10	if an object reflects light toward the eye then that object can be seen	nongold
+11	the sun is a source of light; light energy called sunlight	nongold
+12	if an object reflects more light then that object is more easily seen	nongold
+13	reflecting light; sound is the opposite of absorbing light; sound	nongold
+14	the Moon is closer to the Earth than the Sun	nongold
+15	observable means visible	nongold
+16	the moon is the celestial object that is closest to the  Earth	nongold
+17	the moon orbits the Earth	nongold
+18	to reflect light means to scatter light	nongold
+19	visible light is a kind of  light	nongold
+20	sunlight is a kind of solar energy	nongold
+21	visible light is able to be seen without using equipment	nongold
+22	if something is in a dark place , then that something will not reflect enough light to be seen	nongold
+23	due to means caused by	nongold
+24	Earth is a kind of planet	nongold
+25	a moon is a kind of satellite	nongold
+26	the moon is less bright than the sun	nongold
+27	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+28	a white object reflects all visible light	nongold
+29	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+30	human eyes can only see light in the range of visible light	nongold
+31	moons are large; solid; spherical	nongold
+32	invisible means cannot be seen	nongold
+33	a full moon is a kind of phase of the moon	nongold
+34	seeing is used for sensing visual things	nongold
+35	if an object is white then that object reflects all visible light	nongold
+36	a reflector is used to reflect light especially on vehicles	nongold
+37	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+38	the sun is a source of radiation; heat called sunlight	nongold
+39	viewing means observing light	nongold
+40	planets reflect the light of the sun	nongold
+41	sunlight means solar energy	nongold
+42	the moon does not contain air; water	nongold
+43	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+44	a living thing is a kind of object	nongold
+45	can be means able to be	nongold
+46	answering questions requires information	nongold
+47	eyes can sense;detect light energy for seeing	nongold
+48	observe means see	nongold
+49	the sun is the source of solar energy called sunlight	nongold
+50	seeing requires light	nongold
+51	type of moon; kind of moon means moon phase	nongold
+52	a phase of the moon is a kind of state	nongold
+53	a planet is a kind of celestial object; body	nongold
+54	shiny things; objects reflect light	nongold
+55	the Moon has less water; air than Earth	nongold
+56	the solar system contains the moon	nongold
+57	sight means to see	nongold
+58	to see means to look	nongold
+59	a human is a kind of animal	nongold
+60	appear is similar to apparent	nongold
+61	an animal is a kind of living thing	nongold
+62	detecting is similar to observing	nongold
+63	the Sun is a kind of star	nongold
+64	the new moon is when the dark half of the moon faces the Earth	nongold
+65	look at means observe	nongold
+66	the new moon is when the lighted half of the moon faces the Sun	nongold
+67	a moon phase is a kind of natural event	nongold
+68	a new moon is a kind of phase of the moon	nongold
+69	the moon rising occurs once per day	nongold
+70	the moon rotates on its axis	nongold
+71	if it is night then the sun has set	nongold
+72	the moon orbiting the Earth occurs once per month	nongold
+73	to bounce back means to reflect	nongold
+74	an image in a mirror is formed by reflecting light	nongold
+75	reflection is a property of light	nongold
+76	a part of something is present in that something	nongold
+77	the night time is part of one day	nongold
+78	to view means to see	nongold
+79	night is low in light; in visibility	nongold
+80	to be a source of something means to cause that something	nongold
+81	Venus has moon-like phases	nongold
+82	a full moon occurs after a waxing gibbous moon	nongold
+83	intensity of sunlight is similar to amount of sunlight	nongold
+84	each of the moon's phases occurs once per month	nongold
+85	distant means great in distance	nongold
+86	solar energy is a kind of light	nongold
+87	an object is made of its parts	nongold
+88	distant means far away	nongold
+89	the phases of the Moon change the appearance of the Moon	nongold
+90	all the time means at day and at night	nongold
+91	a short wavelength has low; little distance before it repeats	nongold
+92	refraction is when light passes from one medium to another medium	nongold
+93	where something  comes from is a source of that something	nongold
+94	an event is a kind of action	nongold
+95	to give is similar to to cause	nongold
+96	a source of something emits; produces; generates; provides that something	nongold
+97	refracting sunlight; light causes sunlight; light to split into different colors	nongold
+98	a moon is located in space	nongold
+99	Earth's shadow falling on the moon causes a lunar eclipse	nongold

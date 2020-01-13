@@ -1,0 +1,102 @@
+0	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+1	producing is similar to causing	nongold
+2	to produce means to create	nongold
+3	an energy source is a kind of resource	nongold
+4	change is a kind of impact	nongold
+5	a disruption  of an ecosystem can cause an extinction	nongold
+6	water is a part of an environment	nongold
+7	disrupting is similar to having a negative impact	nongold
+8	vegetation means plants	nongold
+9	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+10	damage means harm	nongold
+11	a producer is a kind of living thing	nongold
+12	near means local	nongold
+13	an environment means an area	nongold
+14	generate means produce	nongold
+15	electricity sometimes is used for heating buildings; substances	nongold
+16	an increase is a kind of change	nongold
+17	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+18	the Earth contains many ecosystems	nongold
+19	green plants are a kind of producer	nongold
+20	an event is a kind of action	nongold
+21	a motion is a kind of event; action	nongold
+22	motion; movement means moving; to move	nongold
+23	electrical energy is a kind of energy	nongold
+24	hydropower is when falling water produces electricity	nongold
+25	plants are a part of the environment	nongold
+26	helping something has a  positive impact on that something	nongold
+27	if something is powered by something else then that something requires a source of that something else	nongold
+28	generating power is a kind of positive impact	nongold
+29	converting is similar to producing	nongold
+30	using moving water to produce electricity may disrupt local ecosystems	gold
+31	resources sometimes are used for energy	nongold
+32	changing an ecosystem is similar to disrupting an ecosystem	gold
+33	a body of water is a kind of environment	nongold
+34	water is a renewable resource	nongold
+35	using resources decreases those resources	nongold
+36	harming something has a  negative impact on; effect on that something	nongold
+37	wasting  a resource harms that resource	nongold
+38	producing electricity sometimes requires burning oil	nongold
+39	What is a disadvantage of using moving water to produce electricity?	question
+40	low is similar to decrease	nongold
+41	a producer is a source of energy for consumers	nongold
+42	organisms are a part of an environment	nongold
+43	organisms mean life	nongold
+44	less is similar to decrease	nongold
+45	help means advantage	nongold
+46	travel means to move	nongold
+47	negative impact is the opposite of positive impact	nongold
+48	electricity means electrical energy	nongold
+49	advantage has a positive impact on something	nongold
+50	electricity is used as an energy source by electrical devices	nongold
+51	local means relating to a certain area	nongold
+52	producing is a kind of process	nongold
+53	if something causes an increase in something else then that something produces that something else	nongold
+54	an environment is a kind of place	nongold
+55	to contribute is similar to produce	nongold
+56	an increase is the opposite of a decrease	nongold
+57	an ecosystem contains a large community of; large numbers of living organisms	nongold
+58	pollution is a kind of environmental problem	nongold
+59	to produce means to provide	nongold
+60	a river is a kind of flowing body of water	nongold
+61	moving something is a kind of function	nongold
+62	The local ecosystem may be disrupted.	answer
+63	producer is a kind of role in the food chain process; in an ecosystem	nongold
+64	to generate means to create	nongold
+65	make means produce	nongold
+66	transportation technology is a kind of system for moving people and products	nongold
+67	using renewable resources to generate power reduces greenhouse gases	nongold
+68	an environment is similar to an ecosystem	nongold
+69	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+70	high is similar to increase	nongold
+71	causing problems is a kind of negative impact	nongold
+72	producing is a kind of function	nongold
+73	processes sometimes produce waste products	nongold
+74	an ecosystem is a kind of habitat	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	producing renewable electric energy requires renewable resources	nongold
+77	damage has a negative impact on a thing	nongold
+78	disrupting something from reaching something else decreases the availability of that something	nongold
+79	humans cause pollution	nongold
+80	energy flows in an ecosystem through food chains	nongold
+81	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+82	a negative impact is a kind of consequence; risk	nongold
+83	if something causes a process then that something is required for that process	nongold
+84	transportation technology is used for moving people; products	nongold
+85	requiring is similar to needing help	nongold
+86	loss of resources has a negative impact on  the organisms in an area	nongold
+87	tidal energy can be used to produce electricity	nongold
+88	to be used for something means to be required by that something	nongold
+89	moving is similar to travelling	nongold
+90	a decrease is a kind of change	nongold
+91	water is a kind of natural resource	nongold
+92	oil is used for producing electricity	nongold
+93	using biomass to produce energy is a source of pollution	nongold
+94	water is a kind of natural resource	nongold
+95	an organism is a living thing	nongold
+96	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+97	emit means produce	nongold
+98	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+99	products are formed; are produced; are created	nongold
+100	to depend on; to rely on; to need means to require	nongold
+101	a disadvantage is  a negative impact	gold

@@ -1,0 +1,102 @@
+0	Which location on Earth has the least intense sunlight on December 22?	question
+1	North Pole	answer
+2	the North Pole is a kind of location	gold
+3	intense means extreme	nongold
+4	sunlight is intense in space	nongold
+5	intense means high in intensity	nongold
+6	The North Pole is located in the northern hemisphere	gold
+7	place means space	nongold
+8	December is during the winter in the northern hemisphere	gold
+9	December is a kind of month	nongold
+10	place is synonymous with location	nongold
+11	the winter solstice is on December 21st in the northern hemisphere	nongold
+12	The South Pole is located in the southern hemisphere	nongold
+13	lowest means least in value; amount; number	nongold
+14	the amount of daylight is least on the winter solstice	nongold
+15	north is the opposite of south	nongold
+16	sunlight is a kind of light	nongold
+17	latitude is a property of a location; place on Earth	nongold
+18	December is during the summer in the southern hemisphere	nongold
+19	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+20	a magnet contains a north pole; south pole	nongold
+21	sunlight means solar energy	nongold
+22	least is the opposite of greatest	nongold
+23	least is the opposite of most	nongold
+24	sunlight is a kind of solar energy	nongold
+25	place means area	nongold
+26	the equator receives more sunlight than the poles on Earth	nongold
+27	the sun is a source of radiation; heat called sunlight	nongold
+28	located means situated	nongold
+29	fewest means lowest; least in number	nongold
+30	the sun is a source of light; light energy called sunlight	nongold
+31	intensity of sunlight is similar to amount of sunlight	gold
+32	less is similar to decrease	gold
+33	furthest; farthest means greatest; most; highest in distance	nongold
+34	place; location is synonymous with position	nongold
+35	an increase is the opposite of a decrease	nongold
+36	as the distance of a location from the North Pole becomes smaller; closer , the amount of daylight received by that location will decrease during the winter	gold
+37	the amount of daylight is least in the winter	nongold
+38	polar means of the pole	nongold
+39	greatest means largest; highest; most amount of something	nongold
+40	a planet is a kind of location	nongold
+41	solar energy is a kind of light	nongold
+42	Earth is a kind of planet	nongold
+43	area is similar to location	nongold
+44	the Sun is a kind of star	nongold
+45	as the distance of a location from the North Pole becomes smaller; closer , the  amount of daylight received by that location will increase during the summer	nongold
+46	a star is a kind of celestial object; celestial body	nongold
+47	position means a place in a structure	nongold
+48	low is similar to decrease	nongold
+49	high is similar to increase	nongold
+50	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+51	less means a reduced amount	nongold
+52	closer means lower; less; a decrease in distance	nongold
+53	to lack means to not have	nongold
+54	less is the opposite of more	nongold
+55	the sun is the source of solar energy called sunlight	nongold
+56	the amount of daylight is greatest on the summer solstice	nongold
+57	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+58	north; northward is a kind of direction	nongold
+59	toward is the opposite of away	nongold
+60	the average temperature in South Pole is between -52.2 to -45.8 C	nongold
+61	the equator is a kind of location	nongold
+62	fewer means lower; less in number	nongold
+63	a cloudy day has little sunlight	nongold
+64	if a pole is facing a pole of the same direction then those two poles will repel each other	nongold
+65	when the needle of a compass lines up with Earth's magnetic poles , the needle points north	nongold
+66	distance is a property of space and includes ordered values of close; far	nongold
+67	the water in South Pole is only in solid and liquid state	nongold
+68	solar energy is a kind of heat energy	nongold
+69	daylight is when the sun shines on a location	nongold
+70	extreme means very high in value	nongold
+71	distant means great in distance	nongold
+72	the equator receives the most direct sunlight throughout the year	nongold
+73	to lower means to decrease	nongold
+74	solar radiation means solar energy	nongold
+75	sunlight produces heat	nongold
+76	most means over 50% of something	nongold
+77	intense heat has a negative impact on an organism	nongold
+78	near; close is the opposite of far; away	nongold
+79	lower means less	nongold
+80	the sunlight occurs during the day	nongold
+81	shortest means least; smallest in length	nongold
+82	the sun rises in the east	nongold
+83	a planet is a kind of celestial object; body	nongold
+84	increase means more	nongold
+85	lack is similar to low; little	nongold
+86	south; southward is a kind of direction	nongold
+87	the tilt of Earth's axis causes certain latitudes of Earth to be heated at a greater rate	nongold
+88	approximately means about	nongold
+89	a region is a kind of location	nongold
+90	the sun sets in the west	nongold
+91	a decrease is a kind of change	nongold
+92	solar energy is a kind of energy	nongold
+93	white objects absorbs the least sunlight	nongold
+94	celestial bodies; celestial objects are found in space	nongold
+95	contains means located in	nongold
+96	spot means location	nongold
+97	a source of something emits; produces; generates; provides that something	nongold
+98	if an amount of objects decreases then those objects are fewer in number	nongold
+99	astronomy is the study of celestial (objects, bodies)	nongold
+100	to add means to increase	nongold
+101	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold

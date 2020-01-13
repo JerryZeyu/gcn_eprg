@@ -1,0 +1,102 @@
+Question	A wasp uses poison in a stinger to	question
+Answer	defend itself.	answer
+0	a stinger is used for defense; stinging by a wasp; a bee	gold
+1	a wasp is a kind of insect	nongold
+2	a stinger is a part of a wasp	gold
+3	wasp's stinger contains poison	gold
+4	poison causes harm to living things; organisms	nongold
+5	to protect means to defend	nongold
+6	toxic means poisonous	nongold
+7	a living thing is a kind of object	nongold
+8	an animal is a kind of living thing	nongold
+9	a poison is very poisonous	nongold
+10	a poison is a kind of substance	nongold
+11	an insect is a kind of animal	nongold
+12	harm means injury	nongold
+13	insect bites cause harm to living things	nongold
+14	an insect is a kind of prey	nongold
+15	to hurt means to harm	nongold
+16	a poisonous animal is dangerous	nongold
+17	damage means harm	nongold
+18	protecting something means preventing harm to that something	nongold
+19	an organism is a living thing	nongold
+20	killing means harming something causing death	nongold
+21	a predator is a kind of enemy to its prey	nongold
+22	an animal is a kind of organism	nongold
+23	protecting is a kind of function	nongold
+24	something hard; something strong can be used for protection	nongold
+25	something harmful can cause harm	nongold
+26	a predator is a kind of animal	nongold
+27	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+28	a plant is a kind of living thing	nongold
+29	the function of something is what that something  is used to do	nongold
+30	virus is a kind of living thing	nongold
+31	killing means changing a living thing from alive to dead by harming	nongold
+32	to help; to benefit means to be of use	nongold
+33	harming something has a  negative impact on; effect on that something	nongold
+34	to protect means to make safe	nongold
+35	protection means resistance to damage increases	nongold
+36	if a living thing requires something then that something has a positive impact on that living thing	nongold
+37	predators eat prey	nongold
+38	a plant is a kind of organism	nongold
+39	avoiding is a kind of defense	nongold
+40	a human is a kind of animal	nongold
+41	death means to die	nongold
+42	a plant; living thing requires food for survival	nongold
+43	prey  is a kind of animal	nongold
+44	harming an organism can cause that organism to die	nongold
+45	damage has a negative impact on a thing	nongold
+46	bacteria; viruses cause food poisoning	nongold
+47	if a living thing dies then that living thing is dead	nongold
+48	an enemy is a threat	nongold
+49	a pesticide is usually very poisonous to insects	nongold
+50	an insect has three body parts	nongold
+51	something dangerous can cause harm	nongold
+52	answering questions requires information	nongold
+53	a reptile is a kind of animal	nongold
+54	chemicals means substances	nongold
+55	poisonous darts are used for defense by sea anemones	nongold
+56	an threat threatens	nongold
+57	prey is a kind of food for predators	nongold
+58	material means substance	nongold
+59	an event is a kind of action	nongold
+60	can be means able to be	nongold
+61	poisoning an environment means poisoning the organisms in that environment	nongold
+62	an animal is a member of an animal species	nongold
+63	a predator eats other animals for food	nongold
+64	nonliving; non-living; die is the opposite of living; alive; live	nongold
+65	something is used for that something's purpose	nongold
+66	to try means to make an effort	nongold
+67	strong means high in strength	nongold
+68	an ant is a kind of insect	nongold
+69	resistances are a property of living things	nongold
+70	if an organism can do something , then that organism is able to do that something	nongold
+71	animal instinct means instinctive behavior	nongold
+72	a fungus is a kind of living thing	nongold
+73	a pesticide is used for protecting plants by killing insects	nongold
+74	a germ is a kind of harmful substance	nongold
+75	if two things perform the same function then those two things are similar	nongold
+76	to give off means to be the source of	nongold
+77	survive means live	nongold
+78	survive means live	nongold
+79	a predator usually kills its prey to eat it	nongold
+80	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+81	species means a group of like organisms	nongold
+82	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+83	a source of something emits; produces; generates; provides that something	nongold
+84	to use means to utilize	nongold
+85	eating an animal; a plant means killing that animal; that plant	nongold
+86	acidic means low; 0 to 6 in pH	nongold
+87	life means living things	nongold
+88	to act on means to affect	nongold
+89	high is similar to increase	nongold
+90	an animal; living thing requires nutrients for survival	nongold
+91	knowing sometimes requires determing	nongold
+92	a reaction is a kind of process	nongold
+93	threatening behavior causes a fight-or-flight response in animals	nongold
+94	an object is made of its parts	nongold
+95	impact means effect	nongold
+96	an part of an object is smaller than the entire object	nongold
+97	harm means danger	nongold
+98	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+99	weak means low in strength	nongold

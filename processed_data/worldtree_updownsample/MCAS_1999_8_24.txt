@@ -1,0 +1,68 @@
+0	a rabbit is a kind of mammal	gold
+1	predators; carnivores; omnivores eat other animals	gold
+2	an organism is a living thing	nongold
+3	eagle	answer
+4	grass is a kind of green plant	nongold
+5	eagle	answer
+6	a bird is a kind of living thing	nongold
+7	a turtle is a kind of omnivore	nongold
+8	a rabbit is a kind of mammal	gold
+9	a mammal is a kind of animal	gold
+10	a deer mouse is a kind of mouse	nongold
+11	eagles eat fish	gold
+12	aquatic animals; plants live in bodies of water	nongold
+13	an insect is a kind of animal	nongold
+14	bodies of water are located on Earth's surface	nongold
+15	answering questions requires information	nongold
+16	aquatic animal means water animal	nongold
+17	an eagle is a kind of bird	gold
+18	a relationship occurs when two or more things interact with one another	nongold
+19	eagles eat rabbits	gold
+20	a living thing is made of cells	nongold
+21	a plant is a kind of organism	nongold
+22	an eagle is a kind of bird	gold
+23	predators; carnivores; omnivores eat other animals	gold
+24	a fish is a kind of animal	gold
+25	a fish is a kind of animal	gold
+26	a reservoir is a kind of body of water	nongold
+27	Use the information below to answer the question. Each organism on Earth is a part of a complex relationship with other organisms. This relationship is called a food web. The following organisms are part of a food web typically located in and around a reservoir. algae fish rabbit eagle pine tree grass field mouse Which member of the food web is a carnivore?	question
+28	an eagle is a kind of predator	nongold
+29	eagles eat rabbits	gold
+30	eagle	answer
+31	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+32	located means situated	nongold
+33	a mammal is a kind of animal	gold
+34	fish eat insects	nongold
+35	an eagle is a kind of bird	gold
+36	eagle	answer
+37	Use the information below to answer the question. Each organism on Earth is a part of a complex relationship with other organisms. This relationship is called a food web. The following organisms are part of a food web typically located in and around a reservoir. algae fish rabbit eagle pine tree grass field mouse Which member of the food web is a carnivore?	question
+38	grass is green in color	nongold
+39	an eagle is a kind of carnivore	gold
+40	eagles live in trees	nongold
+41	a tree is a kind of plant	nongold
+42	an animal is a kind of living thing	nongold
+43	life means living things	nongold
+44	an eagle is a kind of carnivore	gold
+45	algae is a kind of plant	nongold
+46	eating an animal; a plant means killing that animal; that plant	nongold
+47	a worm is a kind of animal	nongold
+48	eagles eat fish	gold
+49	predators; carnivores; omnivores eat other animals	gold
+50	Use the information below to answer the question. Each organism on Earth is a part of a complex relationship with other organisms. This relationship is called a food web. The following organisms are part of a food web typically located in and around a reservoir. algae fish rabbit eagle pine tree grass field mouse Which member of the food web is a carnivore?	question
+51	eagles eat rabbits	gold
+52	rabbits eat plants	nongold
+53	a mouse is a kind of mammal	nongold
+54	if something is located  in somewhere , then something can be found in somewhere	nongold
+55	Use the information below to answer the question. Each organism on Earth is a part of a complex relationship with other organisms. This relationship is called a food web. The following organisms are part of a food web typically located in and around a reservoir. algae fish rabbit eagle pine tree grass field mouse Which member of the food web is a carnivore?	question
+56	a field is a kind of environment	nongold
+57	a mammal is a kind of animal	gold
+58	omnivores eat plants; animals	nongold
+59	an eagle is a kind of carnivore	gold
+60	a fungus is a kind of organism	nongold
+61	eagles eat fish	gold
+62	a fish is a kind of animal	gold
+63	a part of a living thing is a natural structure	nongold
+64	a rabbit is a kind of mammal	gold
+65	a mouse is a kind of herbivore	nongold
+66	a mouse is a kind of animal	nongold
+67	location is a kind of information	nongold

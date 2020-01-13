@@ -1,0 +1,102 @@
+0	plastic is microwave-safe	nongold
+1	harm means injury	nongold
+2	the function of something is what that something  is used to do	nongold
+3	electrocution causes harm to an organism	gold
+4	plastic is a kind of thermal insulator	nongold
+5	plastic is high in strength	nongold
+6	covering something is a kind of protection	nongold
+7	electrical insulation requires wrapping a conductor in an insulator	gold
+8	insulation requires an insulator	nongold
+9	electrical devices are used for industrial purposes; household purposes by humans	nongold
+10	protection means resistance to damage increases	nongold
+11	thermal insulation requires covering the conductor with an insulator	nongold
+12	a wire is a kind of object	nongold
+13	conductivity is a property of a material; substance	nongold
+14	wax is an electrical; electrical energy insulator	nongold
+15	good means positive	nongold
+16	a conducting metal loop is a kind of electromagnet	nongold
+17	a circuit is a kind of electrical component	nongold
+18	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	gold
+19	electrical current running through a wire causes that wire to heat up; to become warm	nongold
+20	answering questions requires information	nongold
+21	harm means danger	nongold
+22	plastic is usually an electrical insulator	gold
+23	to be good for means to have a positive impact on	nongold
+24	an insulator is the opposite of a conductor	gold
+25	metal is a thermal; thermal energy conductor	nongold
+26	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+27	an object has properties	nongold
+28	harming something has a  negative impact on; effect on that something	nongold
+29	an insulator is a kind of material	nongold
+30	electricity is used as an energy source by electrical devices	nongold
+31	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+32	wood is an thermal; thermal energy insulator	nongold
+33	a human is a kind of animal	gold
+34	an electrical charge can attract objects to other objects	nongold
+35	to help; to benefit means to be of use	nongold
+36	an electrical device requires electricity to turn on	nongold
+37	electric devices require electrical energy to function	nongold
+38	a cable is similar to a wire	nongold
+39	An electrical conductor is a vehicle for the flow of electricity	nongold
+40	electric shock occurs when a person contacts a source of electrical energy	nongold
+41	to protect means to make safe	nongold
+42	closing an electric circuit causes an electrical device to function	nongold
+43	protecting something means preventing harm to that something	gold
+44	a good conductor is a conductor	nongold
+45	wood is a thermal; thermal energy insulator	nongold
+46	a machine is a kind of  device	nongold
+47	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+48	a device is a kind of object	nongold
+49	electricity means electrical energy	nongold
+50	a tool is a kind of object	nongold
+51	material means substance	nongold
+52	damage means harm	nongold
+53	conduction is a kind of process	nongold
+54	electrical current means electrical energy	nongold
+55	a battery-operated device is a kind of electrical device	nongold
+56	plastic is a kind of electrical insulator	nongold
+57	a user is a kind of person	gold
+58	to protect means to defend	nongold
+59	insulator means good insulator	gold
+60	a wire is a kind of path for electricity	nongold
+61	safe is the opposite of unsafe; harm; danger	nongold
+62	negative impact is the opposite of positive impact	nongold
+63	is a good electrical insulator.	answer
+64	something harmful can cause harm	nongold
+65	household appliances are a kind of electrical device	nongold
+66	conducting is a kind of function	nongold
+67	carrying is similar to conducting	nongold
+68	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+69	protecting is a kind of function	nongold
+70	plastic is always nonmagnetic	nongold
+71	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+72	something hard; something strong can be used for protection	nongold
+73	if an object is made of a material then that object has the properties of that material	nongold
+74	a wire is a part of an electrical circuit for conducting electricity	nongold
+75	solution is similar to a positive impact	nongold
+76	a larger power source provides more current to a wire; a conductor; an electromagnet	nongold
+77	best means most positive	nongold
+78	wiring requires an electrical conductor	nongold
+79	something dangerous can cause harm	nongold
+80	damage has a negative impact on a thing	nongold
+81	better means good	nongold
+82	an electrical insulator slows; prevents the transfer of; flow of electricity	gold
+83	useful means good to use	nongold
+84	conductivity is a measure of how easily electricity travels through a material	nongold
+85	a type is synonymous with a kind	nongold
+86	metal is an  electrical; electrical energy conductor	nongold
+87	A conducting wire wrapped in plastic protects the user because the plastic	question
+88	metal is a kind of substance	nongold
+89	adverse effect means negative impact	nongold
+90	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+91	a wire is usually made of metal	nongold
+92	a thermal conductor is made of materials that conduct thermal energy	nongold
+93	rubber is thermal;thermal energy insulator	nongold
+94	conductivity is a kind of physical property	nongold
+95	helping something has a  positive impact on that something	nongold
+96	plastic is a kind of material made by humans	nongold
+97	plastic is recyclable	nongold
+98	to conduct is similar to to transfer	nongold
+99	to serve as means to be used as	nongold
+100	wrapping is similar to covering	nongold
+101	metal is a kind of material	nongold

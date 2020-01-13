@@ -1,0 +1,101 @@
+0	Repeating experiments improves the likelihood of accurate results because the overall results are	question
+1	more likely to be correct due to fewer errors being made.	answer
+2	if an experiment is repeated then the results are more likely to be correct due to fewer errors being made	gold
+3	comparing data increases; improves the likelihood of obtaining accurate experiment results	nongold
+4	to improve the chances means to increase the likelihood	nongold
+5	to repeat an experiment means to perform multiple trials of the same experiment	nongold
+6	repeating the same experiment can be used for comparing  data	nongold
+7	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	nongold
+8	more likely means increased likelihood	nongold
+9	chance means likelihood	nongold
+10	to improve means to have a positive impact	nongold
+11	likelihood is simiar to probability	nongold
+12	observations; data are a part of the results of an experiment	nongold
+13	less is the opposite of more	nongold
+14	experiment is synonymous with test	nongold
+15	less is similar to decrease	nongold
+16	result means outcome	nongold
+17	fewer means lower; less in number	nongold
+18	experimentation requires measuring	nongold
+19	increase means more	nongold
+20	an increase is the opposite of a decrease	nongold
+21	trial is synonymous with test	nongold
+22	bias can cause error in an experiment	nongold
+23	greater means higher; more in value	nongold
+24	analyzing all results has a  positive impact on the effort to remain objective during experiments	nongold
+25	high is similar to increase	nongold
+26	to impact means to affect	nongold
+27	due to means caused by	nongold
+28	little is similar to decrease	nongold
+29	low is similar to decrease	nongold
+30	lower means less	nongold
+31	often is similar to likely	nongold
+32	to cause an event means to make that event more likely	nongold
+33	to advance means to improve	nongold
+34	consistent means constant	nongold
+35	100% probability means always	nongold
+36	investigation sometimes requires experimentation	nongold
+37	if an amount of objects decreases then those objects are fewer in number	nongold
+38	a human is a kind of animal	nongold
+39	less means a reduced amount	nongold
+40	an increase is a kind of change	nongold
+41	to produce means to result in	nongold
+42	determining is similar to learning	nongold
+43	answering questions requires information	nongold
+44	to cause means to make	nongold
+45	to lower means to decrease	nongold
+46	to cause means to result in	nongold
+47	to reduce means to decrease	nongold
+48	matter; materials; substances are made of atoms; particles	nongold
+49	25% probability is similar to one in four	nongold
+50	product means result	nongold
+51	determining often requires measuring; observing	nongold
+52	can be means able to be	nongold
+53	low is the opposite of high	nongold
+54	good means positive	nongold
+55	impact means effect	nongold
+56	affected means changed	nongold
+57	consistent means usual	nongold
+58	testing often requires measuring	nongold
+59	to slow; to slow down decreases speed	nongold
+60	an animal is a kind of organism	nongold
+61	solution is similar to a positive impact	nongold
+62	negative impact is the opposite of positive impact	nongold
+63	a result of something is evidence of that something	nongold
+64	an animal is a kind of living thing	nongold
+65	a theory is more accepted; tested than a hypothesis	nongold
+66	person is synonymous with human	nongold
+67	learned behaviors are learned over the  lifetime of the animal	nongold
+68	a learned characteristic is a kind of acquired characteristic	nongold
+69	performing lab expiriments accurately requires reading; understanding all directions beforehand	nongold
+70	definite is the opposite of variable	nongold
+71	a decrease is a kind of change	nongold
+72	scientists make observations	nongold
+73	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+74	to add means to increase	nongold
+75	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+76	harming something has a  negative impact on; effect on that something	nongold
+77	hypothesis means scientific guess about the cause and effect of an event	nongold
+78	a negative impact is a kind of consequence; risk	nongold
+79	a short wavelength has low; little distance before it repeats	nongold
+80	trait is synonymous with characteristic	nongold
+81	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+82	a factor impacts something	nongold
+83	too much is similar to increase	nongold
+84	best means most positive	nongold
+85	extreme means very high in value	nongold
+86	to be good for means to have a positive impact on	nongold
+87	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+88	strong means high in strength	nongold
+89	to pass means to occur	nongold
+90	nucleotide is a kind of repeating unit in DNA	nongold
+91	a particle is a kind of object	nongold
+92	research is used for learning	nongold
+93	a hypothesis is a kind of scientific term	nongold
+94	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+95	human is similar to individual	nongold
+96	weak means low in strength	nongold
+97	events occur at a specific place; at a specific time; with a specific frequency	nongold
+98	little means small	nongold
+99	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+100	if an animal is trained to do something then that something is a learned behavior	nongold

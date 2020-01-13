@@ -1,0 +1,52 @@
+0	answering questions requires information	nongold
+1	fossil fuels are a nonrenewable resource	nongold
+2	using less of a resource means conserving that resource	nongold
+3	a kind of something is an example of that something	nongold
+4	using the fuel requires burning the fuel	nongold
+5	to be used for something means to be required by that something	nongold
+6	avoiding is a kind of conditioned behavior	nongold
+7	natural gas is a nonrenewable resource	nongold
+8	An example of conservation is not using fossil fuel	gold
+9	escape means avoid	nongold
+10	Using fossil fuels wisely and avoiding waste is an example of	question
+11	using raw materials increases waste	nongold
+12	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+13	a source of something emits; produces; generates; provides that something	nongold
+14	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+15	conservation.	answer
+16	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+17	to help; to benefit means to be of use	nongold
+18	an event is a kind of action	nongold
+19	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+20	burning gasoline; oil is a source of air pollution	nongold
+21	fossil fuels are a kind of energy resource	nongold
+22	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+23	conserving resources has a positive impact on the environment	nongold
+24	Using fossil fuels wisely and avoiding waste is an example of	question
+25	An example of conservation is not using fossil fuel	gold
+26	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+27	garbage means waste	nongold
+28	consumption means use	nongold
+29	An example of conservation is not using fossil fuel	gold
+30	trash is synonymous with waste	nongold
+31	Using fossil fuels wisely and avoiding waste is an example of	question
+32	a negative impact is a kind of consequence; risk	nongold
+33	using a car causes pollution	nongold
+34	causing is similar to allowing	nongold
+35	conservation.	answer
+36	Using fossil fuels wisely and avoiding waste is an example of	question
+37	acquiring fossil fuels is dangerous for the environment	nongold
+38	gases released during the use of fossil fuels causes global warming	nongold
+39	renewable resources can be used over again	nongold
+40	oil is a kind of fossil fuel	nongold
+41	conservation.	answer
+42	An example of conservation is avoiding waste	gold
+43	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+44	negative impact is the opposite of positive impact	nongold
+45	An example of conservation is avoiding waste	gold
+46	avoiding is similar to preventing	nongold
+47	to depend on; to rely on; to need means to require	nongold
+48	An example of conservation is avoiding waste	gold
+49	conservation.	answer
+50	An example of avoiding waste is using an object; a material more than once	nongold
+51	a fossil fuel is a kind of natural resource	nongold

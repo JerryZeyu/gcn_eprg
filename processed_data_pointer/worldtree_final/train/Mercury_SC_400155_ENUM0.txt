@@ -1,0 +1,102 @@
+0	a flashlight converts electrical energy; electricity into light energy	gold
+1	device means tool	nongold
+2	materials are made of matter	nongold
+3	a laser is used for producing light	nongold
+4	different substances usually have different amount of chemical energy	nongold
+5	light is a kind of energy	nongold
+6	a flashlight is a kind of electrical device	nongold
+7	a type is synonymous with a kind	nongold
+8	batteries convert chemical energy to electrical energy	nongold
+9	a type of something is a kind of property of that something	nongold
+10	a laser is a kind of device for producing light	nongold
+11	objects are made of materials; substances; matter	nongold
+12	electricity means electrical energy	nongold
+13	UV light is a kind of light	nongold
+14	composed of means made of	nongold
+15	a light bulb is a kind of tool for seeing in the dark	nongold
+16	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+17	matter; materials; substances are made of atoms; particles	nongold
+18	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+19	substances have chemical properties	nongold
+20	transfer is a kind of change	nongold
+21	chemical reactions cause chemical change	nongold
+22	light means light energy	nongold
+23	to transform means to convert	nongold
+24	a battery is a kind of object	nongold
+25	to produce means to create	nongold
+26	a living thing is a kind of object	nongold
+27	food is a kind of chemical energy	nongold
+28	a light bulb is a kind of electrical device	nongold
+29	a light bulb is a part of a  lamp	nongold
+30	chemical reactions cause new substances; different substances to form	nongold
+31	electrical energy is a kind of energy	nongold
+32	to convert means to exchange	nongold
+33	an increase is a kind of change	nongold
+34	substances are made of molecules	nongold
+35	to shine means to emit light	nongold
+36	combustion means fire converts chemical energy into light energy and heat energy	nongold
+37	wood is a light material	nongold
+38	forming is similar to converting	nongold
+39	a lit candle converts chemical energy into light energy; heat energy	nongold
+40	Which type of energy conversion occurs in a flashlight?	question
+41	converting is a kind of function	nongold
+42	sunlight is a kind of light	nongold
+43	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+44	classifying is when one sorts something by kind; type	nongold
+45	a battery is a source of electrical energy; electricity	nongold
+46	answering questions requires information	nongold
+47	chemical to light	answer
+48	convert is similar to transfer	nongold
+49	converting is similar to producing	nongold
+50	an object; material; substance comes from that object or material's source	nongold
+51	if something transfers something else then that something is a source of something else	nongold
+52	form means kind	nongold
+53	a battery-operated device is a kind of electrical device	nongold
+54	compound is a kind of chemical	nongold
+55	to convert means to change	nongold
+56	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+57	electricity is used as an energy source by electrical devices	nongold
+58	a flashlight is a kind of tool	nongold
+59	a tool is a kind of object	nongold
+60	metal is an  electrical; electrical energy conductor	nongold
+61	chemicals means substances	nongold
+62	visible light is a kind of  light	nongold
+63	can be means able to be	nongold
+64	substances are made of matter	nongold
+65	if an object undergoes chemical change then that object will have new chemical properties	nongold
+66	to create means to make	nongold
+67	a flashlight emits light	nongold
+68	objects contain chemical energy	nongold
+69	heat is a kind of energy	nongold
+70	solar energy is a kind of light	nongold
+71	matter is made of molecules	nongold
+72	a battery contains chemical energy	nongold
+73	An example of a chemical property is how a material reacts chemically	nongold
+74	a molecule is made of atoms chemically combined; bonded	nongold
+75	converting is similar to releasing	nongold
+76	cellular energy is a kind of chemical energy	nongold
+77	chemical energy is a kind of energy	nongold
+78	a source of something emits; produces; generates; provides that something	nongold
+79	a flashlight is a kind of battery-operated device	nongold
+80	a device is a kind of object	nongold
+81	conversion is a kind of process	nongold
+82	chemical change is a kind of chemical reaction	nongold
+83	an animal is a kind of living thing	nongold
+84	a kind of something is an example of that something	nongold
+85	chemical bonds are formed by chemically combining elements; atoms; molecules	nongold
+86	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+87	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+88	chemical energy is a kind of potential energy	nongold
+89	instrument means device	nongold
+90	a flashlight requires a source of electricity to produce light	nongold
+91	to illuminate means to light up	nongold
+92	energy transformation means one kind of energy changes into another kind of energy	nongold
+93	energy conversion is similar to energy transformation	nongold
+94	metal is a kind of material	nongold
+95	converting is similar to generating	nongold
+96	to turn means to convert	nongold
+97	to happen means to occur	nongold
+98	if an object is made of a material then that object has the properties of that material	nongold
+99	light is a kind of energy	nongold
+100	emit means produce	nongold
+101	a firecracker converts chemical energy into sound energy and light energy and heat energy	nongold

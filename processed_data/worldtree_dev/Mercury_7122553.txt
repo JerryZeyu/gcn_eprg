@@ -1,0 +1,102 @@
+Question	Just as biologists classify living things, astronomers classify galaxies. What feature is used to classify galaxies?	question
+Answer	shape	answer
+0	feature is synonymous with characteristic	nongold
+1	a property of something is a feature of that something	gold
+2	shape is a property of an object	nongold
+3	galaxies can be classified  by shape	gold
+4	shape of the parts of something is a property of that something	nongold
+5	a living thing is a kind of object	nongold
+6	shape is a kind of characteristic	nongold
+7	structure is similar to shape	nongold
+8	a structure is a kind of feature	nongold
+9	classifying means grouping objects; materials by their properties	nongold
+10	astronomy is the study of celestial (objects, bodies)	nongold
+11	classify is similar to characterize	nongold
+12	to categorize means to classify	nongold
+13	classifying is when one sorts something by kind; type	nongold
+14	a galaxy is a kind of celestial body; celestial object	nongold
+15	life means living things	nongold
+16	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+17	length is a property of the shape of an object	nongold
+18	a biologist is a kind of scientist	nongold
+19	an organism is a living thing	nongold
+20	if something is definite in shape then that something will not change shape easily	nongold
+21	shape is a kind of physical property	gold
+22	galaxies are usually thousands of light years in diameter	nongold
+23	irregular is a kind of shape	nongold
+24	biology is a kind of science	nongold
+25	an animal is a kind of living thing	nongold
+26	round means circular in shape	nongold
+27	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+28	a galaxy is made of a group of objects in space	nongold
+29	the properties of something are used for describing that something	nongold
+30	a galaxy is a kind of celestial body	nongold
+31	elliptical is a kind of shape	nongold
+32	elliptical is a kind of shape	nongold
+33	can be means able to be	nongold
+34	the properties of something can be used to identify; used to describe that something	nongold
+35	a galaxy is made of stars	nongold
+36	shape is an extensive property	nongold
+37	a galaxy contains dust; stars; planets	nongold
+38	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+39	to belong to a class means to be a kind of something	nongold
+40	an part of an object is smaller than the entire object	nongold
+41	an object is made of its parts	nongold
+42	live means to be alive	nongold
+43	scientists make observations	nongold
+44	matter; materials; substances are made of atoms; particles	nongold
+45	surface area is a property of shape	nongold
+46	shape is a property of the appearance of an object	nongold
+47	variability of shape; variability of volume is a kind of physical property	nongold
+48	spiral is a kind of shape	nongold
+49	a star is a kind of celestial object; celestial body	nongold
+50	circular means having the shape of a circle	nongold
+51	length is a part of size	nongold
+52	a cloud of dust and gas is a kind of feature	nongold
+53	composed of means made of	nongold
+54	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+55	measuring is used for describing an object	nongold
+56	what an object is made of is a kind of characteristic	nongold
+57	a part of something is a property of that something	nongold
+58	a circle is a kind of shape	nongold
+59	motion; movement means moving; to move	nongold
+60	a elliptical galaxy is a kind of galaxy	nongold
+61	a galaxy is a kind of structure	nongold
+62	objects are made of materials; substances; matter	nongold
+63	if an object is made of something then the parts of that object are made of that something	nongold
+64	a type is synonymous with a kind	nongold
+65	the parts of something make up that something	nongold
+66	a type of something is a kind of property of that something	nongold
+67	Matter in the gas phase has variable shape	nongold
+68	made up of means contains; made of	nongold
+69	form means kind	nongold
+70	to classify means to decide what class something belongs to	nongold
+71	once-living means dead	nongold
+72	classification is a kind of process	nongold
+73	folding an object causes that object to change shape	nongold
+74	category means kind	nongold
+75	an object has properties	nongold
+76	landform means surface feature; physical feature; land feature	nongold
+77	sharpening an object causes that object to change shape	nongold
+78	size; amount of space means volume	nongold
+79	biological means of biology	nongold
+80	distance is a property of space and includes ordered values of close; far	nongold
+81	affected means changed	nongold
+82	a planet is a kind of celestial object; body	nongold
+83	Matter in the solid phase has definite shape	nongold
+84	a spiral galaxy is a kind of galaxy	nongold
+85	a source of something emits; produces; generates; provides that something	nongold
+86	the shape  of an object can be discovered through feeling that object; touching that object	nongold
+87	a structure of something is synonymous with a part of that something	nongold
+88	an irregular galaxy is a kind of galaxy	nongold
+89	astronomy is a kind of branch of science	nongold
+90	sharpness is a property of shape	nongold
+91	bending is a kind of change of shape	nongold
+92	definite shape means the shape of an object stays the same when moved to different spot	nongold
+93	to turn means to change	nongold
+94	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+95	astronomical unit is a measure of distance between Earth and the Sun	nongold
+96	length is a measure of distance from one end of an object to the other end of that object	nongold
+97	to be made of something means to be formed of that something	nongold
+98	something is used for that something's purpose	nongold
+99	stretching is a kind of change in shape	nongold

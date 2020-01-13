@@ -1,0 +1,102 @@
+0	classifying is when one sorts something by kind; type	nongold
+1	an part of an object is smaller than the entire object	nongold
+2	calculation means measurement	nongold
+3	smaller means less; lower in size	nongold
+4	a saw can be used to cut objects	nongold
+5	break down means change from a whole into pieces	nongold
+6	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+7	fewest means lowest; least in number	nongold
+8	a trunk is a source of support for a tree	nongold
+9	height is a property of the size of an object	nongold
+10	a piece of an object is smaller in size than the whole object	nongold
+11	if a tree is cut down then that tree will die	nongold
+12	larger means greater; higher; more; increase in size	nongold
+13	lowest means least in value; amount; number	nongold
+14	A large tree was cut down with a saw. What is the best way to estimate the age of this tree?	question
+15	higher means greater; above in value; amount; number	nongold
+16	the number of parts of something is a property of that something	nongold
+17	objects are made of materials; substances; matter	nongold
+18	counting something usually requires seeing that something	nongold
+19	classifying means grouping objects; materials by their properties	nongold
+20	a ring is a kind of object	nongold
+21	bark is a part of a tree	nongold
+22	little means small	nongold
+23	a tree is a kind of living thing	nongold
+24	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+25	count the number of rings in the trunk	answer
+26	cutting a material usually requires measuring length	nongold
+27	a part of a living thing is a natural structure	nongold
+28	largest means greatest in size	nongold
+29	a type is synonymous with a kind	nongold
+30	circular means having the shape of a circle	nongold
+31	a structure of something is synonymous with a part of that something	nongold
+32	if an object is made of something then the parts of that object are made of that something	nongold
+33	a tree is a kind of plant	nongold
+34	a leaf is a part of a tree	nongold
+35	an animal is a kind of living thing	nongold
+36	height is a measure of length from the top of an object to the bottom of an object	nongold
+37	greatest means largest; highest; most amount of something	nongold
+38	an object is made of its parts	nongold
+39	cutting means changing the object from a whole into smaller pieces	nongold
+40	growth means size;number;value;strength increases	nongold
+41	largest amount means most	nongold
+42	roots are a part of a plant; tree	nongold
+43	shortest means least; smallest in length	nongold
+44	a kind of something is an example of that something	nongold
+45	one in  two means half; 50%	nongold
+46	a plant is a kind of living thing	nongold
+47	if something is made of something else then that something can be broken down into that something else	nongold
+48	the number of rings in a tree trunk can be used to estimate the age of the tree	gold
+49	to split means to break down	nongold
+50	one is a kind of number	nongold
+51	building usually requires cutting down trees	nongold
+52	a plant is a kind of organism	nongold
+53	a leaf is small in size	nongold
+54	a tree is a kind of matter	nongold
+55	many means high in number	nongold
+56	a branch is a part of a tree	nongold
+57	longest means greatest in length	nongold
+58	greater means higher; more in value	nongold
+59	a circle is a kind of shape	nongold
+60	amount is similar to number	nongold
+61	a tool is a kind of object	nongold
+62	calculating is similar to estimating	nongold
+63	small is the opposite of large	nongold
+64	length is a property of the shape of an object	nongold
+65	measuring requires reading a measurement	nongold
+66	the parts of something make up that something	nongold
+67	same means identical; equal in value; amount; number; quantity	nongold
+68	to measure means to calculate	nongold
+69	strong means high in strength	nongold
+70	round means circular in shape	nongold
+71	a source of something emits; produces; generates; provides that something	nongold
+72	thin means small in width	nongold
+73	a living thing is a kind of object	nongold
+74	to see means to look	nongold
+75	to break down means to break into smaller pieces	nongold
+76	a leaf is a kind of plant	nongold
+77	atomic number is a property of elements	nongold
+78	furthest; farthest means greatest; most; highest in distance	nongold
+79	determining often requires measuring; observing	nongold
+80	measuring is used for describing an object	nongold
+81	highest means largest; greatest; most in height	nongold
+82	seeing is used for sensing visual things	nongold
+83	to be made of something means to be formed of that something	nongold
+84	an organism is a living thing	nongold
+85	composed of means made of	nongold
+86	can be means able to be	nongold
+87	a leaf is a kind of object	nongold
+88	length is a measure of distance from one end of an object to the other end of that object	nongold
+89	high is similar to increase	nongold
+90	length is a part of size	nongold
+91	a trunk is a part of a tree for supporting the tree	nongold
+92	long means great in length	nongold
+93	four is a kind of number	nongold
+94	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+95	accounting for means making up some amount	nongold
+96	person is synonymous with human	nongold
+97	fewer means lower; less in number	nongold
+98	separate is similar to break down	nongold
+99	answering questions requires information	nongold
+100	larger; bigger is the opposite of smaller	nongold
+101	how many means what number	nongold

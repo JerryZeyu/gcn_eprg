@@ -1,0 +1,101 @@
+0	paper is recyclable	nongold
+1	materials are made of matter	nongold
+2	matter; materials; substances are made of atoms; particles	nongold
+3	magnetism is a kind of energy	nongold
+4	objects are made of materials; substances; matter	nongold
+5	metal is a kind of substance	nongold
+6	conductivity is a kind of physical property	nongold
+7	a tool is a kind of object	nongold
+8	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+9	an electromagnet is a kind of device	nongold
+10	if an object is made of a material then that object has the properties of that material	gold
+11	substances are made of matter	nongold
+12	an event is a kind of action	nongold
+13	a magnet is a kind of object	nongold
+14	steel; carbon steel is always ferromagnetic; magnetic	nongold
+15	a paper is a kind of object	nongold
+16	a student is a kind of human	nongold
+17	a particle is a kind of object	nongold
+18	magnetism is a kind of force	nongold
+19	charged particles are a kind of high-energy particles	nongold
+20	magnetism is a kind of physical property	nongold
+21	magnetic force means magnetism	nongold
+22	electric currents produce magnetic fields	nongold
+23	helping something has a  positive impact on that something	nongold
+24	Goslarite is always magnetic	nongold
+25	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+26	soft iron; iron is always ferromagnetic; magnetic	nongold
+27	Siderite is always magnetic	nongold
+28	determining often requires measuring; observing	nongold
+29	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+30	magnetism can affect objects that are not touching	nongold
+31	to make something easier means to help	nongold
+32	to help means to aid	nongold
+33	paper is not durable	nongold
+34	an electromagnet is a kind of electric magnet	nongold
+35	a sheet of paper is a kind of object	nongold
+36	helping means to assist in a change	nongold
+37	help means advantage	nongold
+38	a block is a kind of object	gold
+39	an object; material; substance comes from that object or material's source	nongold
+40	magnetic attraction pulls two objects together	nongold
+41	a piece of something is a kind of object	nongold
+42	determining is similar to controlling	nongold
+43	can be means able to be	nongold
+44	metal is sometimes magnetic	nongold
+45	a sheet of is similar to a piece of	nongold
+46	a human is a kind of animal	nongold
+47	if a magnet is attracted to a metal then that magnet will stick to that metal	nongold
+48	state of matter is a kind of physical property	nongold
+49	a paper clip is a kind of object	gold
+50	material means substance	nongold
+51	to enable is to help	nongold
+52	Magnetite is always magnetic	nongold
+53	magnetism can cause objects to repel each other	nongold
+54	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+55	an insulator is a kind of material	nongold
+56	device means tool	nongold
+57	a source of something emits; produces; generates; provides that something	nongold
+58	a component of something means a part of that something	nongold
+59	paper is a kind of material	nongold
+60	electromagnets generate magnetic fields	nongold
+61	to help; to benefit means to be of use	nongold
+62	physical state means state of matter	nongold
+63	metal is a kind of material	gold
+64	a paper clip is often made of magnetic metals; ferromagnetic metals	gold
+65	helping means something can be done; completed more easily; better	nongold
+66	paper clip	answer
+67	conductivity is a property of a material; substance	nongold
+68	paper can  not be melted	nongold
+69	Epidote is always magnetic	nongold
+70	paper is always nonmagnetic	nongold
+71	requiring is similar to needing help	nongold
+72	an part of an object is smaller than the entire object	nongold
+73	electromagnetic energy is a kind of energy	nongold
+74	a living thing is a kind of object	nongold
+75	magnetic separation is using a magnet to attract magnetic material from the mixture of magnetic and nonmagnetic material	nongold
+76	solid is a kind of state of matter	nongold
+77	an object has properties	nongold
+78	particles in objects are a kind of matter	nongold
+79	magnetic energy is a kind of energy	nongold
+80	metal is an  electrical; electrical energy conductor	nongold
+81	magnet can be  used for separating a magnetic material from a mixture of a magnetic and nonmagnetic material	nongold
+82	an insulator is the opposite of a conductor	nongold
+83	answering questions requires information	nongold
+84	determine is similar to cause	nongold
+85	a piece is a part of a whole	nongold
+86	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	gold
+87	a device is a kind of object	nongold
+88	to be helpful means to help to do	nongold
+89	a paper bag is a kind of object	nongold
+90	Magnetoplumbite is always magnetic	nongold
+91	best means most positive	nongold
+92	media; medium means the material something travel through	nongold
+93	determining is similar to learning	nongold
+94	to be used  for something means to help to do that something	nongold
+95	a horseshoe magnet is a kind of magnet	nongold
+96	identifying is similar to determining	nongold
+97	Which object would best help a student determine if a block of an unknown material is magnetic?	question
+98	if something is made of something; a material then that something contains that something; that material	nongold
+99	if something contains a large amount of magnetic material then that something will attract magnets	nongold
+100	plastic is always nonmagnetic	nongold

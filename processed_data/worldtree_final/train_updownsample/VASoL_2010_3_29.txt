@@ -1,0 +1,84 @@
+0	person is synonymous with human	gold
+1	a bird is a kind of animal	nongold
+2	death means to die	gold
+3	logging is when humans cut down trees; forests for wood	gold
+4	protecting something means preventing harm to that something	gold
+5	protecting something means preventing harm to that something	gold
+6	better means good	nongold
+7	planting trees is the opposite of cutting down trees	nongold
+8	removing a forest means cutting down a forest	gold
+9	place means area	nongold
+10	People can help keep a forest a good place for birds to live by	question
+11	harming something has a  negative impact on; effect on that something	gold
+12	People can help keep a forest a good place for birds to live by	question
+13	to enable is to help	nongold
+14	protecting nature has a positive impact on the environment	nongold
+15	negative impact is the opposite of positive impact	gold
+16	some animals live in forests	nongold
+17	a forest is a kind of environment	gold
+18	people can plant trees	nongold
+19	person is synonymous with human	gold
+20	removing a forest means cutting down a forest	gold
+21	cutting down a forest means cutting down the trees in that forest	gold
+22	some birds live in forests	gold
+23	a forest contains  lots of plants; trees	gold
+24	a forest is a kind of ecosystem	nongold
+25	deforested area means an area where trees have been cut down	nongold
+26	killing means changing a living thing from alive to dead by harming	gold
+27	a forest is a kind of environment	gold
+28	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+29	a forest is a kind of environment	gold
+30	People can help keep a forest a good place for birds to live by	question
+31	good means positive	gold
+32	killing means harming something causing death	nongold
+33	protecting something means preventing harm to that something	gold
+34	preventing too many trees from being cut down	answer
+35	preventing too many trees from being cut down	answer
+36	good means positive	gold
+37	a forest contains  lots of plants; trees	gold
+38	killing means changing a living thing from alive to dead by harming	gold
+39	harming something has a  negative impact on; effect on that something	gold
+40	person is synonymous with human	gold
+41	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+42	logging is when humans cut down trees; forests for wood	gold
+43	a forest contains  lots of plants; trees	gold
+44	best means most positive	nongold
+45	if something is required for a process then keeping that something from reaching that process can stop that process	nongold
+46	clearing a forest means humans cutting down the trees	nongold
+47	damage means harm	nongold
+48	removing a forest means cutting down a forest	gold
+49	a living thing is a kind of object	nongold
+50	harming something has a  negative impact on; effect on that something	gold
+51	preventing something decreases the amount of that something	nongold
+52	preventing too many trees from being cut down	answer
+53	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+54	a plant; living thing requires food for survival	nongold
+55	if a tree is cut down then that tree will die	nongold
+56	cutting down a forest means cutting down the trees in that forest	gold
+57	negative impact is the opposite of positive impact	gold
+58	woodland means forest	nongold
+59	to inhibit means to prevent	nongold
+60	a problem has a negative impact on a thing	nongold
+61	some birds live in forests	gold
+62	People can help keep a forest a good place for birds to live by	question
+63	death means to die	gold
+64	some birds live in forests	gold
+65	death means to die	gold
+66	too much is similar to increase	nongold
+67	damage has a negative impact on a thing	nongold
+68	forest is synonymous with wooded area	nongold
+69	killing means changing a living thing from alive to dead by harming	gold
+70	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+71	good means positive	gold
+72	an environment is a kind of place	gold
+73	an environment is a kind of place	gold
+74	an organism is a living thing	nongold
+75	preventing too many trees from being cut down	answer
+76	to be used  for something means to help to do that something	nongold
+77	to keep a process or event happening is similar to causing that process or event to happen	nongold
+78	an environment is a kind of place	gold
+79	negative impact is the opposite of positive impact	gold
+80	destroying a forest means cutting down the trees in that forest	nongold
+81	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+82	logging is when humans cut down trees; forests for wood	gold
+83	cutting down a forest means cutting down the trees in that forest	gold

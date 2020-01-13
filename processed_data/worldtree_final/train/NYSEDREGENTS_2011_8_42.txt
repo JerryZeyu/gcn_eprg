@@ -1,0 +1,101 @@
+0	Sound will not travel in a	question
+1	vacuum	answer
+2	sound cannot travel through a vacuum	gold
+3	sound requires matter to travel	nongold
+4	waves usually cannot travel through a vacuum	nongold
+5	sound travels slowest through gas	nongold
+6	electromagnetic waves can travel through a vacuum and matter	nongold
+7	sound can travel through air by vibrating air	nongold
+8	sound travels fastest through solid	nongold
+9	travel means to move	nongold
+10	light can travel through a vacuum	nongold
+11	media; medium means the material something travel through	nongold
+12	the type of material through which sound passes changes the speed  at which sound travels	nongold
+13	transport means to move; to make travel	nongold
+14	space is a vacuum	nongold
+15	light travels fastest through a vacuum	nongold
+16	to pass means to travel	nongold
+17	sound means sound energy	nongold
+18	sound is a kind of sound energy	nongold
+19	light travels faster than sound	nongold
+20	sound is a kind of air vibration	nongold
+21	air is a vehicle for sound	nongold
+22	sound travels as longitudinal waves	nongold
+23	gas is a kind of state of matter	nongold
+24	noise means sound	nongold
+25	liquid is a kind of state of matter	nongold
+26	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+27	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+28	furthest; farthest means greatest; most; highest in distance	nongold
+29	waves can travel through matter	nongold
+30	solid is a kind of state of matter	nongold
+31	the space between the Sun and earth is a vacuum	nongold
+32	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+33	sound is a kind of energy	nongold
+34	motion is when moves an object; something to a direction	nongold
+35	if sound is absorbed then that sound can not be heard	nongold
+36	loud means high in sound energy;sound intensity	nongold
+37	phase means state	nongold
+38	wave motion is transferred from the source to matter to produce sound	nongold
+39	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+40	particles in objects are a kind of matter	nongold
+41	cannot means not be able to	nongold
+42	matter; molecules vibrating can cause sound	nongold
+43	sound is produced when mechanical energy is transformed into sound energy	nongold
+44	state of matter means physical state	nongold
+45	electromagnetic energy travels as electromagnetic waves	nongold
+46	objects are made of materials; substances; matter	nongold
+47	human voice is a kind of sound	nongold
+48	state means form	nongold
+49	matter; materials; substances are made of atoms; particles	nongold
+50	substances are made of matter	nongold
+51	to travel up means to rise	nongold
+52	to transfer is similar to transport	nongold
+53	material means substance	nongold
+54	materials are made of matter	nongold
+55	distance is a property of space and includes ordered values of close; far	nongold
+56	a liquid is a kind of substance	nongold
+57	air is a kind of matter	nongold
+58	a vacuum has no matter in it	nongold
+59	physical state means state of matter	nongold
+60	form means kind	nongold
+61	vibration is a kind of motion	nongold
+62	air is a kind of gas	nongold
+63	distance moved; distance travelled is a measure of how far an object moves	nongold
+64	a container contains objects; material; substances	nongold
+65	sound wave is similar to sound	nongold
+66	hearing is a kind of sense	nongold
+67	affected means changed	nongold
+68	an echo is a kind of sound	nongold
+69	can be means able to be	nongold
+70	sound energy is transferred by vibrational waves	nongold
+71	state of matter is a kind of physical property	nongold
+72	a plane travels through the atmosphere	nongold
+73	reflecting light; sound is the opposite of absorbing light; sound	nongold
+74	gas is a kind of substance	nongold
+75	convert is similar to transfer	nongold
+76	vibrations are a source of sound	nongold
+77	vibrating matter can produce sound	nongold
+78	sound waves means sound energy	nongold
+79	louder means higher; greater in volume	nongold
+80	far means great in distance	nongold
+81	the air is a kind of substance	nongold
+82	Matter in the gas phase has variable volume	nongold
+83	intense sound energy can move objects	nongold
+84	extreme means very high in value	nongold
+85	moving is similar to travelling	nongold
+86	contents means the substance in a container	nongold
+87	to give is similar to to cause	nongold
+88	volume means the loudness of a sound	nongold
+89	to convert means to change	nongold
+90	atmosphere means  air	nongold
+91	lowest means least in value; amount; number	nongold
+92	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+93	to pass means to transfer	nongold
+94	to conduct is similar to to transfer	nongold
+95	frequency is a property of a wave; a particel of light; an event	nongold
+96	greatest means largest; highest; most amount of something	nongold
+97	to add means to increase	nongold
+98	size; amount of space means volume	nongold
+99	variable means able to change	nongold
+100	Matter in the liquid phase has definite volume	nongold

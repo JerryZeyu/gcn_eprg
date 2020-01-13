@@ -1,0 +1,66 @@
+0	a forest is a kind of environment	gold
+1	death means to die	nongold
+2	an organism is a living thing	nongold
+3	a deer is a kind of herbivore	nongold
+4	a mouse is a kind of animal	gold
+5	objects in an environment are a part of that environment	nongold
+6	an animal is a kind of organism	nongold
+7	habitat is similar to environment	gold
+8	a deer lives in a forest	nongold
+9	organisms; living things live in their habitat; their home	nongold
+10	squirrels live in forests	nongold
+11	a mouse is a kind of animal	gold
+12	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+13	a mouse is a kind of mammal	nongold
+14	habitat is similar to environment	gold
+15	survive means live	nongold
+16	an environment is similar to an ecosystem	nongold
+17	Which of these animals is most likely to be found living and feeding on the forest floors of Virginia?	question
+18	Which of these animals is most likely to be found living and feeding on the forest floors of Virginia?	question
+19	a mouse is a kind of herbivore	nongold
+20	an animal requires a habitat for survival	nongold
+21	ground means floor	gold
+22	if something does not move then that something can be found in the same location	nongold
+23	mice live in in holes in the ground in fields; in forests	gold
+24	organisms can be found in their habitats	nongold
+25	a mouse is a kind of animal	gold
+26	a human is a kind of animal	nongold
+27	fur is a part of a mouse	nongold
+28	a deer mouse is a kind of mouse	gold
+29	harming an animal species has a  negative impact on the population size of that species	nongold
+30	Deer mouse	answer
+31	a deer mouse is a kind of mouse	gold
+32	a living thing is a kind of object	nongold
+33	an ecosystem is a kind of habitat	nongold
+34	an animal is a kind of living thing	nongold
+35	a plant is a kind of living thing	nongold
+36	to prey on an animal means to eat that animal	nongold
+37	living underground can be used for hiding from predators	nongold
+38	habitat is similar to environment	gold
+39	animals; living things live and feed in their habitats; near their habitats	gold
+40	a plant is a kind of organism	nongold
+41	mice live in in holes in the ground in fields; in forests	gold
+42	Which of these animals is most likely to be found living and feeding on the forest floors of Virginia?	question
+43	a forest is a kind of environment	gold
+44	a deer mouse is a kind of mouse	gold
+45	a forest contains  lots of plants; trees	nongold
+46	vegetation means plants	nongold
+47	a deer is a kind of animal	nongold
+48	Deer mouse	answer
+49	to be found in means to be contained in	nongold
+50	mice live in in holes in the ground in fields; in forests	gold
+51	Virginia contains rivers	nongold
+52	ground means floor	gold
+53	if something is a part of something then that something can be found in that something	nongold
+54	an ecosystem contains nonliving things	nongold
+55	Which of these animals is most likely to be found living and feeding on the forest floors of Virginia?	question
+56	animals; living things live and feed in their habitats; near their habitats	gold
+57	ground means floor	gold
+58	an ecosystem contains a large community of; large numbers of living organisms	nongold
+59	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+60	animals; living things live and feed in their habitats; near their habitats	gold
+61	harming something has a  negative impact on; effect on that something	nongold
+62	Deer mouse	answer
+63	a forest is a kind of environment	gold
+64	Deer mouse	answer
+65	if a living thing requires something then that something has a positive impact on that living thing	nongold

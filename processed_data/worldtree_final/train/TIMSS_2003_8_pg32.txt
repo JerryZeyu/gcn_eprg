@@ -1,0 +1,102 @@
+0	A person in a dark room looking through a window can clearly see a person outside in the daylight. But a person outside cannot see the person inside. Why does this happen?	question
+1	There is not enough light being reflected off the person in the room.	answer
+2	light reflecting off of an object causes that object to be visible to the observer	nongold
+3	if something is in a dark place , then that something will not reflect enough light to be seen	gold
+4	if something is outside during the day , then that something will reflect enough light to be seen	gold
+5	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+6	if an object reflects light toward the eye then that object can be seen	gold
+7	a window is a kind of object	nongold
+8	sunlight can shine through a window	gold
+9	daylight means sunlight	gold
+10	a room is a kind of object	nongold
+11	if an object reflects more light then that object is more easily seen	nongold
+12	reflecting light; sound is the opposite of absorbing light; sound	nongold
+13	sunlight is a kind of light	gold
+14	seeing requires light	gold
+15	if an object is in the light then that object is blocking the light	nongold
+16	a person is a kind of animal	gold
+17	reflection is a property of light	nongold
+18	to reflect light means to scatter light	nongold
+19	daylight is when the sun shines on a location	nongold
+20	to see means to look	nongold
+21	a window is a part of a house	nongold
+22	to view means to see	nongold
+23	daylight occurs during the day	nongold
+24	sight means to see	nongold
+25	a window is made of glass	nongold
+26	looking at bright objects has a negative impact on the eyes	nongold
+27	not looking means not seeing	nongold
+28	person is synonymous with human	nongold
+29	shiny things; objects reflect light	nongold
+30	dark means a low amount of light	gold
+31	if something is outside during the day then that something will receive sunlight	nongold
+32	dark is the opposite of light	nongold
+33	not visible means cannot be seen	nongold
+34	human eyes can only see light in the range of visible light	nongold
+35	a human is a kind of animal	nongold
+36	visible light is a kind of  light	nongold
+37	visible means able to be seen	nongold
+38	less is similar to decrease	nongold
+39	seeing is used for sensing visual things	nongold
+40	to receive sunlight means to absorb sunlight	nongold
+41	an animal is a kind of organism	nongold
+42	when object is in direct light then that object is not shaded	nongold
+43	an object blocking light causes a shadow	nongold
+44	viewing means observing light	nongold
+45	when light hits a reflective object , that light bounces off that object	nongold
+46	surroundings means environment	nongold
+47	sunlight means solar energy	nongold
+48	a surface is a part of an object	nongold
+49	if an object is white then that object reflects all visible light	nongold
+50	reflection is a kind of process	nongold
+51	an image in a mirror is formed by reflecting light	nongold
+52	sunlight is a kind of solar energy	nongold
+53	human is a kind of organism	nongold
+54	to happen means to occur	nongold
+55	if an object is translucent , then some light will shine through that object	nongold
+56	a mirror reflects light	nongold
+57	receiving sunlight  is synonymous with absorbing sunlight	nongold
+58	eyes can sense;detect light energy for seeing	nongold
+59	an part of an object is smaller than the entire object	nongold
+60	an increase is the opposite of a decrease	nongold
+61	intensity of sunlight is similar to amount of sunlight	nongold
+62	glass; objects made of glass cause refraction of light	nongold
+63	a living thing is a kind of object	gold
+64	brightness means amount of light	nongold
+65	an animal is a kind of living thing	gold
+66	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+67	if sunlight is blocked from an area then that area lacks sunlight	nongold
+68	low is similar to decrease	nongold
+69	out is synonymous with outside	nongold
+70	as the light reflected off of an object increases , the object will appear to be brighter	nongold
+71	a white object reflects all visible light	nongold
+72	reflection is when a wave bounces off a surface and travels in the  opposite direction relative to the angle of incidence	nongold
+73	to lower means to decrease	nongold
+74	room contains walls	nongold
+75	to bounce back means to reflect	nongold
+76	to reduce means to decrease	nongold
+77	light means light energy	nongold
+78	objects in an environment are a part of that environment	nongold
+79	the sunlight occurs during the day	nongold
+80	if an object reflects a light of a certain color then the object appears to be that color	nongold
+81	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+82	sight means vision	nongold
+83	sunlight shining means sunlight is provided	nongold
+84	sight is a kind of sense	nongold
+85	darkness occurs at night	nongold
+86	reflection is when particles bounce off a surface	nongold
+87	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+88	if something is visible , then that something can be observed	nongold
+89	to look like means to have the visual properties of	nongold
+90	a mirror is used for reflecting light	nongold
+91	light is a kind of wave	nongold
+92	sunlight contains infrared light	nongold
+93	being in the sun is synonymous with being in the sunlight	nongold
+94	visible light is able to be seen without using equipment	nongold
+95	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+96	invisible means cannot be seen	nongold
+97	eyes are a part of a human for seeing	nongold
+98	absorbing sunlight causes objects to heat	nongold
+99	if an object is transparent , then light will shine through that object without scattering	nongold
+100	the body is a part of an organism	nongold
+101	looking is similar to observing	nongold

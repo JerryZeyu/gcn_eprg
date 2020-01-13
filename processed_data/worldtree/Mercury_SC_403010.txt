@@ -1,0 +1,102 @@
+Question	Which items are needed to create a simple circuit?	question
+Answer	wire and battery	answer
+0	creating a simple circuit requires a wire; battery	gold
+1	requiring something means needing that something	nongold
+2	a wire is a part of an electrical circuit for conducting electricity	nongold
+3	a complete electrical circuit is a source of  electrical energy	nongold
+4	to be required means to be necessary	nongold
+5	a circuit is a kind of electrical component	nongold
+6	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+7	requiring is similar to needing help	nongold
+8	when an electrical circuit is working properly , electrical current runs through that circuit; the wires in that circuit	nongold
+9	to be used for something means to be required by that something	nongold
+10	when a switch in a simple series circuit is closed , electricity will flow through the circuit	nongold
+11	closing an electric circuit causes an electrical device to function	nongold
+12	electric devices require electrical energy to function	nongold
+13	an object is an item	gold
+14	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+15	if something is required then that something must be provided	nongold
+16	a battery is a source of electrical energy; electricity	nongold
+17	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+18	if something is a raw material in a process then that something is required for that process	nongold
+19	a complex machine is made of more than one simple machine	nongold
+20	a battery is a kind of object	gold
+21	a battery-operated device is a kind of electrical device	nongold
+22	a  battery  is a kind of electrical power source	nongold
+23	if something causes a process then that something is required for that process	nongold
+24	using an object often requires creating that object	nongold
+25	to depend on; to rely on; to need means to require	nongold
+26	to create means to make	nongold
+27	device means tool	nongold
+28	wiring requires an electrical conductor	nongold
+29	creating means making	nongold
+30	a wire is usually made of metal	nongold
+31	to make possible means to be required	nongold
+32	a telephone is a kind of electrical device for communication	nongold
+33	a telephone is a kind of tool	nongold
+34	a simple machine is a kind of tool	nongold
+35	electricity can  not flow through an open circuit	nongold
+36	a telephone is a kind of technology	nongold
+37	a cable is similar to a wire	nongold
+38	a wire is a kind of object	gold
+39	when an electrical conductor is plugged into an outlet , a circuit is completed	nongold
+40	a closed circuit has continuous path	nongold
+41	flipping a switch completes an electrical circuit	nongold
+42	if an event is required for a process then that event must occur before that process can occur	nongold
+43	to produce means to create	nongold
+44	batteries can be used to power electrical devices	nongold
+45	metal is an  electrical; electrical energy conductor	nongold
+46	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+47	electricity means electrical energy	nongold
+48	an instrument is a piece of equipment	nongold
+49	instrument means device	nongold
+50	answering questions requires information	nongold
+51	a device requires energy to operate	nongold
+52	electrical current means electrical energy	nongold
+53	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+54	needing something means depending on that something	nongold
+55	to form means to create	nongold
+56	the function of something is what that something  is used to do	nongold
+57	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+58	a device is a kind of object	nongold
+59	a wire is a kind of path for electricity	nongold
+60	to generate means to create	nongold
+61	instrument means tool	nongold
+62	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold
+63	current means electric current	nongold
+64	operating electrical appliances requires electricity	nongold
+65	electrical signals are made of electrical energy	nongold
+66	if something requires something else then that something requires a source of that something else	nongold
+67	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+68	an electric motor is a kind of electrical device	nongold
+69	if something performs a task then that task is that something's function	nongold
+70	if electricity; electric current divides into more than one pathway then the circuit is parallel	nongold
+71	An electrical conductor is a vehicle for the flow of electricity	nongold
+72	a source of something emits; produces; generates; provides that something	nongold
+73	a battery contains chemical energy	nongold
+74	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+75	to make means to invent	nongold
+76	can be means able to be	nongold
+77	a telephone contians an encoder	nongold
+78	an electric car is a kind of invention	nongold
+79	a tool is a kind of object	nongold
+80	technology is similar to tool	nongold
+81	making something requires resources	nongold
+82	electricity is used as an energy source by electrical devices	nongold
+83	plastic is a kind of electrical insulator	nongold
+84	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+85	to increase is similar to to create	nongold
+86	a resistor is used to control the amount of current in the electric circuit	nongold
+87	pushing a button sometimes completes a circuit	nongold
+88	plastic is usually an electrical insulator	nongold
+89	household appliances are connected  in parallel circuit	nongold
+90	a process usually requires all of the stages in that process	nongold
+91	a conducting metal loop is a kind of electromagnet	nongold
+92	tool is similar to appliance	nongold
+93	passing a magnet through a closed loop of wire generates an electric current	nongold
+94	objects are made of materials; substances; matter	nongold
+95	electrical current running through a wire causes that wire to heat up; to become warm	nongold
+96	copper is a kind of metal	nongold
+97	a process is a kind of event	nongold
+98	products are formed; are produced; are created	nongold
+99	if something is powered by something else then that something requires a source of that something else	nongold

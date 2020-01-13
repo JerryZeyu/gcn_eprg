@@ -1,0 +1,76 @@
+0	harm means danger	nongold
+1	a pesticide is used for protecting plants by killing insects	gold
+2	damage has a negative impact on a thing	nongold
+3	chemicals can be pollutants	nongold
+4	negative impact is the opposite of positive impact	nongold
+5	humans eat crops	gold
+6	farming is when a human plants crops for food	nongold
+7	to be used for something means to be required by that something	nongold
+8	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+9	farming is a source of food	nongold
+10	chemicals means substances	nongold
+11	Will the food harm humans?	answer
+12	person is synonymous with human	nongold
+13	an animal is a kind of organism	nongold
+14	impact means effect	nongold
+15	a human is a kind of animal	gold
+16	Will the food harm humans?	answer
+17	eating food that contains pesticides can have a negative impact on humans	gold
+18	a pesticide is usually very poisonous to insects	gold
+19	an animal; living thing requires nutrients for survival	nongold
+20	an organism is a living thing	nongold
+21	threatening the existence of an organism has a negative impact on that organism	nongold
+22	a pesticide is infrequently poisonous to humans	gold
+23	Will the food harm humans?	answer
+24	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+25	a pesticide is used for protecting plants by killing insects	gold
+26	damage means harm	nongold
+27	decreasing something positive has a negative impact on a thing	nongold
+28	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+29	living things eat their food source	nongold
+30	a pesticide is usually very poisonous to insects	gold
+31	if crops are sprayed with something then that something will be on the crop's surface	gold
+32	predators eat prey	nongold
+33	a pesticide is infrequently poisonous to humans	gold
+34	humans eat crops	gold
+35	insects eat crops	nongold
+36	organisms are a part of an environment	nongold
+37	humans eat crops	gold
+38	if crops are sprayed with something then that something will be on the crop's surface	gold
+39	a concern; a problem is a possible negative impact	gold
+40	insect bites cause harm to living things	nongold
+41	polluting means something poisonous is added to an environment	nongold
+42	a human is a kind of animal	gold
+43	a concern; a problem is a possible negative impact	gold
+44	fertilizers have a negative impact on the environment; natural resources	nongold
+45	crops are a kind of edible plant for eating	nongold
+46	a pesticide is usually very poisonous to insects	gold
+47	a pesticide is used for protecting plants by killing insects	gold
+48	an animal is a kind of living thing	gold
+49	poison causes harm to living things; organisms	gold
+50	cropland is used for farming by humans	nongold
+51	poison causes harm to living things; organisms	gold
+52	harming something has a  negative impact on; effect on that something	nongold
+53	Chemical pesticides are sometimes sprayed on crops to kill insects that eat the crops. People have different viewpoints about the use of pesticides on crops. What might be a concern about using pesticides on the crops?	question
+54	to help; to benefit means to be of use	nongold
+55	using a pesticide usually requires spraying that pesticide on crops	gold
+56	if an organism eats something then that something is a source of frood to that organism	nongold
+57	Chemical pesticides are sometimes sprayed on crops to kill insects that eat the crops. People have different viewpoints about the use of pesticides on crops. What might be a concern about using pesticides on the crops?	question
+58	a food contains nutrients for living things	nongold
+59	a pesticide is infrequently poisonous to humans	gold
+60	eating food that contains pesticides can have a negative impact on humans	gold
+61	Will the food harm humans?	answer
+62	using a pesticide usually requires spraying that pesticide on crops	gold
+63	a human is a kind of animal	gold
+64	Chemical pesticides are sometimes sprayed on crops to kill insects that eat the crops. People have different viewpoints about the use of pesticides on crops. What might be a concern about using pesticides on the crops?	question
+65	eating food that contains pesticides can have a negative impact on humans	gold
+66	a concern; a problem is a possible negative impact	gold
+67	poisoning an environment means poisoning the organisms in that environment	nongold
+68	if crops are sprayed with something then that something will be on the crop's surface	gold
+69	an animal is a kind of living thing	gold
+70	Chemical pesticides are sometimes sprayed on crops to kill insects that eat the crops. People have different viewpoints about the use of pesticides on crops. What might be a concern about using pesticides on the crops?	question
+71	if an organism dies then the population of that organism will decrease	nongold
+72	poison causes harm to living things; organisms	gold
+73	an animal needs to eat food for nutrients	nongold
+74	using a pesticide usually requires spraying that pesticide on crops	gold
+75	an animal is a kind of living thing	gold

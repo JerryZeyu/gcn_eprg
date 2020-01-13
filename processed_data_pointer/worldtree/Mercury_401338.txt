@@ -1,0 +1,102 @@
+Question	Which characteristic is an example of learned behavior?	question
+Answer	a dog scratching at a door to go out	answer
+0	feature is synonymous with characteristic	nongold
+1	some dogs are trained to bark; to scratch at the door when they want to go outside	gold
+2	a dog is a kind of animal	gold
+3	trait is synonymous with characteristic	nongold
+4	a behavior is a kind of characteristic	gold
+5	a learned characteristic is a kind of acquired characteristic	nongold
+6	characteristic means property	nongold
+7	skills are learned characteristics; behaviors	nongold
+8	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+9	out is synonymous with outside	gold
+10	to scrape means to scratch	nongold
+11	conditioned behavior is a kind of learned behavior	nongold
+12	an animal is a kind of living thing	nongold
+13	trait means property	nongold
+14	a kind of something is an example of that something	nongold
+15	a living thing is a kind of object	nongold
+16	a door is a kind of object	nongold
+17	a part of something means a characteristic of something	nongold
+18	actions mean behavior	nongold
+19	using tools is a learned characteristic	nongold
+20	if an animal is trained to do something then that something is a learned behavior	gold
+21	what an object is made of is a kind of characteristic	nongold
+22	an animal is a kind of organism	nongold
+23	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+24	communication is a learned behavior	nongold
+25	an adaptation is a kind of characteristic	nongold
+26	an inherited characteristic is a kind of characteristic	nongold
+27	social behavior is a kind of learned behavior	nongold
+28	following orders is a learned characteristic	nongold
+29	intelligence is an acquired characteristic	nongold
+30	ability is a kind of characteristic	nongold
+31	playing with toys is a learned characteristic	nongold
+32	a human is a kind of animal	nongold
+33	rubbing  is a kind of motion	nongold
+34	animal instinct means instinctive behavior	nongold
+35	aspect of something is similar to part of something	nongold
+36	a cat is a kind of animal	nongold
+37	an organism is a living thing	nongold
+38	brushing is a kind of action	nongold
+39	fur is often part of an animal	nongold
+40	animals learn some behaviors from watching their parents	nongold
+41	a function is a kind of characteristic	nongold
+42	sense is a kind of characteristic of an animal	nongold
+43	personality is an acquired characteristic	nongold
+44	bark is a kind of sound	nongold
+45	doing chores is a learned characteristic	nongold
+46	action means activity	nongold
+47	a cat is a kind of mammal	nongold
+48	a puppy is a young; baby dog	nongold
+49	a doorknob is a kind of object	nongold
+50	an animal knows how to do  instinctive behaviors when it is born	nongold
+51	locomotion is a generally learned behavior	nongold
+52	the color of; coloration of fur is an inherited characteristic	nongold
+53	a prairie dog is a kind of animal	nongold
+54	a predator avoiding some types of prey is a learned behavior	nongold
+55	preferences are generally learned characteristics	nongold
+56	doing something more is a kind of conditioned behavior	nongold
+57	senses are an inherited characteristic	nongold
+58	human is a kind of organism	nongold
+59	motion is when moves an object; something to a direction	nongold
+60	a room is a kind of object	nongold
+61	impact means effect	nongold
+62	a surface is a part of an object	nongold
+63	a structure of something is synonymous with a part of that something	nongold
+64	to impact means to affect	nongold
+65	pulling is a kind of motion	nongold
+66	a handle is a kind of object	nongold
+67	a plant is a kind of organism	nongold
+68	dogs can hear  sounds with higher frequency  than human can	nongold
+69	causing is a kind of affecting	nongold
+70	a type is synonymous with a kind	nongold
+71	a motion is a kind of event; action	nongold
+72	a cat is a kind of carnivore	nongold
+73	fur is usually part of a mammal	nongold
+74	a plant is a kind of living thing	nongold
+75	aspect is similar to property	nongold
+76	a window is a kind of object	nongold
+77	answering questions requires information	nongold
+78	affected means changed	nongold
+79	style is an acquired characteristic	nongold
+80	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+81	returning is a kind of movement	nongold
+82	food is a kind of object	nongold
+83	a structure is a kind of feature	nongold
+84	to cause means to have an effect	nongold
+85	an event is a kind of action	nongold
+86	surface type is a kind of characteristic	nongold
+87	scraping an object may cause small particles to break off of that object	nongold
+88	species is an inherited characteristic	nongold
+89	the effects of something is a property of that something	nongold
+90	curiosity is a kind of human quality	nongold
+91	objects in an environment are a part of that environment	nongold
+92	motion; movement means moving; to move	nongold
+93	to act on means to affect	nongold
+94	a property of something is a feature of that something	nongold
+95	a component of something means a part of that something	nongold
+96	if something is made by something else then that something is affected by that something else	nongold
+97	a part of a living thing is a natural structure	nongold
+98	a dog weighs, on average 32 kg	nongold
+99	a mouse is a kind of animal	nongold

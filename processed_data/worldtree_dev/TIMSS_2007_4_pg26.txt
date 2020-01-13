@@ -1,0 +1,102 @@
+Question	An animal has six legs. What is it most likely to be?	question
+Answer	a fly	answer
+0	an insect has six legs	gold
+1	a fly is a kind of insect	gold
+2	flying is a kind of motion through air; space	nongold
+3	an insect is a kind of animal	gold
+4	an animal is a kind of living thing	nongold
+5	a living thing is a kind of object	nongold
+6	an insect has three body parts	nongold
+7	legs are usually a part of an animal	nongold
+8	a bird is a kind of living thing	nongold
+9	an organism is a living thing	nongold
+10	an insect usually has a small size	nongold
+11	a bird is a kind of animal	nongold
+12	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+13	limbs are part of an animal	nongold
+14	flying is a kind of locomotion	nongold
+15	an insect is a kind of prey	nongold
+16	an animal is a kind of organism	nongold
+17	often is similar to likely	nongold
+18	adult birds usually fly	nongold
+19	motion; movement means moving; to move	nongold
+20	a wasp is a kind of insect	nongold
+21	an amphibian is a kind of animal	nongold
+22	wings are a part of some insects	nongold
+23	a mammal is a kind of animal	nongold
+24	wings are a part of a bird	nongold
+25	a human is a kind of animal	nongold
+26	An example of an adaptation for flight in birds is feathers; wings; hollow bones	nongold
+27	an animal is a member of an animal species	nongold
+28	a predator is a kind of animal	nongold
+29	motion is when moves an object; something to a direction	nongold
+30	the body is a part of an organism	nongold
+31	wings are used to fly through air by birds	nongold
+32	a worm is a kind of living thing	nongold
+33	a reptile is a kind of animal	nongold
+34	length is a part of size	nongold
+35	a plant is a kind of living thing	nongold
+36	a termite is a kind of insect	nongold
+37	a beetle is a kind of insect	nongold
+38	an ant is a kind of insect	nongold
+39	can be means able to be	nongold
+40	a plant is a kind of organism	nongold
+41	a structure of something is synonymous with a part of that something	nongold
+42	killing means harming something causing death	nongold
+43	a bat is a kind of animal	nongold
+44	harming something has a  negative impact on; effect on that something	nongold
+45	larger; bigger is the opposite of smaller	nongold
+46	a motion is a kind of event; action	nongold
+47	some birds are predators	nongold
+48	an part of an object is smaller than the entire object	nongold
+49	killing means changing a living thing from alive to dead by harming	nongold
+50	a landform is a kind of object	nongold
+51	death means to die	nongold
+52	a scale is hard	nongold
+53	a worm is a kind of animal	nongold
+54	larger means greater; higher; more; increase in size	nongold
+55	a human is a kind of mammal	nongold
+56	a butterfly is a kind of insect	nongold
+57	adaptations are used for survival	nongold
+58	a predator eats other animals for food	nongold
+59	classifying means grouping objects; materials by their properties	nongold
+60	a ladybug is a kind of insect	nongold
+61	a body part is a kind of object	nongold
+62	a rabbit cannot fly; climb	nongold
+63	smaller means less; lower in size	nongold
+64	a spider is a kind of animal	nongold
+65	a legume is a kind of plant	nongold
+66	some birds have webbed feet	nongold
+67	greatest means largest; highest; most amount of something	nongold
+68	nonliving; non-living; die is the opposite of living; alive; live	nongold
+69	long means great in length	nongold
+70	a cricket is a kind of insect	nongold
+71	if a living thing dies then that living thing is dead	nongold
+72	live means to be alive	nongold
+73	predators eat prey	nongold
+74	a butterfly is a kind of animal	nongold
+75	speed is a measure of how fast an object is moving	nongold
+76	may happen means having a chance of happening	nongold
+77	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+78	a lizard is a kind of animal	nongold
+79	metamorphosis is when an amphibian; insect changes from  an immature form to an adult form	nongold
+80	a caterpillar is the immature form of a butterfly	nongold
+81	life means living things	nongold
+82	species means a group of like organisms	nongold
+83	height is a measure of length from the top of an object to the bottom of an object	nongold
+84	form is similar to body	nongold
+85	predators; carnivores; omnivores eat other animals	nongold
+86	height is a kind of position	nongold
+87	a butterfly is a kind of organism	nongold
+88	classifying is when one sorts something by kind; type	nongold
+89	height is a property of the size of an object	nongold
+90	a squirrel is a kind of animal	nongold
+91	a dinosaur is a kind of extinct animal	nongold
+92	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+93	four is a kind of number	nongold
+94	a vehicle is a kind of object	nongold
+95	furthest; farthest means greatest; most; highest in distance	nongold
+96	strong beaks; sharp beaks are a kind of adaptation for catching prey	nongold
+97	a predator is a kind of enemy to its prey	nongold
+98	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+99	flight is similar to a movement in the air made by an airplane	nongold

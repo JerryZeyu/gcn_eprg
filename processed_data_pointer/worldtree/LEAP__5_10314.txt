@@ -1,0 +1,102 @@
+Question	What is the role of decomposers in a food chain?	question
+Answer	They break down dead organic matter.	answer
+0	role means function	nongold
+1	purpose means role	nongold
+2	decomposer is a kind of role in the food chain process; in an ecosystem	gold
+3	a decomposer is a kind of living thing	nongold
+4	decomposition is when a decomposer breaks down dead organisms	gold
+5	a role in the ecosystem is a role in the food chain process	nongold
+6	part means role	nongold
+7	a microorganism is a kind of decomposer	nongold
+8	In the food chain process a  green plant has the role of  producer	nongold
+9	the function of something is what that something  is used to do	nongold
+10	producer is a kind of role in the food chain process; in an ecosystem	nongold
+11	In the food chain process bacteria have the role of decomposer	nongold
+12	In the food chain process fungi have the role of decomposer	nongold
+13	to decompose means to decay	nongold
+14	dead organisms are the source of nutrients for decomposers	nongold
+15	something is used for that something's purpose	nongold
+16	decomposition is when a decomposer recycles; returns nutrients; nitrogen from dead organisms to the soil by eating those dead organisms	nongold
+17	a decomposer is usually a bacterium; fungus	nongold
+18	plant and animal matter means organic matter	nongold
+19	function is similar to purpose	nongold
+20	an organism is made of organic matter	gold
+21	role means niche	nongold
+22	a bacterium is a kind of decomposer	nongold
+23	nutrients are a kind of matter	nongold
+24	an organism is a source of organic matter	nongold
+25	a worm is a kind of decomposer	nongold
+26	if something performs a task then that task is that something's function	nongold
+27	decomposition is a kind of process	nongold
+28	food is a kind of substance	nongold
+29	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+30	an organism is a source of organic material	nongold
+31	In the food chain process some types of plankton have the role of producer	nongold
+32	to be a vehicle for is a kind of function	nongold
+33	organic compounds are made of carbon chains with other elements attached to it	nongold
+34	role is similar to importance	nongold
+35	green plants are a kind of producer	nongold
+36	an organism is a living thing	nongold
+37	breaking down is a kind of function	nongold
+38	living things are made of organic molecules	nongold
+39	food web is synonymous with food chain	nongold
+40	if something is made of something else then that something can be broken down into that something else	nongold
+41	biomass contains organic matter	nongold
+42	dissolving is similar to breaking down	nongold
+43	a producer is a kind of living thing	nongold
+44	dead plants means dead plant material	nongold
+45	material means substance	nongold
+46	to have a function is similar to to be responsible for	nongold
+47	decomposition  increases amount of organic matter in soil	nongold
+48	decomposition is a stage in the nutrient recycling process	nongold
+49	destroying is a kind of function	nongold
+50	to digest means to break down food	nongold
+51	an animal is a kind of living thing	nongold
+52	substances are made of matter	nongold
+53	producing is a kind of function	nongold
+54	an element is a kind of material	nongold
+55	a part of a process means a stage in a process	nongold
+56	if some nutrients are in the soil then those nutrients are in the food chain	nongold
+57	objects are made of materials; substances; matter	nongold
+58	all elements are a kind of pure substance	nongold
+59	producers pass materials they use through the food chain	nongold
+60	food contains carbohydrates	nongold
+61	products are formed; are produced; are created	nongold
+62	organisms are made of organic compounds	nongold
+63	to decompose means to separate	nongold
+64	an event is a kind of action	nongold
+65	breaking down is a kind of forming	nongold
+66	to be involved in something means to have a role in something	nongold
+67	a fungus is a kind of organism	nongold
+68	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+69	substances are made of elements	nongold
+70	causing is a kind of function	nongold
+71	remains mean parts of a dead organism	nongold
+72	bacteria is a kind of living thing	nongold
+73	producing is a kind of process	nongold
+74	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+75	an animal is a kind of organism	nongold
+76	decomposing is similar to separating	nongold
+77	a process is a kind of event	nongold
+78	a food contains nutrients for living things	nongold
+79	organic compounds mainly are made of carbon; hydrogen; oxygen; nitrogen	nongold
+80	metamorphosis is a kind of process	nongold
+81	if something causes a process then that something is required for that process	nongold
+82	to break down means to break into smaller pieces	nongold
+83	matter is made of molecules	nongold
+84	materials are made of matter	nongold
+85	decomposition is a stage in the carbon cycle process	nongold
+86	to be formed by is similar to being produced by	nongold
+87	a plant is a kind of organism	nongold
+88	a fungus is a kind of living thing	nongold
+89	an element is a kind of  substance	nongold
+90	a source of something emits; produces; generates; provides that something	nongold
+91	nutrients are a kind of material	nongold
+92	a human is a kind of animal	nongold
+93	formation of a state of matter is a kind of process	nongold
+94	dead means not alive	nongold
+95	soil contains water; humus; weathered rocks; organic matter	nongold
+96	converting is similar to producing	nongold
+97	living things perform biological processes	nongold
+98	remains is similar to dead organisms	nongold
+99	death means to die	nongold

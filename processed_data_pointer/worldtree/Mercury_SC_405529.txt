@@ -1,0 +1,102 @@
+Question	Water is often put through a treatment system before it is used in homes as drinking water. Which is the most likely reason water is treated before people drink it?	question
+Answer	to remove harmful substances	answer
+0	treating water is used to remove harmful substances before drinking	gold
+1	remove means decrease	nongold
+2	person is synonymous with human	nongold
+3	drinking is a kind of water use	nongold
+4	a person is a kind of animal	nongold
+5	water is a kind of substance	nongold
+6	harming something has a  negative impact on; effect on that something	nongold
+7	get rid of means eliminate; remove	nongold
+8	eliminate means remove	nongold
+9	water is a kind of liquid at room temperature	nongold
+10	a human is a kind of animal	nongold
+11	a home is a kind of building	nongold
+12	humans drink beverages	nongold
+13	negative impact is the opposite of positive impact	nongold
+14	adverse effect means negative impact	nongold
+15	to be used for something means to be required by that something	nongold
+16	water is a part of an environment	nongold
+17	removing an inhibitor of a process causes that process	nongold
+18	helping something has a  positive impact on that something	nongold
+19	a liquid is a kind of substance	nongold
+20	something harmful can cause harm	nongold
+21	a cause of something is a reason for that something	nongold
+22	a house is a kind of home	nongold
+23	decreasing something negative has a positive impact on a thing	nongold
+24	requiring is similar to needing help	nongold
+25	solution is similar to a positive impact	nongold
+26	a body of water contains water	nongold
+27	damage means harm	nongold
+28	best means most positive	nongold
+29	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+30	a house is a kind of building	nongold
+31	decreasing something positive has a negative impact on a thing	nongold
+32	if an event is required for a process then that event must occur before that process can occur	nongold
+33	a beverage is a kind of liquid	nongold
+34	to lower means to decrease	nongold
+35	receiving a treat is a kind of positive effect	nongold
+36	to reduce means to decrease	nongold
+37	typically means usually	nongold
+38	damage has a negative impact on a thing	nongold
+39	a body of water is a kind of environment	nongold
+40	good means positive	nongold
+41	wastewater treatment is a kind of method	nongold
+42	an animal is a kind of living thing	nongold
+43	if a living thing requires something then that something has a positive impact on that living thing	nongold
+44	to help; to benefit means to be of use	nongold
+45	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+46	an animal is a kind of organism	nongold
+47	animals usually require removing salt from water for drinking	nongold
+48	requiring something means needing that something	nongold
+49	organisms are a part of an environment	nongold
+50	pathogen is similar to harmful substance	nongold
+51	low is similar to decrease	nongold
+52	chemicals means substances	nongold
+53	humans cause pollution	nongold
+54	liquid water is available  for organisms	nongold
+55	a process usually requires all of the stages in that process	nongold
+56	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+57	impact means effect	nongold
+58	if something is required for a process then that something positively impacts that process	nongold
+59	to be a source of something means to cause that something	nongold
+60	protecting something means preventing harm to that something	nongold
+61	absorbing something harmful has a negative impact on a thing	nongold
+62	if something causes a process then that something is required for that process	nongold
+63	a source of something emits; produces; generates; provides that something	nongold
+64	the temperature; pH of water has an impact on the health of that water	nongold
+65	death means to die	nongold
+66	a body of water is a source of water	nongold
+67	if something transports something else then that something removes that something else from a place	nongold
+68	the function of something is what that something  is used to do	nongold
+69	a negative impact is a kind of consequence; risk	nongold
+70	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+71	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+72	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+73	an increase is the opposite of a decrease	nongold
+74	a container contains objects; material; substances	nongold
+75	a beverage is a kind of food	nongold
+76	if something requires something else then that something requires a source of that something else	nongold
+77	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+78	water is a kind of natural resource	nongold
+79	water is a kind of natural resource	nongold
+80	to be good for means to have a positive impact on	nongold
+81	to add means to increase	nongold
+82	an environment means an area	nongold
+83	some humans live in houses	nongold
+84	a mechanism is a kind of system that performs a function	nongold
+85	a process is a kind of event	nongold
+86	high is similar to increase	nongold
+87	if something transfers something else then that something is a source of something else	nongold
+88	high-quality means positive	nongold
+89	a part of a process means a stage in a process	nongold
+90	an object; material; substance comes from that object or material's source	nongold
+91	a positive impact is a helpful effect	nongold
+92	animals; living things require water for survival	nongold
+93	human is a kind of organism	nongold
+94	solution is a kind of liquid	nongold
+95	to hurt means to harm	nongold
+96	a supply of something is a source of that something	nongold
+97	generally means usually	nongold
+98	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+99	food is a kind of substance	nongold

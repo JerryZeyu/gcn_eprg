@@ -1,0 +1,102 @@
+0	affected means changed	nongold
+1	prey  is a kind of animal	nongold
+2	an insect is a kind of animal	nongold
+3	an organism is a living thing	nongold
+4	flying is a kind of motion through air; space	nongold
+5	a reptile is a kind of animal	nongold
+6	a frog is a kind of animal	nongold
+7	a tree frog is a kind of animal	nongold
+8	an aquatic animal is a kind of animal	nongold
+9	if two animals eat the same prey then those animals compete for that prey	gold
+10	if an organism's prey moves quickly then that organism may need to move quickly to catch its prey	nongold
+11	strong beaks; sharp beaks are a kind of adaptation for catching prey	nongold
+12	a frog eats insects	gold
+13	touching is when a body part makes contact with the surface of an object	nongold
+14	a plant is a kind of organism	nongold
+15	an insect usually has a small size	nongold
+16	being  on something; placed in something; placed over something means touching  that something	nongold
+17	an part of an object is smaller than the entire object	nongold
+18	an amphibian is a kind of animal	gold
+19	a salamander eats insects	gold
+20	as the sharpness of a bird's beak increases , the ability of the bird to compete for food will increase	nongold
+21	catching something is synonymous with obtaining that something	nongold
+22	an increase is the opposite of a decrease	nongold
+23	salamanders are sometimes aquatic animals	nongold
+24	a bird is a kind of living thing	nongold
+25	high is similar to increase	nongold
+26	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+27	insect bites cause harm to living things	nongold
+28	a living thing is a kind of object	nongold
+29	feeling is when an living thing senses through touch	nongold
+30	increase means more	nongold
+31	an insect is a kind of prey	gold
+32	a sticky tongue is a kind of adaptation for catching insects	gold
+33	to touch means to contact	nongold
+34	species means a group of like organisms	nongold
+35	if a living thing requires something then that something has a positive impact on that living thing	nongold
+36	omnivores eat plants; animals	nongold
+37	to absorb means to capture	nongold
+38	a frog is an adult form of a frog	nongold
+39	when two objects are touched; are contacted; move against each other , sound is produced	nongold
+40	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+41	an insect has six legs	nongold
+42	pull is similar to attract	nongold
+43	to help; to benefit means to be of use	nongold
+44	a plant is a kind of living thing	nongold
+45	a salamander is a kind of amphibian	gold
+46	eating prey requires catching prey	nongold
+47	to lower means to decrease	nongold
+48	answering questions requires information	nongold
+49	to help means to aid	nongold
+50	prey is a kind of food for predators	nongold
+51	motion; movement means moving; to move	nongold
+52	to slow; to slow down decreases speed	nongold
+53	a frog is a kind of amphibian	gold
+54	carnivores; omnivores are predators	nongold
+55	touching something means feeling that something	nongold
+56	aquatic animal means water animal	nongold
+57	An insect is a pollinating animal	nongold
+58	sticky tongues	answer
+59	landform means surface feature; physical feature; land feature	nongold
+60	trait is synonymous with characteristic	nongold
+61	an animal; living thing requires nutrients for survival	nongold
+62	soft is a kind of touch sensation	nongold
+63	an animal is a kind of living thing	nongold
+64	eating an animal; a plant means killing that animal; that plant	nongold
+65	if one is holding an object then one is touching that object	nongold
+66	help means advantage	nongold
+67	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+68	an insect has three body parts	nongold
+69	living things eat their food source	nongold
+70	if an object is made of something then the parts of that object are made of that something	nongold
+71	competition may cause animals to fight; to make threatening sounds; to act aggressively towards members of their own species	nongold
+72	a salamander is a kind of aquatic animal	nongold
+73	a body part is a kind of object	nongold
+74	flying is a kind of locomotion	nongold
+75	a property of something is a feature of that something	nongold
+76	a frog is a kind of aquatic animal	nongold
+77	both means two	nongold
+78	a plant is a member of a plant species	nongold
+79	predators eat prey	nongold
+80	low is similar to decrease	nongold
+81	if two things have the same features then those two things are alike	nongold
+82	often is similar to likely	nongold
+83	feature is synonymous with characteristic	nongold
+84	aquatic animals; plants live in bodies of water	nongold
+85	sticky is similar to moist	nongold
+86	characteristic means property	nongold
+87	some predators move  quickly to  catch prey	nongold
+88	a structure is a kind of feature	nongold
+89	helping something has a  positive impact on that something	gold
+90	an animal is a kind of organism	nongold
+91	harming something has a  negative impact on; effect on that something	nongold
+92	as the population of prey decreases , competition between predators will increase	nongold
+93	to be used  for something means to help to do that something	nongold
+94	a living thing surviving has a positive impact on that living thing's ability to compete for resources	nongold
+95	Frogs and salamanders compete with each other for insects. Both frogs and salamanders catch flying insects with their tongues. Which feature would most likely help both animals compete for flying insects?	question
+96	carnivores; omnivores; herbivores are a kind of animal	nongold
+97	predators; carnivores; omnivores eat other animals	nongold
+98	an animal is a member of an animal species	nongold
+99	if two animals have the same food source then those two animals compete for food	nongold
+100	alligators eat frogs; turtles; fish; mice; birds	nongold
+101	helping means something can be done; completed more easily; better	nongold

@@ -1,0 +1,102 @@
+Question	The mountain chorus frog is an endangered species in Maryland. In addition to the loss of habitat, what most likely caused this frog population to decline?	question
+Answer	poisons dissolved in the water	answer
+0	a mountain chorus frog is a kind of frog	gold
+1	a mountain chorus frog is a kind of animal	nongold
+2	Maryland is a kind of region	nongold
+3	Maryland is a state located in the United States of America	nongold
+4	poison causes harm to living things; organisms	gold
+5	to decline means to decrease	gold
+6	a frog is a kind of aquatic animal	nongold
+7	a poison is very poisonous	gold
+8	if a living thing dies then that living thing is dead	nongold
+9	harming an animal species causes that animal's population to decrease	gold
+10	a frog is a kind of animal	gold
+11	destruction means loss	nongold
+12	a poison is a kind of substance	gold
+13	endangered means low in population	nongold
+14	a frog is an adult form of a frog	nongold
+15	toxic means poisonous	nongold
+16	if there is a loss of something then that something decreases	nongold
+17	loss means reduction	nongold
+18	a frog is a kind of amphibian	nongold
+19	water contains dissolved oxygen	nongold
+20	water is a kind of liquid at room temperature	gold
+21	if something is soluble in something , then that something can be dissolved in something forming a solution	nongold
+22	if an organism dies then the population of that organism will decrease	nongold
+23	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+24	poisoning an environment means poisoning the organisms in that environment	gold
+25	an animal is a kind of living thing	gold
+26	aquatic animals; plants live in bodies of water	nongold
+27	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+28	killing means harming something causing death	nongold
+29	an aquatic animal is a kind of animal	nongold
+30	some frogs live in ponds	nongold
+31	if a substance is dissolved in another substance then that substance is added to that other substance	gold
+32	death means to die	nongold
+33	harming something has a  negative impact on; effect on that something	nongold
+34	a frog is the mature form of a; adult form of a tadpole	nongold
+35	a poisonous animal is dangerous	nongold
+36	if a living thing requires something then that something has a positive impact on that living thing	nongold
+37	a body of water contains water	nongold
+38	destroying animal habitats changes an ecosystem	nongold
+39	water is a kind of substance	nongold
+40	as water increases in an environment , the population of aquatic animals will increase	nongold
+41	killing means changing a living thing from alive to dead by harming	nongold
+42	negative impacts on a species will decrease populations of a species	nongold
+43	sugar dissolves in water when they are combined	nongold
+44	destroying animal habitats has a negative  impact on an ecosystem	nongold
+45	loss is a kind of change	nongold
+46	water is a part of an environment	nongold
+47	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+48	to lower means to decrease	nongold
+49	killing a living thing decreases the number; population size of that living thing	nongold
+50	a body of water is a kind of environment	gold
+51	if a habitat is removed then that habitat is destroyed	nongold
+52	a solution is made of one substance dissolved in another substance	nongold
+53	extinction has a negative  impact on an ecosystem	nongold
+54	aquatic animal means water animal	nongold
+55	a solution is formed by one substance being dissolved in another substance	nongold
+56	a decrease is a kind of change	nongold
+57	a frog eats insects	nongold
+58	eating an animal; a plant means killing that animal; that plant	nongold
+59	animals; living things require water for survival	nongold
+60	an increase is the opposite of a decrease	nongold
+61	damage has a negative impact on a thing	nongold
+62	disappearing is similar to decreasing	nongold
+63	if a population decreases to zero then that organism is extinct	nongold
+64	low is similar to decrease	nongold
+65	polluting means something poisonous is added to an environment	gold
+66	as the cause of something decreases , that something will decrease	nongold
+67	a mountain; mountain range is a kind of environment	nongold
+68	harming an organism can cause that organism to die	nongold
+69	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+70	as  population of prey decreases , the population of predators will  decrease	nongold
+71	harming an animal species has a  negative impact on the population size of that species	nongold
+72	if something releases something else then that something else decreases in that something	nongold
+73	moisture means liquid; liquid water	nongold
+74	damage means harm	nongold
+75	the  mature form of a frog is called a frog	nongold
+76	a living thing is a kind of object	nongold
+77	an animal requires a habitat for survival	nongold
+78	an animal is a kind of organism	nongold
+79	an ecosystem is a kind of habitat	nongold
+80	chemicals means substances	nongold
+81	a tree frog is a kind of animal	nongold
+82	if a species existed for a relatively short time then that species is now extinct	nongold
+83	chlorine is a kind of green, poisonous gas	nongold
+84	to be a source of something means to cause that something	nongold
+85	something that contains water is similar to a body of water	nongold
+86	an organism is a living thing	gold
+87	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+88	predators; carnivores; omnivores eat other animals	nongold
+89	a tadpole changes from  a tadpole into a frog through metamorphosis	nongold
+90	a pesticide is infrequently poisonous to humans	nongold
+91	absorbing something harmful has a negative impact on a thing	nongold
+92	decreasing something negative has a positive impact on a thing	nongold
+93	an animal; living thing requires nutrients for survival	nongold
+94	as population of predators increases , the population of prey will decrease in an environment	nongold
+95	a pesticide is usually very poisonous to insects	nongold
+96	losing something decreases the amount of that something	nongold
+97	many mountain ranges are no longer covered in water	nongold
+98	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+99	alligators eat frogs; turtles; fish; mice; birds	nongold

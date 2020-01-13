@@ -1,0 +1,102 @@
+Question	When a person sees something, what carries the message from the eyes to the brain?	question
+Answer	nerves	answer
+0	nerves carry messages from sensory organs to the brain	gold
+1	person is synonymous with human	gold
+2	a person is a kind of animal	nongold
+3	eyes are a part of a human for seeing	gold
+4	eyes are usually part of an animal for seeing	nongold
+5	a brain is a part of an animal	nongold
+6	sight means to see	gold
+7	the eyes are part of the head used for seeing	nongold
+8	seeing is used for sensing visual things	nongold
+9	an animal is a kind of organism	nongold
+10	the nervous system contains nerves	nongold
+11	an animal is a kind of living thing	nongold
+12	a brain is a kind of internal organ	nongold
+13	a human is a kind of animal	nongold
+14	the brain is a part of the body	nongold
+15	a living thing is a kind of object	nongold
+16	eyes can sense;detect light energy for seeing	nongold
+17	eyes are used for seeing by animals by sensing light	nongold
+18	the brain can control animal body through the nervous system	nongold
+19	human is a kind of organism	nongold
+20	sensory organs are used for sensing	gold
+21	nervous system is an electrical; electric conductor	nongold
+22	the nervous system is a kind of body; organ system	nongold
+23	sight is a kind of sense	gold
+24	the brain is a part of the central nervous system	nongold
+25	nerves are made of nerve cells	nongold
+26	to carry means to move something	nongold
+27	to see means to look	nongold
+28	the nervous system is a part of the body of an animal	nongold
+29	an object; material; substance comes from that object or material's source	nongold
+30	a retina is part of an eye for sensing light	nongold
+31	feeling is when an living thing senses through touch	nongold
+32	carrying something means moving that something	nongold
+33	sight means vision	nongold
+34	to carry means to transport	nongold
+35	an organism is a living thing	nongold
+36	where something  comes from is a source of that something	nongold
+37	to transmit means to carry to another place	nongold
+38	the head is a part of an animal	nongold
+39	nerve cells conduct messages in the body	nongold
+40	the endocrine system carries messages from the body to the brain	nongold
+41	if something comes from something else then that something else is a source of that something	nongold
+42	observe means see	nongold
+43	carrier means the ones that carry	nongold
+44	a neuron is a kind of nervous system cell	nongold
+45	the nervous system sends observations in the form of electrical signals to the rest of the body	nongold
+46	an animal's brain controls that animal	nongold
+47	seeing requires light	nongold
+48	sense is a kind of characteristic of an animal	nongold
+49	a person speaking is a source of sound	nongold
+50	the nervous system is the vehicle for controlling the body	nongold
+51	answering questions requires information	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	visible means able to be seen	nongold
+54	if something is transported to something else then that something else receives that something	nongold
+55	hearing is used for sensing sound by animals	nongold
+56	hearing is a kind of sense	nongold
+57	senses are an inherited characteristic	nongold
+58	to carry something means to contain something	nongold
+59	the function of something is what that something  is used to do	nongold
+60	the senses are used for making observations	nongold
+61	speaking is a kind of communication	nongold
+62	not looking means not seeing	nongold
+63	an ear is a kind of body part	nongold
+64	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+65	reading  requires seeing	nongold
+66	a motion is a kind of event; action	nongold
+67	animal instinct means instinctive behavior	nongold
+68	can be means able to be	nongold
+69	carrying is similar to conducting	nongold
+70	a function is a kind of characteristic	nongold
+71	motion; movement means moving; to move	nongold
+72	to watch means to look at	nongold
+73	if something is passed down to something else then that something else receives that something	nongold
+74	particles in objects are a kind of matter	nongold
+75	sensing a warning means receiving a warning	nongold
+76	how something  appears is how that something  looks	nongold
+77	talking is when a human produces sound to communicate	nongold
+78	an event is a kind of action	nongold
+79	better look means see better	nongold
+80	a body part is a kind of object	nongold
+81	a component of something means a part of that something	nongold
+82	a structure of something is synonymous with a part of that something	nongold
+83	intelligence is an acquired characteristic	nongold
+84	receive means get	nongold
+85	an object is made of its parts	nongold
+86	a face is often a part of an animal	nongold
+87	a part of something is present in that something	nongold
+88	a component means a part of	nongold
+89	an part of an object is smaller than the entire object	nongold
+90	motion is when moves an object; something to a direction	nongold
+91	looking is similar to observing	nongold
+92	action means activity	nongold
+93	aspect of something is similar to part of something	nongold
+94	the body is a part of an organism	nongold
+95	a nerve cell is a kind of cell	nongold
+96	transport means to move; to make travel	nongold
+97	a sense is a kind of ability	nongold
+98	the nervous system is used for controlling the body	nongold
+99	the neuron is the smallest functional unit; structural unit of the nervous system	nongold

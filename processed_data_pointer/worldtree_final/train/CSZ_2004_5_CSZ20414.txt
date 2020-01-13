@@ -1,0 +1,101 @@
+0	affected means changed	nongold
+1	scraping an object may cause small particles to break off of that object	nongold
+2	if one mineral can scratch another mineral then that other mineral is softer than that one mineral	nongold
+3	a scratch is a kind of wound	nongold
+4	metal is a kind of substance	nongold
+5	composition means the (materials, substances) of which something is composed	nongold
+6	can be means able to be	nongold
+7	rock is a kind of material	nongold
+8	form means kind	nongold
+9	talc is a kind of mineral	nongold
+10	color is an intensive property	nongold
+11	an part of an object is smaller than the entire object	nongold
+12	a living thing is a kind of object	nongold
+13	the properties of something can be used to identify; used to describe that something	gold
+14	if a material scratches easily then that material has low hardness	nongold
+15	the color of an object can be discovered by looking at that object	nongold
+16	if a mineral can be scratched by a fingernail then that mineral is soft	gold
+17	dark means dark in color	nongold
+18	mica has a nonmetallic luster	gold
+19	colorless means no color	nongold
+20	composition is a property of an object; matter	nongold
+21	typically means usually	nongold
+22	structure is a property of an object; a material; a substance	nongold
+23	an object is an item	nongold
+24	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+25	material means substance	nongold
+26	variable means able to change	nongold
+27	to be believed to be is similar to maybe	nongold
+28	A student is trying to identify a mineral that has a nonmetallic luster and is black. It can also be scratched with a fingernail. According to the mineral reference sheet, the unidentified mineral is most likely	question
+29	a type is synonymous with a kind	nongold
+30	if the surface of an object contains something then that object is covered with that something	nongold
+31	a sheet of paper is a kind of object	nongold
+32	the composition of something can be used to identify that something	nongold
+33	except means not	nongold
+34	to slow; to slow down decreases speed	nongold
+35	black is dark in color	nongold
+36	smaller means less; lower in size	nongold
+37	a mineral usually has a crystal structure	nongold
+38	a mineral is a kind of solid; natural material	nongold
+39	nonmetallic is a kind of luster	gold
+40	luster is a property of  an object; a material and includes ordered values of dull; shiny	gold
+41	certain is similar to specific	nongold
+42	a mineral is a kind of object	gold
+43	streak is a measure of the color of a mineral below the surface or as a powder	nongold
+44	if an object is made of a material then that object has the properties of that material	nongold
+45	mica.	answer
+46	the luster of an object can be determined by looking at that object	nongold
+47	often is similar to likely	nongold
+48	answering questions requires information	nongold
+49	to be made of something means to be formed of that something	nongold
+50	extreme means very high in value	nongold
+51	an object has properties	nongold
+52	gypsum is a kind of mineral	nongold
+53	if there is none of a thing then that thing does not exist	nongold
+54	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+55	metal is a kind of material	nongold
+56	low is similar to decrease	nongold
+57	made of is similar to contains	nongold
+58	a sheet of is similar to a piece of	nongold
+59	identifying is similar to determining	nongold
+60	coloration means a pattern of colors	nongold
+61	a surface is a part of a material	nongold
+62	a student is a kind of human	nongold
+63	substances are made of matter	nongold
+64	white is a kind of color	nongold
+65	materials are made of matter	nongold
+66	high is similar to increase	nongold
+67	classifying means grouping objects; materials by their properties	nongold
+68	if rocks in an area have many scratches then that area was once covered by glaciers	nongold
+69	mica is a kind of mineral	gold
+70	composed of means made of	nongold
+71	gas is a kind of nonmetal	nongold
+72	a nonmetal is a kind of element	nongold
+73	a surface is a part of an object	nongold
+74	a nail is a kind of object	nongold
+75	according to is similar to be determined by	nongold
+76	metallic is similar to shiny	nongold
+77	a tool is a kind of object	nongold
+78	something's function can be used to describe; identify that something	nongold
+79	if an object is black then that object absorbs all visible light; heat	nongold
+80	no longer means used to be	nongold
+81	to try means to make an effort	nongold
+82	identifying sometimes requires examining	nongold
+83	to scrape means to scratch	nongold
+84	seeking something means trying to find; searching for something	nongold
+85	color is a property of  an object; a material	gold
+86	nonmetal means nonmetals	nongold
+87	measuring the hardness of minerals requires  scratching those materials	nongold
+88	mica is  soft	gold
+89	to identify means to discover	nongold
+90	mica is  black in color	gold
+91	lowest means least in value; amount; number	nongold
+92	nonmetal means not metal	nongold
+93	objects are made of materials; substances; matter	nongold
+94	a rock is a kind of object	nongold
+95	to be formed by is similar to being produced by	nongold
+96	a surface is a kind of object	nongold
+97	black is a kind of color	gold
+98	hardness is a measure of a mineral's ability to resist scratching	nongold
+99	color is a kind of physical; visual property	nongold
+100	coloration means a thing's color	nongold

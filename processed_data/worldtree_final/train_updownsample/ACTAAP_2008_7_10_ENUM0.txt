@@ -1,0 +1,61 @@
+0	examining sometimes requires measuring	nongold
+1	investigating requires gathering information	nongold
+2	storm is a kind of weather; weather event	nongold
+3	investigating a stage of something means investigating that something	gold
+4	greatest means largest; highest; most amount of something	nongold
+5	investigating a stage of something means investigating that something	gold
+6	An example of a physical cycle is the water cycle	nongold
+7	In the water cycle , precipitation can follow condensation	nongold
+8	rain is a kind of precipitation	nongold
+9	precipitation is a kind of weather	nongold
+10	precipitation is a kind of natural occurrence; cause	nongold
+11	a part of a process means a stage in a process	nongold
+12	answering questions requires information	nongold
+13	studying is similar to investigating	nongold
+14	runoff is a stage in the water cycle process	nongold
+15	precipitation is when water falls from the sky	gold
+16	water is a part of an environment	nongold
+17	a process is a kind of event	nongold
+18	precipitation is a kind of  natural process	nongold
+19	rain is a kind of water	nongold
+20	precipitation amounts	answer
+21	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+22	inspect; observe means examine	nongold
+23	measuring sometimes requires  recording; learning an amount	gold
+24	water is a kind of natural resource	nongold
+25	In the water cycle , precipitation always follows transportation	nongold
+26	storms;rain cause bodies of water to increase amount of water they contain	nongold
+27	What would most likely be measure during an investigation of the water cycle?	question
+28	investigating sometimes requires measuring	gold
+29	What would most likely be measure during an investigation of the water cycle?	question
+30	snowfall means the amount of precipitation in snow form	nongold
+31	a cloud is a kind of weather	nongold
+32	What would most likely be measure during an investigation of the water cycle?	question
+33	investigating is a kind of process	nongold
+34	a measurement is a kind of data	nongold
+35	precipitation amounts	answer
+36	What would most likely be measure during an investigation of the water cycle?	question
+37	average amount of precipitation is a property of climate	nongold
+38	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+39	precipitation amounts	answer
+40	precipitation amounts	answer
+41	investigating sometimes requires measuring	gold
+42	hail is a kind of precipitation; ice	nongold
+43	investigating a stage of something means investigating that something	gold
+44	as the size of a cloud increases , the amount  of precipitation contained in that cloud will increase	nongold
+45	precipitation is a stage in the water cycle process	gold
+46	to report means to show	nongold
+47	experimentation requires measuring	nongold
+48	an increase is a kind of change	nongold
+49	often is similar to likely	nongold
+50	less means a reduced amount	nongold
+51	measuring sometimes requires  recording; learning an amount	gold
+52	investigating sometimes requires measuring	gold
+53	precipitation is a stage in the water cycle process	gold
+54	rain causes erosion	nongold
+55	precipitation is when water falls from the sky	gold
+56	precipitation is when water falls from the sky	gold
+57	a source of something increases the amount of that something	nongold
+58	measuring sometimes requires  recording; learning an amount	gold
+59	precipitation is a stage in the water cycle process	gold
+60	water is a kind of natural resource	nongold

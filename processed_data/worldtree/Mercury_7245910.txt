@@ -1,0 +1,102 @@
+Question	The liver converts glucose to glycogen for storage. Why is this function considered a chemical change?	question
+Answer	because the conversion changes one substance to a new one	answer
+0	glycogen is a kind of substance	gold
+1	the function of something is what that something  is used to do	nongold
+2	glucose is a kind of substance	gold
+3	a liver is a part of an animal used in  digestion	nongold
+4	a liver is a kind of organ	nongold
+5	converting is a kind of function	nongold
+6	conversion is a kind of process	nongold
+7	chemical reactions cause chemical change	gold
+8	causing is a kind of function	nongold
+9	the liver is a part of the digestive system	nongold
+10	to convert means to change	gold
+11	an increase is a kind of change	nongold
+12	chemical change is a kind of chemical reaction	nongold
+13	converting is similar to producing	nongold
+14	chemical reactions cause new substances; different substances to form	gold
+15	role means function	nongold
+16	nutrients are a kind of substance	nongold
+17	converting is similar to releasing	nongold
+18	function is similar to purpose	nongold
+19	to add means to increase	nongold
+20	if something performs a task then that task is that something's function	nongold
+21	a function is an activity	nongold
+22	to be a vehicle for is a kind of function	nongold
+23	producing is a kind of function	nongold
+24	to store means to hold	nongold
+25	substances have chemical properties	nongold
+26	food is a kind of substance	nongold
+27	metabolism is the sum of all chemical reactions in an animal's body	nongold
+28	change is a kind of process	nongold
+29	absorbing is a kind of function	nongold
+30	chemical reactions releasing new substances means chemical reactions forming new substances	nongold
+31	keeping is similar to storing	nongold
+32	a decrease is a kind of change	nongold
+33	if something causes an increase in something else then that something produces that something else	nongold
+34	a function is a kind of characteristic	nongold
+35	convert is similar to transfer	nongold
+36	to change means to cause a change	nongold
+37	combining; mixing two substances chemically causes chemical reactions	nongold
+38	if an object undergoes chemical change then that object will have new chemical properties	nongold
+39	cellular respiration is cellular digestion	nongold
+40	a food contains nutrients for living things	nongold
+41	high is similar to increase	nongold
+42	old is the opposite of new	nongold
+43	variable means able to change	nongold
+44	contain is similar to store	nongold
+45	cellular respiration is a kind of process	nongold
+46	a chemical reaction is a kind of process	nongold
+47	food contains carbohydrates	nongold
+48	carbohydrates store chemical energy	nongold
+49	to transform means to convert	nongold
+50	new means different from the former one	nongold
+51	adding something is a kind of change	nongold
+52	forming is similar to converting	gold
+53	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+54	something is used for that something's purpose	nongold
+55	a source of something emits; produces; generates; provides that something	nongold
+56	to be used for something means to be required by that something	nongold
+57	if something causes a process then that something is required for that process	nongold
+58	to change means to have an effect	nongold
+59	providing is a kind of function	nongold
+60	affected means changed	nongold
+61	transfer is a kind of change	nongold
+62	to have a function is similar to to be responsible for	nongold
+63	ATP is formed by the breakdown of molecules of glucose	nongold
+64	cellular respiration is when a cell converts from oxygen and carbohydrates into carbon dioxide, water, and energy	nongold
+65	emit means produce	nongold
+66	releasing energy is a kind of function	nongold
+67	chemical reaction means chemical bonds change	nongold
+68	nutrients are a kind of matter	nongold
+69	an increase is the opposite of a decrease	nongold
+70	substances are made of molecules	nongold
+71	unchanged means not changed	nongold
+72	a change is a kind of event	nongold
+73	oxygen; glucose is used for providing energy to cells by mitochondrion	nongold
+74	the stomach is a part of the  digestive system	nongold
+75	the intestines are a part of the digestive system	nongold
+76	to work means to function	nongold
+77	most chemical reactions release or absorb heat energy	nongold
+78	if something transfers something else then that something is a source of something else	nongold
+79	both means two	nongold
+80	compound is a kind of chemical	nongold
+81	combustion is a kind of chemical change	nongold
+82	a part of a process means a stage in a process	nongold
+83	the liver is located in the abdomen	nongold
+84	a stomach is a part of a human's; animal's digestive system for the digestion of proteins	nongold
+85	carbohydrates are made of sugars	nongold
+86	a reaction is a kind of process	nongold
+87	a carbohydrate is a kind of compound	nongold
+88	to modify means to change	nongold
+89	increase means more	nongold
+90	photosynthesis is a kind of chemical  process	nongold
+91	a process usually requires all of the stages in that process	nongold
+92	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+93	deplete is similar to decrease	nongold
+94	protecting is a kind of function	nongold
+95	to emit means to release	nongold
+96	the digestive system breaks down food into nutrients for  the body	nongold
+97	to turn means to convert	nongold
+98	living things perform biological processes	nongold
+99	the stomach is a kind of organ	nongold

@@ -1,0 +1,101 @@
+0	There is a thunderstorm close to your house. The windows rattle at the same time that you hear the thunder. What causes the windows to rattle?	question
+1	Sound waves from the thunder	answer
+2	a rattle is a kind of object	nongold
+3	rattle is a kind of motion	gold
+4	a rattle is a kind of vibration	nongold
+5	sound wave is a kind of wave	nongold
+6	a window is a kind of object	gold
+7	sound waves means sound energy	gold
+8	a window is a part of a house	nongold
+9	sound wave is similar to sound	nongold
+10	a window is made of glass	nongold
+11	thunder is a kind of sound	gold
+12	a thunderstorm is a kind of storm	nongold
+13	a house is a kind of building	nongold
+14	thunder occurs during thunderstorms	gold
+15	a wave is a kind of object	nongold
+16	sound wave is a kind of mechanical wave	nongold
+17	lightning causes thunder	nongold
+18	thunder is a source of sound energy	nongold
+19	lightning occurs during lightning storms; thunderstorms	nongold
+20	thunder is loud	gold
+21	lightning is the source of thunder	nongold
+22	noise means sound	nongold
+23	rattle is similar to vibrate	nongold
+24	sound means sound energy	nongold
+25	wave motion is transferred from the source to matter to produce sound	nongold
+26	sound waves spread in all directions away from their source	nongold
+27	if something comes from something else then that something else is a source of that something	nongold
+28	near means close	nongold
+29	where something  comes from is a source of that something	nongold
+30	waves travel outward from the source	nongold
+31	the  sound energy released by thunder is intense	nongold
+32	matter; molecules vibrating can cause sound	nongold
+33	lightning is a kind of weather phenomenon	nongold
+34	close means low in distance	nongold
+35	a house is a kind of home	nongold
+36	waves are made of moving water	nongold
+37	sound waves transfer energy	nongold
+38	an object; material; substance comes from that object or material's source	nongold
+39	an earthquake wave is a kind of wave	nongold
+40	sound is a kind of sound energy	nongold
+41	objects are made of materials; substances; matter	nongold
+42	a motion is a kind of event; action	nongold
+43	sound is a kind of air vibration	nongold
+44	to give off means to be the source of	nongold
+45	storm is a kind of weather; weather event	nongold
+46	motion; movement means moving; to move	nongold
+47	electromagnetic wave is a kind of  wave	nongold
+48	sound energy is transferred by vibrational waves	nongold
+49	a wave is formed by the vibration of the source spreading around from the source	nongold
+50	a source of something emits; produces; generates; provides that something	nongold
+51	loud means high in sound energy;sound intensity	gold
+52	waves can travel through matter	nongold
+53	near; close is the opposite of far; away	nongold
+54	vibrations are a source of sound	nongold
+55	a storm is usually a source of strong winds	nongold
+56	glass is a kind of object	nongold
+57	a vibration is similar to a wave	nongold
+58	light is a kind of wave	nongold
+59	to be a source of something means to cause that something	nongold
+60	an increase is a kind of change	nongold
+61	cold fronts cause thunderstorms as they pass by	nongold
+62	electromagnetic wave is not a mechanical wave	nongold
+63	An example of light traveling faster than sound is people see the lightnings before hear the thunder	nongold
+64	all waves transfer; transmit energy from one place to another	nongold
+65	pitch of a sound can be  used to describe the frequency of the sound wave	nongold
+66	electromagnetic energy travels as electromagnetic waves	nongold
+67	rainstorm means rain storm	nongold
+68	high-frequency sound waves have low; short wavelengths	nongold
+69	cracking something usually has a negative impact on that something	nongold
+70	hail is a kind of precipitation; ice	nongold
+71	high is similar to increase	nongold
+72	pulling is a kind of motion	nongold
+73	an echo is a kind of sound	nongold
+74	sound is a kind of energy	nongold
+75	a human is a kind of animal	nongold
+76	harming something has a  negative impact on; effect on that something	nongold
+77	a surface is a part of an object	nongold
+78	vibration is a kind of motion	nongold
+79	to lower means to decrease	nongold
+80	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+81	if something releases something else then that something is the source of that something else	nongold
+82	shaking is a kind of motion	nongold
+83	amplitude is  a measure of the loudness of the sound wave	nongold
+84	to change means to cause a change	nongold
+85	closer means lower; less; a decrease in distance	nongold
+86	materials are made of matter	nongold
+87	to add means to increase	nongold
+88	rain; snow falls	nongold
+89	a home is a kind of building	nongold
+90	an object is made of its parts	nongold
+91	hitting is a kind of motion	nongold
+92	hitting something causes harm to that something	nongold
+93	if something transfers something else then that something is a source of something else	nongold
+94	to reduce means to decrease	nongold
+95	waves contain mechanical energy	nongold
+96	if an object is made of a material then that object has the properties of that material	nongold
+97	an animal is a kind of living thing	nongold
+98	a living thing is a kind of object	nongold
+99	hearing is used for sensing sound by animals	nongold
+100	frequency is a property of a wave; a particel of light; an event	nongold

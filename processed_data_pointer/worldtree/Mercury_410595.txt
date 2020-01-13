@@ -1,0 +1,102 @@
+Question	Earth is about 81 times more massive than the Moon. How will the mass and weight of a rocket on the Moon compare to its mass and weight on Earth?	question
+Answer	The mass will be the same, but its weight will be less on the Moon.	answer
+0	mass; weight are the same on Earth	nongold
+1	a rocket is a kind of vehicle	nongold
+2	a rocket is a kind of object	gold
+3	the earth has more mass than the moon	nongold
+4	less is the opposite of more	nongold
+5	less is similar to decrease	gold
+6	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	gold
+7	Earth is a kind of planet	gold
+8	a moon is a kind of celestial object; body	gold
+9	massive means great in mass	gold
+10	an increase is the opposite of a decrease	gold
+11	fewer means lower; less in number	nongold
+12	the moon orbits the Earth	nongold
+13	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	gold
+14	greater means higher; more in value	nongold
+15	massive means giant	nongold
+16	heavy means a large amount of weight	nongold
+17	less means a reduced amount	nongold
+18	increase means more	gold
+19	different is the opposite of the same	nongold
+20	comparing requires measuring	nongold
+21	as the force of gravity increases , the weight of objects will increase	gold
+22	a planet's  moon is smaller than that planet	nongold
+23	a planet is a kind of celestial object; body	nongold
+24	lower means less	nongold
+25	to lower means to decrease	nongold
+26	same means identical; equal in value; amount; number; quantity	nongold
+27	as the mass of an object increases ,  the weight of that object will increase	nongold
+28	mass; weight is a property of matter; objects; materials	nongold
+29	high is similar to increase	nongold
+30	weight is a measure of the force of the gravity on the mass of an object	nongold
+31	as the mass of an object decreases , the weight of that object will decrease	nongold
+32	low is similar to decrease	nongold
+33	stay the same means not changing	gold
+34	weight is a property of objects; matter	nongold
+35	a weight is a kind of object	nongold
+36	the Moon is Earth's moon	nongold
+37	if something changes , then that something is not the same	nongold
+38	if something has no impact on something else then that something else stays the same	nongold
+39	the mass of a planet causes the pull of gravity on that planet	nongold
+40	weight means the force of gravity acting on an object	nongold
+41	Earth is greater in mass than Mars	nongold
+42	to reduce means to decrease	nongold
+43	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+44	a rocket engine is used to move a rocket	nongold
+45	a vehicle is a kind of object	nongold
+46	an increase is a kind of change	nongold
+47	a decrease is a kind of change	nongold
+48	mass is a property of objects; matter	nongold
+49	powering is similar to fueling	nongold
+50	an animal is a kind of living thing	nongold
+51	massive is similar to large	nongold
+52	as the mass of an oject decreases , the force of gravity on that object will decrease	nongold
+53	as the gravitational pull of the moon on the Earth decreases , the size of the tides on Earth decrease	nongold
+54	comparing requires observing that something	nongold
+55	as the mass of an object increases , the force of gravity on that object will increase	nongold
+56	Weight is  the  force of gravity acting on an object	nongold
+57	as the force  of gravity changes , the mass of the object will stay the same	nongold
+58	lighter means lower; less in weight	nongold
+59	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+60	launching is a kind of motion	nongold
+61	a living thing is a kind of object	nongold
+62	a human is a kind of animal	nongold
+63	a rocket is a kind of mechanical system	nongold
+64	as the force  of gravity decreases , the weight of the object will decrease	nongold
+65	smaller means less; lower in size	nongold
+66	as the force  of gravity changes , the weight of the object will change	nongold
+67	the moon is the celestial object that is closest to the  Earth	nongold
+68	greatest means largest; highest; most amount of something	nongold
+69	higher means greater; above in value; amount; number	nongold
+70	revolving  around something means orbiting that something	nongold
+71	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+72	to remain means to stay the same	nongold
+73	to change means to become different	nongold
+74	low is the opposite of high	nongold
+75	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+76	gravity causes orbits	nongold
+77	planets have cleared their orbits	nongold
+78	propulsion is used for flying by a spacecraft	nongold
+79	a planet is a kind of location	nongold
+80	identical is the opposite of different	nongold
+81	affected means changed	nongold
+82	to match means to be the same	nongold
+83	as the cause of something decreases , that something will decrease	nongold
+84	larger means greater; higher; more; increase in size	nongold
+85	a rocket engine is used to produce thrust by pushing gases out at a high speed	nongold
+86	to add means to increase	nongold
+87	the  property of something is the same for the things of same kind	nongold
+88	an event is a kind of action	nongold
+89	the Moon has less water; air than Earth	nongold
+90	opposite is a kind of different	nongold
+91	as the altitude increases , the gravity will decrease	nongold
+92	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+93	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+94	a motion is a kind of event; action	nongold
+95	heat means heat energy	nongold
+96	the moon is less bright than the sun	nongold
+97	as the heat  of an object increases , the mass of the object will stay the same	nongold
+98	weight is a kind of property	nongold
+99	moons orbit planets	nongold

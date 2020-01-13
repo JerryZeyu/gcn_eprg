@@ -1,0 +1,101 @@
+0	Dumping toxic chemicals into a pond would most likely result in	question
+1	fish in the pond being harmed or dying off.	answer
+2	dumping something in an environment means adding that something to that environment	gold
+3	to cause means to result in	gold
+4	a fish is a kind of aquatic animal	gold
+5	a pond is a kind of body of water	gold
+6	a fish is a kind of animal	nongold
+7	harming an organism can cause that organism to die	gold
+8	a fish lives in water	nongold
+9	a pond is a kind of environment	nongold
+10	harming something has a  negative impact on; effect on that something	gold
+11	a fish is a kind of predator	nongold
+12	killing means harming something causing death	nongold
+13	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+14	if a living thing dies then that living thing is dead	nongold
+15	something harmful can cause harm	nongold
+16	fishing is when a human kills; catches fish for food	nongold
+17	death means to die	nongold
+18	a body of water is a kind of environment	nongold
+19	chemicals means substances	nongold
+20	to produce means to result in	nongold
+21	dying is the opposite of living; surviving	nongold
+22	toxic means poisonous	gold
+23	human waste often causes harm to an environment	nongold
+24	an aquatic animal is a kind of animal	nongold
+25	a body of water contains water	nongold
+26	dead organisms are a kind of waste	nongold
+27	negative impact is the opposite of positive impact	nongold
+28	an animal is a kind of organism	gold
+29	an animal is a kind of living thing	nongold
+30	damage has a negative impact on a thing	nongold
+31	to hurt means to harm	nongold
+32	damage means harm	nongold
+33	killing means changing a living thing from alive to dead by harming	nongold
+34	pollution has a negative impact on the environment; air quality; water quality; society	gold
+35	an organism is a living thing	nongold
+36	harm means danger	nongold
+37	nonliving; non-living; die is the opposite of living; alive; live	nongold
+38	a lake is a kind of body of water	nongold
+39	a pond is smaller; shallower than a lake	nongold
+40	survive means live	nongold
+41	survive means live	nongold
+42	waste has a  negative impact on the environment	nongold
+43	something dangerous can cause harm	nongold
+44	a poisonous animal is dangerous	nongold
+45	to be a source of something means to cause that something	nongold
+46	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+47	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+48	aquatic animal means water animal	nongold
+49	get rid of means eliminate; remove	nongold
+50	fishing has a negative impact on ecosystems	nongold
+51	animals; living things require water for survival	nongold
+52	water is a part of an environment	nongold
+53	water is a kind of liquid at room temperature	nongold
+54	dead means not alive	nongold
+55	water is a kind of substance	nongold
+56	a negative impact is a kind of consequence; risk	nongold
+57	decreasing something negative has a positive impact on a thing	nongold
+58	humans discarding waste in an environment causes harm to that environment	nongold
+59	remains mean parts of a dead organism	nongold
+60	inhibitor means something that prevents something from happening	nongold
+61	harming an animal species has a  negative impact on the population size of that species	nongold
+62	a living thing is a kind of object	nongold
+63	destroying something causes harm to that something	nongold
+64	if an organism dies then the population of that organism will decrease	nongold
+65	a fish is a kind of scaled animal	nongold
+66	poisoning an environment means poisoning the organisms in that environment	nongold
+67	protecting something means preventing harm to that something	nongold
+68	a concern; a problem is a possible negative impact	nongold
+69	organisms are a part of an environment	gold
+70	a human is a kind of animal	nongold
+71	to reduce means to decrease	nongold
+72	harming an animal species causes that animal's population to decrease	nongold
+73	aquatic animals; plants live in bodies of water	gold
+74	often is similar to likely	nongold
+75	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	gold
+76	decreasing something positive has a negative impact on a thing	nongold
+77	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+78	fish eat insects	nongold
+79	danger has a negative impact on a thing	nongold
+80	if a human discards an object then that object will become waste	nongold
+81	to lower means to decrease	nongold
+82	if something causes a process then that something is required for that process	nongold
+83	a problem has a negative impact on a thing	nongold
+84	to impact means to affect	nongold
+85	impact means effect	nongold
+86	a person is a kind of animal	nongold
+87	absorbing something harmful has a negative impact on a thing	nongold
+88	an event is a kind of action	nongold
+89	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+90	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+91	all living things eliminate waste	nongold
+92	person is synonymous with human	nongold
+93	landfills have a negative impact on the environment; communities	nongold
+94	humans move waste to a  landfill for disposal;storage	nongold
+95	the disposal of nuclear waste products is a controversial issue associated with the use of nuclear power	nongold
+96	a  fish is cold-blooded	nongold
+97	negative impacts on a species will decrease populations of a species	nongold
+98	living things in a polluted environment often contain pollutants	nongold
+99	poison causes harm to living things; organisms	nongold
+100	burning a living thing usually causes harm to that living thing	nongold

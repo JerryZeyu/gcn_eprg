@@ -1,0 +1,101 @@
+0	substances have chemical properties	nongold
+1	a source of something emits; produces; generates; provides that something	nongold
+2	an organism breaking down sugar is a source of carbon dioxide; water	nongold
+3	a carbonated beverage contains dissolved carbon dioxide	nongold
+4	heat means heat energy	nongold
+5	table sugar is a kind of sugar	nongold
+6	water is a kind of substance	gold
+7	a compound is a kind of material	nongold
+8	a solution is a kind of mixture	nongold
+9	lemonade is made of water, lemon juice, and sugar	nongold
+10	producing is similar to releasing	nongold
+11	if something is used to dissolve substances , then that something is the solvent	nongold
+12	a solution is formed by one substance being dissolved in another substance	nongold
+13	condensation is when matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+14	a solid is a kind of substance	nongold
+15	In the solution salt water , the solute is salt	nongold
+16	tea is a kind of solution of water and tea mix	nongold
+17	sugar is a kind of solid	nongold
+18	made of is similar to contains	nongold
+19	a beverage is a kind of liquid	nongold
+20	a beverage is a kind of food	nongold
+21	if a substance is dissolved in another substance then that substance is added to that other substance	nongold
+22	substances are made of molecules	nongold
+23	In the solution salt water , the solvent is water	nongold
+24	water is a kind of liquid at room temperature	nongold
+25	ethanol is a kind of substance	nongold
+26	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+27	evaporation; boiling can be used for separating a solution by allowing the solvent to evaporate	nongold
+28	sugar is made of carbon, hydrogen, oxygen	nongold
+29	if something is soluble in something , then that something can be dissolved in something forming a solution	nongold
+30	chocolate is a kind of solid usually	nongold
+31	solution is a kind of liquid	nongold
+32	when one substance is dissolved in another substance then the molecules of that other substance exist in solution	nongold
+33	sugar is a kind of  simple carbohydrate	nongold
+34	moisture means liquid; liquid water	nongold
+35	In the solution sugar water , the solvent is water	nongold
+36	a container contains objects; material; substances	nongold
+37	when sugar dissolves in water , less sugar is visible	nongold
+38	give off is similar to make	nongold
+39	compound is a kind of chemical	nongold
+40	hydrochloric acid is made of hydrogen chloride dissolved in water	nongold
+41	made up of means contains; made of	nongold
+42	What is made when sugar is dissolved in water?	question
+43	a compound is a kind of substance	nongold
+44	to be formed by is similar to being produced by	nongold
+45	sugar is a kind of pure substance	gold
+46	soda water is a kind of carbonated beverage	nongold
+47	a solution	answer
+48	a sugar cube is made of sugar	nongold
+49	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+50	a solvent is a part of a solution	nongold
+51	dissolving a substance in water causes the water to taste like that substance	nongold
+52	matter; materials; substances are made of atoms; particles	nongold
+53	In the solution sugar water , the solute is sugar	nongold
+54	a liquid is a kind of substance	nongold
+55	baking soda is a kind of solid	nongold
+56	a  solution  is a kind of object	nongold
+57	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+58	water is a kind of compound	nongold
+59	a chemical compound is a kind of compound	nongold
+60	a solute can be dissolved in a solvent when they are combined	nongold
+61	material means substance	nongold
+62	a pure substance is made of only one kind of atom; molecule	nongold
+63	a  solute is a part of a solution	nongold
+64	juice is a kind of solution	nongold
+65	An example of a solution is vinegar mixed with water	nongold
+66	combining; mixing two substances chemically causes chemical reactions	nongold
+67	purity is a property of substance and includes ordered values of pure substance; mixture	nongold
+68	sodium chloride dissolves in water when they are combined	nongold
+69	water is a kind of matter	nongold
+70	a solution is made of one substance dissolved in another substance	gold
+71	salt is soluble in water	nongold
+72	gas is a kind of substance	nongold
+73	sugar is made of sugar crystals	nongold
+74	to cause means to make	nongold
+75	salt is a kind of solid	nongold
+76	carbohydrates are made of sugars	nongold
+77	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+78	temperature is a measure of heat energy	nongold
+79	a mixture is a kind of substance	nongold
+80	an mixture is formed by two or more substances combined together physically	nongold
+81	provide is similar to give; make	nongold
+82	deplete is similar to decrease	nongold
+83	sugar is a kind of food	nongold
+84	soda is a kind of carbonated beverage	nongold
+85	sugar water is a kind of solution	nongold
+86	substances are made of matter	nongold
+87	chocolate  is a kind of food	nongold
+88	if something is dissolved , then that something is the solute	nongold
+89	make means produce	nongold
+90	syrup is a kind of liquid	nongold
+91	liquid is a kind of state of matter	nongold
+92	sugary means high in sugar	nongold
+93	if something absorbs something else then that something will contain that something else	nongold
+94	if something is made of something; a material then that something contains that something; that material	nongold
+95	glucose is a kind of substance	nongold
+96	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+97	sugar dissolves in water when they are combined	gold
+98	salt is a kind of pure substance	nongold
+99	salt water is a kind of solution	nongold
+100	food is a kind of substance	nongold

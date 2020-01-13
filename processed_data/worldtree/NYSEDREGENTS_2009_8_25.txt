@@ -1,0 +1,102 @@
+Question	Infections may be caused by	question
+Answer	microorganisms	answer
+0	microorganisms can cause infections	gold
+1	bacteria sometimes cause disease	nongold
+2	a microorganism is very small in size	nongold
+3	bacteria is a kind of pathogen sometimes	nongold
+4	bacteria; viruses cause food poisoning	nongold
+5	disease means illness	nongold
+6	bacteria is a kind of living thing	nongold
+7	pathogens can cause disease	nongold
+8	a bacterium is a kind of organism	nongold
+9	a microorganism is a kind of decomposer	nongold
+10	a fungus is a kind of organism	nongold
+11	virus is a kind of living thing	nongold
+12	microorganisms cause food to spoil	nongold
+13	disease-causing microbes have a negative impact on the body	nongold
+14	bacteria can cause people to become ill	nongold
+15	a fungus is a kind of living thing	nongold
+16	infection often requires medical treatment	nongold
+17	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+18	a worm is a kind of animal	nongold
+19	harming something has a  negative impact on; effect on that something	nongold
+20	bacteria is small; microscopic in size	nongold
+21	death means to die	nongold
+22	a microorganism is a part of a compost pile	nongold
+23	harming an organism can cause that organism to die	nongold
+24	disease has a negative impact on an organism	nongold
+25	reducing bacteria in food prevents illness in people	nongold
+26	killing microorganisms in food can be used to extend the shelf life of that food	nongold
+27	if a living thing dies then that living thing is dead	nongold
+28	an organism is a living thing	nongold
+29	a bacterium is a kind of decomposer	nongold
+30	a decomposer is usually a bacterium; fungus	nongold
+31	a worm is a kind of living thing	nongold
+32	if an organism dies then the population of that organism will decrease	nongold
+33	a plant is a kind of organism	nongold
+34	an paramecium is a kind of organism	nongold
+35	dead organisms are a source of disease	nongold
+36	a germ is a kind of harmful substance	nongold
+37	mold is a kind of fungus	nongold
+38	pathogen is similar to harmful substance	nongold
+39	an animal is a kind of organism	nongold
+40	food poisoning is a kind of illness	nongold
+41	illness has a negative impact on an organism's health	nongold
+42	a mushroom is a kind of fungus	nongold
+43	In the food chain process bacteria have the role of decomposer	nongold
+44	cooking food to proper temperatures protects against food poisoning by killing bacteria and viruses	nongold
+45	biotic means living	nongold
+46	bacteria can help digest food in humans	nongold
+47	bacteria; molds; yeast cause food to spoil	nongold
+48	algae is a kind of plant	nongold
+49	an animal; bacterium requires oxygen for survival; to breathe	nongold
+50	good bacteria have a positive impact on a living thing's survival; health	nongold
+51	to be a source of something means to cause that something	nongold
+52	helping something has a  positive impact on that something	nongold
+53	bacteria is a part of soil	nongold
+54	an animal is a kind of living thing	nongold
+55	adding heat to something kills viruses; bacteria in that something	nongold
+56	a worm is a kind of decomposer	nongold
+57	if an organism dies then that organism can not perform its function	nongold
+58	an algae is a kind of organism	nongold
+59	good bacteria grow on the skin; a human's skin	nongold
+60	negative impact is the opposite of positive impact	nongold
+61	causing is a kind of affecting	nongold
+62	vaccines can help prevent illness	nongold
+63	specialized cells are a source of chemicals that destroy disease-causing microbes	nongold
+64	the body is a part of an organism	nongold
+65	adverse effect means negative impact	nongold
+66	bacillus is a kind of rod-shaped bacteria	nongold
+67	a type is synonymous with a kind	nongold
+68	volvox is a kind of protist	nongold
+69	a plant is made of plant cells	nongold
+70	fungi are part of the biological kingdom Fungi	nongold
+71	an autoimmune disease is when the body attacks its own tissues	nongold
+72	killing means harming something causing death	nongold
+73	something harmful can cause harm	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	bacteria grow in a bacterial culture	nongold
+76	fungi absorb nutrients from decaying tissue	nongold
+77	dysentery is a kind of illness	nongold
+78	a diatom is a kind of organism	nongold
+79	In the food chain process fungi have the role of decomposer	nongold
+80	organisms are a part of an environment	nongold
+81	dying is the opposite of living; surviving	nongold
+82	a food contains nutrients for living things	nongold
+83	solution is similar to a positive impact	nongold
+84	poisoning an environment means poisoning the organisms in that environment	nongold
+85	sneezing is used for getting rid of bacteria; viruses by the body	nongold
+86	answering questions requires information	nongold
+87	cells are a part of the body	nongold
+88	a living thing is made of cells	nongold
+89	nonliving; non-living; die is the opposite of living; alive; live	nongold
+90	if a plant dies then that plant will not produce food	nongold
+91	food contains carbohydrates	nongold
+92	a plant cell is a kind of cell	nongold
+93	if something is caused by something else , then that something can be explained by that something else	nongold
+94	a component means a part of	nongold
+95	organisms mean life	nongold
+96	cure means solution to being sick	nongold
+97	a worm has a tube-like body	nongold
+98	can be means able to be	nongold
+99	a plant is a kind of living thing	nongold

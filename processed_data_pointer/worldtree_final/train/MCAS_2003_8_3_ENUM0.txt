@@ -1,0 +1,102 @@
+0	solar energy is a kind of light	nongold
+1	emit means produce	nongold
+2	electric devices require electrical energy to function	nongold
+3	some light bulbs convert electrical energy; electricity into light energy and heat energy	gold
+4	light bulb means lightbulb	nongold
+5	an electric motor converts electrical energy into mechanical energy	nongold
+6	conductivity is a kind of physical property	nongold
+7	adding heat means increasing temperature	nongold
+8	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+9	heat is a kind of energy	nongold
+10	a process is a kind of event	nongold
+11	if something generates energy for something else then that something powers that something else	nongold
+12	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+13	an event is a kind of action	nongold
+14	UV light is a kind of light	nongold
+15	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+16	a flashlight converts electrical energy; electricity into light energy	nongold
+17	light is a kind of energy	nongold
+18	sunlight is a kind of light	nongold
+19	conductivity is a property of a material; substance	nongold
+20	if something emits something else then that something increases the amount of that something else	nongold
+21	energy conversion is similar to energy transformation	nongold
+22	a solar panel converts sunlight; solar energy into electrical energy; electricity	nongold
+23	to happen means to occur	nongold
+24	can be means able to be	nongold
+25	to transform means to convert	gold
+26	heat means heat energy	nongold
+27	electrical current means electrical energy	nongold
+28	energy transformation means one kind of energy changes into another kind of energy	nongold
+29	a source of something increases the amount of that something	nongold
+30	electricity is used as an energy source by electrical devices	nongold
+31	converting is similar to turning into	nongold
+32	if an object is made of a material then that object has the properties of that material	nongold
+33	affected means changed	nongold
+34	the heat energy produced by the light bulb is not used	nongold
+35	material means substance	nongold
+36	solar energy is a kind of heat energy	nongold
+37	variable means able to change	nongold
+38	closing an electric circuit causes an electrical device to function	nongold
+39	absorbing energy causes objects; materials; substances to heat	nongold
+40	an object; material; substance comes from that object or material's source	nongold
+41	a device is a kind of object	nongold
+42	metal is an  electrical; electrical energy conductor	nongold
+43	to turn means to convert	nongold
+44	an insulator is the opposite of a conductor	nongold
+45	an increase is a kind of change	nongold
+46	rotate means turn	nongold
+47	light means light energy	nongold
+48	the function of something is what that something  is used to do	nongold
+49	to illuminate means to light up	nongold
+50	converting is similar to generating	nongold
+51	to be made of something means to be formed of that something	nongold
+52	a light bulb requires electrical energy to produce light	nongold
+53	solar energy is a kind of energy	nongold
+54	a physical property is a kind of property	nongold
+55	person is synonymous with human	nongold
+56	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+57	turning is a kind of motion	nongold
+58	a source of heat can be used to heat something	nongold
+59	an electric stove changes electrical energy into heat energy	nongold
+60	converting is similar to producing	nongold
+61	to convert means to change	nongold
+62	light is a kind of energy	nongold
+63	if the electrical  devices are connected in parallel circuit , then turning on or off any devices will not affect other devices	nongold
+64	turns is similar to changes	nongold
+65	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+66	a machine is a kind of object	nongold
+67	to turn means to change	nongold
+68	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+69	to change means to cause a change	nongold
+70	heating means adding heat	nongold
+71	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+72	a light bulb generates visible light when it is turned on	nongold
+73	if something transfers something else then that something is a source of something else	nongold
+74	a source of heat can be used to heat something	nongold
+75	light is a kind of wave	nongold
+76	electricity means electrical energy	gold
+77	forming is similar to converting	nongold
+78	a source of something emits; produces; generates; provides that something	nongold
+79	to combust means to catch fire	nongold
+80	substances are made of matter	nongold
+81	to modify means to change	nongold
+82	an electrical device requires electricity to turn on	nongold
+83	temperature is a measure of heat energy	nongold
+84	to add means to increase	nongold
+85	both means two	nongold
+86	heat energy  can be used to heat up  an object	nongold
+87	sunlight produces heat	nongold
+88	What energy transformation occurs when an electric lamp is turned on?	question
+89	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+90	a human is a kind of animal	nongold
+91	a light bulb is a part of a  lamp	gold
+92	electrical energy is a kind of energy	nongold
+93	turning on is a kind of process	nongold
+94	objects are made of materials; substances; matter	nongold
+95	combustion means fire converts chemical energy into light energy and heat energy	nongold
+96	fire causes burning	nongold
+97	heat energy can change the state of matter	nongold
+98	a light bulb is a kind of electrical device	nongold
+99	a complete electrical circuit is a source of  electrical energy	nongold
+100	electrical energy to light and heat energy	answer
+101	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold

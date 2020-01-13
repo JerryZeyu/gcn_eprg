@@ -1,0 +1,102 @@
+Question	Which measurement is best expressed in light-years?	question
+Answer	the distance between stars in the Milky Way	answer
+0	the Milky Way is a kind of galaxy	gold
+1	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	gold
+2	the Milky Way is a kind of spiral galaxy	nongold
+3	light year is a measure of the distance light travels in one year	nongold
+4	years are a kind of unit for measuring time	nongold
+5	Earth is located in the Milky Way Galaxy	nongold
+6	stars are located light years apart from each other	gold
+7	a light-year is used for describing long distances	nongold
+8	the Milky Way galaxy appears as a glowing band across the night sky	nongold
+9	the Sun is located near the edge of the Milky Way Galaxy	nongold
+10	astronomical unit is a measure of distance between Earth and the Sun	nongold
+11	astronomy is the study of celestial (objects, bodies)	gold
+12	a star is a kind of celestial object; celestial body	gold
+13	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+14	property is similar to measurement	nongold
+15	a white dwarf is a kind of star	nongold
+16	milk is a kind of liquid at room temperature	nongold
+17	a planet is a kind of celestial object; body	nongold
+18	a galaxy is made of stars	gold
+19	a galaxy is a kind of celestial body; celestial object	nongold
+20	yellow dwarf is a kind of small star	nongold
+21	a measurement is a kind of data	nongold
+22	a yellow dwarf is a kind of main-sequence star	nongold
+23	distant means great in distance	nongold
+24	distance is a property of space and includes ordered values of close; far	nongold
+25	to measure means to calculate	nongold
+26	the Sun is a kind of star	nongold
+27	galaxies are usually thousands of light years in diameter	nongold
+28	galaxies are located  millions of light years from Earth	nongold
+29	a galaxy is a kind of celestial body	nongold
+30	can be means able to be	nongold
+31	calculation means measurement	nongold
+32	the Andromeda galaxy is 2.5 million light years closer	nongold
+33	length is a measure of distance from one end of an object to the other end of that object	nongold
+34	main-sequences stars are a kind of star	nongold
+35	a planet's distance from the star causes the length of a planetary year	nongold
+36	measuring requires reading a measurement	nongold
+37	1 year is equal to 365 days	nongold
+38	furthest; farthest means greatest; most; highest in distance	nongold
+39	far means great in distance	nongold
+40	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+41	a star is usually larger than a planet	nongold
+42	decades are a kind of unit for measuring time	nongold
+43	Earth is a kind of planet	nongold
+44	1 year is equal to 12 months	nongold
+45	months are a kind of unit for measuring time	nongold
+46	a constellation contains stars	nongold
+47	miles are a kind of unit for measuring distance	nongold
+48	the sun is a kind of yellow dwarf	nongold
+49	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+50	stellar means related to stars	nongold
+51	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+52	a cluster of stars is made of stars	nongold
+53	a galaxy is made of a group of objects in space	nongold
+54	a meter is a kind of unit for measuring distance; measuring length	nongold
+55	Proxima Centauri is a kind of star	nongold
+56	best means most positive	nongold
+57	a measure of time is a length of time	nongold
+58	binary stars can be used to determine a star's mass	nongold
+59	days are a kind of unit for measuring time	nongold
+60	a galaxy contains dust; stars; planets	nongold
+61	measuring is used for describing an object	nongold
+62	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+63	the properties of something are used for describing that something	nongold
+64	a galaxy is a kind of very large system of stars	nongold
+65	measuring is a kind of observing	nongold
+66	if two objects are apart from each other then matter is between those two objects	nongold
+67	classifying is when one sorts something by kind; type	nongold
+68	a type is synonymous with a kind	nongold
+69	a motion is a kind of event; action	nongold
+70	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+71	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+72	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+73	apart means away	nongold
+74	a star's type is determined by the star's mass	nongold
+75	astronomical body means celestial body	nongold
+76	seconds are a kind of unit for measuring time	nongold
+77	length of time means period of time	nongold
+78	unit is similar to part	nongold
+79	approximately means about	nongold
+80	a star is very hot in temperature	nongold
+81	hours are a kind of unit for measuring time	nongold
+82	higher means greater; above in value; amount; number	nongold
+83	galaxies often contain hundreds of billions of stars	nongold
+84	measuring sometimes requires  recording; learning an amount	nongold
+85	a typical galaxy contains billions of stars	nongold
+86	affected means changed	nongold
+87	the sun is average in size for a star in our galaxy	nongold
+88	Jupiter is a kind of planet	nongold
+89	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+90	a centimeter is a kind of unit of measurement	nongold
+91	proximity means distance	nongold
+92	a source of something emits; produces; generates; provides that something	nongold
+93	made up of means contains; made of	nongold
+94	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+95	a spiral galaxy is a kind of galaxy	nongold
+96	Uranus is a kind of planet	nongold
+97	distance moved; distance travelled is a measure of how far an object moves	nongold
+98	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+99	angstrom ( Å ) is a metric unit used for measuring wavelength; interatomic distance; length; distance	nongold

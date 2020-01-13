@@ -1,0 +1,55 @@
+0	determining often requires measuring; observing	nongold
+1	measuring requires reading a measurement	nongold
+2	air pressure is a property of air; the atmosphere	gold
+3	air pressure is a property of air; the atmosphere	gold
+4	instrument means device	nongold
+5	gas is a kind of state of matter	nongold
+6	as temperature decreases , the air pressure will decrease	nongold
+7	air pressure is a property of air; the atmosphere	gold
+8	moisture is a property of air mass and includes ordered values of dry; humid	nongold
+9	a measure of time is a length of time	nongold
+10	calculation means measurement	nongold
+11	pressure	answer
+12	a source of something emits; produces; generates; provides that something	nongold
+13	air is a part of the environment	nongold
+14	a liquid is a kind of substance	nongold
+15	material means substance	nongold
+16	a barometer is a kind of instrument for measuring air pressure	gold
+17	pressure	answer
+18	a barometer is a kind of instrument for measuring air pressure	gold
+19	seconds are used to measure time	nongold
+20	air temperature is a kind of temperature	nongold
+21	mass is a measure of the amount of matter in an object	nongold
+22	a thermometer is used to measure temperature	nongold
+23	atmosphere means  air	nongold
+24	a barometer is used to measure air pressure	gold
+25	the air is a kind of substance	nongold
+26	a barometer is used to measure air pressure	gold
+27	Which property of air does a barometer measure?	question
+28	a barometer is a kind of instrument for measuring air pressure	gold
+29	seconds are a kind of unit for measuring time	nongold
+30	a  chemical property is a kind of  property	nongold
+31	temperature is a measure of heat energy	nongold
+32	a  gas is a kind of  element	nongold
+33	a physical property is a kind of property	nongold
+34	property is similar to measurement	nongold
+35	atmospheric means of the atmosphere	nongold
+36	to slow; to slow down decreases speed	nongold
+37	a surface is a part of an object	nongold
+38	Which property of air does a barometer measure?	question
+39	gas is a kind of material	nongold
+40	pressure	answer
+41	typically means usually	nongold
+42	a stationary air mass is a kind of air mass	nongold
+43	Which property of air does a barometer measure?	question
+44	an increase is the opposite of a decrease	nongold
+45	Which property of air does a barometer measure?	question
+46	as air pressure increases , the reading on a barometer will rise	nongold
+47	a barometer is used to measure air pressure	gold
+48	pressure	answer
+49	a speedometer is used for giving a driver feedback on the speed of their vehicle	nongold
+50	extreme means very high in value	nongold
+51	an anemometer is used to measure wind speed	nongold
+52	as altitude increases , air pressure will decrease	nongold
+53	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+54	pressure is a kind of condition	nongold

@@ -1,0 +1,102 @@
+0	Corals are animals that live in tropical oceans. Fossils of corals are found in Ohio. What does the presence of coral fossils suggest about how the environment of Ohio has changed over time?	question
+1	Ohio was once covered by warm seas.	answer
+2	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	gold
+3	tropical coral lives in warm water	gold
+4	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	gold
+5	coral is a kind of aquatic animal	gold
+6	a tropical environment usually has warm temperatures	nongold
+7	tropical environments usually have  warm temperatures	gold
+8	under water means covered by water; in water	nongold
+9	coral lives in the ocean	gold
+10	an ocean is a kind of habitat	nongold
+11	organisms; living things live in their habitat; their home	nongold
+12	aquatic animals; plants live in bodies of water	nongold
+13	an ocean is a kind of body of water	gold
+14	if something used to be in the past then that something  has changed	nongold
+15	if fossils of an organism change depending on the level in which they were found then that species of organism changed over time	nongold
+16	an environment is a kind of place	nongold
+17	an aquatic animal is a kind of animal	gold
+18	organisms can be found in their habitats	nongold
+19	habitat is similar to environment	nongold
+20	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+21	if something is located in some place , then the presence of that something can be found in that location	nongold
+22	cold-water coral live in cold water	nongold
+23	organisms are a part of an environment	nongold
+24	to be found in means to be contained in	nongold
+25	if the surface of an object contains something then that object is covered with that something	nongold
+26	found in means existing in	nongold
+27	no longer means used to be	nongold
+28	animals; living things live and feed in their habitats; near their habitats	nongold
+29	an environment means an area	nongold
+30	warm means warm temperature	nongold
+31	sea means ocean	gold
+32	an organism is a living thing	nongold
+33	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+34	an animal is a kind of living thing	nongold
+35	warm means medium heat energy; temperature	nongold
+36	if something required by something else is in a place then that something else may be in that place	nongold
+37	coral reefs contain many species	nongold
+38	if something is a part of something then that something can be found in that something	nongold
+39	a covering is a kind of object	nongold
+40	colder; cooler means lower in temperature	nongold
+41	fossil means preserved remains of ancient organisms	gold
+42	organisms lived in the water when they first appeared on Earth	nongold
+43	oceans are located on Earth	nongold
+44	ocean animal is similar to water animal	nongold
+45	an environment is similar to an ecosystem	nongold
+46	a climate is synonymous with an environment	nongold
+47	cooler means colder	nongold
+48	a body of water is a kind of environment	gold
+49	place means area	nongold
+50	a coral reef is a kind of ecosystem	nongold
+51	warmer means greater; higher in temperature; warmth	nongold
+52	a living thing is a kind of object	nongold
+53	an animal is a kind of organism	gold
+54	an ocean contains waves	nongold
+55	an animal is a member of an animal species	nongold
+56	a landform is a kind of place	nongold
+57	a landform is a kind of place	nongold
+58	organisms mean life	nongold
+59	once-living means dead	nongold
+60	an animal requires warmth for survival	nongold
+61	affected means changed	nongold
+62	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+63	aquatic animal means water animal	gold
+64	warm-weather organisms live in warm climates	nongold
+65	warm is the opposite of cool	nongold
+66	surroundings means environment	nongold
+67	a reptile is a kind of animal	nongold
+68	if something is located  in somewhere , then something can be found in somewhere	nongold
+69	preserved means from the past; from long ago	nongold
+70	Ohio is a state located in the United States of America	nongold
+71	an algae is a kind of organism	nongold
+72	changes in an environment cause animals; plants to adapt to survive	nongold
+73	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+74	a native; indigenous plant lives in a place because of nature, not human change	nongold
+75	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+76	cool means cold	nongold
+77	contains means located in	nongold
+78	warm up means increase temperature	nongold
+79	conclusions can be drawn about changes in organisms over time by determining the age of fossils of those organisms	nongold
+80	ocean temperatures change slowly	nongold
+81	temperature is a measure of heat energy	nongold
+82	ocean currents change the world climate by transferring heat to and from various regions	nongold
+83	animals; living things require water for survival	nongold
+84	place is synonymous with location	nongold
+85	to change means to cause a change	nongold
+86	warm is similar to hot	nongold
+87	to change means to have an effect	nongold
+88	life means living things	nongold
+89	high is similar to increase	nongold
+90	oceans contains most of  earth's water	nongold
+91	plants are a part of the environment	nongold
+92	algae is a kind of living thing	nongold
+93	a region is similar to an environment	nongold
+94	harming something has a  negative impact on; effect on that something	nongold
+95	marine is similar to water	nongold
+96	a plant is a kind of living thing	nongold
+97	when a habitat can support living things , living things can live in that habitat	nongold
+98	an ecosystem is a kind of habitat	nongold
+99	a hot; warm something is a source of heat	nongold
+100	fossils are formed when layers of sediment cover the remains of organisms over time	nongold
+101	algae is found in bodies of water	nongold

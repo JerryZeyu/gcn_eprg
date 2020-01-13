@@ -1,0 +1,63 @@
+0	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+1	the sun is a source of light; light energy called sunlight	nongold
+2	a yellow dwarf is a kind of main-sequence star	gold
+3	opposite is a kind of different	nongold
+4	characteristic means property	gold
+5	yellow	answer
+6	the sun is a kind of yellow dwarf	gold
+7	coloration means a thing's color	nongold
+8	a yellow dwarf is a kind of main-sequence star	gold
+9	yellow	answer
+10	a star is a source of light; light energy through nuclear reactions	nongold
+11	trait means property	nongold
+12	color is an intensive property	nongold
+13	main-sequences stars are a kind of star	nongold
+14	color is a kind of physical; visual property	gold
+15	the color of an environment means the color of the things that environment contains	nongold
+16	identical is the opposite of different	nongold
+17	main-sequence stars are generally yellow	gold
+18	NASA's Kepler Mission has collected information about main-sequence stars with characteristics similar to the Sun. What is the most common color of these stars?	question
+19	the sun is average in size for a star in our galaxy	nongold
+20	a property of something is a feature of that something	nongold
+21	yellow is a kind of color	gold
+22	yellow is a kind of color	gold
+23	the properties of something can be used to identify; used to describe that something	nongold
+24	characteristic means property	gold
+25	main-sequence stars are generally yellow	gold
+26	characteristic means property	gold
+27	if two things have the same features then those two things are alike	nongold
+28	color is a kind of physical; visual property	gold
+29	a part of something means a characteristic of something	nongold
+30	NASA's Kepler Mission has collected information about main-sequence stars with characteristics similar to the Sun. What is the most common color of these stars?	question
+31	feature is synonymous with characteristic	nongold
+32	what an object is made of is a kind of characteristic	nongold
+33	the sun is a kind of yellow dwarf	gold
+34	a planet is a kind of celestial object; body	nongold
+35	coloration means a pattern of colors	nongold
+36	unique  is the opposite of diverse	nongold
+37	stay the same means not changing	nongold
+38	color is a kind of physical; visual property	gold
+39	yellow	answer
+40	to vary means to differ	nongold
+41	NASA's Kepler Mission has collected information about main-sequence stars with characteristics similar to the Sun. What is the most common color of these stars?	question
+42	classifying is when one sorts something by kind; type	nongold
+43	low is similar to decrease	nongold
+44	the sun is a kind of yellow dwarf	gold
+45	Alpha Mensae is a kind of main-sequence star	nongold
+46	resemble means similar characteristics	nongold
+47	a yellow dwarf is a kind of main-sequence star	gold
+48	NASA's Kepler Mission has collected information about main-sequence stars with characteristics similar to the Sun. What is the most common color of these stars?	question
+49	yellow	answer
+50	red-dwarf stars are cooler than yellow-dwaf stars	nongold
+51	yellow is a kind of color	gold
+52	no longer means used to be	nongold
+53	to belong to a class means to be a kind of something	nongold
+54	dark means dark in color	nongold
+55	variation means change	nongold
+56	color is a property of  an object; a material	nongold
+57	coloration is a kind of adaptation for hiding;camouflage	nongold
+58	to vary means to change	nongold
+59	red giant stars burn at cooler temperatures than main sequence stars	nongold
+60	blue is a kind of color	nongold
+61	yellow dwarf is a kind of small star	nongold
+62	main-sequence stars are generally yellow	gold

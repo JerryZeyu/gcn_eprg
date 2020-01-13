@@ -1,0 +1,102 @@
+0	A chicken is able to gain energy that came from the Sun by	question
+1	eating seeds.	answer
+2	a chicken is a kind of bird	gold
+3	if something gains something from something else then that something else is a source of that something	gold
+4	a seed is a kind of food for birds	gold
+5	if something comes from something else then that something else is a source of that something	nongold
+6	the sun is the source of energy for life on Earth	gold
+7	where something  comes from is a source of that something	gold
+8	an object; material; substance comes from that object or material's source	nongold
+9	a bird is a kind of living thing	nongold
+10	a seed is a part of a plant	nongold
+11	An example of seed dispersal is animals eating; excreting seeds	nongold
+12	a seed is a kind of young plant	nongold
+13	food is a source of energy for animals; plants	nongold
+14	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+15	a bird is a kind of animal	gold
+16	the sun is the source of solar energy called sunlight	nongold
+17	solar energy is a kind of energy	nongold
+18	gaining is similar to increasing	nongold
+19	the sun is a source of light; light energy called sunlight	nongold
+20	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+21	an animal is a kind of living thing	gold
+22	living things eat their food source	nongold
+23	the ability to do means be able to do	nongold
+24	able is the opposite of unable	nongold
+25	can be means able to be	nongold
+26	food is what an animal eats	nongold
+27	an organism is a living thing	nongold
+28	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+29	a seedling is a kind of young plant	nongold
+30	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+31	to eat means to consume food	nongold
+32	heat is a kind of energy	nongold
+33	solar energy is a kind of heat energy	nongold
+34	a living thing is a kind of object	nongold
+35	crops are a kind of edible plant for eating	nongold
+36	humans sometimes eat seeds	nongold
+37	an animal; living thing requires nutrients for survival	gold
+38	the sun is a source of radiation; heat called sunlight	nongold
+39	if something is a raw material then that something comes directly from a source	nongold
+40	an animal is a kind of organism	nongold
+41	sunlight is a kind of solar energy	nongold
+42	a plant is a kind of living thing	nongold
+43	plant reproduction; seed production requires pollination	nongold
+44	one can get something from a source	nongold
+45	the Sun is a kind of star	nongold
+46	a hen is a kind of female adult chicken	nongold
+47	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	chickens cluck	nongold
+50	plant requires seed dispersal for reproduction	nongold
+51	seed dispersal is when the seeds of a plant are moved; are carried; are spread; are dropped; from the parent plant to another area	nongold
+52	the sun  is the source of energy for physical cycles on Earth	nongold
+53	eating an animal; a plant means killing that animal; that plant	nongold
+54	a food contains nutrients for living things	nongold
+55	if an organism can do something , then that organism is able to do that something	nongold
+56	nutrients are a source of energy for living things	gold
+57	an increase is the opposite of a decrease	nongold
+58	a seed is used for storing food for a new plant	nongold
+59	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+60	a plant; living thing requires food for survival	nongold
+61	high is similar to increase	nongold
+62	seed dispersal has a positive impact on a plant; a plant's reproduction	nongold
+63	a chick is a kind of young; baby chicken	nongold
+64	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	nongold
+65	seed dispersal is when the seeds of a plant are moved from the plant to  a new environment	nongold
+66	seeds sprouting causes plants to grow	nongold
+67	if something generates energy for something else then that something powers that something else	nongold
+68	if a plant sprouts from a seed then that plant is born	nongold
+69	ability is a kind of characteristic	nongold
+70	to gain means to obtain	nongold
+71	sunlight is a kind of light	nongold
+72	solar energy is a kind of light	nongold
+73	a plant is a kind of organism	nongold
+74	life means living things	nongold
+75	inability is the opposite of ability	nongold
+76	if something transfers something else then that something is a source of something else	nongold
+77	an organism eating is a kind of action	nongold
+78	an animal needs to eat food for nutrients	gold
+79	heat means heat energy	nongold
+80	birds sometimes eat berries;seeds	nongold
+81	photosynthesis stores; captures energy	nongold
+82	a chicken weighs, on average 2 kg	nongold
+83	food is a kind of object	nongold
+84	a human is a kind of animal	nongold
+85	resources sometimes are used for energy	nongold
+86	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+87	can means having the ability to	nongold
+88	a  plant requires sunlight for photosynthesis	nongold
+89	a star is a kind of celestial object; celestial body	nongold
+90	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+91	the type of seed of a plant is an inherited characteristic	nongold
+92	if seeds stick to the fur of an animal then that seed will be transported by the animal	nongold
+93	emit means produce	nongold
+94	if something has the ability to do something else , then that something can do that something else	nongold
+95	diet means what an animal eats	nongold
+96	answering questions requires information	nongold
+97	to add means to increase	nongold
+98	energy transformation means one kind of energy changes into another kind of energy	nongold
+99	In the flowering plant life cycle , seed	nongold
+100	increase means more	nongold
+101	to be in the sun means to be in the sunlight	nongold

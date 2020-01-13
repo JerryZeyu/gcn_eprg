@@ -1,0 +1,102 @@
+Question	What circuit does not allow an electrical current to flow through it?	question
+Answer	open	answer
+0	electricity can  not flow through an open circuit	gold
+1	to enable means to allow	nongold
+2	closing an electric circuit causes an electrical device to function	nongold
+3	current means electric current	nongold
+4	to be used for is similar to allowing	nongold
+5	not allowed to means can not	gold
+6	causing is similar to allowing	nongold
+7	electrical current means electrical energy	gold
+8	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+9	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+10	when a switch in a simple series circuit is closed , electricity will flow through the circuit	nongold
+11	a vehicle for something allows; enables that something to occur	nongold
+12	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+13	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+14	when an electrical circuit is working properly , electrical current runs through that circuit; the wires in that circuit	nongold
+15	a circuit is a kind of electrical component	nongold
+16	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+17	to enable is similar to cause	nongold
+18	a complete electrical circuit is a source of  electrical energy	nongold
+19	to pass through means to move through	nongold
+20	electricity means electrical energy	gold
+21	allowing is a kind of controlling	nongold
+22	if something is required for something else then that something allows that something else	nongold
+23	if one electrical conductor contacts another electrical conductor then electricity will flow through both conductors	nongold
+24	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+25	the function of something is what that something  is used to do	nongold
+26	a closed circuit has continuous path	nongold
+27	electric devices require electrical energy to function	nongold
+28	a resistor is used to control the amount of current in the electric circuit	nongold
+29	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+30	conductivity is a measure of how easily electricity travels through a material	nongold
+31	an electromagnet is a kind of device	nongold
+32	electric currents produce magnetic fields	nongold
+33	a device is a kind of object	nongold
+34	if electricity; electric current divides into more than one pathway then the circuit is parallel	nongold
+35	when an electrical conductor is plugged into an outlet , a circuit is completed	nongold
+36	a door is a kind of object	nongold
+37	An electrical conductor is a vehicle for the flow of electricity	nongold
+38	to add means to increase	nongold
+39	a machine is a kind of  device	nongold
+40	if something is permeable , then the water will flow through something easily	nongold
+41	conductivity is a property of a material; substance	nongold
+42	insulator means good insulator	nongold
+43	to run through means to transfer	nongold
+44	passing a magnet through a closed loop of wire generates an electric current	nongold
+45	flowing is a kind of motion	nongold
+46	material means substance	nongold
+47	electricity is made of moving charges; moving charged particles	nongold
+48	a mechanism is a kind of system that performs a function	nongold
+49	a source of something emits; produces; generates; provides that something	nongold
+50	flipping a switch completes an electrical circuit	nongold
+51	an insulator is the opposite of a conductor	nongold
+52	an electromagnet is a kind of electric magnet	nongold
+53	answering questions requires information	nongold
+54	an insulator is a kind of material	nongold
+55	metal is an  electrical; electrical energy conductor	nongold
+56	to pass into means to enter	nongold
+57	a container contains objects; material; substances	nongold
+58	to depend on; to rely on; to need means to require	nongold
+59	not is similar to the opposite of	nongold
+60	electrical energy is a kind of energy	nongold
+61	something is used for that something's purpose	nongold
+62	electrocution causes harm to an organism	nongold
+63	to limit means to decrease	nongold
+64	to be used for something means to be required by that something	nongold
+65	to flow is similar to to transfer	nongold
+66	pushing a button sometimes completes a circuit	nongold
+67	an event is a kind of action	nongold
+68	moving a coil of wire in the magnetic field generates electrical current	nongold
+69	electrical current running through a wire causes that wire to heat up; to become warm	nongold
+70	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+71	inhibitor means something that prevents something from happening	nongold
+72	a living thing is a kind of object	nongold
+73	flowing is a kind of action	nongold
+74	if the electrical  devices are connected in parallel circuit , then turning on or off any devices will not affect other devices	nongold
+75	a component of something means a part of that something	nongold
+76	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+77	a wire is a part of an electrical circuit for conducting electricity	nongold
+78	to pass means to travel	nongold
+79	passing through is similar to entering	nongold
+80	high is similar to increase	nongold
+81	to undergo is similar to to pass through	nongold
+82	an object; material; substance comes from that object or material's source	nongold
+83	electrical impulses are a kind of electrical energy	nongold
+84	media; medium means the material something travel through	nongold
+85	if something enters something else then that something is in that something else	nongold
+86	a panel is a kind of object	nongold
+87	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+88	particles in objects are a kind of matter	nongold
+89	if something required by something else is in a place then that something else may be in that place	nongold
+90	a machine is a kind of object	nongold
+91	a conducting metal loop is a kind of electromagnet	nongold
+92	to slow; to slow down decreases speed	nongold
+93	conduction is a kind of process	nongold
+94	a process is a kind of event	nongold
+95	counter means reduce; stop; resist	nongold
+96	a component means a part of	nongold
+97	if an event is required for a process then that event must occur before that process can occur	nongold
+98	nonconductor is similar to insulator	nongold
+99	if something has the ability to do something else , then that something can do that something else	nongold

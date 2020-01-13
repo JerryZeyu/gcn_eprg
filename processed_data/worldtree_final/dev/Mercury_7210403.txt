@@ -1,0 +1,102 @@
+0	A student writes the following statement in a journal: "It was 84°F at 3 p.m. on Tuesday in the schoolyard." This statement best describes which system?	question
+1	local weather	answer
+2	Tuesday is a kind of  time	gold
+3	a schoolyard is a kind of place	gold
+4	temperature is a property of weather	gold
+5	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+6	Monday is a kind of day of the week	nongold
+7	climate is the usual kind of weather in a location over a period of time	nongold
+8	rainy is a kind of weather	nongold
+9	local means relating to a certain area	nongold
+10	precipitation is a kind of weather	nongold
+11	precipitation is a property of weather	nongold
+12	weather is a property of a environment	nongold
+13	temperature is a measure of heat energy	nongold
+14	weather is  a measure of the condition of the air in a place at a certain time	gold
+15	steam;water vapor is a kind of water above 100 degrees celsius	nongold
+16	an area receiving rain means rain falling in that area	nongold
+17	cold is a kind of weather	nongold
+18	humidity is a property of  weather and include ordered values of dry; humid	nongold
+19	the location of an object can be used to describe that object	nongold
+20	measuring is used for describing an object	nongold
+21	wind speed is a property of weather	nongold
+22	a climate is synonymous with an environment	nongold
+23	sky conditions are a property of weather	nongold
+24	a student is a kind of human	nongold
+25	windy is a kind of weather	nongold
+26	a weather report describes weather	nongold
+27	cloudy conditions cause a low-pressure weather system	nongold
+28	the solar system is a kind of system	nongold
+29	air temperature is a kind of temperature	nongold
+30	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+31	clear weather means sunny; not cloudy; not rainy weather	nongold
+32	sunny is a kind of weather	nongold
+33	wind direction is a property of weather	nongold
+34	rain is a kind of precipitation	nongold
+35	An example of stormy weather is rain	nongold
+36	rainfall is the amount of rain an area receives	nongold
+37	storm is a kind of weather; weather event	nongold
+38	near means local	nongold
+39	high pressure systems cause clear weather	nongold
+40	low pressure systems cause precipitation	nongold
+41	summer has hot temperatures; weather	nongold
+42	the movement of an air mass over Earth's surface causes sudden local weather changes	nongold
+43	rainfall means the amount of precipitation	nongold
+44	cold means low in temperature	nongold
+45	cloudy is a kind of  weather	nongold
+46	precipitation is when water falls from the sky	nongold
+47	rainfall means precipitation	nongold
+48	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+49	weather  usually happens in troposphere	nongold
+50	rain is a kind of water	nongold
+51	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+52	heat has a great impact on weather	nongold
+53	the properties of something are used for describing that something	nongold
+54	heat means heat energy	nongold
+55	motion is when moves an object; something to a direction	nongold
+56	to lower means to decrease	nongold
+57	winter has cold temperatures;weather	nongold
+58	average amount of precipitation is a property of climate	nongold
+59	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+60	place is synonymous with location	nongold
+61	an anemometer is used to measure wind speed	nongold
+62	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+63	precipitation is a kind of natural occurrence; cause	nongold
+64	rainy means often raining	nongold
+65	affected means changed	nongold
+66	a thunderstorm is a kind of storm	nongold
+67	extreme means very high in value	nongold
+68	moisture means liquid; liquid water	nongold
+69	a warm front causes cloudy and rainy weather	nongold
+70	cold fronts cause thunderstorms as they pass by	nongold
+71	wind means moving air	nongold
+72	windy means high wind speeds	nongold
+73	an environment means an area	nongold
+74	rainstorm means rain storm	nongold
+75	rain; snow falls	nongold
+76	high is similar to increase	nongold
+77	hot means high in heat energy; temperature	nongold
+78	events occur at a specific place; at a specific time; with a specific frequency	nongold
+79	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+80	noon is a kind of time of day	nongold
+81	air pressure affects wind speed	nongold
+82	an increase is a kind of change	nongold
+83	low is similar to decrease	nongold
+84	weather is a source of wind and water for the weathering process	nongold
+85	place means area	nongold
+86	cold  air is usually high in air pressure	nongold
+87	if a jet stream moves south of a location then that location will experience cold weather	nongold
+88	a storm is a source of precipitation	nongold
+89	colder; cooler means lower in temperature	nongold
+90	can be means able to be	nongold
+91	a decrease is a kind of change	nongold
+92	a motion is a kind of event; action	nongold
+93	warm means medium heat energy; temperature	nongold
+94	bad weather is dangerous	nongold
+95	to turn means to change	nongold
+96	the day time is part of one day	nongold
+97	an anemometer is a kind of instrument for measuring wind speed	nongold
+98	cool means cold	nongold
+99	greatest means largest; highest; most amount of something	nongold
+100	the highest temperatures of a day are recorded during afternoon	nongold
+101	dry means low in amount of water; wetness; moisture	nongold

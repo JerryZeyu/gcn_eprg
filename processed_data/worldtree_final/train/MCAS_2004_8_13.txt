@@ -1,0 +1,101 @@
+0	When a balloon is filled with air and suddenly released, it will fly around the room as the air escapes. If compared to space transportation, the escaping air is most similar to what subsystem of a spacecraft?	question
+1	propulsion	answer
+2	propulsion is a kind of subsystem of a spacecraft	gold
+3	a balloon is a kind of object	nongold
+4	escaping air is used for propelling a spacecraft forward by that spacecraft's propulsion system	gold
+5	propulsion is used for flying by a spacecraft	gold
+6	a balloon contains gas	gold
+7	a balloon is a kind of container	nongold
+8	to be released is similar to escape	gold
+9	flying is a kind of motion through air; space	nongold
+10	to transfer is similar to transport	nongold
+11	transport means to move; to make travel	nongold
+12	a room is a kind of object	nongold
+13	propulsion can cause a deflating balloon to fly	gold
+14	transporting is a kind of function	nongold
+15	a room is a kind of container	nongold
+16	a vehicle is a kind of tool for travel; transport	nongold
+17	converting is similar to releasing	nongold
+18	to ship means to transport	nongold
+19	a vehicle is a kind of object	nongold
+20	air is a kind of gas	gold
+21	to be filled with means to contain	gold
+22	to emit means to release	nongold
+23	if two things perform the same function then those two things are similar	nongold
+24	a vehicle is used for transportation	nongold
+25	atmosphere means  air	nongold
+26	producing is similar to releasing	nongold
+27	high is similar to increase	nongold
+28	a container contains objects; material; substances	nongold
+29	a balloon is highly flexible	nongold
+30	travel means to move	nongold
+31	the air is a kind of substance	nongold
+32	flying is a kind of locomotion	nongold
+33	An example of a container is room	nongold
+34	to bring means to transport	nongold
+35	a balloon is made of rubber	nongold
+36	the atmosphere contains gases; liquids; solids	nongold
+37	opposite is a kind of different	nongold
+38	produce is similar to release	nongold
+39	a machine is a kind of  device	nongold
+40	convert is similar to transfer	nongold
+41	transportation technology is used for moving people; products	nongold
+42	to carry means to transport	nongold
+43	a liquid is a kind of substance	nongold
+44	air is a kind of matter	nongold
+45	flight is similar to a movement in the air made by an airplane	nongold
+46	a machine is a kind of object	nongold
+47	gas is a kind of object	nongold
+48	room contains walls	nongold
+49	the function of something is what that something  is used to do	nongold
+50	producing thrust causes something; an animal; an object to move	nongold
+51	an increase is the opposite of a decrease	nongold
+52	releasing energy is a kind of function	nongold
+53	a vehicle is used for travel	nongold
+54	gas is a kind of material	nongold
+55	gas is a kind of substance	nongold
+56	objects are made of materials; substances; matter	nongold
+57	a device is a kind of object	nongold
+58	to be a vehicle for is a kind of function	nongold
+59	if gas is trapped in a container , then the gas is not released	nongold
+60	to add means to increase	nongold
+61	an increase is a kind of change	nongold
+62	a rocket is a kind of object	nongold
+63	air mass means a volume of air	nongold
+64	a rocket is a kind of vehicle	nongold
+65	motion; movement means moving; to move	nongold
+66	low is similar to decrease	nongold
+67	an astronaut is a kind of human	nongold
+68	affected means changed	nongold
+69	system means a set of objects	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	if something releases something else then that something is the source of that something else	nongold
+72	can be means able to be	nongold
+73	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+74	not is similar to the opposite of	nongold
+75	powering is similar to fueling	nongold
+76	launching is a kind of motion	nongold
+77	an airplane is a kind of vehicle	nongold
+78	a rocket engine is used to produce thrust by pushing gases out at a high speed	nongold
+79	material means substance	nongold
+80	to change means to become different	nongold
+81	form means kind	nongold
+82	less is similar to decrease	nongold
+83	a container is a kind of object	nongold
+84	space is a vacuum	nongold
+85	size; amount of space means volume	nongold
+86	variable means able to change	nongold
+87	to slow; to slow down decreases speed	nongold
+88	a component means a part of	nongold
+89	if two things are made from the same objects; material then those two things are similar	nongold
+90	space shuttles require materials that can withstand heat	nongold
+91	a type is synonymous with a kind	nongold
+92	An example of mechanical energy is an object in motion	nongold
+93	a rocket is a kind of mechanical system	nongold
+94	motion is when moves an object; something to a direction	nongold
+95	a surface is a part of an object	nongold
+96	An example of an object with kinetic energy is an object in motion	nongold
+97	matter; materials; substances are made of atoms; particles	nongold
+98	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+99	to lower means to decrease	nongold
+100	motion is a source of kinetic energy in an object	nongold

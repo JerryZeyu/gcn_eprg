@@ -1,0 +1,102 @@
+Question	Wind is a natural resource that benefits the southeastern shore of the Chesapeake Bay. How could these winds best benefit humans?	question
+Answer	The winds could be converted to electrical energy.	answer
+0	a positive impact is  a benefit	nongold
+1	best means most positive	nongold
+2	a bay is a kind of body of water	nongold
+3	wind is a source of energy	nongold
+4	a body of water is a kind of environment	nongold
+5	a shore is the land found at the edge of a body of water	nongold
+6	a human is a kind of animal	nongold
+7	to help; to benefit means to be of use	gold
+8	human is a kind of organism	nongold
+9	helping something has a  positive impact on that something	nongold
+10	wind is used for producing electricity	nongold
+11	negative impact is the opposite of positive impact	nongold
+12	electricity means electrical energy	gold
+13	good means positive	nongold
+14	to turn means to convert	nongold
+15	wind means moving air	nongold
+16	if something is required for a process then that something positively impacts that process	nongold
+17	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+18	a positive impact is a helpful effect	nongold
+19	water is a kind of natural resource	nongold
+20	water is a kind of natural resource	nongold
+21	a storm is usually a source of strong winds	nongold
+22	electrical energy is a kind of energy	nongold
+23	if a living thing requires something then that something has a positive impact on that living thing	nongold
+24	wind is a renewable; inexhaustible resource	nongold
+25	better means good	nongold
+26	an animal is a kind of organism	nongold
+27	an ocean is a kind of body of water	nongold
+28	nature is the source of natural resources	nongold
+29	harming something has a  negative impact on; effect on that something	nongold
+30	a windmill converts wind energy into electrical energy; electricity primarily by using mechanical energy	gold
+31	to convert means to change	nongold
+32	to be good for means to have a positive impact on	nongold
+33	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+34	conversion is a kind of process	nongold
+35	beneficial means helpful	nongold
+36	nature means a natural environment	nongold
+37	an organism is a living thing	nongold
+38	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+39	protecting nature has a positive impact on the environment	nongold
+40	converting is similar to producing	nongold
+41	organisms are a part of an environment	nongold
+42	person is synonymous with human	nongold
+43	a natural resource is a kind of environmental factor	nongold
+44	an animal is a kind of living thing	nongold
+45	a body of water contains water	nongold
+46	tidal energy can be used to produce electricity	nongold
+47	storms;rain cause bodies of water to increase amount of water they contain	nongold
+48	solution is similar to a positive impact	nongold
+49	the wind blowing across the surface of ocean causes wind-water interaction	nongold
+50	windy means high wind speeds	nongold
+51	convert is similar to transfer	nongold
+52	storm is a kind of weather; weather event	nongold
+53	forming is similar to converting	nongold
+54	conservation is often conserving natural resources	nongold
+55	to transform means to convert	nongold
+56	solar energy is a kind of energy	nongold
+57	an aquatic animal is a kind of animal	nongold
+58	requiring is similar to needing help	nongold
+59	a coast is where land meets the edge of a body of water	nongold
+60	a renewable resource is a kind of natural resource	nongold
+61	a source of something emits; produces; generates; provides that something	nongold
+62	a renewable resource is a natural resource	nongold
+63	windmills require high wind force to generate electricity	nongold
+64	an energy source is a kind of resource	nongold
+65	wind speed is a property of weather	nongold
+66	decreasing something negative has a positive impact on a thing	nongold
+67	a coast is a kind of environment	nongold
+68	generating power is a kind of positive impact	nongold
+69	to help means to aid	nongold
+70	trees are a kind of natural resource	nongold
+71	tidal energy is a kind of alternative energy resource	nongold
+72	change is a kind of impact	nongold
+73	to be used  for something means to help to do that something	nongold
+74	water is a part of an environment	nongold
+75	a concern; a problem is a possible negative impact	nongold
+76	area; space is a kind of resource	nongold
+77	a person is a kind of animal	nongold
+78	tidal energy is a renewable resource	nongold
+79	resources sometimes are used for energy	nongold
+80	converting is similar to releasing	nongold
+81	less is similar to decrease	nongold
+82	wind and rain; storms cause erosion	nongold
+83	if something transfers something else then that something is a source of something else	nongold
+84	a hurricane is a kind of storm	nongold
+85	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+86	wind   is a kind of airflow	nongold
+87	to be used for something means to be required by that something	nongold
+88	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+89	converting is similar to generating	nongold
+90	if something causes a process then that something is required for that process	nongold
+91	a plant is a kind of organism	nongold
+92	wind carries; transports sand; dirt from one place to another place	nongold
+93	decreasing something positive has a negative impact on a thing	nongold
+94	saving money has a positive impact on a person; a company	nongold
+95	staying warm has a positive impact on an animal's survival; health	nongold
+96	to power means to provide energy for	nongold
+97	a thunderstorm is a kind of storm	nongold
+98	can be means able to be	nongold
+99	conserving resources has a positive impact on the environment	nongold

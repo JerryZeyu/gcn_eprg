@@ -1,0 +1,102 @@
+Question	A seed of a plant sticks to the fur of an animal as it walks by. How has the animal most likely helped the plant?	question
+Answer	by spreading the seed	answer
+0	if seeds stick to the fur of an animal then that seed will be transported by the animal	gold
+1	seed dispersal is when the seeds of a plant are moved; are carried; are spread; are dropped; from the parent plant to another area	gold
+2	seed dispersal is when the seeds of a plant are moved from the plant to  a new environment	nongold
+3	a seed is a part of a plant	nongold
+4	seed dispersal has a positive impact on a plant; a plant's reproduction	gold
+5	a stick is a kind of object	nongold
+6	seed dispersers are a vehicle for spreading the seeds of a plant	gold
+7	spreading is a kind of motion	nongold
+8	An example of seed dispersal is animals eating; excreting seeds	nongold
+9	helping something has a  positive impact on that something	gold
+10	fur is often part of an animal	nongold
+11	to be used  for something means to help to do that something	nongold
+12	a plant is a kind of living thing	nongold
+13	to help means to aid	nongold
+14	a plant is a kind of organism	nongold
+15	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	nongold
+16	an animal is a kind of living thing	nongold
+17	fur is a covering around the body of an animal	nongold
+18	to help; to benefit means to be of use	nongold
+19	a living thing is a kind of object	nongold
+20	hair; fur is  a part of skin for protection; keeping warm	nongold
+21	a seed is a kind of food for birds	nongold
+22	a seed is used for storing food for a new plant	nongold
+23	if someone walks on a surface then that someone touches that surface	nongold
+24	helping means something can be done; completed more easily; better	nongold
+25	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+26	a seed is a kind of young plant	nongold
+27	an animal is a kind of organism	nongold
+28	plant requires seed dispersal for reproduction	gold
+29	helping means to assist in a change	nongold
+30	an organism is a living thing	nongold
+31	if a living thing requires something then that something has a positive impact on that living thing	nongold
+32	an part of an object is smaller than the entire object	nongold
+33	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+34	walking is a kind of motion	nongold
+35	fur is usually part of a mammal	nongold
+36	plants of the same species have the same type of seed	nongold
+37	harming something has a  negative impact on; effect on that something	nongold
+38	a plant is a member of a plant species	nongold
+39	green plants are a kind of producer	nongold
+40	motion; movement means moving; to move	nongold
+41	negative impact is the opposite of positive impact	nongold
+42	an animal is a member of an animal species	nongold
+43	requiring is similar to needing help	nongold
+44	if an animal's fur is a color then that animal is that color	nongold
+45	a plant; living thing requires food for survival	nongold
+46	coat means fur coat	nongold
+47	fur is usually soft in texture	nongold
+48	to be helpful means to help to do	nongold
+49	plants are a part of the environment	nongold
+50	some animals shed fur in warm weather	nongold
+51	high is similar to increase	nongold
+52	a producer is a kind of living thing	nongold
+53	a tree is a kind of living thing	nongold
+54	motion is when moves an object; something to a direction	nongold
+55	a covering is a kind of object	nongold
+56	to make something easier means to help	nongold
+57	walking is a kind of behavior	nongold
+58	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+59	skin is a part of an animal; plant	nongold
+60	seed dispersal is a kind of method of sexual reproduction	nongold
+61	a tree is a kind of plant	nongold
+62	seeds sprouting causes plants to grow	nongold
+63	if a plant sprouts from a seed then that plant is born	nongold
+64	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+65	if an object is made of a material then that object has the properties of that material	nongold
+66	best means most positive	nongold
+67	being  on something; placed in something; placed over something means touching  that something	nongold
+68	fur is a part of a monkey	nongold
+69	the type of seed of a plant is an inherited characteristic	nongold
+70	if an animal's fur is a certain color then the skin of that animal is probably that same color	nongold
+71	plant reproduction; seed production requires pollination	nongold
+72	a part of something means a characteristic of something	nongold
+73	a seedling is a kind of young plant	nongold
+74	when an animal sheds its fur , its fur becomes less dense	nongold
+75	to enable is to help	nongold
+76	person is synonymous with human	nongold
+77	hair is similar to fur	nongold
+78	often is similar to likely	nongold
+79	a source of something emits; produces; generates; provides that something	nongold
+80	a human is a kind of animal	nongold
+81	humans sometimes eat seeds	nongold
+82	fruit contains seeds	nongold
+83	good means positive	nongold
+84	some animals' fur grows thicker for staying warm in the winter	nongold
+85	a foot is a part of some animals for walking	nongold
+86	a leaf is a part of a  green plant	nongold
+87	a plant requires photosynthesis to grow; survive	nongold
+88	a structure of something is synonymous with a part of that something	nongold
+89	something harmful can cause harm	nongold
+90	a surface is a part of an object	nongold
+91	to carry means to move something	nongold
+92	an animal; living thing requires nutrients for survival	nongold
+93	carrying something means moving that something	nongold
+94	damage means harm	nongold
+95	an article of clothing is a kind of object	nongold
+96	an object; material; substance comes from that object or material's source	nongold
+97	protecting something means preventing harm to that something	nongold
+98	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+99	a flower is a part of a plant for attracting pollinators; producing seeds	nongold

@@ -1,0 +1,63 @@
+0	a human is a kind of animal	gold
+1	the integumentary system is a kind of body; organ system	nongold
+2	providing is a kind of function	nongold
+3	limbs are part of an animal	nongold
+4	muscles push; pull bones to move the bones	nongold
+5	skeletal system	answer
+6	the skeletal system protects internal organs	gold
+7	something hard; something strong can be used for protection	gold
+8	a skeletal system is a part of an animal	gold
+9	a skeletal system is a part of an animal for providing support; providing shape; providing protection	gold
+10	provide is similar to give; make	nongold
+11	the skeletal system is a kind of body system	nongold
+12	a structure of something is synonymous with a part of that something	nongold
+13	a mechanism is a kind of system that performs a function	nongold
+14	a skeletal system is a part of an animal for providing support; providing shape; providing protection	gold
+15	Which system of the human body provides protection to most of the major organs?	question
+16	skeletal system	answer
+17	an animal is a kind of living thing	nongold
+18	Which system of the human body provides protection to most of the major organs?	question
+19	if something contains something , then something is able to provide something	nongold
+20	a component means a part of	nongold
+21	skeletal system	answer
+22	organ system means body system	nongold
+23	skeletal system is made of bones	gold
+24	structure is a property of an object; a material; a substance	nongold
+25	covering something is a kind of protection	nongold
+26	the skeletal system protects internal organs	gold
+27	damage means harm	nongold
+28	harming something has a  negative impact on; effect on that something	nongold
+29	a function is a kind of characteristic	nongold
+30	most means over 50% of something	nongold
+31	harm means injury	nongold
+32	a structure is a kind of feature	nongold
+33	can be means able to be	nongold
+34	system means a set of objects	nongold
+35	a skeletal system is a part of an animal	gold
+36	organs are made of different types of  cellular tissues	nongold
+37	human is a kind of organism	nongold
+38	a limb often contains bones	nongold
+39	helping something has a  positive impact on that something	nongold
+40	a human is a kind of animal	gold
+41	to help means to aid	nongold
+42	something hard; something strong can be used for protection	gold
+43	skeletal system is made of bones	gold
+44	causing is a kind of function	nongold
+45	providing structure is a kind of function	nongold
+46	something harmful can cause harm	nongold
+47	a human is a kind of animal	gold
+48	inhibitor means something that prevents something from happening	nongold
+49	to depend on; to rely on; to need means to require	nongold
+50	an animal is a kind of organism	nongold
+51	the muscular system is a kind of body; organ system	nongold
+52	a skeletal system is a part of an animal for providing support; providing shape; providing protection	gold
+53	a skeletal system is a part of an animal	gold
+54	Which system of the human body provides protection to most of the major organs?	question
+55	Which system of the human body provides protection to most of the major organs?	question
+56	the body is a part of an organism	nongold
+57	skeletal system is made of bones	gold
+58	internal organs are a part of the body	nongold
+59	a source of something emits; produces; generates; provides that something	nongold
+60	something hard; something strong can be used for protection	gold
+61	the skeletal system protects internal organs	gold
+62	skeletal system	answer

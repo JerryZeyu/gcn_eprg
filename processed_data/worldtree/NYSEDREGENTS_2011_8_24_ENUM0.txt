@@ -1,0 +1,102 @@
+Question	Which outcome is most likely if a person consumes more Calories than needed for daily activities?	question
+Answer	weight gain	answer
+0	if an animal consumes more calories than needed for daily activities then that animal will gain weight	gold
+1	gaining is similar to increasing	nongold
+2	result means outcome	nongold
+3	everyday means daily	nongold
+4	increase means more	nongold
+5	less is similar to decrease	nongold
+6	an increase is the opposite of a decrease	nongold
+7	a negative impact is a kind of consequence; risk	nongold
+8	person is synonymous with human	gold
+9	a person is a kind of animal	nongold
+10	to depend on; to rely on; to need means to require	nongold
+11	to impact means to affect	nongold
+12	to eat means to consume food	nongold
+13	negative impact is the opposite of positive impact	nongold
+14	deplete is similar to decrease	nongold
+15	a human is a kind of animal	gold
+16	product means result	nongold
+17	low is similar to decrease	nongold
+18	eating something decreases the amount of that something	nongold
+19	to cause means to result in	nongold
+20	less is the opposite of more	nongold
+21	as the amount of food an animal eats increases , the weight of that animal will increase	nongold
+22	an animal needs to eat food for nutrients	nongold
+23	high is similar to increase	nongold
+24	requiring something means needing that something	nongold
+25	less means a reduced amount	nongold
+26	to add means to increase	nongold
+27	daily means every day; once per day	nongold
+28	to reduce means to decrease	nongold
+29	decreasing something positive has a negative impact on a thing	nongold
+30	food is what an animal eats	nongold
+31	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+32	an animal is a kind of living thing	nongold
+33	diet means what an animal eats	nongold
+34	an animal is a kind of organism	nongold
+35	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+36	to lose means to have less of	nongold
+37	an increase is a kind of change	nongold
+38	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+39	a weight is a kind of object	nongold
+40	a decrease is a kind of change	nongold
+41	an animal requires enough nutrients to maintain good health; survive	nongold
+42	impact means effect	nongold
+43	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+44	if there is a loss of something then that something decreases	nongold
+45	to lower means to decrease	nongold
+46	a positive impact is  a benefit	nongold
+47	to produce means to result in	nongold
+48	if a living thing requires something then that something has a positive impact on that living thing	nongold
+49	nutrients are a kind of substance	nongold
+50	harming something has a  negative impact on; effect on that something	nongold
+51	a food contains nutrients for living things	nongold
+52	an animal; living thing requires nutrients for survival	nongold
+53	causing is a kind of affecting	nongold
+54	to slow; to slow down decreases speed	nongold
+55	human is a kind of organism	nongold
+56	decreasing something negative has a positive impact on a thing	nongold
+57	greater means higher; more in value	nongold
+58	little is similar to decrease	nongold
+59	action means activity	nongold
+60	to improve means to have a positive impact	nongold
+61	too much is similar to increase	nongold
+62	solution is similar to a positive impact	nongold
+63	an event is a kind of action	nongold
+64	nutrients are a kind of matter	nongold
+65	to cause means to have an effect	nongold
+66	producing is similar to causing	nongold
+67	to cause an event means to make that event more likely	nongold
+68	often is similar to likely	nongold
+69	a factor impacts something	nongold
+70	the body is a part of an organism	nongold
+71	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+72	an organism eating is a kind of action	nongold
+73	an organism is a living thing	nongold
+74	desirable result means positive impact	nongold
+75	food is a kind of substance	nongold
+76	helping something has a  positive impact on that something	nongold
+77	nutrients are a kind of material	nongold
+78	sugary means high in sugar	nongold
+79	weight is a property of objects; matter	nongold
+80	a nutrient is a kind of object	nongold
+81	to be good for means to have a positive impact on	nongold
+82	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+83	body weight is a generally acquired characteristic	nongold
+84	exercise has a positive impact on a human's health	nongold
+85	consumption means use	nongold
+86	loss means reduction	nongold
+87	something that happens is a kind of event	nongold
+88	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+89	if something causes an increase in something else then that something produces that something else	nongold
+90	requiring is similar to needing help	nongold
+91	to change means to have an effect	nongold
+92	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+93	affected means changed	nongold
+94	if an event occurs by adding something then that event requires that something	nongold
+95	adverse effect means negative impact	nongold
+96	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+97	best means most positive	nongold
+98	to act on means to affect	nongold
+99	life means living things	nongold

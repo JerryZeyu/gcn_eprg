@@ -1,0 +1,102 @@
+0	Which of these events occurs about every three months?	question
+1	new season	answer
+2	a new season occurs once per 3.0 months	gold
+3	a new season occurs four times per year	nongold
+4	month is a kind of period of time	nongold
+5	each season occurs once per year	nongold
+6	months are a kind of unit for measuring time	nongold
+7	yearly means every year	nongold
+8	an event is a kind of action	nongold
+9	annual means once per year	nongold
+10	once per means every	gold
+11	events occur at a specific place; at a specific time; with a specific frequency	gold
+12	different seasons occur during different times of the year	nongold
+13	to happen means to occur	nongold
+14	something that happens is a kind of event	nongold
+15	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+16	Earth orbiting the Sun causes seasons to change	nongold
+17	a change is a kind of event	nongold
+18	new means different from the former one	nongold
+19	monthly means once per month	nongold
+20	event is similar to occurrence	nongold
+21	storm is a kind of weather; weather event	nongold
+22	winter is a kind of season	nongold
+23	Autumn is a kind of season	nongold
+24	the Earth revolving around the Sun causes the seasons to change; to occur on its axis	nongold
+25	August is a kind of month	nongold
+26	the moon orbiting the Earth occurs once per month	nongold
+27	1 year is equal to 12 months	nongold
+28	each of the moon's phases occurs once per month	nongold
+29	every summer  is a kind of period of time	nongold
+30	plants appearing on Earth is a kind of event	nongold
+31	the sun setting is a kind of event	nongold
+32	a process is a kind of event	nongold
+33	a cycle happens; occurs repeatedly	nongold
+34	1 month is equal to 28-31 days	nongold
+35	spring is a kind of season	nongold
+36	years are a kind of unit for measuring time	nongold
+37	a new moon is a kind of phase of the moon	nongold
+38	December is a kind of month	nongold
+39	season is a major yearly temperature change	nongold
+40	to pass means to occur	nongold
+41	approximately means about	nongold
+42	a drought occurs over a period of months; years	nongold
+43	June is a kind of month	nongold
+44	a new moon occurs 14 days after a full moon	nongold
+45	1 year is equal to 365 days	nongold
+46	precipitation is a kind of weather	nongold
+47	days are a kind of unit for measuring time	nongold
+48	boiling is a kind of event	nongold
+49	winter is a part of the year	nongold
+50	movements of celestial bodies are a kind of event	nongold
+51	summer is a kind of season	nongold
+52	snow is a kind of precipitation	nongold
+53	the new moon is when the lighted half of the moon faces the Sun	nongold
+54	a motion is a kind of event; action	nongold
+55	a different moon phase occurs once per week	nongold
+56	old is the opposite of new	nongold
+57	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+58	the sun rising is a kind of event	nongold
+59	if an event occurs by adding something then that event requires that something	nongold
+60	Tuesday is a kind of  time	nongold
+61	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+62	an equinox occurs twice per year	nongold
+63	a cycle is a kind of process	nongold
+64	once means one time	nongold
+65	to cause an event is similar to being involved in that event	nongold
+66	revolving is a kind of action	nongold
+67	spring follows winter	nongold
+68	if an event is required for a process then that event must occur before that process can occur	nongold
+69	a part of a process means a stage in a process	nongold
+70	if an event is more common then that event will occur more frequently	nongold
+71	fall is a kind of season	nongold
+72	seasons cause change to the environment	nongold
+73	revolving is a kind of motion	nongold
+74	a forest fire is a kind of event	nongold
+75	the new moon is when the dark half of the moon faces the Earth	nongold
+76	answering questions requires information	nongold
+77	length of time means period of time	nongold
+78	the first quarter phase of the moon occurs after the new moon	nongold
+79	high is similar to increase	nongold
+80	an increase is a kind of change	nongold
+81	all the other means the rest of	nongold
+82	snowstorm is a kind of weather	nongold
+83	to cause means to result in	nongold
+84	a step in a process means a stage in a process	nongold
+85	occur is similar to appear	nongold
+86	daily means every day; once per day	nongold
+87	recent means close to present time	nongold
+88	a component of something means a part of that something	nongold
+89	a rotation of the moon takes 1; one month	nongold
+90	a moon phase is a kind of natural event	nongold
+91	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+92	the day time is part of one day	nongold
+93	period is similar to amount of time	nongold
+94	a component means a part of	nongold
+95	change is a kind of process	nongold
+96	increase means more	nongold
+97	variable means able to change	nongold
+98	cycles of day and night occur once per day	nongold
+99	a phase of the moon is a kind of state	nongold
+100	rain is a kind of precipitation	nongold
+101	concluding is a kind of action	nongold

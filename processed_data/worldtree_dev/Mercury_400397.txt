@@ -1,0 +1,102 @@
+Question	Which of these behaviors did a bear most likely learn from living in its environment?	question
+Answer	opening garbage can lids	answer
+0	a garbage can is a kind of container	gold
+1	a bear is a kind of animal	gold
+2	a trashcan contains trash; garbage; waste	nongold
+3	a bear is a kind of predator	nongold
+4	a garbage can is made of metal	nongold
+5	a lid is a kind of object	nongold
+6	trash is synonymous with waste	nongold
+7	garbage means waste	nongold
+8	organisms; living things live in their habitat; their home	nongold
+9	a can is a kind of container	nongold
+10	an organism is a living thing	nongold
+11	looking in a container sometimes requires opening that container	gold
+12	animals; living things live and feed in their habitats; near their habitats	nongold
+13	surroundings means environment	nongold
+14	objects in an environment are a part of that environment	nongold
+15	a can is a kind of object	nongold
+16	a mammal is a kind of animal	nongold
+17	an animal is a kind of living thing	nongold
+18	a behavior is a kind of characteristic	gold
+19	a living thing is a kind of object	nongold
+20	a human is a kind of mammal	nongold
+21	survive means live	nongold
+22	survive means live	nongold
+23	an animal is a kind of organism	gold
+24	a learned characteristic is a kind of acquired characteristic	gold
+25	organisms are a part of an environment	nongold
+26	learned behaviors are learned over the  lifetime of the animal	nongold
+27	raccoons eat trash; garbage; waste	nongold
+28	living in an environment causes an organism to adapt to that environment	nongold
+29	a human is a kind of animal	nongold
+30	a container contains objects; material; substances	nongold
+31	humans discarding waste in an environment causes harm to that environment	nongold
+32	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+33	contents means the substance in a container	nongold
+34	can means having the ability to	nongold
+35	if the lid of a container expands then that container will be easier to open	nongold
+36	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+37	often is similar to likely	nongold
+38	life means living things	nongold
+39	a door is a kind of object	nongold
+40	harming something has a  negative impact on; effect on that something	nongold
+41	an environment is a kind of place	nongold
+42	a container is a kind of object	nongold
+43	animals learn some behaviors from watching their parents	nongold
+44	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+45	actions mean behavior	nongold
+46	dumping something in an environment means adding that something to that environment	nongold
+47	using tools is a learned characteristic	nongold
+48	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+49	a crack is a kind of opening	nongold
+50	adapting is when a living thing responds to a change in an environment	nongold
+51	conditioned behavior is a kind of learned behavior	nongold
+52	a person is a kind of animal	nongold
+53	hiding is a kind of protection against predators; from predators	nongold
+54	a container with air holes in the top can be used for holding; capturing an animal	nongold
+55	to store means to hold	nongold
+56	to discard means to throw away	nongold
+57	most predators live in; live near the same environment as their prey	nongold
+58	humans changing animal habitats usually causes harm to those animals	nongold
+59	a doorknob is a kind of object	nongold
+60	objects are made of materials; substances; matter	nongold
+61	the body is a part of an organism	nongold
+62	out is synonymous with outside	nongold
+63	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+64	nonliving; non-living; die is the opposite of living; alive; live	nongold
+65	eyes are usually part of an animal for seeing	nongold
+66	an environment means an area	nongold
+67	human is a kind of organism	nongold
+68	if an animal is trained to do something then that something is a learned behavior	nongold
+69	animal instinct means instinctive behavior	nongold
+70	can be means able to be	nongold
+71	person is synonymous with human	nongold
+72	killing means changing a living thing from alive to dead by harming	nongold
+73	place is synonymous with location	nongold
+74	human waste often causes harm to an environment	nongold
+75	dying is the opposite of living; surviving	nongold
+76	discarding aluminum cans wastes aluminum	nongold
+77	motion; movement means moving; to move	nongold
+78	recycling is a kind of method of disposal	nongold
+79	if an organism can live in an environment then that organism can withstand the conditions of that environment	nongold
+80	live means to be alive	nongold
+81	following orders is a learned characteristic	nongold
+82	if a human discards an object then that object will become waste	nongold
+83	a surface is a part of an object	nongold
+84	a handle is a part of an object for holding that object	nongold
+85	an organism's environment affects that organism's acquired characteristics	gold
+86	motion is when moves an object; something to a direction	nongold
+87	a part of a living thing is a natural structure	nongold
+88	humans changing an environment sometimes causes that environment to be destroyed	nongold
+89	playing with toys is a learned characteristic	nongold
+90	habitat is similar to environment	nongold
+91	if a container contains something then that container touches that something	nongold
+92	if a living thing requires something then that something has a positive impact on that living thing	nongold
+93	killing means harming something causing death	nongold
+94	a handle is used for holding an object	nongold
+95	hiding can be used for avoiding predators	nongold
+96	a structure of something is synonymous with a part of that something	nongold
+97	an animal is a member of an animal species	nongold
+98	to be filled with means to contain	nongold
+99	room contains walls	nongold

@@ -1,0 +1,100 @@
+0	mouse, monkey, bat	answer
+1	fur is a part of a bat	gold
+2	classifying is when one sorts something by kind; type	nongold
+3	a mouse is a kind of animal	nongold
+4	a bird is a kind of animal	nongold
+5	a type is synonymous with a kind	nongold
+6	a cat is a kind of animal	nongold
+7	an animal is a kind of organism	nongold
+8	an elephant is a kind of animal	nongold
+9	a bat lives in caves and trees	nongold
+10	a rhinoceros is a kind of animal	nongold
+11	a lion is a kind of mammal	nongold
+12	animals; living things live and feed in their habitats; near their habitats	nongold
+13	a predator is a kind of animal	nongold
+14	bats eat insects	nongold
+15	a part of something means a characteristic of something	nongold
+16	a sloth is a kind of animal	nongold
+17	a human is a kind of mammal	nongold
+18	to be made of means to consist of	nongold
+19	a monkey is a kind of mammal	gold
+20	the  diet of an animal is an inherited characteristic	nongold
+21	a jaguar is a kind of big cat	nongold
+22	category means kind	nongold
+23	to categorize means to classify	nongold
+24	a living thing is a kind of object	nongold
+25	killing means changing a living thing from alive to dead by harming	nongold
+26	trait is synonymous with characteristic	nongold
+27	a cat is a kind of mammal	nongold
+28	an animal is a kind of living thing	nongold
+29	together means in a group	nongold
+30	an animal is a member of an animal species	nongold
+31	life means living things	nongold
+32	all the other means the rest of	nongold
+33	classifying means grouping objects; materials by their properties	nongold
+34	abundant means high in number	nongold
+35	gamete means sex cell	nongold
+36	a bat births; gives birth to live young	gold
+37	many means high in number	nongold
+38	food is what an animal eats	nongold
+39	a mouse births; gives birth to live young	gold
+40	to group means to separate	nongold
+41	coming together means forming a group	nongold
+42	panda is a kind of animal	nongold
+43	population is a measure of the number of a species in an environment	nongold
+44	squirrels live in forests	nongold
+45	a mouse is a kind of herbivore	nongold
+46	a mammal usually nurses  its young; its offspring	nongold
+47	mice live in in holes in the ground in fields; in forests	nongold
+48	a squirrel is a kind of herbivore	nongold
+49	living things can all reproduce	nongold
+50	if an organism eats something then that something is a source of frood to that organism	nongold
+51	prey is a kind of food for predators	nongold
+52	hawks;eagles eat snakes;lizards; rats; rabbits; mice	nongold
+53	a bat is a kind of mammal	gold
+54	length is a part of size	nongold
+55	a hare is a kind of animal	nongold
+56	a deer mouse is a kind of mouse	nongold
+57	killing a living thing decreases the number; population size of that living thing	nongold
+58	a cat is a kind of carnivore	nongold
+59	some monkeys live in the tropical rain forest	nongold
+60	a bat is a kind of animal	nongold
+61	a mammal is warm-blooded	nongold
+62	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+63	Which of these groups animals are ALL mammals?	question
+64	a food contains nutrients for living things	nongold
+65	a bird is a kind of living thing	nongold
+66	to belong to a group means to be a kind of something	nongold
+67	fur is a part of a monkey	gold
+68	a monkey births; gives birth to live young	gold
+69	fur is usually part of a mammal	gold
+70	an animal; living thing requires nutrients for survival	nongold
+71	a plant; living thing requires food for survival	nongold
+72	to classify means to decide what class something belongs to	nongold
+73	a squirrel is a kind of animal	nongold
+74	bats can echolocate	nongold
+75	answering questions requires information	nongold
+76	a mouse is a kind of mammal	gold
+77	mammals is a kind of class	nongold
+78	a parrot is a kind of bird	nongold
+79	predators eat prey	nongold
+80	to belong to a group means to be classified in that group	nongold
+81	to belong to a class means to be a kind of something	nongold
+82	greatest means largest; highest; most amount of something	nongold
+83	fur is a part of a mouse	gold
+84	killing means harming something causing death	nongold
+85	a chipmunk is a kind of mammal	nongold
+86	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+87	species means a group of like organisms	nongold
+88	an amphibian is a kind of animal	nongold
+89	a rabbit is a kind of mammal	nongold
+90	diet means what an animal eats	nongold
+91	animals are a part of the biological kingdom Animalia	nongold
+92	living things eat their food source	nongold
+93	squirrels eat edible plants; fruit	nongold
+94	to tell the difference between things means to classify those things	nongold
+95	to eat means to consume food	nongold
+96	an organism is a living thing	nongold
+97	grouping means putting; placing in different groups	nongold
+98	a mammal is a kind of animal	nongold
+99	an part of an object is smaller than the entire object	nongold

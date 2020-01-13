@@ -1,0 +1,66 @@
+0	the Sierra Nevada is a kind of mountain range	nongold
+1	annual means once per year	nongold
+2	winter means environmental; outdoor temperature decreases	nongold
+3	climate is the usual kind of weather in a location over a period of time	gold
+4	summer has hot temperatures; weather	nongold
+5	spring has warm temperatures; weather	nongold
+6	low means low in elevation; height; altitude	nongold
+7	the climate in Nevada is low in humidity	gold
+8	rainfall means the amount of precipitation	nongold
+9	temperature is a measure of heat energy	nongold
+10	Which statement best describes the climate of Nevada?	question
+11	every summer  is a kind of period of time	gold
+12	Humidity is low throughout every summer.	answer
+13	lower means less	nongold
+14	less is similar to decrease	nongold
+15	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+16	summer is when a hemisphere is tilted towards the sun	nongold
+17	lowest means least in value; amount; number	nongold
+18	a state is a kind of place	nongold
+19	low is similar to decrease	nongold
+20	every summer  is a kind of period of time	gold
+21	throughout means over	gold
+22	a climate is synonymous with an environment	nongold
+23	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+24	once per means every	nongold
+25	dry means low in amount of water; wetness; moisture	gold
+26	Nevada is a state located in the United States of America	gold
+27	every summer  is a kind of period of time	gold
+28	climate is the usual kind of weather in a location over a period of time	gold
+29	climate is the usual kind of weather in a location over a period of time	gold
+30	throughout means over	gold
+31	temperature is a property of weather	nongold
+32	hot means high in heat energy; temperature	nongold
+33	humidity is a kind of water vapor	nongold
+34	the properties of something are used for describing that something	nongold
+35	Humidity is low throughout every summer.	answer
+36	the climate in Nevada is low in humidity	gold
+37	the climate in Nevada is low in humidity	gold
+38	Which statement best describes the climate of Nevada?	question
+39	Which statement best describes the climate of Nevada?	question
+40	Nevada is a state located in the United States of America	gold
+41	spring follows winter	nongold
+42	moist means high in moisture	nongold
+43	low means down	nongold
+44	humidity is a property of  weather and include ordered values of dry; humid	gold
+45	winter follows fall	nongold
+46	Nevada produces more gold than any other state	nongold
+47	too much is similar to increase	nongold
+48	dry means low in amount of water; wetness; moisture	gold
+49	air is a part of the environment	nongold
+50	low is the opposite of high	nongold
+51	humidity is a property of  weather and include ordered values of dry; humid	gold
+52	dry means low in amount of water; wetness; moisture	gold
+53	humidity is a property of  weather and include ordered values of dry; humid	gold
+54	toward is the opposite of away	nongold
+55	Which statement best describes the climate of Nevada?	question
+56	Humidity is low throughout every summer.	answer
+57	seasons cause change to the environment	nongold
+58	throughout means over	gold
+59	Humidity is low throughout every summer.	answer
+60	little means low in amount	nongold
+61	Nevada is a state located in the United States of America	gold
+62	atmosphere means  air	nongold
+63	to add means to increase	nongold
+64	an environment means an area	nongold
+65	rainfall means precipitation	nongold

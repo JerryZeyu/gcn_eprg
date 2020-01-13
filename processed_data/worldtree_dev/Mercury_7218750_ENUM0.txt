@@ -1,0 +1,102 @@
+Question	Which type of water reservoir could always provide freshwater?	question
+Answer	mountain glaciers	answer
+0	glaciers are a source of freshwater	nongold
+1	a water reservoir contains; stores water	nongold
+2	glaciers are a kind of major reservoir for fresh water	nongold
+3	a mountain glacier is a kind of glacier	gold
+4	a reservoir is a kind of body of water	gold
+5	a type is synonymous with a kind	nongold
+6	if the glaciers melt , then the melting glacial ice will be freshwater	nongold
+7	a glacier is a kind of body of water	gold
+8	freshwater is a kind of water	nongold
+9	to provide means to supply	nongold
+10	form means kind	nongold
+11	being used for is similar to providing	nongold
+12	to provide something means to be the source of that something	nongold
+13	the glaciers has the role of storing fresh water in the water cycle	nongold
+14	a lake is a kind of body of water	nongold
+15	freshwater is drinkable	nongold
+16	a source of something emits; produces; generates; provides that something	nongold
+17	a glacier is made of ice	nongold
+18	a body of water is a source of water	nongold
+19	if something is required then that something must be provided	nongold
+20	provide is similar to give; make	nongold
+21	providing is a kind of function	nongold
+22	to produce means to provide	nongold
+23	the Great Lakes were formed by glaciers moving over the ground	nongold
+24	if the glaciers melt , then the fresh water stored in glaciers will decrease	nongold
+25	a supply of something is a source of that something	nongold
+26	a type of something is a kind of property of that something	nongold
+27	containing something is similar to providing that something	nongold
+28	fresh water means freshwater	nongold
+29	some deep lakes; bowl-shaped lakes are formed by glaciers	nongold
+30	providing something means making;delivering something	nongold
+31	a body of water contains water	nongold
+32	transferring is similar to supplying	nongold
+33	the majority of freshwater is found in in ice caps; in glaciers	gold
+34	groundwater is a kind of water	nongold
+35	Antarctic polar ice contains ice; glaciers	nongold
+36	a source of something supplies that something	nongold
+37	providing structure is a kind of function	nongold
+38	classifying is when one sorts something by kind; type	nongold
+39	if something requires something else then that something requires a source of that something else	nongold
+40	a river is a kind of flowing body of water	nongold
+41	usually means most of the time	nongold
+42	requiring something means needing that something	nongold
+43	to be used for something means to be required by that something	nongold
+44	glaciers cover 10% of land  on Earth	nongold
+45	a glacier is made of a large buildup of ice; snow	nongold
+46	a glacier moves slowly	nongold
+47	category means kind	nongold
+48	a pond is a kind of body of water	nongold
+49	to depend on; to rely on; to need means to require	nongold
+50	a body of water is a kind of environment	nongold
+51	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+52	mountain area means mountain range	nongold
+53	a stream is a kind of body of water	nongold
+54	if something contains something , then something is able to provide something	nongold
+55	something that contains water is similar to a body of water	nongold
+56	a river basin is a kind of land drained by a river and its tributaries	nongold
+57	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+58	to lower means to decrease	nongold
+59	water is a kind of liquid at room temperature	nongold
+60	animals; living things require water for survival	nongold
+61	ice sheet; polar ice sheet is a kind of glacier	nongold
+62	requiring is similar to needing help	nongold
+63	an ocean is a kind of body of water	nongold
+64	glaciers melting has a negative impact on the glaicial environment	nongold
+65	a mountain; mountain range is a kind of environment	nongold
+66	if something causes a process then that something is required for that process	nongold
+67	water is a kind of natural resource	nongold
+68	water is a kind of natural resource	nongold
+69	a mountain range contains mountains	nongold
+70	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+71	the surface of the Earth contains mountains	nongold
+72	if something gains something from something else then that something else is a source of that something	nongold
+73	if something transfers something else then that something is a source of something else	nongold
+74	a glacier causes mechanical weathering	nongold
+75	if something comes from something else then that something else is a source of that something	nongold
+76	if something releases something else then that something is the source of that something else	nongold
+77	if something is a raw material in a process then that something is required for that process	nongold
+78	lakes are formed by precipitation and runoff	nongold
+79	liquid water is available  for organisms	nongold
+80	valley is located between mountains; hills	nongold
+81	generate means produce	nongold
+82	a component means a part of	nongold
+83	a glacial depression is formed by a glacier	nongold
+84	the percentage of freshwater is 3% of total water on Earth	nongold
+85	a pool is a kind of body of water	nongold
+86	a motion is a kind of event; action	nongold
+87	a process is a kind of event	nongold
+88	affected means changed	nongold
+89	a mountain is high in altitude	nongold
+90	irrigation sometimes requires using groundwater from aquifers	nongold
+91	a river is a kind of channel for water	nongold
+92	if something is a source of something else then that something usually contains that something else	nongold
+93	100% probability means always	nongold
+94	if the water is freshwater , then the water is not a source of salt	nongold
+95	groundwater is located under ground	nongold
+96	an event is a kind of action	nongold
+97	greatest means largest; highest; most amount of something	nongold
+98	to turn means to change	nongold
+99	water is a renewable resource	nongold

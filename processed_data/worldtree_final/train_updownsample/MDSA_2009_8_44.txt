@@ -1,0 +1,89 @@
+0	predators eat prey	gold
+1	oysters are a kind of aquatic animal	gold
+2	mussels eat plankton	gold
+3	as water increases in an environment , the population of aquatic animals will increase	nongold
+4	if something comes from something else then that something else is a source of that something	nongold
+5	to change means to have an effect	nongold
+6	prey is a kind of food for predators	nongold
+7	a living thing is a kind of object	nongold
+8	an organism is a living thing	nongold
+9	affecting an organism's niche means affecting that organism	nongold
+10	a body of water is a source of water	nongold
+11	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+12	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+13	an animal is a kind of living thing	gold
+14	plankton live in bodies of water	gold
+15	competition may cause animals to fight; to make threatening sounds; to act aggressively towards members of their own species	nongold
+16	a clam is a kind of aquatic animal	gold
+17	clams eat plankton	gold
+18	if two animals have the same food source then those two animals compete for food	gold
+19	oysters eat plankton	gold
+20	if two animals eat the same prey then those animals compete for that prey	gold
+21	oysters eat plankton	gold
+22	living things eat their food source	gold
+23	harming an animal species has a  negative impact on the population size of that species	nongold
+24	predators; carnivores; omnivores eat other animals	nongold
+25	clams eat plankton	gold
+26	if an organism eats something then that something is a source of frood to that organism	nongold
+27	impact means effect	nongold
+28	a clam is a kind of aquatic animal	gold
+29	living things eat their food source	gold
+30	less means a reduced amount	nongold
+31	plankton live in bodies of water	gold
+32	if two animals have the same food source then those two animals compete for food	gold
+33	a plant; living thing requires food for survival	nongold
+34	to reduce means to decrease	gold
+35	plankton live in bodies of water	gold
+36	mussels are a kind of aquatic animal	gold
+37	an animal is a kind of living thing	gold
+38	an aquatic animal is a kind of animal	gold
+39	Clams, oysters, and mussels eat plankton filtered from water. How would clams, oysters, and mussels most likely be affected if the amount of plankton in a large body of water was significantly reduced?	question
+40	mussels eat plankton	gold
+41	food is what an animal eats	nongold
+42	to lower means to decrease	nongold
+43	an aquatic animal is a kind of animal	gold
+44	to reduce means to decrease	gold
+45	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+46	a clam is a kind of aquatic animal	gold
+47	if two animals eat the same prey then those animals compete for that prey	gold
+48	They would compete for a limited food source.	answer
+49	clams eat plankton	gold
+50	an aquatic animal is a kind of animal	gold
+51	oysters are a kind of aquatic animal	gold
+52	water is a kind of natural resource	nongold
+53	less is similar to decrease	nongold
+54	a decrease is a kind of change	gold
+55	oysters are a kind of aquatic animal	gold
+56	as a resource required by an organism decreases , the competition among organisms that require that resource will increase	nongold
+57	predators eat prey	gold
+58	predators eat prey	gold
+59	They would compete for a limited food source.	answer
+60	oysters eat plankton	gold
+61	They would compete for a limited food source.	answer
+62	causing is a kind of affecting	nongold
+63	Clams, oysters, and mussels eat plankton filtered from water. How would clams, oysters, and mussels most likely be affected if the amount of plankton in a large body of water was significantly reduced?	question
+64	eating something decreases the amount of that something	nongold
+65	living things eat their food source	gold
+66	aquatic animals; plants live in bodies of water	nongold
+67	They would compete for a limited food source.	answer
+68	Clams, oysters, and mussels eat plankton filtered from water. How would clams, oysters, and mussels most likely be affected if the amount of plankton in a large body of water was significantly reduced?	question
+69	affected means changed	gold
+70	Clams, oysters, and mussels eat plankton filtered from water. How would clams, oysters, and mussels most likely be affected if the amount of plankton in a large body of water was significantly reduced?	question
+71	a decrease is a kind of change	gold
+72	affected means changed	gold
+73	to eat means to consume food	nongold
+74	an increase is the opposite of a decrease	nongold
+75	to reduce means to decrease	gold
+76	mussels eat plankton	gold
+77	negative impact is the opposite of positive impact	nongold
+78	mussels are a kind of aquatic animal	gold
+79	as the population of prey decreases , competition between predators will increase	nongold
+80	a decrease is a kind of change	gold
+81	affected means changed	gold
+82	if two animals eat the same prey then those animals compete for that prey	gold
+83	animals; living things require water for survival	nongold
+84	if two animals have the same food source then those two animals compete for food	gold
+85	a fish is a kind of aquatic animal	nongold
+86	as competition for resources decreases , the ability to compete for resources will increase	nongold
+87	mussels are a kind of aquatic animal	gold
+88	an animal is a kind of living thing	gold

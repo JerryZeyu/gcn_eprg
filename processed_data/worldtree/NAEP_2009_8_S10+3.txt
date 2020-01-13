@@ -1,0 +1,102 @@
+Question	Why do mountain climbers at high elevations use oxygen tanks to help them breathe?	question
+Answer	The atmosphere is less dense at higher elevations so there is less oxygen available.	answer
+0	a climber is a kind of human	gold
+1	as the density  of the atmosphere decreases , the available oxygen will  decrease	gold
+2	an increase is the opposite of a decrease	nongold
+3	less means a reduced amount	nongold
+4	lower means less	nongold
+5	less is similar to decrease	gold
+6	dense means high in density	gold
+7	a mountain is high in altitude	gold
+8	as the altitude increases ,  the density of the air will decrease	gold
+9	oxygen is a kind of gas at room temperature	nongold
+10	less is the opposite of more	nongold
+11	climbing increases altitude	nongold
+12	a solid is more dense than a gas	nongold
+13	gases are usually low in density	nongold
+14	requiring is similar to needing help	nongold
+15	low means low in elevation; height; altitude	nongold
+16	carbon dioxide is more dense than air	nongold
+17	air is a kind of gas	nongold
+18	low is similar to decrease	nongold
+19	to breathe in means to absorb air	nongold
+20	oxygenated means having oxygen	nongold
+21	to lower means to decrease	nongold
+22	fewer means lower; less in number	nongold
+23	to reduce means to decrease	nongold
+24	to be used for something means to be required by that something	nongold
+25	oxygen rich means a high amount of oxygen	nongold
+26	atmosphere means  air	nongold
+27	to be used  for something means to help to do that something	nongold
+28	as the use of something decreases , the use of the source of that something will decrease	nongold
+29	denser means more dense	nongold
+30	a mountain top is a part of a mountain	nongold
+31	an animal requires air for survival	nongold
+32	breathing in is when animals inhale air into their lungs	nongold
+33	increase means more	nongold
+34	a mountain is a kind of landform	nongold
+35	oxygen has a positive impact on air quality	nongold
+36	less dense liquids; particles in liquids; materials float liquids; particiles in liquids; materials that are more dense	nongold
+37	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+38	solid water is less dense than liquid water	nongold
+39	density is a property of an object; a substance and includes ordered values of dense; not dense	nongold
+40	denser liquids; particles in liquids; materials settle below liquids or particles in liquids; materials that are less dense	nongold
+41	the lungs are a part of the body of an animal used for breathing air	nongold
+42	exhaling  is when an animal expels air from the lungs	nongold
+43	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+44	low is the opposite of high	nongold
+45	a mountain; mountain range is a kind of environment	nongold
+46	a mountain is made of rocks; soil	nongold
+47	little is similar to decrease	nongold
+48	high is similar to increase	nongold
+49	the atmosphere contains gases; liquids; solids	nongold
+50	oxygen gas is made of only  oxygen element	nongold
+51	closer means lower; less; a decrease in distance	nongold
+52	oxygen is a kind of resource	nongold
+53	deplete is similar to decrease	nongold
+54	the amount of something is similar to the availability of something	nongold
+55	air is a part of the environment	nongold
+56	too much is similar to increase	nongold
+57	breathing  is when a lung converts from oxygen in air into oxygen in blood	nongold
+58	the respiratory system takes in oxygen from the air	nongold
+59	an animal; bacterium requires oxygen for survival; to breathe	gold
+60	breath contains water vapor	nongold
+61	breathing is when animals convert oxygen into carbon dioxide	nongold
+62	oxygen is more common than hydrogen on Earth	nongold
+63	requiring something means needing that something	nongold
+64	if there is a loss of something then that something decreases	nongold
+65	the air is a kind of substance	nongold
+66	helping something has a  positive impact on that something	nongold
+67	absorbing something from the air decreases the  amount of  that something in the air	nongold
+68	as altitude increases , air pressure will decrease	nongold
+69	lack is similar to low; little	nongold
+70	higher means greater; above in value; amount; number	nongold
+71	high means great in altitude	nongold
+72	breathing out is when animals exhale carbon dioxide from their lungs into the air	nongold
+73	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+74	to depend on; to rely on; to need means to require	nongold
+75	using less of a resource increases the availability of that resource	nongold
+76	gas is a kind of substance	nongold
+77	water is made of hydrogen and oxygen	nongold
+78	atmospheric means of the atmosphere	nongold
+79	mountain top is a kind of location	nongold
+80	greater means higher; more in value	nongold
+81	lungs are used for breathing air by land animals; birds	nongold
+82	hydrogen is a kind of gas at room temperature	nongold
+83	a decrease is a kind of change	nongold
+84	person is synonymous with human	nongold
+85	as distance from a source of something increases , that something will decrease	nongold
+86	to help; to benefit means to be of use	nongold
+87	to lack means to not have	nongold
+88	the Earth's atmosphere is made of 23.133 percent oxygen by mass	nongold
+89	to help means to aid	nongold
+90	dying is the opposite of living; surviving	nongold
+91	summit means the top of the mountain	nongold
+92	as height decreases , distance from sea level will decrease	nongold
+93	the Earth's atmosphere is made of 0 to 4 percent hydrogen; water vapor by volume	nongold
+94	harming something has a  negative impact on; effect on that something	nongold
+95	elevation relative to sea level is a measure of  how high a place is relative to sea level	nongold
+96	blood absorbs oxygen in the lungs	nongold
+97	low means down	nongold
+98	altitude is the distance from the ground to an object in the sky	nongold
+99	if something requires something else then that something requires a source of that something else	nongold

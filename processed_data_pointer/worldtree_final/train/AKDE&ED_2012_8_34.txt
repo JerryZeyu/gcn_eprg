@@ -1,0 +1,101 @@
+0	adding heat to an object sometimes causes chemical reactions	nongold
+1	to add means to increase	nongold
+2	light is a kind of energy	nongold
+3	heat means heat energy	nongold
+4	sunlight is a kind of light	nongold
+5	light is a kind of energy	nongold
+6	energy transformation means one kind of energy changes into another kind of energy	nongold
+7	combustion is a kind of chemical change	nongold
+8	chemical change is a kind of chemical reaction	nongold
+9	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+10	combustion means fire converts chemical energy into light energy and heat energy	gold
+11	fire transfers heat through waves	nongold
+12	energy conversion is similar to energy transformation	nongold
+13	a candle is a kind of object	nongold
+14	lighting a match causes that match to burn	nongold
+15	temperature is a measure of heat energy	nongold
+16	lighting a candle causes that candle to burn	nongold
+17	a flame are a part of a fire	nongold
+18	substances have chemical properties	nongold
+19	a chemical compound is a kind of compound	nongold
+20	fire is a kind of chemical reaction	nongold
+21	materials are made of matter	nongold
+22	sulfur is a kind of element	nongold
+23	a burner is a kind of object; surface	nongold
+24	a  gas is a kind of  element	nongold
+25	compound is a kind of chemical	nongold
+26	a solid is a kind of substance	nongold
+27	converting is similar to releasing	nongold
+28	fuel contains chemical energy	nongold
+29	chemical compounds contain chemical bonds between atoms; between elements	gold
+30	a metal is usually a solid at room temperature	nongold
+31	a wax is usually a hydrocarbon	gold
+32	a candle is made of wax	gold
+33	a fire requires  oxygen to burn	nongold
+34	chemical energy is a kind of energy	nongold
+35	substances are made of matter	nongold
+36	combustion is a kind of exothermic reaction	nongold
+37	an element is a kind of material	nongold
+38	if something transfers something else then that something is a source of something else	nongold
+39	Which statement best describes the energy transformations that occur when a candle burns?	question
+40	the properties of something are used for describing that something	nongold
+41	an element is a kind of  substance	nongold
+42	if too much heat is transferred to an object then that object may burn	nongold
+43	all elements are a kind of pure substance	nongold
+44	where something  comes from is a source of that something	nongold
+45	burning wood is used to produce heat	nongold
+46	wood is an thermal; thermal energy insulator	nongold
+47	a lit candle converts chemical energy into light energy; heat energy	nongold
+48	metal is a thermal; thermal energy conductor	nongold
+49	to combust means to catch fire	nongold
+50	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+51	an object; material; substance comes from that object or material's source	nongold
+52	wood burns	nongold
+53	hydrogen contains chemical energy	nongold
+54	gas is a kind of substance	nongold
+55	Chemical energy from the wax is converted into light and heat energy.	answer
+56	to be a source of something means to cause that something	nongold
+57	combining; mixing two substances chemically causes chemical reactions	nongold
+58	gas is a kind of state of matter	nongold
+59	if something comes from something else then that something else is a source of that something	nongold
+60	carbon is a kind of element	gold
+61	emit means produce	nongold
+62	light is made of photons	nongold
+63	photosynthesis is a kind of chemical  process	nongold
+64	wax is always nonmagnetic	nongold
+65	photosynthesis is a kind of chemical reaction	nongold
+66	hydrogen is a kind of element	gold
+67	conversion is a kind of process	nongold
+68	a source of something emits; produces; generates; provides that something	nongold
+69	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+70	to convert means to change	nongold
+71	heat is a kind of energy	nongold
+72	objects are made of materials; substances; matter	nongold
+73	convert is similar to transfer	nongold
+74	if something generates energy for something else then that something powers that something else	nongold
+75	material means substance	nongold
+76	if something releases something else then that something is the source of that something else	nongold
+77	to happen means to occur	nongold
+78	a candle is a source of light when it is burned	nongold
+79	matter; materials; substances are made of atoms; particles	nongold
+80	fire gives off light; heat; smoke	nongold
+81	heating means adding heat	nongold
+82	both means two	nongold
+83	paper burns	nongold
+84	to transform means to convert	gold
+85	heat energy is synonymous with thermal energy	nongold
+86	objects contain chemical energy	nongold
+87	light means light energy	nongold
+88	a compound is made of two or more elements that have been chemically combined	gold
+89	substances are made of elements	nongold
+90	chemical reactions cause chemical change	nongold
+91	metal is a kind of material	nongold
+92	to give off means to be the source of	nongold
+93	most chemical reactions release or absorb heat energy	nongold
+94	converting is similar to producing	nongold
+95	wax is an electrical; electrical energy insulator	nongold
+96	wood is a light material	nongold
+97	fire causes burning	gold
+98	combustion is a kind of exergonic reaction	nongold
+99	wood is a thermal; thermal energy insulator	nongold
+100	gas is a kind of material	nongold

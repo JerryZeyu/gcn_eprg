@@ -1,0 +1,102 @@
+Question	Rocks found on Earth are classified as sedimentary, metamorphic, or igneous based on	question
+Answer	how the rocks were formed.	answer
+0	igneous is a kind of rock	gold
+1	class is a property of a rock and includes values of sedimentary; metamorphic; igneous	gold
+2	sedimentary is a kind of rock	gold
+3	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+4	metamorphic rock is a kind of rock	nongold
+5	metamorphic is a kind of rock	gold
+6	granite is a kind of igneous rock	nongold
+7	a kind of something is classified as that something	nongold
+8	class is a measure of how a rock is formed	nongold
+9	found in means existing in	nongold
+10	Earth is made of rock	nongold
+11	metamorphosed rock is a kind of rock	nongold
+12	to categorize means to classify	nongold
+13	classifying is when one sorts something by kind; type	gold
+14	classifying means grouping objects; materials by their properties	nongold
+15	sedimentary rocks are formed by deposition; cementation	nongold
+16	if something is a part of something then that something can be found in that something	nongold
+17	to be found in means to be contained in	nongold
+18	Earth is a kind of planet	nongold
+19	to be made of something means to be formed of that something	nongold
+20	sediment is formed from rock	nongold
+21	nearly all fossils are found in sedimentary rock	nongold
+22	sedimentary rocks are formed by sediment; materials that settle compacting; cementing together	nongold
+23	sandstone is a kind of sedimentary rock	nongold
+24	igneous intrusion is a kind of geologic process	nongold
+25	to belong to a class means to be a kind of something	gold
+26	sedimentary rocks are made of small particles	nongold
+27	pumice is a kind of igneous rock	nongold
+28	to belong to a group means to be classified in that group	nongold
+29	different classes of rocks are formed by different methods	gold
+30	all minerals are formed by natural geological processes	nongold
+31	classify is similar to characterize	nongold
+32	gneiss is a kind of metamorphic rock	nongold
+33	sediment is formed by weathering	nongold
+34	metamorphosis of rocks is when rocks change from  one type into another type by  extreme heat and pressure	nongold
+35	to cause the formation of means to form	nongold
+36	limestone is a kind of sedimentary rock	nongold
+37	composed of means made of	nongold
+38	no longer means used to be	nongold
+39	granite is a kind of nonmetal	nongold
+40	if something is located  in somewhere , then something can be found in somewhere	nongold
+41	rock means stone	nongold
+42	contains means located in	nongold
+43	to be made of means to consist of	nongold
+44	metamorphosis means complete metamorphosis	nongold
+45	to be formed means to be originated	nongold
+46	breaking down is a kind of forming	nongold
+47	the properties of something are used for describing that something	nongold
+48	a type is synonymous with a kind	nongold
+49	sediment is a kind of matter	nongold
+50	category means kind	nongold
+51	extreme heat and pressure change; metamorphose rock into metamorphic rock	nongold
+52	rock is a kind of material	nongold
+53	a whole is formed by its parts	nongold
+54	soil is found on the surface of the Earth	nongold
+55	a planet is a kind of place	nongold
+56	bedrock is a kind of rock	nongold
+57	form means kind	nongold
+58	rock is made of minerals	nongold
+59	classifying requires comparing	nongold
+60	made up of means contains; made of	nongold
+61	to change into means to form	nongold
+62	a rock is usually a solid	nongold
+63	can be means able to be	nongold
+64	according to is similar to be determined by	nongold
+65	if something is made of something else then that something can be broken down into that something else	nongold
+66	a source of something emits; produces; generates; provides that something	nongold
+67	forming something is a kind of change	nongold
+68	a planet is a kind of location	nongold
+69	the ground is part of the Earth	nongold
+70	both means two	nongold
+71	a component means a part of	nongold
+72	a kind of something is an example of that something	nongold
+73	metamorphosis is a kind of process	nongold
+74	to tell the difference between things means to classify those things	nongold
+75	a rock is a kind of object	nongold
+76	extreme heat and pressure compact sediment into sedimentary rock	nongold
+77	to form means to create	nongold
+78	a component of something means a part of that something	nongold
+79	made of is similar to contains	nongold
+80	to make means to form	nongold
+81	if something is located in some place , then the presence of that something can be found in that location	nongold
+82	products are formed; are produced; are created	nongold
+83	to be formed by is similar to being produced by	nongold
+84	the parts of something make up that something	nongold
+85	classification is a kind of process	nongold
+86	the formation of rock is a kind of process	nongold
+87	answering questions requires information	nongold
+88	if something is made of something else then the formation of that something requires that something else	nongold
+89	organisms can be preserved in sedimentary rock	nongold
+90	the surface of the Earth contains mountains	nongold
+91	affected means changed	nongold
+92	usually means most of the time	nongold
+93	typically means usually	nongold
+94	to be characterized by  a property means to have that property	nongold
+95	unit is similar to part	nongold
+96	a quartzite is a kind of metamorphic rock	nongold
+97	shale is a kind of sedimentary rock	nongold
+98	becoming is similar to forming	nongold
+99	the crust is a layer of the Earth	nongold

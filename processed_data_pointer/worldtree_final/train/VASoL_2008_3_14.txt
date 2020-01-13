@@ -1,0 +1,102 @@
+0	precipitation is a property of weather	nongold
+1	if something causes a process then that something is required for that process	nongold
+2	windy is a kind of weather	nongold
+3	inspect; observe means examine	nongold
+4	best means most positive	nongold
+5	predicting weather requires studying weater	gold
+6	something that happens is a kind of event	nongold
+7	An example of  preparing is storing something for use later	nongold
+8	negative impact is the opposite of positive impact	nongold
+9	extreme means very high in value	nongold
+10	a thunderstorm is a kind of storm	nongold
+11	good means positive	nongold
+12	can be means able to be	nongold
+13	harming something has a  negative impact on; effect on that something	nongold
+14	storms;rain cause bodies of water to increase amount of water they contain	nongold
+15	a storm is a source of precipitation	nongold
+16	To be prepared for storms	answer
+17	helping something has a  positive impact on that something	nongold
+18	lightning occurs during lightning storms; thunderstorms	nongold
+19	precipitation is a kind of weather	nongold
+20	An example of stormy weather is rain	nongold
+21	less is similar to decrease	nongold
+22	tornado is a kind of weather	nongold
+23	better means good	nongold
+24	measuring is a kind of observing	nongold
+25	determining often requires measuring; observing	nongold
+26	a source of something emits; produces; generates; provides that something	nongold
+27	rain is a kind of precipitation	nongold
+28	to observe means to gather information	nongold
+29	hailing is when hail fall from clouds to the Earth;ground	nongold
+30	weather changes from seasons to seasons	nongold
+31	knowing the properties of something means knowing information about that something	nongold
+32	snowstorm is a kind of weather	nongold
+33	observe means see	nongold
+34	weather is a property of a environment	nongold
+35	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+36	sky conditions are a property of weather	nongold
+37	studying is similar to investigating	nongold
+38	an event is a kind of action	nongold
+39	studying is similar to observing	nongold
+40	Which of these is the BEST reason to study weather?	question
+41	a type is synonymous with a kind	nongold
+42	to be used for something means to be required by that something	nongold
+43	lightning is a kind of weather phenomenon	nongold
+44	weather forecast means weather prediction	nongold
+45	windy means high wind speeds	nongold
+46	weather  usually happens in troposphere	nongold
+47	to depend on; to rely on; to need means to require	nongold
+48	to be good for means to have a positive impact on	nongold
+49	cloudy conditions cause a low-pressure weather system	nongold
+50	helping means something can be done; completed more easily; better	nongold
+51	rain is a kind of water	nongold
+52	a warm front causes cloudy and rainy weather	nongold
+53	weather is  a measure of the condition of the air in a place at a certain time	nongold
+54	to study means to examine	nongold
+55	essential means required	nongold
+56	high is similar to increase	nongold
+57	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+58	climate is the usual kind of weather in a location over a period of time	nongold
+59	a cloud is a kind of weather	nongold
+60	summer has hot temperatures; weather	nongold
+61	wind direction is a property of weather	nongold
+62	cloudy is a kind of  weather	nongold
+63	an increase is the opposite of a decrease	nongold
+64	getting information sometimes requires observing; observation	nongold
+65	answering questions requires information	nongold
+66	rainstorm means rain storm	nongold
+67	a hurricane is a kind of storm	nongold
+68	events occur at a specific place; at a specific time; with a specific frequency	nongold
+69	if weather is stormy then there is a greater chance of rain	nongold
+70	weather is a source of wind and water for the weathering process	nongold
+71	a weather report describes weather	nongold
+72	requiring is similar to needing help	nongold
+73	temperature is a property of weather	nongold
+74	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+75	studying  something usually requires seeing that something	nongold
+76	cloudy means the presence  of clouds in the sky	nongold
+77	a storm is usually a source of strong winds	nongold
+78	if studying something is used to learn about something then that something is a source of information	nongold
+79	wind pattern is a kind of weather pattern	nongold
+80	furthest; farthest means greatest; most; highest in distance	nongold
+81	to add means to increase	nongold
+82	wind speed is a property of weather	nongold
+83	to lower means to decrease	nongold
+84	preparing for a storm requires predicting the occurrence of that storm	gold
+85	a cause of something is a reason for that something	nongold
+86	rainy is a kind of weather	nongold
+87	heat has a great impact on weather	nongold
+88	precipitation is when water falls from the sky	nongold
+89	to give is similar to to cause	nongold
+90	to reduce means to decrease	nongold
+91	clear weather means sunny; not cloudy; not rainy weather	nongold
+92	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+93	storm is a kind of weather; weather event	gold
+94	low is similar to decrease	nongold
+95	affected means changed	nongold
+96	to be required means to be necessary	nongold
+97	sunny is a kind of weather	nongold
+98	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+99	solution is similar to a positive impact	nongold
+100	cold is a kind of weather	nongold
+101	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold

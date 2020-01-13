@@ -1,0 +1,100 @@
+0	plants are the source of fruit	nongold
+1	a fruit is a kind of object	nongold
+2	reproduce.	answer
+3	a berry is a kind of fruit	nongold
+4	fruit is  usually a solid	nongold
+5	food is a kind of object	nongold
+6	a plant is a kind of organism	nongold
+7	if a living thing requires something then that something has a positive impact on that living thing	nongold
+8	seed dispersal is a kind of method of sexual reproduction	nongold
+9	negative impact is the opposite of positive impact	nongold
+10	different kinds of trees produce different types of fruit	nongold
+11	reproduction occurs during adulthood	nongold
+12	trees are a kind of natural resource	nongold
+13	requiring is similar to needing help	nongold
+14	a tree is a kind of plant	gold
+15	living things require respiration to use energy	nongold
+16	trees are a kind of resource	nongold
+17	plant reproduction; seed production requires pollination	nongold
+18	food is a source of energy for animals; plants	nongold
+19	green plants are a kind of producer	nongold
+20	squirrels gather nuts in the autumn to  eat during the winter	nongold
+21	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+22	taking is the opposite of giving; leaving	nongold
+23	to be made of is similar to collection	nongold
+24	harming something has a  negative impact on; effect on that something	nongold
+25	a living thing is a kind of object	nongold
+26	living things eat their food source	nongold
+27	a process usually requires all of the stages in that process	nongold
+28	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+29	sexual reproduction is a kind of reproduction	nongold
+30	collecting is similar to absorbing	nongold
+31	helping means something can be done; completed more easily; better	nongold
+32	nut is a kind of  food	nongold
+33	an animal is a kind of organism	nongold
+34	a plant is a member of a plant species	nongold
+35	squirrels live in forests	nongold
+36	seed dispersal has a positive impact on a plant; a plant's reproduction	gold
+37	life means living things	nongold
+38	a forest is a kind of ecosystem	nongold
+39	eating an animal; a plant means killing that animal; that plant	nongold
+40	a tree is a kind of matter	nongold
+41	a plant; living thing requires nutrients to grow	nongold
+42	fruit is a kind of food	nongold
+43	a forest is a kind of environment	nongold
+44	reproduction ensures the continuation of a plant or animal species	nongold
+45	food is what an animal eats	nongold
+46	In the tree reproduction process a squirrel has the role of  seed disperser	nongold
+47	an animal is a kind of living thing	nongold
+48	An example of seed dispersal is animals eating; excreting seeds	nongold
+49	animals reproduce sexually	nongold
+50	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+51	animals require fertilization to reproduce	nongold
+52	reproduction is a kind of process	nongold
+53	a tree is a kind of living thing	nongold
+54	squirrels eat edible plants; fruit	nongold
+55	a tree is a kind of habitat	nongold
+56	an animal; living thing requires nutrients for survival	nongold
+57	an animal is a kind of consumer	nongold
+58	an organism eating is a kind of action	nongold
+59	a consumer is a kind of organism	nongold
+60	living things can all reproduce	nongold
+61	fruit is a part of a plant; tree	nongold
+62	planting is a kind of human action	nongold
+63	to help; to benefit means to be of use	nongold
+64	to eat means to consume food	nongold
+65	nuts are a kind of fruit	gold
+66	a food contains nutrients for living things	nongold
+67	reproduction is a stage in the life cycle process	nongold
+68	to collect means to gather	nongold
+69	a leaf is a part of a tree	nongold
+70	seeds are a part of  berries	nongold
+71	to be used  for something means to help to do that something	nongold
+72	a plant is a kind of living thing	nongold
+73	harvesting is a kind of using	nongold
+74	a berry contains seeds	nongold
+75	an animal needs to eat food for nutrients	nongold
+76	an organism is a living thing	nongold
+77	a plant; living thing requires food for survival	nongold
+78	eating prey requires catching prey	nongold
+79	A squirrel gathering nuts helps trees	question
+80	answering questions requires information	nongold
+81	reproduction increases the number; population of a living thing	nongold
+82	squirrels store food in the autumn to eat during the winter	nongold
+83	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	gold
+84	a squirrel is a kind of animal	gold
+85	having a positive impact on reproduction increases the chance of reproduction	nongold
+86	an animal is a member of an animal species	nongold
+87	helping something has a  positive impact on that something	gold
+88	reproduction produces; produce offspring	nongold
+89	a pecan tree is a kind of tree	nongold
+90	to help means to aid	nongold
+91	planting trees has a  positive impact on an ecosystem	nongold
+92	a forest contains  lots of plants; trees	nongold
+93	a process is a kind of event	nongold
+94	fruit contains seeds	gold
+95	some species of tree are deciduous	nongold
+96	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+97	a tree contains wood	nongold
+98	plant requires seed dispersal for reproduction	gold
+99	a squirrel is a kind of herbivore	nongold

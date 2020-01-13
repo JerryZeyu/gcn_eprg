@@ -1,0 +1,101 @@
+0	carbon is a kind of element	nongold
+1	metal is a kind of material	nongold
+2	a mineral is a kind of object	nongold
+3	land is a kind of resource	nongold
+4	composed of means made of	nongold
+5	renewable resources are often available for many years	nongold
+6	iron is a kind of metal	nongold
+7	fossil fuels are a kind of energy resource	nongold
+8	plastic is a nonrenewable resource	nongold
+9	nonmetal means not metal	nongold
+10	rocks often contain large amounts of metal	nongold
+11	to be formed by is similar to being produced by	nongold
+12	a source of something emits; produces; generates; provides that something	nongold
+13	a renewable resource is a kind of natural resource	nongold
+14	oil is a nonrenewable resource	nongold
+15	abundant means high in number	nongold
+16	water is a kind of natural resource	nongold
+17	water is a kind of natural resource	nongold
+18	natural resources are found in nature	nongold
+19	a material is a kind of resource	nongold
+20	aluminum is a kind of element	nongold
+21	metal is a nonrenewable resource	gold
+22	the climate in Nevada is low in humidity	nongold
+23	Nevada is a state located in the United States of America	nongold
+24	minerals are a nonrenewable resource	nongold
+25	fossil fuels are a nonrenewable resource	nongold
+26	renewable is the opposite of nonrenewable	nongold
+27	nonrenewable resources will eventually be depleted	nongold
+28	copper is a kind of metal	gold
+29	an element is a kind of material	nongold
+30	if something is a raw material then that something comes directly from a source	nongold
+31	a lot means large in amount; quantity	nongold
+32	quantity means amount	nongold
+33	soft iron; iron is always ferromagnetic; magnetic	nongold
+34	zinc is a kind of mineral	nongold
+35	green plants are a kind of producer	nongold
+36	Nevada has abundant sunshine	nongold
+37	an inexhaustible resource is a kind of renewable resource	nongold
+38	gold is a kind of solid	nongold
+39	material means substance	nongold
+40	mercury is a kind of element	nongold
+41	water is a renewable resource	nongold
+42	gold is a kind of metal	nongold
+43	oil is a kind of energy resource	nongold
+44	Nevada mines produce gold	nongold
+45	a mineral is a kind of solid; natural material	nongold
+46	natural gas is a nonrenewable resource	nongold
+47	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+48	steel is a kind of metal	nongold
+49	a metal is a kind of element	nongold
+50	a renewable resource is a kind of naturally replaced resource	nongold
+51	a process is a kind of event	nongold
+52	coal is a nonrenewable resource	nongold
+53	an alkaline earth metal is a kind of element	nongold
+54	silver is a kind of metal	nongold
+55	metal is an  electrical; electrical energy conductor	nongold
+56	mercury  is a kind of metal	nongold
+57	aluminum is a kind of metal	nongold
+58	copper is a kind of transition metal	nongold
+59	resources sometimes are used for energy	nongold
+60	a nonrenewable resource is limited in supply	nongold
+61	an object; material; substance comes from that object or material's source	nongold
+62	Nevada produces more gold than any other state	nongold
+63	an element is a kind of  substance	nongold
+64	metals are made of metal	nongold
+65	iron is a kind of solid	nongold
+66	aluminum is recyclable	nongold
+67	a supply of something is a source of that something	nongold
+68	metal is a kind of substance	nongold
+69	an event is a kind of action	nongold
+70	petroleum is a kind of fossil fuel	nongold
+71	if something is a raw material in a process then that something is required for that process	nongold
+72	copper is a kind of element	nongold
+73	can be means able to be	nongold
+74	gold is a kind of element	nongold
+75	zinc is a kind of metal	nongold
+76	if an industry requires a resource then that industry predominates in areas with an abundance of that resource	nongold
+77	Which resource, abundant in Nevada, is nonrenewable?	question
+78	the Sierra Nevada is a kind of mountain range	nongold
+79	panda is a kind of animal	nongold
+80	ferrous metals contain iron	nongold
+81	metal is a kind of natural resource	nongold
+82	coal is a kind of fossil fuel	nongold
+83	aluminum is a nonrenewable resource	nongold
+84	food is a kind of resource	nongold
+85	answering questions requires information	nongold
+86	iron is a kind of element	nongold
+87	amount is similar to abundance	nongold
+88	copper is always nonmagnetic	nongold
+89	made up of means contains; made of	nongold
+90	lead is a kind of element	nongold
+91	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+92	plants are a kind of resource	nongold
+93	all elements are a kind of pure substance	nongold
+94	approximately means about	nongold
+95	most means over 50% of something	nongold
+96	copper	answer
+97	iron is a kind of mineral	nongold
+98	magnesium is a kind of alkaline earth metal	nongold
+99	a fossil fuel is a kind of natural resource	nongold
+100	a producer is a kind of living thing	nongold

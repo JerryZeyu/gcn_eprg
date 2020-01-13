@@ -1,0 +1,102 @@
+Question	A child rides a wagon down a hill. Eventually, the wagon comes to a stop. Which is most responsible for causing the wagon to stop?	question
+Answer	friction acting on the wagon	answer
+0	friction causes speed to decrease	nongold
+1	friction causes the speed of an object to decrease	gold
+2	friction is used for stopping a vehicle by brakes	nongold
+3	friction exerts force on moving objects	nongold
+4	to cause means to be responsible for	nongold
+5	stop means not move	nongold
+6	a wagon is a kind of vehicle	gold
+7	riding something is a kind of movement	nongold
+8	humans ride vehicles	gold
+9	riding is a kind of motion	gold
+10	motion; movement means moving; to move	gold
+11	skidding causes friction	nongold
+12	to slow; to slow down decreases speed	nongold
+13	friction is a kind of force	nongold
+14	a vehicle is a kind of object	gold
+15	friction occurs when two object's surfaces move against each other	nongold
+16	force causes the speed of an object to increase; to decrease	nongold
+17	riding something is to move that thing over a surface	gold
+18	to have a function is similar to to be responsible for	nongold
+19	friction converts mechanical energy into heat energy	nongold
+20	to drive means to cause	nongold
+21	to act on means to affect	nongold
+22	a child is a kind of young human	gold
+23	vibration is a kind of motion	nongold
+24	a human is a kind of animal	nongold
+25	an animal is a kind of living thing	nongold
+26	a vehicle is used for transportation	nongold
+27	a vehicle is used for travel	nongold
+28	stop; stopped means zero; 0; no speed	gold
+29	to be a source of something means to cause that something	nongold
+30	a surface is a part of an object	gold
+31	rolling is a kind of motion	nongold
+32	a cart is a kind of object	nongold
+33	a force is a kind of push or pull on an object	nongold
+34	to impact means to affect	nongold
+35	to reduce means to decrease	nongold
+36	friction acts to counter the motion of two objects when their surfaces are touching	gold
+37	a living thing is a kind of object	nongold
+38	moving is similar to travelling	nongold
+39	a surface is a kind of object	nongold
+40	travel means to move	nongold
+41	friction causes the temperature of an object to increase	nongold
+42	wheels; gears usually move against other surfaces	nongold
+43	a hill is a kind of incline	nongold
+44	a hill is a kind of place	nongold
+45	motion is when moves an object; something to a direction	nongold
+46	counter means reduce; stop; resist	gold
+47	affected means changed	nongold
+48	a horse is a kind of animal	nongold
+49	impact means effect	nongold
+50	causing means influencing	nongold
+51	as roughness of a surface increases , friction will increase	nongold
+52	causing is a kind of affecting	nongold
+53	as force exerted on an object increases , distance travelled will increase	nongold
+54	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+55	pulling is a kind of motion	nongold
+56	if a wheel travels on a surface then the wheel touches that surface	nongold
+57	to cause means to have an effect	nongold
+58	to change means to cause a change	nongold
+59	to cause something means to contribute to that something happening	nongold
+60	exerting force on an object means a force acts on an object	nongold
+61	pushing something can cause that something  to move	nongold
+62	movement is a kind of change	nongold
+63	a motion is a kind of event; action	nongold
+64	distance moved; distance travelled is a measure of how far an object moves	nongold
+65	a wheel is a kind of object	nongold
+66	objects are made of materials; substances; matter	nongold
+67	to cause is similar to bring	nongold
+68	riding in; driving in a vehicle means using that vehicle	nongold
+69	reducing is similar to slowing	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	a baby is a kind of young animal	nongold
+72	change is a kind of impact	nongold
+73	as an object is moving down , the speed of the object  will increase	nongold
+74	a pull is a kind of force	nongold
+75	transport means to move; to make travel	nongold
+76	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	nongold
+77	person is synonymous with human	nongold
+78	a person is a kind of animal	nongold
+79	tension is a kind of force	nongold
+80	a vehicle is a kind of tool for travel; transport	nongold
+81	a force acting on an object in the opposite direction that the object is moving can cause that object's speed to decrease in a forward motion	nongold
+82	an animal is a kind of organism	nongold
+83	a road is a kind of object	nongold
+84	as the speed of an object increases , the force that object exerts will increase	nongold
+85	an increase is a kind of change	nongold
+86	to change means to have an effect	nongold
+87	a wheeled vehicle requires smooth surfaces	nongold
+88	wheels are a part of a car	nongold
+89	lowering is a kind of motion	nongold
+90	motion is a source of kinetic energy in an object	nongold
+91	when a force is applied to an object , that force is acting on that object	nongold
+92	heat means heat energy	nongold
+93	a force continually acting on an object in the same direction that the object is moving can cause that object's speed to increase in a forward motion	nongold
+94	the function of something is what that something  is used to do	nongold
+95	sliding is a kind of motion	nongold
+96	extreme means very high in value	nongold
+97	downhill means down	nongold
+98	action can cause change	nongold
+99	walking is a kind of motion	nongold

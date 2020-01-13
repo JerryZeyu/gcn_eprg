@@ -1,0 +1,102 @@
+Question	Which of these processes is a conversion made by solar panels?	question
+Answer	radiant energy to electrical energy	answer
+0	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+1	solar cells convert solar energy into electrical energy	nongold
+2	radiant energy  is a kind of energy	nongold
+3	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+4	to transform means to convert	nongold
+5	solar energy is a kind of heat energy	nongold
+6	to convert means to change	nongold
+7	solar power means solar energy	nongold
+8	solar energy is a kind of energy	nongold
+9	electricity means electrical energy	nongold
+10	conversion is a kind of process	gold
+11	solar energy is a source of electricity	nongold
+12	energy conversion is similar to energy transformation	nongold
+13	sunlight is a kind of solar energy	nongold
+14	electrical energy is a kind of energy	nongold
+15	sunlight means solar energy	nongold
+16	a solar panel is made of solar cells	nongold
+17	converting is similar to producing	nongold
+18	solar energy is a kind of light	nongold
+19	heat is a kind of energy	nongold
+20	electricity is used as an energy source by electrical devices	nongold
+21	to convert means to exchange	nongold
+22	make means produce	nongold
+23	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+24	heat means heat energy	nongold
+25	a radiator is a source of heat	nongold
+26	synthesize means to make	nongold
+27	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+28	energy transformation means one kind of energy changes into another kind of energy	nongold
+29	radiation means radiant energy	gold
+30	sunlight produces heat	nongold
+31	a source of something emits; produces; generates; provides that something	nongold
+32	producing is a kind of process	nongold
+33	to power means to provide energy for	nongold
+34	solar panels are a kind of power supplies	nongold
+35	photovoltaic cells convert light energy into electricity	nongold
+36	forming is similar to converting	nongold
+37	products are formed; are produced; are created	nongold
+38	solar radiation means solar energy	nongold
+39	if something generates energy for something else then that something powers that something else	nongold
+40	conduction is a kind of process	nongold
+41	conductivity is a property of a material; substance	nongold
+42	manufacturing means making	nongold
+43	manufacture means make	nongold
+44	thermal energy is a kind of energy	nongold
+45	if something is a raw material then that something comes directly from a source	nongold
+46	evaporation is a kind of process	nongold
+47	a part of a process means a stage in a process	nongold
+48	the potential energy in fossil fuels mostly are converted into thermal energy	nongold
+49	if something is a raw material in a process then that something is required for that process	nongold
+50	converting is similar to generating	nongold
+51	a panel is a kind of object	nongold
+52	electric devices require electrical energy to function	nongold
+53	emit means produce	nongold
+54	temperature is a measure of heat energy	nongold
+55	a power plant converts chemical energy from energy source into electricity	nongold
+56	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+57	photosynthesis is a kind of chemical  process	nongold
+58	a complete electrical circuit is a source of  electrical energy	nongold
+59	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+60	generate means produce	nongold
+61	if something transfers something else then that something is a source of something else	nongold
+62	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+63	to be formed by is similar to being produced by	nongold
+64	process is similar to method	nongold
+65	convert is similar to transfer	nongold
+66	production is similar to making	nongold
+67	to add means to combine	nongold
+68	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+69	an object; material; substance comes from that object or material's source	nongold
+70	a process is a kind of event	nongold
+71	materials are used for making products by manufacturers	nongold
+72	can be means able to be	nongold
+73	if something is powered by something else then that something requires a source of that something else	nongold
+74	a source of heat can be used to heat something	nongold
+75	a source of heat can be used to heat something	nongold
+76	to turn means to convert	nongold
+77	if something comes from something else then that something else is a source of that something	nongold
+78	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+79	where something  comes from is a source of that something	nongold
+80	solar energy is a renewable; inexhaustible resource	nongold
+81	chemical energy is a kind of energy	nongold
+82	if something converts one kind of energy into other kinds of energy then that something originally stores that energy as the first kind of energy	nongold
+83	if something causes a process then that something is required for that process	nongold
+84	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+85	heating means adding heat	nongold
+86	if something emits something else then that something increases the amount of that something else	nongold
+87	a greenhouse converts sunlight from radiation into thermal energy	nongold
+88	to produce means to provide	nongold
+89	sunlight is a kind of light	nongold
+90	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+91	green plants are a kind of producer	nongold
+92	a cycle is a kind of process	nongold
+93	an electric motor converts electrical energy into mechanical energy	nongold
+94	metal is an  electrical; electrical energy conductor	nongold
+95	a component means a part of	nongold
+96	if something requires something else then that something requires a source of that something else	nongold
+97	electrical devices are used for industrial purposes; household purposes by humans	nongold
+98	metal is a thermal; thermal energy conductor	nongold
+99	change is a kind of process	nongold

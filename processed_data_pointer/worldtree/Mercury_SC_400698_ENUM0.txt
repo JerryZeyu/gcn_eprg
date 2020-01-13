@@ -1,0 +1,102 @@
+Question	What kind of energy change occurs when a battery is operating a remote control toy?	question
+Answer	Potential energy is changed to kinetic energy.	answer
+0	operating a remote-control toy causes that toy to move	gold
+1	changes potential energy into kinetic energy through motion	gold
+2	a battery is a kind of object	nongold
+3	potential energy is a kind of energy	nongold
+4	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+5	kinetic energy is a kind of mechanical energy	nongold
+6	stopping a moving object changes kinetic energy into potential energy	nongold
+7	potential energy means stored energy	nongold
+8	charging a battery is when energy is converted into potential energy in the battery to store the energy	nongold
+9	battery-powered is similar to battery-operated	nongold
+10	the kinetic energy of an object can change from kinetic energy to sound energy by hitting another object	nongold
+11	motion is a source of kinetic energy in an object	nongold
+12	energy transformation means one kind of energy changes into another kind of energy	nongold
+13	a battery-operated device is a kind of electrical device	nongold
+14	as kinetic energy increases , the potential energy will decrease	nongold
+15	mechanical energy of a system includes the sum of kinetic energy and potential energy  in the system	nongold
+16	an increase is a kind of change	nongold
+17	a device is a kind of object	nongold
+18	An example of an object with kinetic energy is an object in motion	nongold
+19	chemical energy is a kind of potential energy	nongold
+20	potential is a kind of ability	nongold
+21	to convert means to change	nongold
+22	to add means to increase	nongold
+23	variable means able to change	nongold
+24	potential energy is a measure of the energy of an object due to position relative to other objects	nongold
+25	a battery contains chemical energy	nongold
+26	to happen means to occur	nongold
+27	temperature is a measure of kinetic energy of molecules	nongold
+28	energy conversion is similar to energy transformation	nongold
+29	a battery is a source of electrical energy; electricity	gold
+30	a  battery  is a kind of electrical power source	nongold
+31	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+32	as an object moves faster , the kinetic energy of that object will increase	nongold
+33	high is similar to increase	nongold
+34	electricity is made of moving charges; moving charged particles	nongold
+35	a machine is a kind of  device	nongold
+36	a machine is a kind of object	nongold
+37	transfer is a kind of change	nongold
+38	a toy car is a kind of object	nongold
+39	affected means changed	nongold
+40	phase means state	nongold
+41	as the amount of heat energy of a substance; of an object increases , the amount of kinetic energy will increase	nongold
+42	a device requires energy to operate	nongold
+43	to change means to cause a change	nongold
+44	gravitational potential energy is a kind of potential energy	nongold
+45	movement is a kind of change	nongold
+46	objects are made of materials; substances; matter	nongold
+47	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+48	batteries convert chemical energy to electrical energy	nongold
+49	if the amount of electricity converted from the potential energy of an object is less than the amount of potential energy in the object , then the  potential energy is converted into other energy other than electricity	nongold
+50	mechanical energy is a kind of energy	nongold
+51	motion; movement means moving; to move	nongold
+52	convert is similar to transfer	nongold
+53	heat is a kind of energy	nongold
+54	matter; materials; substances are made of atoms; particles	nongold
+55	a living thing is a kind of object	nongold
+56	electrical energy is a kind of energy	nongold
+57	form means kind	nongold
+58	an electromagnet is a kind of device	nongold
+59	can be means able to be	nongold
+60	action can cause change	nongold
+61	converting is similar to releasing	nongold
+62	a source of something emits; produces; generates; provides that something	nongold
+63	extreme means very high in value	nongold
+64	evaporating is a kind of phase change	nongold
+65	as the  amount of heat energy of a substance; of an object decreases , the amount of kinetic energy will decrease	nongold
+66	emit means produce	nongold
+67	to emit means to release	nongold
+68	molecules; atoms are constantly; always moving; vibrating in substance;matter	nongold
+69	a change is a kind of event	nongold
+70	as the altitude of an object increases ,  the  potential energy of the object  will increase	nongold
+71	when an animal moves , chemical energy is converted to mechanical energy	nongold
+72	charged particles are a kind of high-energy particles	nongold
+73	events occur at a specific place; at a specific time; with a specific frequency	nongold
+74	to slow; to slow down decreases speed	nongold
+75	as the mass of an object increases , the potential energy of that object will increase	nongold
+76	storing energy in batteries means charging batteries	nongold
+77	strong means high in strength	nongold
+78	unchanged means not changed	nongold
+79	faster means an increase; higher in speed	nongold
+80	a decrease is a kind of change	nongold
+81	device means tool	nongold
+82	batteries can be used to power electrical devices	nongold
+83	a phase change is a kind of physical change	nongold
+84	if something causes an increase in something else then that something produces that something else	nongold
+85	when one kind of energy changes into another kind of energy , the total amount of energy is constant	nongold
+86	electricity means electrical energy	nongold
+87	counter means reduce; stop; resist	nongold
+88	maintain is similar to control	nongold
+89	a generator converts kinetic energy into electrical energy; electricity	nongold
+90	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+91	a particle is a kind of object	nongold
+92	as kinetic energy of an object increases , that object will travel faster	nongold
+93	an animal is a kind of living thing	nongold
+94	an increase is the opposite of a decrease	nongold
+95	something that happens is a kind of event	nongold
+96	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+97	compressing an object increases the potential energy in the object	nongold
+98	magnetic energy is a kind of energy	nongold
+99	converting is similar to producing	nongold

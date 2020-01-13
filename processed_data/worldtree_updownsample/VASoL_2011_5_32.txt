@@ -1,0 +1,61 @@
+0	a tree is a kind of plant	gold
+1	a tree is a kind of plant	gold
+2	form means kind	nongold
+3	a trunk is a part of a tree for supporting the tree	nongold
+4	a worm is a kind of animal	nongold
+5	an apple tree is a kind of plant	nongold
+6	cell division means cell reproduction	nongold
+7	a single-cell organism cannot specialize	nongold
+8	basic life functions occur in the cells of organisms	nongold
+9	made of is similar to contains	nongold
+10	a single-celled organism's organelles are like the organs of a multi-celled organism	nongold
+11	an animal is a kind of living thing	nongold
+12	bark is a part of a tree	nongold
+13	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	gold
+14	a plant is made of plant cells	gold
+15	a plant is a kind of organism	gold
+16	A pine tree	answer
+17	an animal cell is a kind of cell	nongold
+18	a pine tree is a kind of tree	gold
+19	the cell wall causes the plant cell to be  more rigid than the animal cell	nongold
+20	the cell is the most basic structural unit of life	nongold
+21	the cell membrane is the membrane around the cell of all living things	nongold
+22	a leaf is a part of a tree	nongold
+23	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	gold
+24	the cell membrane is a part of a cell	nongold
+25	vacuoles are found in cells	nongold
+26	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	gold
+27	the parent cell is the original cell	nongold
+28	a plant is made of plant cells	gold
+29	a plant is a kind of organism	gold
+30	Which of these organisms has cells with cell walls?	question
+31	A pine tree	answer
+32	plant parts are made of plants	nongold
+33	a pine tree is a kind of tree	gold
+34	Which of these organisms has cells with cell walls?	question
+35	a cell absorbs nutrients	nongold
+36	a tree is a kind of living thing	nongold
+37	a fungus is a kind of living thing	nongold
+38	an animal; living thing requires nutrients for survival	nongold
+39	A pine tree	answer
+40	an organism is a living thing	nongold
+41	Which of these organisms has cells with cell walls?	question
+42	a cell is a kind of object	nongold
+43	a plant cell is box-like in shape	nongold
+44	a human is a kind of animal	nongold
+45	a living thing is a kind of object	nongold
+46	organs are made of different types of  cellular tissues	nongold
+47	Which of these organisms has cells with cell walls?	question
+48	a living thing is made of cells	nongold
+49	organisms mean life	nongold
+50	can be means able to be	nongold
+51	a plant is made of plant cells	gold
+52	a pine tree is a kind of tree	gold
+53	a plant; living thing requires food for survival	nongold
+54	a structure of something is synonymous with a part of that something	nongold
+55	A pine tree	answer
+56	a plant is a kind of organism	gold
+57	tissue is a kind of group of cells with a common structure that work together to perform a similar function	nongold
+58	a plant cell is a kind of cell	nongold
+59	a needle is a part of conifer trees	nongold
+60	a tree is a kind of plant	gold

@@ -1,0 +1,102 @@
+Question	Electricity has many uses. Which device is designed to transform electrical energy into useful heat energy?	question
+Answer	an electric stove	answer
+0	an electric stove changes electrical energy into heat energy	gold
+1	useful means able to be used	nongold
+2	a stove is a kind of machine	gold
+3	a stove is used for cooking by generating heat	nongold
+4	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+5	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+6	electrical devices are used for industrial purposes; household purposes by humans	nongold
+7	useful means good to use	nongold
+8	a stove generates heat for cooking usually	gold
+9	electricity sometimes is used for heating buildings; substances	nongold
+10	electric devices require electrical energy to function	nongold
+11	a burner is a part of a  stove	nongold
+12	a machine is a kind of  device	gold
+13	electricity means electrical energy	nongold
+14	to be used for something means to be required by that something	nongold
+15	electricity is used as an energy source by electrical devices	nongold
+16	heat energy is synonymous with thermal energy	nongold
+17	to transform means to convert	nongold
+18	heating means adding heat	nongold
+19	heat means heat energy	gold
+20	device means tool	nongold
+21	temperature is a measure of heat energy	nongold
+22	operating electrical appliances requires electricity	nongold
+23	metal is a thermal; thermal energy conductor	nongold
+24	the function of something is what that something  is used to do	nongold
+25	electrical energy is a kind of energy	nongold
+26	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+27	a source of heat can be used to heat something	nongold
+28	a source of heat can be used to heat something	nongold
+29	a thermal conductor is made of materials that conduct thermal energy	nongold
+30	thermal energy is a kind of energy	nongold
+31	metal is an  electrical; electrical energy conductor	nongold
+32	a burner is a kind of object; surface	nongold
+33	heat is a kind of energy	nongold
+34	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+35	household appliances are a kind of electrical device	nongold
+36	a source of something emits; produces; generates; provides that something	nongold
+37	a device is a kind of object	nongold
+38	an electrical device requires electricity to turn on	nongold
+39	instrument means device	nongold
+40	energy conversion is similar to energy transformation	nongold
+41	energy transformation means one kind of energy changes into another kind of energy	nongold
+42	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+43	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+44	a machine is a kind of object	nongold
+45	a hot; warm something is a source of heat	nongold
+46	emit means produce	nongold
+47	if something is powered by something else then that something requires a source of that something else	nongold
+48	a burner is made of metal	nongold
+49	to provide something means to be the source of that something	nongold
+50	if an object is made of a material then that object has the properties of that material	nongold
+51	thermal conduction is when heat flows from warmer object to cooler object	nongold
+52	a battery is a source of electrical energy; electricity	nongold
+53	to serve as means to be used as	nongold
+54	combustion means fire converts chemical energy into light energy and heat energy	nongold
+55	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+56	to power means to provide energy for	nongold
+57	an oven is a kind of electrical device	nongold
+58	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+59	to depend on; to rely on; to need means to require	nongold
+60	energy is used for heating a building by a heating system	nongold
+61	a device requires energy to operate	nongold
+62	form means kind	nongold
+63	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+64	heat energy  can be used to heat up  an object	nongold
+65	hot means high in heat energy; temperature	nongold
+66	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+67	if something requires something else then that something requires a source of that something else	nongold
+68	if too much heat is transferred to an object then that object may burn	nongold
+69	electromagnets can be powered by electricity	nongold
+70	pot;pan;frying pan is made of metal for cooking	nongold
+71	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+72	to give off means to be the source of	nongold
+73	an electromagnet is a kind of device	nongold
+74	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+75	converting is similar to producing	nongold
+76	to produce means to provide	nongold
+77	to convert means to change	nongold
+78	to help; to benefit means to be of use	nongold
+79	producing electricity sometimes requires burning oil	nongold
+80	adding heat means increasing temperature	nongold
+81	brick is an electrical; electrical energy insulator	nongold
+82	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+83	an insulator is the opposite of a conductor	nongold
+84	person is synonymous with human	nongold
+85	heat sink is a kind of device	nongold
+86	water is an thermal; thermal energy conductor	nongold
+87	a power plant converts chemical energy from energy source into electricity	nongold
+88	if something transfers something else then that something is a source of something else	nongold
+89	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+90	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+91	converting is a kind of function	nongold
+92	to use means to utilize	nongold
+93	a generator is a kind of  device	nongold
+94	to add means to increase	nongold
+95	a solar panel converts sunlight; solar energy into electrical energy; electricity	nongold
+96	a complete electrical circuit is a source of  electrical energy	nongold
+97	if something generates energy for something else then that something powers that something else	nongold
+98	electricity is made of moving charges; moving charged particles	nongold
+99	convert is similar to transfer	nongold

@@ -1,0 +1,68 @@
+0	a cell nucleus is a part of a cell	nongold
+1	a plant is a kind of organism	nongold
+2	a piece is a part of a whole	nongold
+3	a plant cell is a kind of cell	gold
+4	answering questions requires information	nongold
+5	an part of an object is smaller than the entire object	gold
+6	to enable is to help	nongold
+7	determining often requires measuring; observing	nongold
+8	a plant cell is a kind of cell	gold
+9	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	gold
+10	if an object is made of something then the parts of that object are made of that something	nongold
+11	an animal cell is a kind of cell	nongold
+12	a whole is formed by its parts	nongold
+13	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+14	microscope	answer
+15	look at means observe	nongold
+16	an part of an object is smaller than the entire object	gold
+17	detecting is similar to observing	nongold
+18	helping means to assist in a change	nongold
+19	to be good for means to have a positive impact on	nongold
+20	measuring is a kind of observing	nongold
+21	a microscope is a kind of tool for observing small things	gold
+22	an electron microscope is used for seeing very small objects by making them appear bigger	nongold
+23	microscope	answer
+24	a microscope is a kind of tool for observing small things	gold
+25	helping means something can be done; completed more easily; better	gold
+26	an part of an object is smaller than the entire object	gold
+27	a plant cell contains chloroplasts	nongold
+28	as the size of an object appears larger , that object will be seen;be observed more easily; better	gold
+29	plant parts are made of plants	nongold
+30	a user is a kind of person	nongold
+31	a microscope is a kind of tool for observing small things	gold
+32	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+33	instrument means device	nongold
+34	helping means something can be done; completed more easily; better	gold
+35	a cell wall is the outermost structure of a plant cell	nongold
+36	a plant cell is a kind of cell	gold
+37	a cell is very small	gold
+38	Which tool would best help a person observe the parts of a plant cell?	question
+39	viewing means observing light	nongold
+40	microscopic means very small in size	nongold
+41	Which tool would best help a person observe the parts of a plant cell?	question
+42	the parts of something make up that something	nongold
+43	best means most positive	nongold
+44	inspect; observe means examine	nongold
+45	as the size of an object appears larger , that object will be seen;be observed more easily; better	gold
+46	Which tool would best help a person observe the parts of a plant cell?	question
+47	a human is a kind of mammal	nongold
+48	an instrument is a piece of equipment	nongold
+49	Which tool would best help a person observe the parts of a plant cell?	question
+50	an object is made of its parts	nongold
+51	learning about something sometimes requires observing that something	nongold
+52	vegetation means plants	nongold
+53	a type is synonymous with a kind	nongold
+54	seeing is used for sensing visual things	nongold
+55	as the size of an object appears larger , that object will be seen;be observed more easily; better	gold
+56	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	gold
+57	making discoveries requires observing	nongold
+58	human is similar to individual	nongold
+59	helping means something can be done; completed more easily; better	gold
+60	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	gold
+61	microscope	answer
+62	a cell is very small	gold
+63	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+64	microscope	answer
+65	a cell is very small	gold
+66	to observe means to gather information	nongold
+67	looking is similar to observing	nongold

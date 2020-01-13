@@ -1,0 +1,102 @@
+0	Which is a learned behavior?	question
+1	A chimpanzee digs for termites with a stick.	answer
+2	An example of using tools is a chimpanzee digging for insects with a stick	gold
+3	a termite is a kind of insect	gold
+4	a stick is a kind of object	nongold
+5	a living thing is a kind of object	nongold
+6	an animal is a kind of living thing	nongold
+7	if an animal is trained to do something then that something is a learned behavior	nongold
+8	actions mean behavior	nongold
+9	skills are learned characteristics; behaviors	nongold
+10	an animal is a kind of organism	nongold
+11	using tools is a learned characteristic	gold
+12	to digest means to break down food	nongold
+13	a behavior is a kind of characteristic	gold
+14	a human is a kind of animal	nongold
+15	if a living thing requires something then that something has a positive impact on that living thing	nongold
+16	a tool is a kind of object	nongold
+17	an organism is a living thing	nongold
+18	communication is a learned behavior	nongold
+19	a predator avoiding some types of prey is a learned behavior	nongold
+20	a monkey is a kind of mammal	nongold
+21	an animal; living thing requires nutrients for survival	nongold
+22	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+23	instrument means tool	nongold
+24	animals learn some behaviors from watching their parents	nongold
+25	social behavior is a kind of learned behavior	nongold
+26	a mammal is a kind of animal	nongold
+27	a landform is a kind of object	nongold
+28	walking is a kind of behavior	nongold
+29	conditioned behavior is a kind of learned behavior	nongold
+30	rolling in mud is a learned behavior	nongold
+31	an environment means an area	nongold
+32	food is a kind of object	nongold
+33	answering questions requires information	nongold
+34	a worm is a kind of living thing	nongold
+35	prey  is a kind of animal	nongold
+36	helping something has a  positive impact on that something	nongold
+37	locomotion is a generally learned behavior	nongold
+38	prey is a kind of food for predators	nongold
+39	life means living things	nongold
+40	animal instinct means instinctive behavior	nongold
+41	an insect is a kind of animal	nongold
+42	doing chores is a learned characteristic	nongold
+43	a rabbit is a kind of animal	nongold
+44	a worm is a kind of animal	nongold
+45	predators eat prey	nongold
+46	organisms are a part of an environment	nongold
+47	objects in an environment are a part of that environment	nongold
+48	a predator is a kind of animal	nongold
+49	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+50	a fungus is a kind of living thing	nongold
+51	a food contains nutrients for living things	nongold
+52	begging for food is a kind of conditioned behavior	nongold
+53	soil is usually part of an environment	nongold
+54	doing something more is a kind of conditioned behavior	nongold
+55	harming something has a  negative impact on; effect on that something	nongold
+56	an insect is a kind of prey	nongold
+57	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+58	a trick is a learned behavior	nongold
+59	most predators live in; live near the same environment as their prey	nongold
+60	a part of a living thing is a natural structure	nongold
+61	an event is a kind of action	nongold
+62	soil is a part of the ground outside	nongold
+63	an part of an object is smaller than the entire object	nongold
+64	survive means live	nongold
+65	survive means live	nongold
+66	a learned characteristic is a kind of acquired characteristic	nongold
+67	motion; movement means moving; to move	nongold
+68	following orders is a learned characteristic	nongold
+69	soil is a kind of nonliving thing	nongold
+70	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+71	fur is a part of a monkey	nongold
+72	an animal is a member of an animal species	nongold
+73	learning; studying information causes one to know that information	nongold
+74	a process is a kind of event	nongold
+75	learning about something sometimes requires observing that something	nongold
+76	living things eat their food source	nongold
+77	a source of something emits; produces; generates; provides that something	nongold
+78	animals; living things live and feed in their habitats; near their habitats	nongold
+79	hunting; scavenging is a kind of skill	nongold
+80	become prey means get eaten	nongold
+81	to impact means to affect	nongold
+82	nest building is a kind of behavior	nongold
+83	high is similar to increase	nongold
+84	a living thing is made of cells	nongold
+85	impact means effect	nongold
+86	legs are usually a part of an animal	nongold
+87	requiring is similar to needing help	nongold
+88	an animal knows how to do  instinctive behaviors when it is born	nongold
+89	a reptile is a kind of animal	nongold
+90	adapting is when a living thing responds to a change in an environment	nongold
+91	person is synonymous with human	nongold
+92	negative impact is the opposite of positive impact	nongold
+93	a predator eats other animals for food	nongold
+94	howling is a kind of behavior	nongold
+95	killing means changing a living thing from alive to dead by harming	nongold
+96	if an organism eats something then that something is a source of frood to that organism	nongold
+97	panda is a kind of animal	nongold
+98	an animal requires energy to move	nongold
+99	an instrument is a piece of equipment	nongold
+100	determining is similar to learning	nongold
+101	feeling is when an living thing senses through touch	nongold

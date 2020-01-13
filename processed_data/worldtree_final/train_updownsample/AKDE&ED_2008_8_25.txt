@@ -1,0 +1,49 @@
+0	answering questions requires information	nongold
+1	less is similar to decrease	nongold
+2	to depend on; to rely on; to need means to require	nongold
+3	100% probability means always	nongold
+4	a human is a kind of animal	nongold
+5	faster means increased rate	nongold
+6	likelihood is simiar to probability	nongold
+7	hypothesis means scientific guess about the cause and effect of an event	nongold
+8	if something causes an increase in something else then that something produces that something else	nongold
+9	determining is similar to learning	nongold
+10	high is similar to increase	nongold
+11	to improve the chances means to increase the likelihood	nongold
+12	causing means influencing	nongold
+13	to increase the likelihood of accurate experiment results	answer
+14	scientists make observations	nongold
+15	bias can cause error in an experiment	nongold
+16	Why do scientists perform multiple trials of the same experiment?	question
+17	faster means an increase; higher in speed	nongold
+18	result means outcome	nongold
+19	repeating the same experiment can be used for comparing  data	nongold
+20	a process usually requires all of the stages in that process	nongold
+21	may happen means having a chance of happening	nongold
+22	Why do scientists perform multiple trials of the same experiment?	question
+23	an animal is a kind of living thing	nongold
+24	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	gold
+25	to increase the likelihood of accurate experiment results	answer
+26	an increase is a kind of change	nongold
+27	to increase the likelihood of accurate experiment results	answer
+28	product means result	nongold
+29	observations; data are a part of the results of an experiment	nongold
+30	to increase the likelihood of accurate experiment results	answer
+31	researcher is a kind of scientist	nongold
+32	to cause means to have an effect	nongold
+33	increase means more	nongold
+34	too much is similar to increase	nongold
+35	to add means to increase	nongold
+36	analyzing all results has a  positive impact on the effort to remain objective during experiments	nongold
+37	an event is a kind of action	nongold
+38	something that happens is a kind of event	nongold
+39	experiment is synonymous with test	nongold
+40	once means one time	nongold
+41	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	gold
+42	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	gold
+43	events occur at a specific place; at a specific time; with a specific frequency	nongold
+44	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+45	Why do scientists perform multiple trials of the same experiment?	question
+46	if something changes , then that something is not the same	nongold
+47	can be means able to be	nongold
+48	Why do scientists perform multiple trials of the same experiment?	question

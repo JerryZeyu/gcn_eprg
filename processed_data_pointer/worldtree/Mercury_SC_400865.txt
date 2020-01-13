@@ -1,0 +1,102 @@
+Question	What event happens in a daily cycle?	question
+Answer	high and low tides	answer
+0	a cycle happens; occurs repeatedly	nongold
+1	high tide is a stage in the tide cycle process	gold
+2	ocean tides are a kind of phenomenon	nongold
+3	daily means every day; once per day	gold
+4	something that happens is a kind of event	gold
+5	the tide is when ocean levels periodically rise; fall	nongold
+6	the tide cycle occurs regularly twice per day	gold
+7	low tide is a stage in the tide cycle process	gold
+8	a motion is a kind of event; action	nongold
+9	events occur at a specific place; at a specific time; with a specific frequency	nongold
+10	a tide is a kind of natural event	nongold
+11	spring tide is similar to high tide	nongold
+12	spring tide is when high tide is at its greatest distance from low tide	nongold
+13	to happen means to occur	gold
+14	everyday means daily	nongold
+15	the gravitational pull of the Sun on Earth's oceans causes the tides	nongold
+16	the gravitational pull of the Moon on Earth's oceans causes the tides	nongold
+17	tidal means related to tides	nongold
+18	event is similar to occurrence	nongold
+19	spring tides occur during a full moon	nongold
+20	cycles of day and night occur once per day	nongold
+21	spring tides occur during a new moon	nongold
+22	high is similar to increase	nongold
+23	a process is a kind of event	nongold
+24	a change is a kind of event	nongold
+25	take place means happen	nongold
+26	low means down	nongold
+27	an event is a kind of action	nongold
+28	days are a kind of unit for measuring time	nongold
+29	a cycle is a kind of process	nongold
+30	low is similar to decrease	nongold
+31	to cause an event is similar to being involved in that event	nongold
+32	high means a lot of something	nongold
+33	monthly means once per month	nongold
+34	the sun setting is a kind of event	nongold
+35	sea means ocean	nongold
+36	tidal range is a measure of the vertical distance from high tide to low tide	nongold
+37	an ocean is a kind of body of water	nongold
+38	low means low in elevation; height; altitude	nongold
+39	annual means once per year	nongold
+40	hours are a kind of unit for measuring time	nongold
+41	the day time is part of one day	nongold
+42	extreme means very high in value	nongold
+43	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+44	answering questions requires information	nongold
+45	low is the opposite of high	nongold
+46	length of time means period of time	nongold
+47	frequency is a property of a wave; a particel of light; an event	nongold
+48	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+49	once per means every	nongold
+50	Tuesday is a kind of  time	nongold
+51	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+52	as the gravitational pull of the moon on the Earth decreases , the size of the tides on Earth decrease	nongold
+53	to add means to increase	nongold
+54	as gravitational pull of the moon decreases , the ocean tides will be lower	nongold
+55	movements of celestial bodies are a kind of event	nongold
+56	the sun rising is a kind of event	nongold
+57	months are a kind of unit for measuring time	nongold
+58	to cause means to result in	nongold
+59	period is similar to amount of time	nongold
+60	the sun rising and setting causes cycles of day and night	nongold
+61	1 day is equal to 24 hours	nongold
+62	yearly means every year	nongold
+63	to pass means to occur	nongold
+64	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+65	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+66	a unit for measuring time is a kind of time interval	nongold
+67	rate is similar to speed	nongold
+68	Earth's revolution is a kind of cycle	nongold
+69	the night time is part of one day	nongold
+70	boiling is a kind of event	nongold
+71	quickly means in a short period of time	nongold
+72	plants appearing on Earth is a kind of event	nongold
+73	affected means changed	nongold
+74	lowest means least in value; amount; number	nongold
+75	if an event occurs by adding something then that event requires that something	nongold
+76	month is a kind of period of time	nongold
+77	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+78	all the time means at day and at night	nongold
+79	a part of a process means a stage in a process	nongold
+80	the water cycle occurs on Earth	nongold
+81	coastline means coast	nongold
+82	storm is a kind of weather; weather event	nongold
+83	greatest means largest; highest; most amount of something	nongold
+84	to keep a process or event happening is similar to causing that process or event to happen	nongold
+85	death means to die	nongold
+86	years are a kind of unit for measuring time	nongold
+87	usual means happens frequently over long periods of time	nongold
+88	a phenomenum is a kind of event	nongold
+89	to slow; to slow down decreases speed	nongold
+90	furthest; farthest means greatest; most; highest in distance	nongold
+91	an increase is a kind of change	nongold
+92	An example of a physical cycle is the water cycle	nongold
+93	a coast is where land meets the edge of a body of water	nongold
+94	a type is synonymous with a kind	nongold
+95	minutes are a kind of unit for measuring time	nongold
+96	a process usually requires all of the stages in that process	nongold
+97	variable means able to change	nongold
+98	rapidly means quickly	nongold
+99	gradual means slow; over time	nongold

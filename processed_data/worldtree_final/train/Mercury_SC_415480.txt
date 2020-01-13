@@ -1,0 +1,102 @@
+0	Which change would most likely increase the number of salamanders?	question
+1	flood	answer
+2	a salamander is a kind of aquatic animal	nongold
+3	salamanders are sometimes aquatic animals	nongold
+4	a salamander is a kind of amphibian	nongold
+5	flooding is a kind of change	gold
+6	a salamander eats insects	nongold
+7	when a body of water receives more water than it can hold , a flood occurs	gold
+8	if an animal cannot fly; climb then that animal will be more affected by a flood	nongold
+9	an increase is a kind of change	nongold
+10	a decrease is a kind of change	nongold
+11	killing a living thing decreases the number; population size of that living thing	nongold
+12	as elevation of a place decreases , how much a flood will affect that place will increases	nongold
+13	an amphibian is a kind of animal	nongold
+14	flooding decreases the availability of food	nongold
+15	high is similar to increase	nongold
+16	reproduction increases the number; population of a living thing	nongold
+17	an increase is the opposite of a decrease	nongold
+18	a source of something increases the amount of that something	nongold
+19	population is a measure of the number of a species in an environment	gold
+20	to add means to increase	nongold
+21	an amphibian is cold-blooded	nongold
+22	an insect is a kind of animal	nongold
+23	an animal is a kind of living thing	nongold
+24	to reduce means to decrease	nongold
+25	an organism is a living thing	nongold
+26	an animal is a member of an animal species	nongold
+27	to lower means to decrease	nongold
+28	if something emits something else then that something increases the amount of that something else	nongold
+29	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+30	amount is similar to number	nongold
+31	more likely means increased likelihood	nongold
+32	low is similar to decrease	nongold
+33	a frog is a kind of animal	nongold
+34	a living thing is a kind of object	nongold
+35	predators eat prey	nongold
+36	omnivores eat plants; animals	nongold
+37	when a river floods , that river deposits soil; sediment in flood plains	nongold
+38	affected means changed	nongold
+39	flood plains are located near rivers	nongold
+40	many means high in number	nongold
+41	an aquatic animal is a kind of animal	nongold
+42	fewer means lower; less in number	nongold
+43	species means a group of like organisms	nongold
+44	a floodplain is a kind of land; landform	nongold
+45	often is similar to likely	nongold
+46	positive impacts on a species will increase populations of a species	nongold
+47	an amoeba is a kind of organism	nongold
+48	as the cause of something decreases , that something will decrease	nongold
+49	abundant means high in number	nongold
+50	less is similar to decrease	nongold
+51	greatest means largest; highest; most amount of something	nongold
+52	growth means size;number;value;strength increases	nongold
+53	if members of a species are born; survive then the population of that species increases	nongold
+54	how many means what number	nongold
+55	heavy rains cause flooding	nongold
+56	carnivores; omnivores are predators	nongold
+57	greater means higher; more in value	nongold
+58	metamorphosis is when an amphibian; insect changes from  an immature form to an adult form	nongold
+59	most predators live in; live near the same environment as their prey	nongold
+60	a type is synonymous with a kind	nongold
+61	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+62	little is similar to decrease	nongold
+63	higher means greater; above in value; amount; number	nongold
+64	carnivores; omnivores; herbivores are a kind of animal	nongold
+65	to change means to cause a change	nongold
+66	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+67	a frog is a kind of aquatic animal	nongold
+68	one is a kind of number	nongold
+69	increase means more	gold
+70	a predator is a kind of animal	nongold
+71	if something has a positive impact on an organism's growth then that something increases the population of that organism	nongold
+72	to limit means to decrease	nongold
+73	alligators eat frogs; turtles; fish; mice; birds	nongold
+74	as distance from a source of something increases , that something will decrease	nongold
+75	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+76	an animal is a kind of organism	nongold
+77	prey is a kind of food for predators	nongold
+78	to turn means to change	nongold
+79	if an amount of objects decreases then those objects are fewer in number	nongold
+80	harming something has a  negative impact on; effect on that something	nongold
+81	predators; carnivores; omnivores eat other animals	nongold
+82	getting something increases the amount of that something	nongold
+83	lowest means least in value; amount; number	nongold
+84	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+85	killing means changing a living thing from alive to dead by harming	nongold
+86	having no natural predators increases population size	nongold
+87	carnivores only eat animals	nongold
+88	to change means to have an effect	nongold
+89	a frog eats insects	nongold
+90	aquatic animals; plants live in bodies of water	gold
+91	adult amphibians live on land	nongold
+92	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+93	negative impacts on a species will decrease populations of a species	nongold
+94	to slow; to slow down decreases speed	nongold
+95	the number of parts of something is a property of that something	nongold
+96	largest amount means most	nongold
+97	larger means greater; higher; more; increase in size	nongold
+98	harming an animal species causes that animal's population to decrease	nongold
+99	prey  is a kind of animal	nongold
+100	a predator usually kills its prey to eat it	nongold
+101	young amphibians live in water	nongold

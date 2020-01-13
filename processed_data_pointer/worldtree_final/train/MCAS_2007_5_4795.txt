@@ -1,0 +1,101 @@
+0	an object has properties	nongold
+1	a person requires instructions to assemble a kit; something	gold
+2	requiring is similar to needing help	nongold
+3	Rachel is a name for a human	gold
+4	greatest means largest; highest; most amount of something	nongold
+5	a product is a kind of object	nongold
+6	high is similar to increase	nongold
+7	a board is a kind of object	nongold
+8	if something causes a process then that something is required for that process	nongold
+9	a material is a kind of resource	nongold
+10	to cause means to make	nongold
+11	a stick is a kind of object	nongold
+12	make means produce	nongold
+13	rolling down a ramp is a kind of rolling	nongold
+14	a tool is a kind of object	nongold
+15	system means a set of objects	nongold
+16	transport means to move; to make travel	nongold
+17	to be good for means to have a positive impact on	nongold
+18	a source of something emits; produces; generates; provides that something	nongold
+19	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+20	a component of something means a part of that something	nongold
+21	direction is similar to instruction	nongold
+22	setting is a kind of motion	nongold
+23	form means kind	nongold
+24	a ramp is a kind of object	nongold
+25	can be means able to be	nongold
+26	a component means a part of	nongold
+27	a process is a kind of event	nongold
+28	objects are made of materials; substances; matter	nongold
+29	best means most positive	nongold
+30	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+31	what something needs is a property of that something	nongold
+32	a surface is a part of an object	nongold
+33	an object is an item	nongold
+34	break down is the opposite of put together	nongold
+35	a living thing is a kind of object	nongold
+36	a type is synonymous with a kind	nongold
+37	an animal is a kind of consumer	nongold
+38	making something requires resources	nongold
+39	a motion is a kind of event; action	nongold
+40	following orders is a learned characteristic	nongold
+41	to make possible means to be required	nongold
+42	a set of instructions for the kit materials	answer
+43	an object is made of its parts	nongold
+44	materials are used for making products by manufacturers	nongold
+45	a vehicle is a kind of object	nongold
+46	instructions are a part of kits	gold
+47	a concern; a problem is a possible negative impact	nongold
+48	to help; to benefit means to be of use	nongold
+49	motion is when moves an object; something to a direction	nongold
+50	materials are made of matter	nongold
+51	a vehicle is used for transportation	nongold
+52	to be a vehicle for is a kind of function	nongold
+53	distance moved; distance travelled is a measure of how far an object moves	nongold
+54	a kit usually contains materials for assembling something	gold
+55	to be used  for something means to help to do that something	nongold
+56	to create means to make	nongold
+57	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+58	speed is a measure of how fast an object is moving	nongold
+59	requiring something means needing that something	nongold
+60	creating means making	nongold
+61	a roller skate is a kind of vehicle	nongold
+62	placing is a kind of action	nongold
+63	an part of an object is smaller than the entire object	nongold
+64	wheels are a part of roller skates	nongold
+65	if an object is made of something then the parts of that object are made of that something	nongold
+66	to make means to build	nongold
+67	metal is a kind of material	nongold
+68	assembling means putting together	gold
+69	An example of following orders is coming when called	nongold
+70	Rachel purchased a kit for making a skateboard ramp. Which of the following is most important to have for putting the ramp together?	question
+71	increase means more	nongold
+72	the function of something is what that something  is used to do	nongold
+73	role is similar to importance	nongold
+74	good means positive	nongold
+75	a structure of something is synonymous with a part of that something	nongold
+76	a surface is a part of a material	nongold
+77	if something has a positive impact on something else then that something is important to that something else	nongold
+78	a vehicle is a kind of tool for travel; transport	nongold
+79	motion; movement means moving; to move	nongold
+80	better means good	nongold
+81	an event is a kind of action	nongold
+82	an animal is a kind of living thing	nongold
+83	to be used for something means to be required by that something	nongold
+84	material means substance	nongold
+85	if an object is made of a material then that object has the properties of that material	nongold
+86	a wheel is a kind of object	nongold
+87	if something requires something else then that something else is important to that something	gold
+88	to make means to form	nongold
+89	helping something has a  positive impact on that something	nongold
+90	instruction is a kind of information	nongold
+91	answering questions requires information	nongold
+92	helping means something can be done; completed more easily; better	nongold
+93	a human is a kind of animal	nongold
+94	if something performs a task then that task is that something's function	nongold
+95	to depend on; to rely on; to need means to require	nongold
+96	to be dependent on something means to depend on that something	nongold
+97	if something is required for a process then that something positively impacts that process	nongold
+98	using an object often requires creating that object	nongold
+99	negative impact is the opposite of positive impact	nongold
+100	to be required means to be necessary	nongold

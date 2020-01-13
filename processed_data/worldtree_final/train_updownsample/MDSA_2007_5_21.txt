@@ -1,0 +1,49 @@
+0	a body of water contains water	nongold
+1	Maryland is a state located in the United States of America	nongold
+2	producing is a kind of process	nongold
+3	natural gas is a nonrenewable resource	nongold
+4	Scientists estimate that Maryland contains more than 850 million tons of coal. Coal is most commonly used to produce ___.	question
+5	where something  comes from is a source of that something	nongold
+6	coal is used to produce electricity by burning in coal-fire power stations	gold
+7	scientists make observations	nongold
+8	containing something is similar to providing that something	nongold
+9	made of is similar to contains	nongold
+10	including means containing	nongold
+11	generate means produce	nongold
+12	most means over 50% of something	nongold
+13	an element is a kind of material	nongold
+14	if something is powered by something else then that something requires a source of that something else	nongold
+15	a material is a kind of resource	nongold
+16	processes sometimes produce waste products	nongold
+17	to produce means to create	nongold
+18	an energy source is a kind of resource	nongold
+19	renewable is the opposite of nonrenewable	nongold
+20	if something is a raw material in a process then that something is required for that process	nongold
+21	to generate means to create	nongold
+22	a producer is a source of energy for consumers	nongold
+23	electricity	answer
+24	Scientists estimate that Maryland contains more than 850 million tons of coal. Coal is most commonly used to produce ___.	question
+25	if something does not contain something else then that something lacks that something else	nongold
+26	electricity	answer
+27	electrical devices are used for industrial purposes; household purposes by humans	nongold
+28	coal is used for generating heat by burning	nongold
+29	products are formed; are produced; are created	nongold
+30	a producer produces its own food	nongold
+31	metal is a nonrenewable resource	nongold
+32	forming coal; fossil fuels requires decaying vegetation	nongold
+33	fossil fuel contains chemical energy	nongold
+34	coal is used to produce electricity by burning in coal-fire power stations	gold
+35	materials are used for making products by manufacturers	nongold
+36	made up of means contains; made of	nongold
+37	emit means produce	nongold
+38	Scientists estimate that Maryland contains more than 850 million tons of coal. Coal is most commonly used to produce ___.	question
+39	if something is a source of something else then that something usually contains that something else	nongold
+40	Scientists estimate that Maryland contains more than 850 million tons of coal. Coal is most commonly used to produce ___.	question
+41	coal is used to produce electricity by burning in coal-fire power stations	gold
+42	electricity	answer
+43	electricity	answer
+44	substances are made of elements	nongold
+45	producing electricity sometimes requires burning oil	nongold
+46	coal is a kind of fuel	nongold
+47	if something releases something else then that something is the source of that something else	nongold
+48	to create means to make	nongold

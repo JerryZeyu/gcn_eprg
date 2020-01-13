@@ -1,0 +1,102 @@
+0	mass is a kind of physical property	nongold
+1	device means tool	nongold
+2	instrument means tool	gold
+3	weathering; mechanical weathering means breaking down rocks; surface materials from a larger whole  into smaller pieces by weather	nongold
+4	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+5	class is a property of a rock and includes values of sedimentary; metamorphic; igneous	nongold
+6	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+7	a pebble is a kind of small rock	nongold
+8	as the shape of an object changes , the mass of that object will stay the same	nongold
+9	instrument means device	nongold
+10	as the class of a rock changes ,  the mass of the rock will stay the same	nongold
+11	a student is a kind of human	nongold
+12	high is similar to increase	nongold
+13	motion; movement means moving; to move	nongold
+14	two objects are usually different in size	nongold
+15	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+16	to add means to increase	nongold
+17	breaking down an object changes that object's shape and that object's mass	nongold
+18	a tool is a kind of object	nongold
+19	measuring requires reading a measurement	nongold
+20	motion is when moves an object; something to a direction	nongold
+21	class is a measure of how a rock is formed	nongold
+22	classifying requires comparing	nongold
+23	variable means able to change	nongold
+24	a landform is a kind of object	nongold
+25	if the volume of a substance; of a matter expands while the mass remains the same , then the molecules in that substance; matter move farther apart	nongold
+26	when two or more elements; molecules combine chemically , the mass of the product is equal to the combined masses of the elements or molecules	nongold
+27	experimentation requires measuring	nongold
+28	density is a measure of mass of an object over volume; divided by volume	nongold
+29	comparing requires measuring	gold
+30	both means two	nongold
+31	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+32	Which tool should a student use to compare the masses of two small rocks?	question
+33	a human is a kind of animal	nongold
+34	comparing requires observing that something	nongold
+35	as state of matter changes , mass will not change	nongold
+36	rock is a kind of material	nongold
+37	same means identical; equal in value; amount; number; quantity	nongold
+38	larger means greater; higher; more; increase in size	nongold
+39	an instrument is a piece of equipment	nongold
+40	placing liquids in the same container and observing how those liquids settle can be used to compare the densities of those liquids	nongold
+41	balance	answer
+42	a balance is used for measuring mass;weight of an object; of a substance	gold
+43	calculation means measurement	nongold
+44	a piece of an object is smaller in size than the whole object	nongold
+45	using tools is a learned characteristic	nongold
+46	strong means high in strength	nongold
+47	smaller means less; lower in size	nongold
+48	massive is similar to large	nongold
+49	if an object is made of something then the parts of that object are made of that something	nongold
+50	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+51	phase changes do not change mass	nongold
+52	greater means higher; more in value	nongold
+53	if two things are made from the same objects; material then those two things are similar	nongold
+54	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	nongold
+55	an object is made of its parts	nongold
+56	classifying means grouping objects; materials by their properties	nongold
+57	a kilogram is a kind of unit for measuring mass	nongold
+58	determining often requires measuring; observing	nongold
+59	larger; bigger is the opposite of smaller	nongold
+60	temperature changing does not cause mass to change	nongold
+61	a simple machine is a kind of tool	nongold
+62	length is a measure of distance from one end of an object to the other end of that object	nongold
+63	objects are made of materials; substances; matter	nongold
+64	mass is a measure of the amount of matter in an object	nongold
+65	different classes of rocks are formed by different methods	nongold
+66	height is a property of the size of an object	nongold
+67	an part of an object is smaller than the entire object	nongold
+68	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+69	rock means stone	nongold
+70	mass; weight are the same on Earth	nongold
+71	small is the opposite of large	nongold
+72	an increase is a kind of change	nongold
+73	highest means largest; greatest; most in height	nongold
+74	massive means great in mass	nongold
+75	mass; weight is a property of matter; objects; materials	nongold
+76	higher means greater; above in value; amount; number	nongold
+77	can be means able to be	nongold
+78	if a property affects a value then that property is needed to calculate that value	nongold
+79	mass is a property of objects; matter	nongold
+80	particles in objects are a kind of matter	nongold
+81	to be made of something means to be formed of that something	nongold
+82	a rock is usually a solid	nongold
+83	a star's type is determined by the star's mass	nongold
+84	unbalanced is the opposite of balanced	nongold
+85	classifying is when one sorts something by kind; type	nongold
+86	measuring is used for describing an object	nongold
+87	mass is similar to size	nongold
+88	mass; weight is an extensive property	nongold
+89	to measure means to calculate	nongold
+90	rocks contacting; rubbing each other over long periods of time causes those rocks to smooth	nongold
+91	variability of shape; variability of volume is a kind of physical property	nongold
+92	length is a part of size	nongold
+93	matter; materials; substances are made of atoms; particles	nongold
+94	a balance is a kind of instrument for measuring mass; measuring weight	gold
+95	to be used for something means to be required by that something	nongold
+96	a rock is a kind of object	gold
+97	the mass of an object causes the gravitational force exerted by that object	nongold
+98	extreme means very high in value	nongold
+99	affected means changed	nongold
+100	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+101	counter means reduce; stop; resist	nongold

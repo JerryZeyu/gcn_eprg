@@ -1,0 +1,102 @@
+0	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+1	chemical -> electrical -> light	answer
+2	a flashlight is a kind of battery-operated device	gold
+3	a battery-operated device is a kind of electrical device	gold
+4	a flashlight is a kind of electrical device	nongold
+5	batteries convert chemical energy to electrical energy	nongold
+6	battery-powered is similar to battery-operated	nongold
+7	a battery contains chemical energy	nongold
+8	a flashlight converts electrical energy; electricity into light energy	nongold
+9	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+10	to transform means to convert	nongold
+11	chemicals means substances	nongold
+12	a battery is a source of electrical energy; electricity	nongold
+13	an electrical device requires electricity to turn on	nongold
+14	electricity means electrical energy	nongold
+15	chemical energy is a kind of energy	nongold
+16	to turn means to convert	nongold
+17	energy transformation means one kind of energy changes into another kind of energy	gold
+18	a flashlight emits light	gold
+19	electrical energy is a kind of energy	nongold
+20	a  battery  is a kind of electrical power source	nongold
+21	a battery is a kind of object	nongold
+22	chemical reactions cause chemical change	nongold
+23	light means light energy	nongold
+24	to turn means to change	nongold
+25	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+26	to convert means to change	nongold
+27	light is a kind of energy	nongold
+28	light is a kind of energy	nongold
+29	turning on is a kind of process	nongold
+30	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+31	to happen means to occur	nongold
+32	a flashlight requires a source of electricity to produce light	gold
+33	a cycle happens; occurs repeatedly	nongold
+34	batteries can be used to power electrical devices	nongold
+35	substances have chemical properties	nongold
+36	objects contain chemical energy	nongold
+37	electric devices require electrical energy to function	nongold
+38	converting is similar to turning into	nongold
+39	when an animal moves , chemical energy is converted to mechanical energy	nongold
+40	energy conversion is similar to energy transformation	nongold
+41	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+42	forming is similar to converting	nongold
+43	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+44	a light bulb is a kind of electrical device	nongold
+45	electricity is used as an energy source by electrical devices	nongold
+46	combustion means fire converts chemical energy into light energy and heat energy	nongold
+47	combining; mixing two substances chemically causes chemical reactions	nongold
+48	a light bulb generates visible light when it is turned on	nongold
+49	chemical change is a kind of chemical reaction	nongold
+50	events occur at a specific place; at a specific time; with a specific frequency	nongold
+51	a source of something emits; produces; generates; provides that something	nongold
+52	chemical change is the opposite of physical change	nongold
+53	an event is a kind of action	nongold
+54	electromagnetic energy is a kind of energy	nongold
+55	a device is a kind of object	nongold
+56	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+57	a device requires energy to operate	nongold
+58	all elements are a kind of pure substance	nongold
+59	substances are made of elements	nongold
+60	chemical reactions cause new substances; different substances to form	nongold
+61	turns is similar to changes	nongold
+62	food is a kind of chemical energy	nongold
+63	charging a battery is when energy is converted into potential energy in the battery to store the energy	nongold
+64	a  chemical property is a kind of  property	nongold
+65	a complete electrical circuit is a source of  electrical energy	nongold
+66	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+67	turning is a kind of motion	nongold
+68	a chemical property is the opposite of a physical property	nongold
+69	converting is similar to producing	nongold
+70	a firecracker converts chemical energy into sound energy and light energy and heat energy	nongold
+71	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+72	reaction to light is a kind of chemical property	nongold
+73	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+74	a human is a kind of animal	nongold
+75	electrical signals are made of electrical energy	nongold
+76	a process is a kind of event	nongold
+77	acid can cause chemical change	nongold
+78	something that happens is a kind of event	nongold
+79	flipping a switch completes an electrical circuit	nongold
+80	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+81	a chemical reaction is a kind of process	nongold
+82	a light bulb requires electrical energy to produce light	nongold
+83	objects are made of materials; substances; matter	nongold
+84	if an old battery no longer supplies electrical energy then that battery needs to be replaced	nongold
+85	conductivity is a property of a material; substance	nongold
+86	heat is a kind of energy	nongold
+87	a machine is a kind of  device	nongold
+88	a laser is a kind of device for producing light	nongold
+89	if an object undergoes chemical change then that object will have new chemical properties	nongold
+90	most chemical reactions release or absorb heat energy	nongold
+91	to be made of something means to be formed of that something	nongold
+92	nuclear energy is a kind of energy	nongold
+93	different substances usually have different amount of chemical energy	nongold
+94	fire is a kind of chemical reaction	nongold
+95	light is a kind of electromagnetic radiation	nongold
+96	rotate means turn	nongold
+97	material means substance	nongold
+98	closing an electric circuit causes an electrical device to function	nongold
+99	can be means able to be	nongold
+100	visible light is a kind of  light	nongold
+101	instrument means device	nongold

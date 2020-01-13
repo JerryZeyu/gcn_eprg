@@ -1,0 +1,102 @@
+0	a step in a process means a stage in a process	nongold
+1	radiation is a kind of process	nongold
+2	battery-powered is similar to battery-operated	nongold
+3	a machine is a kind of object	nongold
+4	converting is similar to producing	nongold
+5	to produce means to create	nongold
+6	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+7	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+8	producing is a kind of process	gold
+9	a circuit is a kind of electrical component	nongold
+10	a laser is a kind of device for producing light	nongold
+11	UV light is a kind of light	nongold
+12	device means tool	nongold
+13	pushing is a kind of motion	nongold
+14	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+15	producing is a kind of function	nongold
+16	products are formed; are produced; are created	nongold
+17	a closed circuit has continuous path	nongold
+18	something is used for that something's purpose	nongold
+19	refraction is a kind of process	nongold
+20	a digital clock produces light to display the time	gold
+21	a battery-operated device is a kind of electrical device	gold
+22	a watch;clock;stopwatch is used for measuring time	gold
+23	batteries can be used to power electrical devices	nongold
+24	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+25	a part of a process means a stage in a process	nongold
+26	converting is similar to generating	nongold
+27	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+28	electricity can  not flow through an open circuit	nongold
+29	if something performs a task then that task is that something's function	nongold
+30	a device is a kind of object	nongold
+31	the function of something is what that something  is used to do	gold
+32	a complete electrical circuit is a source of  electrical energy	nongold
+33	pushing a button sometimes completes a circuit	nongold
+34	to produce means to provide	nongold
+35	a human is a kind of animal	nongold
+36	seconds are used to measure time	nongold
+37	Closing an electric circuit has produced light.	answer
+38	a cycle is a kind of process	nongold
+39	conduction is a kind of process	nongold
+40	a process is a kind of event	nongold
+41	Tuesday is a kind of  time	nongold
+42	electric devices require electrical energy to function	nongold
+43	change is a kind of process	nongold
+44	an object; material; substance comes from that object or material's source	nongold
+45	a cycle happens; occurs repeatedly	nongold
+46	make means produce	nongold
+47	a battery is a source of electrical energy; electricity	nongold
+48	if something causes a process then that something is required for that process	nongold
+49	to shine means to emit light	nongold
+50	electricity means electrical energy	nongold
+51	to be formed by is similar to being produced by	nongold
+52	an electric motor converts electrical energy into mechanical energy	nongold
+53	a button is similar to a switch	gold
+54	when a switch in a simple series circuit is closed , electricity will flow through the circuit	gold
+55	generate means produce	nongold
+56	if something causes an increase in something else then that something produces that something else	nongold
+57	causing is similar to generating	nongold
+58	a light bulb generates visible light when it is turned on	nongold
+59	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+60	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+61	creating a simple circuit requires a wire; battery	nongold
+62	producing is similar to causing	nongold
+63	visible light is a kind of  light	nongold
+64	a producer is a kind of living thing	nongold
+65	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+66	electrical devices are used for industrial purposes; household purposes by humans	nongold
+67	a machine is a kind of  device	nongold
+68	to illuminate means to light up	gold
+69	an electric motor is a kind of electrical device	nongold
+70	flipping; pushing a switch means using; activating that switch	nongold
+71	closing an electric circuit causes an electrical device to function	gold
+72	can be means able to be	nongold
+73	if something generates energy for something else then that something powers that something else	nongold
+74	emit means produce	nongold
+75	instrument means device	nongold
+76	a motion is a kind of event; action	nongold
+77	an event is a kind of action	nongold
+78	a  battery  is a kind of electrical power source	nongold
+79	closing is similar to completing	nongold
+80	light means light energy	nongold
+81	a laser is used for producing light	nongold
+82	light is a kind of wave	nongold
+83	a source of something emits; produces; generates; provides that something	nongold
+84	a flashlight converts electrical energy; electricity into light energy	nongold
+85	objects are made of materials; substances; matter	nongold
+86	a battery is a kind of object	nongold
+87	flipping a switch completes an electrical circuit	nongold
+88	events occur at a specific place; at a specific time; with a specific frequency	nongold
+89	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+90	sunlight is a kind of light	nongold
+91	light is a kind of electromagnetic radiation	nongold
+92	a light bulb requires electrical energy to produce light	nongold
+93	take place means happen	nongold
+94	When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?	question
+95	to contribute is similar to produce	nongold
+96	if something is powered by something else then that something requires a source of that something else	nongold
+97	operating electrical appliances requires electricity	nongold
+98	green plants are a kind of producer	nongold
+99	a light bulb is a part of a  lamp	nongold
+100	electricity is used as an energy source by electrical devices	nongold
+101	a light bulb is a kind of electrical device	nongold

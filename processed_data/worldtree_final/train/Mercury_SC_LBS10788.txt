@@ -1,0 +1,102 @@
+0	A child walks across a carpet and generates an electrical charge. The child will get a slight shock by touching a	question
+1	metal doorknob.	answer
+2	a doorknob is a kind of object	gold
+3	electric shock occurs when a person contacts a source of electrical energy	gold
+4	a door is a kind of object	nongold
+5	carpet has a rough surface	nongold
+6	a living thing is a kind of object	nongold
+7	a source of something emits; produces; generates; provides that something	nongold
+8	a child is a kind of young human	gold
+9	an electrical charge can attract objects to other objects	gold
+10	carpet is a kind of material	nongold
+11	rubbing different materials can cause electrical charge	nongold
+12	to touch means to contact	gold
+13	a human is a kind of animal	nongold
+14	a doorbell converts electrical energy; electricity into sound energy	nongold
+15	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+16	walking is a kind of motion	nongold
+17	if someone walks on a surface then that someone touches that surface	nongold
+18	metal is an  electrical; electrical energy conductor	gold
+19	a doorbell is a kind of electric device	nongold
+20	electricity is made of moving charges; moving charged particles	nongold
+21	electrocution causes harm to an organism	nongold
+22	electricity means electrical energy	nongold
+23	conductivity is a measure of how easily electricity travels through a material	nongold
+24	touching something means feeling that something	nongold
+25	being  on something; placed in something; placed over something means touching  that something	nongold
+26	an animal is a kind of living thing	nongold
+27	a handle is a kind of object	nongold
+28	conductivity is a property of a material; substance	nongold
+29	generate means produce	nongold
+30	if an object slides across another object then those objects are touching	nongold
+31	an animal is a kind of organism	nongold
+32	metal is a kind of substance	nongold
+33	magnetism can affect objects that are not touching	nongold
+34	being in something means touching that something	nongold
+35	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+36	a doorbell is a kind of bell	nongold
+37	objects are made of materials; substances; matter	nongold
+38	a room is a kind of object	nongold
+39	carpet absorbs sound	nongold
+40	motion; movement means moving; to move	nongold
+41	metal is a kind of material	gold
+42	feeling is when an living thing senses through touch	nongold
+43	walking is a kind of behavior	nongold
+44	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	nongold
+45	a wall is a kind of object	nongold
+46	a device is a kind of object	nongold
+47	if an object is made of a material then that object has the properties of that material	gold
+48	to hurt means to harm	nongold
+49	person is synonymous with human	gold
+50	mechanical energy can  cause objects to move	nongold
+51	ringing is a kind of function of a doorbell	nongold
+52	material means substance	nongold
+53	an insulator is the opposite of a conductor	nongold
+54	counter means reduce; stop; resist	nongold
+55	a surface is a part of an object	nongold
+56	a person is a kind of animal	nongold
+57	human is a kind of organism	nongold
+58	causing is similar to generating	nongold
+59	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+60	room contains walls	nongold
+61	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+62	electrical impulses are a kind of electrical energy	nongold
+63	An example of mechanical energy is an object in motion	nongold
+64	a wall is a kind of surface	nongold
+65	motion is when moves an object; something to a direction	nongold
+66	a vehicle is a kind of object	nongold
+67	conductivity is a kind of physical property	gold
+68	a surface is a part of a material	nongold
+69	if two objects; two materials have the same charge then those two objects; those two materials will repel each other	nongold
+70	steel is a kind of metal	nongold
+71	high is similar to increase	nongold
+72	electric devices require electrical energy to function	nongold
+73	to generate means to form	nongold
+74	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+75	an part of an object is smaller than the entire object	nongold
+76	if someone is standing away from something then that someone is not touching that something	nongold
+77	the function of something is what that something  is used to do	nongold
+78	something dangerous can cause harm	nongold
+79	an organism is a living thing	nongold
+80	electrical devices are used for industrial purposes; household purposes by humans	nongold
+81	an insulator is a kind of material	nongold
+82	touch is a kind of sense	nongold
+83	particles in objects are a kind of matter	nongold
+84	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+85	mechanical energy is used to move something by animals	nongold
+86	to give off means to be the source of	nongold
+87	an object has properties	nongold
+88	if one is holding an object then one is touching that object	nongold
+89	harming something has a  negative impact on; effect on that something	nongold
+90	to lower means to decrease	nongold
+91	if an object is put inside; poured into another object , then two objects are touching	nongold
+92	a motion is a kind of event; action	nongold
+93	touch can be used for detecting texture	nongold
+94	a solid is a kind of substance	nongold
+95	a handle is used for holding an object	nongold
+96	a tool is a kind of object	nongold
+97	metal is a thermal; thermal energy conductor	nongold
+98	substances are made of matter	nongold
+99	to pass through means to move through	nongold
+100	passing through is similar to entering	nongold
+101	insulator means good insulator	nongold

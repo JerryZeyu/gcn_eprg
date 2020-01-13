@@ -1,0 +1,102 @@
+Question	Which example shows a new substance being formed?	question
+Answer	a candle burning	answer
+0	fire causes burning	gold
+1	a candle is a source of light when it is burned	nongold
+2	a lit candle converts chemical energy into light energy; heat energy	nongold
+3	chemical reactions cause new substances; different substances to form	gold
+4	combustion means fire converts chemical energy into light energy and heat energy	nongold
+5	new means different from the former one	nongold
+6	material means substance	nongold
+7	lighting a candle causes that candle to burn	nongold
+8	combustion is a kind of exergonic reaction	nongold
+9	to combust means to catch fire	nongold
+10	combustion is a kind of chemical change	nongold
+11	chemical reactions releasing new substances means chemical reactions forming new substances	nongold
+12	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+13	a source of something emits; produces; generates; provides that something	nongold
+14	a kind of something is an example of that something	nongold
+15	fire is a kind of chemical reaction	gold
+16	combustion is a kind of exothermic reaction	nongold
+17	heat means heat energy	nongold
+18	burning is a kind of action	nongold
+19	combustion is a kind of activity	nongold
+20	to be made of something means to be formed of that something	nongold
+21	An example of combustion is explosion	nongold
+22	a flame are a part of a fire	nongold
+23	fire gives off light; heat; smoke	nongold
+24	heating means adding heat	nongold
+25	products are formed; are produced; are created	nongold
+26	substances are made of matter	nongold
+27	a candle is a kind of object	nongold
+28	objects are made of materials; substances; matter	nongold
+29	forming is similar to converting	nongold
+30	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+31	matter; materials; substances are made of atoms; particles	nongold
+32	to form means to create	nongold
+33	to be formed by is similar to being produced by	nongold
+34	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+35	form means kind	nongold
+36	sublimation means matter; a substance changes from a solid into a gas by increasing heat energy	nongold
+37	becoming is similar to forming	nongold
+38	forming something is a kind of change	nongold
+39	to give is similar to to cause	nongold
+40	state means form	nongold
+41	heat is a kind of energy	nongold
+42	combustibility means the ability of combustion	nongold
+43	formation of a state of matter is a kind of process	nongold
+44	combining; mixing two substances chemically causes chemical reactions	nongold
+45	a living thing is a kind of object	nongold
+46	fire transfers heat through waves	nongold
+47	to make means to form	nongold
+48	photosynthesis is a kind of chemical reaction	nongold
+49	an element is a kind of  substance	nongold
+50	sunlight produces heat	nongold
+51	heat energy is synonymous with thermal energy	nongold
+52	answering questions requires information	nongold
+53	an object; material; substance comes from that object or material's source	nongold
+54	to give off means to be the source of	nongold
+55	a demonstration is similar to an example	nongold
+56	if a substance is made of one element , then the substance is called an element	nongold
+57	all elements are a kind of pure substance	nongold
+58	more burning causes fire to be hotter	nongold
+59	an mixture is formed by two or more substances combined together physically	nongold
+60	substances are made of elements	nongold
+61	food is a kind of substance	nongold
+62	forming is a kind of replenishing	nongold
+63	forming is a kind of action	nongold
+64	old is the opposite of new	nongold
+65	if something is made of something; a material then that something contains that something; that material	nongold
+66	to add means to increase	nongold
+67	adding heat to an object sometimes causes chemical reactions	nongold
+68	to be formed means to be originated	nongold
+69	particles in objects are a kind of matter	nongold
+70	burning a living thing usually causes harm to that living thing	nongold
+71	solid is a kind of state of matter	nongold
+72	the formation of something is a kind of process	nongold
+73	liquid is a kind of state of matter	nongold
+74	a process is a kind of event	nongold
+75	a candle is made of wax	nongold
+76	to be formed by is to be the result of	nongold
+77	to generate means to form	nongold
+78	a liquid is a kind of substance	nongold
+79	gas is a kind of substance	nongold
+80	an event is a kind of action	nongold
+81	temperature is a measure of heat energy	nongold
+82	a chemical reaction is a kind of process	nongold
+83	a human is a kind of animal	nongold
+84	emit means produce	nongold
+85	sunlight is a kind of light	nongold
+86	gas is a kind of state of matter	nongold
+87	a reaction is a kind of process	nongold
+88	if an event occurs by adding something then that event requires that something	nongold
+89	chemical change is a kind of chemical reaction	nongold
+90	oil is a kind of substance; matter	nongold
+91	if an object undergoes chemical change then that object will have new chemical properties	nongold
+92	a motion is a kind of event; action	nongold
+93	a part of a process means a stage in a process	nongold
+94	a burner is a kind of object; surface	nongold
+95	can be means able to be	nongold
+96	breaking down is a kind of forming	nongold
+97	to be used for something means to be required by that something	nongold
+98	putting out a fire stops the burning of that fire	nongold
+99	a component of something means a part of that something	nongold

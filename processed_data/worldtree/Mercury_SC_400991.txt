@@ -1,0 +1,102 @@
+Question	Which ability is the most useful for making observations?	question
+Answer	senses	answer
+0	useful means able to be used	nongold
+1	sight is a kind of sense	nongold
+2	hearing is a kind of sense	nongold
+3	seeing is used for sensing visual things	nongold
+4	the senses are used for making observations	gold
+5	eyes can sense;detect light energy for seeing	nongold
+6	a sense is a kind of ability	gold
+7	studying is similar to observing	nongold
+8	ability is a kind of characteristic	nongold
+9	answering questions requires information	nongold
+10	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+11	useful means good to use	nongold
+12	observe means see	nongold
+13	learning; studying information causes one to know that information	nongold
+14	getting information sometimes requires observing; observation	nongold
+15	potential is a kind of ability	nongold
+16	beneficial means helpful	nongold
+17	sense is a kind of characteristic of an animal	nongold
+18	inability is the opposite of ability	nongold
+19	detecting is similar to observing	nongold
+20	smell is a kind of sense	nongold
+21	making discoveries requires observing	nongold
+22	skills are learned characteristics; behaviors	nongold
+23	feeling is when an living thing senses through touch	nongold
+24	performance is similar to ability	nongold
+25	knowing the properties of something means knowing information about that something	nongold
+26	measuring is a kind of observing	nongold
+27	looking is similar to observing	nongold
+28	sensory organs are used for sensing	nongold
+29	hearing is used for sensing sound by animals	nongold
+30	to observe means to gather information	nongold
+31	senses are an inherited characteristic	nongold
+32	inspect; observe means examine	nongold
+33	learning about something sometimes requires observing that something	nongold
+34	sense is used for obtaining information about one's environment	nongold
+35	a human is a kind of animal	nongold
+36	a learned characteristic is a kind of acquired characteristic	nongold
+37	the ability to do means be able to do	nongold
+38	to be helpful means to help to do	nongold
+39	trait is synonymous with characteristic	nongold
+40	observations; data are a part of the results of an experiment	nongold
+41	finding something requires sensing that something	nongold
+42	studying  something usually requires seeing that something	nongold
+43	intelligence is an acquired characteristic	nongold
+44	taste is a kind of sense	nongold
+45	can be means able to be	nongold
+46	an animal is a kind of organism	nongold
+47	a sharp sense is an enhanced sense	nongold
+48	to report means to show	nongold
+49	characteristic means property	nongold
+50	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+51	an animal is a kind of living thing	nongold
+52	eyes are used for seeing by animals by sensing light	nongold
+53	studying is similar to investigating	nongold
+54	determining often requires measuring; observing	nongold
+55	to be used for something means to be required by that something	nongold
+56	able is the opposite of unable	nongold
+57	sight means vision	nongold
+58	sight means to see	nongold
+59	what an object is made of is a kind of characteristic	nongold
+60	person is synonymous with human	nongold
+61	trait means property	nongold
+62	eyes are usually part of an animal for seeing	nongold
+63	a behavior is a kind of characteristic	nongold
+64	eyes are a part of a human for seeing	nongold
+65	reading  requires seeing	nongold
+66	a tool is a kind of object	nongold
+67	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+68	a brain is a part of an animal	nongold
+69	sensing food has a positive impact on finding food	nongold
+70	objects are made of materials; substances; matter	nongold
+71	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+72	touch is a kind of sense	nongold
+73	to detect means to find	nongold
+74	better senses have a positive impact on an animal's survival; health; ability to reproduce	nongold
+75	curiosity is a kind of human quality	nongold
+76	can means having the ability to	nongold
+77	a living thing is a kind of object	nongold
+78	being able to read is a kind of skill	nongold
+79	to study means to examine	nongold
+80	to help; to benefit means to be of use	nongold
+81	human is a kind of organism	nongold
+82	conditioned behavior is a kind of learned behavior	nongold
+83	an organism is a living thing	nongold
+84	instrument means tool	nongold
+85	the ability to reflect off of a surface is a kind of characteristic	nongold
+86	learned behaviors are learned over the  lifetime of the animal	nongold
+87	the eyes are part of the head used for seeing	nongold
+88	comparing requires observing that something	nongold
+89	experimentation requires measuring	nongold
+90	if studying something is used to learn about something then that something is a source of information	nongold
+91	the brain is a part of the body	nongold
+92	if an animal is trained to do something then that something is a learned behavior	nongold
+93	high is similar to increase	nongold
+94	scientists make observations	nongold
+95	recording an observation sometimes requires measuring	nongold
+96	a bird is a kind of animal	nongold
+97	smell is used for detecting odor	nongold
+98	investigation sometimes requires experimentation	nongold
+99	curiosity means the need to know new information	nongold

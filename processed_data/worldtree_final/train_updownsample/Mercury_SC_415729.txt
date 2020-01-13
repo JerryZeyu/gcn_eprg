@@ -1,0 +1,71 @@
+0	a surface is a part of a material	nongold
+1	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+2	an organism is a living thing	nongold
+3	a landform is a kind of object	nongold
+4	magnetism can cause objects to repel each other	nongold
+5	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+6	an object is an item	gold
+7	a surface is a part of an object	nongold
+8	an electrical charge can attract objects to other objects	nongold
+9	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+10	pair means two	gold
+11	motion; movement means moving; to move	nongold
+12	cloth is a kind of material	gold
+13	a motion is a kind of event; action	nongold
+14	if two objects; two materials have the same charge then those two objects; those two materials will repel each other	gold
+15	an object being pushed across another object causes their surfaces to move against each other	nongold
+16	plastic is a kind of material made by humans	gold
+17	cloth is a kind of material	gold
+18	if an object is made of a material then that object has the properties of that material	gold
+19	harming something has a  negative impact on; effect on that something	nongold
+20	an object is an item	gold
+21	a piece of something is a kind of object	gold
+22	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	gold
+23	to absorb means to capture	nongold
+24	a piece of something is a kind of object	gold
+25	plastic is a kind of material made by humans	gold
+26	a negatively-charged plastic strip and a negatively-charged piece of cloth	answer
+27	feeling is when an living thing senses through touch	nongold
+28	non-reactive means unreactive	nongold
+29	attract means move closer	nongold
+30	if an object is made of a material then that object has the properties of that material	gold
+31	an object is an item	gold
+32	a worm is a kind of animal	nongold
+33	a sheet of is similar to a piece of	nongold
+34	a negatively-charged plastic strip and a negatively-charged piece of cloth	answer
+35	conductivity is a property of a material; substance	nongold
+36	cloth is a kind of material	gold
+37	a negatively-charged plastic strip and a negatively-charged piece of cloth	answer
+38	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+39	Which pair of items will repel each other?	question
+40	plastic is a kind of material made by humans	gold
+41	an insect is a kind of animal	nongold
+42	a predator is a kind of animal	nongold
+43	a body part is a kind of object	nongold
+44	extreme means very high in value	nongold
+45	Which pair of items will repel each other?	question
+46	if two objects; two materials have the same charge then those two objects; those two materials will repel each other	gold
+47	a negatively-charged plastic strip and a negatively-charged piece of cloth	answer
+48	objects are made of materials; substances; matter	nongold
+49	pair means two	gold
+50	negative impact is the opposite of positive impact	nongold
+51	a strip is a kind of object	gold
+52	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	gold
+53	fiber is a kind of material	nongold
+54	if an object is made of a material then that object has the properties of that material	gold
+55	a living thing is a kind of object	nongold
+56	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+57	Which pair of items will repel each other?	question
+58	an animal is a kind of living thing	nongold
+59	a strip is a kind of object	gold
+60	plastic is a kind of thermal insulator	nongold
+61	a strip is a kind of object	gold
+62	if two objects; two materials have the same charge then those two objects; those two materials will repel each other	gold
+63	a vehicle is a kind of object	nongold
+64	pair means two	gold
+65	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	gold
+66	friction occurs when two object's surfaces move against each other	nongold
+67	Which pair of items will repel each other?	question
+68	a piece of something is a kind of object	gold
+69	exerting force on an object means a force acts on an object	nongold
+70	a reptile is a kind of animal	nongold

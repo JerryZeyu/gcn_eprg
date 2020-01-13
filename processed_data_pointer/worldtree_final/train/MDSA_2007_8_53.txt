@@ -1,0 +1,101 @@
+0	make means produce	nongold
+1	material means substance	nongold
+2	determine is similar to cause	nongold
+3	concluding is a kind of action	gold
+4	examining is a kind of process	nongold
+5	a material is a kind of resource	nongold
+6	a research team is made of humans	nongold
+7	a part of a process means a stage in a process	nongold
+8	impact means effect	nongold
+9	research is used for learning	nongold
+10	helping something has a  positive impact on that something	nongold
+11	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+12	requiring is similar to needing help	nongold
+13	a hypothesis is a kind of scientific term	nongold
+14	composed of means made of	nongold
+15	to be required means to be necessary	nongold
+16	to observe means to gather information	nongold
+17	investigating the life cycle of a living thing requires that living thing to be alive	nongold
+18	to create means to make	nongold
+19	a scientist is a kind of human	nongold
+20	action means activity	nongold
+21	Scientists conduct investigations to answer questions. Before making a valid conclusion, scientists must	question
+22	a component of something means a part of that something	nongold
+23	a result of something is evidence of that something	nongold
+24	to be made of is similar to collection	nongold
+25	can be means able to be	nongold
+26	a theory is a kind of scientific term	nongold
+27	if an event is required for a process then that event must occur before that process can occur	gold
+28	An example of collecting data is measuring	nongold
+29	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+30	making discoveries requires observing	nongold
+31	a human is a kind of animal	nongold
+32	investigating a stage of something means investigating that something	nongold
+33	if something is required then that something must be provided	nongold
+34	hypothesis means scientific guess about the cause and effect of an event	nongold
+35	to provide something means to be the source of that something	nongold
+36	a component means a part of	nongold
+37	answering questions requires information	nongold
+38	if something performs a task then that task is that something's function	nongold
+39	studying is similar to investigating	nongold
+40	sample is similar to small amount of substance; matter	nongold
+41	solution is similar to a positive impact	nongold
+42	examining sometimes requires measuring	nongold
+43	scientists make observations	nongold
+44	collect relevant evidence	answer
+45	classifying is a kind of science process	nongold
+46	An example of evidence for a scientific theory is observations	nongold
+47	generate means produce	nongold
+48	making something requires resources	nongold
+49	conducting is similar to exchanging	nongold
+50	provide is similar to give; make	nongold
+51	high is similar to increase	nongold
+52	an animal is a kind of organism	nongold
+53	process is similar to method	nongold
+54	to cause means to make	nongold
+55	a physicist is a kind of scientist	nongold
+56	incomplete is the opposite of complete	nongold
+57	if something causes a process then that something is required for that process	nongold
+58	a theory is more accepted; tested than a hypothesis	nongold
+59	scientific discoveries sometimes require specific technologies	nongold
+60	to be involved in something means to have a role in something	nongold
+61	investigation sometimes requires experimentation	nongold
+62	to cause an event is similar to being involved in that event	nongold
+63	a process usually requires all of the stages in that process	nongold
+64	an event is a kind of action	gold
+65	inspect; observe means examine	nongold
+66	if something transfers something else then that something is a source of something else	nongold
+67	knowing sometimes requires determing	nongold
+68	if an object is a source of something for something else then that something else can obtain that something from that object	nongold
+69	to collect means to gather	nongold
+70	investigating sometimes requires measuring	nongold
+71	researcher is a kind of scientist	nongold
+72	to make means to form	nongold
+73	undertaking is similar to doing	nongold
+74	analyzing all results has a  positive impact on the effort to remain objective during experiments	nongold
+75	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+76	investigating requires gathering information	nongold
+77	something that happens is a kind of event	nongold
+78	a type is synonymous with a kind	nongold
+79	emit means produce	nongold
+80	Charles Darwin was a kind of scientist	nongold
+81	to conclude means to make a conclusion	gold
+82	a source of something emits; produces; generates; provides that something	nongold
+83	must have means require	nongold
+84	where something  comes from is a source of that something	nongold
+85	to be used for something means to be required by that something	nongold
+86	data means information	nongold
+87	a space probe is used for collecting;analyzing materials; samples; information	nongold
+88	negative impact is the opposite of positive impact	nongold
+89	investigating is a kind of process	gold
+90	to produce means to create	nongold
+91	to conduct is similar to to transfer	nongold
+92	good means positive	nongold
+93	a process is a kind of event	nongold
+94	best means most positive	nongold
+95	if something requires something else then that something requires a source of that something else	nongold
+96	conducting is a kind of function	nongold
+97	making a valid conclusion in an investigation requires collecting relevant evidence	gold
+98	the function of something is what that something  is used to do	nongold
+99	to happen means to occur	nongold
+100	requiring something means needing that something	nongold

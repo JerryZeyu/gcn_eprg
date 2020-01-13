@@ -1,0 +1,102 @@
+Question	A science class is taking a field trip to a forest to observe and study birds. Which tool would be most helpful for observing birds?	question
+Answer	binoculars	answer
+0	binoculars are a kind of instrument for observing distant objects	gold
+1	binoculars are used for observing distant objects	gold
+2	useful means able to be used	nongold
+3	useful means good to use	nongold
+4	a forest is a kind of environment	nongold
+5	beneficial means helpful	nongold
+6	to be helpful means to help to do	nongold
+7	instrument means tool	gold
+8	a field is a kind of environment	nongold
+9	a bird is a kind of living thing	nongold
+10	observe means see	nongold
+11	to help; to benefit means to be of use	gold
+12	optical tools are used for observing materials up close; in greater detail	nongold
+13	a positive impact is a helpful effect	nongold
+14	studying  something usually requires seeing that something	nongold
+15	helping means something can be done; completed more easily; better	nongold
+16	a bird is a kind of animal	gold
+17	inspect; observe means examine	nongold
+18	a forest contains  lots of plants; trees	nongold
+19	studying is similar to observing	nongold
+20	to be used  for something means to help to do that something	nongold
+21	some birds live in forests	nongold
+22	an instrument is a piece of equipment	nongold
+23	look at means observe	nongold
+24	helping something has a  positive impact on that something	nongold
+25	a tool is a kind of object	nongold
+26	measuring is a kind of observing	nongold
+27	getting information sometimes requires observing; observation	nongold
+28	looking is similar to observing	nongold
+29	a field is a kind of habitat	nongold
+30	a living thing is a kind of object	gold
+31	determining often requires measuring; observing	nongold
+32	an animal is a kind of living thing	gold
+33	if a living thing requires something then that something has a positive impact on that living thing	nongold
+34	forest is synonymous with wooded area	nongold
+35	a magnifying glass is a kind of tool for observing small things	nongold
+36	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+37	some birds are predators	nongold
+38	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+39	detecting is similar to observing	nongold
+40	an animal is a member of an animal species	nongold
+41	some animals live in forests	nongold
+42	capturing an animal can be used for studying that animal	nongold
+43	an organism is a living thing	nongold
+44	sight means to see	nongold
+45	woodland means forest	nongold
+46	examining sometimes requires measuring	nongold
+47	identifying sometimes requires examining	nongold
+48	answering questions requires information	nongold
+49	viewing means observing light	nongold
+50	an environment means an area	nongold
+51	animals; living things live and feed in their habitats; near their habitats	nongold
+52	a forest is a kind of ecosystem	nongold
+53	learning about something sometimes requires observing that something	nongold
+54	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+55	requiring is similar to needing help	nongold
+56	to get a better look at means to see better	nongold
+57	an environment is a kind of place	nongold
+58	lab equipment is often used for measuring; observing	nongold
+59	instrument means device	nongold
+60	recording an observation sometimes requires measuring	nongold
+61	a plant is a kind of organism	nongold
+62	device means tool	nongold
+63	a plant is a kind of living thing	nongold
+64	a landform is a kind of object	nongold
+65	seeing is used for sensing visual things	nongold
+66	An example of observing things is taking a picture	nongold
+67	making discoveries requires observing	nongold
+68	a scientist is a kind of human	nongold
+69	an animal is a kind of organism	nongold
+70	to be used for something means to be required by that something	nongold
+71	high is similar to increase	nongold
+72	best means most positive	nongold
+73	objects in an environment are a part of that environment	nongold
+74	if something is visible , then that something can be observed	nongold
+75	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+76	negative impact is the opposite of positive impact	nongold
+77	studying is similar to investigating	nongold
+78	to view means to see	nongold
+79	an part of an object is smaller than the entire object	nongold
+80	to see means to look	nongold
+81	discovering something usually requires seeing that something	nongold
+82	a camera is a kind of tool for recording images	nongold
+83	a rainforest is a kind of ecosystem	nongold
+84	a tree is a kind of living thing	nongold
+85	studying moving habits requires knowing location	nongold
+86	to observe means to gather information	nongold
+87	to study means to examine	nongold
+88	organisms are a part of an environment	nongold
+89	scientists make observations	nongold
+90	magnifying glass is used to see  small things by making objects appear bigger	nongold
+91	attracting something to a location causes that something  to be near that location	nongold
+92	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	nongold
+93	organisms; living things live in their habitat; their home	nongold
+94	A bird is a pollinating animal	nongold
+95	a rain forest is a kind of forest	nongold
+96	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+97	species means a group of like organisms	nongold
+98	an insect is a kind of animal	nongold
+99	observations; data are a part of the results of an experiment	nongold

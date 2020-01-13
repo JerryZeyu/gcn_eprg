@@ -1,0 +1,102 @@
+0	to convert means to change	gold
+1	if something emits something else then that something increases the amount of that something else	nongold
+2	objects are made of materials; substances; matter	nongold
+3	conductivity is a kind of physical property	nongold
+4	solar energy is a kind of light	nongold
+5	some light bulbs convert electrical energy; electricity into light energy and heat energy	gold
+6	if an object is made of a material then that object has the properties of that material	nongold
+7	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+8	an object; material; substance comes from that object or material's source	nongold
+9	transfer is a kind of change	nongold
+10	UV light is a kind of light	nongold
+11	heat is a kind of energy	nongold
+12	a phase change is a kind of physical change	nongold
+13	to turn means to convert	nongold
+14	state means form	nongold
+15	conductivity is a property of a material; substance	nongold
+16	electrical energy is a kind of energy	nongold
+17	if something generates energy for something else then that something powers that something else	nongold
+18	When a light bulb is turned on, energy changes from one form to another. Which of the following best describes this change?	question
+19	light bulb means lightbulb	nongold
+20	an electrical device requires electricity to turn on	nongold
+21	to generate means to form	nongold
+22	electric devices require electrical energy to function	nongold
+23	a change is a kind of event	nongold
+24	to change means to cause a change	nongold
+25	if something comes from something else then that something else is a source of that something	nongold
+26	temperature is a measure of heat energy	nongold
+27	variable means able to change	nongold
+28	a light bulb is used for seeing in the dark	nongold
+29	a light bulb requires electrical energy to produce light	nongold
+30	affected means changed	nongold
+31	magnetic energy is a kind of energy	nongold
+32	adding something is a kind of change	nongold
+33	if the component of something changed , then the whole thing will change	nongold
+34	turns is similar to changes	nongold
+35	a light bulb generates visible light when it is turned on	nongold
+36	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+37	electricity is made of moving charges; moving charged particles	nongold
+38	a flashlight converts electrical energy; electricity into light energy	nongold
+39	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+40	electromagnetic energy is a kind of energy	nongold
+41	a device is a kind of object	nongold
+42	solar energy is a kind of heat energy	nongold
+43	electricity means electrical energy	gold
+44	light is a kind of energy	nongold
+45	forming is similar to converting	nongold
+46	turning on is a kind of process	nongold
+47	an event is a kind of action	nongold
+48	electrical energy to light energy	answer
+49	form means kind	nongold
+50	sound is a kind of energy	nongold
+51	household appliances are a kind of electrical device	nongold
+52	electrical current means electrical energy	nongold
+53	electrical signals are made of electrical energy	nongold
+54	where something  comes from is a source of that something	nongold
+55	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+56	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+57	to transform means to convert	nongold
+58	conductivity is a measure of how easily electricity travels through a material	nongold
+59	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+60	closing an electric circuit causes an electrical device to function	nongold
+61	replace means change from one thing into  another	nongold
+62	material means substance	nongold
+63	to turn means to change	nongold
+64	chemical energy is a kind of energy	nongold
+65	mechanical energy is a kind of energy	nongold
+66	an insulator is the opposite of a conductor	nongold
+67	if something transfers something else then that something is a source of something else	nongold
+68	the properties of something are used for describing that something	nongold
+69	sunlight is a kind of light	nongold
+70	energy transformation means one kind of energy changes into another kind of energy	nongold
+71	solar energy is a kind of energy	nongold
+72	a complete electrical circuit is a source of  electrical energy	nongold
+73	light is a kind of energy	nongold
+74	visible light is a kind of  light	nongold
+75	when one kind of energy changes into another kind of energy , the total amount of energy is constant	nongold
+76	substances are made of matter	nongold
+77	a source of something emits; produces; generates; provides that something	nongold
+78	converting is similar to producing	nongold
+79	heat energy can change the state of matter	nongold
+80	to change into means to form	nongold
+81	an electric motor converts electrical energy into mechanical energy	nongold
+82	electrical devices are used for industrial purposes; household purposes by humans	nongold
+83	a human is a kind of animal	nongold
+84	light is a kind of wave	nongold
+85	light means light energy	gold
+86	can be means able to be	nongold
+87	metal is an  electrical; electrical energy conductor	nongold
+88	electricity is used as an energy source by electrical devices	nongold
+89	heating means adding heat	nongold
+90	electrical impulses are a kind of electrical energy	nongold
+91	if the electrical  devices are connected in parallel circuit , then turning on or off any devices will not affect other devices	nongold
+92	heat means heat energy	nongold
+93	the heat energy produced by the light bulb is not used	nongold
+94	a light bulb is a kind of electrical device	nongold
+95	a decrease is a kind of change	nongold
+96	to illuminate means to light up	nongold
+97	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+98	a light bulb is a part of a  lamp	nongold
+99	an increase is a kind of change	nongold
+100	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+101	radiation is when electromagnetic waves transfers heat and light energy	nongold

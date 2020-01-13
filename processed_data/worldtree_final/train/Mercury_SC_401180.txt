@@ -1,0 +1,102 @@
+0	Which event occurs every day?	question
+1	Sun rising and setting	answer
+2	the sun rising; setting occurs once per day	gold
+3	the sun rising is a kind of event	gold
+4	the sun setting is a kind of event	gold
+5	daily means every day; once per day	nongold
+6	to happen means to occur	nongold
+7	the sun rising and setting causes cycles of day and night	nongold
+8	the sunlight occurs during the day	nongold
+9	once per means every	gold
+10	the moon rising occurs once per day	nongold
+11	rising is a kind of motion	nongold
+12	an event is a kind of action	nongold
+13	sunrise occurs at the beginning of the day	nongold
+14	a star is a kind of celestial object; celestial body	nongold
+15	something that happens is a kind of event	nongold
+16	the Sun is a kind of star	nongold
+17	cycles of day and night occur once per day	nongold
+18	events occur at a specific place; at a specific time; with a specific frequency	nongold
+19	days are a kind of unit for measuring time	nongold
+20	setting is a kind of motion	nongold
+21	the day time is part of one day	nongold
+22	a cycle happens; occurs repeatedly	nongold
+23	rising means moving upward	nongold
+24	the sun rises in the east	nongold
+25	event is similar to occurrence	nongold
+26	a solar flare is a kind of solar event	nongold
+27	movements of celestial bodies are a kind of event	nongold
+28	sunlight is a kind of light	nongold
+29	to ascend means to rise	nongold
+30	the sun is a source of light; light energy called sunlight	nongold
+31	if it is night then the sun has set	nongold
+32	a motion is a kind of event; action	nongold
+33	sunlight means solar energy	nongold
+34	the sun sets in the west	nongold
+35	a planet is a kind of celestial object; body	nongold
+36	all the time means at day and at night	nongold
+37	sunshine means sunlight	nongold
+38	a change is a kind of event	nongold
+39	sunlight is a kind of solar energy	nongold
+40	plants appearing on Earth is a kind of event	nongold
+41	the sun is not a star in the night sky	nongold
+42	rising means height; altitude increases	nongold
+43	a moon is a kind of celestial object; body	nongold
+44	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+45	noon is a kind of time of day	nongold
+46	the sun is the source of solar energy called sunlight	nongold
+47	solar energy is a kind of light	nongold
+48	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+49	rising means elevation	nongold
+50	daylight occurs during the day	nongold
+51	the Earth revolves around the sun	nongold
+52	a process is a kind of event	nongold
+53	astronomy is the study of celestial (objects, bodies)	nongold
+54	hours are a kind of unit for measuring time	nongold
+55	yearly means every year	nongold
+56	Tuesday is a kind of  time	nongold
+57	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+58	Earth is a kind of planet	nongold
+59	the afternoon is  a part of the day	nongold
+60	afternoon is a part of day time	nongold
+61	to travel up means to rise	nongold
+62	daytime means day	nongold
+63	the night time is part of one day	nongold
+64	daylight means sunlight	nongold
+65	solar radiation means solar energy	nongold
+66	the sun is located directly overhead at noon	nongold
+67	to be in the sun means to be in the sunlight	nongold
+68	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	nongold
+69	each of the moon's phases occurs once per month	nongold
+70	to pass means to occur	nongold
+71	high is similar to increase	nongold
+72	Earth rotating on its axis occurs once per day	nongold
+73	a planet rotating causes cycles of day and night on that planet	nongold
+74	if an event occurs by adding something then that event requires that something	nongold
+75	being in the sun is synonymous with being in the sunlight	nongold
+76	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+77	an increase is a kind of change	nongold
+78	boiling is a kind of event	nongold
+79	answering questions requires information	nongold
+80	solar energy is a kind of energy	nongold
+81	the sun is a source of radiation; heat called sunlight	nongold
+82	a solar prominence is a kind of solar event	nongold
+83	daylight is when the sun shines on a location	nongold
+84	sunset occurs at the beginning of the night	nongold
+85	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+86	a star produces light and heat	nongold
+87	the sun is a kind of yellow dwarf	nongold
+88	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+89	to cause an event is similar to being involved in that event	nongold
+90	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+91	everyday means daily	nongold
+92	if something is outside during the day then that something will receive sunlight	nongold
+93	Monday is a kind of day of the week	nongold
+94	astronomical body means celestial body	nongold
+95	a source of something emits; produces; generates; provides that something	nongold
+96	a celestial body travelling around another celestial body means that celestial body completes a cycle around that other celestial body	nongold
+97	a part of a process means a stage in a process	nongold
+98	if an event is required for a process then that event must occur before that process can occur	nongold
+99	annual means once per year	nongold
+100	solar energy is a kind of heat energy	nongold
+101	month is a kind of period of time	nongold

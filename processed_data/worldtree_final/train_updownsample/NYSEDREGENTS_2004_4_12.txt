@@ -1,0 +1,61 @@
+0	gas is a kind of substance	nongold
+1	nuts are a kind of fruit	nongold
+2	fruit is a kind of food	gold
+3	life means living things	nongold
+4	an orange is a kind of fruit	nongold
+5	birds sometimes eat berries;seeds	nongold
+6	a vegetable is a kind of food	nongold
+7	gas is a kind of object	nongold
+8	fruit is a part of a plant; tree	gold
+9	fruit is a kind of food	gold
+10	to eat means to consume food	nongold
+11	a gourd is a kind of fruit	gold
+12	an organism is a living thing	nongold
+13	fruit is a part of a plant; tree	gold
+14	a pumpkin contains seeds	gold
+15	a tree is a kind of plant	nongold
+16	chocolate  is a kind of food	nongold
+17	Which food is a fruit?	question
+18	a dessert is a kind of food	nongold
+19	a source of something emits; produces; generates; provides that something	nongold
+20	a lemon is a kind of fruit	nongold
+21	Which food is a fruit?	question
+22	provide is similar to give; make	nongold
+23	fruit drink is a kind of beverage	nongold
+24	a food contains nutrients for living things	nongold
+25	a tree is a kind of matter	nongold
+26	green plants are a kind of producer	nongold
+27	fruit contains seeds	gold
+28	Which food is a fruit?	question
+29	some flowers become fruits	nongold
+30	a container is a kind of object	nongold
+31	fruit is a kind of food	gold
+32	made up of means contains; made of	nongold
+33	a fruit is a kind of object	nongold
+34	a pumpkin	answer
+35	if something is made of something; a material then that something contains that something; that material	nongold
+36	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+37	matter; materials; substances are made of atoms; particles	nongold
+38	substances are made of matter	nongold
+39	a gourd is a kind of fruit	gold
+40	a pumpkin contains seeds	gold
+41	squirrels eat edible plants; fruit	nongold
+42	a pumpkin is a kind of gourd	gold
+43	a pumpkin	answer
+44	seeds are a part of  berries	nongold
+45	a pumpkin is a kind of gourd	gold
+46	a plant is a kind of organism	nongold
+47	a pumpkin	answer
+48	fruit contains seeds	gold
+49	a producer is a kind of living thing	nongold
+50	a pumpkin	answer
+51	a pumpkin contains seeds	gold
+52	to contain something means to have that something	nongold
+53	fruit juice is a kind of  drink	nongold
+54	living things eat their food source	nongold
+55	fruit contains seeds	gold
+56	fruit is a part of a plant; tree	gold
+57	a gourd is a kind of fruit	gold
+58	a pumpkin is a kind of gourd	gold
+59	Which food is a fruit?	question
+60	material means substance	nongold

@@ -1,0 +1,102 @@
+Question	Chemical pesticides are sometimes sprayed on crops to kill insects that eat the crops. People have different viewpoints about the use of pesticides on crops. What might be a concern about using pesticides on the crops?	question
+Answer	Will the food harm humans?	answer
+0	a pesticide is used for protecting plants by killing insects	gold
+1	eating food that contains pesticides can have a negative impact on humans	gold
+2	using a pesticide usually requires spraying that pesticide on crops	gold
+3	a concern; a problem is a possible negative impact	gold
+4	humans eat crops	gold
+5	insects can have a negative impact on crops	nongold
+6	a pesticide is usually very poisonous to insects	gold
+7	person is synonymous with human	nongold
+8	insects eat crops	nongold
+9	harming something has a  negative impact on; effect on that something	nongold
+10	an animal is a kind of organism	nongold
+11	to hurt means to harm	nongold
+12	crops are a kind of edible plant for eating	nongold
+13	harming an organism can cause that organism to die	nongold
+14	a crop is a kind of food	nongold
+15	a person is a kind of animal	nongold
+16	killing means harming something causing death	nongold
+17	to eat means to consume food	nongold
+18	a human is a kind of animal	gold
+19	an animal is a kind of living thing	gold
+20	an insect is a kind of animal	nongold
+21	protecting something means preventing harm to that something	nongold
+22	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+23	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+24	food is what an animal eats	nongold
+25	humans sometimes eat seeds	nongold
+26	eating an animal; a plant means killing that animal; that plant	nongold
+27	an organism is a living thing	nongold
+28	negative impact is the opposite of positive impact	nongold
+29	human is a kind of organism	nongold
+30	an animal needs to eat food for nutrients	nongold
+31	a pesticide is infrequently poisonous to humans	gold
+32	farming is when a human plants crops for food	nongold
+33	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	nongold
+34	harm means injury	nongold
+35	something harmful can cause harm	nongold
+36	chemicals can be pollutants	nongold
+37	if an organism eats something then that something is a source of frood to that organism	nongold
+38	a plant is a kind of organism	nongold
+39	pesticides can cause pollution	nongold
+40	adverse effect means negative impact	nongold
+41	poison causes harm to living things; organisms	gold
+42	damage means harm	nongold
+43	an insect is a kind of prey	nongold
+44	a plant; living thing requires food for survival	nongold
+45	organisms are a part of an environment	nongold
+46	death means to die	nongold
+47	living things eat their food source	nongold
+48	an organism eating is a kind of action	nongold
+49	if a living thing dies then that living thing is dead	nongold
+50	An insect is a pollinating animal	nongold
+51	helping something has a  positive impact on that something	nongold
+52	harm means danger	nongold
+53	chemicals means substances	nongold
+54	a negative impact is a kind of consequence; risk	nongold
+55	polluting means something poisonous is added to an environment	nongold
+56	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+57	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+58	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+59	an animal; living thing requires nutrients for survival	nongold
+60	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+61	a farmer is a kind of human	nongold
+62	a plant is a kind of living thing	nongold
+63	if a living thing requires something then that something has a positive impact on that living thing	nongold
+64	food is a kind of substance	nongold
+65	a farmer farms crops; plants for  food	nongold
+66	to prey on an animal means to eat that animal	nongold
+67	to be used for something means to be required by that something	nongold
+68	a predator eats other animals for food	nongold
+69	consumers eat other organisms	nongold
+70	farming is a source of food	nongold
+71	a living thing is a kind of object	nongold
+72	poisoning an environment means poisoning the organisms in that environment	nongold
+73	killing means changing a living thing from alive to dead by harming	nongold
+74	if a plant dies then that plant will not produce food	nongold
+75	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+76	insect bites cause harm to living things	nongold
+77	a food contains nutrients for living things	nongold
+78	to help; to benefit means to be of use	nongold
+79	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+80	a pollutant is a kind of substance	nongold
+81	if an organism dies then the population of that organism will decrease	nongold
+82	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+83	damage has a negative impact on a thing	nongold
+84	to impact means to affect	nongold
+85	fertilizers have a negative impact on the environment; natural resources	nongold
+86	if crops are sprayed with something then that something will be on the crop's surface	gold
+87	bacteria; viruses cause food poisoning	nongold
+88	threatening the existence of an organism has a negative impact on that organism	nongold
+89	cropland is used for farming by humans	nongold
+90	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+91	predators eat prey	nongold
+92	a predator usually kills its prey to eat it	nongold
+93	a producer is a kind of living thing	nongold
+94	decreasing something positive has a negative impact on a thing	nongold
+95	best means most positive	nongold
+96	impact means effect	nongold
+97	society is made of humans	nongold
+98	having food has a positive impact on an organism's health	nongold
+99	causing is a kind of affecting	nongold

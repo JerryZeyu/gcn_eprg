@@ -1,0 +1,102 @@
+0	Scurvy is a disease that sailors often got on long voyages. It was discovered that scurvy could be prevented by eating oranges and lemons. This suggests that scurvy is a disease caused by	question
+1	a nutritional deficiency	answer
+2	scurvy is a kind of disease	gold
+3	eating oranges; lemons can prevent scurvy	gold
+4	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	gold
+5	a lemon is a kind of fruit	gold
+6	an orange is a kind of fruit	gold
+7	disease means illness	nongold
+8	fruit is a kind of food	gold
+9	a human is a kind of animal	nongold
+10	disease has a negative impact on an organism	nongold
+11	an animal needs to eat food for nutrients	nongold
+12	preventing something decreases the amount of that something	nongold
+13	harming something has a  negative impact on; effect on that something	nongold
+14	an increase is the opposite of a decrease	nongold
+15	a food contains nutrients for living things	nongold
+16	an animal requires enough nutrients to maintain good health; survive	nongold
+17	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+18	an animal is a kind of living thing	nongold
+19	an animal; living thing requires nutrients for survival	nongold
+20	causing is a kind of affecting	nongold
+21	to eat means to consume food	nongold
+22	if something is caused by something else , then that something can be explained by that something else	nongold
+23	fruit is  usually a solid	nongold
+24	illness has a negative impact on an organism's health	nongold
+25	an animal is a kind of organism	nongold
+26	a lemon has strong odor	nongold
+27	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+28	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+29	low is similar to decrease	nongold
+30	eating certain foods is a kind of habit	nongold
+31	trait is synonymous with characteristic	nongold
+32	helping something has a  positive impact on that something	nongold
+33	nutrients are a kind of matter	nongold
+34	sugary foods; drinks are dangerous to a person with diabetes	nongold
+35	food is what an animal eats	nongold
+36	healthy means not having disease	nongold
+37	diet means what an animal eats	nongold
+38	eating something decreases the amount of that something	nongold
+39	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+40	person is synonymous with human	nongold
+41	to be a source of something means to cause that something	nongold
+42	nutrients are simpler than food	nongold
+43	an organism is a living thing	nongold
+44	negative impact is the opposite of positive impact	nongold
+45	requiring is similar to needing help	nongold
+46	lemon juice is a kind of substance	nongold
+47	a nutrient is a kind of object	nongold
+48	high is similar to increase	nongold
+49	a negative impact is a kind of consequence; risk	nongold
+50	lemon juice is a kind of acid	nongold
+51	lemon juice is a kind of acid	nongold
+52	death means to die	nongold
+53	sugar is a kind of food	nongold
+54	to prevent means to make it not happen	nongold
+55	a person is a kind of animal	nongold
+56	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+57	an apple is a kind of fruit	nongold
+58	nutrients are a kind of substance	nongold
+59	little is similar to decrease	nongold
+60	the body is a part of an organism	nongold
+61	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+62	a vegetable is a kind of food	nongold
+63	due to means caused by	nongold
+64	human is a kind of organism	nongold
+65	the  diet of an animal is an inherited characteristic	nongold
+66	adverse effect means negative impact	nongold
+67	fruit salad often is made of  fruit	nongold
+68	food poisoning is a kind of illness	nongold
+69	inhibitor means something that prevents something from happening	nongold
+70	fruit juice is usually high in sugar	nongold
+71	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+72	a person with diabetes should be careful about eating or drinking something that is high in sugar	nongold
+73	to cause means to have an effect	nongold
+74	if a living thing requires something then that something has a positive impact on that living thing	nongold
+75	a decrease is a kind of change	nongold
+76	dying is the opposite of living; surviving	nongold
+77	low is the opposite of high	nongold
+78	an increase is a kind of change	nongold
+79	fruit salad is a kind of salad	nongold
+80	a gourd is a kind of fruit	nongold
+81	being unhealthy has a negative impact on an organism	nongold
+82	producing is similar to causing	nongold
+83	a fruit is a kind of object	nongold
+84	typically means usually	nongold
+85	to lower means to decrease	nongold
+86	a type is synonymous with a kind	nongold
+87	a disordered immune system causes autoimmune diseases	nongold
+88	arteries; veins transport nutrients; water; minerals throughout the body	nongold
+89	orange is a kind of color	nongold
+90	learning about the cause of a disease has a positive impact on finding a cure for the disease	nongold
+91	answering questions requires information	nongold
+92	sugary means high in sugar	nongold
+93	requiring something means needing that something	nongold
+94	food spoiling has a negative impact on the health of the animal that eats that food	nongold
+95	desserts usually have less  nutrients than other foods	nongold
+96	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+97	nutrients are a kind of material	nongold
+98	food contains carbohydrates	nongold
+99	dysentery is a kind of illness	nongold
+100	something harmful can cause harm	nongold
+101	a source of something emits; produces; generates; provides that something	nongold

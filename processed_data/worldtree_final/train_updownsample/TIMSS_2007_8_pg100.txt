@@ -1,0 +1,71 @@
+0	falling means height decreases	gold
+1	falling means height decreases	gold
+2	gas is a kind of substance	nongold
+3	rising means height; altitude increases	gold
+4	size; amount of space means volume	nongold
+5	shrinking decreases size	nongold
+6	an increase is the opposite of a decrease	gold
+7	glass is a kind of solid at room temperature	gold
+8	Colored alcohol is used in some glass thermometers. When placed in air of different temperatures, the column of alcohol rises or falls in the glass thermometer. Which of the following best explains why the height of the alcohol column changes?	question
+9	a container contains objects; material; substances	nongold
+10	a barometer is used to measure air pressure	nongold
+11	an increase is a kind of change	gold
+12	an increase is the opposite of a decrease	gold
+13	rising means height; altitude increases	gold
+14	heating means adding heat	nongold
+15	low is the opposite of high	nongold
+16	rising means height; altitude increases	gold
+17	heat means heat energy	nongold
+18	when metal conducts heat , that metal expands	nongold
+19	color is a property of  an object; a material	nongold
+20	below means lower down	nongold
+21	hot means high in heat energy; temperature	nongold
+22	The alcohol expands more than the glass when heated.	answer
+23	liquids expand more than solids when heated	gold
+24	alcohol is a kind of liquid	gold
+25	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+26	rising is a kind of motion	nongold
+27	liquids expand more than solids when heated	gold
+28	low means down	nongold
+29	heat means temperature increases	nongold
+30	The alcohol expands more than the glass when heated.	answer
+31	Colored alcohol is used in some glass thermometers. When placed in air of different temperatures, the column of alcohol rises or falls in the glass thermometer. Which of the following best explains why the height of the alcohol column changes?	question
+32	a thermometer is a kind of instrument for measuring temperature	gold
+33	glass is a kind of solid at room temperature	gold
+34	Colored alcohol is used in some glass thermometers. When placed in air of different temperatures, the column of alcohol rises or falls in the glass thermometer. Which of the following best explains why the height of the alcohol column changes?	question
+35	thermal expansion is a property of matter and includes ordered values of high; low	nongold
+36	temperature is a property of weather	nongold
+37	alcohol is a kind of liquid	gold
+38	Colored alcohol is used in some glass thermometers. When placed in air of different temperatures, the column of alcohol rises or falls in the glass thermometer. Which of the following best explains why the height of the alcohol column changes?	question
+39	The alcohol expands more than the glass when heated.	answer
+40	falling means height decreases	gold
+41	to travel up means to rise	nongold
+42	extreme means very high in value	nongold
+43	as the liquid in a tube expands , the height of  the liquid in that tube will increase	gold
+44	larger means greater; higher; more; increase in size	nongold
+45	as the liquid in a tube expands , the height of  the liquid in that tube will increase	gold
+46	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+47	a thermometer is a kind of instrument for measuring temperature	gold
+48	an increase is the opposite of a decrease	gold
+49	tall means great in height	nongold
+50	variable means able to change	nongold
+51	low is similar to decrease	nongold
+52	an increase is a kind of change	gold
+53	the air is a kind of substance	nongold
+54	a thermometer is a kind of instrument for measuring temperature	gold
+55	an increase is a kind of change	gold
+56	adding heat means increasing temperature	nongold
+57	a barometer is a kind of instrument for measuring air pressure	nongold
+58	a liquid is a kind of substance	nongold
+59	atmosphere means  air	nongold
+60	closer means lower; less; a decrease in distance	nongold
+61	alcohol is a kind of liquid	gold
+62	air temperature is a kind of temperature	nongold
+63	glass is a kind of solid at room temperature	gold
+64	increasing heat causes thermal expansion	nongold
+65	to lower means to decrease	nongold
+66	The alcohol expands more than the glass when heated.	answer
+67	liquids expand more than solids when heated	gold
+68	to reduce means to decrease	nongold
+69	a decrease is a kind of change	nongold
+70	as the liquid in a tube expands , the height of  the liquid in that tube will increase	gold

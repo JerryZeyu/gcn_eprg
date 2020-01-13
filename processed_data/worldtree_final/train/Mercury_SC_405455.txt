@@ -1,0 +1,102 @@
+0	New engine technology has helped cars get more mileage per gallon of gas. Since gasoline comes from oil, this technology will affect the world supply of oil by	question
+1	extending the time that oil will be available for people to use.	answer
+2	oil is a source of gasoline	gold
+3	as mileage per galon of gasoline increases , the amount of gasoline used will decrease	gold
+4	as the use of a resource decreases , the length of time that resource will be available increases	gold
+5	gasoline is a kind of fuel	nongold
+6	to be used for something means to be required by that something	nongold
+7	to impact means to affect	nongold
+8	the automobile is a kind of technology	nongold
+9	oil is a kind of fossil fuel	nongold
+10	person is synonymous with human	nongold
+11	using a gasoline engine requires burning  gasoline	nongold
+12	using gasoline is a source of carbon dioxide	nongold
+13	helping something has a  positive impact on that something	nongold
+14	a car is a kind of automobile	nongold
+15	an automobile is a kind of vehicle	nongold
+16	an engine is a part of an automobile	nongold
+17	if something comes from something else then that something else is a source of that something	nongold
+18	increase is similar to extend	gold
+19	petroleum is a kind of fossil fuel	nongold
+20	a car engine is a part of a car	nongold
+21	operating an automobile usually requires fossil fuels	nongold
+22	resources becoming available has a positive impact on the things that need those resources	nongold
+23	to help; to benefit means to be of use	nongold
+24	a car is a kind of vehicle	gold
+25	affected means changed	nongold
+26	to use means to utilize	nongold
+27	gasoline is a kind of chemical power source	nongold
+28	to depend on; to rely on; to need means to require	nongold
+29	a supply of something is a source of that something	nongold
+30	to last longer means to be available longer	nongold
+31	where something  comes from is a source of that something	nongold
+32	a person is a kind of animal	nongold
+33	impact means effect	nongold
+34	vehicles usually require gasoline to operate	gold
+35	if something is a raw material then that something comes directly from a source	nongold
+36	to be used  for something means to help to do that something	nongold
+37	oil is a kind of substance; matter	nongold
+38	if something affects a part of something else then that something affects that something else	nongold
+39	an object; material; substance comes from that object or material's source	nongold
+40	causing is a kind of affecting	nongold
+41	automobiles; industrialization are a source of carbon dioxide	nongold
+42	getting something increases the amount of that something	nongold
+43	a vehicle is used for transportation	nongold
+44	if something requires something else then that something requires a source of that something else	nongold
+45	consumption means use	nongold
+46	requiring something means needing that something	nongold
+47	length of time means period of time	nongold
+48	less is similar to decrease	nongold
+49	a human is a kind of animal	nongold
+50	a source of something supplies that something	nongold
+51	requiring is similar to needing help	nongold
+52	one can get something from a source	nongold
+53	as available resources increases , the population of an organism that uses those resources will increase	nongold
+54	a producer is a kind of living thing	nongold
+55	miles are a kind of unit for measuring distance	nongold
+56	the amount of something is similar to the availability of something	nongold
+57	a source of something emits; produces; generates; provides that something	nongold
+58	natural gas is a kind of fossil fuel	nongold
+59	renewable resources are often available for many years	nongold
+60	an animal is a kind of consumer	nongold
+61	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+62	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+63	fuel supply is a kind of resource	nongold
+64	high is similar to increase	nongold
+65	gas-efficient engines use less gas	nongold
+66	oil is a kind of liquid	nongold
+67	oil is a kind of liquid	nongold
+68	oil is a nonrenewable resource	gold
+69	to act on means to affect	nongold
+70	gasoline is a source of chemical energy	nongold
+71	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+72	increase means more	nongold
+73	if something is powered by something else then that something requires a source of that something else	nongold
+74	if something is required for a process then that something positively impacts that process	nongold
+75	how long something takes is a kind of measurement of time	nongold
+76	less is the opposite of more	nongold
+77	change is a kind of impact	nongold
+78	to change means to have an effect	nongold
+79	burning gasoline is a source of  heat energy	nongold
+80	a consumer is a kind of organism	nongold
+81	a source of something increases the amount of that something	nongold
+82	renewable is the opposite of nonrenewable	nongold
+83	if something is a raw material in a process then that something is required for that process	nongold
+84	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+85	the supply of an inexhaustible resource does not change over a long period of time	nongold
+86	if something is required then that something must be provided	nongold
+87	a fossil fuel is a kind of natural resource	nongold
+88	to provide means to supply	nongold
+89	if something causes a process then that something is required for that process	nongold
+90	good means positive	nongold
+91	burning gasoline; oil is a source of air pollution	nongold
+92	transportation technology is used for moving people; products	nongold
+93	period is similar to amount of time	nongold
+94	an animal is a kind of living thing	nongold
+95	an increase is a kind of change	nongold
+96	a combustion engine requires fuel to operate	nongold
+97	a car engine is a source of heat	nongold
+98	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+99	a producer is a source of energy for consumers	nongold
+100	carbon dioxide is a kind of gas	nongold
+101	an animal is a kind of organism	nongold

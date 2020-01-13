@@ -1,0 +1,55 @@
+0	destroying something decreases the amount of that something	nongold
+1	to limit means to decrease	gold
+2	woodland means forest	nongold
+3	a tree can be replaced by planting a new tree each time one is cut down	nongold
+4	if an event is required for a process then that event must occur before that process can occur	nongold
+5	if something emits something else then that something increases the amount of that something else	nongold
+6	deforestation is the process of cutting down trees	nongold
+7	trees are a renewable resource	gold
+8	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+9	cutting down trees in forests	answer
+10	cutting down trees in a forest causes the number of trees to decrease in that forest	gold
+11	cutting down trees in forests	answer
+12	renewable is the opposite of nonrenewable	nongold
+13	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+14	removing forests means removing animal habitats	nongold
+15	to limit means to decrease	gold
+16	a tree is a kind of living thing	nongold
+17	if a resource is limited in supply then that resource will run out	nongold
+18	if a resource is limited in supply then that resource needs to be replaced	nongold
+19	cutting down trees in a forest causes the number of trees to decrease in that forest	gold
+20	wood is a kind of resource	nongold
+21	a source of something emits; produces; generates; provides that something	nongold
+22	a renewable resource is a kind of natural resource	nongold
+23	too much is similar to increase	nongold
+24	Which of the following could limit the supply of a renewable resource?	question
+25	roots are a part of a plant; tree	nongold
+26	a decrease is a kind of change	nongold
+27	a source of something supplies that something	nongold
+28	to limit means to decrease	gold
+29	a natural resource is a kind of environmental factor	nongold
+30	Which of the following could limit the supply of a renewable resource?	question
+31	Which of the following could limit the supply of a renewable resource?	question
+32	forest is synonymous with wooded area	nongold
+33	to reduce means to decrease	nongold
+34	cutting down trees in forests	answer
+35	trees are a renewable resource	gold
+36	cutting down trees in a forest causes the number of trees to decrease in that forest	gold
+37	a process is a kind of event	nongold
+38	negative impact is the opposite of positive impact	nongold
+39	Which of the following could limit the supply of a renewable resource?	question
+40	high is similar to increase	nongold
+41	an environment means an area	nongold
+42	renewable resources can be used over again	nongold
+43	destroying a forest means cutting down the trees in that forest	nongold
+44	trees are a renewable resource	gold
+45	a requirement is a kind of limitation	nongold
+46	low is similar to decrease	nongold
+47	can be means able to be	nongold
+48	renewable resources are often available for many years	nongold
+49	to be used for something means to be required by that something	nongold
+50	planting trees is the opposite of cutting down trees	nongold
+51	cutting down trees in forests	answer
+52	loss means reduction	nongold
+53	a tree contains wood	nongold
+54	deforested area means an area where trees have been cut down	nongold

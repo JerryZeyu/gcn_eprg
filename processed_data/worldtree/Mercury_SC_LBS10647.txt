@@ -1,0 +1,102 @@
+Question	All of these are ways to stay safe around electricity except	question
+Answer	plugging many appliances into one outlet.	answer
+0	plugging many appliances into one outlet is dangerous	gold
+1	an electric outlet is a source of electricity	nongold
+2	to protect means to make safe	nongold
+3	when an electrical conductor is plugged into an outlet , a circuit is completed	gold
+4	protecting something means preventing harm to that something	nongold
+5	keeping means staying	nongold
+6	safe is the opposite of unsafe; harm; danger	gold
+7	electricity means electrical energy	gold
+8	electric devices require electrical energy to function	nongold
+9	household appliances are a kind of electrical device	nongold
+10	tool is similar to appliance	nongold
+11	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+12	electrical devices are used for industrial purposes; household purposes by humans	nongold
+13	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	gold
+14	electricity sometimes is used for heating buildings; substances	nongold
+15	appliance is similar to technology	nongold
+16	microwave-safe is when a material can be microwaved safely	nongold
+17	to remain means to stay where it is	nongold
+18	being around something means surrounding  that something	nongold
+19	helping something has a  positive impact on that something	nongold
+20	a battery-operated device is a kind of electrical device	nongold
+21	electricity is used as an energy source by electrical devices	nongold
+22	to be in danger means to be around; to be near something dangerous	gold
+23	household appliances are connected  in parallel circuit	nongold
+24	a battery is a source of electrical energy; electricity	nongold
+25	harming something has a  negative impact on; effect on that something	nongold
+26	closing an electric circuit causes an electrical device to function	nongold
+27	to keep a process or event happening is similar to causing that process or event to happen	nongold
+28	staying means not changing	nongold
+29	except means not	nongold
+30	live is similar to stay	nongold
+31	a person should be careful about something dangerous	nongold
+32	plastic is microwave-safe	nongold
+33	metal is an  electrical; electrical energy conductor	nongold
+34	conductivity is a measure of how easily electricity travels through a material	nongold
+35	something hard; something strong can be used for protection	nongold
+36	to keep something occurring means to cause that something to occur	nongold
+37	electricity can  not flow through an open circuit	nongold
+38	electrical energy is a kind of energy	nongold
+39	a device is a kind of object	nongold
+40	a human is a kind of animal	nongold
+41	negative impact is the opposite of positive impact	nongold
+42	the function of something is what that something  is used to do	nongold
+43	operating electrical appliances requires electricity	nongold
+44	a  battery  is a kind of electrical power source	nongold
+45	person is synonymous with human	nongold
+46	decreasing use  of a resource protects that resource	nongold
+47	device means tool	nongold
+48	an electric motor is a kind of electrical device	nongold
+49	staying cool has a positive impact on a human's comfort	nongold
+50	if something is powered by something else then that something requires a source of that something else	nongold
+51	danger has a negative impact on a thing	nongold
+52	inhibitor means something that prevents something from happening	nongold
+53	an insulator is the opposite of a conductor	nongold
+54	if an object is made of a material then that object has the properties of that material	nongold
+55	solution is similar to a positive impact	nongold
+56	to keep something from happening means to prevent that something	nongold
+57	a battery is a kind of object	nongold
+58	warning people of dangers has a positive impact on the safety of those people	nongold
+59	damage has a negative impact on a thing	nongold
+60	requiring is similar to needing help	nongold
+61	An example of being careful is avoiding danger	nongold
+62	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+63	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+64	plastic is a kind of electrical insulator	nongold
+65	plastic is usually an electrical insulator	nongold
+66	a pipe is a kind of object	nongold
+67	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+68	An electrical conductor is a vehicle for the flow of electricity	nongold
+69	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+70	wiring requires an electrical conductor	nongold
+71	a device requires energy to operate	nongold
+72	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+73	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+74	technology is similar to tool	nongold
+75	good means positive	nongold
+76	protection means resistance to damage increases	nongold
+77	answering questions requires information	nongold
+78	harm means danger	nongold
+79	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+80	metal is a kind of material	nongold
+81	an event is a kind of action	nongold
+82	conductivity is a property of a material; substance	nongold
+83	best means most positive	nongold
+84	many means high in number	nongold
+85	an environment means an area	nongold
+86	objects are made of materials; substances; matter	nongold
+87	to remain means to not change	nongold
+88	a mechanism is a kind of system that performs a function	nongold
+89	to protect means to defend	nongold
+90	an insulator is a kind of material	nongold
+91	metal is a thermal; thermal energy conductor	nongold
+92	electrocution causes harm to an organism	gold
+93	a good conductor is a conductor	nongold
+94	can be means able to be	nongold
+95	a person is a kind of animal	nongold
+96	electrical current means electrical energy	nongold
+97	a process is a kind of event	nongold
+98	a tool is a kind of object	nongold
+99	damage means harm	nongold

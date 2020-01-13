@@ -1,0 +1,102 @@
+0	a drought is a kind of natural event	nongold
+1	drought is when amount of precipitation decreases	nongold
+2	a drought is a kind of slow environmental change	nongold
+3	an increase is a kind of change	nongold
+4	as the cause of something decreases , that something will decrease	nongold
+5	less is similar to decrease	nongold
+6	water is a kind of natural resource	nongold
+7	a stream is a kind of body of water	nongold
+8	variable means able to change	nongold
+9	less is the opposite of more	nongold
+10	to depend on; to rely on; to need means to require	nongold
+11	another means different	nongold
+12	an event is a kind of action	nongold
+13	They have different amounts of water.	answer
+14	increase means more	gold
+15	little is similar to decrease	nongold
+16	to reduce means to decrease	nongold
+17	to change means to become different	nongold
+18	negative impact is the opposite of positive impact	nongold
+19	little means low in amount	nongold
+20	flooding is a kind of change	nongold
+21	harming something has a  negative impact on; effect on that something	nongold
+22	rainfall is the amount of rain an area receives	nongold
+23	both means two	nongold
+24	a source of something increases the amount of that something	nongold
+25	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+26	water is a kind of substance	nongold
+27	rainstorm means rain storm	nongold
+28	a decrease is a kind of change	nongold
+29	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+30	rainfall means precipitation	nongold
+31	How are droughts always different from floods?	question
+32	largest amount means most	nongold
+33	if an animal cannot fly; climb then that animal will be more affected by a flood	nongold
+34	different seasons occur during different times of the year	nongold
+35	precipitation is a property of weather	nongold
+36	high is similar to increase	nongold
+37	as elevation of a place decreases , how much a flood will affect that place will increases	nongold
+38	if something has no impact on something else then that something else stays the same	nongold
+39	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+40	dry means low in amount of water; wetness; moisture	nongold
+41	heavy rains cause flooding	nongold
+42	if something is not the same as something else then that something is different from that something else	nongold
+43	a body of water is a kind of environment	nongold
+44	a body of water contains water	nongold
+45	new means different from the former one	nongold
+46	if a body of water loses all water then that body of water does not exist any more	nongold
+47	water is a kind of matter	nongold
+48	greatest means largest; highest; most amount of something	nongold
+49	when a body of water receives more water than it can hold , a flood occurs	gold
+50	to lower means to decrease	nongold
+51	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+52	storms;rain cause bodies of water to increase amount of water they contain	nongold
+53	quantity means amount	nongold
+54	low is similar to decrease	nongold
+55	fewer means lower; less in number	nongold
+56	not is similar to the opposite of	nongold
+57	a drought occurs over a period of months; years	nongold
+58	rainfall means the amount of precipitation	nongold
+59	to impact means to affect	nongold
+60	different is the opposite of the same	nongold
+61	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	gold
+62	rain is a kind of precipitation	nongold
+63	storing water increases the water available to organisms in a dry environment	nongold
+64	if a plant; crop requires less water then that plant; crop will survive in a drought	nongold
+65	a body of water is a source of water	nongold
+66	precipitation is a kind of weather	nongold
+67	a river is a kind of flowing body of water	nongold
+68	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+69	less means a reduced amount	nongold
+70	to lack means to not have	nongold
+71	flooding decreases the availability of food	nongold
+72	rain is a kind of water	nongold
+73	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+74	stay the same means not changing	nongold
+75	rainwater is a kind of water	nongold
+76	drought means available water decreases in an environment	gold
+77	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+78	flood plains are located near rivers	nongold
+79	a dry environment is low in availability of water	nongold
+80	a drought can change the color of an environment from green to brown	nongold
+81	water is a part of an environment	nongold
+82	to add means to increase	nongold
+83	something that contains water is similar to a body of water	nongold
+84	precipitation is when water falls from the sky	nongold
+85	when a river floods , that river deposits soil; sediment in flood plains	nongold
+86	rain is a source of water	nongold
+87	too much is similar to increase	nongold
+88	an area receiving rain means rain falling in that area	nongold
+89	affected means changed	nongold
+90	water is a kind of natural resource	nongold
+91	if something changes , then that something is not the same	nongold
+92	an increase is the opposite of a decrease	gold
+93	as the amount of water in a body of water decreases , the water levels will decrease	nongold
+94	deplete is similar to decrease	nongold
+95	animals; living things require water for survival	nongold
+96	opposite is a kind of different	nongold
+97	a drought is a kind of natural disaster	nongold
+98	staying means not changing	nongold
+99	a source of something emits; produces; generates; provides that something	nongold
+100	drought may cause wildfires	nongold
+101	wet is the opposite of dry	nongold

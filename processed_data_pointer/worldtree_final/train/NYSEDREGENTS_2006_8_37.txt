@@ -1,0 +1,102 @@
+0	disease means illness	nongold
+1	an animal needs to eat food for nutrients	nongold
+2	good means positive	nongold
+3	if something affects a part of something else then that something affects that something else	nongold
+4	bacteria is a kind of living thing	nongold
+5	mutualism is a kind of symbiotic relationship	nongold
+6	a living thing is made of cells	nongold
+7	dying is the opposite of living; surviving	nongold
+8	good bacteria grow on the skin; a human's skin	nongold
+9	a positive impact is a helpful effect	nongold
+10	to cause means to have an effect	nongold
+11	death means to die	nongold
+12	a vegetable is a kind of plant	nongold
+13	a source of something emits; produces; generates; provides that something	nongold
+14	Some microorganisms cause human disease. Other microorganisms are used in making cheese, yogurt, and bread. Based on this information, the relationship between humans and microorganisms can be	question
+15	to depend on; to rely on; to need means to require	nongold
+16	food poisoning is a kind of illness	nongold
+17	best means most positive	nongold
+18	illness has a negative impact on an organism's health	nongold
+19	a vegetable is a kind of food	nongold
+20	an animal requires enough nutrients to maintain good health; survive	nongold
+21	human is a kind of organism	nongold
+22	impact means effect	nongold
+23	if something is required for a process then that something positively impacts that process	nongold
+24	an organism is a living thing	gold
+25	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+26	dough is a kind of food	nongold
+27	answering questions requires information	nongold
+28	beneficial or harmful	answer
+29	helping something has a  positive impact on that something	nongold
+30	to be a source of something means to cause that something	nongold
+31	microorganisms cause food to spoil	nongold
+32	causing is a kind of affecting	nongold
+33	a bacterium is a kind of organism	nongold
+34	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+35	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+36	an animal is a kind of living thing	nongold
+37	bread is a kind of food	gold
+38	decreasing something negative has a positive impact on a thing	nongold
+39	an animal is a kind of consumer	nongold
+40	food contains carbohydrates	nongold
+41	nutrients are a kind of matter	nongold
+42	nonliving; non-living; die is the opposite of living; alive; live	nongold
+43	person is synonymous with human	nongold
+44	to be good for means to have a positive impact on	nongold
+45	an animal; living thing requires nutrients for survival	nongold
+46	decreasing something positive has a negative impact on a thing	nongold
+47	bacteria sometimes cause disease	nongold
+48	protecting something means preventing harm to that something	nongold
+49	meat is a kind of food	nongold
+50	killing microorganisms in food can be used to extend the shelf life of that food	nongold
+51	data means information	nongold
+52	requiring is similar to needing help	nongold
+53	a microorganism is a kind of decomposer	nongold
+54	mutualism has a positive impact on both organisms in the relationship	nongold
+55	if something causes a process then that something is required for that process	nongold
+56	organisms are a part of an environment	nongold
+57	absorbing something harmful has a negative impact on a thing	nongold
+58	to be involved in something means to have a role in something	nongold
+59	beneficial means helpful	nongold
+60	reducing bacteria in food prevents illness in people	nongold
+61	producer is a kind of role in the food chain process; in an ecosystem	nongold
+62	if a living thing dies then that living thing is dead	nongold
+63	cheese is a kind of food	gold
+64	an animal is a kind of organism	gold
+65	a food contains nutrients for living things	nongold
+66	microorganisms can cause infections	nongold
+67	bacteria; viruses cause food poisoning	nongold
+68	a microorganism is very small in size	nongold
+69	a producer is a kind of living thing	nongold
+70	a relationship occurs when two or more things interact with one another	nongold
+71	to cause means to make	nongold
+72	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+73	bacteria; molds; yeast cause food to spoil	nongold
+74	solution is similar to a positive impact	nongold
+75	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+76	disease has a negative impact on an organism	gold
+77	to impact means to affect	nongold
+78	harming an organism can cause that organism to die	nongold
+79	can be means able to be	nongold
+80	living things perform biological processes	nongold
+81	if two or more things are in a relationship then those things impact each other	gold
+82	better means good	nongold
+83	a symbiotic organism is made of two or more organisms in a symbiotic relationship	nongold
+84	to help; to benefit means to be of use	nongold
+85	disease-causing microbes have a negative impact on the body	nongold
+86	make means produce	nongold
+87	good bacteria have a positive impact on a living thing's survival; health	nongold
+88	if something is made by something else then that something is affected by that something else	nongold
+89	dairy is a kind of food	nongold
+90	adverse effect means negative impact	nongold
+91	something harmful can cause harm	nongold
+92	if a living thing requires something then that something has a positive impact on that living thing	gold
+93	to be used for something means to be required by that something	gold
+94	a fungus is a kind of organism	nongold
+95	negative impact is the opposite of positive impact	nongold
+96	a negative impact is a kind of consequence; risk	nongold
+97	yogurt is a kind of food	gold
+98	pathogens can cause disease	nongold
+99	a human is a kind of animal	gold
+100	an animal; bacterium requires oxygen for survival; to breathe	nongold
+101	harming something has a  negative impact on; effect on that something	gold

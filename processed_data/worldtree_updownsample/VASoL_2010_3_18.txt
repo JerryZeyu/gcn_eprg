@@ -1,0 +1,61 @@
+0	place is synonymous with location	nongold
+1	live is similar to stay	nongold
+2	safe is the opposite of unsafe; harm; danger	nongold
+3	seeking something means trying to find; searching for something	gold
+4	staying warm has a positive impact on an animal's survival; health	nongold
+5	moving is similar to travelling	nongold
+6	move to seek shelter	answer
+7	if humans disturb animals in a location then those animals will move to a different location	nongold
+8	When it rains, some animals will ___.	question
+9	if a habitat can no longer support animals then those animals will move to another area	nongold
+10	an animal requires shelter	gold
+11	shelter can protect animals;humans from weather	gold
+12	When it rains, some animals will ___.	question
+13	animals; living things live and feed in their habitats; near their habitats	nongold
+14	person is synonymous with human	nongold
+15	When it rains, some animals will ___.	question
+16	seeking something means trying to find; searching for something	gold
+17	an animal requires a habitat for survival	nongold
+18	rain is a kind of precipitation	gold
+19	move to seek shelter	answer
+20	if something moves then that something is in a different location	nongold
+21	rain is a kind of precipitation	gold
+22	if a living thing dies then that living thing is dead	nongold
+23	if a living thing becomes too cold then that living thing will die	nongold
+24	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+25	an animal requires shelter	gold
+26	a resident is a kind of person	nongold
+27	an organism is a living thing	nongold
+28	a shelter is used for living in by animals	nongold
+29	an animal needs to move to find shelter	gold
+30	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+31	shelter can protect animals;humans from weather	gold
+32	When it rains, some animals will ___.	question
+33	precipitation is when water falls from the sky	nongold
+34	seeking something means trying to find; searching for something	gold
+35	habitat destruction causes animals to move to find shelter in another habitat	nongold
+36	an animal requires shelter	gold
+37	a human is a kind of animal	nongold
+38	some animals move quickly to escape predators	nongold
+39	move to seek shelter	answer
+40	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+41	a living thing is a kind of object	nongold
+42	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+43	animals; living things require water for survival	nongold
+44	to move toward means to move nearer	nongold
+45	an animal needs to move to find shelter	gold
+46	rain is a kind of precipitation	gold
+47	killing means harming something causing death	nongold
+48	rainfall is the amount of rain an area receives	nongold
+49	an animal needs to move to find shelter	gold
+50	escape means avoid	nongold
+51	nonliving; non-living; die is the opposite of living; alive; live	nongold
+52	shelter can protect animals;humans from weather	gold
+53	a desert environment receives low rainfall	nongold
+54	move to seek shelter	answer
+55	an environment is a kind of place	nongold
+56	keeping means staying	nongold
+57	an animal is a member of an animal species	nongold
+58	an organism's shelter is a part of that organism's environment	nongold
+59	An example of stormy weather is rain	nongold
+60	high is similar to increase	nongold

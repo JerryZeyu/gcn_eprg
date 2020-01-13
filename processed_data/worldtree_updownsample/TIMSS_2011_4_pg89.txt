@@ -1,0 +1,58 @@
+0	down is a kind of direction	gold
+1	the slope of the land causes a river to flow in a particular direction	gold
+2	water  flows down a slope	gold
+3	slope is a measure of the difference in elevation between one part of the land and another part of the land	gold
+4	land is a kind of landform	nongold
+5	water  flows down a slope	gold
+6	The direction water flows in a river depends on	question
+7	low is similar to decrease	nongold
+8	wind direction is a property of weather	nongold
+9	down is a kind of direction	gold
+10	inclined means sloping	nongold
+11	according to is similar to be determined by	nongold
+12	runoff is when cropland water enters; runs off into bodies of water	nongold
+13	navigation requires knowing direction	nongold
+14	the slope of the land	answer
+15	a decrease is a kind of change	nongold
+16	the slope of the land causes a river to flow in a particular direction	gold
+17	a process is a kind of event	nongold
+18	to turn means to change	nongold
+19	a source of something emits; produces; generates; provides that something	nongold
+20	when a river floods , that river deposits soil; sediment in flood plains	nongold
+21	runoff is a kind of water	nongold
+22	water  flows down a slope	gold
+23	The direction water flows in a river depends on	question
+24	variable means able to change	nongold
+25	far means great in distance	nongold
+26	as elevation of a place decreases , how much a flood will affect that place will increases	nongold
+27	an environment means an area	nongold
+28	the slope of the land causes a river to flow in a particular direction	gold
+29	a landform is a kind of object	nongold
+30	sinking is a kind of downward direction	nongold
+31	answering questions requires information	nongold
+32	soil erosion is a kind of event	nongold
+33	the Colorado River is a kind of river	nongold
+34	the slope of the land	answer
+35	to reduce means to decrease	nongold
+36	needing something means depending on that something	nongold
+37	The direction water flows in a river depends on	question
+38	a riverbed is a part of a river	nongold
+39	down is a kind of direction	gold
+40	low means down	nongold
+41	a landform is a kind of place	nongold
+42	a river basin is a kind of land drained by a river and its tributaries	nongold
+43	the slope of the land	answer
+44	the slope of the land	answer
+45	toward is a kind of direction	nongold
+46	The direction water flows in a river depends on	question
+47	change is a kind of impact	nongold
+48	movement is a kind of change	nongold
+49	water is a kind of matter	nongold
+50	an increase is a kind of change	nongold
+51	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+52	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+53	less is similar to decrease	nongold
+54	soil and sediment deposited by a river are usually high; rich in nutrients	nongold
+55	slope is a measure of the difference in elevation between one part of the land and another part of the land	gold
+56	soil erosion is a kind of slow; natural process	nongold
+57	slope is a measure of the difference in elevation between one part of the land and another part of the land	gold

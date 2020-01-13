@@ -1,0 +1,102 @@
+0	an animal requires enough nutrients to maintain good health; survive	nongold
+1	adverse effect means negative impact	nongold
+2	exercise daily	answer
+3	to help; to benefit means to be of use	nongold
+4	a part of a process means a stage in a process	nongold
+5	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+6	exercise increases a body's strength	nongold
+7	the body is a part of an organism	nongold
+8	usually means most of the time	nongold
+9	sleeping all day has a  negative impact on a human's health	nongold
+10	the day time is part of one day	nongold
+11	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+12	to impact means to affect	nongold
+13	an animal is a kind of organism	nongold
+14	a process is a kind of event	nongold
+15	exercise means physical fitness	nongold
+16	an animal; living thing requires nutrients for survival	nongold
+17	good means positive	gold
+18	an increase is the opposite of a decrease	nongold
+19	a positive impact is  a benefit	nongold
+20	less is similar to decrease	nongold
+21	requiring something means needing that something	nongold
+22	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+23	An example of managing; maintaining the number; the use of something is replacing that something	nongold
+24	hard is the opposite of easy	nongold
+25	to enhance means to increase	nongold
+26	action means activity	nongold
+27	if something has a positive impact on health then that something can help to maintain good health	gold
+28	to be good for means to have a positive impact on	nongold
+29	a human requires sleep; rest to be healthy	nongold
+30	helping something has a  positive impact on that something	nongold
+31	nutrients are a kind of matter	nongold
+32	to maintain means to not change	nongold
+33	can means having the ability to	nongold
+34	can be means able to be	nongold
+35	smoking tobacco decreases stamina; cardiovascular efficiency	nongold
+36	daily means every day; once per day	nongold
+37	a source of something emits; produces; generates; provides that something	nongold
+38	a process usually requires all of the stages in that process	nongold
+39	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+40	low is similar to decrease	nongold
+41	increase means more	nongold
+42	if something is required for a process then that something positively impacts that process	nongold
+43	healing requires rest; nutrients; energy	nongold
+44	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+45	harming something has a  negative impact on; effect on that something	nongold
+46	low is the opposite of high	nongold
+47	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+48	physical fitness is similar to athletic ability	nongold
+49	being sick is a kind of problem; harm	nongold
+50	a person is a kind of animal	nongold
+51	a decrease is a kind of change	nongold
+52	helping means something can be done; completed more easily; better	nongold
+53	if a living thing requires something then that something has a positive impact on that living thing	nongold
+54	some types of new technology cause physical activity to decrease	nongold
+55	healthy means not having disease	nongold
+56	beneficial means helpful	nongold
+57	rest has a  positive impact on a health	nongold
+58	decreasing something positive has a negative impact on a thing	nongold
+59	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+60	little is similar to decrease	nongold
+61	a positive impact is a helpful effect	nongold
+62	best means most positive	nongold
+63	to be used for something means to be required by that something	nongold
+64	a component of something means a part of that something	nongold
+65	exercising is a kind of habit	nongold
+66	exercise has a positive impact on a human's health	gold
+67	a source of something increases the amount of that something	nongold
+68	what something needs is a property of that something	nongold
+69	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+70	1 week is equal to 7 days	nongold
+71	exercise has a  positive impact on a body's strength	nongold
+72	an event is a kind of action	nongold
+73	to depend on; to rely on; to need means to require	nongold
+74	rest is a kind of activity	nongold
+75	exercise is a kind of physical activity	nongold
+76	dying is the opposite of living; surviving	nongold
+77	to improve means to have a positive impact	nongold
+78	maintain is similar to control	nongold
+79	physical fitness is an acquired characteristic	nongold
+80	a component means a part of	nongold
+81	solution is similar to a positive impact	nongold
+82	an animal is a kind of living thing	nongold
+83	trait is synonymous with characteristic	nongold
+84	better means good	nongold
+85	human is similar to individual	nongold
+86	negative impact is the opposite of positive impact	nongold
+87	high is similar to increase	nongold
+88	illness has a negative impact on an organism's health	nongold
+89	a food contains nutrients for living things	nongold
+90	human is a kind of organism	nongold
+91	requiring is similar to needing help	nongold
+92	What is one way that humans can maintain good health?	question
+93	a body system is a part of the body; an animal	nongold
+94	an organism is a living thing	nongold
+95	a human is a kind of animal	nongold
+96	1 day is equal to 24 hours	nongold
+97	able is the opposite of unable	nongold
+98	everyday means daily	nongold
+99	an increase is a kind of change	nongold
+100	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+101	person is synonymous with human	nongold

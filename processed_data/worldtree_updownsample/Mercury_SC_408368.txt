@@ -1,0 +1,87 @@
+0	a stove generates heat for cooking usually	gold
+1	if a container contains something then that container touches that something	gold
+2	a thermal conductor is made of materials that conduct thermal energy	gold
+3	a container contains objects; material; substances	gold
+4	fire gives off light; heat; smoke	nongold
+5	if a container contains something then that container touches that something	gold
+6	hot means high in heat energy; temperature	nongold
+7	if an object is made of a material then that object has the properties of that material	gold
+8	being  on something; placed in something; placed over something means touching  that something	gold
+9	The water will evaporate.	answer
+10	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+11	a pan;frying pan is a kind of container for cooking; food	gold
+12	The water will evaporate.	answer
+13	a source of something emits; produces; generates; provides that something	gold
+14	if food is cooked then heat energy is added to that food	nongold
+15	if one surface; one substance; one object touches something then one is exposed to that something	gold
+16	pot;pan;frying pan is made of metal for cooking	gold
+17	metal is an  electrical; electrical energy conductor	nongold
+18	water is a kind of liquid at room temperature	gold
+19	gas is a kind of state of matter	nongold
+20	heat means temperature increases	nongold
+21	The water will evaporate.	answer
+22	low is similar to decrease	nongold
+23	water is a kind of liquid at room temperature	gold
+24	low means down	nongold
+25	evaporation is a kind of process	nongold
+26	melting is when solids are heated above their melting point	nongold
+27	a living thing is a kind of object	nongold
+28	heat energy can change the state of matter	nongold
+29	if one surface; one substance; one object touches something then one is exposed to that something	gold
+30	fire transfers heat through waves	nongold
+31	high is similar to increase	nongold
+32	if an object is made of a material then that object has the properties of that material	gold
+33	James put some water in a pan. He put the pan on a stove and turned the stove on low. What will happen to the water?	question
+34	to happen means to occur	nongold
+35	a stove generates heat for cooking usually	gold
+36	a pan;frying pan is a kind of container for cooking; food	gold
+37	water is a kind of liquid at room temperature	gold
+38	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+39	if an object is made of a material then that object has the properties of that material	gold
+40	a stove generates heat for cooking usually	gold
+41	James put some water in a pan. He put the pan on a stove and turned the stove on low. What will happen to the water?	question
+42	being  on something; placed in something; placed over something means touching  that something	gold
+43	evaporation; boiling can be used for separating a solution by allowing the solvent to evaporate	nongold
+44	a hot substance is a source of heat	nongold
+45	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+46	to slow; to slow down decreases speed	nongold
+47	a source of something emits; produces; generates; provides that something	gold
+48	warm; becoming warm means heat is added	nongold
+49	to combust means to catch fire	nongold
+50	metal is a thermal; thermal energy conductor	gold
+51	if liquid is boiling then that liquid is hot	nongold
+52	if one surface; one substance; one object touches something then one is exposed to that something	gold
+53	moisture means liquid; liquid water	nongold
+54	metal is a thermal; thermal energy conductor	gold
+55	pot;pan;frying pan is made of metal for cooking	gold
+56	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+57	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+58	heat means heat energy	nongold
+59	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+60	a thermal conductor is made of materials that conduct thermal energy	gold
+61	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+62	a source of something emits; produces; generates; provides that something	gold
+63	a pan;frying pan is a kind of container for cooking; food	gold
+64	a thermal conductor is made of materials that conduct thermal energy	gold
+65	heat energy  can be used to heat up  an object	nongold
+66	James put some water in a pan. He put the pan on a stove and turned the stove on low. What will happen to the water?	question
+67	being  on something; placed in something; placed over something means touching  that something	gold
+68	to lower means to decrease	nongold
+69	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+70	pot;pan;frying pan is made of metal for cooking	gold
+71	The water will evaporate.	answer
+72	heating salt water causes the water to evaporate while the salt remains	nongold
+73	a stove is a kind of machine	nongold
+74	thermal conduction is when heat flows from warmer object to cooler object	nongold
+75	a container contains objects; material; substances	gold
+76	a container is a kind of object	gold
+77	an electric stove changes electrical energy into heat energy	nongold
+78	a container is a kind of object	gold
+79	a container contains objects; material; substances	gold
+80	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+81	condensation is when matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+82	if a container contains something then that container touches that something	gold
+83	metal is a thermal; thermal energy conductor	gold
+84	liquid is a kind of state of matter	nongold
+85	a container is a kind of object	gold
+86	James put some water in a pan. He put the pan on a stove and turned the stove on low. What will happen to the water?	question

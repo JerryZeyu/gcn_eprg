@@ -1,0 +1,102 @@
+Question	New vaccines for diseases are being developed all the time. How do vaccines most likely help people?	question
+Answer	Vaccines help prevent illnesses.	answer
+0	vaccines can help prevent illness	gold
+1	helping something has a  positive impact on that something	gold
+2	person is synonymous with human	gold
+3	vaccines are a source of long-term immunity against some diseases for the human body	nongold
+4	to be used  for something means to help to do that something	nongold
+5	a person is a kind of animal	nongold
+6	to help means to aid	nongold
+7	protecting something means preventing harm to that something	gold
+8	helping means something can be done; completed more easily; better	nongold
+9	to help; to benefit means to be of use	nongold
+10	disease means illness	nongold
+11	a human is a kind of animal	gold
+12	helping means to assist in a change	nongold
+13	harming something has a  negative impact on; effect on that something	gold
+14	negative impact is the opposite of positive impact	gold
+15	preventing something decreases the amount of that something	nongold
+16	illness has a negative impact on an organism's health	gold
+17	disease has a negative impact on an organism	nongold
+18	requiring is similar to needing help	nongold
+19	an animal is a kind of organism	gold
+20	medicine can cause people to have bad reactions	nongold
+21	death means to die	nongold
+22	good means positive	nongold
+23	best means most positive	nongold
+24	inhibitor means something that prevents something from happening	nongold
+25	an animal is a kind of living thing	nongold
+26	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+27	to prevent means to make it not happen	nongold
+28	to be helpful means to help to do	nongold
+29	dying is the opposite of living; surviving	nongold
+30	solution is similar to a positive impact	nongold
+31	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+32	being sick is a kind of problem; harm	nongold
+33	to be good for means to have a positive impact on	nongold
+34	pathogens can cause disease	nongold
+35	if a living thing requires something then that something has a positive impact on that living thing	nongold
+36	human is a kind of organism	nongold
+37	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+38	decreasing something negative has a positive impact on a thing	nongold
+39	to be used for something means to be required by that something	nongold
+40	medicine is used for curing people when they are sick	nongold
+41	developing means creating; inventing	nongold
+42	infection often requires medical treatment	nongold
+43	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+44	if an organism dies then the population of that organism will decrease	nongold
+45	to keep something from happening means to prevent that something	nongold
+46	if a living thing dies then that living thing is dead	nongold
+47	learning about the cause of a disease has a positive impact on finding a cure for the disease	nongold
+48	developing means making	nongold
+49	society is made of humans	nongold
+50	if something is required for a process then that something positively impacts that process	nongold
+51	a negative impact is a kind of consequence; risk	nongold
+52	if something causes a process then that something is required for that process	nongold
+53	cure means solution to being sick	nongold
+54	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+55	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+56	decreasing something positive has a negative impact on a thing	nongold
+57	killing means harming something causing death	nongold
+58	a source of something emits; produces; generates; provides that something	nongold
+59	if something has a positive impact on health then that something can help to maintain good health	nongold
+60	harming an organism can cause that organism to die	nongold
+61	to be a source of something means to cause that something	nongold
+62	to make something easier means to help	nongold
+63	an organism is a living thing	nongold
+64	bacteria can cause people to become ill	nongold
+65	adverse effect means negative impact	nongold
+66	to provide something means to be the source of that something	nongold
+67	pathogen is similar to harmful substance	nongold
+68	something harmful can cause harm	nongold
+69	answering questions requires information	nongold
+70	if something has a positive impact on something else then that something is important to that something else	nongold
+71	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+72	food poisoning is a kind of illness	nongold
+73	virus is a kind of living thing	nongold
+74	requiring something means needing that something	nongold
+75	reducing bacteria in food prevents illness in people	nongold
+76	poison causes harm to living things; organisms	nongold
+77	life means living things	nongold
+78	the immune system is a kind of body; human body system	nongold
+79	a process is a kind of event	nongold
+80	the ability to do means be able to do	nongold
+81	better means good	nongold
+82	to cause an event means to make that event more likely	nongold
+83	to cause something means to contribute to that something happening	nongold
+84	a positive impact is a helpful effect	nongold
+85	a part of a process means a stage in a process	nongold
+86	communication has a positive impact on a person's life	nongold
+87	to depend on; to rely on; to need means to require	nongold
+88	an event is a kind of action	nongold
+89	warning people of dangers has a positive impact on the safety of those people	nongold
+90	producing is similar to causing	nongold
+91	a process usually requires all of the stages in that process	nongold
+92	healthy means not having disease	nongold
+93	to create means to make	nongold
+94	if an organism dies then that organism can not perform its function	nongold
+95	organisms are a part of an environment	nongold
+96	to cause means to make	nongold
+97	saving money has a positive impact on a person; a company	nongold
+98	creating is similar to causing	nongold
+99	a bad reaction to medicine is a kind of problem	nongold

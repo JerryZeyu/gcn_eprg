@@ -1,0 +1,100 @@
+0	receive means get	nongold
+1	if something transfers something else then that something is a source of something else	nongold
+2	photosynthesizing means performing photosynthesis	nongold
+3	the photosynthetic life performs photosynthesis	nongold
+4	obtain is similar to receive	nongold
+5	solar energy is a kind of light	nongold
+6	photosynthesis is a kind of chemical  process	nongold
+7	life means living things	nongold
+8	sunlight produces heat	nongold
+9	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+10	an object; material; substance comes from that object or material's source	nongold
+11	the sun is the source of solar energy called sunlight	gold
+12	if something is transported to something else then that something else receives that something	nongold
+13	if a living thing requires something then that something has a positive impact on that living thing	nongold
+14	a supply of something is a source of that something	nongold
+15	if something is a raw material in a process then that something is required for that process	nongold
+16	a  plant requires sunlight for photosynthesis	gold
+17	to power means to provide energy for	nongold
+18	an organism requires energy for growth; repair	nongold
+19	emit means produce	nongold
+20	solar energy is a kind of energy	gold
+21	solar energy is an inexhaustible resource	nongold
+22	plant cells can perform photosynthesis	nongold
+23	sunlight means solar energy	nongold
+24	if something requires something else then that something requires a source of that something else	nongold
+25	if something is a raw material then that something comes directly from a source	nongold
+26	to depend on; to rely on; to need means to require	gold
+27	photosynthesis stores; captures energy	nongold
+28	if an object is a source of something for something else then that something else can obtain that something from that object	nongold
+29	a plant; living thing requires food for survival	nongold
+30	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+31	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+32	a  plant requires sunlight to  grow	nongold
+33	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+34	an animal is a kind of organism	nongold
+35	photosynthesis is a kind of chemical reaction	nongold
+36	to produce means to provide	nongold
+37	to receive sunlight means to absorb sunlight	gold
+38	one can get something from a source	nongold
+39	the sun is a source of radiation; heat called sunlight	nongold
+40	requiring is similar to needing help	nongold
+41	an organism is a living thing	nongold
+42	an animal; living thing requires nutrients for survival	nongold
+43	to be required means to be necessary	nongold
+44	where something  comes from is a source of that something	nongold
+45	a leaf absorbs sunlight to perform photosynthesis	gold
+46	an energy source is a kind of resource	nongold
+47	nutrients are a source of energy for living things	nongold
+48	food is a source of energy for animals; plants	nongold
+49	solar power means solar energy	nongold
+50	if something comes from something else then that something else is a source of that something	nongold
+51	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+52	Plants need a source of energy in order to perform photosynthesis. From which source do plants receive the energy needed to perform photosynthesis?	question
+53	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+54	if something causes a process then that something is required for that process	nongold
+55	solar energy is a renewable; inexhaustible resource	nongold
+56	resources sometimes are used for energy	nongold
+57	solar energy is a kind of heat energy	nongold
+58	solar radiation means solar energy	nongold
+59	a source of something supplies that something	nongold
+60	the sun is the source of energy for life on Earth	nongold
+61	answering questions requires information	nongold
+62	a leaf performs photosynthesis; gas exchange	nongold
+63	an animal is a kind of living thing	nongold
+64	a plant requires photosynthesis to grow; survive	nongold
+65	a plant is a kind of organism	nongold
+66	if something is required then that something must be provided	nongold
+67	if something is required for a process then that something positively impacts that process	nongold
+68	sunlight	answer
+69	to be used for something means to be required by that something	nongold
+70	a material is a kind of resource	nongold
+71	the sun is a source of light; light energy called sunlight	nongold
+72	a source of something increases the amount of that something	nongold
+73	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+74	photosynthesis is a source of oxygen	nongold
+75	living things all require energy for survival	nongold
+76	taking in something means receiving; absorbing; getting something	nongold
+77	to provide something means to be the source of that something	nongold
+78	if something is outside during the day then that something will receive sunlight	nongold
+79	sunlight is a kind of light	nongold
+80	a plant; living thing requires nutrients to grow	nongold
+81	what something needs is a property of that something	nongold
+82	plants are a source of oxygen through photosynthesis	nongold
+83	if something contains something , then something is able to provide something	nongold
+84	light is a kind of energy	nongold
+85	plants are a kind of resource	nongold
+86	light is a kind of energy	nongold
+87	vegetation means plants	nongold
+88	receiving sunlight  is synonymous with absorbing sunlight	nongold
+89	green plants are a kind of producer	nongold
+90	a living thing is a kind of object	nongold
+91	needing something means depending on that something	nongold
+92	the sun  is the source of energy for physical cycles on Earth	nongold
+93	a source of something emits; produces; generates; provides that something	nongold
+94	heat is a kind of energy	nongold
+95	a plant is a kind of living thing	nongold
+96	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+97	if something is passed down to something else then that something else receives that something	nongold
+98	sunlight is a kind of solar energy	gold
+99	requiring something means needing that something	nongold

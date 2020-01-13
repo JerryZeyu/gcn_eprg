@@ -1,0 +1,102 @@
+0	placing is a kind of action	nongold
+1	a block is a kind of object	nongold
+2	warm; becoming warm means heat is added	nongold
+3	melting is when solids are heated above their melting point	nongold
+4	water is a kind of liquid at room temperature	nongold
+5	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+6	a surface is a part of an object	nongold
+7	the heat energy in the cooler object increases in thermal conduction	nongold
+8	the energy from the sidewalk flows to the ice.	answer
+9	the sidewalk is a kind of object	gold
+10	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+11	if something generates energy for something else then that something powers that something else	nongold
+12	heat means temperature increases	nongold
+13	ice is a kind of solid	gold
+14	flowing is a kind of action	nongold
+15	a hot; warm something is a source of heat	nongold
+16	if something comes from something else then that something else is a source of that something	nongold
+17	heat means heat energy	nongold
+18	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+19	heating means adding heat	nongold
+20	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+21	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+22	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+23	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+24	to reduce means to decrease	nongold
+25	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+26	to conduct is similar to to transfer	nongold
+27	if an object is hot then the surfaces of that object are hot	nongold
+28	to flow is similar to to transfer	nongold
+29	where something  comes from is a source of that something	nongold
+30	if heat is conducted to an object then that object will become hot	nongold
+31	liquid water cooling causes that liquid water to freeze	nongold
+32	if heat is transferred to an object , then the object will get hot	nongold
+33	warm is similar to hot	nongold
+34	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+35	heat energy is synonymous with thermal energy	nongold
+36	motion is a source of kinetic energy in an object	nongold
+37	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+38	water is a kind of object	nongold
+39	water is a kind of matter	nongold
+40	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+41	high is similar to increase	nongold
+42	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+43	as the  amount of heat energy of a substance; of an object decreases , the amount of kinetic energy will decrease	nongold
+44	to slow; to slow down decreases speed	nongold
+45	transfer is a kind of process	nongold
+46	sidewalk means pavement	nongold
+47	being  on something; placed in something; placed over something means touching  that something	nongold
+48	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+49	ice is a kind of water phase	nongold
+50	if the energy in the object is transferred to the surrounding air , then the  temperature  of the object will   decrease	nongold
+51	water is an thermal; thermal energy conductor	nongold
+52	an increase is the opposite of a decrease	nongold
+53	heat means the transfer of thermal energy	nongold
+54	thermal conduction is when heat flows from warmer object to cooler object	gold
+55	if heat is added to a substance then that substance absorbs that heat	nongold
+56	to give off means to be the source of	nongold
+57	metal is a thermal; thermal energy conductor	nongold
+58	as the amount of heat energy of a substance; of an object increases , the amount of kinetic energy will increase	nongold
+59	A block of ice is placed on a hot sidewalk. The ice melts because	question
+60	ice is colder than water in temperature	nongold
+61	thermal energy is a kind of energy	nongold
+62	if liquid is boiling then that liquid is hot	nongold
+63	temperature is a measure of heat energy	nongold
+64	icy means made of ice	nongold
+65	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+66	water is a kind of substance	nongold
+67	solar energy is a kind of heat energy	nongold
+68	when a cooler object touches a warmer object , thermal conduction occurs	gold
+69	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+70	warm means medium heat energy; temperature	nongold
+71	adding heat means increasing temperature	nongold
+72	an object; material; substance comes from that object or material's source	nongold
+73	heat is a kind of energy	gold
+74	convert is similar to transfer	nongold
+75	transfer is a kind of change	nongold
+76	a surface is a part of a material	nongold
+77	heating is the opposite of cooling	nongold
+78	freezing is a kind of phase change	nongold
+79	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+80	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+81	if something hot is exposed to the air , then the heat will transfer to the air	nongold
+82	ice is a kind of object	gold
+83	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	gold
+84	conductivity is a property of a material; substance	nongold
+85	melting is a kind of process	nongold
+86	transferring is moving from one place to another place	nongold
+87	as heat is transferred from something to something else , the temperature of that something will decrease	nongold
+88	to add means to increase	nongold
+89	melting is a kind of phase change	nongold
+90	a hot substance is a source of heat	nongold
+91	absorbing energy causes objects; materials; substances to heat	nongold
+92	to lower means to decrease	nongold
+93	a source of something emits; produces; generates; provides that something	nongold
+94	flowing is a kind of motion	nongold
+95	a liquid is a kind of substance	nongold
+96	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+97	energy transformation means one kind of energy changes into another kind of energy	nongold
+98	an increase is a kind of change	nongold
+99	hot means high in heat energy; temperature	gold
+100	place is synonymous with location	nongold
+101	a sidewalk is located outside	nongold

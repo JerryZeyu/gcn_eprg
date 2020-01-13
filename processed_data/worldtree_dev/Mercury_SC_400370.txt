@@ -1,0 +1,102 @@
+Question	In what way do bushes benefit from bears eating their berries?	question
+Answer	Their seeds are spread around.	answer
+0	bears eat berries; insects; animals	nongold
+1	a positive impact is  a benefit	gold
+2	a bear is a kind of animal	gold
+3	helping something has a  positive impact on that something	nongold
+4	seed dispersal has a positive impact on a plant; a plant's reproduction	gold
+5	An example of seed dispersal is animals eating; excreting seeds	gold
+6	plant requires seed dispersal for reproduction	nongold
+7	an animal; living thing requires nutrients for survival	nongold
+8	a plant; living thing requires food for survival	nongold
+9	a bush is a kind of plant	gold
+10	if a living thing requires something then that something has a positive impact on that living thing	nongold
+11	a plant; living thing requires nutrients to grow	nongold
+12	an animal needs to eat food for nutrients	nongold
+13	a flower is a part of a plant for attracting pollinators; producing seeds	nongold
+14	a bear is a kind of predator	nongold
+15	to help; to benefit means to be of use	nongold
+16	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+17	plants are the source of fruit	nongold
+18	a positive impact is a helpful effect	nongold
+19	seeds are a part of  berries	nongold
+20	plant reproduction; seed production requires pollination	nongold
+21	seed dispersal is when the seeds of a plant are moved; are carried; are spread; are dropped; from the parent plant to another area	gold
+22	beneficial means helpful	nongold
+23	seed dispersers are a vehicle for spreading the seeds of a plant	gold
+24	a berry is a kind of fruit	nongold
+25	fruit is a part of a plant; tree	nongold
+26	to eat means to consume food	nongold
+27	a plant is a kind of living thing	nongold
+28	a shrub is a kind of plant	nongold
+29	seed dispersal is when the seeds of a plant are moved from the plant to  a new environment	nongold
+30	eating an animal; a plant means killing that animal; that plant	nongold
+31	a plant is a kind of organism	nongold
+32	a berry contains seeds	gold
+33	fruit is a kind of food	nongold
+34	reproduction increases the number; population of a living thing	nongold
+35	fruit contains seeds	nongold
+36	a food contains nutrients for living things	nongold
+37	a seed is a part of a plant	nongold
+38	food is what an animal eats	nongold
+39	seeds sprouting causes plants to grow	nongold
+40	harming something has a  negative impact on; effect on that something	nongold
+41	an animal is a kind of living thing	nongold
+42	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+43	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+44	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	nongold
+45	if an organism eats something then that something is a source of frood to that organism	nongold
+46	a tree is a kind of living thing	nongold
+47	an animal is a kind of organism	nongold
+48	a flower is a source of nectar	nongold
+49	negative impact is the opposite of positive impact	nongold
+50	a tree is a kind of plant	nongold
+51	green plants are a kind of producer	nongold
+52	humans sometimes eat seeds	nongold
+53	a seed is a kind of food for birds	nongold
+54	if something is required for a process then that something positively impacts that process	nongold
+55	birds sometimes eat berries;seeds	nongold
+56	a fruit is a kind of object	nongold
+57	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+58	to be used for something means to be required by that something	nongold
+59	an organism is a living thing	nongold
+60	predators eat prey	nongold
+61	positive impacts on a species will increase populations of a species	nongold
+62	In the tree reproduction process a squirrel has the role of  seed disperser	nongold
+63	to be used  for something means to help to do that something	nongold
+64	a living thing is a kind of object	nongold
+65	an animal is a kind of consumer	nongold
+66	seed dispersal is a kind of method of sexual reproduction	nongold
+67	vegetation means plants	nongold
+68	squirrels eat edible plants; fruit	nongold
+69	an animal requires enough nutrients to maintain good health; survive	nongold
+70	reproduction ensures the continuation of a plant or animal species	nongold
+71	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+72	crops are a kind of edible plant for eating	nongold
+73	spreading is a kind of motion	nongold
+74	a leaf is a part of a tree	nongold
+75	pollination is a kind of process for plant reproduction	nongold
+76	requiring is similar to needing help	nongold
+77	a seed is a kind of young plant	nongold
+78	to be good for means to have a positive impact on	nongold
+79	a source of something emits; produces; generates; provides that something	nongold
+80	survive means live	nongold
+81	survive means live	nongold
+82	a leaf is a part of a  green plant	nongold
+83	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+84	a flower is a kind of plant	nongold
+85	plants are a part of the environment	nongold
+86	some flowers become fruits	nongold
+87	a forest contains  lots of plants; trees	nongold
+88	diet means what an animal eats	nongold
+89	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+90	a plant is a member of a plant species	nongold
+91	an increase is the opposite of a decrease	nongold
+92	pollination requires pollinators; pollinating animals	nongold
+93	weeds use up nutrients	nongold
+94	an organism eating is a kind of action	nongold
+95	decreasing something negative has a positive impact on a thing	nongold
+96	a mammal is a kind of animal	nongold
+97	being around something means surrounding  that something	nongold
+98	a flower is a kind of object	nongold
+99	a squirrel is a kind of herbivore	nongold

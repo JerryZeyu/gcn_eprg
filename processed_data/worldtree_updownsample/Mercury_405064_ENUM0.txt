@@ -1,0 +1,68 @@
+0	oil is a kind of fossil fuel	gold
+1	as the use of a resource decreases , the length of time that resource will be available increases	gold
+2	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+3	deplete is similar to decrease	nongold
+4	to last longer means to be available longer	gold
+5	less is similar to decrease	nongold
+6	a source of something increases the amount of that something	nongold
+7	powering is similar to fueling	nongold
+8	if something causes an increase in something else then that something produces that something else	nongold
+9	electricity causes less pollution than gasoline	nongold
+10	reduce electricity use	answer
+11	if something with the same function as something else is being used then the use of that something else decreases	nongold
+12	renewable resources can be used over again	nongold
+13	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+14	oil is used for producing electricity	gold
+15	as the use of something decreases , the use of the source of that something will decrease	gold
+16	fuel is a kind of energy source	nongold
+17	to last longer means to be available longer	gold
+18	loss means reduction	nongold
+19	to depend on; to rely on; to need means to require	nongold
+20	fuel efficient means uses less fuel	nongold
+21	to provide means to supply	nongold
+22	current means electric current	nongold
+23	little is similar to decrease	nongold
+24	oil is used for producing electricity	gold
+25	oil is used for producing electricity	gold
+26	how long something takes is a kind of measurement of time	gold
+27	a supply of something is a source of that something	nongold
+28	to shorten means to make shorter	nongold
+29	Which is the best plan to make the fossil fuel supply last longer?	question
+30	to reduce means to decrease	gold
+31	as the use of a resource decreases , the length of time that resource will be available increases	gold
+32	an energy source is a kind of resource	nongold
+33	to last longer means to be available longer	gold
+34	oil is a kind of fossil fuel	gold
+35	no longer means used to be	nongold
+36	a source of something emits; produces; generates; provides that something	gold
+37	electricity is used as an energy source by electrical devices	nongold
+38	as the use of something decreases , the use of the source of that something will decrease	gold
+39	to reduce means to decrease	gold
+40	fuel is a source of energy	nongold
+41	Which is the best plan to make the fossil fuel supply last longer?	question
+42	using less of a resource increases the availability of that resource	nongold
+43	reduce electricity use	answer
+44	the supply of an inexhaustible resource does not change over a long period of time	nongold
+45	Which is the best plan to make the fossil fuel supply last longer?	question
+46	to power means to provide energy for	nongold
+47	to reduce means to decrease	gold
+48	as the use of a resource decreases , the length of time that resource will be available increases	gold
+49	generating power is a kind of positive impact	nongold
+50	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+51	a source of something emits; produces; generates; provides that something	gold
+52	using renewable resources to generate power reduces greenhouse gases	nongold
+53	operating electrical appliances requires electricity	nongold
+54	if something requires something else then that something requires a source of that something else	nongold
+55	Which is the best plan to make the fossil fuel supply last longer?	question
+56	fossil fuels are a kind of energy resource	nongold
+57	a source of something emits; produces; generates; provides that something	gold
+58	solar energy is a source of electricity	nongold
+59	give off is similar to make	nongold
+60	reduce electricity use	answer
+61	how long something takes is a kind of measurement of time	gold
+62	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+63	how long something takes is a kind of measurement of time	gold
+64	oil is a kind of fossil fuel	gold
+65	reduce electricity use	answer
+66	wind is used for producing electricity	nongold
+67	as the use of something decreases , the use of the source of that something will decrease	gold

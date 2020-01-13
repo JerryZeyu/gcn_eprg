@@ -1,0 +1,102 @@
+0	bacteria can cause people to become ill	gold
+1	if something has a positive impact on health then that something can help to maintain good health	nongold
+2	decreasing something positive has a negative impact on a thing	nongold
+3	adding heat to something kills viruses; bacteria in that something	nongold
+4	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+5	if something is required for a process then keeping that something from reaching that process can stop that process	nongold
+6	an animal; bacterium requires oxygen for survival; to breathe	nongold
+7	to depend on; to rely on; to need means to require	nongold
+8	bacteria is small; microscopic in size	nongold
+9	infection often requires medical treatment	nongold
+10	reducing bacteria in food prevents illness in people	gold
+11	milk is a kind of food	nongold
+12	a bacterium is a kind of decomposer	nongold
+13	bacteria; molds; yeast cause food to spoil	nongold
+14	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+15	death means to die	nongold
+16	to be used  for something means to help to do that something	nongold
+17	food poisoning is a kind of illness	nongold
+18	decreasing something negative has a positive impact on a thing	nongold
+19	killing means changing a living thing from alive to dead by harming	nongold
+20	best means most positive	nongold
+21	good bacteria have a positive impact on a living thing's survival; health	nongold
+22	bacteria is a kind of pathogen sometimes	nongold
+23	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+24	to increase is similar to to create	nongold
+25	bacteria can help digest food in humans	nongold
+26	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+27	cooking food to proper temperatures protects against food poisoning by killing bacteria and viruses	nongold
+28	to make something easier means to help	nongold
+29	illness has a negative impact on an organism's health	nongold
+30	a bacterium is a kind of organism	nongold
+31	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	nongold
+32	sneezing is used for getting rid of bacteria; viruses by the body	nongold
+33	a person is a kind of animal	nongold
+34	to be good for means to have a positive impact on	nongold
+35	helping means to assist in a change	nongold
+36	a human is a kind of animal	nongold
+37	good means positive	nongold
+38	to keep something occurring means to cause that something to occur	nongold
+39	protecting something means preventing harm to that something	nongold
+40	helping something has a  positive impact on that something	gold
+41	less means a reduced amount	nongold
+42	harming an organism can cause that organism to die	nongold
+43	an increase is the opposite of a decrease	nongold
+44	to help; to benefit means to be of use	nongold
+45	milk is a kind of food	gold
+46	Louis Pasteur created a process that reduced the amount of bacteria in milk. How does this process most likely benefit people?	question
+47	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+48	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+49	having food has a positive impact on an organism's health	nongold
+50	Louis Pasteur created; invented pasteurization	gold
+51	adverse effect means negative impact	nongold
+52	person is synonymous with human	nongold
+53	an animal is a kind of living thing	nongold
+54	requiring is similar to needing help	nongold
+55	dead organisms are a source of disease	nongold
+56	to reduce means to decrease	nongold
+57	by helping to keep people from becoming ill	answer
+58	to enable is to help	nongold
+59	pasteurization reduces the amount of bacteria in milk	gold
+60	to lower means to decrease	nongold
+61	to keep a process or event happening is similar to causing that process or event to happen	nongold
+62	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+63	an animal requires enough nutrients to maintain good health; survive	nongold
+64	a plant; living thing requires food for survival	nongold
+65	human is a kind of organism	nongold
+66	a fungus is a kind of living thing	nongold
+67	pasteurization causes bacteria in milk to be reduced	nongold
+68	a positive impact is  a benefit	gold
+69	keeping means staying	nongold
+70	a negative impact is a kind of consequence; risk	nongold
+71	to keep something from happening means to prevent that something	gold
+72	a food contains nutrients for living things	nongold
+73	if an organism dies then the population of that organism will decrease	nongold
+74	dying is the opposite of living; surviving	nongold
+75	killing means harming something causing death	nongold
+76	being unhealthy has a negative impact on an organism	nongold
+77	bacteria is a kind of living thing	nongold
+78	harming something has a  negative impact on; effect on that something	nongold
+79	an animal is a kind of organism	nongold
+80	an animal; living thing requires nutrients for survival	nongold
+81	if something is required for a process then that something positively impacts that process	nongold
+82	if a living thing dies then that living thing is dead	nongold
+83	an organism is a living thing	nongold
+84	a decomposer is usually a bacterium; fungus	nongold
+85	if a living thing requires something then that something has a positive impact on that living thing	nongold
+86	creating is similar to causing	nongold
+87	to help means to aid	nongold
+88	something harmful can cause harm	nongold
+89	disease has a negative impact on an organism	nongold
+90	disease means illness	nongold
+91	a fungus is a kind of organism	nongold
+92	being sick is a kind of problem; harm	nongold
+93	bacteria is a part of soil	nongold
+94	bacteria sometimes cause disease	nongold
+95	bacteria; viruses cause food poisoning	nongold
+96	healthy means not having disease	nongold
+97	negative impact is the opposite of positive impact	nongold
+98	pasteurization is a kind of process	gold
+99	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+100	good bacteria grow on the skin; a human's skin	nongold
+101	life means living things	nongold

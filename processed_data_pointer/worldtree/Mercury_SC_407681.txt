@@ -1,0 +1,102 @@
+Question	A soccer player kicks a soccer ball across a field. Which factor has the most effect on the distance the soccer ball travels?	question
+Answer	the force of the kick	answer
+0	a soccer ball is a kind of ball	nongold
+1	distance moved; distance travelled is a measure of how far an object moves	nongold
+2	a factor impacts something	nongold
+3	if an object is kicked then force is exerted on that object	gold
+4	as force exerted on an object increases , distance travelled will increase	gold
+5	a field is a kind of environment	nongold
+6	a ball is a kind of object	gold
+7	impact means effect	nongold
+8	travel means to move	nongold
+9	a kick is a kind of push	nongold
+10	an object being pushed across another object causes their surfaces to move against each other	nongold
+11	to change means to have an effect	gold
+12	moving is similar to travelling	nongold
+13	a human is a kind of animal	nongold
+14	motion; movement means moving; to move	nongold
+15	force causes the speed of an object to increase; to decrease	nongold
+16	an increase is a kind of change	gold
+17	to cause means to have an effect	nongold
+18	change is a kind of impact	nongold
+19	far means great in distance	nongold
+20	if an object slides across another object then those objects are touching	nongold
+21	to impact means to affect	nongold
+22	hitting something causes harm to that something	nongold
+23	a surface is a part of an object	nongold
+24	hitting is a kind of motion	nongold
+25	an object acting against a force can cause that object to move in the opposite direction	nongold
+26	additional force is similar to outside force	nongold
+27	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+28	an animal is a kind of living thing	nongold
+29	a motion is a kind of event; action	nongold
+30	high is similar to increase	nongold
+31	motion is when moves an object; something to a direction	nongold
+32	deflection is when something changes its moving direction	nongold
+33	a living thing is a kind of object	nongold
+34	harming something has a  negative impact on; effect on that something	nongold
+35	force requires energy	nongold
+36	a ball field is open; grassy	nongold
+37	a surface is a kind of object	nongold
+38	as the speed of an object increases , the force that object exerts will increase	nongold
+39	motion is a source of kinetic energy in an object	nongold
+40	a force is a kind of push or pull on an object	nongold
+41	a force acting on an object in the opposite direction that the object is moving can cause that object's speed to decrease in a forward motion	nongold
+42	the kinetic energy of an object can change from kinetic energy to sound energy by hitting another object	nongold
+43	transport means to move; to make travel	nongold
+44	affected means changed	nongold
+45	counter means reduce; stop; resist	nongold
+46	exerting force on an object means a force acts on an object	nongold
+47	speed is a measure of how fast an object is moving	nongold
+48	as an object moves faster , the kinetic energy of that object will increase	nongold
+49	a source of something increases the amount of that something	nongold
+50	as kinetic energy of an object increases , that object will travel faster	nongold
+51	an event is a kind of action	nongold
+52	when a force is applied to an object , that force is acting on that object	nongold
+53	as the power of the force exerted on an object increases , the speed with which that object is moved will increase	nongold
+54	a field contains soil	nongold
+55	the effects of something is a property of that something	nongold
+56	harm means injury	nongold
+57	person is synonymous with human	nongold
+58	distant means great in distance	nongold
+59	An example of hitting something is dropping an object onto that something	nongold
+60	movement is a kind of change	nongold
+61	damage means harm	nongold
+62	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+63	An example of an object with kinetic energy is an object in motion	nongold
+64	a decrease is a kind of change	nongold
+65	friction is a kind of force	nongold
+66	a property is similar to a factor	nongold
+67	a velocity is a measure of a speed in a direction	nongold
+68	furthest; farthest means greatest; most; highest in distance	nongold
+69	to slow; to slow down decreases speed	nongold
+70	objects are made of materials; substances; matter	nongold
+71	a source of something emits; produces; generates; provides that something	nongold
+72	increase means more	nongold
+73	downward is a kind of direction	nongold
+74	non-contact forces can affect objects that are not touching	nongold
+75	a force continually acting on an object in the same direction that the object is moving can cause that object's speed to increase in a forward motion	nongold
+76	strength is a property of an object; a material	nongold
+77	an increase is the opposite of a decrease	nongold
+78	to hurt means to harm	nongold
+79	as the amount of heat energy of a substance; of an object increases , the amount of kinetic energy will increase	nongold
+80	greatest means largest; highest; most amount of something	nongold
+81	pulling is a kind of motion	nongold
+82	variable means able to change	nongold
+83	a pull is a kind of force	nongold
+84	sliding is a kind of motion	nongold
+85	as the  amount of heat energy of a substance; of an object decreases , the amount of kinetic energy will decrease	nongold
+86	striking is a kind of movement	nongold
+87	sliding is a kind of movement	nongold
+88	a negative impact is a kind of consequence; risk	nongold
+89	faster means an increase; higher in speed	nongold
+90	low means down	nongold
+91	a hit is a kind of touch	nongold
+92	a moving object continues to move in the same direction at constant speed unless additional forces are applied	nongold
+93	negative impact is the opposite of positive impact	nongold
+94	changes potential energy into kinetic energy through motion	nongold
+95	downward means down	nongold
+96	down is a kind of direction	nongold
+97	grass is a rough surface	nongold
+98	heat means heat energy	nongold
+99	if something strikes an object then that something may bounce off of that object	nongold

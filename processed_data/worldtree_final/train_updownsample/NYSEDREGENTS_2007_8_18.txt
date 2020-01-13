@@ -1,0 +1,44 @@
+0	an event is a kind of action	nongold
+1	an organism is a living thing	nongold
+2	calories ( cal ) are a  metric unit used for measuring the amount of energy in food generally used for values between 1.0 and 10000.0	gold
+3	if something generates energy for something else then that something powers that something else	nongold
+4	Which unit is used to indicate the amount of energy in food?	question
+5	an animal is a kind of living thing	nongold
+6	food is a source of energy for animals; plants	nongold
+7	material means substance	nongold
+8	period is similar to amount of time	nongold
+9	light is a kind of energy	nongold
+10	can be means able to be	nongold
+11	food is a kind of chemical energy	nongold
+12	an animal; living thing requires nutrients for survival	nongold
+13	concentration means amount	nongold
+14	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+15	a component means a part of	nongold
+16	if an animal consumes more calories than needed for daily activities then that animal will gain weight	nongold
+17	nutrients are simpler than food	nongold
+18	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+19	a living thing is a kind of object	nongold
+20	Which unit is used to indicate the amount of energy in food?	question
+21	an animal needs to eat food for nutrients	nongold
+22	unit is similar to part	nongold
+23	Which unit is used to indicate the amount of energy in food?	question
+24	Which unit is used to indicate the amount of energy in food?	question
+25	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+26	a component of something means a part of that something	nongold
+27	answering questions requires information	nongold
+28	a nutrient is a kind of object	nongold
+29	nutrients are a kind of matter	nongold
+30	most means over 50% of something	nongold
+31	a meter is a kind of unit for measuring distance; measuring length	nongold
+32	if something emits something else then that something increases the amount of that something else	nongold
+33	greatest means largest; highest; most amount of something	nongold
+34	amount is similar to number	nongold
+35	temperature is a measure of heat energy	nongold
+36	food is a kind of resource	nongold
+37	food is a kind of object	nongold
+38	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+39	nutrients are a kind of resource	nongold
+40	calories ( cal ) are a  metric unit used for measuring the amount of energy in food generally used for values between 1.0 and 10000.0	gold
+41	consumption means use	nongold
+42	calories ( cal ) are a  metric unit used for measuring the amount of energy in food generally used for values between 1.0 and 10000.0	gold
+43	a source of something emits; produces; generates; provides that something	nongold

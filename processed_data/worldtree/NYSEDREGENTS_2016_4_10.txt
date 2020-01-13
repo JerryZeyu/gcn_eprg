@@ -1,0 +1,102 @@
+Question	Some birds live in a forest. If many of the trees in the forest are cut down, the shelter for the birds will	question
+Answer	decrease	answer
+0	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+1	cutting down a forest means cutting down the trees in that forest	nongold
+2	a shelter is used for living in by animals	nongold
+3	an animal requires shelter	nongold
+4	if a tree is cut down then that tree will die	gold
+5	shelter can protect animals;humans from weather	nongold
+6	shelter is used for protection by animals against weather	nongold
+7	destroying a forest means cutting down the trees in that forest	nongold
+8	removing a forest means cutting down the trees in that forest	nongold
+9	shelter is a kind of place;building;structure for protection	nongold
+10	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+11	some birds live in forests	nongold
+12	a tree is a source of shelter; food for birds; animals in an ecosystem	gold
+13	some animals live in forests	nongold
+14	removing a forest means cutting down a forest	nongold
+15	an organism's shelter is a part of that organism's environment	nongold
+16	habitat destruction causes animals to move to find shelter in another habitat	nongold
+17	a forest contains  lots of plants; trees	nongold
+18	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+19	an increase is the opposite of a decrease	nongold
+20	if a habitat is removed then that habitat is destroyed	nongold
+21	if a habitat is destroyed then that habitat can not support animals	nongold
+22	deforested area means an area where trees have been cut down	nongold
+23	a forest is a kind of environment	nongold
+24	as the cause of something decreases , that something will decrease	nongold
+25	when a habitat can support living things , living things can live in that habitat	nongold
+26	animals; living things live and feed in their habitats; near their habitats	nongold
+27	shelter is a kind of protective covering	nongold
+28	clearing a forest means humans cutting down the trees	nongold
+29	if a living thing requires something then that something has a positive impact on that living thing	nongold
+30	to lower means to decrease	nongold
+31	a bird is a kind of animal	nongold
+32	a decrease is a kind of change	nongold
+33	a bird is a kind of living thing	nongold
+34	if a living thing dies then that living thing is dead	nongold
+35	an animal is a kind of living thing	nongold
+36	to reduce means to decrease	nongold
+37	removing forests means removing animal habitats	nongold
+38	low is similar to decrease	nongold
+39	less is similar to decrease	nongold
+40	if an amount of objects decreases then those objects are fewer in number	nongold
+41	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+42	an environment means an area	nongold
+43	deforestation is the process of cutting down trees	nongold
+44	if an organism dies then the population of that organism will decrease	gold
+45	logging is when humans cut down trees; forests for wood	nongold
+46	a tree is a kind of habitat	nongold
+47	an environment is a kind of place	nongold
+48	an animal needs to move to find shelter	nongold
+49	helping something has a  positive impact on that something	nongold
+50	organisms; living things live in their habitat; their home	nongold
+51	if a habitat can no longer support animals then those animals will move to another area	nongold
+52	if something required by something else is in a place then that something else may be in that place	nongold
+53	protecting something means preventing harm to that something	nongold
+54	most predators live in; live near the same environment as their prey	nongold
+55	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+56	destroying something decreases the amount of that something	nongold
+57	an increase is a kind of change	nongold
+58	an animal requires a habitat for survival	nongold
+59	destroying animal habitats has a negative  impact on an ecosystem	nongold
+60	a tree is a kind of living thing	nongold
+61	some birds are predators	nongold
+62	humans changing an environment sometimes causes that environment to be destroyed	nongold
+63	little is similar to decrease	nongold
+64	a forest is a kind of ecosystem	nongold
+65	decreasing something negative has a positive impact on a thing	nongold
+66	damage has a negative impact on a thing	nongold
+67	decreasing something positive has a negative impact on a thing	nongold
+68	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+69	harming something has a  negative impact on; effect on that something	nongold
+70	an animal is a kind of organism	nongold
+71	building usually requires cutting down trees	nongold
+72	requiring is similar to needing help	nongold
+73	habitat is similar to environment	nongold
+74	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+75	negative impact is the opposite of positive impact	nongold
+76	planting trees is the opposite of cutting down trees	nongold
+77	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+78	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+79	killing a living thing decreases the number; population size of that living thing	nongold
+80	eagles live in trees	nongold
+81	if there is a loss of something then that something decreases	nongold
+82	high is similar to increase	nongold
+83	a tree is a kind of plant	gold
+84	killing means harming something causing death	nongold
+85	life means living things	nongold
+86	a tree contains wood	nongold
+87	a tree can be replaced by planting a new tree each time one is cut down	nongold
+88	fewer means lower; less in number	nongold
+89	woodland means forest	nongold
+90	some rabbits live in forests	nongold
+91	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+92	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+93	many means high in number	nongold
+94	destroying animal habitats changes an ecosystem	nongold
+95	a living thing is a kind of object	nongold
+96	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+97	negative impacts on a species will decrease populations of a species	nongold
+98	harming an animal species causes that animal's population to decrease	nongold
+99	if something returns to a place then that something increases in that place	nongold

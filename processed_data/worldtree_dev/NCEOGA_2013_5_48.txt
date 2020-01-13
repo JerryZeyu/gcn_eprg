@@ -1,0 +1,102 @@
+Question	The weather forecast indicates that a warm front will be moving into the area in the next 24 hours. Which type of weather will most likely result?	question
+Answer	cloudy skies and rainy weather	answer
+0	a warm front causes cloudy and rainy weather	gold
+1	rainy is a kind of weather	nongold
+2	cloudy is a kind of  weather	nongold
+3	clear weather means sunny; not cloudy; not rainy weather	nongold
+4	An example of stormy weather is rain	nongold
+5	cloudy is a kind of sky condition	nongold
+6	cloudy means the presence  of clouds in the sky	gold
+7	rainy means often raining	nongold
+8	windy is a kind of weather	nongold
+9	a type is synonymous with a kind	nongold
+10	if weather is stormy then there is a greater chance of rain	nongold
+11	weather forecast means weather prediction	nongold
+12	form means kind	nongold
+13	storm is a kind of weather; weather event	nongold
+14	to cause means to result in	gold
+15	climate is the usual kind of weather in a location over a period of time	nongold
+16	result means outcome	nongold
+17	sky conditions are a property of weather	nongold
+18	windy means high wind speeds	nongold
+19	cloudy conditions cause a low-pressure weather system	nongold
+20	a cloud is a kind of weather	gold
+21	cold fronts cause thunderstorms as they pass by	nongold
+22	an area receiving rain means rain falling in that area	nongold
+23	1 day is equal to 24 hours	nongold
+24	a thunderstorm is a kind of storm	nongold
+25	precipitation is a kind of weather	gold
+26	weather is  a measure of the condition of the air in a place at a certain time	nongold
+27	place means area	nongold
+28	an environment means an area	nongold
+29	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+30	a storm is a source of precipitation	nongold
+31	rain; snow falls	nongold
+32	temperature is a property of weather	nongold
+33	a warm front is when warm air mass rises and passes over; collides a cold air mass	gold
+34	often is similar to likely	nongold
+35	a cloudy day has little sunlight	nongold
+36	a climate is synonymous with an environment	nongold
+37	rain is a kind of precipitation	gold
+38	cold is a kind of weather	nongold
+39	clouds produce rain	nongold
+40	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+41	weather  usually happens in troposphere	nongold
+42	dry means low in amount of water; wetness; moisture	nongold
+43	a motion is a kind of event; action	nongold
+44	cold means low in temperature	nongold
+45	rainstorm means rain storm	nongold
+46	weather is a property of a environment	nongold
+47	extreme means very high in value	nongold
+48	a cold front is when a cooler air mass moves into contact with an area of warmer air	nongold
+49	to lower means to decrease	nongold
+50	to happen means to occur	nongold
+51	a change is a kind of event	nongold
+52	to produce means to result in	nongold
+53	a type of something is a kind of property of that something	nongold
+54	snowstorm is a kind of weather	nongold
+55	types of clouds can be used to predict the possibility of tornadoes developing in a location	nongold
+56	precipitation is when water falls from the sky	nongold
+57	warm up means increase temperature	nongold
+58	precipitation is a property of weather	nongold
+59	an event is a kind of action	nongold
+60	an increase is a kind of change	nongold
+61	rainfall is the amount of rain an area receives	nongold
+62	temperature is a measure of heat energy	nongold
+63	a storm is usually a source of strong winds	nongold
+64	high is similar to increase	nongold
+65	an increase is the opposite of a decrease	nongold
+66	a decrease is a kind of change	nongold
+67	clouds produce precipitation	nongold
+68	something that happens is a kind of event	nongold
+69	colder; cooler means lower in temperature	nongold
+70	classifying is when one sorts something by kind; type	nongold
+71	to change means to cause a change	nongold
+72	low is similar to decrease	nongold
+73	the atmosphere is a kind of area	nongold
+74	rain is a kind of water	nongold
+75	events occur at a specific place; at a specific time; with a specific frequency	nongold
+76	wet is the opposite of dry	nongold
+77	An example of moisture is water vapor in the atmosphere	nongold
+78	storms;rain cause bodies of water to increase amount of water they contain	nongold
+79	warmer means greater; higher in temperature; warmth	nongold
+80	to turn means to change	nongold
+81	hours are a kind of unit for measuring time	nongold
+82	a process is a kind of event	nongold
+83	affected means changed	nongold
+84	preparing for a storm requires predicting the occurrence of that storm	nongold
+85	motion is when moves an object; something to a direction	nongold
+86	cold and dry climate can slow down the process of weathering	nongold
+87	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+88	to reduce means to decrease	nongold
+89	warm means medium heat energy; temperature	nongold
+90	thunder occurs during thunderstorms	nongold
+91	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+92	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+93	greatest means largest; highest; most amount of something	nongold
+94	predicting weather requires studying weater	nongold
+95	warm means warm temperature	nongold
+96	a tropical environment usually has warm temperatures	nongold
+97	a hurricane is a kind of storm	nongold
+98	snowy means a large amount of snow	nongold
+99	product means result	nongold

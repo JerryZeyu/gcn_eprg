@@ -1,0 +1,102 @@
+0	to be used for something means to be required by that something	nongold
+1	solar power means solar energy	nongold
+2	sunlight is a kind of solar energy	gold
+3	solar energy is a kind of heat energy	nongold
+4	solar panels are a kind of power supplies	nongold
+5	energy is used for heating a building by a heating system	nongold
+6	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+7	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+8	a house is a kind of home	nongold
+9	a solar panel is made of solar cells	nongold
+10	a producer is a kind of living thing	nongold
+11	coal is a kind of fuel	nongold
+12	wind is used for producing electricity	nongold
+13	a renewable resource is a kind of natural resource	nongold
+14	heat means heat energy	nongold
+15	fuel is a kind of energy source	nongold
+16	converting is similar to producing	gold
+17	producing is similar to releasing	nongold
+18	fuel is a source of energy	nongold
+19	resources sometimes are used for energy	nongold
+20	the solar system is a kind of system	nongold
+21	electricity means electrical energy	nongold
+22	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+23	consumption means use	nongold
+24	producing is a kind of function	nongold
+25	the sun is a source of radiation; heat called sunlight	nongold
+26	solar radiation means solar energy	nongold
+27	electricity sometimes is used for heating buildings; substances	gold
+28	natural gas is used for heating building by burning	nongold
+29	producing electricity sometimes requires burning oil	nongold
+30	natural gas is a kind of fossil fuel	nongold
+31	electricity is used as an energy source by electrical devices	nongold
+32	sunlight produces heat	nongold
+33	a home is a kind of building	gold
+34	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+35	coal is a nonrenewable resource	nongold
+36	heating a home with energy collected by solar panels	answer
+37	natural gas is used for generating electricity by burning in a power plant	nongold
+38	An example of using natural gas is heating homes	nongold
+39	burning is a kind of action	nongold
+40	combustion means fire converts chemical energy into light energy and heat energy	nongold
+41	renewable is the opposite of nonrenewable	nongold
+42	thermal energy is a kind of energy	nongold
+43	using coal requires burning coal	nongold
+44	solar energy is a source of electricity	nongold
+45	to produce means to provide	nongold
+46	fire transfers heat through waves	nongold
+47	producing renewable electric energy requires renewable resources	nongold
+48	if something causes an increase in something else then that something produces that something else	nongold
+49	solar energy is a kind of energy	gold
+50	the sun is a source of light; light energy called sunlight	nongold
+51	heat energy is synonymous with thermal energy	nongold
+52	solar energy is a renewable; inexhaustible resource	gold
+53	natural gas is a nonrenewable resource	nongold
+54	solar cells convert solar energy into electrical energy	nongold
+55	heat is a kind of energy	nongold
+56	heating means adding heat	nongold
+57	an energy source is a kind of resource	gold
+58	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+59	fire gives off light; heat; smoke	nongold
+60	to provide something means to be the source of that something	nongold
+61	fossil fuels are a nonrenewable resource	nongold
+62	fossil fuels are a kind of energy resource	nongold
+63	solar energy is an inexhaustible resource	nongold
+64	electrical energy is a kind of energy	nongold
+65	producing is a kind of process	nongold
+66	fire causes burning	nongold
+67	generate means produce	nongold
+68	the sun is the source of solar energy called sunlight	nongold
+69	Burning coal and natural gas are ways to produce electricity. Both coal and natural gas are nonrenewable resources. Which is an example of producing electricity using a renewable source of energy?	question
+70	condensing is similar to collecting	nongold
+71	to be made of is similar to collection	nongold
+72	emit means produce	nongold
+73	generating power is a kind of positive impact	nongold
+74	if something transfers something else then that something is a source of something else	nongold
+75	coal is used for generating heat by burning	nongold
+76	oil is used for producing electricity	nongold
+77	a homeowner is a kind of human	nongold
+78	coal is used to produce electricity by burning in coal-fire power stations	nongold
+79	biofuel is used to produce electricity by burning	nongold
+80	a kind of something is an example of that something	nongold
+81	a producer is a source of energy for consumers	nongold
+82	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+83	if something requires something else then that something requires a source of that something else	nongold
+84	both means two	nongold
+85	sunlight means solar energy	nongold
+86	a source of something emits; produces; generates; provides that something	nongold
+87	natural gas is a source of heat by burning	nongold
+88	a fossil fuel is a kind of natural resource	nongold
+89	producing is similar to causing	nongold
+90	oil is a nonrenewable resource	nongold
+91	solar energy is a kind of light	nongold
+92	to power means to provide energy for	nongold
+93	if something is a raw material in a process then that something is required for that process	nongold
+94	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+95	if something is powered by something else then that something requires a source of that something else	nongold
+96	to collect means to gather	nongold
+97	natural gas is used for cooking food by burning	nongold
+98	coal is a kind of fossil fuel	nongold
+99	a panel is a kind of object	nongold
+100	burning coal is a source of air pollution	nongold
+101	collecting is similar to absorbing	nongold

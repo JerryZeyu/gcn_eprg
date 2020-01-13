@@ -1,0 +1,102 @@
+Question	In the construction of a house, the words excavation, slab, and footing are associated with the	question
+Answer	foundation.	answer
+0	footing is used for supporting the foundation of a building	gold
+1	slab is a kind of foundation in construction	gold
+2	In the construction of a building excavation has the role of hollowing out the ground for the foundation	gold
+3	construction means building	nongold
+4	if something is a source of something else then that something is associated with that something else	nongold
+5	a house is a kind of building	gold
+6	rock means stone	nongold
+7	a surface is a part of an object	nongold
+8	a surface is a part of a material	nongold
+9	a surface is a kind of object	nongold
+10	a structure of something is synonymous with a part of that something	nongold
+11	material means substance	nongold
+12	objects are made of materials; substances; matter	nongold
+13	dirt means soil	nongold
+14	the ground is part of the Earth	nongold
+15	a home is a kind of building	nongold
+16	soil is a kind of material	nongold
+17	a wall is a kind of surface	nongold
+18	structure is a property of an object; a material; a substance	nongold
+19	height is a measure of length from the top of an object to the bottom of an object	nongold
+20	to make means to build	nongold
+21	ground means floor	nongold
+22	the ground means Earth's surface	nongold
+23	soil is a part of the ground outside	nongold
+24	person is synonymous with human	nongold
+25	the properties of something are used for describing that something	nongold
+26	can be means able to be	nongold
+27	building something often requires measuring the materials	nongold
+28	a wall is a kind of object	nongold
+29	form means kind	nongold
+30	length is a measure of distance from one end of an object to the other end of that object	nongold
+31	place means space	nongold
+32	to be used for something means to be required by that something	nongold
+33	the location of an object can be used to describe that object	nongold
+34	measuring is used for describing an object	nongold
+35	a living thing is a kind of object	nongold
+36	the properties of something can be used to identify; used to describe that something	nongold
+37	composed of means made of	nongold
+38	a tool is a kind of object	nongold
+39	something's function can be used to describe; identify that something	nongold
+40	to discover means to find	nongold
+41	rock is a kind of material	nongold
+42	a house is a kind of home	nongold
+43	work is a kind of place	nongold
+44	a component means a part of	nongold
+45	classifying means grouping objects; materials by their properties	nongold
+46	an object is made of its parts	nongold
+47	beneath means below	nongold
+48	something is used for that something's purpose	nongold
+49	construction of a building usually requires clearing the land as the first step; beforehand	nongold
+50	a human is a kind of animal	nongold
+51	thickness is  a measure of how thick an object  is	nongold
+52	made up of means contains; made of	nongold
+53	the ground is at the bottom of an area	nongold
+54	an organism is a living thing	nongold
+55	motion; movement means moving; to move	nongold
+56	to be made of means to consist of	nongold
+57	underground means under ground	nongold
+58	a rock is a kind of object	nongold
+59	length is a part of size	nongold
+60	the floor is a kind of object	nongold
+61	underground means buried deep below other rocks	nongold
+62	mechanical weathering is when rocks are broken down by mechanical means	nongold
+63	unit is similar to part	nongold
+64	place; location is synonymous with position	nongold
+65	to identify means to discover	nongold
+66	state means form	nongold
+67	weathering; mechanical weathering means breaking down rocks; surface materials from a larger whole  into smaller pieces by weather	nongold
+68	position means a place in a structure	nongold
+69	the bottom is the lowest part of something	nongold
+70	place is synonymous with location	nongold
+71	the formation of something is a kind of process	nongold
+72	motion is when moves an object; something to a direction	nongold
+73	height is a property of the size of an object	nongold
+74	if an object is made of a material then that object has the properties of that material	nongold
+75	cementation is a kind of process	nongold
+76	system is similar to structure	nongold
+77	a component of something means a part of that something	nongold
+78	a process is a kind of event	nongold
+79	rock is hard	nongold
+80	an part of an object is smaller than the entire object	nongold
+81	a type is synonymous with a kind	nongold
+82	soil is formed by weathering	nongold
+83	laying down is a kind of action	nongold
+84	to discover means to make a discovery	nongold
+85	to raise means to add	nongold
+86	a motion is a kind of event; action	nongold
+87	place means area	nongold
+88	gravel is a rough surface	nongold
+89	phase means state	nongold
+90	a block is a kind of object	nongold
+91	weathering is a kind of process	nongold
+92	to cause means to make	nongold
+93	a part of something is present in that something	nongold
+94	if an object is made of something then the parts of that object are made of that something	nongold
+95	a source of something emits; produces; generates; provides that something	nongold
+96	Earth is made of rock	nongold
+97	a room is a kind of object	nongold
+98	made of is similar to is built from	nongold
+99	to contain means to have inside	nongold

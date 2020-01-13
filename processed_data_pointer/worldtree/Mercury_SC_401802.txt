@@ -1,0 +1,102 @@
+Question	Which action is the best method to separate a mixture of salt and water?	question
+Answer	boiling the mixture until the water evaporates	answer
+0	evaporation; boiling can be used for separating a solution by allowing the solvent to evaporate	gold
+1	evaporation can be used for separating a mixture of a liquid and a solid	nongold
+2	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+3	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+4	to disperse means to separate	nongold
+5	a mixture of solids can be easily separated	nongold
+6	salt water is made of salt and water	nongold
+7	boiling is when liquids are heated above their boiling point	nongold
+8	a solution is a kind of mixture	gold
+9	salt is a kind of solid	nongold
+10	water is a kind of liquid at room temperature	nongold
+11	salt is a kind of pure substance	nongold
+12	a mixture is a kind of substance	nongold
+13	salt water is a kind of solution	gold
+14	to add means to increase	nongold
+15	In the solution salt water , the solute is salt	gold
+16	when two substances together form a compound then those substances cannot be physically separated	nongold
+17	if two substances together form a mixture then those substances can be separated from one another by physical changes	nongold
+18	adding heat means increasing temperature	nongold
+19	evaporating is a kind of phase change	nongold
+20	boiling is a kind of phase change	nongold
+21	water is a kind of substance	nongold
+22	adding salt to a liquid decreases the melting point of that liquid	nongold
+23	process is similar to method	nongold
+24	salt is soluble in water	nongold
+25	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+26	heating salt water causes the water to evaporate while the salt remains	nongold
+27	a compound can be chemically separated into the elements that it is made of	nongold
+28	temperature is a measure of heat energy	nongold
+29	to decompose means to separate	nongold
+30	a liquid is a kind of substance	nongold
+31	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+32	combining; mixing two substances chemically causes chemical reactions	nongold
+33	water is an thermal; thermal energy conductor	nongold
+34	a solution is formed by one substance being dissolved in another substance	nongold
+35	an event is a kind of action	gold
+36	table salt is a kind of salt	nongold
+37	an mixture is formed by two or more substances combined together physically	nongold
+38	a solution is made of one substance dissolved in another substance	nongold
+39	a compound is a kind of substance	nongold
+40	boiling is a kind of event	gold
+41	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+42	if liquid is boiling then that liquid is hot	nongold
+43	water is a kind of compound	nongold
+44	heat means heat energy	nongold
+45	if something is soluble in something , then that something can be dissolved in something forming a solution	nongold
+46	if heat is added to a substance then that substance absorbs that heat	nongold
+47	adding salt to a solid decreases the freezing point of that solid	nongold
+48	a compound is a kind of material	nongold
+49	boiling means the volume of a liquid decreases	nongold
+50	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+51	if something is insoluble in something , then they will remain separated	nongold
+52	a sifter is used for separating mixtures	nongold
+53	a source of something emits; produces; generates; provides that something	nongold
+54	solution is a kind of liquid	nongold
+55	to give off means to be the source of	nongold
+56	if a substance is dissolved in another substance then that substance is added to that other substance	nongold
+57	to add means to combine	nongold
+58	separate is similar to break down	nongold
+59	a solid is a kind of substance	nongold
+60	table salt means sodium chloride	nongold
+61	the boiling point of water is 212F; 100C; 373K	nongold
+62	salt water is an electrical; electrical energy conductor	nongold
+63	evaporation is a kind of process	nongold
+64	separating is similar to breaking	nongold
+65	dissolving is a kind of action	nongold
+66	heat means temperature increases	nongold
+67	volume has no impact on boiling; melting; freezing point	nongold
+68	if an event occurs by adding something then that event requires that something	nongold
+69	a source of heat can be used to heat something	nongold
+70	a source of heat can be used to heat something	nongold
+71	filtration can be used for separating a mixture of a liquid and a solid	nongold
+72	sodium chloride means salt	nongold
+73	a compound is made of two or more elements that have been chemically combined	nongold
+74	to group means to separate	nongold
+75	evaporation causes amount of water to decrease	nongold
+76	water is a kind of matter	nongold
+77	when a gas in an open container evaporates; boils , that gas spreads out into the air	nongold
+78	salt is made of salt crystals	nongold
+79	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+80	forming is a kind of action	nongold
+81	cooking is a kind of action	nongold
+82	if something transfers something else then that something is a source of something else	nongold
+83	mass has no impact on boiling; melting; freezing point	nongold
+84	In the solution salt water , the solvent is water	gold
+85	a chemical reaction is a kind of process	nongold
+86	adding something is a kind of change	nongold
+87	as the temperature of a liquid increases , that liquid will evaporate quicker	nongold
+88	metal is a thermal; thermal energy conductor	nongold
+89	the chemistry of something is similar to what that something is made of	nongold
+90	most chemical reactions release or absorb heat energy	nongold
+91	a process is a kind of event	nongold
+92	a reaction is a kind of process	nongold
+93	a body of water contains water	nongold
+94	water is a kind of water phase	nongold
+95	stirring is a kind of first-	nongold
+96	can be means able to be	nongold
+97	a sifter is a kind of tool for separating mixtures	nongold
+98	a sieve can be used for separating a mixture of different sized solids	nongold
+99	if an object; a substance makes something then that object; that substance is a source of that thing	nongold

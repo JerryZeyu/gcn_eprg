@@ -1,0 +1,62 @@
+0	a body system is a part of the body; an animal	nongold
+1	a living thing is made of cells	nongold
+2	an organism requires energy for growth; repair	gold
+3	being used for is similar to providing	nongold
+4	nutrients are a kind of matter	nongold
+5	food	answer
+6	an animal is a kind of organism	gold
+7	food	answer
+8	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+9	The human body gets the energy it needs for growth and repair directly from	question
+10	the ability to grow is a kind of trait	nongold
+11	protein is used to repair  cells by the human body	nongold
+12	The human body gets the energy it needs for growth and repair directly from	question
+13	to depend on; to rely on; to need means to require	gold
+14	living things all require energy for survival	nongold
+15	an animal is a kind of organism	gold
+16	a nutrient is a kind of object	nongold
+17	food	answer
+18	a human is a kind of animal	gold
+19	a human is a kind of animal	gold
+20	requiring something means needing that something	nongold
+21	one can get something from a source	gold
+22	food is a source of energy for animals; plants	gold
+23	an animal is a kind of living thing	nongold
+24	one can get something from a source	gold
+25	taking in something means receiving; absorbing; getting something	nongold
+26	a process usually requires all of the stages in that process	nongold
+27	food is a source of energy for animals; plants	gold
+28	an animal is a kind of consumer	nongold
+29	The human body gets the energy it needs for growth and repair directly from	question
+30	one can get something from a source	gold
+31	an animal is a kind of organism	gold
+32	an organism is a living thing	nongold
+33	growing is a kind of process	nongold
+34	an animal needs to eat food for nutrients	nongold
+35	if something requires something else then that something requires a source of that something else	nongold
+36	food is a source of energy for animals; plants	gold
+37	what something needs is a property of that something	nongold
+38	a human is a kind of animal	gold
+39	an animal requires nutrients to grow and heal	nongold
+40	cellular respiration is a kind of process	nongold
+41	food contains carbohydrates	nongold
+42	an organism requires energy for growth; repair	gold
+43	The human body gets the energy it needs for growth and repair directly from	question
+44	nutrients are a source of energy for living things	nongold
+45	a plant; living thing requires food for survival	nongold
+46	food	answer
+47	an organism requires energy for growth; repair	gold
+48	to depend on; to rely on; to need means to require	gold
+49	provide is similar to give; make	nongold
+50	human is a kind of organism	nongold
+51	a plant; living thing requires nutrients to grow	nongold
+52	all cells require energy	nongold
+53	nutrients are a kind of resource	nongold
+54	to repair means to fix damage	nongold
+55	to eat means to consume food	nongold
+56	a source of something emits; produces; generates; provides that something	nongold
+57	if something causes a process then that something is required for that process	nongold
+58	humans usually develop inventions that they require	nongold
+59	to depend on; to rely on; to need means to require	gold
+60	a process is a kind of event	nongold
+61	a plant is a kind of organism	nongold

@@ -1,0 +1,101 @@
+0	a physical property is a kind of property	nongold
+1	the Alps are a kind of mountain range	nongold
+2	made up of means contains; made of	nongold
+3	can be means able to be	nongold
+4	an inherited characteristic is a kind of characteristic	nongold
+5	to be characterized by  a property means to have that property	nongold
+6	a mountain is a kind of landform	nongold
+7	the ground is part of the Earth	nongold
+8	the Moon is Earth's moon	nongold
+9	similarity means the same property	nongold
+10	a chemical property is the opposite of a physical property	nongold
+11	the Himalayas are a kind of mountain range	nongold
+12	an adaptation is a kind of characteristic	nongold
+13	a mountain range contains mountains	gold
+14	revolving  around something means orbiting that something	nongold
+15	region is similar to range	nongold
+16	moons are large; solid; spherical	nongold
+17	a volcano is a kind of landform	nongold
+18	the surface of the Moon contains mountains	gold
+19	the surface of the Earth contains mountains	gold
+20	mountain area means mountain range	nongold
+21	a living thing is a kind of object	nongold
+22	feature is synonymous with characteristic	nongold
+23	astronomical body means celestial body	nongold
+24	high means great in altitude	nongold
+25	a function is a kind of characteristic	nongold
+26	characteristic means property	nongold
+27	classifying means grouping objects; materials by their properties	nongold
+28	a land feature is a kind of physical characteristic	gold
+29	hills are a kind of small mountain	nongold
+30	classify is similar to characterize	nongold
+31	a moon is a kind of celestial object; body	nongold
+32	an event is a kind of action	nongold
+33	a cloud of dust and gas is a kind of feature	nongold
+34	a human is a kind of animal	nongold
+35	a structure of something is synonymous with a part of that something	nongold
+36	if two objects are similar , then the two objects share properties	nongold
+37	the effects of something is a property of that something	nongold
+38	composed of means made of	nongold
+39	a mountain; hill is taller than the land around it	nongold
+40	the Sierra Nevada is a kind of mountain range	nongold
+41	the  moon's surface contains highlands	nongold
+42	a behavior is a kind of characteristic	nongold
+43	a whole is formed by its parts	nongold
+44	a mountain is taller than a hill	nongold
+45	causing is a kind of affecting	nongold
+46	a half of Earth is a hemisphere of Earth	nongold
+47	a kind of something is an example of that something	nongold
+48	the Appalachians are a kind of mountain range	nongold
+49	a landform is a kind of object	nongold
+50	a planet is a kind of celestial object; body	nongold
+51	its mountain ranges	answer
+52	classifying is when one sorts something by kind; type	nongold
+53	the solar system contains the moon	nongold
+54	an increase is a kind of change	nongold
+55	appearance  is a kind of physical property	nongold
+56	landform means surface feature; physical feature; land feature	nongold
+57	Mars is a kind of planet	nongold
+58	a mountain; mountain range is a kind of environment	nongold
+59	affected means changed	nongold
+60	the Sun is a kind of star	nongold
+61	sense is a kind of characteristic of an animal	nongold
+62	mountains are formed by earthquakes; volcanoes; plate tectonics	nongold
+63	the moon orbits the Earth	nongold
+64	if something undergoes physical change then the chemical properties of that something will remain unchanged	nongold
+65	a mountain is a kind of land feature	gold
+66	not is similar to the opposite of	nongold
+67	a mountain is made of rocks; soil	nongold
+68	resemble means similar characteristics	nongold
+69	trait means property	nongold
+70	appearance is sometimes a physical property	nongold
+71	an animal is a kind of organism	nongold
+72	objects are made of materials; substances; matter	nongold
+73	if two things have the same features then those two things are alike	nongold
+74	the moon rising occurs once per day	nongold
+75	mountain is a kind of geographic obstacles	nongold
+76	trait is synonymous with characteristic	nongold
+77	a part of something means a characteristic of something	nongold
+78	the Earth revolves around the sun	nongold
+79	aspect of something is similar to part of something	nongold
+80	a mountain top is a part of a mountain	nongold
+81	to be made of something means to be formed of that something	nongold
+82	if something undergoes a physical change then the physical properties of that something will change	nongold
+83	Which physical characteristic of Earth is similar to a physical characteristic of the Moon?	question
+84	aspect is similar to property	nongold
+85	Earth is a kind of planet	nongold
+86	an animal is a kind of living thing	nongold
+87	a property of something is a feature of that something	nongold
+88	Earth is made of rock	nongold
+89	the Appalachian Mountains are a kind of mountain	nongold
+90	what an object is made of is a kind of characteristic	nongold
+91	a structure is a kind of feature	nongold
+92	to be believed to be is similar to maybe	nongold
+93	a hemisphere is a part of Earth	nongold
+94	a mountain is high in altitude	nongold
+95	many mountain ranges are no longer covered in water	nongold
+96	orbit is a kind of characteristic	nongold
+97	high mountains with well-rounded peaks can be formed by collision of crustal plates; erosion	nongold
+98	the Appalachians means the Appalachian Mountains	nongold
+99	valley is located between mountains; hills	nongold
+100	the properties of something are used for describing that something	nongold

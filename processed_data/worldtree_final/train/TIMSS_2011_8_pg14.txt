@@ -1,0 +1,101 @@
+0	Which of the following can provide the human body with long-term immunity against some diseases?	question
+1	vaccines	answer
+2	vaccines are a source of long-term immunity against some diseases for the human body	gold
+3	vaccines can help prevent illness	nongold
+4	provide is similar to give; make	nongold
+5	virus is a kind of living thing	nongold
+6	to provide means to supply	nongold
+7	if something is required then that something must be provided	nongold
+8	a human is a kind of animal	nongold
+9	human is a kind of organism	nongold
+10	harming something has a  negative impact on; effect on that something	nongold
+11	being used for is similar to providing	nongold
+12	to provide something means to be the source of that something	gold
+13	disease means illness	nongold
+14	the immune system defends the body against disease	nongold
+15	pathogens can cause disease	nongold
+16	infection often requires medical treatment	nongold
+17	an animal is a kind of organism	nongold
+18	to help; to benefit means to be of use	nongold
+19	the immune system is a kind of body; human body system	nongold
+20	disease has a negative impact on an organism	nongold
+21	the body is a part of an organism	nongold
+22	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+23	pathogen is similar to harmful substance	nongold
+24	protecting something means preventing harm to that something	nongold
+25	an animal is a kind of living thing	nongold
+26	to be used for something means to be required by that something	nongold
+27	helping something has a  positive impact on that something	nongold
+28	an organism is a living thing	nongold
+29	to produce means to provide	nongold
+30	if a living thing requires something then that something has a positive impact on that living thing	nongold
+31	providing something means making;delivering something	nongold
+32	a source of something emits; produces; generates; provides that something	nongold
+33	something harmful can cause harm	nongold
+34	to be used  for something means to help to do that something	nongold
+35	a positive impact is  a benefit	nongold
+36	negative impact is the opposite of positive impact	nongold
+37	requiring something means needing that something	nongold
+38	if something contains something , then something is able to provide something	nongold
+39	can means having the ability to	nongold
+40	to depend on; to rely on; to need means to require	nongold
+41	requiring is similar to needing help	nongold
+42	person is synonymous with human	nongold
+43	harming an organism can cause that organism to die	nongold
+44	white blood cell destroys pathogens in the body	nongold
+45	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+46	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+47	adverse effect means negative impact	nongold
+48	poison causes harm to living things; organisms	nongold
+49	if an organism can do something , then that organism is able to do that something	nongold
+50	transferring is similar to supplying	nongold
+51	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+52	a supply of something is a source of that something	nongold
+53	if something is a raw material in a process then that something is required for that process	nongold
+54	solution is similar to a positive impact	nongold
+55	bacteria; viruses cause food poisoning	nongold
+56	a plant is a kind of organism	nongold
+57	killing means harming something causing death	nongold
+58	medicine is used for curing people when they are sick	nongold
+59	best means most positive	nongold
+60	if something requires something else then that something requires a source of that something else	nongold
+61	a body system is a part of the body; an animal	nongold
+62	a negative impact is a kind of consequence; risk	nongold
+63	an autoimmune disease is when the body attacks its own tissues	nongold
+64	an animal is a member of an animal species	nongold
+65	to give is similar to to cause	nongold
+66	can be means able to be	nongold
+67	to give off means to be the source of	nongold
+68	death means to die	nongold
+69	if something has the ability to do something else , then that something can do that something else	nongold
+70	dead organisms are a source of disease	nongold
+71	inhibitor means something that prevents something from happening	nongold
+72	cooking food to proper temperatures protects against food poisoning by killing bacteria and viruses	nongold
+73	answering questions requires information	nongold
+74	if something causes a process then that something is required for that process	nongold
+75	if something has a positive impact on something else then that something is important to that something else	nongold
+76	disease-causing microbes have a negative impact on the body	nongold
+77	something dangerous can cause harm	nongold
+78	essential means required	nongold
+79	a part of a process means a stage in a process	nongold
+80	a positive impact is a helpful effect	nongold
+81	receiving a treat is a kind of positive effect	nongold
+82	nonliving; non-living; die is the opposite of living; alive; live	nongold
+83	organisms mean life	nongold
+84	containing something is similar to providing that something	nongold
+85	to serve as means to be used as	nongold
+86	to help means to aid	nongold
+87	an event is a kind of action	nongold
+88	a person is a kind of animal	nongold
+89	the amount of something is similar to the availability of something	nongold
+90	a process is a kind of event	nongold
+91	life means living things	nongold
+92	adding heat to something kills viruses; bacteria in that something	nongold
+93	a worm is a kind of animal	nongold
+94	an paramecium is a kind of organism	nongold
+95	a process usually requires all of the stages in that process	nongold
+96	if something is made of something; a material then that something contains that something; that material	nongold
+97	a producer is a kind of living thing	nongold
+98	an animal is a kind of consumer	nongold
+99	resistances are a property of living things	nongold
+100	a germ is a kind of harmful substance	nongold

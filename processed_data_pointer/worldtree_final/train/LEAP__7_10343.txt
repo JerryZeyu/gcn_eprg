@@ -1,0 +1,100 @@
+0	research is used for learning	nongold
+1	researcher is a kind of scientist	nongold
+2	a scientist is a kind of human	nongold
+3	technology is used for application of science	nongold
+4	scientific discoveries sometimes require specific technologies	gold
+5	genetic information is encoded in genetic code	nongold
+6	a type is synonymous with a kind	nongold
+7	humans usually develop inventions that they require	nongold
+8	quickly means in a short period of time	nongold
+9	high is similar to increase	nongold
+10	an allele is formed by mutation	nongold
+11	an event is a kind of action	nongold
+12	if something causes a process then that something is required for that process	nongold
+13	an organism is a living thing	nongold
+14	an increase is the opposite of a decrease	nongold
+15	human is similar to individual	nongold
+16	no longer means used to be	nongold
+17	Researchers recently discovered a gene in humans that previously was unknown to science. Which statement best explains why the gene probably was not discovered much sooner?	question
+18	once means one time	nongold
+19	to discover means to make a discovery	nongold
+20	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+21	a chromosomes of a human contains thousands of genes	nongold
+22	genotype of  an organism means the genes of  an organism	nongold
+23	genetics is a part of biology	nongold
+24	developing means growing	nongold
+25	to be used for something means to be required by that something	nongold
+26	genetic information can be used for making proteins	nongold
+27	to be formed by is similar to being produced by	nongold
+28	can be means able to be	nongold
+29	a research team is made of humans	nongold
+30	genes are located on chromosomes	nongold
+31	if an event is required for a process then that event must occur before that process can occur	nongold
+32	technology is similar to tool	nongold
+33	biology is a kind of science	nongold
+34	trait means property	nongold
+35	increase means more	nongold
+36	an allele is a kind of gene	nongold
+37	life means living things	nongold
+38	found in means existing in	nongold
+39	genes contains genetic information	nongold
+40	an allele can be a recessive gene	nongold
+41	an increase is a kind of change	nongold
+42	answering questions requires information	nongold
+43	genetic engineering is when scientists transfer a section of DNA from one organism into the DNA of another organism	nongold
+44	an animal is a kind of organism	nongold
+45	to identify means to discover	nongold
+46	a component of something means a part of that something	nongold
+47	scientists make observations	nongold
+48	an animal cell is a kind of cell	nongold
+49	studying is similar to investigating	nongold
+50	a living thing is a kind of object	nongold
+51	a gene is a kind of unit of hereditary information	nongold
+52	to be found in means to be contained in	nongold
+53	genes is a vehicle for passing genetic information from one generation to  the next	nongold
+54	recent means close to present time	nongold
+55	a human cell is a kind of cell	nongold
+56	genes are made of DNA	nongold
+57	best means most positive	nongold
+58	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+59	a component means a part of	nongold
+60	developing means making	nongold
+61	a process is a kind of event	nongold
+62	if something is a part of something then that something can be found in that something	nongold
+63	hypothesis means scientific guess about the cause and effect of an event	nongold
+64	to discover means to find	nongold
+65	not is similar to the opposite of	nongold
+66	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+67	trait is a kind of genetic information	nongold
+68	studying  something usually requires seeing that something	nongold
+69	discovering something usually requires seeing that something	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	if studying something is used to learn about something then that something is a source of information	nongold
+72	a living thing is made of cells	nongold
+73	experimentation requires measuring	nongold
+74	a  chromosome contains genes	nongold
+75	if a technology that is used to study something is still being developed then that something can not be discovered; studied	gold
+76	a human is a kind of animal	nongold
+77	events occur at a specific place; at a specific time; with a specific frequency	nongold
+78	trait is synonymous with characteristic	nongold
+79	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+80	learning; studying information causes one to know that information	nongold
+81	genes are able to determine the inherited characteristics of a living thing	nongold
+82	a human is a kind of mammal	nongold
+83	human is a kind of organism	nongold
+84	an inherited characteristic is a kind of characteristic	nongold
+85	a homozygous recessive organism contains only recessive genes	nongold
+86	faster means an increase; higher in speed	nongold
+87	to depend on; to rely on; to need means to require	nongold
+88	if something used to be in the past then that something  has changed	nongold
+89	to cause an event is similar to being involved in that event	nongold
+90	genes can be used for classifying  organisms	nongold
+91	The technology used to study genes is still being developed.	answer
+92	a mammal is a kind of animal	nongold
+93	knowing the properties of something means knowing information about that something	nongold
+94	developing means creating; inventing	nongold
+95	often is similar to likely	nongold
+96	an animal is a kind of living thing	nongold
+97	inherited characteristics are a kind of hereditary information	nongold
+98	reproduction is when an organism passes genetic information from itself to its offspring	nongold
+99	to study means to examine	nongold

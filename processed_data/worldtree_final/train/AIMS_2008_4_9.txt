@@ -1,0 +1,100 @@
+0	Which invention has technology that helps people keep food fresh for a long period of time?	question
+1	refrigerator	answer
+2	a refrigerator is used for keeping food fresh for a long period of time	gold
+3	person is synonymous with human	nongold
+4	a person is a kind of animal	nongold
+5	keeping food cold is used for keeping food fresh	nongold
+6	to preserve food means to keep fresh food from spoiling	nongold
+7	helping something has a  positive impact on that something	nongold
+8	an invention is a kind of tool	nongold
+9	a refrigerator is a kind of appliance	gold
+10	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+11	a human is a kind of animal	nongold
+12	keeping means staying	nongold
+13	to keep something occurring means to cause that something to occur	nongold
+14	to be used  for something means to help to do that something	nongold
+15	to help; to benefit means to be of use	gold
+16	fresh food is usually safe to eat	nongold
+17	an animal is a kind of organism	nongold
+18	an animal is a kind of living thing	nongold
+19	to keep a process or event happening is similar to causing that process or event to happen	nongold
+20	inventing a tool allows; enables that tool to be used	nongold
+21	food is what an animal eats	nongold
+22	an animal needs to eat food for nutrients	nongold
+23	the invention of the refrigerator occurred in 1923	nongold
+24	human is a kind of organism	nongold
+25	appliance is similar to technology	gold
+26	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+27	humans usually develop inventions that they require	nongold
+28	technology is similar to tool	nongold
+29	a food contains nutrients for living things	nongold
+30	keeping is similar to storing	nongold
+31	helping means to assist in a change	nongold
+32	requiring is similar to needing help	nongold
+33	a freezer; refrigerator is cool; cold in temperature	nongold
+34	an animal is a kind of consumer	nongold
+35	an organism is a living thing	nongold
+36	a living thing is a kind of object	nongold
+37	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+38	answering questions requires information	nongold
+39	to depend on; to rely on; to need means to require	nongold
+40	to enable is to help	nongold
+41	heating means adding heat	nongold
+42	if a living thing requires something then that something has a positive impact on that living thing	nongold
+43	a plant; living thing requires food for survival	nongold
+44	high is similar to increase	nongold
+45	a machine is a kind of  device	nongold
+46	refrigerators contain harmful chemicals	nongold
+47	having food has a positive impact on an organism's health	nongold
+48	food is a kind of substance	nongold
+49	device means tool	nongold
+50	good means positive	nongold
+51	to be used for something means to be required by that something	nongold
+52	staying warm means keeping warm	nongold
+53	having a variety of foods available has a positive impact on people's lives	nongold
+54	to eat means to consume food	nongold
+55	tool is similar to appliance	nongold
+56	an increase is the opposite of a decrease	nongold
+57	an animal; living thing requires nutrients for survival	nongold
+58	requiring something means needing that something	nongold
+59	a source of something emits; produces; generates; provides that something	nongold
+60	life means living things	nongold
+61	can be means able to be	nongold
+62	increase means more	nongold
+63	negative impact is the opposite of positive impact	nongold
+64	developing means creating; inventing	nongold
+65	to be good for means to have a positive impact on	nongold
+66	decreasing something negative has a positive impact on a thing	nongold
+67	to make something easier means to help	nongold
+68	decreasing something positive has a negative impact on a thing	nongold
+69	better means good	nongold
+70	best means most positive	nongold
+71	human is similar to individual	nongold
+72	if something is required for a process then that something positively impacts that process	nongold
+73	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+74	a device is a kind of object	nongold
+75	period is similar to amount of time	nongold
+76	heat means heat energy	nongold
+77	how long something takes is a kind of measurement of time	nongold
+78	help means advantage	nongold
+79	a plant is a kind of organism	nongold
+80	made by humans; artificial is the opposite of natural	nongold
+81	if something is made of something; a material then that something contains that something; that material	nongold
+82	if something causes a process then that something is required for that process	nongold
+83	material means substance	nongold
+84	to help means to aid	nongold
+85	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+86	length of time means period of time	nongold
+87	if something lasts longer then that something will not have to be replaced for a long time	nongold
+88	quickly means in a short period of time	nongold
+89	if an organism can do something , then that organism is able to do that something	nongold
+90	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+91	an event is a kind of action	nongold
+92	staying means not changing	nongold
+93	a food processor is a kind of household appliances	nongold
+94	staying warm has a positive impact on an animal's survival; health	nongold
+95	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+96	keeping warm is the opposite of becoming  cold	nongold
+97	helping means something can be done; completed more easily; better	nongold
+98	food is a kind of object	nongold
+99	a component of something means a part of that something	nongold

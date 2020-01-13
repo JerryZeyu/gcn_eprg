@@ -1,0 +1,102 @@
+0	largest amount means most	nongold
+1	strong means high in strength	nongold
+2	less is similar to decrease	nongold
+3	a vehicle is a kind of tool for travel; transport	nongold
+4	less means a reduced amount	nongold
+5	lowest means least in value; amount; number	nongold
+6	solution is similar to a positive impact	nongold
+7	A company is designing a new laptop computer. The computer must not exceed a certain weight. Which of the following is the most likely reason to have a weight restriction for the computer?	question
+8	carrying something means moving that something	nongold
+9	a computer is used for communication; finding information	nongold
+10	to add means to increase	nongold
+11	transport means to move; to make travel	nongold
+12	decreasing something negative has a positive impact on a thing	nongold
+13	certain is similar to specific	nongold
+14	a human is a kind of animal	nongold
+15	counter means reduce; stop; resist	nongold
+16	an increase is the opposite of a decrease	nongold
+17	mass; weight is a property of matter; objects; materials	nongold
+18	to slow; to slow down decreases speed	nongold
+19	a machine is a kind of  device	nongold
+20	often is similar to likely	nongold
+21	high is similar to increase	nongold
+22	transportation technology is used for moving people; products	nongold
+23	to make possible means to be required	nongold
+24	can be means able to be	nongold
+25	an animal is a kind of living thing	nongold
+26	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+27	a restriction can be used to limit something; keep something low	gold
+28	an part of an object is smaller than the entire object	nongold
+29	an increase is a kind of change	nongold
+30	to be required means to be necessary	nongold
+31	requiring something means needing that something	nongold
+32	as the weight of an object decreases , the object will be transported more easily	gold
+33	harming something has a  negative impact on; effect on that something	nongold
+34	heavy means a large amount of weight	nongold
+35	affected means changed	nongold
+36	helping something has a  positive impact on that something	nongold
+37	if an object is made of a material then that object has the properties of that material	nongold
+38	if something is required for something else then that something allows that something else	nongold
+39	a machine is a kind of object	nongold
+40	lower means less	nongold
+41	a computer controls a robot	nongold
+42	hard is the opposite of easy	nongold
+43	a device is a kind of object	nongold
+44	too much is similar to increase	nongold
+45	to transfer means to bring; to get something to	nongold
+46	a weight is a kind of object	nongold
+47	a requirement is a kind of limitation	nongold
+48	if a value decreases then that value may become; may reach zero; 0	nongold
+49	negative impact is the opposite of positive impact	nongold
+50	lighter means lower; less in weight	nongold
+51	transporting is a kind of function	nongold
+52	to be used for something means to be required by that something	nongold
+53	to carry means to transport	nongold
+54	must have means require	nongold
+55	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+56	a laptop is a kind of computer	gold
+57	weight is a kind of property	nongold
+58	transportation technology is a kind of system for moving people and products	nongold
+59	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+60	greater means higher; more in value	nongold
+61	to make something easier means to help	nongold
+62	to cause means to make	nongold
+63	little is similar to decrease	nongold
+64	a vehicle is used for transportation	nongold
+65	less is the opposite of more	nongold
+66	as the ability  to do something decreases , doing that something will be harder	nongold
+67	to lack means to not have	nongold
+68	smaller means less; lower in size	nongold
+69	a decrease is a kind of change	nongold
+70	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+71	to ship means to transport	nongold
+72	low is similar to decrease	gold
+73	requiring is similar to needing help	nongold
+74	not is similar to the opposite of	nongold
+75	weight means the force of gravity acting on an object	nongold
+76	to reduce means to decrease	nongold
+77	small is the opposite of large	nongold
+78	faster means an increase; higher in speed	nongold
+79	a computer is a kind of tool	gold
+80	to impact means to affect	nongold
+81	increase means more	nongold
+82	decreasing something positive has a negative impact on a thing	nongold
+83	Weight is  the  force of gravity acting on an object	nongold
+84	weight is a property of objects; matter	nongold
+85	a living thing is a kind of object	nongold
+86	low is the opposite of high	nongold
+87	to lower means to decrease	nongold
+88	to transfer is similar to transport	nongold
+89	a product is a kind of object	nongold
+90	to make it easier to transport the computer	answer
+91	extreme means very high in value	nongold
+92	to bring means to transport	nongold
+93	to depend on; to rely on; to need means to require	nongold
+94	an organism is a living thing	nongold
+95	to limit means to decrease	nongold
+96	to carry means to move something	nongold
+97	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+98	to improve means to have a positive impact	nongold
+99	if something is transported to something else then that something else receives that something	nongold
+100	person is synonymous with human	nongold
+101	if a living thing requires something then that something has a positive impact on that living thing	nongold

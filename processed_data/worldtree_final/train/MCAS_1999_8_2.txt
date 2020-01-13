@@ -1,0 +1,101 @@
+0	Which technological advancement has done the most to improve the accuracy of weather predictions?	question
+1	satellites	answer
+2	satellites have had the greatest; most positive impact on the accuracy of weather predictions	gold
+3	satellite technology is used for predicting the weather	nongold
+4	weather forecast means weather prediction	nongold
+5	satellites are a kind of technological advancement	gold
+6	to improve means to have a positive impact	gold
+7	to advance means to improve	nongold
+8	a satellite orbits a planet	nongold
+9	to enhance means to increase	nongold
+10	a satellite is a kind of instrument for observing Earth's surface	nongold
+11	predicting weather requires studying weater	nongold
+12	weather is a property of a environment	nongold
+13	astronomy is the study of celestial (objects, bodies)	nongold
+14	weather  usually happens in troposphere	nongold
+15	better means good	nongold
+16	storm is a kind of weather; weather event	nongold
+17	satellites are used to take images from space	nongold
+18	sky conditions are a property of weather	nongold
+19	answering questions requires information	nongold
+20	to depend on; to rely on; to need means to require	nongold
+21	a weather report describes weather	nongold
+22	high is similar to increase	nongold
+23	an event is a kind of action	nongold
+24	good means positive	nongold
+25	helping something has a  positive impact on that something	nongold
+26	most means over 50% of something	nongold
+27	increase means more	nongold
+28	technology is similar to tool	nongold
+29	data means information	nongold
+30	best means most positive	nongold
+31	weather is  a measure of the condition of the air in a place at a certain time	nongold
+32	technology is used for application of science	nongold
+33	cloudy is a kind of  weather	nongold
+34	weather is a source of wind and water for the weathering process	nongold
+35	an increase is a kind of change	nongold
+36	a process is a kind of event	nongold
+37	an instrument is a piece of equipment	nongold
+38	instrument means device	nongold
+39	a source of something increases the amount of that something	nongold
+40	can be means able to be	nongold
+41	to improve the chances means to increase the likelihood	nongold
+42	greatest means largest; highest; most amount of something	nongold
+43	astronomy is a kind of branch of science	nongold
+44	to be used for something means to be required by that something	nongold
+45	calculation means measurement	nongold
+46	a component of something means a part of that something	nongold
+47	the function of something is what that something  is used to do	nongold
+48	if something causes a process then that something is required for that process	nongold
+49	a component means a part of	nongold
+50	instrument means tool	nongold
+51	helping means something can be done; completed more easily; better	nongold
+52	hypothesis means scientific guess about the cause and effect of an event	nongold
+53	100% probability means always	nongold
+54	improving the design of something helps that something  to do its function	nongold
+55	causing means influencing	nongold
+56	an increase is the opposite of a decrease	nongold
+57	something that happens is a kind of event	nongold
+58	if something emits something else then that something increases the amount of that something else	nongold
+59	a part of a process means a stage in a process	nongold
+60	a measurement is a kind of data	nongold
+61	Earth is a kind of planet	nongold
+62	a type is synonymous with a kind	nongold
+63	tornado is a kind of weather	nongold
+64	a factor impacts something	nongold
+65	satellites are found in space	nongold
+66	if technology used for a process is improved then the product produced by that process will increase	nongold
+67	to try means to make an effort	nongold
+68	a cloud is a kind of weather	nongold
+69	system means a set of objects	nongold
+70	windy is a kind of weather	nongold
+71	a source of something emits; produces; generates; provides that something	nongold
+72	seconds are a kind of unit for measuring time	nongold
+73	a human is a kind of animal	nongold
+74	a moon is a kind of satellite	nongold
+75	a machine is a kind of  device	nongold
+76	if something is required for a process then that something positively impacts that process	nongold
+77	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+78	a process usually requires all of the stages in that process	nongold
+79	a hypothesis is a kind of scientific term	nongold
+80	if something causes an increase in something else then that something produces that something else	nongold
+81	faster means an increase; higher in speed	nongold
+82	to cause an event is similar to being involved in that event	nongold
+83	events occur at a specific place; at a specific time; with a specific frequency	nongold
+84	to be good for means to have a positive impact on	nongold
+85	according to is similar to be determined by	nongold
+86	a motion is a kind of event; action	nongold
+87	precipitation is a kind of weather	nongold
+88	mostly means being the most	nongold
+89	rainy is a kind of weather	nongold
+90	a step in a process means a stage in a process	nongold
+91	warning  people of something requires knowing about; predicting that something	nongold
+92	a scientist is a kind of human	nongold
+93	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+94	how long something takes is a kind of measurement of time	nongold
+95	preparing for a storm requires predicting the occurrence of that storm	nongold
+96	to give is similar to to cause	nongold
+97	to be formed by is similar to being produced by	nongold
+98	usually means most of the time	nongold
+99	indication is similar to a piece of information	nongold
+100	calculating is similar to estimating	nongold

@@ -1,0 +1,58 @@
+0	to be used for something means to be required by that something	nongold
+1	fossil fuel contains chemical energy	nongold
+2	combustion is a kind of exergonic reaction	nongold
+3	to combust means to catch fire	nongold
+4	if something transfers something else then that something is a source of something else	nongold
+5	a process is a kind of event	gold
+6	the atmosphere is a part of nature; the environment	nongold
+7	a cycle is a kind of process	nongold
+8	fossil fuels are a kind of energy resource	nongold
+9	burning fossil fuels increases the carbon in the atmosphere	gold
+10	to add means to increase	gold
+11	natural gas is a kind of fossil fuel	nongold
+12	to add means to increase	gold
+13	releasing something into the atmosphere increases the amount of that something in the atmosphere	nongold
+14	make means produce	nongold
+15	to contribute means to add	nongold
+16	if something is a raw material in a process then that something is required for that process	nongold
+17	fire causes burning	nongold
+18	Which process directly adds carbon into the atmosphere?	question
+19	a process is a kind of event	gold
+20	combustion is a kind of activity	nongold
+21	if an event occurs by adding something then that event requires that something	nongold
+22	burning fossil fuels	answer
+23	burning fossil fuels	answer
+24	petroleum is a kind of fossil fuel	nongold
+25	to add means to combine	nongold
+26	sulfur dioxide is formed by the combustion of fossil fuels	nongold
+27	heat means heat energy	nongold
+28	fossil fuels release carbon dioxide into the atmosphere	nongold
+29	burning fossil fuels	answer
+30	Which process directly adds carbon into the atmosphere?	question
+31	using the fuel requires burning the fuel	nongold
+32	powering is similar to fueling	nongold
+33	the Earth's atmosphere is made of 0 to 4 percent hydrogen; water vapor by volume	nongold
+34	conversion is a kind of process	nongold
+35	burning fossil fuels increases the carbon in the atmosphere	gold
+36	fossil fuels burning causes pollution	nongold
+37	adding heat means increasing temperature	nongold
+38	to add means to increase	gold
+39	a fossil fuel is a kind of natural resource	nongold
+40	air is a kind of gas	nongold
+41	oil is a nonrenewable resource	nongold
+42	burning fossil fuels increases the carbon in the atmosphere	gold
+43	burning is a kind of action	gold
+44	burning fossil fuels	answer
+45	transferring is similar to adding	nongold
+46	burning is a kind of action	gold
+47	Which process directly adds carbon into the atmosphere?	question
+48	a reaction is a kind of process	nongold
+49	photosynthesis is a kind of chemical  process	nongold
+50	Which process directly adds carbon into the atmosphere?	question
+51	burning is a kind of action	gold
+52	combustion means fire converts chemical energy into light energy and heat energy	nongold
+53	the Earth's atmosphere is made of .036 percent carbon dioxide by volume	nongold
+54	a process is a kind of event	gold
+55	biofuel releases carbon dioxide into the atmosphere	nongold
+56	producing is a kind of process	nongold
+57	fossil fuels are a nonrenewable resource	nongold

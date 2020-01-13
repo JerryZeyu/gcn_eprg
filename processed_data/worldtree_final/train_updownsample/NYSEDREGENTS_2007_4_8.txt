@@ -1,0 +1,58 @@
+0	shape is a kind of physical property	nongold
+1	the properties of something are used for describing that something	nongold
+2	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	gold
+3	trait means property	nongold
+4	a surface is a part of a material	nongold
+5	taste is a kind of property	gold
+6	what an object is made of is a kind of characteristic	nongold
+7	a property of something is a feature of that something	nongold
+8	felt is high in roughness	nongold
+9	shape is an extensive property	nongold
+10	structure is a property of an object; a material; a substance	nongold
+11	taste is a kind of sense	nongold
+12	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+13	An object's hardness, taste, and texture are examples of	question
+14	taste is a kind of property	gold
+15	properties	answer
+16	soft is a kind of touch sensation	nongold
+17	to create means to make	nongold
+18	an object is an item	nongold
+19	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	gold
+20	hardness is a property of a material; an object and includes ordered values of malleable; rigid	gold
+21	hardness is a property of a material; an object and includes ordered values of malleable; rigid	gold
+22	property is similar to measurement	nongold
+23	properties	answer
+24	a kind of something is an example of that something	gold
+25	sharpness is a property of shape	nongold
+26	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+27	hardness is a property of a material; an object and includes ordered values of malleable; rigid	gold
+28	a kind of something is an example of that something	gold
+29	materials are made of matter	nongold
+30	hardness is an intensive property	nongold
+31	soft is a kind of hardness	nongold
+32	an increase is the opposite of a decrease	nongold
+33	rough is the opposite of smooth	nongold
+34	an animal is a kind of living thing	nongold
+35	material composition is a kind of chemical property	nongold
+36	low is the opposite of high	nongold
+37	high is similar to increase	nongold
+38	a kind of something is an example of that something	gold
+39	measuring the hardness of minerals requires  scratching those materials	nongold
+40	the luster of an object can be determined by looking at that object	nongold
+41	properties	answer
+42	shape is a kind of characteristic	nongold
+43	properties	answer
+44	characteristic means property	nongold
+45	taste is a kind of property	gold
+46	friction causes the temperature of an object to increase	nongold
+47	food is a kind of object	nongold
+48	a tool is a kind of object	nongold
+49	An object's hardness, taste, and texture are examples of	question
+50	An object's hardness, taste, and texture are examples of	question
+51	a living thing is a kind of object	nongold
+52	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	gold
+53	surface area is a property of shape	nongold
+54	to enhance means to increase	nongold
+55	definite is the opposite of variable	nongold
+56	An object's hardness, taste, and texture are examples of	question
+57	animals taste flavors	nongold

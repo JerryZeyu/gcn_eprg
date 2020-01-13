@@ -1,0 +1,102 @@
+Question	Which event would most likely result in more food for organisms that are scavengers?	question
+Answer	Fish die and sink to the bottom of a pond.	answer
+0	a pond is a kind of body of water	nongold
+1	a pond is a kind of environment	nongold
+2	scavengers eat dead organisms	gold
+3	an animal; living thing requires nutrients for survival	nongold
+4	a fish is a kind of aquatic animal	gold
+5	a fish is a kind of predator	nongold
+6	sinking means moving down	nongold
+7	a fish is a kind of animal	nongold
+8	to cause means to result in	nongold
+9	a pond is smaller; shallower than a lake	nongold
+10	an event is a kind of action	nongold
+11	a fish lives in water	nongold
+12	an aquatic animal is a kind of animal	gold
+13	if a living thing dies then that living thing is dead	gold
+14	death means to die	nongold
+15	a pond is a kind of habitat	nongold
+16	the bottom is the lowest part of something	nongold
+17	predators eat prey	nongold
+18	an organism is a living thing	gold
+19	prey is a kind of food for predators	nongold
+20	a predator eats other animals for food	nongold
+21	a food contains nutrients for living things	nongold
+22	an animal is a kind of living thing	nongold
+23	aquatic animal means water animal	nongold
+24	result means outcome	nongold
+25	animals; living things require water for survival	nongold
+26	an animal is a kind of organism	gold
+27	fish eat insects	nongold
+28	something that happens is a kind of event	nongold
+29	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+30	if an organism dies then the population of that organism will decrease	nongold
+31	nonliving; non-living; die is the opposite of living; alive; live	nongold
+32	killing means harming something causing death	nongold
+33	to lower means to decrease	nongold
+34	food is what an animal eats	nongold
+35	increase means more	nongold
+36	an animal needs to eat food for nutrients	nongold
+37	a plant; living thing requires food for survival	nongold
+38	prey  is a kind of animal	nongold
+39	a predator is a kind of animal	nongold
+40	a process is a kind of event	nongold
+41	to produce means to result in	nongold
+42	low means down	nongold
+43	a predator usually kills its prey to eat it	nongold
+44	less is similar to decrease	nongold
+45	the bottom of a body of water is the deepest	nongold
+46	lower means less	nongold
+47	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+48	below means lower down	nongold
+49	a living thing is a kind of object	nongold
+50	to cause an event means to make that event more likely	nongold
+51	an increase is the opposite of a decrease	nongold
+52	less means a reduced amount	nongold
+53	downward means down	nongold
+54	life means living things	nongold
+55	killing means changing a living thing from alive to dead by harming	nongold
+56	if a living thing requires something then that something has a positive impact on that living thing	nongold
+57	become prey means get eaten	nongold
+58	to cause an event is similar to being involved in that event	nongold
+59	low is similar to decrease	nongold
+60	killing a living thing decreases the number; population size of that living thing	nongold
+61	a change is a kind of event	nongold
+62	humans sometimes eat fish	nongold
+63	high is similar to increase	nongold
+64	dying is the opposite of living; surviving	nongold
+65	survive means live	nongold
+66	survive means live	nongold
+67	sinking is a kind of downward direction	nongold
+68	remains is similar to dead organisms	nongold
+69	sink down is similar to settle	nongold
+70	predators; carnivores; omnivores eat other animals	nongold
+71	a body of water is a kind of environment	nongold
+72	aquatic animals; plants live in bodies of water	nongold
+73	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+74	sediment falls to the bottom of bodies of water	nongold
+75	eating prey requires catching prey	nongold
+76	fishing is when a human kills; catches fish for food	nongold
+77	if an event is required for a process then that event must occur before that process can occur	nongold
+78	organisms are a part of an environment	nongold
+79	to depend on; to rely on; to need means to require	nongold
+80	a motion is a kind of event; action	nongold
+81	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+82	a reptile is a kind of animal	nongold
+83	events occur at a specific place; at a specific time; with a specific frequency	nongold
+84	eating something decreases the amount of that something	nongold
+85	diet means what an animal eats	nongold
+86	event is similar to occurrence	nongold
+87	a negative impact is a kind of consequence; risk	nongold
+88	dead means not alive	nongold
+89	trout is a kind of fish	nongold
+90	remains mean parts of a dead organism	nongold
+91	water is a part of an environment	nongold
+92	organisms mean life	nongold
+93	to reduce means to decrease	nongold
+94	negative impact is the opposite of positive impact	nongold
+95	to happen means to occur	nongold
+96	edge of a pond is a kind of surface	nongold
+97	to eat means to consume food	nongold
+98	to impact means to affect	nongold
+99	if an organism eats something then that something is a source of frood to that organism	gold

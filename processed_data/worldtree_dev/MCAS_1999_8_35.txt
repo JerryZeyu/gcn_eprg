@@ -1,0 +1,102 @@
+Question	To observe materials up close and in greater detail we use	question
+Answer	optical tools.	answer
+0	optical tools are used for observing materials up close; in greater detail	gold
+1	observe means see	nongold
+2	instrument means tool	nongold
+3	device means tool	nongold
+4	close means low in distance	nongold
+5	look at means observe	nongold
+6	detecting is similar to observing	nongold
+7	a magnifying glass is a kind of tool for observing small things	nongold
+8	a telescope is a kind of optical instrument for observing celestial objects; observing the sky	nongold
+9	a tool is a kind of object	nongold
+10	viewing means observing light	nongold
+11	sight means to see	nongold
+12	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	nongold
+13	an optical telescope requires visible light for human to use	nongold
+14	instrument means device	nongold
+15	objects are made of materials; substances; matter	nongold
+16	to see means to look	nongold
+17	inspect; observe means examine	nongold
+18	looking is similar to observing	nongold
+19	a surface is a part of a material	nongold
+20	material means substance	nongold
+21	a device is a kind of object	nongold
+22	an optical telescope is a kind of telescope	nongold
+23	a surface is a part of an object	nongold
+24	measuring is a kind of observing	nongold
+25	a microscope is a kind of tool for observing small things	nongold
+26	An example of observing things is taking a picture	nongold
+27	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+28	distant means great in distance	nongold
+29	refraction is a property of light	nongold
+30	near means close	nongold
+31	sight means vision	nongold
+32	lenses are a kind of object	nongold
+33	magnifying glass is used to see  small things by making objects appear bigger	nongold
+34	a flashlight is a kind of tool	nongold
+35	an part of an object is smaller than the entire object	nongold
+36	eyes are used for seeing by animals by sensing light	nongold
+37	seeing is used for sensing visual things	nongold
+38	glass; objects made of glass cause refraction of light	nongold
+39	if something is visible , then that something can be observed	nongold
+40	if an object is close then that object will appear large	nongold
+41	distance is a property of space and includes ordered values of close; far	nongold
+42	eyes are a part of a human for seeing	nongold
+43	to view means to see	nongold
+44	greater means higher; more in value	nongold
+45	studying is similar to observing	nongold
+46	closer means lower; less; a decrease in distance	nongold
+47	refraction is a kind of process	nongold
+48	to use means to utilize	nongold
+49	a laser is a kind of device for producing light	nongold
+50	an electron microscope is used for seeing very small objects by making them appear bigger	nongold
+51	a convex lens causes light to refract and concentrate to magnify distant objects	nongold
+52	to observe means to gather information	nongold
+53	technology is similar to tool	nongold
+54	to illuminate means to light up	nongold
+55	a surface is a kind of object	nongold
+56	to detect means to find	nongold
+57	refraction is when light passes from one medium to another medium	nongold
+58	the eyes are part of the head used for seeing	nongold
+59	refractions of light can be used to help a person see	nongold
+60	if an object is made of a material then that object has the properties of that material	nongold
+61	sight is a kind of sense	nongold
+62	observations; data are a part of the results of an experiment	nongold
+63	detailed observation of celestial objects requires a telescope	nongold
+64	seeing requires light	nongold
+65	if an object reflects light toward the eye then that object can be seen	nongold
+66	a living thing is a kind of object	nongold
+67	can be means able to be	nongold
+68	eyes are usually part of an animal for seeing	nongold
+69	a laser is used for producing light	nongold
+70	a prism is a kind of tool for refracting light	nongold
+71	observable means visible	nongold
+72	matter; materials; substances are made of atoms; particles	nongold
+73	determining often requires measuring; observing	nongold
+74	the senses are used for making observations	nongold
+75	a simple machine is a kind of tool	nongold
+76	refraction is when a wave goes through; transmits through; passes through a surface; a material; an object and travels in a different direction relative to the angle of incidence	nongold
+77	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+78	an instrument is a piece of equipment	nongold
+79	a camera is a kind of tool for recording images	nongold
+80	lab equipment is often used for measuring; observing	nongold
+81	a lens is a part of a telescope	nongold
+82	higher means greater; above in value; amount; number	nongold
+83	a solid is a kind of substance	nongold
+84	binoculars are a kind of instrument for observing distant objects	nongold
+85	to be used for something means to be required by that something	nongold
+86	materials are made of matter	nongold
+87	far means great in distance	nongold
+88	an eyeglass lens is a kind of object	nongold
+89	height is a measure of length from the top of an object to the bottom of an object	nongold
+90	substances are made of matter	nongold
+91	a wall is a kind of surface	nongold
+92	a mirror is used for reflecting light	nongold
+93	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+94	an element is a kind of material	nongold
+95	height is a property of the size of an object	nongold
+96	proximity means distance	nongold
+97	the ground is at the bottom of an area	nongold
+98	near; close is the opposite of far; away	nongold
+99	making discoveries requires observing	nongold

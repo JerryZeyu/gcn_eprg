@@ -1,0 +1,55 @@
+0	material means substance	nongold
+1	something that happens is a kind of event	nongold
+2	boiling point is a kind of physical  property	nongold
+3	if liquid is boiling then that liquid is hot	nongold
+4	a volatile substance gives off gas	nongold
+5	liquid becomes a gas	answer
+6	becoming is a kind of action	nongold
+7	evaporating is a kind of phase change	nongold
+8	to reduce means to decrease	nongold
+9	liquid becomes a gas	answer
+10	chemical change is a kind of chemical reaction	nongold
+11	air is usually a thermal; thermal energy insulator	nongold
+12	a solid is a kind of substance	nongold
+13	to emit means to release	nongold
+14	gas is a kind of object	nongold
+15	a liquid is a kind of substance	nongold
+16	boiling is when liquids are heated above their boiling point	gold
+17	state means form	nongold
+18	when a gas in an open container evaporates; boils , that gas spreads out into the air	nongold
+19	liquid becomes a gas	answer
+20	What happens at the boiling point of a substance?	question
+21	boiling point is the highest temperature a liquid can reach	nongold
+22	Matter in the gas phase has variable shape	nongold
+23	a solution is formed by one substance being dissolved in another substance	nongold
+24	becoming is similar to changing	gold
+25	to change means to cause a change	nongold
+26	freezing point is a property of a substance; material	nongold
+27	chemical change is the opposite of physical change	nongold
+28	the boiling point of water is 212F; 100C; 373K	nongold
+29	heat energy can change the state of matter	nongold
+30	boiling is when liquids are heated above their boiling point	gold
+31	What happens at the boiling point of a substance?	question
+32	reducing is a kind of change	nongold
+33	boiling is a kind of phase change	nongold
+34	liquid becomes a gas	answer
+35	becoming is similar to changing	gold
+36	becoming is similar to changing	gold
+37	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+38	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+39	Matter in the liquid phase has variable shape	nongold
+40	boiling means the volume of a liquid decreases	nongold
+41	boiling is when liquids are heated above their boiling point	gold
+42	What happens at the boiling point of a substance?	question
+43	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+44	condensation is when matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+45	boiling point is a property of a substance; material	nongold
+46	a  gas is a kind of  element	nongold
+47	gas is a kind of substance	nongold
+48	forming is similar to converting	nongold
+49	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+50	water is a kind of liquid at room temperature	nongold
+51	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+52	What happens at the boiling point of a substance?	question
+53	volume has no impact on boiling; melting; freezing point	nongold
+54	to exhale means to release	nongold

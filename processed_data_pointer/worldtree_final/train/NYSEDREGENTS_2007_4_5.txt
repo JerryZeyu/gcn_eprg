@@ -1,0 +1,102 @@
+0	cycles of day and night occur once per day	nongold
+1	setting is a kind of motion	nongold
+2	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+3	walking is a kind of motion	nongold
+4	the Earth revolves around the sun	nongold
+5	turns is similar to changes	nongold
+6	flying is a kind of motion through air; space	nongold
+7	motion is when moves an object; something to a direction	nongold
+8	What motion causes day and night?	question
+9	a rotation is a kind of movement	nongold
+10	emit means produce	nongold
+11	a planet rotating causes cycles of day and night on that planet	gold
+12	a process is a kind of event	nongold
+13	a planet is a kind of celestial object; body	nongold
+14	to change means to cause a change	nongold
+15	rolling is a kind of motion	nongold
+16	rotation of Earth	answer
+17	to turn means to change	nongold
+18	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+19	a revolution occurs when something revolves around something else	nongold
+20	affected means changed	nongold
+21	to cause means to have an effect	nongold
+22	if something causes a process then that something is required for that process	nongold
+23	Earth's rotation causes time zones	nongold
+24	turning is a kind of motion	nongold
+25	to be formed by is similar to being produced by	nongold
+26	a component means a part of	nongold
+27	high is similar to increase	nongold
+28	a type is synonymous with a kind	nongold
+29	the day time is part of one day	nongold
+30	rotate means turn	nongold
+31	Earth's angle of tilt causes the length of day and night to vary	nongold
+32	the sun rising and setting causes cycles of day and night	nongold
+33	Earth's revolution is a kind of cycle	nongold
+34	to give is similar to to cause	nongold
+35	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+36	a source of something emits; produces; generates; provides that something	nongold
+37	to change means to have an effect	nongold
+38	to cause means to make	nongold
+39	variable means able to change	nongold
+40	movements of celestial bodies are a kind of event	nongold
+41	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+42	all the time means at day and at night	nongold
+43	rotate is similar to revolve	nongold
+44	to cause is similar to bring	nongold
+45	causing is a kind of affecting	nongold
+46	to rotate means to complete a rotation	nongold
+47	a motion is a kind of event; action	nongold
+48	an increase is a kind of change	nongold
+49	the Earth being tilted on its rotating axis causes seasons	nongold
+50	a wheel is a kind of object	nongold
+51	moving is similar to travelling	nongold
+52	hours are a kind of unit for measuring time	nongold
+53	revolving is a kind of action	nongold
+54	causing means influencing	nongold
+55	motion; movement means moving; to move	nongold
+56	to add means to increase	nongold
+57	vibration is a kind of motion	nongold
+58	form means kind	nongold
+59	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+60	the moon rotates on its axis	nongold
+61	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+62	Earth is a kind of planet	gold
+63	if a human is on a rotating planet then other celestial bodies will appear to move from that human's perspective due to  the rotation of that planet	nongold
+64	rising is a kind of motion	nongold
+65	pulling is a kind of motion	nongold
+66	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+67	movement is a kind of change	nongold
+68	revolving  around something means orbiting that something	nongold
+69	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+70	days are a kind of unit for measuring time	nongold
+71	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	nongold
+72	the Earth rotates on its axis	gold
+73	Earth rotating on its axis occurs once per day	nongold
+74	to cause an event is similar to being involved in that event	nongold
+75	creating is similar to causing	nongold
+76	constant means not changing	nongold
+77	moving; mobile is the opposite of stationary; unmoving	nongold
+78	phase means state	nongold
+79	shift means move	nongold
+80	moving in a circle means moving in a circular motion	nongold
+81	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+82	the sun  is the source of energy for physical cycles on Earth	nongold
+83	producing is similar to causing	nongold
+84	the Earth revolving around the Sun causes the seasons to change; to occur on its axis	nongold
+85	rotating is similar to moving	nongold
+86	as the rotation speed of a planet increases , the length of day and night will decrease on that planet	nongold
+87	a rotation of the moon takes 1; one month	nongold
+88	1 day is equal to 24 hours	nongold
+89	revolving is a kind of motion	nongold
+90	a hemisphere is a part of Earth	nongold
+91	a cycle is a kind of process	nongold
+92	rotation  is  the  circular movement of an object around a center; axis	nongold
+93	rotation is a kind of motion	gold
+94	daytime means day	nongold
+95	astronomy is the study of celestial (objects, bodies)	nongold
+96	some celestial bodies rotate in space	nongold
+97	spin means rotate	nongold
+98	a cycle happens; occurs repeatedly	nongold
+99	the night time is part of one day	nongold
+100	a moon is a kind of celestial object; body	nongold
+101	the moon orbits the Earth	nongold

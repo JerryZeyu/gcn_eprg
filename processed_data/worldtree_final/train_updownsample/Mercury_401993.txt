@@ -1,0 +1,57 @@
+0	water is made of hydrogen and oxygen	nongold
+1	a compound is a kind of material	nongold
+2	particles in objects are a kind of matter	nongold
+3	water is a kind of compound	gold
+4	atomic number is a property of elements	nongold
+5	the  chemical symbol for oxygen is O	nongold
+6	water is a kind of compound	gold
+7	a molecule of water is made of 2 hydrogen atoms and 1 oxygen atom	gold
+8	a carbohydrate is a kind of compound	nongold
+9	The chemical formula for water is H_{2}O. What does the formula show about each element in the compound?	question
+10	CO2 is a kind of chemical formula	nongold
+11	a molecule of water is made of 2 hydrogen atoms and 1 oxygen atom	gold
+12	a compound is a kind of substance	gold
+13	approximately means about	nongold
+14	chemical reactions do not cause the total number of atoms to change	nongold
+15	atoms are made of particles	nongold
+16	a compound is a kind of substance	gold
+17	made up of means contains; made of	nongold
+18	the number of atoms of each element	answer
+19	when two substances together form a compound then those substances cannot be physically separated	nongold
+20	The chemical formula for water is H_{2}O. What does the formula show about each element in the compound?	question
+21	the number of atoms of each element	answer
+22	the number of parts of something is a property of that something	nongold
+23	the number in chemical formula shows the number of atoms of each element in a molecule	gold
+24	all the other means the rest of	nongold
+25	water is a kind of substance	nongold
+26	a molecule of water is made of 2 hydrogen atoms and 1 oxygen atom	gold
+27	fewer means lower; less in number	nongold
+28	H2O means water	nongold
+29	compound is a kind of chemical	nongold
+30	the number in chemical formula shows the number of atoms of each element in a molecule	gold
+31	to show means to display	nongold
+32	water is a kind of matter	nongold
+33	substances are made of matter	nongold
+34	same means identical; equal in value; amount; number; quantity	nongold
+35	an atom is the smallest particle; unit that has the properties of an element	nongold
+36	a compound is a kind of substance	gold
+37	liquid is a kind of state of matter	nongold
+38	O is the chemical symbol for oxygen	nongold
+39	The chemical formula for water is H_{2}O. What does the formula show about each element in the compound?	question
+40	the number in chemical formula shows the number of atoms of each element in a molecule	gold
+41	chemical reactions cause new substances; different substances to form	nongold
+42	an  element is a kind of atom	nongold
+43	electron configuration is a property of elements	nongold
+44	a nonmetal is a kind of element	nongold
+45	the number of atoms of each element	answer
+46	a molecule is made of atoms chemically combined; bonded	nongold
+47	chlorine is a kind of element	nongold
+48	heat means heat energy	nongold
+49	an element is a kind of material	nongold
+50	the number of atoms of each element	answer
+51	an element is made of one kind of atoms	nongold
+52	The chemical formula for water is H_{2}O. What does the formula show about each element in the compound?	question
+53	combining; mixing two substances chemically causes chemical reactions	nongold
+54	atomic number means proton number	nongold
+55	water is a kind of compound	gold
+56	a pure substance is made of only one kind of atom; molecule	nongold

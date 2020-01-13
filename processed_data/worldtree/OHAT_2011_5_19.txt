@@ -1,0 +1,102 @@
+Question	The sun is a star of average size and brightness. From Earth, the sun appears as a round, yellow object in the daytime sky. At night, we see other stars. They appear as tiny points of light. Why does the sun appear larger than stars that we see at night?	question
+Answer	The sun is closer to Earth than other stars, making the sun appear larger.	answer
+0	larger means greater; higher; more; increase in size	nongold
+1	smaller means less; lower in size	nongold
+2	as distance from an object decreases , that object will appear larger	nongold
+3	the Sun is the  star that is closest to Earth	gold
+4	a star is a kind of celestial object; celestial body	nongold
+5	as distance to an object increases , that object will appear smaller	nongold
+6	if an object is close then that object will appear large	gold
+7	larger; bigger is the opposite of smaller	nongold
+8	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+9	the sun is not a star in the night sky	nongold
+10	closer means lower; less; a decrease in distance	nongold
+11	the Sun has average brightness compared to other stars	nongold
+12	the Sun is a kind of star	nongold
+13	the stars in the night sky are very far away from the Earth	gold
+14	Earth is a kind of planet	nongold
+15	larger is a kind of difference	nongold
+16	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+17	near; close is the opposite of far; away	nongold
+18	stars appear to move relative to the horizon during the night	nongold
+19	far is the opposite of close	gold
+20	as a source of light becomes closer , that source will appear brighter	nongold
+21	as the size of a source of light increases , that source of light will appear brighter	nongold
+22	daytime means day	nongold
+23	close means low in distance	nongold
+24	round means circular in shape	nongold
+25	the sun is a source of light; light energy called sunlight	nongold
+26	the sun is average in size for a star in our galaxy	nongold
+27	Earth is the planet that is third closest to the  Sun	nongold
+28	a star is usually larger than a planet	nongold
+29	night is low in light; in visibility	nongold
+30	an increase is the opposite of a decrease	nongold
+31	brighter means higher; greater in brightness	nongold
+32	sunlight is a kind of light	nongold
+33	far means great in distance	nongold
+34	yellow is a kind of color	nongold
+35	decreasing is similar to becoming smaller	nongold
+36	towards means closer to something	nongold
+37	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	nongold
+38	small is the opposite of large	nongold
+39	a star produces light and heat	nongold
+40	seeing requires light	nongold
+41	to move toward means to move nearer	nongold
+42	the sun is a kind of yellow dwarf	nongold
+43	as distance from a source of light increases , that source of  light will appear dimmer	nongold
+44	sight means to see	nongold
+45	near means close	nongold
+46	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	nongold
+47	distant means great in distance	nongold
+48	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+49	daylight means sunlight	nongold
+50	high is similar to increase	nongold
+51	an increase is a kind of change	nongold
+52	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+53	low is similar to decrease	nongold
+54	greater means higher; more in value	nongold
+55	brightness means amount of light	nongold
+56	a decrease is a kind of change	nongold
+57	as distance from a source of something increases , that something will decrease	nongold
+58	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+59	how something  appears is how that something  looks	nongold
+60	eyes are a part of a human for seeing	nongold
+61	growing larger is when size increases	nongold
+62	proximity means distance	nongold
+63	the sunlight occurs during the day	nongold
+64	an part of an object is smaller than the entire object	nongold
+65	all the time means at day and at night	nongold
+66	nighttime means night	nongold
+67	less is similar to decrease	nongold
+68	little means small	nongold
+69	darkness occurs at night	nongold
+70	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+71	distant means far away	nongold
+72	the Moon is closer to the Earth than the Sun	nongold
+73	bright means bright; light in color	nongold
+74	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+75	to see means to look	nongold
+76	eyes are usually part of an animal for seeing	nongold
+77	daylight is when the sun shines on a location	nongold
+78	eyes can sense;detect light energy for seeing	nongold
+79	size difference is a kind of difference	nongold
+80	to look like means to have the visual properties of	nongold
+81	shrinking decreases size	nongold
+82	a living thing is a kind of object	nongold
+83	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+84	to round means to make more round	nongold
+85	seeing is used for sensing visual things	nongold
+86	greatest means largest; highest; most amount of something	nongold
+87	daylight occurs during the day	nongold
+88	appearing is similar to seeming	nongold
+89	attract means move closer	nongold
+90	length is a part of size	nongold
+91	to lower means to decrease	nongold
+92	dark is the opposite of light	nongold
+93	stars make their own light	nongold
+94	the sun is the source of solar energy called sunlight	nongold
+95	two objects are usually different in size	nongold
+96	a planet is a kind of celestial object; body	nongold
+97	toward is the opposite of away	nongold
+98	the sun is a source of radiation; heat called sunlight	nongold
+99	occur is similar to appear	nongold

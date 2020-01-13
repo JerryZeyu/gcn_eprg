@@ -1,0 +1,102 @@
+Question	Which would best help a forest animal avoid being eaten by hawks or owls?	question
+Answer	underground home	answer
+0	a hawk is a kind of bird	nongold
+1	an hawk is a kind of predator	gold
+2	a hawk is a kind of animal	nongold
+3	an owl is a kind of predator	gold
+4	an owl is a kind of bird	nongold
+5	avoiding  predators is synonymous with avoiding being eaten	gold
+6	hawks;eagles eat snakes;lizards; rats; rabbits; mice	nongold
+7	underground means under ground	nongold
+8	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+9	an animal is a kind of living thing	gold
+10	avoiding is similar to preventing	nongold
+11	helping something has a  positive impact on that something	nongold
+12	an eagle is a kind of carnivore	nongold
+13	a bird is a kind of living thing	nongold
+14	an eagle is a kind of predator	nongold
+15	an eagle is a kind of animal	nongold
+16	to help means to aid	nongold
+17	a bird is a kind of animal	nongold
+18	escape means avoid	nongold
+19	an eagle is a kind of bird	nongold
+20	a forest is a kind of environment	nongold
+21	to help; to benefit means to be of use	nongold
+22	living underground can be used for hiding from predators	gold
+23	an animal is a kind of organism	nongold
+24	some birds live in forests	nongold
+25	killing means harming something causing death	nongold
+26	a home is a kind of building	nongold
+27	some animals live in forests	nongold
+28	woodland means forest	nongold
+29	predators eat prey	nongold
+30	to be used  for something means to help to do that something	nongold
+31	a house is a kind of home	nongold
+32	best means most positive	nongold
+33	a forest is a kind of ecosystem	nongold
+34	a living thing is a kind of object	nongold
+35	a house is a kind of building	nongold
+36	a forest contains  lots of plants; trees	nongold
+37	forest is synonymous with wooded area	nongold
+38	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+39	harming something has a  negative impact on; effect on that something	nongold
+40	a human is a kind of animal	nongold
+41	a predator is a kind of animal	nongold
+42	become prey means get eaten	nongold
+43	death means to die	nongold
+44	eating an animal; a plant means killing that animal; that plant	nongold
+45	avoiding something requires sensing that something	nongold
+46	requiring is similar to needing help	nongold
+47	a predator eats other animals for food	nongold
+48	an organism is a living thing	nongold
+49	a plant; living thing requires food for survival	nongold
+50	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+51	avoiding means doing something less	nongold
+52	some birds are predators	nongold
+53	to enable is to help	nongold
+54	if a living thing dies then that living thing is dead	nongold
+55	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+56	if a living thing requires something then that something has a positive impact on that living thing	nongold
+57	if an organism eats something then that something is a source of frood to that organism	nongold
+58	to prey on an animal means to eat that animal	nongold
+59	underground means buried deep below other rocks	nongold
+60	an animal; living thing requires nutrients for survival	nongold
+61	helping means to assist in a change	nongold
+62	a predator avoiding some types of prey is a learned behavior	nongold
+63	hiding is a kind of protection against predators; from predators	nongold
+64	protecting something means preventing harm to that something	nongold
+65	life means living things	nongold
+66	some humans live in houses	nongold
+67	to prevent means to make it not happen	nongold
+68	a mammal is a kind of animal	nongold
+69	nonliving; non-living; die is the opposite of living; alive; live	nongold
+70	hiding can be used for avoiding predators	gold
+71	answering questions requires information	nongold
+72	food is what an animal eats	nongold
+73	to make something easier means to help	nongold
+74	an animal needs to eat food for nutrients	nongold
+75	most predators live in; live near the same environment as their prey	nongold
+76	negative impact is the opposite of positive impact	nongold
+77	a human is a kind of mammal	nongold
+78	survive means live	nongold
+79	survive means live	nongold
+80	a bat lives in caves and trees	nongold
+81	killing means changing a living thing from alive to dead by harming	nongold
+82	eagles live in trees	nongold
+83	prey  is a kind of animal	nongold
+84	organisms; living things live in their habitat; their home	gold
+85	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+86	prey is a kind of food for predators	nongold
+87	an animal requires shelter	nongold
+88	a predator usually kills its prey to eat it	nongold
+89	a cavern is a cave	nongold
+90	fire causes harm to trees; to forests; to living things	nongold
+91	a structure of something is synonymous with a part of that something	nongold
+92	eating prey requires catching prey	nongold
+93	some animals move quickly to escape predators	nongold
+94	a plant is a kind of organism	nongold
+95	dead means not alive	nongold
+96	an environment means an area	nongold
+97	good means positive	nongold
+98	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+99	harming an organism can cause that organism to die	nongold

@@ -1,0 +1,102 @@
+0	When a boy stands in a field in the sunlight, he usually is able to see his	question
+1	shadow	answer
+2	shadow of an object can be seen by eyes	gold
+3	a field is a kind of environment	nongold
+4	sunlight is a kind of light	gold
+5	visible means able to be seen	nongold
+6	a boy is a kind of young male human	gold
+7	daylight means sunlight	nongold
+8	sight means to see	nongold
+9	to view means to see	nongold
+10	eyes are usually part of an animal for seeing	nongold
+11	a field is a kind of habitat	nongold
+12	to see means to look	nongold
+13	daylight is when the sun shines on a location	nongold
+14	seeing is used for sensing visual things	nongold
+15	the occurance  of shadow requires the presence  of light	nongold
+16	seeing requires light	nongold
+17	a child is a kind of young human	nongold
+18	eyes are used for seeing by animals by sensing light	nongold
+19	the sun is a source of light; light energy called sunlight	nongold
+20	sunlight means solar energy	nongold
+21	an animal is a kind of living thing	gold
+22	typically means usually	nongold
+23	an object blocking light causes a shadow	gold
+24	sunlight is a kind of solar energy	nongold
+25	eyes can sense;detect light energy for seeing	nongold
+26	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+27	a living thing is a kind of object	gold
+28	a human is a kind of animal	gold
+29	eyes are a part of a human for seeing	nongold
+30	hiding means visibility; ability to be seen decreases for camouflage	nongold
+31	daylight occurs during the day	nongold
+32	to be in the sun means to be in the sunlight	nongold
+33	being in the sun is synonymous with being in the sunlight	nongold
+34	an animal is a kind of organism	nongold
+35	not visible means cannot be seen	nongold
+36	able is the opposite of unable	nongold
+37	sight means vision	nongold
+38	ability is a kind of characteristic	nongold
+39	answering questions requires information	nongold
+40	animals usually distance themselves from humans	nongold
+41	observe means see	nongold
+42	can be means able to be	nongold
+43	not looking means not seeing	nongold
+44	appear is similar to apparent	nongold
+45	dark is the opposite of light	nongold
+46	night is low in light; in visibility	nongold
+47	invisible means cannot be seen	nongold
+48	the ability to do means be able to do	nongold
+49	to watch means to look at	nongold
+50	motion is when moves an object; something to a direction	nongold
+51	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+52	a plant is a kind of living thing	nongold
+53	darkness occurs at night	nongold
+54	dark means dark in color	nongold
+55	generally means usually	nongold
+56	walking is a kind of motion	nongold
+57	person is synonymous with human	nongold
+58	the sun is a source of radiation; heat called sunlight	nongold
+59	better look means see better	nongold
+60	if something is visible , then that something can be observed	nongold
+61	dark means a low amount of light	nongold
+62	a face is often a part of an animal	nongold
+63	usually means most of the time	nongold
+64	human eyes can only see light in the range of visible light	nongold
+65	when object is in direct light then that object is not shaded	nongold
+66	sight is a kind of sense	nongold
+67	as the amount of light decreases , the difficulty to see shadows will increase	nongold
+68	a plant is a kind of organism	nongold
+69	a person is a kind of animal	nongold
+70	the sunlight occurs during the day	nongold
+71	motion; movement means moving; to move	nongold
+72	the sun is the source of solar energy called sunlight	nongold
+73	setting is a kind of motion	nongold
+74	a girl is a kind of animal	nongold
+75	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+76	a girl is a kind of young; female human	nongold
+77	close means low in distance	nongold
+78	appearing is similar to seeming	nongold
+79	visible light is a kind of  light	nongold
+80	near; close is the opposite of far; away	nongold
+81	if an object reflects light toward the eye then that object can be seen	nongold
+82	out is synonymous with outside	nongold
+83	feature is synonymous with characteristic	nongold
+84	a student is a kind of human	nongold
+85	high is similar to increase	nongold
+86	form means kind	nongold
+87	if something is in a dark place , then that something will not reflect enough light to be seen	nongold
+88	inability is the opposite of ability	nongold
+89	as a source of light moves directly overhead of an object , the size of the shadow of that object will decrease	nongold
+90	to look like means to have the visual properties of	nongold
+91	bright means bright; light in color	nongold
+92	a girl is a kind of organism	nongold
+93	appearance is a property of objects; materials	nongold
+94	a structure of something is synonymous with a part of that something	nongold
+95	to get a better look at means to see better	nongold
+96	a ball field is open; grassy	nongold
+97	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+98	a motion is a kind of event; action	nongold
+99	light means light energy	nongold
+100	a type is synonymous with a kind	nongold
+101	if it is night then the sun has set	nongold

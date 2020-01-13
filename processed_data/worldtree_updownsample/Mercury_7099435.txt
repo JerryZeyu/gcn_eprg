@@ -1,0 +1,55 @@
+0	if something with the same function as something else is being used then the use of that something else decreases	nongold
+1	high-efficiency device uses less energy	gold
+2	a plant is a kind of living thing	nongold
+3	high-efficiency device uses less energy	gold
+4	an animal is a kind of living thing	nongold
+5	a device requires energy to operate	nongold
+6	using less of a resource increases the availability of that resource	nongold
+7	gasoline is a source of chemical energy	nongold
+8	to use means to utilize	nongold
+9	electricity means electrical energy	nongold
+10	a lawnmower is used to cut grass	gold
+11	gasoline is a kind of chemical power source	nongold
+12	person is synonymous with human	nongold
+13	high-efficiency device uses less energy	gold
+14	A student uses a high-efficiency gasoline lawnmower to cut grass. The term "high efficiency" is used to indicate that the lawnmower	question
+15	cheap means low in cost	nongold
+16	to power means to provide energy for	nongold
+17	instrument means device	nongold
+18	to be used for something means to be required by that something	nongold
+19	a lawn mower is a kind of machine	nongold
+20	cheaper means lower in cost	nongold
+21	losing energy decreases the efficiency of an object; of a system	nongold
+22	a device is a kind of object	nongold
+23	A student uses a high-efficiency gasoline lawnmower to cut grass. The term "high efficiency" is used to indicate that the lawnmower	question
+24	uses less energy than other lawnmowers.	answer
+25	a lawnmower is a kind of device	gold
+26	uses less energy than other lawnmowers.	answer
+27	the function of something is what that something  is used to do	nongold
+28	burning gasoline is a source of  heat energy	nongold
+29	a lawnmower is a kind of device	gold
+30	an increase is the opposite of a decrease	nongold
+31	a producer is a kind of living thing	nongold
+32	increase means more	nongold
+33	green plants are a kind of producer	nongold
+34	a vehicle is a kind of object	nongold
+35	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+36	instrument means tool	nongold
+37	a lawnmower is a kind of device	gold
+38	if something is powered by something else then that something requires a source of that something else	nongold
+39	a simple machine requires mechanical energy to function	nongold
+40	a student is a kind of human	nongold
+41	uses less energy than other lawnmowers.	answer
+42	a human is a kind of animal	nongold
+43	greater means higher; more in value	nongold
+44	A student uses a high-efficiency gasoline lawnmower to cut grass. The term "high efficiency" is used to indicate that the lawnmower	question
+45	good means positive	nongold
+46	fuel efficient means uses less fuel	nongold
+47	A student uses a high-efficiency gasoline lawnmower to cut grass. The term "high efficiency" is used to indicate that the lawnmower	question
+48	uses less energy than other lawnmowers.	answer
+49	a lawnmower is used to cut grass	gold
+50	a tool is a kind of object	nongold
+51	high means a lot of something	nongold
+52	a lawnmower is used to cut grass	gold
+53	using less resources usually causes money to be saved	nongold
+54	a person is a kind of animal	nongold

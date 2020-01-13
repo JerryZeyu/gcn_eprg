@@ -1,0 +1,102 @@
+Question	In which object does chemical energy most likely transform into electrical energy?	question
+Answer	a flashlight	answer
+0	a flashlight converts electrical energy; electricity into light energy	nongold
+1	a flashlight emits light	nongold
+2	a flashlight is a kind of electrical device	nongold
+3	a flashlight requires a source of electricity to produce light	nongold
+4	a flashlight is a kind of battery-operated device	gold
+5	a flashlight is a kind of tool	nongold
+6	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+7	chemical energy is a kind of energy	nongold
+8	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+9	energy transformation means one kind of energy changes into another kind of energy	nongold
+10	to transform means to convert	gold
+11	electrical energy is a kind of energy	nongold
+12	electricity means electrical energy	nongold
+13	batteries convert chemical energy to electrical energy	nongold
+14	a battery contains chemical energy	nongold
+15	energy conversion is similar to energy transformation	nongold
+16	objects contain chemical energy	nongold
+17	a tool is a kind of object	nongold
+18	a device is a kind of object	gold
+19	light is a kind of energy	nongold
+20	light is a kind of energy	nongold
+21	a living thing is a kind of object	nongold
+22	an animal is a kind of living thing	nongold
+23	food is a kind of chemical energy	nongold
+24	a battery is a source of electrical energy; electricity	nongold
+25	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+26	when an animal moves , chemical energy is converted to mechanical energy	nongold
+27	a lit candle converts chemical energy into light energy; heat energy	nongold
+28	to convert means to change	nongold
+29	a human is a kind of animal	nongold
+30	a firecracker converts chemical energy into sound energy and light energy and heat energy	nongold
+31	electricity is used as an energy source by electrical devices	nongold
+32	cellular energy is a kind of chemical energy	nongold
+33	light means light energy	nongold
+34	objects are made of materials; substances; matter	nongold
+35	electric devices require electrical energy to function	nongold
+36	chemical energy is a kind of potential energy	nongold
+37	if an object undergoes chemical change then that object will have new chemical properties	nongold
+38	substances have chemical properties	nongold
+39	converting is similar to turning into	nongold
+40	to turn means to convert	nongold
+41	metal is an  electrical; electrical energy conductor	nongold
+42	different substances usually have different amount of chemical energy	nongold
+43	device means tool	nongold
+44	combustion means fire converts chemical energy into light energy and heat energy	nongold
+45	a battery is a kind of object	nongold
+46	an animal is a kind of organism	nongold
+47	a light bulb is a kind of electrical device	nongold
+48	converting is similar to generating	nongold
+49	a source of something emits; produces; generates; provides that something	nongold
+50	a chemical property is the opposite of a physical property	nongold
+51	matter; energy is always conserved in any physical or chemical process	nongold
+52	a molecule is a kind of object	nongold
+53	if something is powered by something else then that something requires a source of that something else	nongold
+54	converting is similar to producing	nongold
+55	forming is similar to converting	nongold
+56	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+57	an object; material; substance comes from that object or material's source	nongold
+58	person is synonymous with human	nongold
+59	instrument means device	nongold
+60	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+61	electricity is made of moving charges; moving charged particles	nongold
+62	chemical splashing sometimes occurs during experiments	nongold
+63	substances are made of matter	nongold
+64	a molecule is made of atoms chemically combined; bonded	nongold
+65	electrocution causes harm to an organism	nongold
+66	answering questions requires information	nongold
+67	an atom is a kind of object	nongold
+68	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+69	chemicals means substances	nongold
+70	a vehicle is a kind of object	nongold
+71	An example of a chemical change is electrical energy breaking down a compound	nongold
+72	chemical reactions cause chemical change	nongold
+73	a hydrocarbon molecule is made of hydrogen and carbon by being chemically combined	nongold
+74	substances are made of elements	nongold
+75	if an object is made of a material then that object has the properties of that material	nongold
+76	substances are made of molecules	nongold
+77	a battery-operated device is a kind of electrical device	nongold
+78	can be means able to be	nongold
+79	a light bulb is a part of a  lamp	nongold
+80	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+81	convert is similar to transfer	nongold
+82	to illuminate means to light up	nongold
+83	instrument means tool	nongold
+84	combustibility is a kind of  chemical property	nongold
+85	chemical change is the opposite of physical change	nongold
+86	chlorine is a kind of element	nongold
+87	An example of a chemical property is how a material reacts chemically	nongold
+88	a person is a kind of animal	nongold
+89	UV light is a kind of light	nongold
+90	a device requires energy to operate	nongold
+91	gas is a kind of object	nongold
+92	carbon is a kind of element	nongold
+93	different types of matter have different chemical properties	nongold
+94	a  chemical property is a kind of  property	nongold
+95	if something transfers something else then that something is a source of something else	nongold
+96	materials are made of matter	nongold
+97	adding heat to an object sometimes causes chemical reactions	nongold
+98	sodium chloride is always made of chemically combined chlorine and sodium	nongold
+99	an object has properties	nongold

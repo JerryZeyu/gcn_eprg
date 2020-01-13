@@ -1,0 +1,58 @@
+0	answering questions requires information	nongold
+1	fossil fuels are a nonrenewable resource	nongold
+2	Which of these resources is renewable?	question
+3	uranium is a kind of energy resource	nongold
+4	wind is a source of energy	nongold
+5	windy means high wind speeds	nongold
+6	wind	answer
+7	a renewable resource is a kind of natural resource	nongold
+8	if something requires something else then that something requires a source of that something else	nongold
+9	oil is a nonrenewable resource	gold
+10	solar energy is a renewable; inexhaustible resource	nongold
+11	Which of these resources is renewable?	question
+12	a windmill converts wind energy into electrical energy; electricity primarily by using mechanical energy	nongold
+13	wind is a renewable; inexhaustible resource	gold
+14	hydroelectric power is a kind of natural resource	nongold
+15	renewable is the opposite of nonrenewable	gold
+16	wind	answer
+17	to be used for something means to be required by that something	nongold
+18	fuel is a source of energy	nongold
+19	a change is a kind of event	nongold
+20	sea means ocean	nongold
+21	renewable is the opposite of nonrenewable	gold
+22	coal is a kind of fossil fuel	nongold
+23	oceans contains most of  earth's water	nongold
+24	metal is a nonrenewable resource	nongold
+25	wind is a renewable; inexhaustible resource	gold
+26	oil is a kind of fossil fuel	nongold
+27	Which of these resources is renewable?	question
+28	wave energy is a renewable resource	nongold
+29	fossil fuels are a kind of energy resource	nongold
+30	if something releases something else then that something is the source of that something else	nongold
+31	wind	answer
+32	coal; uranium is acquired by mining the lithosphere	nongold
+33	natural gas is a nonrenewable resource	gold
+34	wind	answer
+35	resources sometimes are used for energy	nongold
+36	natural gas is a nonrenewable resource	gold
+37	Which of these resources is renewable?	question
+38	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+39	an object; material; substance comes from that object or material's source	nongold
+40	oil is a nonrenewable resource	gold
+41	if something comes from something else then that something else is a source of that something	nongold
+42	oil is a nonrenewable resource	gold
+43	wind is a renewable; inexhaustible resource	gold
+44	action means activity	nongold
+45	tidal energy is a renewable resource	nongold
+46	nature is the source of natural resources	nongold
+47	water is a kind of natural resource	nongold
+48	change is a kind of process	nongold
+49	emit means produce	nongold
+50	to provide something means to be the source of that something	nongold
+51	coal is a nonrenewable resource	nongold
+52	renewable is the opposite of nonrenewable	gold
+53	water is a renewable resource	nongold
+54	alternative fuel is usually a renewable resource	nongold
+55	natural gas is a nonrenewable resource	gold
+56	oil is a source of energy	nongold
+57	a producer is a source of energy for consumers	nongold

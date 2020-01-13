@@ -1,0 +1,102 @@
+Question	Why are alternative fuels being used in some automobiles?	question
+Answer	Gasoline comes from a limited resource.	answer
+0	a nonrenewable resource is limited in supply	gold
+1	gasoline is a kind of fuel	nongold
+2	oil is a source of gasoline	gold
+3	alternative fuel is usually a renewable resource	gold
+4	an automobile is a kind of vehicle	gold
+5	a car is a kind of automobile	nongold
+6	if something comes from something else then that something else is a source of that something	nongold
+7	where something  comes from is a source of that something	nongold
+8	if a resource is limited in supply then that resource needs to be replaced	nongold
+9	if a resource is limited in supply then that resource will run out	nongold
+10	to be used for something means to be required by that something	gold
+11	a car is a kind of vehicle	nongold
+12	an object; material; substance comes from that object or material's source	gold
+13	fossil fuels are a nonrenewable resource	nongold
+14	gasoline is a kind of chemical power source	nongold
+15	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+16	if something is a raw material then that something comes directly from a source	nongold
+17	using gasoline is a source of carbon dioxide	nongold
+18	operating an automobile usually requires fossil fuels	nongold
+19	oil is a nonrenewable resource	gold
+20	using a gasoline engine requires burning  gasoline	nongold
+21	consumption means use	nongold
+22	automobiles; industrialization are a source of carbon dioxide	nongold
+23	vehicles usually require gasoline to operate	gold
+24	gasoline is a source of chemical energy	nongold
+25	to depend on; to rely on; to need means to require	nongold
+26	if something requires something else then that something requires a source of that something else	nongold
+27	a fossil fuel is a kind of natural resource	nongold
+28	if a resource is limited in supply then that resource should be recycled	nongold
+29	petroleum is a kind of fossil fuel	nongold
+30	a material is a kind of resource	nongold
+31	to use means to utilize	nongold
+32	fuel supply is a kind of resource	nongold
+33	one can get something from a source	nongold
+34	an engine is a part of an automobile	nongold
+35	fossil fuels are a kind of energy resource	nongold
+36	a source of something emits; produces; generates; provides that something	nongold
+37	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+38	oil is a kind of fossil fuel	nongold
+39	a supply of something is a source of that something	nongold
+40	an inexhaustible resource is a kind of renewable resource	nongold
+41	natural gas is a nonrenewable resource	nongold
+42	using less of a resource increases the availability of that resource	nongold
+43	burning gasoline is a source of  heat energy	nongold
+44	if something gains something from something else then that something else is a source of that something	nongold
+45	the automobile is a kind of technology	nongold
+46	oil is a kind of substance; matter	nongold
+47	a producer is a kind of living thing	nongold
+48	using resources decreases those resources	nongold
+49	powering is similar to fueling	nongold
+50	resources becoming available has a positive impact on the things that need those resources	nongold
+51	burning gasoline; oil is a source of air pollution	nongold
+52	requiring something means needing that something	nongold
+53	using a resource requires acquiring that resource	nongold
+54	oxygen is a kind of resource	nongold
+55	if something is powered by something else then that something requires a source of that something else	nongold
+56	if something is a raw material in a process then that something is required for that process	nongold
+57	natural gas is a kind of fossil fuel	nongold
+58	resources sometimes are used for energy	nongold
+59	a car is a kind of object	nongold
+60	ethanol is a kind of substance	nongold
+61	renewable is the opposite of nonrenewable	nongold
+62	using less resources usually causes money to be saved	nongold
+63	a producer is a source of energy for consumers	nongold
+64	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+65	fuel efficient means uses less fuel	nongold
+66	oil is a kind of energy resource	nongold
+67	using the fuel requires burning the fuel	nongold
+68	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+69	an energy source is a kind of resource	nongold
+70	the amount of something is similar to the availability of something	nongold
+71	a car engine is a part of a car	nongold
+72	an animal is a kind of consumer	nongold
+73	plants are a kind of resource	nongold
+74	if something transfers something else then that something is a source of something else	nongold
+75	renewable resources are often available for many years	nongold
+76	if something causes a process then that something is required for that process	nongold
+77	a renewable resource is a kind of natural resource	nongold
+78	a vehicle is used for transportation	nongold
+79	the supply of an inexhaustible resource does not change over a long period of time	nongold
+80	food is a kind of resource	nongold
+81	using less of a resource means conserving that resource	nongold
+82	requiring is similar to needing help	nongold
+83	petroleum is a source of raw material for the production of plastics	nongold
+84	if something is required for a process then that something positively impacts that process	nongold
+85	fuel is a kind of energy source	nongold
+86	green plants are a kind of producer	nongold
+87	to provide something means to be the source of that something	nongold
+88	the function of something is what that something  is used to do	nongold
+89	fossil fuels have high potential energy	nongold
+90	fuel is a source of energy	nongold
+91	a consumer is a kind of organism	nongold
+92	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+93	cheap means low in cost	nongold
+94	a biofuel is a kind of alternative energy resource	nongold
+95	a vehicle is a kind of object	nongold
+96	something is used for that something's purpose	nongold
+97	all elements are a kind of pure substance	nongold
+98	to be formed by is similar to being produced by	nongold
+99	if a resource is not replaced then the resource has low availability	nongold

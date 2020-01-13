@@ -1,0 +1,52 @@
+0	the moon is the celestial object that is closest to the  Earth	nongold
+1	the sun setting is a kind of event	nongold
+2	29 days	answer
+3	a rotation of the moon takes 1; one month	nongold
+4	years are a kind of unit for measuring time	nongold
+5	length of time means period of time	gold
+6	period is similar to amount of time	nongold
+7	daily means every day; once per day	nongold
+8	August is a kind of month	nongold
+9	29 days	answer
+10	length of time means period of time	gold
+11	a moon phase is a kind of natural event	nongold
+12	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+13	cycles of day and night occur once per day	nongold
+14	What is the approximate length of time it takes the Moon to complete one lunar cycle?	question
+15	the Sun is a kind of star	nongold
+16	the Moon is Earth's moon	nongold
+17	each of the moon's phases occurs once per month	nongold
+18	29 days	answer
+19	the sun rising and setting causes cycles of day and night	nongold
+20	a planet is a kind of celestial object; body	nongold
+21	a cycle happens; occurs repeatedly	nongold
+22	the new moon is when the dark half of the moon faces the Earth	nongold
+23	the Moon completes a lunar cycle over a period of 29 days	gold
+24	the Moon completes a lunar cycle over a period of 29 days	gold
+25	29 days	answer
+26	a new moon occurs 14 days after a full moon	nongold
+27	a process is a kind of event	nongold
+28	length of time means period of time	gold
+29	What is the approximate length of time it takes the Moon to complete one lunar cycle?	question
+30	June is a kind of month	nongold
+31	the solar system contains the moon	nongold
+32	the new moon is when the lighted half of the moon faces the Sun	nongold
+33	December is a kind of month	nongold
+34	a moon is a kind of celestial object; body	nongold
+35	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+36	revolving  around something means orbiting that something	nongold
+37	an orbit is a kind of regular path	nongold
+38	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+39	the moon rising occurs once per day	nongold
+40	1 week is equal to 7 days	nongold
+41	What is the approximate length of time it takes the Moon to complete one lunar cycle?	question
+42	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+43	1 year is equal to 365 days	nongold
+44	the moon rotates on its axis	nongold
+45	the Moon completes a lunar cycle over a period of 29 days	gold
+46	lunar phase is synonymous with moon phase	nongold
+47	What is the approximate length of time it takes the Moon to complete one lunar cycle?	question
+48	a unit for measuring time is a kind of time interval	nongold
+49	Earth is a kind of planet	nongold
+50	a full moon occurs after a waxing gibbous moon	nongold
+51	the moon orbiting the Earth occurs approximately 13 times per year	nongold

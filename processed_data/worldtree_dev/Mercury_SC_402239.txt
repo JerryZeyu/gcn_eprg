@@ -1,0 +1,102 @@
+Question	What is the best way to conserve natural resources in the home?	question
+Answer	Shorten the time spent taking a shower.	answer
+0	as time spent taking a shower decreases , water used will decrease	gold
+1	a shower is a source of hot water for washing	nongold
+2	to shorten means to make shorter	gold
+3	best means most positive	nongold
+4	water is a kind of natural resource	gold
+5	water is a kind of natural resource	nongold
+6	a home is a kind of building	nongold
+7	how long something takes is a kind of measurement of time	nongold
+8	length of time means period of time	nongold
+9	a house is a kind of home	nongold
+10	to conserve means to not change	nongold
+11	a measure of time is a length of time	nongold
+12	long means great in length	nongold
+13	bathing is a kind of water use	nongold
+14	conservation is often conserving natural resources	nongold
+15	instantaneously means short in time	nongold
+16	nature is the source of natural resources	nongold
+17	conserving resources has a positive impact on the environment	nongold
+18	the temperature of steam decreases after a shower	nongold
+19	a wet object is a source of water	nongold
+20	a house is a kind of building	nongold
+21	when available resources decrease in an environment , organisms have to conserve those resources	nongold
+22	water is a part of an environment	nongold
+23	period is similar to amount of time	nongold
+24	animals; living things require water for survival	nongold
+25	a human is a kind of animal	nongold
+26	an animal is a kind of organism	nongold
+27	to last longer means to be available longer	nongold
+28	An example of conservation is turning off the water while brushing teeth	nongold
+29	person is synonymous with human	nongold
+30	to reduce means to decrease	nongold
+31	a bath  is a kind of container	nongold
+32	to lower means to decrease	nongold
+33	requiring is similar to needing help	nongold
+34	good means positive	nongold
+35	drying means amount of water; amount of liquid; wetness decreases	nongold
+36	better means good	nongold
+37	to depend on; to rely on; to need means to require	nongold
+38	using less of a resource means conserving that resource	gold
+39	an increase is the opposite of a decrease	nongold
+40	organisms are a part of an environment	nongold
+41	if something is required for a process then that something positively impacts that process	nongold
+42	area; space is a kind of resource	nongold
+43	a natural resource is a kind of environmental factor	nongold
+44	a person is a kind of animal	nongold
+45	conserving water is a kind of characteristic	nongold
+46	negative impact is the opposite of positive impact	nongold
+47	less is similar to decrease	nongold
+48	nature means a natural environment	nongold
+49	conserving water can be used for survival in a dry environment	nongold
+50	human is a kind of organism	nongold
+51	water is a kind of liquid at room temperature	nongold
+52	An example of using less water is turning off the faucet when brushing teeth	nongold
+53	wet is the opposite of dry	nongold
+54	helping something has a  positive impact on that something	nongold
+55	usually means most of the time	nongold
+56	hot means high in heat energy; temperature	nongold
+57	a renewable resource is a kind of natural resource	nongold
+58	an organism is a living thing	nongold
+59	high is similar to increase	nongold
+60	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+61	a decrease is a kind of change	nongold
+62	quickly means in a short period of time	nongold
+63	shortest means the least amount of time	nongold
+64	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+65	heat energy is synonymous with thermal energy	nongold
+66	a part of a living thing is a natural structure	nongold
+67	heat means heat energy	nongold
+68	a plant is a kind of organism	nongold
+69	humans require fresh water to survive	nongold
+70	shorter means decreased length	nongold
+71	a renewable resource is a natural resource	nongold
+72	an increase is a kind of change	nongold
+73	water is a kind of object	nongold
+74	damp means a large amount of water	nongold
+75	drying up means losing all water	nongold
+76	solution is similar to a positive impact	nongold
+77	plants are a kind of resource	nongold
+78	as the activity of an animal increases , the amount of water in an animal's body in that environment will decrease	nongold
+79	to be used for something means to be required by that something	nongold
+80	low is similar to decrease	nongold
+81	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+82	usually a body of water is located outside	nongold
+83	using resources decreases those resources	nongold
+84	an animal is a kind of living thing	nongold
+85	requiring something means needing that something	nongold
+86	all the time means at day and at night	nongold
+87	temperature is a measure of heat energy	nongold
+88	taking in something means receiving; absorbing; getting something	nongold
+89	trees are a kind of natural resource	nongold
+90	short is a recessive trait in plants	nongold
+91	if a living thing requires something then that something has a positive impact on that living thing	nongold
+92	exercise has a positive impact on a human's health	nongold
+93	the body is a part of an organism	nongold
+94	a source of something emits; produces; generates; provides that something	nongold
+95	out is synonymous with outside	nongold
+96	can be means able to be	nongold
+97	a body of water contains water	nongold
+98	a positive impact is a helpful effect	nongold
+99	resources becoming available has a positive impact on the things that need those resources	nongold

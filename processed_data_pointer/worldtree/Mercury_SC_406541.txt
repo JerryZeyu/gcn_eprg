@@ -1,0 +1,102 @@
+Question	A scientist discovered a fossil of an ocean plant in the rocks of a desert. What does the discovery of this fossil most likely tell the scientist?	question
+Answer	The area was once covered by water.	answer
+0	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	gold
+1	an environment means an area	gold
+2	a scientist is a kind of human	nongold
+3	an ocean is a kind of body of water	gold
+4	a desert is a kind of environment	gold
+5	under water means covered by water; in water	nongold
+6	a desert is a kind of land feature	nongold
+7	oceans cover 70% of the surface of the earth	nongold
+8	a body of water is a kind of environment	nongold
+9	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	nongold
+10	fossil means preserved remains of ancient organisms	nongold
+11	aquatic animals; plants live in bodies of water	nongold
+12	an environment is a kind of place	nongold
+13	once means one time	nongold
+14	a body of water contains water	nongold
+15	water is a part of an environment	nongold
+16	oceans contains most of  earth's water	nongold
+17	a plant is a kind of organism	nongold
+18	plants can be fossilized	nongold
+19	if something used to be in the past then that something  has changed	nongold
+20	a plant is a kind of living thing	nongold
+21	once-living means dead	nongold
+22	place means area	gold
+23	no longer means used to be	nongold
+24	to discover means to make a discovery	nongold
+25	organisms lived in the water when they first appeared on Earth	nongold
+26	area is similar to location	nongold
+27	if the surface of an object contains something then that object is covered with that something	nongold
+28	bodies of water are located on Earth's surface	nongold
+29	oceans are located on Earth	nongold
+30	a desert environment is low in availability of water; availability of food	nongold
+31	sea means ocean	nongold
+32	vegetation means plants	nongold
+33	a plant is a member of a plant species	nongold
+34	plants are a part of the environment	nongold
+35	aquatic animal means water animal	nongold
+36	an aquatic animal is a kind of animal	nongold
+37	answering questions requires information	nongold
+38	a desert environment usually has a lot of sunlight	nongold
+39	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+40	knowing the properties of something means knowing information about that something	nongold
+41	history means the past	nongold
+42	a body of water is a kind of land feature	nongold
+43	organisms are a part of an environment	nongold
+44	ocean animal is similar to water animal	nongold
+45	a body of water is a source of water	nongold
+46	a rock is usually a solid	nongold
+47	preserved means from the past; from long ago	nongold
+48	a desert environment is dry	nongold
+49	water exists in three states on Earth	nongold
+50	rock is a kind of nonliving thing	nongold
+51	if something is a part of something then that something can be found in that something	nongold
+52	if rocks in an area have many scratches then that area was once covered by glaciers	nongold
+53	usually a body of water is located outside	nongold
+54	researcher is a kind of scientist	nongold
+55	scientists make observations	nongold
+56	history occurred a long time ago	nongold
+57	discovering something usually requires seeing that something	nongold
+58	an ocean is a kind of habitat	nongold
+59	water is a kind of nonliving thing	nongold
+60	a covering is a kind of object	nongold
+61	fossils are formed when layers of sediment cover the remains of organisms over time	nongold
+62	an animal is a kind of organism	nongold
+63	an animal is a kind of living thing	nongold
+64	if something required by something else is in a place then that something else may be in that place	nongold
+65	water is a kind of natural resource	nongold
+66	water is a kind of natural resource	nongold
+67	a plants; living things require water for survival; to grow	nongold
+68	if two or more continents have similar fossils; rocks then those continents probably once were a single landmass	nongold
+69	a desert environment receives low rainfall	nongold
+70	water is a kind of matter	nongold
+71	an organism is a living thing	nongold
+72	water is a kind of substance	nongold
+73	oceans are the source of most of water vapor in the atmosphere	nongold
+74	a desert environment usually is hot in temperature	nongold
+75	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+76	rock is a kind of material	nongold
+77	a rock is a kind of object	nongold
+78	soil contains water; humus; weathered rocks; organic matter	nongold
+79	an ocean contains waves	nongold
+80	a river is a kind of flowing body of water	nongold
+81	rain is a kind of water	nongold
+82	water is a kind of liquid at room temperature	nongold
+83	prehistoric means before 300000000 years ago	nongold
+84	a human is a kind of animal	nongold
+85	plant parts are made of plants	nongold
+86	being buried under soil and mud changes dead plant matter; dead animal matter into oil; natural gas through extreme heat and pressure at the bottom of the sea over a long period of time	nongold
+87	something that contains water is similar to a body of water	nongold
+88	curiosity means the need to know new information	nongold
+89	to tell the difference between things means to classify those things	nongold
+90	the surface of the Earth is made of 70% ocean	nongold
+91	land is a kind of environment	nongold
+92	Earth is made of rock	nongold
+93	events occur at a specific place; at a specific time; with a specific frequency	nongold
+94	to discover means to find	gold
+95	a shore is the land found at the edge of a body of water	nongold
+96	animals; living things require water for survival	nongold
+97	ancient means a long time in the past	nongold
+98	objects in an environment are a part of that environment	nongold
+99	a population is made of one type of organism in an area	nongold

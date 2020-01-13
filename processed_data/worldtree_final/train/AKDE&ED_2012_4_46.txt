@@ -1,0 +1,101 @@
+0	Which change is most likely caused by a thunderstorm?	question
+1	a stream flooding	answer
+2	a stream is a kind of body of water	gold
+3	a thunderstorm is a kind of storm	gold
+4	flooding is a kind of change	gold
+5	thunder occurs during thunderstorms	nongold
+6	storms;rain cause bodies of water to increase amount of water they contain	gold
+7	heavy rains cause flooding	nongold
+8	a river is a kind of flowing body of water	nongold
+9	lightning occurs during lightning storms; thunderstorms	nongold
+10	when a body of water receives more water than it can hold , a flood occurs	gold
+11	storm is a kind of weather; weather event	nongold
+12	wind and rain; storms cause erosion	nongold
+13	a storm is a source of precipitation	nongold
+14	an increase is a kind of change	nongold
+15	lightning causes thunder	nongold
+16	rain is a kind of water	nongold
+17	cold fronts cause thunderstorms as they pass by	nongold
+18	rain is a kind of precipitation	nongold
+19	to change means to cause a change	nongold
+20	precipitation is a kind of weather	nongold
+21	a change is a kind of event	nongold
+22	snowstorm is a kind of weather	nongold
+23	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	gold
+24	lightning is a kind of weather phenomenon	nongold
+25	precipitation is when water falls from the sky	nongold
+26	runoff is a kind of water	nongold
+27	rainstorm means rain storm	nongold
+28	flowing is a kind of motion	nongold
+29	a decrease is a kind of change	nongold
+30	rainwater is a kind of water	nongold
+31	when a river floods , that river deposits soil; sediment in flood plains	nongold
+32	low pressure systems cause precipitation	nongold
+33	a body of water is a kind of environment	nongold
+34	to wash away is a kind of movement by moving water	nongold
+35	a body of water contains water	nongold
+36	high is similar to increase	nongold
+37	drying up means losing all water	nongold
+38	to lower means to decrease	nongold
+39	damming a river can cause a lake to form	nongold
+40	affected means changed	nongold
+41	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+42	weathering; erosion usually occurs over a period of many years	nongold
+43	lightning is the source of thunder	nongold
+44	to be a source of something means to cause that something	nongold
+45	a river is a kind of channel for water	nongold
+46	a drought is a kind of natural disaster	nongold
+47	due to means caused by	nongold
+48	erosion is a kind of change	nongold
+49	if a body of water loses all water then that body of water does not exist any more	nongold
+50	to happen means to occur	nongold
+51	a riverbed is a part of a river	nongold
+52	to add means to increase	nongold
+53	a storm is usually a source of strong winds	nongold
+54	precipitation is a kind of natural occurrence; cause	nongold
+55	rain is a source of water	nongold
+56	precipitation is a property of weather	nongold
+57	cloudy is a kind of  weather	nongold
+58	extreme means very high in value	nongold
+59	rain; snow falls	nongold
+60	a drought occurs over a period of months; years	nongold
+61	change is a kind of impact	nongold
+62	erosion causes a river to become deeper and wider	nongold
+63	washing out means being moved from  by water	nongold
+64	thunder is a kind of sound	nongold
+65	tornado is a kind of weather	nongold
+66	an event is a kind of action	nongold
+67	if an animal cannot fly; climb then that animal will be more affected by a flood	nongold
+68	a blizzard is a kind of storm	nongold
+69	a body of water is a source of water	nongold
+70	as elevation of a place decreases , how much a flood will affect that place will increases	nongold
+71	causing is a kind of affecting	nongold
+72	a lake is a kind of body of water	nongold
+73	if there is a loss of something then that something decreases	nongold
+74	rain causes erosion	nongold
+75	if the component of something changed , then the whole thing will change	nongold
+76	cloudy conditions cause a low-pressure weather system	nongold
+77	hail is a kind of precipitation; ice	nongold
+78	weather is a property of a environment	nongold
+79	temperature is a property of weather	nongold
+80	increase means more	nongold
+81	water is a kind of matter	nongold
+82	to reduce means to decrease	nongold
+83	an area receiving rain means rain falling in that area	nongold
+84	movement is a kind of change	nongold
+85	a drought is a kind of natural event	nongold
+86	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+87	weathering is a kind of erosion	nongold
+88	low is similar to decrease	nongold
+89	lakes are formed by precipitation and runoff	nongold
+90	as the cause of something decreases , that something will decrease	nongold
+91	a motion is a kind of event; action	nongold
+92	cold is a kind of weather	nongold
+93	to turn means to change	nongold
+94	weather changes from seasons to seasons	nongold
+95	wind means moving air	nongold
+96	thunder is loud	nongold
+97	action can cause change	nongold
+98	to cause means to have an effect	nongold
+99	water is a kind of substance	nongold
+100	a valley is formed by a river flowing	nongold

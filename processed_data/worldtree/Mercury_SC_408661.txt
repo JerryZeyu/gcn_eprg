@@ -1,0 +1,102 @@
+Question	Which would cause the most soil to erode from a river bank in just a few days?	question
+Answer	water from a flood flowing over the river bank	answer
+0	a river is a kind of flowing body of water	gold
+1	when a body of water receives more water than it can hold , a flood occurs	gold
+2	soil is formed by rocks eroding	nongold
+3	a riverbank is made of soil	nongold
+4	a stream is a kind of body of water	nongold
+5	when a river floods , that river deposits soil; sediment in flood plains	nongold
+6	soil erosion is when wind; moving water; gravity move soil from fields; environments	gold
+7	if an object erodes , then the amount of matter in that object will decrease	nongold
+8	a riverbed is a part of a river	nongold
+9	soil erosion means soil loss through wind;water; animals	nongold
+10	an object; material; substance comes from that object or material's source	nongold
+11	where something  comes from is a source of that something	nongold
+12	water causes the most soil and rock erosion	nongold
+13	if something comes from something else then that something else is a source of that something	nongold
+14	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+15	a body of water is a source of water	nongold
+16	to reduce means to decrease	nongold
+17	soil is made of very small rocks; minerals	nongold
+18	soil contains water; humus; weathered rocks; organic matter	nongold
+19	largest amount means most	nongold
+20	heavy rains cause flooding	nongold
+21	most means over 50% of something	nongold
+22	increase means more	nongold
+23	a body of water contains water	nongold
+24	soil and sediment deposited by a river are usually high; rich in nutrients	nongold
+25	to add means to increase	nongold
+26	a river is a kind of channel for water	nongold
+27	soil is formed by weathering	nongold
+28	when water falls from the sky , that water usually returns to the soil	nongold
+29	days are a kind of unit for measuring time	nongold
+30	soil is usually part of an environment	nongold
+31	sediment is similar to soil	nongold
+32	water is a kind of substance	nongold
+33	soil is found on the surface of the Earth	nongold
+34	soil is made of solid particles	nongold
+35	to lower means to decrease	nongold
+36	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+37	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+38	to be a source of something means to cause that something	nongold
+39	as the amount of water in a body of water increases , the amount of water  evaporated from the body of water will increase	nongold
+40	soil is a kind of material	nongold
+41	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+42	if something releases something else then that something is the source of that something else	nongold
+43	high is similar to increase	nongold
+44	groundwater is a kind of water	nongold
+45	erosion of soil has a  negative impact on the environment; soil quality	nongold
+46	less means a reduced amount	nongold
+47	less is similar to decrease	nongold
+48	runoff is a kind of water	nongold
+49	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+50	furthest; farthest means greatest; most; highest in distance	nongold
+51	low is similar to decrease	nongold
+52	as the surface area of a body of water increases , evaporation of that body of water will increase	nongold
+53	rainwater is a kind of water	nongold
+54	a source of something emits; produces; generates; provides that something	nongold
+55	soil loss causes an area decrease in size	nongold
+56	as distance from a source of something increases , that something will decrease	nongold
+57	flooding is a kind of change	nongold
+58	damming a river can cause a lake to form	nongold
+59	greatest means largest; highest; most amount of something	nongold
+60	soil erosion is a kind of slow; natural process	nongold
+61	if something causes a process then that something is required for that process	nongold
+62	air pollution; rain can cause the pH of soil to decrease	nongold
+63	an increase is the opposite of a decrease	nongold
+64	flowing is a kind of motion	gold
+65	a source of something increases the amount of that something	nongold
+66	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+67	soil contains nutrients for plants	nongold
+68	less is the opposite of more	nongold
+69	soil erosion is a kind of event	nongold
+70	deplete is similar to decrease	nongold
+71	a process is a kind of event	nongold
+72	acidic rainwater contains acid	nongold
+73	if too much water is removed from a location then the water may become used up	nongold
+74	ground water is a kind of water	nongold
+75	too much is similar to increase	nongold
+76	something that happens is a kind of event	nongold
+77	to flow is similar to to transfer	nongold
+78	sand is similar to soil	nongold
+79	if something causes an increase in something else then that something produces that something else	nongold
+80	something that contains water is similar to a body of water	nongold
+81	if something emits something else then that something increases the amount of that something else	nongold
+82	harming something has a  negative impact on; effect on that something	nongold
+83	evaporation causes amount of water to decrease	nongold
+84	to cause an event is similar to being involved in that event	nongold
+85	water is a kind of liquid at room temperature	nongold
+86	a floodplain is a kind of land; landform	nongold
+87	as elevation of a place decreases , how much a flood will affect that place will increases	nongold
+88	water is a kind of matter	nongold
+89	negative impact is the opposite of positive impact	nongold
+90	storms;rain cause bodies of water to increase amount of water they contain	nongold
+91	as the cause of something decreases , that something will decrease	nongold
+92	if something exists on a surface then that surface contains that something	nongold
+93	when things erode , those things may become smaller	nongold
+94	flowing is a kind of action	nongold
+95	if something transfers something else then that something is a source of something else	nongold
+96	low quality soil has a small; a low number of nutrients	nongold
+97	soil loss causes grooves in soil	nongold
+98	acid rain has a  negative impact on  water quality	nongold
+99	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold

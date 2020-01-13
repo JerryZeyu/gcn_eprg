@@ -1,0 +1,102 @@
+Question	The surface of the Moon is made up of	question
+Answer	craters, highlands, and flat areas	answer
+0	the  moon's surface contains flat areas	gold
+1	the  moon's surface contains highlands	gold
+2	made up of means contains; made of	gold
+3	usually craters on planets; craters on moons are formed by asteroids;meteoroids impacting that planet or moon's surface	nongold
+4	flat means level	nongold
+5	the lunar; moon's surface contains many craters	gold
+6	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+7	a crater is a kind of land feature	nongold
+8	the Earth's surface contains many craters	nongold
+9	to be made of means to consist of	nongold
+10	a surface is a part of an object	nongold
+11	the surface of the Moon contains mountains	nongold
+12	a moon is a kind of celestial object; body	nongold
+13	moons are large; solid; spherical	nongold
+14	to be made of something means to be formed of that something	nongold
+15	composed of means made of	nongold
+16	the Moon is Earth's moon	nongold
+17	the parts of something make up that something	nongold
+18	a surface is a kind of object	nongold
+19	topography means the physical features of a planet's surface	nongold
+20	bowl-shaped craters are a kind of crater	nongold
+21	a plain is made of a flat land surface	nongold
+22	an object is made of its parts	nongold
+23	if an object is made of something then the parts of that object are made of that something	nongold
+24	a structure of something is synonymous with a part of that something	nongold
+25	if something exists on a surface then that surface contains that something	nongold
+26	landform means surface feature; physical feature; land feature	nongold
+27	surface area is a property of shape	nongold
+28	an environment means an area	nongold
+29	the ground means Earth's surface	nongold
+30	if something is made of something else then that something can be broken down into that something else	nongold
+31	a planet contains environments	nongold
+32	a terrain contains a surface	nongold
+33	a moon is located in space	nongold
+34	a planet's  moon is smaller than that planet	nongold
+35	a surface is a part of a material	nongold
+36	area is similar to location	nongold
+37	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+38	ground means floor	nongold
+39	the surface of the Earth contains mountains	nongold
+40	place means area	nongold
+41	a whole is formed by its parts	nongold
+42	the Moon is closer to the Earth than the Sun	nongold
+43	including means containing	nongold
+44	Earth is a kind of planet	nongold
+45	to split means to break down	nongold
+46	contains means located in	nongold
+47	a type is synonymous with a kind	nongold
+48	a planet is a kind of celestial object; body	nongold
+49	the moon is the celestial object that is closest to the  Earth	nongold
+50	made of is similar to contains	nongold
+51	classifying means grouping objects; materials by their properties	nongold
+52	Earth's surface is made of rock	nongold
+53	answering questions requires information	nongold
+54	type of moon; kind of moon means moon phase	nongold
+55	unit is similar to part	nongold
+56	the moon orbits the Earth	nongold
+57	to make means to form	nongold
+58	a region is similar to an environment	nongold
+59	greatest means largest; highest; most amount of something	nongold
+60	the ground is at the bottom of an area	nongold
+61	form means kind	nongold
+62	all the other means the rest of	nongold
+63	to split means to divide	nongold
+64	distance is a property of space and includes ordered values of close; far	nongold
+65	to form means to create	nongold
+66	size; amount of space means volume	nongold
+67	a planet is a kind of place	nongold
+68	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+69	an part of an object is smaller than the entire object	nongold
+70	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+71	impact means effect	nongold
+72	to be formed by is similar to being produced by	nongold
+73	mountains are formed by earthquakes; volcanoes; plate tectonics	nongold
+74	low means down	nongold
+75	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	nongold
+76	a component means a part of	nongold
+77	a living thing is a kind of object	nongold
+78	composition means the (materials, substances) of which something is composed	nongold
+79	hills are a kind of small mountain	nongold
+80	the Moon has a rocky terrain	nongold
+81	the ground is part of the Earth	nongold
+82	made of is similar to is built from	nongold
+83	the moon rotates on its axis	nongold
+84	to change into means to form	nongold
+85	Mars is a kind of planet	nongold
+86	to cause the formation of means to form	nongold
+87	a structure is a kind of feature	nongold
+88	structure is a property of an object; a material; a substance	nongold
+89	break down means change from a whole into pieces	nongold
+90	an animal is a kind of living thing	nongold
+91	no longer means used to be	nongold
+92	if something is made of something else then the formation of that something requires that something else	nongold
+93	up means upward	nongold
+94	highest means largest; greatest; most in height	nongold
+95	the moon does not contain air; water	nongold
+96	length is a part of size	nongold
+97	the new moon is when the dark half of the moon faces the Earth	nongold
+98	density is a property of an object; a substance and includes ordered values of dense; not dense	nongold
+99	a new moon is a kind of phase of the moon	nongold

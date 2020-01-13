@@ -1,0 +1,101 @@
+0	Why does tapping a fork against a water glass produce a sound?	question
+1	The particles in the objects vibrate.	answer
+2	a fork is a kind of object	gold
+3	a fork is a kind of utensil	nongold
+4	tapping two objects together causes the particles in those objects to vibrate	gold
+5	a source of something emits; produces; generates; provides that something	nongold
+6	vibrating matter can produce sound	gold
+7	a molecule is a kind of particle	nongold
+8	matter; molecules vibrating can cause sound	nongold
+9	glass is a kind of object	gold
+10	a particle is a kind of object	nongold
+11	when two objects are touched; are contacted; move against each other , sound is produced	nongold
+12	matter; materials; substances are made of atoms; particles	nongold
+13	metal fork is made of metal for eating	nongold
+14	particles in objects are a kind of matter	gold
+15	hitting an object causes the particles in that object to vibrate	nongold
+16	glass is a kind of open container	nongold
+17	glass is a kind of solid at room temperature	nongold
+18	a glass contains water	nongold
+19	glass is a kind of material	nongold
+20	molecules; atoms are constantly; always moving; vibrating in substance;matter	nongold
+21	vibration is a kind of motion	nongold
+22	vibrations are a source of sound	nongold
+23	noise means sound	nongold
+24	atoms are made of particles	nongold
+25	a living thing is a kind of object	nongold
+26	sound means sound energy	nongold
+27	water is a kind of matter	nongold
+28	water is a kind of liquid at room temperature	nongold
+29	generate means produce	nongold
+30	a container contains objects; material; substances	nongold
+31	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	nongold
+32	water is a kind of object	nongold
+33	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+34	if a container contains something then that container touches that something	nongold
+35	water is a kind of substance	nongold
+36	emit means produce	nongold
+37	sound is a kind of sound energy	nongold
+38	producing is similar to causing	nongold
+39	sound is produced when mechanical energy is transformed into sound energy	nongold
+40	a surface is a part of a material	nongold
+41	water is an thermal; thermal energy conductor	nongold
+42	objects are made of materials; substances; matter	nongold
+43	glass; objects made of glass cause refraction of light	nongold
+44	glass is a kind of medium	nongold
+45	material means substance	nongold
+46	conductivity is a property of a material; substance	nongold
+47	a container is a kind of object	nongold
+48	a surface is a part of an object	nongold
+49	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+50	being  on something; placed in something; placed over something means touching  that something	nongold
+51	molecules in a solid vibrates within a fixed place	nongold
+52	make means produce	nongold
+53	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+54	a spoon is a kind of object	nongold
+55	temperature is a measure of heat energy	nongold
+56	substances are made of matter	nongold
+57	as  matter vibrates harder; faster , the  volume of the sound produced will increase	nongold
+58	a molecule is a kind of object	nongold
+59	loud means high in sound energy;sound intensity	nongold
+60	sound requires matter to travel	nongold
+61	counter means reduce; stop; resist	nongold
+62	heat means heat energy	nongold
+63	liquid is a kind of state of matter	nongold
+64	glass is a kind of product	nongold
+65	motion; movement means moving; to move	nongold
+66	oscillation means physical vibration	nongold
+67	a device is a kind of object	nongold
+68	a hum is a kind of sound	nongold
+69	a tool is a kind of object	nongold
+70	particles in a liquid flows past each other	nongold
+71	hard objects can vibrate more than soft objects	nongold
+72	a liquid is a kind of substance	nongold
+73	being in something means touching that something	nongold
+74	to produce means to provide	nongold
+75	particles in a liquid are close to each other	nongold
+76	a vibration is similar to a wave	nongold
+77	an animal is a kind of living thing	nongold
+78	producing is similar to discharging	nongold
+79	if an object is made of a material then that object has the properties of that material	nongold
+80	intense sound energy can move objects	nongold
+81	as the amount that matter vibrates increases , sound produced increases	nongold
+82	sound is a kind of energy	nongold
+83	motion is a source of kinetic energy in an object	nongold
+84	a utensil is used for eating	nongold
+85	heat is a kind of energy	nongold
+86	a utensil is a kind of tool for eating	nongold
+87	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+88	touching something means feeling that something	nongold
+89	a spoon sometimes is made of metal	nongold
+90	sound can travel through air by vibrating air	nongold
+91	an instrument is a piece of equipment	nongold
+92	an animal is a kind of organism	nongold
+93	to give off means to be the source of	nongold
+94	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+95	to add means to increase	nongold
+96	instrument means device	nongold
+97	a surface is a kind of object	nongold
+98	an part of an object is smaller than the entire object	nongold
+99	a human is a kind of animal	nongold
+100	wave motion is transferred from the source to matter to produce sound	nongold

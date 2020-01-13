@@ -1,0 +1,102 @@
+0	Which describes a specific characteristic necessary for survival in the desert?	question
+1	conserving water	answer
+2	conserving water is a kind of characteristic	gold
+3	a desert is a kind of environment	nongold
+4	an animal; living thing requires nutrients for survival	nongold
+5	a desert environment is low in availability of water; availability of food	gold
+6	conserving water can be used for survival in a dry environment	gold
+7	feature is synonymous with characteristic	nongold
+8	animals; living things require water for survival	gold
+9	conserving resources has a positive impact on the environment	nongold
+10	a plant; living thing requires food for survival	nongold
+11	to depend on; to rely on; to need means to require	nongold
+12	to be required means to be necessary	gold
+13	essential means required	nongold
+14	a desert environment usually has a lot of sunlight	nongold
+15	a desert environment is dry	gold
+16	requiring something means needing that something	nongold
+17	characteristic means property	nongold
+18	survival means to survive	nongold
+19	if something is required for a process then that something positively impacts that process	nongold
+20	trait is synonymous with characteristic	nongold
+21	a plants; living things require water for survival; to grow	nongold
+22	to be used for something means to be required by that something	nongold
+23	if something causes a process then that something is required for that process	nongold
+24	a desert environment receives low rainfall	nongold
+25	helping something has a  positive impact on that something	gold
+26	water is a part of an environment	nongold
+27	requiring is similar to needing help	gold
+28	a desert is a kind of land feature	nongold
+29	using less of a resource means conserving that resource	nongold
+30	if a living thing requires something then that something has a positive impact on that living thing	nongold
+31	an animal requires a habitat for survival	nongold
+32	life means living things	nongold
+33	a part of something means a characteristic of something	nongold
+34	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+35	certain is similar to specific	nongold
+36	survive means live	nongold
+37	survive means live	nongold
+38	water is a kind of natural resource	nongold
+39	water is a kind of natural resource	gold
+40	conservation is often conserving natural resources	nongold
+41	an animal is a kind of living thing	nongold
+42	a plant requires a habitat for survival	nongold
+43	if something is required then that something must be provided	nongold
+44	an environment means an area	nongold
+45	a desert environment usually is hot in temperature	nongold
+46	an animal is a kind of organism	nongold
+47	a plant requires a specific climate to grow and survive	nongold
+48	negative impact is the opposite of positive impact	gold
+49	an environment is similar to an ecosystem	nongold
+50	a forest environment receives more rainfall than a desert	nongold
+51	an animal; bacterium requires oxygen for survival; to breathe	nongold
+52	many desert animals want the water stored inside a cactus	nongold
+53	what an object is made of is a kind of characteristic	nongold
+54	an organism is a living thing	nongold
+55	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+56	an animal requires enough nutrients to maintain good health; survive	nongold
+57	a required resource being low in availability has a negative impact on the something  that requires that resource	gold
+58	a function is a kind of characteristic	nongold
+59	living things all require energy for survival	nongold
+60	to be dependent on something means to depend on that something	nongold
+61	organisms are a part of an environment	nongold
+62	a food contains nutrients for living things	nongold
+63	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+64	to help; to benefit means to be of use	nongold
+65	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold
+66	when available resources decrease in an environment , organisms have to conserve those resources	nongold
+67	surroundings means environment	nongold
+68	irrigation requires water use	nongold
+69	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+70	food is a kind of resource	nongold
+71	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+72	a positive impact is  a benefit	nongold
+73	humans require fresh water to survive	nongold
+74	an adaptation is a kind of characteristic	nongold
+75	needing something means depending on that something	nongold
+76	good means positive	nongold
+77	an organism's environment affects that organism's acquired characteristics	nongold
+78	death means to die	nongold
+79	to conserve means to not change	nongold
+80	if something requires something else then that something requires a source of that something else	nongold
+81	organism requires liquid water to survive	nongold
+82	a human is a kind of animal	nongold
+83	decreasing something negative has a positive impact on a thing	nongold
+84	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+85	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+86	dying is the opposite of living; surviving	nongold
+87	a plant is a kind of organism	nongold
+88	to be good for means to have a positive impact on	nongold
+89	if the amount of available food and water decreases in an environment then animals may leave that environment to find food and water	nongold
+90	as available water in an environment decreases , the amount of available food in that environment will decrease	nongold
+91	if an event is required for a process then that event must occur before that process can occur	nongold
+92	to impact means to affect	nongold
+93	Antarctica is a kind of desert	nongold
+94	a body of water is a kind of environment	nongold
+95	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+96	nutrients are a kind of resource	nongold
+97	to make possible means to be required	nongold
+98	harming something has a  negative impact on; effect on that something	nongold
+99	an animal needs to eat food for nutrients	nongold
+100	plants are a kind of resource	nongold
+101	to provide something means to be the source of that something	nongold

@@ -1,0 +1,101 @@
+0	Human bodies have complex structures that support growth and survival. What is the most basic structure of the human body that supports growth and survival?	question
+1	a cell	answer
+2	the cell is the most basic structural unit of life	gold
+3	a human cell is a kind of cell	nongold
+4	a human is a kind of animal	nongold
+5	cells are a part of the body	nongold
+6	a body cell means a somatic cell	nongold
+7	basic life functions occur in the cells of organisms	nongold
+8	human is a kind of organism	nongold
+9	a cell is very small	nongold
+10	the body is a part of an organism	nongold
+11	a living thing is made of cells	nongold
+12	helping something has a  positive impact on that something	nongold
+13	an organism is a living thing	nongold
+14	system is similar to structure	nongold
+15	a structure of something is synonymous with a part of that something	nongold
+16	a cell nucleus is a part of a cell	nongold
+17	cells are a smaller level of organization than tissues in living things	nongold
+18	requiring is similar to needing help	nongold
+19	a cell is a kind of object	nongold
+20	developing means growing	nongold
+21	a body system is a part of the body; an animal	nongold
+22	an animal cell is a kind of cell	nongold
+23	an animal is a kind of living thing	nongold
+24	a cell absorbs nutrients	nongold
+25	to be used for something means to be required by that something	nongold
+26	life means living things	gold
+27	living things carry out basic life functions	nongold
+28	a source of something emits; produces; generates; provides that something	nongold
+29	a part of a living thing is a natural structure	nongold
+30	all living things are made of cells according to the cell theory	nongold
+31	all living things grow	nongold
+32	an animal; living thing requires nutrients for survival	nongold
+33	survival means to survive	gold
+34	growth is a kind of process	nongold
+35	all cells perform cellular respiration	nongold
+36	organs are made of different types of  cellular tissues	nongold
+37	a protozoan is a kind of animal	nongold
+38	if a living thing requires something then that something has a positive impact on that living thing	nongold
+39	internal organs are a part of the body	nongold
+40	growing is a kind of process	nongold
+41	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+42	requiring something means needing that something	nongold
+43	tissues are a smaller level of organization than organs in living things	nongold
+44	cell division often causes growth; healing	nongold
+45	growth means size;number;value;strength increases	nongold
+46	tissue is a kind of group of cells with a common structure that work together to perform a similar function	nongold
+47	living things perform biological processes	nongold
+48	nutrients are a kind of matter	nongold
+49	growth is a kind of change	nongold
+50	providing structure is a kind of function	nongold
+51	an animal is a kind of organism	nongold
+52	cell activity means cell process	nongold
+53	a component of something means a part of that something	nongold
+54	a component means a part of	nongold
+55	cellular respiration is when a cell converts from oxygen and carbohydrates into carbon dioxide, water, and energy	nongold
+56	providing support is a kind of function	nongold
+57	best means most positive	nongold
+58	cellular respiration is when cells break down; extract energy from food to produce energy	nongold
+59	mostly means being the most	nongold
+60	a part of a process means a stage in a process	nongold
+61	to anchor means to provide support	nongold
+62	a single-celled organism's organelles are like the organs of a multi-celled organism	nongold
+63	to depend on; to rely on; to need means to require	nongold
+64	a somatic cell of a human contains 23 pairs of; 46  chromosomes	nongold
+65	dying is the opposite of living; surviving	nongold
+66	cellular respiration is a kind of process	nongold
+67	the parent cell is the original cell	nongold
+68	the cell membrane is a part of a cell	nongold
+69	the cell nucleus controls many of the functions of the cell	nongold
+70	bone cells are a part of the body	nongold
+71	the ability to grow is a kind of trait	nongold
+72	a cell membrane is a kind of cell structure	nongold
+73	a process is a kind of event	nongold
+74	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+75	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold
+76	can be means able to be	nongold
+77	to create means to make	nongold
+78	a process usually requires all of the stages in that process	nongold
+79	a living thing is a kind of object	nongold
+80	the body of an animal contains arteries; veins	nongold
+81	to produce means to create	nongold
+82	the nucleus is a kind of cell organelle	nongold
+83	structure is a property of an object; a material; a substance	nongold
+84	to contribute is similar to produce	nongold
+85	a body system is a kind of object	nongold
+86	a plant cell is a kind of cell	nongold
+87	reproduction is a kind of process	nongold
+88	what something needs is a property of that something	nongold
+89	organs are a smaller level of organization than organ systems in living things	nongold
+90	a single-celled organism is a kind of living thing	nongold
+91	a food contains nutrients for living things	nongold
+92	a structure is a kind of feature	nongold
+93	if something causes a process then that something is required for that process	nongold
+94	high is similar to increase	nongold
+95	to provide something means to be the source of that something	nongold
+96	an increase is a kind of change	nongold
+97	an animal is a kind of eukaryote	nongold
+98	form is similar to body	nongold
+99	the cell membrane provides support; protection for a cell	nongold
+100	living things are made of organic molecules	nongold

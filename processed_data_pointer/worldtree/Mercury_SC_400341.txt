@@ -1,0 +1,102 @@
+Question	If a tall tree falls over in a crowded forest, which resource becomes available to the surrounding plants?	question
+Answer	sunlight	answer
+0	if a tree falls then sunlight becomes available to the surrounding plants	gold
+1	plants are a kind of resource	nongold
+2	trees are a kind of resource	nongold
+3	to depend on; to rely on; to need means to require	nongold
+4	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+5	resources becoming available has a positive impact on the things that need those resources	nongold
+6	trees are a kind of natural resource	nongold
+7	sunlight means solar energy	nongold
+8	a  plant requires sunlight for photosynthesis	nongold
+9	sunshine means sunlight	nongold
+10	sunlight is a kind of solar energy	gold
+11	solar energy is an inexhaustible resource	nongold
+12	area; space is a kind of resource	nongold
+13	the sun is the source of solar energy called sunlight	nongold
+14	the sun is a source of light; light energy called sunlight	nongold
+15	sunlight is a kind of light	nongold
+16	a forest contains  lots of plants; trees	nongold
+17	a forest is a kind of environment	nongold
+18	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+19	the amount of something is similar to the availability of something	nongold
+20	if something is required then that something must be provided	nongold
+21	requiring is similar to needing help	nongold
+22	if a tree falls then that tree is dead	nongold
+23	a tree is a kind of plant	nongold
+24	vegetation means plants	nongold
+25	to add means to increase	nongold
+26	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+27	a forest is a kind of ecosystem	nongold
+28	a tree is a kind of living thing	nongold
+29	being around something means surrounding  that something	nongold
+30	falling means height decreases	nongold
+31	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+32	green plants are a kind of producer	nongold
+33	to drop means to fall	nongold
+34	daylight is when the sun shines on a location	nongold
+35	requiring something means needing that something	nongold
+36	large canopies; trees block sunlight from reaching the ground	gold
+37	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+38	a  plant requires sunlight to  grow	nongold
+39	a tree requires sunlight to grow	nongold
+40	if a leaf falls off of a tree then that leaf is dead	nongold
+41	the sunlight occurs during the day	nongold
+42	a rainforest is a kind of ecosystem	nongold
+43	drop means decrease	nongold
+44	to provide something means to be the source of that something	nongold
+45	to be used for something means to be required by that something	nongold
+46	becoming is similar to changing	nongold
+47	being in the sun is synonymous with being in the sunlight	nongold
+48	to help; to benefit means to be of use	nongold
+49	a plant is a kind of living thing	nongold
+50	daylight means sunlight	nongold
+51	as available resources increases , the population of an organism that uses those resources will increase	nongold
+52	plants are a part of the environment	nongold
+53	tall means great in height	nongold
+54	a plant; living thing requires food for survival	nongold
+55	space is a kind of resource	nongold
+56	solar energy is a kind of light	nongold
+57	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+58	low means down	nongold
+59	solar energy is a renewable; inexhaustible resource	gold
+60	high is similar to increase	nongold
+61	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+62	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+63	sunlight produces heat	nongold
+64	to be in the sun means to be in the sunlight	nongold
+65	a tree is a kind of habitat	nongold
+66	if a resource is protected then that resource will be available	nongold
+67	shade means low sunlight	nongold
+68	solar power means solar energy	nongold
+69	dropping something causes that something to fall	nongold
+70	receiving sunlight  is synonymous with absorbing sunlight	nongold
+71	to reduce means to decrease	nongold
+72	an animal; living thing requires nutrients for survival	nongold
+73	falling means moving downward	nongold
+74	a plants; living things require water for survival; to grow	nongold
+75	if something requires something else then that something requires a source of that something else	nongold
+76	an environment means an area	nongold
+77	a leaf is a part of a  green plant	nongold
+78	a leaf absorbs sunlight to perform photosynthesis	nongold
+79	to receive sunlight means to absorb sunlight	nongold
+80	becoming is a kind of action	nongold
+81	the sun is the source of energy for life on Earth	nongold
+82	low is similar to decrease	nongold
+83	an increase is the opposite of a decrease	nongold
+84	a plant requires a habitat for survival	nongold
+85	a plant; living thing requires nutrients to grow	nongold
+86	to lower means to decrease	nongold
+87	a plant is a kind of organism	nongold
+88	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+89	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+90	low means low in elevation; height; altitude	nongold
+91	as the amount of rain increases in an environment , available sunlight will decrease in that environment	nongold
+92	a rain forest is a kind of forest	nongold
+93	nutrients are a kind of resource	nongold
+94	solar energy is a kind of heat energy	nongold
+95	a plant requires photosynthesis to grow; survive	nongold
+96	a leaf is a part of a tree	nongold
+97	a source of something emits; produces; generates; provides that something	nongold
+98	a leaf performs photosynthesis; gas exchange	nongold
+99	inexhaustible means always available	nongold

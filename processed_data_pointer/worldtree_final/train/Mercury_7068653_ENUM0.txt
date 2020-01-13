@@ -1,0 +1,101 @@
+0	water is a renewable resource	nongold
+1	petroleum is a kind of fossil fuel	nongold
+2	greatest means largest; highest; most amount of something	nongold
+3	affected means changed	nongold
+4	renewable resources are often available for many years	nongold
+5	if something transfers something else then that something is a source of something else	nongold
+6	if something generates energy for something else then that something powers that something else	nongold
+7	can be means able to be	nongold
+8	if something causes an increase in something else then that something produces that something else	nongold
+9	geothermal energy is a renewable resource	gold
+10	oil is used for producing electricity	nongold
+11	to produce means to provide	nongold
+12	geothermal	answer
+13	electricity is used as an energy source by electrical devices	nongold
+14	where something  comes from is a source of that something	nongold
+15	a renewable resource is a kind of natural resource	nongold
+16	furthest; farthest means greatest; most; highest in distance	nongold
+17	a producer is a source of energy for consumers	nongold
+18	hydroelectric power is a renewable resource	nongold
+19	to be used for something means to be required by that something	nongold
+20	renewable resources can be used over again	nongold
+21	if something requires something else then that something requires a source of that something else	nongold
+22	Which resource has the most potential for production of renewable electric energy?	question
+23	if something emits something else then that something increases the amount of that something else	nongold
+24	the potential energy in fossil fuels mostly are converted into thermal energy	nongold
+25	converting is similar to generating	nongold
+26	if something causes a process then that something is required for that process	nongold
+27	if something is a raw material then that something comes directly from a source	nongold
+28	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+29	green plants are a kind of producer	nongold
+30	heat is a kind of energy	nongold
+31	development is similar to production	nongold
+32	if something is required for a process then that something positively impacts that process	nongold
+33	to depend on; to rely on; to need means to require	nongold
+34	generate means produce	nongold
+35	a source of something increases the amount of that something	nongold
+36	oil is a kind of fossil fuel	nongold
+37	a producer is a kind of living thing	nongold
+38	power station means power plant	nongold
+39	generating power is a kind of positive impact	nongold
+40	a fossil fuel is a kind of natural resource	nongold
+41	a source of heat can be used to heat something	nongold
+42	most means over 50% of something	nongold
+43	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+44	minerals are a nonrenewable resource	nongold
+45	usually means most of the time	nongold
+46	fossil fuels are a nonrenewable resource	nongold
+47	solar energy is a kind of energy	nongold
+48	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+49	mostly means being the most	nongold
+50	natural gas is a kind of fossil fuel	nongold
+51	solar energy is a kind of heat energy	nongold
+52	solar energy is a source of electricity	nongold
+53	natural gas is a nonrenewable resource	nongold
+54	sunlight produces heat	nongold
+55	if something releases something else then that something is the source of that something else	nongold
+56	potential energy means stored energy	nongold
+57	oil is a kind of energy resource	nongold
+58	plants are a kind of resource	nongold
+59	hydropower is a kind of alternative energy resource	nongold
+60	a process is a kind of event	nongold
+61	high is similar to increase	nongold
+62	to contribute is similar to produce	nongold
+63	electrical energy is a kind of energy	nongold
+64	solar power means solar energy	nongold
+65	coal is a kind of fossil fuel	nongold
+66	renewable is the opposite of nonrenewable	nongold
+67	if something is powered by something else then that something requires a source of that something else	nongold
+68	a source of something emits; produces; generates; provides that something	nongold
+69	converting is similar to producing	nongold
+70	an inexhaustible resource is a kind of renewable resource	nongold
+71	an event is a kind of action	nongold
+72	form means kind	nongold
+73	solar energy is a renewable; inexhaustible resource	nongold
+74	if something comes from something else then that something else is a source of that something	nongold
+75	geothermal energy is formed by magma heating Earth's crust	nongold
+76	make means produce	nongold
+77	a part of a process means a stage in a process	nongold
+78	fossil fuels have high potential energy	nongold
+79	products are formed; are produced; are created	nongold
+80	resources sometimes are used for energy	nongold
+81	producing is a kind of process	nongold
+82	electricity means electrical energy	nongold
+83	to be formed by is similar to being produced by	nongold
+84	emit means produce	nongold
+85	an energy source is a kind of resource	nongold
+86	potential energy is a kind of energy	nongold
+87	potential is a kind of ability	nongold
+88	heat means heat energy	nongold
+89	In the food chain process a  green plant has the role of  producer	nongold
+90	fossil fuels are a kind of energy resource	nongold
+91	a renewable resource is a kind of naturally replaced resource	nongold
+92	producing renewable electric energy requires renewable resources	gold
+93	to power means to provide energy for	nongold
+94	coal is a nonrenewable resource	nongold
+95	a source of heat can be used to heat something	nongold
+96	chemical energy is a kind of potential energy	nongold
+97	a nonrenewable resource is limited in supply	nongold
+98	if something is a raw material in a process then that something is required for that process	nongold
+99	hydroelectric power is a kind of natural resource	nongold
+100	oil is a nonrenewable resource	nongold

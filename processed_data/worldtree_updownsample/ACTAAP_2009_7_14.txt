@@ -1,0 +1,65 @@
+0	oxygen is a kind of gas at room temperature	gold
+1	water contains dissolved oxygen	nongold
+2	gas is a kind of nonmetal	nongold
+3	air temperature is a kind of temperature	nongold
+4	Which nongaseous compound can be made from two elements that are gases at room temperature?	question
+5	water is a kind of matter	nongold
+6	Which nongaseous compound can be made from two elements that are gases at room temperature?	question
+7	elements on the left side of the Periodic Table of Elements are solids at room temperature	nongold
+8	an element is a kind of material	nongold
+9	water is a kind of compound	gold
+10	a carbohydrate is a kind of compound	nongold
+11	water is a kind of liquid at room temperature	gold
+12	liquid; solid means nongaseous	gold
+13	water	answer
+14	boiling is a kind of phase change	nongold
+15	water	answer
+16	to be made of means to consist of	nongold
+17	gas is a kind of substance	nongold
+18	Which nongaseous compound can be made from two elements that are gases at room temperature?	question
+19	an element is made of one kind of atoms	nongold
+20	water is made of hydrogen and oxygen	gold
+21	water is a kind of compound	gold
+22	carbon dioxide is a kind of gas	nongold
+23	to make means to form	nongold
+24	liquid; solid means nongaseous	gold
+25	a compound is a kind of material	nongold
+26	compound is a kind of chemical	nongold
+27	gas is a kind of state of matter	nongold
+28	to exhale means to release	nongold
+29	the Earth's atmosphere is made of 1.288 percent argon by mass	nongold
+30	water	answer
+31	hydrogen is a kind of element	gold
+32	a compound is made of two or more elements that have been chemically combined	nongold
+33	oxygen is a kind of gas at room temperature	gold
+34	water is an thermal; thermal energy conductor	nongold
+35	hydrogen is a kind of gas at room temperature	gold
+36	atmosphere means  air	nongold
+37	hydrogen is a kind of gas at room temperature	gold
+38	hydrogen is a kind of gas at room temperature	gold
+39	a compound is a kind of substance	nongold
+40	chemical reactions cause new substances; different substances to form	nongold
+41	water is a kind of substance	nongold
+42	liquid; solid means nongaseous	gold
+43	water	answer
+44	hydrogen is a kind of element	gold
+45	matter; materials; substances are made of atoms; particles	nongold
+46	oxygen is a kind of gas at room temperature	gold
+47	water is a kind of liquid at room temperature	gold
+48	water is made of hydrogen and oxygen	gold
+49	propane;C_{3}H_{8} is a kind of gas at room temperature	nongold
+50	steam;water vapor is a kind of water above 100 degrees celsius	nongold
+51	heat means heat energy	nongold
+52	water is a kind of liquid at room temperature	gold
+53	a body of water contains water	nongold
+54	Which nongaseous compound can be made from two elements that are gases at room temperature?	question
+55	oxygen gas is made of only  oxygen element	nongold
+56	hydrogen is a kind of element	gold
+57	water is made of hydrogen and oxygen	gold
+58	water is a kind of compound	gold
+59	made of is similar to contains	nongold
+60	a compound can be chemically separated into the elements that it is made of	nongold
+61	solid is a kind of state of matter	nongold
+62	vapor is synonymous with gas	nongold
+63	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+64	a chemical compound is a kind of compound	nongold

@@ -1,0 +1,101 @@
+0	a brain is a kind of internal organ	nongold
+1	typically means usually	nongold
+2	ability is a kind of characteristic	nongold
+3	an animal is a kind of organism	nongold
+4	characteristic means property	nongold
+5	answering questions requires information	nongold
+6	a type is synonymous with a kind	nongold
+7	the brain is a part of the body	nongold
+8	form means kind	nongold
+9	if something does not contain something else then that something lacks that something else	nongold
+10	intelligence is an acquired characteristic	gold
+11	a student is a kind of human	nongold
+12	intelligence	answer
+13	can be means able to be	nongold
+14	a behavior is a kind of characteristic	nongold
+15	an animal's brain controls that animal	nongold
+16	using tools is a learned characteristic	nongold
+17	made of is similar to contains	nongold
+18	to give is similar to to cause	nongold
+19	a component means a part of	nongold
+20	human is a kind of organism	nongold
+21	a human is a kind of animal	nongold
+22	a human is a kind of mammal	nongold
+23	feature is synonymous with characteristic	nongold
+24	senses are an inherited characteristic	nongold
+25	a structure of something is synonymous with a part of that something	nongold
+26	to be formed by is to be the result of	nongold
+27	sense is a kind of characteristic of an animal	nongold
+28	personality is an acquired characteristic	nongold
+29	certain is similar to specific	nongold
+30	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+31	a child is a kind of young human	nongold
+32	an organism is a living thing	nongold
+33	generally means usually	nongold
+34	each is similar to individual	nongold
+35	children; young is synonymous with offspring	nongold
+36	usually means most of the time	nongold
+37	an inherited characteristic is a kind of characteristic	nongold
+38	except means not	nongold
+39	to turn means to change	nongold
+40	communication is a learned behavior	nongold
+41	an animal is a kind of living thing	nongold
+42	a learned characteristic is a kind of acquired characteristic	nongold
+43	a sense is a kind of ability	nongold
+44	hearing is a kind of sense	nongold
+45	species is an inherited characteristic	nongold
+46	trait is synonymous with characteristic	gold
+47	preferences are generally learned characteristics	nongold
+48	rarely means not	nongold
+49	inherited characteristics are a kind of hereditary information	nongold
+50	both means two	nongold
+51	heredity is similar to inheritance	nongold
+52	person is synonymous with human	nongold
+53	a kind of something is an example of that something	nongold
+54	determining is similar to learning	nongold
+55	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+56	inability is the opposite of ability	nongold
+57	conditioned behavior is a kind of learned behavior	nongold
+58	sound of voice is an inherited characteristic	nongold
+59	affected means changed	nongold
+60	trait means property	nongold
+61	a gene is a kind of unit of hereditary information	nongold
+62	learned behaviors are learned over the  lifetime of the animal	nongold
+63	identical means copy	nongold
+64	variable means able to change	nongold
+65	skills are learned characteristics; behaviors	nongold
+66	if an animal is trained to do something then that something is a learned behavior	nongold
+67	genes are able to determine the inherited characteristics of a living thing	nongold
+68	to belong to a class means to be a kind of something	nongold
+69	trait is a kind of genetic information	nongold
+70	following orders is a learned characteristic	nongold
+71	a mammal is a kind of animal	nongold
+72	an ear is a kind of body part	nongold
+73	to reproduce means to have; to produce offspring	nongold
+74	knowing the properties of something means knowing information about that something	nongold
+75	curiosity is a kind of human quality	nongold
+76	a component of something means a part of that something	nongold
+77	a living thing is a kind of object	nongold
+78	Anna is a name for a human	nongold
+79	a brain is a part of an animal	nongold
+80	can means having the ability to	nongold
+81	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+82	high is similar to increase	nongold
+83	unique  is the opposite of diverse	nongold
+84	to contain something means to have that something	nongold
+85	phenotype of an organism means the visible traits of  an organism	nongold
+86	a part of something means a characteristic of something	nongold
+87	playing with toys is a learned characteristic	nongold
+88	learning; studying information causes one to know that information	nongold
+89	composed of means made of	nongold
+90	to be formed by is similar to being produced by	nongold
+91	human is similar to individual	nongold
+92	make means produce	nongold
+93	aspect of something is similar to part of something	nongold
+94	Which of these is not an inherited trait in humans?	question
+95	what an object is made of is a kind of characteristic	nongold
+96	the size of an organism is an inherited characteristic	nongold
+97	to contain means to have inside	nongold
+98	not is similar to the opposite of	nongold
+99	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+100	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold

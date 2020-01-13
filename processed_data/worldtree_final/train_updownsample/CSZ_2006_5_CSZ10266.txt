@@ -1,0 +1,81 @@
+0	to serve as means to be used as	nongold
+1	boiling is a kind of event	nongold
+2	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+3	heat means heat energy	gold
+4	if a body part was burned then that body part was exposed to a lot of heat energy	gold
+5	a hot; warm something is a source of heat	gold
+6	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+7	fire is a kind of chemical reaction	nongold
+8	metal is a kind of material	gold
+9	a living thing is a kind of object	nongold
+10	a thermal insulator slows; prevents the transfer of heat	nongold
+11	if liquid is boiling then that liquid is hot	gold
+12	to combust means to catch fire	nongold
+13	burning is a kind of action	nongold
+14	if a body part was burned then that body part was exposed to a lot of heat energy	gold
+15	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+16	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	nongold
+17	a finger is a part of a hand	gold
+18	if liquid is boiling then that liquid is hot	gold
+19	a hand is a part of the body	gold
+20	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+21	if one surface; one substance; one object touches something then one is exposed to that something	gold
+22	boiling is a kind of phase change	nongold
+23	a liquid is a kind of substance	nongold
+24	metal is a thermal; thermal energy conductor	gold
+25	a hand is a part of the body	gold
+26	A metal spoon was left in a pot of boiling soup. The cook burned a finger by touching the spoon. Why did the finger get burned?	question
+27	a stove generates heat for cooking usually	nongold
+28	high temperatures can cause an object to combust	nongold
+29	being  on something; placed in something; placed over something means touching  that something	nongold
+30	fire transfers heat through waves	nongold
+31	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+32	soup is a kind of liquid	gold
+33	food is a kind of substance	nongold
+34	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+35	soup is a kind of liquid	gold
+36	heat means heat energy	gold
+37	if heat is conducted to an object then that object will become hot	nongold
+38	The metal spoon conducted heat to the cook's hand.	answer
+39	a container contains objects; material; substances	nongold
+40	The metal spoon conducted heat to the cook's hand.	answer
+41	A metal spoon was left in a pot of boiling soup. The cook burned a finger by touching the spoon. Why did the finger get burned?	question
+42	heat means the transfer of thermal energy	nongold
+43	if one surface; one substance; one object touches something then one is exposed to that something	gold
+44	temperature is a measure of heat energy	nongold
+45	a surface is a part of an object	nongold
+46	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+47	heat energy  can be used to heat up  an object	nongold
+48	a hot; warm something is a source of heat	gold
+49	if liquid is boiling then that liquid is hot	gold
+50	if one surface; one substance; one object touches something then one is exposed to that something	gold
+51	a human is a kind of animal	nongold
+52	a body part is a kind of object	nongold
+53	if a body part was burned then that body part was exposed to a lot of heat energy	gold
+54	metal is a thermal; thermal energy conductor	gold
+55	A metal spoon was left in a pot of boiling soup. The cook burned a finger by touching the spoon. Why did the finger get burned?	question
+56	metal is an  electrical; electrical energy conductor	nongold
+57	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+58	The metal spoon conducted heat to the cook's hand.	answer
+59	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+60	metal is a kind of material	gold
+61	metal is a thermal; thermal energy conductor	gold
+62	burning a living thing usually causes harm to that living thing	nongold
+63	A metal spoon was left in a pot of boiling soup. The cook burned a finger by touching the spoon. Why did the finger get burned?	question
+64	water is a kind of object	nongold
+65	food is a kind of object	nongold
+66	cookware is used for cooking	nongold
+67	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+68	thermal conduction is when heat flows from warmer object to cooler object	nongold
+69	a hand is a part of the body	gold
+70	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+71	a finger is a part of a hand	gold
+72	soup is a kind of liquid	gold
+73	a hot; warm something is a source of heat	gold
+74	a finger is a part of a hand	gold
+75	heat means heat energy	gold
+76	The metal spoon conducted heat to the cook's hand.	answer
+77	a burner is a kind of object; surface	nongold
+78	metal is a kind of substance	nongold
+79	metal is a kind of material	gold
+80	absorbing energy causes objects; materials; substances to heat	nongold

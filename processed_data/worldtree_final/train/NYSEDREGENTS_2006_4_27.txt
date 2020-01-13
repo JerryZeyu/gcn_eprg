@@ -1,0 +1,101 @@
+0	Which human activity most often has a harmful effect on the environment?	question
+1	polluting	answer
+2	polluting is a kind of activity	gold
+3	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	gold
+4	pollutants have a negative impact on the environment; air quality	nongold
+5	a pollutant is a kind of substance	nongold
+6	action means activity	nongold
+7	living things in a polluted environment often contain pollutants	nongold
+8	harming something has a  negative impact on; effect on that something	gold
+9	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+10	pollution is a source of pollutants	nongold
+11	polluting gasses are a kind of pollution	nongold
+12	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+13	humans changing animal habitats usually causes harm to those animals	nongold
+14	polluting means something poisonous is added to an environment	nongold
+15	contaminated means polluted	nongold
+16	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+17	water is when humans pollute the environment with pollutants	nongold
+18	adverse effect means negative impact	nongold
+19	a human is a kind of animal	nongold
+20	something harmful can cause harm	nongold
+21	impact means effect	nongold
+22	an environment means an area	nongold
+23	humans cause pollution	gold
+24	to cause means to have an effect	nongold
+25	to impact means to affect	nongold
+26	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	nongold
+27	chemicals can be pollutants	nongold
+28	organisms are a part of an environment	nongold
+29	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+30	human is a kind of organism	nongold
+31	an animal is a kind of organism	nongold
+32	damage means harm	nongold
+33	oil is a kind of pollutant	nongold
+34	killing means harming something causing death	nongold
+35	causing is a kind of affecting	nongold
+36	protecting something means preventing harm to that something	nongold
+37	something dangerous can cause harm	nongold
+38	an animal is a kind of living thing	nongold
+39	a body of water is a kind of environment	nongold
+40	an environment is similar to an ecosystem	nongold
+41	the atmosphere is a part of nature; the environment	nongold
+42	fishing has a negative impact on ecosystems	nongold
+43	negative impact is the opposite of positive impact	nongold
+44	harm means danger	nongold
+45	destroying something causes harm to that something	nongold
+46	humans changing an environment sometimes causes that environment to be destroyed	nongold
+47	protecting nature has a positive impact on the environment	nongold
+48	attracting is a kind of function; activity	nongold
+49	objects in an environment are a part of that environment	nongold
+50	actions mean behavior	nongold
+51	usually means most of the time	nongold
+52	reproducing is a kind of activity	nongold
+53	if something affects a part of something else then that something affects that something else	nongold
+54	helping something has a  positive impact on that something	nongold
+55	person is synonymous with human	nongold
+56	creating is a kind of activity	nongold
+57	typically means usually	nongold
+58	absorbing something harmful has a negative impact on a thing	nongold
+59	adding is a kind of activity	nongold
+60	to change means to have an effect	nongold
+61	an organism is a living thing	nongold
+62	killing means changing a living thing from alive to dead by harming	nongold
+63	nature means a natural environment	nongold
+64	carpooling is a kind of activity	nongold
+65	a negative impact is a kind of consequence; risk	nongold
+66	cleaner means less; lower in pollutants	nongold
+67	surroundings means environment	nongold
+68	fishing is when a human kills; catches fish for food	nongold
+69	an aquatic animal is a kind of animal	nongold
+70	harm means injury	nongold
+71	if something is made by something else then that something is affected by that something else	nongold
+72	decreasing something negative has a positive impact on a thing	nongold
+73	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+74	high is similar to increase	nongold
+75	human waste often causes harm to an environment	nongold
+76	if something is required for a process then that something positively impacts that process	nongold
+77	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	nongold
+78	damage has a negative impact on a thing	nongold
+79	looking is a kind of activity	nongold
+80	destroying animal habitats has a negative  impact on an ecosystem	nongold
+81	an ecosystem contains a large community of; large numbers of living organisms	nongold
+82	a predator is a kind of animal	nongold
+83	generally means usually	nongold
+84	harming an animal species has a  negative impact on the population size of that species	nongold
+85	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+86	action can cause change	nongold
+87	a motion is a kind of event; action	nongold
+88	washing is a kind of activity	nongold
+89	low is similar to decrease	nongold
+90	pollution is a kind of environmental problem	nongold
+91	poisoning an environment means poisoning the organisms in that environment	nongold
+92	a climate is synonymous with an environment	nongold
+93	to be a source of something means to cause that something	nongold
+94	human activity changed the composition of the atmosphere over the last hundreds of years	nongold
+95	flushing is a kind of activity	nongold
+96	to hurt means to harm	nongold
+97	an environment is a kind of place	nongold
+98	to cause an event is similar to being involved in that event	nongold
+99	a living thing is a kind of object	nongold
+100	a type is synonymous with a kind	nongold

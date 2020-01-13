@@ -1,0 +1,102 @@
+Question	Clams, oysters, and mussels eat plankton filtered from water. How would clams, oysters, and mussels most likely be affected if the amount of plankton in a large body of water was significantly reduced?	question
+Answer	They would compete for a limited food source.	answer
+0	a clam is a kind of aquatic animal	gold
+1	oysters eat plankton	gold
+2	clams eat plankton	gold
+3	oysters are a kind of aquatic animal	gold
+4	mussels eat plankton	gold
+5	a plankton is a kind of animal	nongold
+6	plankton live in bodies of water	gold
+7	a mussel is a kind of water animal	nongold
+8	to impact means to affect	nongold
+9	mussels are a kind of aquatic animal	gold
+10	impact means effect	nongold
+11	to reduce means to decrease	gold
+12	as a resource required by an organism decreases , the competition among organisms that require that resource will increase	nongold
+13	a living thing surviving has a positive impact on that living thing's ability to compete for resources	nongold
+14	if two animals eat the same prey then those animals compete for that prey	gold
+15	if two animals have the same food source then those two animals compete for food	gold
+16	as competition for resources decreases , the ability to compete for resources will increase	nongold
+17	if an organism can compete for resources then more resources will become available to that organism	nongold
+18	less means a reduced amount	nongold
+19	harming something has a  negative impact on; effect on that something	nongold
+20	a body of water is a kind of environment	nongold
+21	as the population of prey decreases , competition between predators will increase	nongold
+22	if an animal takes a resource from another animal then that animal competes for resources successfully	nongold
+23	a food contains nutrients for living things	nongold
+24	if an organism eats something then that something is a source of frood to that organism	nongold
+25	an animal needs to eat food for nutrients	nongold
+26	In the food chain process some types of plankton have the role of producer	nongold
+27	an aquatic animal is a kind of animal	gold
+28	a plant; living thing requires food for survival	nongold
+29	causing is a kind of affecting	nongold
+30	as available water in an environment decreases , the amount of available food in that environment will decrease	nongold
+31	an animal; living thing requires nutrients for survival	nongold
+32	living things eat their food source	gold
+33	food supply often limits predator population size in an ecosystem	nongold
+34	harming an animal species has a  negative impact on the population size of that species	nongold
+35	less is similar to decrease	nongold
+36	clams live at the bottom of the ocean	nongold
+37	to lower means to decrease	nongold
+38	an increase is the opposite of a decrease	nongold
+39	a body of water is a source of water	nongold
+40	to eat means to consume food	nongold
+41	an organism is a living thing	nongold
+42	if something affects a part of something else then that something affects that something else	nongold
+43	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+44	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+45	harming an animal species causes that animal's population to decrease	nongold
+46	aquatic animals; plants live in bodies of water	nongold
+47	If an organism survives competition for resources then this organism will survive; reproduce for  natural selection	nongold
+48	negative impacts on a species will decrease populations of a species	nongold
+49	low is similar to decrease	nongold
+50	aquatic animal means water animal	nongold
+51	negative impact is the opposite of positive impact	nongold
+52	water is a part of an environment	nongold
+53	predators; carnivores; omnivores eat other animals	nongold
+54	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+55	animals; living things require water for survival	nongold
+56	food is what an animal eats	nongold
+57	an animal is a kind of living thing	gold
+58	ocean is a source of wild fish for human populations	nongold
+59	competition may cause animals to fight; to make threatening sounds; to act aggressively towards members of their own species	nongold
+60	affected means changed	gold
+61	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+62	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+63	an ocean is a kind of body of water	nongold
+64	to change means to have an effect	nongold
+65	if a living thing requires something then that something has a positive impact on that living thing	nongold
+66	high is similar to increase	nongold
+67	eating something decreases the amount of that something	nongold
+68	water is a kind of natural resource	nongold
+69	water is a kind of natural resource	nongold
+70	affecting an organism's niche means affecting that organism	nongold
+71	a fish is a kind of aquatic animal	nongold
+72	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+73	as water increases in an environment , the population of aquatic animals will increase	nongold
+74	predators eat prey	gold
+75	a body of water contains water	nongold
+76	if something comes from something else then that something else is a source of that something	nongold
+77	reducing is a kind of change	nongold
+78	a fish is a kind of predator	nongold
+79	an object; material; substance comes from that object or material's source	nongold
+80	the amount of something is similar to the availability of something	nongold
+81	if something requires something else then that something requires a source of that something else	nongold
+82	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+83	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+84	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+85	a decrease is a kind of change	gold
+86	fish eat insects	nongold
+87	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+88	an animal is a kind of organism	nongold
+89	an ecosystem contains a large community of; large numbers of living organisms	nongold
+90	prey is a kind of food for predators	nongold
+91	a fish is a kind of animal	nongold
+92	a living thing is a kind of object	nongold
+93	diet means what an animal eats	nongold
+94	organisms are a part of an environment	nongold
+95	adverse effect means negative impact	nongold
+96	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+97	an animal is a member of an animal species	nongold
+98	to cause means to have an effect	nongold
+99	requiring too much of a resource has a negative impact on the availiability of that resource	nongold

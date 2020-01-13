@@ -1,0 +1,102 @@
+Question	In 2004 the Hubble space telescope captured images of distant star clusters, each containing about a million stars. These star clusters were most likely part of which structure?	question
+Answer	a galaxy	answer
+0	a structure of something is synonymous with a part of that something	nongold
+1	a cluster of stars is made of stars	nongold
+2	a galaxy is a kind of structure	nongold
+3	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	nongold
+4	galaxies often contain hundreds of billions of stars	nongold
+5	a typical galaxy contains billions of stars	nongold
+6	including means containing	nongold
+7	a galaxy is made of stars	gold
+8	unit is similar to part	nongold
+9	a telescope is a kind of optical instrument for observing celestial objects; observing the sky	nongold
+10	if something is a part of something else then that something else contains that something	nongold
+11	distant means great in distance	nongold
+12	a galaxy is made of a group of objects in space	nongold
+13	distant means far away	nongold
+14	a star is a kind of celestial object; celestial body	nongold
+15	astronomy is the study of celestial (objects, bodies)	nongold
+16	system is similar to structure	gold
+17	structure is a property of an object; a material; a substance	nongold
+18	contains means located in	nongold
+19	optical tools are used for observing materials up close; in greater detail	nongold
+20	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+21	a galaxy contains dust; stars; planets	nongold
+22	if something is a part of something then that something can be found in that something	nongold
+23	a galaxy is a kind of very large system of stars	gold
+24	often is similar to likely	nongold
+25	the Sun is a kind of star	nongold
+26	celestial bodies; celestial objects are found in space	nongold
+27	a billion is a kind of  number	nongold
+28	to contain means to have inside	nongold
+29	to be found in means to be contained in	nongold
+30	an object is made of its parts	nongold
+31	a component of something means a part of that something	nongold
+32	made of is similar to contains	nongold
+33	composed of means made of	nongold
+34	a component means a part of	nongold
+35	instrument means tool	nongold
+36	instrument means device	nongold
+37	distance is a property of space and includes ordered values of close; far	nongold
+38	made up of means contains; made of	nongold
+39	largest amount means most	nongold
+40	a part of a living thing is a natural structure	nongold
+41	main-sequences stars are a kind of star	nongold
+42	to absorb means to capture	nongold
+43	a camera is a kind of tool for recording images	nongold
+44	a star is a source of light; light energy through nuclear reactions	nongold
+45	galaxies are usually thousands of light years in diameter	nongold
+46	a galaxy is a kind of celestial body; celestial object	nongold
+47	stellar means related to stars	nongold
+48	can be means able to be	nongold
+49	greatest means largest; highest; most amount of something	nongold
+50	form means kind	nongold
+51	to be made of means to consist of	nongold
+52	to be made of something means to be formed of that something	nongold
+53	if something is made of something; a material then that something contains that something; that material	nongold
+54	galaxies are located  millions of light years from Earth	nongold
+55	a type is synonymous with a kind	nongold
+56	an part of an object is smaller than the entire object	nongold
+57	a galaxy is held together by gravity	nongold
+58	size; amount of space means volume	nongold
+59	classifying means grouping objects; materials by their properties	nongold
+60	answering questions requires information	nongold
+61	to contain something means to have that something	nongold
+62	a star produces light and heat	nongold
+63	if an object is made of something then the parts of that object are made of that something	nongold
+64	part means role	nongold
+65	no longer means used to be	nongold
+66	to be filled with means to contain	nongold
+67	affected means changed	nongold
+68	a star is usually larger than a planet	nongold
+69	detailed observation of celestial objects requires a telescope	nongold
+70	stars are located light years apart from each other	nongold
+71	planets are found in space	nongold
+72	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+73	a source of something emits; produces; generates; provides that something	nongold
+74	a constellation contains stars	nongold
+75	a camera is used for recording images	nongold
+76	astronomy is a kind of branch of science	nongold
+77	outermost is similar to distant	nongold
+78	a whole is formed by its parts	nongold
+79	viewing means observing light	nongold
+80	approximately means about	nongold
+81	variable means able to change	nongold
+82	planets orbit stars	nongold
+83	composition is a property of an object; matter	nongold
+84	to be formed by is similar to being produced by	nongold
+85	a lens is a part of a telescope	nongold
+86	place means space	nongold
+87	stars can be classified by temperature; color; chemical composition; brightness	nongold
+88	galaxies can be classified  by shape	nongold
+89	usually means most of the time	nongold
+90	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+91	how many means what number	nongold
+92	to carry something means to contain something	nongold
+93	a structure is a kind of feature	nongold
+94	contain is similar to store	nongold
+95	to belong to a class means to be a kind of something	nongold
+96	the sky is similar to space	nongold
+97	a part of something is present in that something	nongold
+98	satellites are used to take images from space	nongold
+99	mostly means being the most	nongold

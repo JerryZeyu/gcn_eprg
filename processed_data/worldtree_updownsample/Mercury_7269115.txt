@@ -1,0 +1,61 @@
+0	oil is a kind of energy resource	nongold
+1	producing is a kind of process	nongold
+2	to be formed by is similar to being produced by	nongold
+3	high temperature and high pressure	answer
+4	temperature is a kind of condition	gold
+5	temperature is a measure of heat energy	nongold
+6	heating means adding heat	nongold
+7	pressure is a kind of condition	gold
+8	temperature is an intensive property	nongold
+9	high temperature and high pressure	answer
+10	Oil, coal, and natural gas are fossil fuels formed under what conditions?	question
+11	to add means to increase	nongold
+12	increase means more	nongold
+13	Oil, coal, and natural gas are fossil fuels formed under what conditions?	question
+14	natural gas is a kind of fossil fuel	gold
+15	a  gas is a kind of  element	nongold
+16	fossil fuels are a nonrenewable resource	nongold
+17	pressure is a kind of condition	gold
+18	if something causes a process then that something is required for that process	nongold
+19	an event is a kind of action	nongold
+20	if something comes from something else then that something else is a source of that something	nongold
+21	coal is a nonrenewable resource	nongold
+22	fossil fuels are a kind of energy resource	nongold
+23	Oil, coal, and natural gas are fossil fuels formed under what conditions?	question
+24	a process is a kind of event	nongold
+25	products are formed; are produced; are created	nongold
+26	natural gas is used for generating electricity by burning in a power plant	nongold
+27	an increase is a kind of change	nongold
+28	extreme means very high in value	nongold
+29	form means kind	nongold
+30	gas is a kind of substance	nongold
+31	oil is a nonrenewable resource	nongold
+32	hot means high in heat energy; temperature	gold
+33	natural gas is a kind of fossil fuel	gold
+34	sulfur dioxide is formed by the combustion of fossil fuels	nongold
+35	oil is  insoluble in water	nongold
+36	high temperature and high pressure	answer
+37	heat means heat energy	nongold
+38	coal is a kind of fossil fuel	gold
+39	temperature is a kind of condition	gold
+40	oxygen is a kind of gas at room temperature	nongold
+41	high temperature and high pressure	answer
+42	hot means high in heat energy; temperature	gold
+43	fossil fuels release carbon dioxide into the atmosphere	nongold
+44	if something releases something else then that something is the source of that something else	nongold
+45	Oil, coal, and natural gas are fossil fuels formed under what conditions?	question
+46	temperature is a kind of condition	gold
+47	natural gas is a kind of fossil fuel	gold
+48	to make means to form	nongold
+49	petroleum is a kind of fossil fuel	nongold
+50	pressure is a kind of condition	gold
+51	coal is a kind of fossil fuel	gold
+52	gasoline is a kind of fuel	nongold
+53	fuel is a kind of energy source	nongold
+54	a fuel is used to make energy	nongold
+55	coal is a kind of fossil fuel	gold
+56	to be made of something means to be formed of that something	nongold
+57	hot means high in heat energy; temperature	gold
+58	natural gas is used for cooking food by burning	nongold
+59	oil is a kind of liquid	nongold
+60	the formation of something is a kind of process	nongold

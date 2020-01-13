@@ -1,0 +1,60 @@
+0	instruction is a kind of information	nongold
+1	length is a property of the shape of an object	gold
+2	a meter is a kind of unit for measuring distance; measuring length	gold
+3	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+4	recording an observation sometimes requires measuring	gold
+5	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+6	a meter is a kind of unit for measuring distance; measuring length	gold
+7	a classroom is a kind of a room	gold
+8	unit is similar to part	nongold
+9	Which SI unit would be most appropriate for recording the length of a typical classroom?	question
+10	a student is a kind of human	nongold
+11	a string is usually short in length with values between 2.0 and 1000 cm	nongold
+12	meter	answer
+13	instrument means device	nongold
+14	a classroom is a kind of a room	gold
+15	measuring sometimes requires  recording; learning an amount	nongold
+16	a ruler is a kind of tool for measuring length	nongold
+17	a centimeter is used for measuring short lengths; short distances	nongold
+18	answering questions requires information	nongold
+19	angstrom ( Å ) is a metric unit used for measuring wavelength; interatomic distance; length; distance	nongold
+20	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+21	Which SI unit would be most appropriate for recording the length of a typical classroom?	question
+22	property is similar to measurement	nongold
+23	a measurement is a kind of data	nongold
+24	a living thing is a kind of object	nongold
+25	a tape measure is a kind of tool for measuring distance; measuring length	nongold
+26	Which SI unit would be most appropriate for recording the length of a typical classroom?	question
+27	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+28	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+29	a type is synonymous with a kind	nongold
+30	a classroom is a kind of a room	gold
+31	liters are a kind of unit for measuring volume of liquids	nongold
+32	Which SI unit would be most appropriate for recording the length of a typical classroom?	question
+33	an instrument is a piece of equipment	nongold
+34	a measure of time is a length of time	nongold
+35	long means great in length	nongold
+36	longest means greatest in length	nongold
+37	length is a property of the shape of an object	gold
+38	recording an observation sometimes requires measuring	gold
+39	thin means small in width	nongold
+40	femtometers ( fm ) are an  SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+41	a meter is a kind of unit for measuring distance; measuring length	gold
+42	a centimeter is a kind of unit of measurement	nongold
+43	meter	answer
+44	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+45	typically means usually	nongold
+46	hertz ( Hz ) is an SI unit used for measuring the frequency of a wave	nongold
+47	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+48	most means over 50% of something	nongold
+49	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+50	measuring is used for describing an object	nongold
+51	length is a property of the shape of an object	gold
+52	meter	answer
+53	degrees kelvin ( K ) is an SI unit used for measuring temperature generally used for values between 0.0 and 50000000.0	nongold
+54	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+55	recording an observation sometimes requires measuring	gold
+56	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+57	objects are made of materials; substances; matter	nongold
+58	wider means greater in width	nongold
+59	meter	answer

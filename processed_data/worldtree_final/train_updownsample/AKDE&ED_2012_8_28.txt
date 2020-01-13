@@ -1,0 +1,58 @@
+0	decomposing is similar to separating	nongold
+1	a solution is a kind of mixture	nongold
+2	alloy is a kind of mixture	nongold
+3	It was a mixture.	answer
+4	to disperse means to separate	nongold
+5	boiling is a kind of phase change	nongold
+6	new means different from the former one	nongold
+7	freezing point is a property of a substance; material	nongold
+8	a mixture is a kind of substance	gold
+9	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+10	a liquid is a kind of substance	nongold
+11	to produce means to result in	nongold
+12	a mixture usually is made of objects with different physical properties	nongold
+13	heating means adding heat	nongold
+14	if two substances together form a mixture then those substances can be separated from one another by physical changes	gold
+15	if two substances together form a mixture then those substances can be separated from one another by physical changes	gold
+16	state of matter means physical state	nongold
+17	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+18	evaporation can be used for separating a mixture of a liquid and a solid	nongold
+19	matter; materials; substances are made of atoms; particles	nongold
+20	It was a mixture.	answer
+21	can be means able to be	gold
+22	a mixture is a kind of substance	gold
+23	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+24	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+25	It was a mixture.	answer
+26	classifying is when one sorts something by kind; type	gold
+27	particles in objects are a kind of matter	nongold
+28	mixture means solids combined together that maintain their physical properties	nongold
+29	the air is a kind of mixture	nongold
+30	if two substances together form a mixture then those substances can be separated from one another by physical changes	gold
+31	material means substance	nongold
+32	It was a mixture.	answer
+33	a solid is a kind of substance	nongold
+34	heat energy is synonymous with thermal energy	nongold
+35	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+36	melting point can be used to identify a pure substance	nongold
+37	During a lab investigation a scientist heats a solid substance. The scientist observes that the solid has two different melting points. The scientist is able to separate the two resulting liquids. Which statement best classifies the original solid substance?	question
+38	to change means to become different	nongold
+39	a mixture of solids can be easily separated	nongold
+40	liquid is a kind of state of matter	nongold
+41	opposite is a kind of different	nongold
+42	can be means able to be	gold
+43	the boiling point of water is 212F; 100C; 373K	nongold
+44	can be means able to be	gold
+45	During a lab investigation a scientist heats a solid substance. The scientist observes that the solid has two different melting points. The scientist is able to separate the two resulting liquids. Which statement best classifies the original solid substance?	question
+46	to tell the difference between things means to classify those things	nongold
+47	variable means able to change	nongold
+48	boiling is when liquids are heated above their boiling point	nongold
+49	classifying is when one sorts something by kind; type	gold
+50	classifying is a kind of science process	nongold
+51	During a lab investigation a scientist heats a solid substance. The scientist observes that the solid has two different melting points. The scientist is able to separate the two resulting liquids. Which statement best classifies the original solid substance?	question
+52	a mixture is a kind of substance	gold
+53	to decompose means to separate	nongold
+54	classifying is when one sorts something by kind; type	gold
+55	melting is a kind of process	nongold
+56	During a lab investigation a scientist heats a solid substance. The scientist observes that the solid has two different melting points. The scientist is able to separate the two resulting liquids. Which statement best classifies the original solid substance?	question
+57	both means two	nongold

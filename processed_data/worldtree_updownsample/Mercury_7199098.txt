@@ -1,0 +1,63 @@
+0	hydrogen contains chemical energy	nongold
+1	if something requires something else then that something else may be common in that something	gold
+2	Nuclear fusion is the source of energy for stars. Besides hydrogen, which other element is most likely also common in stars?	question
+3	if something requires something else then that something requires a source of that something else	gold
+4	a star requires energy	gold
+5	if something requires something else then that something else may be common in that something	gold
+6	nuclear fusion converts hydrogen into helium	nongold
+7	Nuclear fusion is the source of energy for stars. Besides hydrogen, which other element is most likely also common in stars?	question
+8	helium	answer
+9	a star requires energy	gold
+10	a cluster of stars is made of stars	nongold
+11	hydrogen is a kind of gas at room temperature	nongold
+12	a star requires energy	gold
+13	nuclear fusion is a kind of nuclear reaction	nongold
+14	nitrogen is a kind of element	nongold
+15	nuclear fusion is a kind of process	nongold
+16	if something requires something else then that something requires a source of that something else	gold
+17	if something requires something else then that something requires a source of that something else	gold
+18	yellow dwarf is a kind of small star	nongold
+19	nuclear fusion causes star formation	nongold
+20	all elements are a kind of pure substance	nongold
+21	products are formed; are produced; are created	nongold
+22	helium; neon; argon; krypton; xenon; radon is located in noble gases family; group 18 on the periodic table	nongold
+23	a component means a part of	nongold
+24	if something transfers something else then that something is a source of something else	nongold
+25	matter; materials; substances are made of atoms; particles	nongold
+26	a star is a kind of celestial object; celestial body	nongold
+27	a white dwarf is a kind of star	nongold
+28	light is a kind of energy	nongold
+29	to cause means to make	nongold
+30	helium	answer
+31	Nuclear fusion is the source of energy for stars. Besides hydrogen, which other element is most likely also common in stars?	question
+32	nitrogen is a kind of gas	nongold
+33	nuclear fusion is when atomic nuclei of low atomic number fuse	gold
+34	helium has a low atomic number	gold
+35	nuclear fusion is a source of energy	nongold
+36	nuclear energy is a kind of energy	nongold
+37	nuclear fusion is when atomic nuclei of low atomic number fuse	gold
+38	nuclear fusion is a kind of process	nongold
+39	helium	answer
+40	helium is a kind of element	gold
+41	if something requires something else then that something else may be common in that something	gold
+42	nuclear reactions in stars causes stars to produce light; energy; nuclear energy	nongold
+43	to be formed by is similar to being produced by	nongold
+44	hydrogen is a kind of element	nongold
+45	the sun is made of hydrogen and helium	nongold
+46	nuclear fusion is when atomic nuclei of low atomic number fuse	gold
+47	atom cannot be divided into smaller substances	nongold
+48	if an event is more common then that event will occur more frequently	nongold
+49	converting is similar to producing	nongold
+50	Nuclear fusion is the source of energy for stars. Besides hydrogen, which other element is most likely also common in stars?	question
+51	helium	answer
+52	nuclear fusion in a star's core generates energy for the star to (burn, shine)	nongold
+53	helium is a kind of element	gold
+54	helium is a kind of element	gold
+55	an element is a kind of material	nongold
+56	helium has a low atomic number	gold
+57	helium has a low atomic number	gold
+58	to create means to make	nongold
+59	carbon is a kind of element	nongold
+60	to be used for something means to be required by that something	nongold
+61	a supernova is formed by a star exploding	nongold
+62	different substances usually have different amount of chemical energy	nongold

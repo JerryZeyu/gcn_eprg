@@ -1,0 +1,101 @@
+0	a toe is a part of some animals	nongold
+1	furthest; farthest means greatest; most; highest in distance	nongold
+2	objects in an environment are a part of that environment	nongold
+3	travel means to move	nongold
+4	an animal is a member of an animal species	nongold
+5	to help means to aid	nongold
+6	a reptile is a kind of animal	nongold
+7	a turtle is a kind of omnivore	nongold
+8	a crab is a kind of water animal	nongold
+9	a shell is a part of a  turtle for protecting the turtle	nongold
+10	habitat is similar to environment	gold
+11	an ocean is a kind of body of water	gold
+12	a bird is a kind of living thing	nongold
+13	a bird is a kind of animal	nongold
+14	faster means an increase; higher in speed	nongold
+15	webbed feet are used for moving faster through water by aquatic animals	nongold
+16	an increase is a kind of change	nongold
+17	helping means something can be done; completed more easily; better	nongold
+18	surroundings means environment	nongold
+19	an object is made of its parts	nongold
+20	a motion is a kind of event; action	nongold
+21	alligators eat frogs; turtles; fish; mice; birds	nongold
+22	muscular movement helps animals move	nongold
+23	to add means to increase	nongold
+24	harming something has a  negative impact on; effect on that something	nongold
+25	motion; movement means moving; to move	nongold
+26	flippers are used for moving  in water	gold
+27	a shell is a part of some animals	nongold
+28	an environment means an area	nongold
+29	a surface is a part of an object	nongold
+30	walking is a kind of motion	nongold
+31	an ocean is a kind of habitat	nongold
+32	a sea turtle lives in the ocean	gold
+33	a sea turtle is a kind of animal	gold
+34	an part of an object is smaller than the entire object	nongold
+35	an environment is similar to an ecosystem	nongold
+36	an environment is a kind of place	nongold
+37	to place in is similar to to move to	nongold
+38	an animal is a kind of organism	gold
+39	an alligator is a kind of aquatic animal	nongold
+40	an organism is a living thing	nongold
+41	to lower means to decrease	nongold
+42	high is similar to increase	nongold
+43	moving is similar to travelling	nongold
+44	to be used  for something means to help to do that something	nongold
+45	speed is a measure of how fast an object is moving	nongold
+46	requiring is similar to needing help	nongold
+47	landform means surface feature; physical feature; land feature	nongold
+48	less is similar to decrease	nongold
+49	affected means changed	nongold
+50	organisms are a part of an environment	nongold
+51	a flipper is a kind of limb	nongold
+52	sea means ocean	nongold
+53	trait is synonymous with characteristic	nongold
+54	ocean animal is similar to water animal	nongold
+55	flippers are a part of a  sea turtle	gold
+56	larger means greater; higher; more; increase in size	nongold
+57	greater means higher; more in value	nongold
+58	aquatic animal means water animal	nongold
+59	A sea turtle's flippers	answer
+60	motion is when moves an object; something to a direction	nongold
+61	an aquatic animal is a kind of animal	nongold
+62	largest amount means most	nongold
+63	a mollusk is a kind of animal	nongold
+64	distance moved; distance travelled is a measure of how far an object moves	nongold
+65	helping something has a  positive impact on that something	nongold
+66	pulling is a kind of motion	nongold
+67	increase means more	nongold
+68	setting is a kind of motion	nongold
+69	an animal is a kind of living thing	nongold
+70	an amphibian is a kind of animal	nongold
+71	feature is synonymous with characteristic	nongold
+72	a structure is a kind of feature	gold
+73	a kind of something is an example of that something	nongold
+74	an animal requires energy to move	nongold
+75	a turtle is a kind of animal	nongold
+76	characteristic means property	nongold
+77	an ecosystem is a kind of habitat	nongold
+78	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+79	an ecosystem contains a large community of; large numbers of living organisms	nongold
+80	low is similar to decrease	nongold
+81	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+82	less is the opposite of more	nongold
+83	a living thing is a kind of object	nongold
+84	to slow; to slow down decreases speed	nongold
+85	a turtle is a kind of reptile	nongold
+86	organisms; living things live in their habitat; their home	gold
+87	a property of something is a feature of that something	nongold
+88	to reduce means to decrease	nongold
+89	to help; to benefit means to be of use	gold
+90	a mollusk has a muscular foot	nongold
+91	can be means able to be	nongold
+92	most means over 50% of something	nongold
+93	a snail is a kind of animal	nongold
+94	Which of the following animal features most helps the animal move around in its habitat?	question
+95	an animal; living thing requires nutrients for survival	nongold
+96	a structure of something is synonymous with a part of that something	gold
+97	if an object is made of something then the parts of that object are made of that something	nongold
+98	muscles push; pull bones to move the bones	nongold
+99	an increase is the opposite of a decrease	nongold
+100	if a living thing requires something then that something has a positive impact on that living thing	nongold

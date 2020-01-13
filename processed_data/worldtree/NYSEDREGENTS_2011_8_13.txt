@@ -1,0 +1,102 @@
+Question	Animals may fight, make threatening sounds, and act aggressively toward members of the same species. These behaviors usually occur as the result of	question
+Answer	competition	answer
+0	competition may cause animals to fight; to make threatening sounds; to act aggressively towards members of their own species	gold
+1	to cause means to result in	gold
+2	an threat threatens	nongold
+3	to cause means to make	nongold
+4	threatening behavior causes a fight-or-flight response in animals	nongold
+5	an animal is a member of an animal species	nongold
+6	result means outcome	nongold
+7	to impact means to affect	nongold
+8	to happen means to occur	nongold
+9	a behavior is a kind of characteristic	nongold
+10	a result of something is evidence of that something	nongold
+11	to produce means to result in	nongold
+12	if two animals eat the same prey then those animals compete for that prey	nongold
+13	actions mean behavior	gold
+14	an animal is a kind of organism	nongold
+15	to act on means to affect	nongold
+16	as the population of prey decreases , competition between predators will increase	nongold
+17	an animal is a kind of living thing	nongold
+18	causing means influencing	nongold
+19	an organism is a living thing	nongold
+20	harming something has a  negative impact on; effect on that something	nongold
+21	to cause means to have an effect	nongold
+22	impact means effect	nongold
+23	a living thing is a kind of object	nongold
+24	trait is synonymous with characteristic	nongold
+25	to change means to have an effect	nongold
+26	species means a group of like organisms	nongold
+27	an increase is the opposite of a decrease	nongold
+28	to be formed by is to be the result of	nongold
+29	threatening the existence of an organism has a negative impact on that organism	nongold
+30	to hurt means to harm	nongold
+31	if two animals have the same food source then those two animals compete for food	nongold
+32	an enemy is a threat	nongold
+33	a bird is a kind of animal	nongold
+34	a human is a kind of animal	nongold
+35	causing is a kind of affecting	nongold
+36	negative impact is the opposite of positive impact	nongold
+37	a living thing surviving has a positive impact on that living thing's ability to compete for resources	nongold
+38	if something has no impact on something else then that something else stays the same	nongold
+39	species is an inherited characteristic	nongold
+40	a learned characteristic is a kind of acquired characteristic	nongold
+41	product means result	nongold
+42	high is similar to increase	nongold
+43	a mammal is a kind of animal	nongold
+44	change is a kind of impact	nongold
+45	something that happens is a kind of event	nongold
+46	low is similar to decrease	nongold
+47	an event is a kind of action	nongold
+48	threatening behavior by predators causes a porcupine to extend its quills	nongold
+49	decreasing something is similar to fighting something	nongold
+50	events occur at a specific place; at a specific time; with a specific frequency	nongold
+51	danger has a negative impact on a thing	nongold
+52	fighting is a kind of action	gold
+53	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+54	to change means to become different	nongold
+55	answering questions requires information	nongold
+56	noise means sound	nongold
+57	to cause an event is similar to being involved in that event	nongold
+58	different is the opposite of the same	nongold
+59	affected means changed	nongold
+60	a reptile is a kind of animal	nongold
+61	a plant is a member of a plant species	nongold
+62	a negative impact is a kind of consequence; risk	nongold
+63	what an object is made of is a kind of characteristic	nongold
+64	as the sharpness of a bird's beak increases , the ability of the bird to compete for food will increase	nongold
+65	Natural selection is when organisms with beneficial traits survive competition to  reproduce and pass their beneficial traits onto their offispring; the successive generation	nongold
+66	desirable result means positive impact	nongold
+67	as competition for resources decreases , the ability to compete for resources will increase	nongold
+68	a predator is a kind of animal	nongold
+69	selective means of selection	nongold
+70	a bird is a kind of living thing	nongold
+71	an increase is a kind of change	nongold
+72	action can cause change	nongold
+73	mammals is a kind of class	nongold
+74	having an impact on something means altering that something	nongold
+75	a plant is a kind of organism	nongold
+76	an inherited characteristic is a kind of characteristic	nongold
+77	conditioned behavior is a kind of learned behavior	nongold
+78	to attract females; males means to attract mates	nongold
+79	characteristic means property	nongold
+80	If an organism survives competition for resources then this organism will survive; reproduce for  natural selection	nongold
+81	to cause an event means to make that event more likely	nongold
+82	to reduce means to decrease	nongold
+83	if something affects a part of something else then that something affects that something else	nongold
+84	intense means extreme	nongold
+85	a lizard is a kind of animal	nongold
+86	a frog is a kind of animal	nongold
+87	if a living thing requires something then that something has a positive impact on that living thing	nongold
+88	to enhance means to increase	nongold
+89	to keep something occurring means to cause that something to occur	nongold
+90	if something changes , then that something is not the same	nongold
+91	if something is made by something else then that something is affected by that something else	nongold
+92	a factor impacts something	nongold
+93	influence means impact	nongold
+94	to change means to cause a change	nongold
+95	an amphibian is a kind of animal	nongold
+96	less is similar to decrease	nongold
+97	producing is similar to causing	nongold
+98	animal instinct means instinctive behavior	nongold
+99	a decrease is a kind of change	nongold

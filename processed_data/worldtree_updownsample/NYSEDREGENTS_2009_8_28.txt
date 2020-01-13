@@ -1,0 +1,55 @@
+0	a human is a kind of mammal	nongold
+1	one is a kind of number	nongold
+2	genes	answer
+3	a human is a kind of animal	gold
+4	In humans, a trait can be determined by one pair or many pairs of	question
+5	an allele can be a dominant gene	nongold
+6	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+7	amount is similar to number	nongold
+8	trait is a kind of genetic information	nongold
+9	alleles are found at the same place on a chromosome	nongold
+10	answering questions requires information	nongold
+11	traits can be determined by one pair; many pairs of genes in an organism	gold
+12	genes	answer
+13	an animal is a kind of living thing	nongold
+14	identifying is similar to determining	nongold
+15	a behavior is a kind of characteristic	nongold
+16	an animal is a kind of organism	gold
+17	genes	answer
+18	a human is a kind of animal	gold
+19	traits can be determined by one pair; many pairs of genes in an organism	gold
+20	determine is similar to cause	nongold
+21	genes	answer
+22	a human is a kind of animal	gold
+23	variable means able to change	nongold
+24	In humans, a trait can be determined by one pair or many pairs of	question
+25	unique  is the opposite of diverse	nongold
+26	feature is synonymous with characteristic	nongold
+27	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+28	an animal is a kind of organism	gold
+29	genotype of  an organism means the genes of  an organism	nongold
+30	an allele is a kind of gene	nongold
+31	mammals is a kind of class	nongold
+32	a  chromosome contains genes	nongold
+33	four is a kind of number	nongold
+34	a heterozygous organism contains both dominant and recessive genes	nongold
+35	to be formed by is similar to being produced by	nongold
+36	genes are located on chromosomes	nongold
+37	a plant is a kind of organism	nongold
+38	traits can be determined by one pair; many pairs of genes in an organism	gold
+39	a learned characteristic is a kind of acquired characteristic	nongold
+40	inherited characteristics are a kind of hereditary information	nongold
+41	reproductive behavior is an inherited characteristic	nongold
+42	according to is similar to be determined by	nongold
+43	human is similar to individual	nongold
+44	a somatic cell of a human contains 23 pairs of; 46  chromosomes	nongold
+45	an allele is formed by mutation	nongold
+46	genetic variation in offspring has a positive impact on an organism's; offspring's survival; health; ability to reproduce	nongold
+47	In humans, a trait can be determined by one pair or many pairs of	question
+48	a type is synonymous with a kind	nongold
+49	an animal is a kind of organism	gold
+50	a component means a part of	nongold
+51	In humans, a trait can be determined by one pair or many pairs of	question
+52	both means two	nongold
+53	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+54	genes are made of DNA	nongold

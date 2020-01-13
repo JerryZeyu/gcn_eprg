@@ -1,0 +1,58 @@
+0	fuel is a kind of energy source	nongold
+1	wind is used for producing electricity	nongold
+2	land area means land mass	nongold
+3	must have means require	nongold
+4	burning fossil fuels increases the carbon in the atmosphere	nongold
+5	a disadvantage is  a negative impact	gold
+6	less means a reduced amount	nongold
+7	if something is powered by something else then that something requires a source of that something else	nongold
+8	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+9	if something is a raw material in a process then that something is required for that process	nongold
+10	area; space is a kind of resource	gold
+11	Wind turbine farms require a lot of area compared to how much energy they produce.	answer
+12	running requires a lot of energy	nongold
+13	green plants are a kind of producer	nongold
+14	an environment means an area	nongold
+15	wind turbine farms require a lot of area	gold
+16	Wind turbines are being used to generate electricity in many parts of the United States. One advantage of wind turbines is that no fossil fuels are burned. Which of the following is a disadvantage of wind turbines?	question
+17	converting is similar to producing	nongold
+18	advantage has a positive impact on something	nongold
+19	electricity means electrical energy	nongold
+20	to be required means to be necessary	nongold
+21	a disadvantage is  a negative impact	gold
+22	wind turbine farms require a lot of area	gold
+23	if something emits something else then that something increases the amount of that something else	nongold
+24	generating power is a kind of positive impact	nongold
+25	to power means to provide energy for	nongold
+26	generate means produce	nongold
+27	Wind turbine farms require a lot of area compared to how much energy they produce.	answer
+28	if an industry requires a resource then that industry predominates in areas with an abundance of that resource	nongold
+29	low is similar to decrease	nongold
+30	area; space is a kind of resource	gold
+31	a fossil fuel is a kind of natural resource	nongold
+32	causing is similar to generating	nongold
+33	increase means more	nongold
+34	producing crops requires using farm land	nongold
+35	natural gas is a kind of fossil fuel	nongold
+36	electrical energy is a kind of energy	nongold
+37	wind is a source of energy	nongold
+38	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+39	little is similar to decrease	nongold
+40	requiring too much of a resource has a negative impact on the availiability of that resource	gold
+41	to lower means to decrease	nongold
+42	Wind turbines are being used to generate electricity in many parts of the United States. One advantage of wind turbines is that no fossil fuels are burned. Which of the following is a disadvantage of wind turbines?	question
+43	requiring too much of a resource has a negative impact on the availiability of that resource	gold
+44	a disadvantage is  a negative impact	gold
+45	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+46	wind is a renewable; inexhaustible resource	nongold
+47	Wind turbines are being used to generate electricity in many parts of the United States. One advantage of wind turbines is that no fossil fuels are burned. Which of the following is a disadvantage of wind turbines?	question
+48	negative impact is the opposite of positive impact	nongold
+49	less is the opposite of more	nongold
+50	wind turbine farms require a lot of area	gold
+51	an energy source is a kind of resource	nongold
+52	Wind turbines are being used to generate electricity in many parts of the United States. One advantage of wind turbines is that no fossil fuels are burned. Which of the following is a disadvantage of wind turbines?	question
+53	requiring too much of a resource has a negative impact on the availiability of that resource	gold
+54	area; space is a kind of resource	gold
+55	fossil fuels are a nonrenewable resource	nongold
+56	Wind turbine farms require a lot of area compared to how much energy they produce.	answer
+57	Wind turbine farms require a lot of area compared to how much energy they produce.	answer

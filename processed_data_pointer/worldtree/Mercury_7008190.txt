@@ -1,0 +1,102 @@
+Question	An astronomical unit	question
+Answer	refers to the distance between	answer
+0	astronomical unit is a measure of distance between Earth and the Sun	gold
+1	astronomy is the study of celestial (objects, bodies)	nongold
+2	astronomical body means celestial body	nongold
+3	a planet is a kind of celestial object; body	nongold
+4	a star is a kind of celestial object; celestial body	nongold
+5	Earth is a kind of planet	nongold
+6	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+7	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+8	angstrom ( Å ) is a metric unit used for measuring wavelength; interatomic distance; length; distance	nongold
+9	stars are located light years apart from each other	nongold
+10	the Sun is a kind of star	nongold
+11	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+12	astronomy is a kind of branch of science	nongold
+13	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+14	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+15	days are a kind of unit for measuring time	nongold
+16	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+17	answering questions requires information	nongold
+18	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+19	the Sun is the  star that is closest to Earth	nongold
+20	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+21	seconds are a kind of unit for measuring time	nongold
+22	a galaxy is a kind of celestial body; celestial object	nongold
+23	hours are a kind of unit for measuring time	nongold
+24	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+25	a meter is a kind of unit for measuring distance; measuring length	nongold
+26	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+27	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+28	months are a kind of unit for measuring time	nongold
+29	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+30	celestial bodies; celestial objects are found in space	nongold
+31	measuring is used for describing an object	nongold
+32	form means kind	nongold
+33	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+34	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+35	years are a kind of unit for measuring time	nongold
+36	miles are a kind of unit for measuring distance	nongold
+37	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+38	length is a measure of distance from one end of an object to the other end of that object	nongold
+39	can be means able to be	nongold
+40	planets orbit stars	nongold
+41	quantity means amount	nongold
+42	furthest; farthest means greatest; most; highest in distance	nongold
+43	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+44	distance is a property of space and includes ordered values of close; far	nongold
+45	seconds are used to measure time	nongold
+46	unit is similar to part	nongold
+47	minutes are a kind of unit for measuring time	nongold
+48	instrument means device	nongold
+49	nanometers ( nm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+50	greatest means largest; highest; most amount of something	nongold
+51	a galaxy is a kind of celestial body	nongold
+52	a light-year is used for describing long distances	nongold
+53	proximity means distance	nongold
+54	approximately means about	nongold
+55	degrees celsius ( C ) is a metric unit used for measuring temperature generally used for values between -273.0 and 50000000.0	nongold
+56	distant means great in distance	nongold
+57	a unit for measuring time is a kind of time interval	nongold
+58	size; amount of space means volume	nongold
+59	the location of an object can be used to describe that object	nongold
+60	a measure of time is a length of time	nongold
+61	length of time means period of time	nongold
+62	calculation means measurement	nongold
+63	Mars is a kind of planet	nongold
+64	affected means changed	nongold
+65	milliliters ( mL ) is a metric unit used for measuring volume generally used for values between 1.0 and 1000.0	nongold
+66	variable means able to change	nongold
+67	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+68	length is a part of size	nongold
+69	motion is when moves an object; something to a direction	nongold
+70	far means great in distance	nongold
+71	a gram  is a kind of unit for measuring mass	nongold
+72	a quasar is a kind of distant celestial object; celestial body	nongold
+73	indefinite means variable	nongold
+74	altitude is the distance from the ground to an object in the sky	nongold
+75	a type is synonymous with a kind	nongold
+76	matter; materials; substances are made of atoms; particles	nongold
+77	the space between the Sun and earth is a vacuum	nongold
+78	far is the opposite of close	nongold
+79	a planet's distance from the star causes the length of a planetary year	nongold
+80	to give is similar to to cause	nongold
+81	galaxies are usually thousands of light years in diameter	nongold
+82	joules ( J ) are an  SI unit used for measuring mechanical energy; work generally used for values between 1.0 and 1000.0	nongold
+83	Earth is the planet that is third closest to the  Sun	nongold
+84	the sun is a kind of yellow dwarf	nongold
+85	interatomic means existing or acting between atoms	nongold
+86	the properties of something can be used to identify; used to describe that something	nongold
+87	an ounce is a kind of unit for measuring mass	nongold
+88	if two objects are apart from each other then matter is between those two objects	nongold
+89	Jupiter is a kind of planet	nongold
+90	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+91	to add means to increase	nongold
+92	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+93	period is similar to amount of time	nongold
+94	near; close is the opposite of far; away	nongold
+95	galaxies are located  millions of light years from Earth	nongold
+96	information is used to describe something	nongold
+97	provide is similar to give; make	nongold
+98	the properties of something are used for describing that something	nongold
+99	latitude is a property of a location; place on Earth	nongold

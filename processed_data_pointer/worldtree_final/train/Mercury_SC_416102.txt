@@ -1,0 +1,102 @@
+0	a tree contains wood	nongold
+1	roots	answer
+2	a plant requires soil for survival; to grow	nongold
+3	a metal is a kind of element	nongold
+4	to be formed by is similar to being produced by	nongold
+5	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+6	a part of a living thing is a natural structure	nongold
+7	a part of a process means a stage in a process	nongold
+8	to produce means to provide	nongold
+9	harming something has a  negative impact on; effect on that something	nongold
+10	a leaf is a kind of plant	nongold
+11	a plant is a member of a plant species	nongold
+12	an object is made of its parts	nongold
+13	providing something means making;delivering something	nongold
+14	what something needs is a property of that something	nongold
+15	unit is similar to part	nongold
+16	metal is a kind of material	nongold
+17	a type is synonymous with a kind	nongold
+18	taking is the opposite of giving; leaving	nongold
+19	all living things grow	nongold
+20	roots are a part of a plant; tree	gold
+21	green plants are a kind of producer	nongold
+22	a component means a part of	nongold
+23	a leaf is a part of a  green plant	nongold
+24	a plant; living thing requires nutrients to grow	nongold
+25	steel is a kind of metal	nongold
+26	taking in something means acquiring that something	nongold
+27	growth means size;number;value;strength increases	nongold
+28	iron is more dense than water	nongold
+29	iron is a kind of metal	nongold
+30	an object; material; substance comes from that object or material's source	nongold
+31	if something requires something else then that something requires a source of that something else	nongold
+32	some species of tree are deciduous	nongold
+33	a plant requires water to grow	nongold
+34	if an object is made of something then the parts of that object are made of that something	nongold
+35	an animal is a kind of living thing	nongold
+36	iron in contact with water and oxygen will rust	nongold
+37	take apart means break down	nongold
+38	plants are a part of the environment	nongold
+39	a plant is a kind of organism	nongold
+40	an organism requires energy for growth; repair	nongold
+41	vegetation means plants	nongold
+42	take in means absorb	gold
+43	a source of something emits; produces; generates; provides that something	nongold
+44	to give off means to be the source of	nongold
+45	ferrous metals contain iron	nongold
+46	to be used for something means to be required by that something	nongold
+47	Plants need iron to grow. What parts of plants take in iron?	question
+48	chemical weathering causes iron in rock to oxidize	nongold
+49	metal is a kind of substance	nongold
+50	metal is a nonrenewable resource	nongold
+51	copper is a kind of metal	nongold
+52	iron is a kind of element	nongold
+53	taking in and releasing means exchanging	nongold
+54	if something gains something from something else then that something else is a source of that something	nongold
+55	if a living thing requires something then that something has a positive impact on that living thing	nongold
+56	forming is similar to growing	nongold
+57	structure is a property of an object; a material; a substance	nongold
+58	iron is a kind of mineral	gold
+59	to depend on; to rely on; to need means to require	nongold
+60	a leaf is a part of a tree	nongold
+61	requiring something means needing that something	nongold
+62	a stem is often a part of plant	nongold
+63	a whole is formed by its parts	nongold
+64	high is similar to increase	nongold
+65	plant parts are made of plants	nongold
+66	a tree is a kind of plant	nongold
+67	if something causes a process then that something is required for that process	nongold
+68	growing is a kind of process	nongold
+69	a branch is a part of a tree	nongold
+70	taking in something means receiving; absorbing; getting something	nongold
+71	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+72	a plant is a kind of living thing	nongold
+73	to provide something means to be the source of that something	nongold
+74	requiring is similar to needing help	nongold
+75	if something is a raw material in a process then that something is required for that process	nongold
+76	an organism is a living thing	nongold
+77	aluminum is a kind of metal	nongold
+78	an part of an object is smaller than the entire object	nongold
+79	a tree is a kind of living thing	nongold
+80	a root is a kind of object	nongold
+81	metals are made of metal	nongold
+82	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+83	growth is a kind of process	nongold
+84	iron is a kind of solid	nongold
+85	a living thing is a kind of object	nongold
+86	a leaf is a kind of object	nongold
+87	rocks sometimes contain iron	nongold
+88	metal is a kind of natural resource	nongold
+89	a plant requires photosynthesis to grow; survive	nongold
+90	a structure of something is synonymous with a part of that something	nongold
+91	a plant; living thing requires food for survival	nongold
+92	zinc is a kind of metal	nongold
+93	a component of something means a part of that something	nongold
+94	a plants; living things require water for survival; to grow	nongold
+95	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+96	an animal; living thing requires nutrients for survival	nongold
+97	take away means decreasing	nongold
+98	make means produce	nongold
+99	a producer is a kind of living thing	nongold
+100	growing means a plant's height;mass;size increase	nongold
+101	when a plant grows , the roots of that plant may become longer	nongold

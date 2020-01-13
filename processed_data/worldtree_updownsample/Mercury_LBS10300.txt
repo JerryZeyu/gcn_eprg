@@ -1,0 +1,58 @@
+0	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+1	to reflect light means to scatter light	nongold
+2	stellar means related to stars	nongold
+3	an event is a kind of action	nongold
+4	UV light is a kind of light	nongold
+5	light is a kind of electromagnetic radiation	nongold
+6	astronomical body means celestial body	gold
+7	to be a source of something means to cause that something	nongold
+8	a star is a source of light; light energy through nuclear reactions	nongold
+9	solar energy is a kind of heat energy	nongold
+10	an part of an object is smaller than the entire object	nongold
+11	yellow dwarf is a kind of small star	nongold
+12	massive is similar to large	nongold
+13	small is the opposite of large	nongold
+14	generate means produce	nongold
+15	a star is a kind of celestial object; celestial body	gold
+16	A star is a large astronomical body that	question
+17	if something comes from something else then that something else is a source of that something	nongold
+18	a moon is a kind of celestial object; body	nongold
+19	a type is synonymous with a kind	nongold
+20	light is a kind of wave	nongold
+21	emit means produce	gold
+22	if something generates energy for something else then that something powers that something else	nongold
+23	bright means a lot of light	nongold
+24	the Sun is a kind of star	nongold
+25	a star produces light and heat	gold
+26	main-sequences stars are a kind of star	nongold
+27	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+28	to be formed by is similar to being produced by	nongold
+29	a yellow dwarf is a kind of main-sequence star	nongold
+30	to emit means to release	nongold
+31	cycles of day and night occur once per day	nongold
+32	A star is a large astronomical body that	question
+33	emit means produce	gold
+34	emits light.	answer
+35	a star produces light and heat	gold
+36	astronomy is a kind of branch of science	nongold
+37	a process is a kind of event	nongold
+38	emits light.	answer
+39	a star produces light and heat	gold
+40	emit means produce	gold
+41	where something  comes from is a source of that something	nongold
+42	emits light.	answer
+43	a star is a kind of celestial object; celestial body	gold
+44	emits light.	answer
+45	a nebula is a kind of celestial body	nongold
+46	dim means a small amount of light	nongold
+47	astronomical body means celestial body	gold
+48	an animal is a kind of living thing	nongold
+49	A star is a large astronomical body that	question
+50	the sun rising and setting causes cycles of day and night	nongold
+51	a star is a kind of celestial object; celestial body	gold
+52	the sun is a kind of yellow dwarf	nongold
+53	A star is a large astronomical body that	question
+54	astronomical body means celestial body	gold
+55	moons are large; solid; spherical	nongold
+56	the sun is a source of light; light energy called sunlight	nongold
+57	fire gives off light; heat; smoke	nongold

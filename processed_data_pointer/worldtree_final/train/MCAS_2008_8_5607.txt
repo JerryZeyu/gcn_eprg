@@ -1,0 +1,102 @@
+0	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+1	low is similar to decrease	nongold
+2	composed of means made of	nongold
+3	astronomy is a kind of branch of science	nongold
+4	the Sun is a kind of star	nongold
+5	one in  two means half; 50%	nongold
+6	a source of something emits; produces; generates; provides that something	nongold
+7	a star is a source of light; light energy through nuclear reactions	nongold
+8	a galaxy contains dust; stars; planets	nongold
+9	galaxies are located  millions of light years from Earth	nongold
+10	matter; materials; substances are made of atoms; particles	nongold
+11	if an amount of objects decreases then those objects are fewer in number	nongold
+12	less is the opposite of more	nongold
+13	fewest means lowest; least in number	nongold
+14	the sun is a kind of yellow dwarf	nongold
+15	better means good	nongold
+16	answering questions requires information	nongold
+17	a typical galaxy contains billions of stars	gold
+18	larger means greater; higher; more; increase in size	nongold
+19	small is the opposite of large	nongold
+20	Which of the following is the best estimate of the number of stars in a typical galaxy?	question
+21	an part of an object is smaller than the entire object	nongold
+22	a spiral galaxy is a kind of galaxy	nongold
+23	lowest means least in value; amount; number	nongold
+24	system means a set of objects	nongold
+25	an increase is a kind of change	nongold
+26	small stars burn for billions of years	nongold
+27	billions	answer
+28	accounting for means making up some amount	nongold
+29	most means over 50% of something	nongold
+30	four is a kind of number	nongold
+31	a measurement is a kind of data	nongold
+32	a cluster of stars is made of stars	nongold
+33	largest amount means most	nongold
+34	furthest; farthest means greatest; most; highest in distance	nongold
+35	determining often requires measuring; observing	nongold
+36	according to is similar to be determined by	nongold
+37	mL means milliliters	nongold
+38	increase means more	nongold
+39	percents; ratios are a kind of data	nongold
+40	made up of means contains; made of	nongold
+41	many means high in number	nongold
+42	classifying is when one sorts something by kind; type	nongold
+43	an atom is a kind of object	nongold
+44	a galaxy is a kind of very large system of stars	nongold
+45	increasing is a kind of order	nongold
+46	25% probability is similar to one in four	nongold
+47	measuring is used for describing an object	nongold
+48	to measure means to calculate	nongold
+49	extreme means very high in value	nongold
+50	one is a kind of number	nongold
+51	galaxies often contain hundreds of billions of stars	nongold
+52	approximately means about	nongold
+53	the majority of is similar to largest	nongold
+54	quantity means amount	nongold
+55	a galaxy is a kind of celestial body; celestial object	nongold
+56	a billion is a kind of  number	gold
+57	Proxima Centauri is a kind of star	nongold
+58	a white dwarf is a kind of star	nongold
+59	calculating is similar to estimating	nongold
+60	if a property affects a value then that property is needed to calculate that value	nongold
+61	a star is a kind of celestial object; celestial body	nongold
+62	to add means to increase	nongold
+63	100% probability means always	nongold
+64	a star produces light and heat	nongold
+65	greater means higher; more in value	nongold
+66	a particle is a kind of object	nongold
+67	counting something usually requires seeing that something	nongold
+68	the number of parts of something is a property of that something	nongold
+69	astronomy is the study of celestial (objects, bodies)	nongold
+70	an increase is the opposite of a decrease	nongold
+71	good means positive	nongold
+72	a galaxy is a kind of celestial body	nongold
+73	amount is similar to number	nongold
+74	can be means able to be	nongold
+75	a lot means large in amount; quantity	nongold
+76	fewer means lower; less in number	nongold
+77	galaxies are usually thousands of light years in diameter	nongold
+78	an atom is the smallest particle; unit that has the properties of an element	nongold
+79	if a value decreases then that value may become; may reach zero; 0	nongold
+80	a yellow dwarf is a kind of main-sequence star	nongold
+81	how many means what number	nongold
+82	the sun is average in size for a star in our galaxy	nongold
+83	high is similar to increase	nongold
+84	a star is usually larger than a planet	nongold
+85	an event is a kind of action	nongold
+86	greatest means largest; highest; most amount of something	nongold
+87	chance means likelihood	nongold
+88	timing; multiplying is a kind of calculating	nongold
+89	a galaxy is made of stars	nongold
+90	yellow dwarf is a kind of small star	nongold
+91	a galaxy is a kind of structure	nongold
+92	a planet is a kind of celestial object; body	nongold
+93	main-sequences stars are a kind of star	nongold
+94	abundant means high in number	nongold
+95	atomic number is a property of elements	nongold
+96	level is similar to amount; quantity	nongold
+97	calculation means measurement	nongold
+98	best means most positive	nongold
+99	higher means greater; above in value; amount; number	nongold
+100	largest means greatest in size	nongold
+101	affected means changed	nongold

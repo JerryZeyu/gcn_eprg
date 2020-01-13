@@ -1,0 +1,58 @@
+0	to cause means to have an effect	nongold
+1	disease means illness	nongold
+2	a disordered immune system causes autoimmune diseases	gold
+3	immune	answer
+4	a disordered immune system causes autoimmune diseases	gold
+5	to change means to cause a change	nongold
+6	a negative impact is a kind of consequence; risk	nongold
+7	a bone is a part of a body	nongold
+8	the body is a part of an organism	nongold
+9	the skeletal system protects internal organs	nongold
+10	Rheumatoid arthritis is a disease that occurs when the body attacks its own tissues. Which body system becomes disordered first?	question
+11	the muscular system is a kind of body; organ system	nongold
+12	rheumatoid arthritis is a kind of autoimmune disease	gold
+13	an autoimmune disease is when the body attacks its own tissues	gold
+14	Rheumatoid arthritis is a disease that occurs when the body attacks its own tissues. Which body system becomes disordered first?	question
+15	Rheumatoid arthritis is a disease that occurs when the body attacks its own tissues. Which body system becomes disordered first?	question
+16	if something releases something else then that something is the source of that something else	nongold
+17	a process is a kind of event	nongold
+18	the immune system is a kind of body; human body system	gold
+19	an autoimmune disease is when the body attacks its own tissues	gold
+20	dying is the opposite of living; surviving	nongold
+21	to happen means to occur	nongold
+22	a living thing is made of cells	nongold
+23	to produce means to create	nongold
+24	a reaction is a kind of process	nongold
+25	food poisoning is a kind of illness	nongold
+26	damage has a negative impact on a thing	nongold
+27	strong means high in strength	nongold
+28	genetic disorder is a kind of disease	nongold
+29	rheumatoid arthritis is a kind of autoimmune disease	gold
+30	system is similar to structure	nongold
+31	becoming is a kind of action	nongold
+32	dysentery is a kind of illness	nongold
+33	rheumatoid arthritis is a kind of autoimmune disease	gold
+34	high is similar to increase	nongold
+35	the immune system is a kind of body; human body system	gold
+36	to hurt means to harm	nongold
+37	an organ system is made of different parts of the body working together	nongold
+38	can be means able to be	nongold
+39	immune	answer
+40	an autoimmune disease is when the body attacks its own tissues	gold
+41	a disordered immune system causes autoimmune diseases	gold
+42	creating is similar to causing	nongold
+43	due to means caused by	nongold
+44	an animal is a kind of organism	nongold
+45	an increase is the opposite of a decrease	nongold
+46	to be formed by is similar to being produced by	nongold
+47	form is similar to body	nongold
+48	to be a source of something means to cause that something	nongold
+49	immune	answer
+50	something that happens is a kind of event	nongold
+51	a body cell means a somatic cell	nongold
+52	the immune system is a kind of body; human body system	gold
+53	a brain is a kind of internal organ	nongold
+54	Rheumatoid arthritis is a disease that occurs when the body attacks its own tissues. Which body system becomes disordered first?	question
+55	damage means harm	nongold
+56	immune	answer
+57	becoming is similar to changing	nongold

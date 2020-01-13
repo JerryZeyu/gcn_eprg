@@ -1,0 +1,102 @@
+Question	A prairie dog living in a community barks loudly. Other prairie dogs nearby know that danger is near and quickly go underground to hide. Which sense are these prairie dogs using to communicate?	question
+Answer	hearing	answer
+0	hearing is used for sensing sound by animals	gold
+1	a prairie dog is a kind of animal	gold
+2	living underground can be used for hiding from predators	nongold
+3	hearing is a kind of sense	nongold
+4	hiding is a kind of protection against predators; from predators	nongold
+5	bark is a kind of sound	gold
+6	to be in danger means to be around; to be near something dangerous	nongold
+7	near means close	nongold
+8	hiding can be used for avoiding predators	nongold
+9	sight is a kind of sense	nongold
+10	sound can be used for communication by animals	gold
+11	underground means under ground	nongold
+12	near means local	nongold
+13	a danger is dangerous	nongold
+14	rapidly means quickly	nongold
+15	attracting something to a location causes that something  to be near that location	nongold
+16	loud means high in sound energy;sound intensity	gold
+17	a dog is a kind of animal	nongold
+18	loud noises can cause animals to startle	nongold
+19	a community is made of many types of organisms in an area	nongold
+20	communication can be used to warn people of dangers	nongold
+21	harm means danger	nongold
+22	noise means sound	nongold
+23	surroundings means environment	nongold
+24	talking is when a human produces sound to communicate	nongold
+25	echolocation is when some animals detect objects by hearing echoes by emitting sound	nongold
+26	sight means to see	nongold
+27	an animal is a kind of living thing	nongold
+28	dogs can hear  sounds with higher frequency  than human can	nongold
+29	sense is a kind of characteristic of an animal	nongold
+30	an organism is a living thing	nongold
+31	an animal is a kind of organism	nongold
+32	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+33	communication is a learned behavior	nongold
+34	danger has a negative impact on a thing	nongold
+35	hiding means visibility; ability to be seen decreases for camouflage	nongold
+36	a living thing is a kind of object	nongold
+37	near; close is the opposite of far; away	nongold
+38	something that is used for communication increases communication	nongold
+39	feeling is when an living thing senses through touch	nongold
+40	smell is a kind of sense	nongold
+41	sensing a warning means receiving a warning	nongold
+42	seeing is used for sensing visual things	nongold
+43	a human is a kind of animal	nongold
+44	a human is a kind of mammal	nongold
+45	sense is used for obtaining information about one's environment	nongold
+46	language is a kind of communication	nongold
+47	a sense is a kind of ability	nongold
+48	sight means vision	nongold
+49	fast means quickly	nongold
+50	sensory organs are used for sensing	nongold
+51	animals usually distance themselves from humans	nongold
+52	an environment means an area	nongold
+53	an environment is a kind of place	nongold
+54	objects in an environment are a part of that environment	nongold
+55	an threat threatens	nongold
+56	a mammal is a kind of animal	nongold
+57	some animals move quickly to escape predators	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	an ear is a kind of body part	nongold
+60	speaking is a kind of communication	nongold
+61	eyes are usually part of an animal for seeing	nongold
+62	eyes are used for seeing by animals by sensing light	nongold
+63	organisms are a part of an environment	nongold
+64	an echo is a kind of sound	nongold
+65	a landform is a kind of object	nongold
+66	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+67	some dogs are trained to bark; to scratch at the door when they want to go outside	nongold
+68	when sound reaches the ear , that sound can be heard	nongold
+69	killing means harming something causing death	nongold
+70	blending in is synonymous with hiding	nongold
+71	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+72	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+73	proximity means distance	nongold
+74	place is synonymous with location	nongold
+75	eyes are a part of a human for seeing	nongold
+76	smell is used for  finding food by some animals	nongold
+77	a person speaking is a source of sound	nongold
+78	quickly means in a short period of time	nongold
+79	close means low in distance	nongold
+80	something dangerous can cause harm	nongold
+81	being around something means surrounding  that something	nongold
+82	shelter is a kind of place;building;structure for protection	nongold
+83	smell means scent	nongold
+84	fur is often part of an animal	nongold
+85	eyes can sense;detect light energy for seeing	nongold
+86	smell is used for detecting odor	nongold
+87	an enemy is a threat	nongold
+88	animals; living things live and feed in their habitats; near their habitats	nongold
+89	organisms; living things live in their habitat; their home	nongold
+90	threatening the existence of an organism has a negative impact on that organism	nongold
+91	mimicry is used for avoiding predators by animals by camouflaging as a dangerous animal	nongold
+92	a landform is a kind of place	nongold
+93	a landform is a kind of place	nongold
+94	motion is when moves an object; something to a direction	nongold
+95	fur is a covering around the body of an animal	nongold
+96	person is synonymous with human	nongold
+97	communicating means sharing information	nongold
+98	smell is a property of an object; a material; a substance	nongold
+99	the eyes are part of the head used for seeing	nongold

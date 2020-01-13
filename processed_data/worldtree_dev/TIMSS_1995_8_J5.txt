@@ -1,0 +1,102 @@
+Question	Which form of solar radiation causes sunburn?	question
+Answer	Ultraviolet	answer
+0	ultraviolet light is a kind of light	gold
+1	ultraviolet light causes sunburn	gold
+2	ultraviolet rays means ultraviolet light	nongold
+3	ultraviolet radiation is ionizing	nongold
+4	ultraviolet light is a kind of electromagnetic energy	nongold
+5	sunlight is made of ultraviolet, infrared, and visible light	nongold
+6	sunlight contains ultraviolet light	gold
+7	ultraviolet light has very short wavelength	nongold
+8	form means kind	gold
+9	UV mean ultraviolet	nongold
+10	being exposed to the ultraviolet light has a negative  impact on living organisms	nongold
+11	light is a kind of electromagnetic radiation	gold
+12	solar radiation means solar energy	gold
+13	absorbing ultraviolet light by ozone cause the breakdown of ozone into oxygen	nongold
+14	sunlight is a kind of light	nongold
+15	solar energy is a kind of light	nongold
+16	ozone absorbs harmful ultraviolet rays from the Sun	nongold
+17	sunlight is a kind of solar energy	nongold
+18	state means form	nongold
+19	sunlight means solar energy	gold
+20	the sun is a source of radiation; heat called sunlight	nongold
+21	the sun is the source of solar energy called sunlight	nongold
+22	sunlight contains infrared light	nongold
+23	the sun is a source of light; light energy called sunlight	nongold
+24	to be a source of something means to cause that something	nongold
+25	visible light is a kind of  light	nongold
+26	x-ray is a kind of ionizing radiation	nongold
+27	electromagnetic radiation means electromagnetic energy	nongold
+28	light means light energy	nongold
+29	radiation means radiant energy	nongold
+30	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+31	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+32	producing is similar to causing	nongold
+33	tinted lenses reflect ultraviolet rays	nongold
+34	light is made of photons	nongold
+35	light rays means light	nongold
+36	harming something has a  negative impact on; effect on that something	nongold
+37	red light has the longest wavelength	nongold
+38	solar power means solar energy	nongold
+39	ionizing radiation is a kind of electromagnetic wave	nongold
+40	to cause the formation of means to form	nongold
+41	infrared light has a longer wavelength than visible light	nongold
+42	a solar flare is a kind of solar event	nongold
+43	to give off means to be the source of	nongold
+44	UV light is a kind of light	nongold
+45	a surface is a part of an object	nongold
+46	infrared wave is a kind of  electromagnetic wave	nongold
+47	light energy can be used to heat up  an object by radiation	nongold
+48	wavelength is a property of wave	nongold
+49	light is a kind of wave	nongold
+50	observable means visible	nongold
+51	intense means high in intensity	nongold
+52	a surface is a part of a material	nongold
+53	radiation is a kind of process	nongold
+54	radiation is when electromagnetic waves transfers heat and light energy	nongold
+55	a source of something emits; produces; generates; provides that something	nongold
+56	ionizing radiation is harmful to human skin	nongold
+57	different types of light have different wavelengths	nongold
+58	to lower means to decrease	nongold
+59	can be means able to be	nongold
+60	left in the sun means exposed to the sun	nongold
+61	an x ray is a kind of electromagnetic energy	nongold
+62	if something causes a process then that something is required for that process	nongold
+63	refracting sunlight; light causes sunlight; light to split into different colors	nongold
+64	to give is similar to to cause	nongold
+65	reflection is a property of light	nongold
+66	a device is a kind of object	nongold
+67	an animal is a kind of organism	nongold
+68	refraction is a property of light	nongold
+69	absorbing something harmful has a negative impact on a thing	nongold
+70	to reduce means to decrease	nongold
+71	emit means produce	nongold
+72	if something emits something else then that something increases the amount of that something else	nongold
+73	violet light has the shortest wavelength	nongold
+74	objects are made of materials; substances; matter	nongold
+75	if an object is in the light then that object is blocking the light	nongold
+76	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+77	a process is a kind of event	nongold
+78	brightness means amount of light	nongold
+79	a cause of something is a reason for that something	nongold
+80	a component means a part of	nongold
+81	to lead to means to cause	nongold
+82	if something releases something else then that something is the source of that something else	nongold
+83	electromagnetic spectrum is bands; ranges of frequencies of light waves	nongold
+84	brightness is a property of a light source	nongold
+85	a surface is a kind of object	nongold
+86	air is a kind of medium for light	nongold
+87	a photon is a kind of  particles	nongold
+88	a human is a kind of animal	nongold
+89	if an object is made of a material then that object has the properties of that material	nongold
+90	death means to die	nongold
+91	damage means harm	nongold
+92	to be in the sun means to be in the sunlight	nongold
+93	intensity of sunlight is similar to amount of sunlight	nongold
+94	a component of something means a part of that something	nongold
+95	harming an organism can cause that organism to die	nongold
+96	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+97	as the cause of something decreases , that something will decrease	nongold
+98	if something causes an increase in something else then that something produces that something else	nongold
+99	something harmful can cause harm	nongold

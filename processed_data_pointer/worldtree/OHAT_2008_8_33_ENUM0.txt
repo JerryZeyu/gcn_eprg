@@ -1,0 +1,102 @@
+Question	What is the relationship between tissues and organs?	question
+Answer	Organs are made from different types of tissues.	answer
+0	organs are made of different types of  cellular tissues	gold
+1	a type is synonymous with a kind	nongold
+2	variety means different kinds; different types	nongold
+3	different cellular tissues are made of different types of  somatic cells	nongold
+4	a type of something is a kind of property of that something	nongold
+5	if two things are made from the same objects; material then those two things are similar	nongold
+6	composed of means made of	nongold
+7	to be made of means to consist of	nongold
+8	if something is made of something else then that something can be broken down into that something else	nongold
+9	made of is similar to is built from	nongold
+10	to be made of something means to be formed of that something	nongold
+11	a living thing is made of cells	nongold
+12	a relationship occurs when two or more things interact with one another	nongold
+13	classifying is when one sorts something by kind; type	nongold
+14	objects are made of materials; substances; matter	nongold
+15	if an object is made of something then the parts of that object are made of that something	nongold
+16	make means produce	nongold
+17	made up of means contains; made of	nongold
+18	made of is similar to contains	nongold
+19	different materials usually have different properties	nongold
+20	if something is made of something else , then that something else will be the component of that something	nongold
+21	an object is made of its parts	nongold
+22	all living things are made of cells according to the cell theory	nongold
+23	an organism is a living thing	nongold
+24	another means different	nongold
+25	where something  comes from is a source of that something	nongold
+26	different types of matter have different chemical properties	nongold
+27	if something comes from something else then that something else is a source of that something	nongold
+28	materials are made of matter	nongold
+29	composite materials are made of two more more materials	nongold
+30	form means kind	nongold
+31	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+32	an organism is made of organic matter	nongold
+33	to be made of is similar to collection	nongold
+34	a living thing is a kind of object	nongold
+35	to make means to form	nongold
+36	plant parts are made of plants	nongold
+37	a source of something emits; produces; generates; provides that something	nongold
+38	an animal is a kind of living thing	nongold
+39	an organ system is made of different parts of the body working together	nongold
+40	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+41	to create means to make	nongold
+42	to change means to become different	nongold
+43	creating means making	nongold
+44	living things are made of organic molecules	nongold
+45	what an object is made of is a kind of characteristic	nongold
+46	a cell is a kind of object	nongold
+47	to be a combination of means to be made of	nongold
+48	classifying means grouping objects; materials by their properties	nongold
+49	if two objects are composed of similar materials then those objects may have come from the same source	nongold
+50	the body is a part of an organism	nongold
+51	synthesis means to make	nongold
+52	organisms are made of carbon	nongold
+53	substances are made of matter	nongold
+54	products are formed; are produced; are created	nongold
+55	to cause means to make	nongold
+56	organ system means body system	nongold
+57	what something is made of is a property of the organization or that something	nongold
+58	nutrients are a kind of matter	nongold
+59	an object; material; substance comes from that object or material's source	nongold
+60	the chemistry of something is similar to what that something is made of	nongold
+61	answering questions requires information	nongold
+62	different is the opposite of the same	nongold
+63	a kind of something is an example of that something	nongold
+64	manufacture means make	nongold
+65	the parts of something make up that something	nongold
+66	substances are made of elements	nongold
+67	tissues are a smaller level of organization than organs in living things	nongold
+68	a symbiotic organism is made of two or more organisms in a symbiotic relationship	nongold
+69	bone cells are a part of the body	nongold
+70	internal organs are a part of the body	nongold
+71	a kidney is a kind of organ in an animal	nongold
+72	cells are a part of the body	nongold
+73	identical is the opposite of different	nongold
+74	composition is a property of an object; matter	nongold
+75	matter; materials; substances are made of atoms; particles	nongold
+76	composition means the (materials, substances) of which something is composed	nongold
+77	an animal is a kind of organism	nongold
+78	a plant is made of plant cells	nongold
+79	a component of something means a part of that something	nongold
+80	opposite is a kind of different	nongold
+81	a structure of something is synonymous with a part of that something	nongold
+82	substances are made of molecules	nongold
+83	all living and nonliving materials are made of elements	nongold
+84	if something is made by something else then that something is affected by that something else	nongold
+85	a component means a part of	nongold
+86	plant and animal matter means organic matter	nongold
+87	if two or more things are in a relationship then those things impact each other	nongold
+88	to be formed by is similar to being produced by	nongold
+89	tissue is a kind of group of cells with a common structure that work together to perform a similar function	nongold
+90	organs are a smaller level of organization than organ systems in living things	nongold
+91	commensalism is a kind of symbiotic relationship	nongold
+92	a human is a kind of animal	nongold
+93	two objects are usually different in size	nongold
+94	can be means able to be	nongold
+95	the endocrine system is a kind of body; organ system	nongold
+96	a body system is a part of the body; an animal	nongold
+97	the stomach is a kind of organ	nongold
+98	matter is made of molecules	nongold
+99	human is a kind of organism	nongold

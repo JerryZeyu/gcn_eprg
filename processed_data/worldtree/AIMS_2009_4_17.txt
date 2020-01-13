@@ -1,0 +1,102 @@
+Question	Scientists claim that the area around the Grand Canyon was once covered by an ocean. What evidence would support their claim?	question
+Answer	Fossils of ocean animals were found at the Grand Canyon.	answer
+0	the Grand Canyon is a kind of canyon	gold
+1	the Grand Canyon was formed by the Colorado River flowing over long periods of time	nongold
+2	a canyon is a kind of place	gold
+3	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	gold
+4	a canyon is a kind of landform	nongold
+5	a canyon is made of rock	nongold
+6	a canyon is a very deep valley	nongold
+7	fossil means preserved remains of ancient organisms	gold
+8	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	gold
+9	an ocean is a kind of body of water	gold
+10	a canyon forming occurs over a period of millions of years	nongold
+11	ocean animal is similar to water animal	nongold
+12	being around something means surrounding  that something	nongold
+13	an animal is a kind of living thing	nongold
+14	most canyons are formed by flowing rivers through erosion over long periods of time	nongold
+15	an animal is a kind of organism	gold
+16	an aquatic animal is a kind of animal	nongold
+17	a canyon is a very big crack in the ground	nongold
+18	aquatic animal means water animal	nongold
+19	if something is a part of something then that something can be found in that something	nongold
+20	under water means covered by water; in water	nongold
+21	to be found in means to be contained in	nongold
+22	if something is located  in somewhere , then something can be found in somewhere	nongold
+23	sea means ocean	nongold
+24	oceans cover 70% of the surface of the earth	nongold
+25	a living thing is a kind of object	nongold
+26	an organism is a living thing	nongold
+27	fossils are formed when layers of sediment cover the remains of organisms over time	nongold
+28	if something is located in some place , then the presence of that something can be found in that location	nongold
+29	a mammal is a kind of animal	nongold
+30	place means area	nongold
+31	oceans are located on Earth	nongold
+32	a landform is a kind of place	nongold
+33	a landform is a kind of place	nongold
+34	organisms lived in the water when they first appeared on Earth	nongold
+35	an ocean is a kind of habitat	nongold
+36	aquatic animals; plants live in bodies of water	nongold
+37	found in means existing in	nongold
+38	if the surface of an object contains something then that object is covered with that something	nongold
+39	place is synonymous with location	nongold
+40	to discover means to find	nongold
+41	a scientist is a kind of human	nongold
+42	prehistoric means before 300000000 years ago	nongold
+43	an ocean contains waves	nongold
+44	a body of water is a kind of environment	nongold
+45	area is similar to location	nongold
+46	a body of water contains water	nongold
+47	oceans contains most of  earth's water	nongold
+48	a river is a kind of flowing body of water	nongold
+49	a dinosaur is a kind of extinct animal	nongold
+50	a reptile is a kind of animal	nongold
+51	an environment means an area	nongold
+52	bodies of water are located on Earth's surface	nongold
+53	organisms can be found in their habitats	nongold
+54	fossil fuels; fossils forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+55	a landform is a kind of natural formation	nongold
+56	deep sea animals live deep in the ocean	nongold
+57	a deep sea animal is a kind of marine organism	nongold
+58	organisms can be preserved in sedimentary rock	nongold
+59	to discover means to make a discovery	nongold
+60	An example of a fossil is the bones of an extinct animal	nongold
+61	a dinosaur is a kind of reptile	nongold
+62	if a fossil is of an organism that cannot be identified then that organism is probably extinct	nongold
+63	no longer means used to be	nongold
+64	preserved means from the past; from long ago	nongold
+65	nearly all fossils are found in sedimentary rock	nongold
+66	once-living means dead	nongold
+67	a covering is a kind of object	nongold
+68	plants can be fossilized	nongold
+69	an animal is a member of an animal species	nongold
+70	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+71	if something required by something else is in a place then that something else may be in that place	nongold
+72	remains mean parts of a dead organism	nongold
+73	a body of water is a kind of land feature	nongold
+74	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+75	a riverbed is a part of a river	nongold
+76	ancient means a long time in the past	nongold
+77	a rock is a kind of object	nongold
+78	something that contains water is similar to a body of water	nongold
+79	if something does not move then that something can be found in the same location	nongold
+80	usually a body of water is located outside	nongold
+81	fossil fuels; fossils are formed from dead organisms over time	nongold
+82	if something used to be in the past then that something  has changed	nongold
+83	valley is a kind of location	nongold
+84	the Arctic Ocean is a kind of ocean	nongold
+85	animals; living things require water for survival	nongold
+86	bones can be fossilized	nongold
+87	organisms mean life	nongold
+88	an environment is a kind of place	nongold
+89	land is a kind of landform	nongold
+90	organisms are a part of an environment	nongold
+91	landform means surface feature; physical feature; land feature	nongold
+92	the surface of the Earth is made of 70% ocean	nongold
+93	a body of water is a source of water	nongold
+94	organisms are located on Earth's surface	nongold
+95	a landform is a kind of object	nongold
+96	a region is a kind of location	nongold
+97	contains means located in	nongold
+98	only fossils formed from organisms that lived in the sea are found in the oldest layers of sedimentary rock	nongold
+99	an event is a kind of action	nongold

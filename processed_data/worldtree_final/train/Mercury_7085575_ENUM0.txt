@@ -1,0 +1,102 @@
+0	Which resource when used causes the most pollution?	question
+1	coal	answer
+2	burning coal is a source of air pollution	gold
+3	fossil fuels burning causes pollution	nongold
+4	most means over 50% of something	nongold
+5	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+6	coal is a nonrenewable resource	nongold
+7	humans cause pollution	nongold
+8	less is similar to decrease	nongold
+9	using coal requires burning coal	gold
+10	increase means more	nongold
+11	an increase is the opposite of a decrease	nongold
+12	coal is a kind of fossil fuel	gold
+13	as the cause of something decreases , that something will decrease	nongold
+14	low is similar to decrease	nongold
+15	removing coal can cause contamination of the groundwater	nongold
+16	mostly means being the most	nongold
+17	greatest means largest; highest; most amount of something	nongold
+18	forming coal; fossil fuels requires decaying vegetation	nongold
+19	a decrease is a kind of change	nongold
+20	pollution is a kind of environmental problem	nongold
+21	coal is a kind of fuel	nongold
+22	usually means most of the time	nongold
+23	to lower means to decrease	nongold
+24	to be a source of something means to cause that something	gold
+25	polluting gasses are a kind of pollution	nongold
+26	harming something has a  negative impact on; effect on that something	nongold
+27	being buried under soil and mud changes peat into coal through extreme heat and pressure in a swamp over a long period of time	nongold
+28	an increase is a kind of change	nongold
+29	decreasing something negative has a positive impact on a thing	nongold
+30	high is similar to increase	nongold
+31	to be used for something means to be required by that something	nongold
+32	natural gas is a kind of fossil fuel	nongold
+33	fossil fuels are a kind of energy resource	nongold
+34	to reduce means to decrease	nongold
+35	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+36	to change means to cause a change	nongold
+37	gases released during the use of fossil fuels causes global warming	nongold
+38	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+39	fossil fuels are a nonrenewable resource	nongold
+40	little is similar to decrease	nongold
+41	oil is a kind of fossil fuel	nongold
+42	an environment means an area	nongold
+43	a source of something emits; produces; generates; provides that something	nongold
+44	coal is a kind of object	nongold
+45	cleaner means less; lower in pollutants	nongold
+46	wood is a kind of resource	nongold
+47	gases from burning coal and oil dissolving in water in the atmosphere causes acid rain	nongold
+48	largest amount means most	nongold
+49	burning gasoline; oil is a source of air pollution	nongold
+50	water is a part of an environment	nongold
+51	decreasing something positive has a negative impact on a thing	nongold
+52	least is the opposite of greatest	nongold
+53	as the use of something decreases , the use of the source of that something will decrease	nongold
+54	a fossil fuel is a kind of natural resource	gold
+55	best means most positive	nongold
+56	coal is a kind of sedimentary rock	nongold
+57	less means a reduced amount	nongold
+58	lower means less	nongold
+59	deplete is similar to decrease	nongold
+60	removing coal can  cause methane  to release	nongold
+61	waste has a  negative impact on the environment	nongold
+62	petroleum is a kind of fossil fuel	nongold
+63	negative impact is the opposite of positive impact	nongold
+64	death means to die	nongold
+65	natural gas is a nonrenewable resource	nongold
+66	renewable is the opposite of nonrenewable	nongold
+67	coal is a kind of rock	nongold
+68	if something releases something else then that something is the source of that something else	nongold
+69	pollution is a source of pollutants	nongold
+70	using biomass to produce energy is a source of pollution	nongold
+71	change is a kind of impact	nongold
+72	a coal mine is a source of coal under the ground	nongold
+73	where something  comes from is a source of that something	nongold
+74	to cause means to make	nongold
+75	lowest means least in value; amount; number	nongold
+76	solar energy rarely causes pollution	nongold
+77	to create means to make	nongold
+78	fossil fuel contains chemical energy	nongold
+79	if something causes an increase in something else then that something produces that something else	nongold
+80	consumption means use	nongold
+81	coal is used for generating heat by burning	nongold
+82	organisms are a part of an environment	nongold
+83	a body of water is a kind of environment	nongold
+84	if something releases something else then that something else decreases in that something	nongold
+85	to produce means to create	nongold
+86	least is the opposite of most	nongold
+87	to cause an event is similar to being involved in that event	nongold
+88	human waste often causes harm to an environment	nongold
+89	less is the opposite of more	nongold
+90	answering questions requires information	nongold
+91	if something causes a process then that something is required for that process	nongold
+92	plants are a kind of resource	nongold
+93	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+94	oil is a nonrenewable resource	nongold
+95	a body of water contains water	nongold
+96	an event is a kind of action	nongold
+97	a body of water is a source of water	nongold
+98	a process is a kind of event	nongold
+99	to cause means to have an effect	nongold
+100	air is a part of the environment	nongold
+101	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold

@@ -1,0 +1,102 @@
+Question	An example of a learned behavior is a	question
+Answer	dog laying down on command.	answer
+0	laying down is a kind of action	gold
+1	following orders is a learned characteristic	gold
+2	following an order means performing an action on command	gold
+3	a dog is a kind of animal	nongold
+4	if an animal is trained to do something then that something is a learned behavior	nongold
+5	doing chores is a learned characteristic	nongold
+6	using tools is a learned characteristic	nongold
+7	actions mean behavior	nongold
+8	conditioned behavior is a kind of learned behavior	nongold
+9	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+10	an animal is a kind of living thing	nongold
+11	a kind of something is an example of that something	nongold
+12	a behavior is a kind of characteristic	gold
+13	a learned characteristic is a kind of acquired characteristic	nongold
+14	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+15	a living thing is a kind of object	nongold
+16	communication is a learned behavior	nongold
+17	a human is a kind of animal	nongold
+18	laying eggs is a kind of property of an animal	nongold
+19	skills are learned characteristics; behaviors	nongold
+20	animal instinct means instinctive behavior	nongold
+21	motion; movement means moving; to move	nongold
+22	rolling in mud is a learned behavior	nongold
+23	social behavior is a kind of learned behavior	nongold
+24	playing with toys is a learned characteristic	nongold
+25	An example of reproduction is laying eggs	nongold
+26	an animal is a kind of organism	nongold
+27	An example of following orders is coming when called	nongold
+28	placing is a kind of action	nongold
+29	down is soft	nongold
+30	locomotion is a generally learned behavior	nongold
+31	an animal knows how to do  instinctive behaviors when it is born	nongold
+32	a trick is a learned behavior	nongold
+33	person is synonymous with human	nongold
+34	action means activity	nongold
+35	doing something more is a kind of conditioned behavior	nongold
+36	an organism is a living thing	nongold
+37	a demonstration is similar to an example	nongold
+38	a predator avoiding some types of prey is a learned behavior	nongold
+39	an egg is a kind of object	nongold
+40	a mammal is a kind of animal	nongold
+41	raising is a kind of motion	nongold
+42	an event is a kind of action	nongold
+43	strong means high in strength	nongold
+44	howling is a kind of behavior	nongold
+45	instruction is a kind of information	nongold
+46	animals learn some behaviors from watching their parents	nongold
+47	a person is a kind of animal	nongold
+48	being  on something; placed in something; placed over something means touching  that something	nongold
+49	trait is synonymous with characteristic	nongold
+50	a dog weighs, on average 32 kg	nongold
+51	affected means changed	nongold
+52	determining is similar to learning	nongold
+53	learning about something sometimes requires observing that something	nongold
+54	An example of hitting something is dropping an object onto that something	nongold
+55	rolling over is a kind of action	nongold
+56	a source of something emits; produces; generates; provides that something	nongold
+57	preferences are generally learned characteristics	nongold
+58	a puppy is a young; baby dog	nongold
+59	counter means reduce; stop; resist	nongold
+60	learning; studying information causes one to know that information	nongold
+61	intelligence is an acquired characteristic	nongold
+62	learned behaviors are learned over the  lifetime of the animal	nongold
+63	producing thrust causes something; an animal; an object to move	nongold
+64	a motion is a kind of event; action	nongold
+65	begging for food is a kind of conditioned behavior	nongold
+66	hitting is a kind of motion	nongold
+67	good means positive	nongold
+68	low means down	nongold
+69	some dogs are trained to bark; to scratch at the door when they want to go outside	nongold
+70	better means good	nongold
+71	exercise is a kind of physical activity	nongold
+72	result means outcome	nongold
+73	to depend on; to rely on; to need means to require	nongold
+74	answering questions requires information	nongold
+75	ability is a kind of characteristic	nongold
+76	a surface is a part of an object	nongold
+77	to lift means to move up	nongold
+78	an animal requires energy to move	nongold
+79	food is a kind of object	nongold
+80	if an organism undertakes an action with a positive effect , then that organism will learn to do that action more	nongold
+81	direction is similar to instruction	nongold
+82	form means kind	nongold
+83	rest means sleep	nongold
+84	to carry means to move something	nongold
+85	to raise means to add	nongold
+86	a human requires sleep; rest to be healthy	nongold
+87	jumping off is a kind of  moving down	nongold
+88	lowering is a kind of motion	nongold
+89	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+90	trait means property	nongold
+91	objects are made of materials; substances; matter	nongold
+92	push is a kind of force; application of force	nongold
+93	a vehicle is a kind of object	nongold
+94	impact means effect	nongold
+95	a tool is a kind of object	nongold
+96	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+97	pushing is a kind of motion	nongold
+98	sense is a kind of characteristic of an animal	nongold
+99	the head is a part of an animal	nongold

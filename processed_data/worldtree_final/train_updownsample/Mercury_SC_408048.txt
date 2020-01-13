@@ -1,0 +1,74 @@
+0	a human is a kind of animal	gold
+1	vaccines can help prevent illness	gold
+2	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+3	an animal is a kind of organism	gold
+4	negative impact is the opposite of positive impact	gold
+5	a negative impact is a kind of consequence; risk	nongold
+6	protecting something means preventing harm to that something	gold
+7	requiring is similar to needing help	nongold
+8	to cause an event means to make that event more likely	nongold
+9	person is synonymous with human	gold
+10	helping something has a  positive impact on that something	gold
+11	an animal is a kind of living thing	nongold
+12	negative impact is the opposite of positive impact	gold
+13	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+14	an animal is a kind of organism	gold
+15	something harmful can cause harm	nongold
+16	solution is similar to a positive impact	nongold
+17	disease has a negative impact on an organism	nongold
+18	an organism is a living thing	nongold
+19	inhibitor means something that prevents something from happening	nongold
+20	best means most positive	nongold
+21	a person is a kind of animal	nongold
+22	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+23	vaccines can help prevent illness	gold
+24	protecting something means preventing harm to that something	gold
+25	harming something has a  negative impact on; effect on that something	gold
+26	killing means harming something causing death	nongold
+27	a process is a kind of event	nongold
+28	life means living things	nongold
+29	developing means creating; inventing	nongold
+30	bacteria can cause people to become ill	nongold
+31	dying is the opposite of living; surviving	nongold
+32	decreasing something negative has a positive impact on a thing	nongold
+33	warning people of dangers has a positive impact on the safety of those people	nongold
+34	society is made of humans	nongold
+35	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+36	medicine is used for curing people when they are sick	nongold
+37	to help; to benefit means to be of use	nongold
+38	illness has a negative impact on an organism's health	gold
+39	Vaccines help prevent illnesses.	answer
+40	a human is a kind of animal	gold
+41	an animal is a kind of organism	gold
+42	decreasing something positive has a negative impact on a thing	nongold
+43	vaccines can help prevent illness	gold
+44	illness has a negative impact on an organism's health	gold
+45	communication has a positive impact on a person's life	nongold
+46	Vaccines help prevent illnesses.	answer
+47	the ability to do means be able to do	nongold
+48	protecting something means preventing harm to that something	gold
+49	harming something has a  negative impact on; effect on that something	gold
+50	poison causes harm to living things; organisms	nongold
+51	if a living thing dies then that living thing is dead	nongold
+52	to depend on; to rely on; to need means to require	nongold
+53	to be used  for something means to help to do that something	nongold
+54	helping something has a  positive impact on that something	gold
+55	New vaccines for diseases are being developed all the time. How do vaccines most likely help people?	question
+56	illness has a negative impact on an organism's health	gold
+57	helping something has a  positive impact on that something	gold
+58	helping means to assist in a change	nongold
+59	Vaccines help prevent illnesses.	answer
+60	New vaccines for diseases are being developed all the time. How do vaccines most likely help people?	question
+61	negative impact is the opposite of positive impact	gold
+62	medicine can cause people to have bad reactions	nongold
+63	Vaccines help prevent illnesses.	answer
+64	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+65	person is synonymous with human	gold
+66	harming something has a  negative impact on; effect on that something	gold
+67	New vaccines for diseases are being developed all the time. How do vaccines most likely help people?	question
+68	to be used for something means to be required by that something	nongold
+69	answering questions requires information	nongold
+70	person is synonymous with human	gold
+71	New vaccines for diseases are being developed all the time. How do vaccines most likely help people?	question
+72	to cause something means to contribute to that something happening	nongold
+73	a human is a kind of animal	gold

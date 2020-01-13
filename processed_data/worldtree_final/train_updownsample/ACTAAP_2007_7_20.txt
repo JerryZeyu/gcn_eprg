@@ -1,0 +1,53 @@
+0	a body cell means a somatic cell	nongold
+1	a disordered immune system causes autoimmune diseases	nongold
+2	immune	answer
+3	animals are a part of the biological kingdom Animalia	nongold
+4	virus is a kind of living thing	nongold
+5	person is synonymous with human	nongold
+6	disease means illness	nongold
+7	organisms mean life	nongold
+8	biotic means living	nongold
+9	reducing bacteria in food prevents illness in people	nongold
+10	a microorganism is a kind of decomposer	nongold
+11	death means to die	nongold
+12	a living thing is a kind of object	nongold
+13	disease has a negative impact on an organism	nongold
+14	Which human body system attacks viruses and bacteria once they have invaded the body?	question
+15	the immune system is a kind of body; human body system	gold
+16	a person is a kind of animal	nongold
+17	white blood cells are a part of the immune system	nongold
+18	vaccines are a source of long-term immunity against some diseases for the human body	nongold
+19	an animal; living thing requires nutrients for survival	nongold
+20	a predator is a kind of animal	nongold
+21	eating an animal; a plant means killing that animal; that plant	nongold
+22	immune	answer
+23	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	gold
+24	Which human body system attacks viruses and bacteria once they have invaded the body?	question
+25	irradiating food can be used to kill existing microorganisms in the food	nongold
+26	the immune system is a kind of body; human body system	gold
+27	a human cell is a kind of cell	nongold
+28	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	gold
+29	form is similar to body	nongold
+30	harming an organism can cause that organism to die	nongold
+31	immune	answer
+32	immune	answer
+33	Which human body system attacks viruses and bacteria once they have invaded the body?	question
+34	an organism is a living thing	nongold
+35	the body is a part of an organism	nongold
+36	survive means live	nongold
+37	a decomposer is usually a bacterium; fungus	nongold
+38	pathogen is similar to harmful substance	nongold
+39	internal organs are a part of the body	nongold
+40	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	gold
+41	Which human body system attacks viruses and bacteria once they have invaded the body?	question
+42	infection often requires medical treatment	nongold
+43	the immune system defends the body against disease	nongold
+44	the immune system is a kind of body; human body system	gold
+45	good bacteria have a positive impact on a living thing's survival; health	nongold
+46	an autoimmune disease is when the body attacks its own tissues	nongold
+47	bacteria can help digest food in humans	nongold
+48	killing means changing a living thing from alive to dead by harming	nongold
+49	microorganisms can cause infections	nongold
+50	a bacterium is a kind of organism	nongold
+51	an event is a kind of action	nongold
+52	once means one time	nongold

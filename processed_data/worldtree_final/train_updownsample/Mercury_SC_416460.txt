@@ -1,0 +1,53 @@
+0	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+1	a yeast cell is a kind of single cell organism	gold
+2	a living thing is made of cells	nongold
+3	a bacterium is a kind of organism	nongold
+4	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+5	a single-cell organism can survive without the help of other cells	gold
+6	an organism is a living thing	nongold
+7	a single-cell organism can survive without the help of other cells	gold
+8	a yeast cell is a kind of single cell organism	gold
+9	solution is similar to a positive impact	nongold
+10	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+11	animal cells can  not perform photosynthesis	nongold
+12	a plant; living thing requires food for survival	nongold
+13	a plant is made of plant cells	nongold
+14	yeast cell	answer
+15	nonliving; non-living; die is the opposite of living; alive; live	nongold
+16	a cell absorbs nutrients	nongold
+17	if an organism cannot do something , then that organism is unable to do that something	nongold
+18	answering questions requires information	nongold
+19	helping means to assist in a change	nongold
+20	yeast cell	answer
+21	organisms are a part of an environment	nongold
+22	if something has the ability to do something else , then that something can do that something else	nongold
+23	Which cell can survive without the help of other cells?	question
+24	yeast cell	answer
+25	live is similar to stay	nongold
+26	a human cell is a kind of cell	nongold
+27	decreasing something positive has a negative impact on a thing	nongold
+28	Which cell can survive without the help of other cells?	question
+29	yeast cell	answer
+30	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+31	protecting something means preventing harm to that something	nongold
+32	if something has a positive impact on health then that something can help to maintain good health	nongold
+33	better means good	nongold
+34	a single-cell organism can survive without the help of other cells	gold
+35	can be means able to be	nongold
+36	high is similar to increase	nongold
+37	to be helpful means to help to do	nongold
+38	disease has a negative impact on an organism	nongold
+39	death means to die	nongold
+40	to make something easier means to help	nongold
+41	help means advantage	nongold
+42	a yeast cell is a kind of single cell organism	gold
+43	an increase is the opposite of a decrease	nongold
+44	bacteria sometimes cause disease	nongold
+45	Which cell can survive without the help of other cells?	question
+46	bacteria is a kind of living thing	nongold
+47	bacteria is a kind of pathogen sometimes	nongold
+48	if an organism can do something , then that organism is able to do that something	nongold
+49	Which cell can survive without the help of other cells?	question
+50	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+51	negative impact is the opposite of positive impact	nongold
+52	cannot is the opposite of  can	nongold

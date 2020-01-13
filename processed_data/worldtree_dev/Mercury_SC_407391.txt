@@ -1,0 +1,102 @@
+Question	Which trait do cows and grass have in common?	question
+Answer	They both are able to grow.	answer
+0	grass is a kind of green plant	gold
+1	cattle is a kind of animal	nongold
+2	the ability to grow is a kind of trait	gold
+3	a plant; living thing requires nutrients to grow	nongold
+4	goat is a kind of animal	nongold
+5	a cow is a kind of animal	gold
+6	trait is synonymous with characteristic	nongold
+7	a cow is a kind of herbivore	nongold
+8	cows only eat plants	nongold
+9	in common is similar to the same	nongold
+10	grass is green in color	nongold
+11	if something requires something else then that something else may be common in that something	nongold
+12	all living things grow	gold
+13	a plant is a kind of organism	nongold
+14	similar means in common	nongold
+15	a plant is a kind of living thing	gold
+16	an animal is a kind of living thing	gold
+17	an organism is a living thing	nongold
+18	crops are a kind of edible plant for eating	nongold
+19	able is the opposite of unable	nongold
+20	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+21	an animal is a kind of organism	nongold
+22	a living thing is a kind of object	nongold
+23	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+24	to reproduce means to have; to produce offspring	nongold
+25	growing means a plant's height;mass;size increase	nongold
+26	ability is a kind of characteristic	nongold
+27	an animal; living thing requires nutrients for survival	nongold
+28	growing is when an animal's height;mass;size increase	nongold
+29	a plant requires photosynthesis to grow; survive	nongold
+30	green plants are a kind of producer	nongold
+31	growing is a kind of process	nongold
+32	farming is when a human plants crops for food	nongold
+33	reproduction produces; produce offspring	nongold
+34	growth means size;number;value;strength increases	nongold
+35	a producer is a kind of living thing	nongold
+36	planting crops is synonymous with growing crops	nongold
+37	a  plant requires sunlight to  grow	nongold
+38	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+39	can be means able to be	nongold
+40	plant reproduction; seed production requires pollination	nongold
+41	living things can all reproduce	nongold
+42	if a living thing requires something then that something has a positive impact on that living thing	nongold
+43	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+44	reproduction increases the number; population of a living thing	nongold
+45	a plant requires soil for survival; to grow	nongold
+46	the ability to do means be able to do	nongold
+47	planting crops requires growing crops	nongold
+48	a plant; living thing requires food for survival	nongold
+49	developing means growing	nongold
+50	a mammal is a kind of animal	nongold
+51	species is an inherited characteristic	nongold
+52	life means living things	nongold
+53	growing is a kind of replenishing	nongold
+54	helping something has a  positive impact on that something	nongold
+55	trait means property	nongold
+56	an increase is the opposite of a decrease	nongold
+57	dairy is a kind of food	nongold
+58	growing is a kind of activity	nongold
+59	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+60	an inherited characteristic is a kind of characteristic	nongold
+61	humans eat crops	nongold
+62	an animal needs to eat food for nutrients	nongold
+63	different organisms reproduce differently	nongold
+64	high is similar to increase	nongold
+65	to graze means to eat grass	nongold
+66	if two organisms produce fertile offspring together then those two organisms belong to the same species	nongold
+67	if two objects are similar , then the two objects share properties	nongold
+68	a structure of something is synonymous with a part of that something	nongold
+69	an animal requires enough nutrients to maintain good health; survive	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	a crop is a kind of food	nongold
+72	a plant is a member of a plant species	nongold
+73	characteristic means property	nongold
+74	a plants; living things require water for survival; to grow	nongold
+75	adaptation is when an organism develops a trait over time for survival	nongold
+76	an animal is a member of an animal species	nongold
+77	a producer produces its own food	nongold
+78	farming is a kind of process	nongold
+79	if two things perform the same function then those two things are similar	nongold
+80	survive means live	nongold
+81	survive means live	nongold
+82	a farmer farms crops; plants for  food	nongold
+83	to breed is similar to to reproduce	nongold
+84	plants are a part of the environment	nongold
+85	a farmer is a kind of human	nongold
+86	a part of a living thing is a natural structure	nongold
+87	vegetation means plants	nongold
+88	a human is a kind of animal	nongold
+89	when a plant grows , the size of; number of the leaves of that plant may increase	nongold
+90	farming is a source of food	nongold
+91	crops growing well has a positive impact on a farmer's livelihood	nongold
+92	mammals is a kind of class	nongold
+93	reproduction is a kind of process	nongold
+94	a vegetable is a kind of plant	nongold
+95	a food contains nutrients for living things	nongold
+96	a part of something means a characteristic of something	nongold
+97	a leaf is a part of a  green plant	nongold
+98	an increase is a kind of change	nongold
+99	both means two	nongold

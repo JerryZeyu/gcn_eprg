@@ -1,0 +1,79 @@
+0	wood is an thermal; thermal energy insulator	gold
+1	metal is an  electrical; electrical energy conductor	gold
+2	better means good	nongold
+3	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+4	steel; carbon steel is always ferromagnetic; magnetic	nongold
+5	material means substance	nongold
+6	if an object is made of a material then that object has the properties of that material	gold
+7	leather is a kind of material	nongold
+8	metal is a thermal; thermal energy conductor	nongold
+9	a nail is a kind of object	nongold
+10	wood is a light material	nongold
+11	a good conductor is a conductor	gold
+12	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+13	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+14	metal fork	answer
+15	metal is an  electrical; electrical energy conductor	gold
+16	metal fork	answer
+17	best means most positive	gold
+18	if two things are made from the same objects; material then those two things are similar	nongold
+19	rubber is a kind of material	nongold
+20	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+21	plastic is a kind of thermal insulator	nongold
+22	plastic is usually an electrical insulator	gold
+23	electric devices require electrical energy to function	nongold
+24	An electrical conductor is a vehicle for the flow of electricity	nongold
+25	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+26	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+27	brick is an electrical; electrical energy insulator	nongold
+28	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+29	metal fork	answer
+30	rubber is thermal;thermal energy insulator	gold
+31	metal is an  electrical; electrical energy conductor	gold
+32	an insulator is the opposite of a conductor	gold
+33	wood is an thermal; thermal energy insulator	gold
+34	a good conductor is a conductor	gold
+35	wood has a smooth surface	nongold
+36	soft iron; iron is always ferromagnetic; magnetic	nongold
+37	steel is a kind of metal	nongold
+38	if an object is made of a material then that object has the properties of that material	gold
+39	conductivity is a property of a material; substance	gold
+40	best means most positive	gold
+41	plastic is usually an electrical insulator	gold
+42	Which object is the best conductor of electricity?	question
+43	good means positive	gold
+44	conductivity is a kind of physical property	nongold
+45	heating means adding heat	nongold
+46	metal is a kind of substance	nongold
+47	conductivity is a property of a material; substance	gold
+48	electricity is used as an energy source by electrical devices	nongold
+49	conductivity is a measure of how easily electricity travels through a material	nongold
+50	an insulator is the opposite of a conductor	gold
+51	electrical insulation requires wrapping a conductor in an insulator	nongold
+52	a good conductor is a conductor	gold
+53	heat means heat energy	nongold
+54	thermal conduction is when heat flows from warmer object to cooler object	nongold
+55	Which object is the best conductor of electricity?	question
+56	a fork is a kind of object	gold
+57	a source of something emits; produces; generates; provides that something	nongold
+58	wood is a kind of object	nongold
+59	plastic is usually an electrical insulator	gold
+60	good means positive	gold
+61	metal fork	answer
+62	rubber is thermal;thermal energy insulator	gold
+63	metals usually have greater; higher conductivity than nonmetals	nongold
+64	if an object is made of a material then that object has the properties of that material	gold
+65	good means positive	gold
+66	wood is a kind of nonmetal	nongold
+67	a fork is a kind of object	gold
+68	Which object is the best conductor of electricity?	question
+69	conductivity is a property of a material; substance	gold
+70	Which object is the best conductor of electricity?	question
+71	best means most positive	gold
+72	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+73	an insulator is the opposite of a conductor	gold
+74	wood is an thermal; thermal energy insulator	gold
+75	a thermal conductor is made of materials that conduct thermal energy	nongold
+76	a fork is a kind of object	gold
+77	rubber is thermal;thermal energy insulator	gold
+78	a spoon sometimes is made of metal	nongold

@@ -1,0 +1,101 @@
+0	Specialized cells protect the human body from disease-causing microbes by	question
+1	producing chemicals that destroy the microbes	answer
+2	specialized cells are a source of chemicals that destroy disease-causing microbes	gold
+3	disease-causing microbes have a negative impact on the body	gold
+4	destroying something causes harm to that something	nongold
+5	chemicals means substances	nongold
+6	producing is similar to causing	nongold
+7	make means produce	nongold
+8	generate means produce	nongold
+9	harming something has a  negative impact on; effect on that something	gold
+10	killing means harming something causing death	nongold
+11	human is a kind of organism	nongold
+12	protecting something means preventing harm to that something	gold
+13	the immune system defends the body against disease	nongold
+14	destruction means to destroy	nongold
+15	a human is a kind of animal	nongold
+16	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+17	a human cell is a kind of cell	nongold
+18	harming an organism can cause that organism to die	nongold
+19	to protect means to make safe	nongold
+20	producing is similar to releasing	nongold
+21	producing is a kind of process	nongold
+22	killing means changing a living thing from alive to dead by harming	nongold
+23	a producer is a kind of living thing	nongold
+24	pathogens can cause disease	nongold
+25	disease has a negative impact on an organism	nongold
+26	protecting is a kind of function	nongold
+27	cells are a part of the body	nongold
+28	a source of something emits; produces; generates; provides that something	gold
+29	something harmful can cause harm	nongold
+30	to produce means to provide	nongold
+31	death means to die	nongold
+32	dead organisms are a source of disease	nongold
+33	microorganisms can cause infections	nongold
+34	converting is similar to producing	nongold
+35	an animal is a kind of organism	nongold
+36	destroying is a kind of function	nongold
+37	producing is a kind of function	nongold
+38	protection means resistance to damage increases	nongold
+39	the body is a part of an organism	nongold
+40	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+41	chemicals can be pollutants	nongold
+42	an organism is a living thing	nongold
+43	if a living thing dies then that living thing is dead	nongold
+44	an animal is a kind of living thing	nongold
+45	to be a source of something means to cause that something	nongold
+46	negative impact is the opposite of positive impact	nongold
+47	to produce means to create	nongold
+48	to contribute is similar to produce	nongold
+49	inhibitor means something that prevents something from happening	nongold
+50	pathogen is similar to harmful substance	nongold
+51	an animal cell is a kind of cell	nongold
+52	something hard; something strong can be used for protection	nongold
+53	disease means illness	nongold
+54	harm means danger	nongold
+55	if something causes an increase in something else then that something produces that something else	nongold
+56	emit means produce	nongold
+57	production is similar to making	nongold
+58	processes sometimes produce waste products	nongold
+59	decreasing something negative has a positive impact on a thing	gold
+60	destroying something decreases the amount of that something	gold
+61	an autoimmune disease is when the body attacks its own tissues	nongold
+62	a bacterium is a kind of organism	nongold
+63	creating is similar to causing	nongold
+64	damage means harm	nongold
+65	products are formed; are produced; are created	nongold
+66	damage has a negative impact on a thing	nongold
+67	a producer produces its own food	nongold
+68	a living thing is made of cells	nongold
+69	bacteria sometimes cause disease	nongold
+70	produce is similar to release	nongold
+71	to provide something means to be the source of that something	nongold
+72	to hurt means to harm	nongold
+73	survive means live	nongold
+74	survive means live	nongold
+75	to produce means to result in	nongold
+76	a microorganism is a kind of decomposer	nongold
+77	bacteria is a kind of living thing	nongold
+78	destruction means loss	nongold
+79	to be used for something means to be required by that something	nongold
+80	a plant cell is a kind of cell	nongold
+81	bacteria; viruses cause food poisoning	nongold
+82	the cell membrane provides support; protection for a cell	nongold
+83	bacteria is a kind of pathogen sometimes	nongold
+84	producer is a kind of role in the food chain process; in an ecosystem	nongold
+85	a cell is very small	nongold
+86	if something causes a process then that something is required for that process	nongold
+87	irradiating food can be used to kill existing microorganisms in the food	nongold
+88	disrupting is similar to having a negative impact	nongold
+89	to cause means to make	nongold
+90	to be formed by is similar to being produced by	nongold
+91	danger has a negative impact on a thing	nongold
+92	decreasing something positive has a negative impact on a thing	nongold
+93	poison causes harm to living things; organisms	nongold
+94	microorganisms cause food to spoil	nongold
+95	skin is used for protecting the body from harmful substances	nongold
+96	dead means not alive	nongold
+97	helping something has a  positive impact on that something	nongold
+98	a cell is a kind of object	nongold
+99	to generate means to create	nongold
+100	a pesticide is used for protecting plants by killing insects	nongold

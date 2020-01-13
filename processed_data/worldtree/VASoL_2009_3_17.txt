@@ -1,0 +1,102 @@
+Question	Both hurricanes and tornadoes always ___.	question
+Answer	have high winds	answer
+0	a hurricane has high wind speeds	gold
+1	a tornado has high wind speeds	gold
+2	a hurricane has large amounts of rain	nongold
+3	a hurricane is a kind of storm	nongold
+4	tornado is a kind of weather	nongold
+5	high means a lot of something	nongold
+6	high is similar to increase	nongold
+7	a storm is usually a source of strong winds	nongold
+8	storm is a kind of weather; weather event	nongold
+9	hurricanes cause harm to living things; to buildings	nongold
+10	when a hurricane moves over land , that hurricane will decrease in strength	nongold
+11	both means two	nongold
+12	windy means high wind speeds	nongold
+13	low is similar to decrease	nongold
+14	storms;rain cause bodies of water to increase amount of water they contain	nongold
+15	wind and rain; storms cause erosion	nongold
+16	extreme means very high in value	nongold
+17	low is the opposite of high	nongold
+18	wind means moving air	nongold
+19	greater means higher; more in value	nongold
+20	strong means high in strength	nongold
+21	wind speed is a property of weather	nongold
+22	an increase is a kind of change	nongold
+23	precipitation is a kind of weather	nongold
+24	a tornado has circular motion	nongold
+25	high means great in altitude	nongold
+26	as the cause of something decreases , that something will decrease	nongold
+27	higher means greater; above in value; amount; number	nongold
+28	an increase is the opposite of a decrease	nongold
+29	100% probability means always	nongold
+30	a source of something increases the amount of that something	nongold
+31	low means low in elevation; height; altitude	nongold
+32	a thunderstorm is a kind of storm	nongold
+33	increase means more	nongold
+34	a type is synonymous with a kind	nongold
+35	precipitation is a property of weather	nongold
+36	a cloud is a kind of weather	nongold
+37	windy is a kind of weather	nongold
+38	wind   is a kind of airflow	nongold
+39	weather is a property of a environment	nongold
+40	a storm is a source of precipitation	nongold
+41	a decrease is a kind of change	nongold
+42	an event is a kind of action	nongold
+43	cloudy conditions cause a low-pressure weather system	nongold
+44	An example of stormy weather is rain	nongold
+45	wind pattern is a kind of weather pattern	nongold
+46	wind direction is a property of weather	nongold
+47	air pressure affects wind speed	nongold
+48	to change means to have an effect	nongold
+49	intense means high in intensity	nongold
+50	less is similar to decrease	nongold
+51	snowstorm is a kind of weather	nongold
+52	usually means most of the time	nongold
+53	a motion is a kind of event; action	nongold
+54	high speed means fast	nongold
+55	to cause means to have an effect	nongold
+56	types of clouds can be used to predict the possibility of tornadoes developing in a location	nongold
+57	death means to die	nongold
+58	high pressure systems cause clear weather	nongold
+59	change is a kind of impact	nongold
+60	little is similar to decrease	nongold
+61	cloudy is a kind of  weather	nongold
+62	answering questions requires information	nongold
+63	greatest means largest; highest; most amount of something	nongold
+64	hitting is a kind of motion	nongold
+65	damage has a negative impact on a thing	nongold
+66	faster means an increase; higher in speed	nongold
+67	if there is a loss of something then that something decreases	nongold
+68	low means down	nongold
+69	pulling is a kind of motion	nongold
+70	a change is a kind of event	nongold
+71	causing is a kind of affecting	nongold
+72	rain is a kind of precipitation	nongold
+73	a source of something emits; produces; generates; provides that something	nongold
+74	harming something has a  negative impact on; effect on that something	nongold
+75	variable means able to change	nongold
+76	damage means harm	nongold
+77	to create means to make	nongold
+78	to happen means to occur	nongold
+79	weather is a source of wind and water for the weathering process	nongold
+80	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+81	rainstorm means rain storm	nongold
+82	lightning is a kind of weather phenomenon	nongold
+83	to lower means to decrease	nongold
+84	losing something decreases the amount of that something	nongold
+85	if something emits something else then that something increases the amount of that something else	nongold
+86	wind is a source of energy	nongold
+87	to change means to cause a change	nongold
+88	loss is a kind of change	nongold
+89	to be a source of something means to cause that something	nongold
+90	creating is similar to causing	nongold
+91	low pressure systems cause precipitation	nongold
+92	weak means low in strength	nongold
+93	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+94	sky conditions are a property of weather	nongold
+95	something that happens is a kind of event	nongold
+96	to cause an event is similar to being involved in that event	nongold
+97	producing is similar to causing	nongold
+98	cloudy means the presence  of clouds in the sky	nongold
+99	as heat and moisture  increases , the strength of a hurricane will increase	nongold

@@ -1,0 +1,102 @@
+Question	Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Which result of global warming will most negatively affect coastal residents in Maryland?	question
+Answer	loss of shore land	answer
+0	loss of land has a negative impact on the residents in an environment	gold
+1	a shore is the land found at the edge of a body of water	gold
+2	a coastal area is a kind of environment	gold
+3	a coast is a kind of environment	nongold
+4	loss is a kind of change	nongold
+5	loss means reduction	nongold
+6	a coast is a coastal area	gold
+7	a coast is where land meets the edge of a body of water	gold
+8	carbon dioxide is a kind of greenhouse gas	nongold
+9	Maryland is a kind of region	nongold
+10	Maryland is a state located in the United States of America	nongold
+11	to cause means to result in	nongold
+12	coastline means coast	nongold
+13	gases released during the use of fossil fuels causes global warming	nongold
+14	to impact means to affect	gold
+15	if there is a loss of something then that something decreases	gold
+16	greenhouse gases are a part of the atmosphere	nongold
+17	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+18	global warming is when worldwide temperature increases	gold
+19	harming something has a  negative impact on; effect on that something	nongold
+20	the greenhouse effect is when carbon in the air heats a planet's atmosphere	nongold
+21	impact means effect	nongold
+22	greenhouse gases building up can cause global warming	nongold
+23	if a body of water loses all water then that body of water does not exist any more	nongold
+24	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+25	carbon dioxide is a kind of gas	nongold
+26	humans moving in an environment usually causes native species to lose their habitats	nongold
+27	an ocean is a kind of body of water	nongold
+28	water vapor is a kind of greenhouse gas	nongold
+29	losing something decreases the amount of that something	nongold
+30	humans live on land	nongold
+31	fossil fuels release carbon dioxide into the atmosphere	nongold
+32	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+33	a resident is a kind of person	nongold
+34	loss of resources has a negative impact on  the organisms in an area	nongold
+35	result means outcome	nongold
+36	land is a kind of environment	nongold
+37	an environment means an area	nongold
+38	humans changing animal habitats usually causes harm to those animals	nongold
+39	worldwide temperature means atmospheric temperature	gold
+40	adverse effect means negative impact	nongold
+41	sea means ocean	nongold
+42	water vapor is the largest amount of greenhouse gas in the atmosphere	nongold
+43	a body of water is a kind of environment	nongold
+44	change is a kind of impact	nongold
+45	humans changing an environment sometimes causes that environment to be destroyed	nongold
+46	a negative impact is a kind of consequence; risk	nongold
+47	negative impact is the opposite of positive impact	nongold
+48	loss is similar to removal	nongold
+49	an increase is a kind of change	nongold
+50	destruction means loss	nongold
+51	a scientist is a kind of human	nongold
+52	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+53	to change means to have an effect	nongold
+54	humans cause pollution	nongold
+55	natural gas is a kind of fossil fuel	nongold
+56	something being destroyed means that something no longer exists	nongold
+57	oceans are the source of most of water vapor in the atmosphere	nongold
+58	a body of water meets land at a beach	nongold
+59	to produce means to result in	nongold
+60	causing is a kind of affecting	nongold
+61	greenhouse gases heat the atmosphere by absorbing infrared radiation released by Earth	nongold
+62	affected means changed	nongold
+63	a decrease is a kind of change	nongold
+64	the atmosphere is a part of nature; the environment	nongold
+65	answering questions requires information	nongold
+66	data means information	nongold
+67	an environment is a kind of place	nongold
+68	organisms are a part of an environment	nongold
+69	a fossil fuel is a kind of natural resource	nongold
+70	to cause means to have an effect	nongold
+71	if something is required for a process then that something positively impacts that process	nongold
+72	aquatic animals; plants live in bodies of water	nongold
+73	recording data is similar to showing data	nongold
+74	burning fossil fuels increases the carbon in the atmosphere	nongold
+75	increase means more	nongold
+76	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+77	if something affects a part of something else then that something affects that something else	nongold
+78	if an organism dies then the population of that organism will decrease	nongold
+79	as temperature in an environment decreases , the amount of water an animal in that environment will lose will decrease	nongold
+80	harming an organism can cause that organism to die	nongold
+81	water level is similar to ocean level	nongold
+82	an increase is the opposite of a decrease	nongold
+83	to lose means to have less of	nongold
+84	an ocean is a kind of habitat	nongold
+85	fossil fuels burning causes pollution	nongold
+86	to change means to cause a change	nongold
+87	as the  level of water rises , the amount of available land will decrease	gold
+88	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+89	a climate is synonymous with an environment	nongold
+90	temperature is a measure of heat energy	nongold
+91	a body of water is a source of water	nongold
+92	soil loss causes an area decrease in size	nongold
+93	carbon dioxide can be found in the air	nongold
+94	something harmful can cause harm	nongold
+95	death means to die	nongold
+96	recording an observation sometimes requires measuring	nongold
+97	organisms; living things live in their habitat; their home	nongold
+98	as the amount of carbon dioxide in the atmosphere increases , the temperature of the planet; the atmosphere will increase	nongold
+99	if a person is lost then that person might not know their location	nongold

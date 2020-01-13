@@ -1,0 +1,74 @@
+0	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	gold
+1	crops grow in soil	nongold
+2	to be dependent on something means to depend on that something	nongold
+3	to depend on; to rely on; to need means to require	gold
+4	to be used for something means to be required by that something	nongold
+5	farming happens on a farm	nongold
+6	cropland is used for farming by humans	nongold
+7	erosion of soil has a  negative impact on the environment; soil quality	nongold
+8	a source of something emits; produces; generates; provides that something	nongold
+9	growing is a kind of activity	nongold
+10	farming is when a human plants crops for food	gold
+11	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	gold
+12	to depend on; to rely on; to need means to require	gold
+13	to provide something means to be the source of that something	nongold
+14	green plants are a kind of producer	nongold
+15	soil is a renewable resource for growing plants	nongold
+16	farming is a kind of process	gold
+17	farming is when a human plants crops for food	gold
+18	a plant; living thing requires nutrients to grow	gold
+19	soil contains nutrients for plants	gold
+20	farming is a kind of process	gold
+21	Which of these human activities most relies on high-quality soil?	question
+22	crops are a kind of edible plant for eating	gold
+23	nutrient poor soil means low quality soil	nongold
+24	soil contains nutrients for plants	gold
+25	answering questions requires information	nongold
+26	to depend on; to rely on; to need means to require	gold
+27	if something causes a process then that something is required for that process	nongold
+28	a plant requires soil for survival; to grow	nongold
+29	soil is a part of the ground outside	nongold
+30	irrigation depletes nutrients in the soil	nongold
+31	crop rotation is when different crops are planted on a field in different years	nongold
+32	planting crops is synonymous with growing crops	nongold
+33	plants are a kind of resource	nongold
+34	no-till farming reduces soil erosion	nongold
+35	low quality soil has a small; a low number of nutrients	nongold
+36	Growing crops	answer
+37	plants absorb nutrients; water; oxygen from soil into themselves through their roots	gold
+38	a plant; living thing requires nutrients to grow	gold
+39	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+40	crops are a kind of edible plant for eating	gold
+41	action means activity	gold
+42	crops; farming cause nutrients in the soil to decrease	nongold
+43	plants absorb nutrients; water; oxygen from soil into themselves through their roots	gold
+44	Growing crops	answer
+45	farming is a kind of process	gold
+46	Which of these human activities most relies on high-quality soil?	question
+47	a field contains soil	nongold
+48	Growing crops	answer
+49	Which of these human activities most relies on high-quality soil?	question
+50	crops are a kind of edible plant for eating	gold
+51	high is similar to increase	nongold
+52	farming is when a human plants crops for food	gold
+53	adding is a kind of activity	nongold
+54	helping something has a  positive impact on that something	nongold
+55	action means activity	gold
+56	soil fertility means the ability of soil to sustain plant growth	nongold
+57	planting crops requires growing crops	gold
+58	creating is a kind of activity	nongold
+59	a farmer is a kind of human	nongold
+60	action means activity	gold
+61	a human is a kind of animal	nongold
+62	plants absorb nutrients; water; oxygen from soil into themselves through their roots	gold
+63	requiring something means needing that something	nongold
+64	planting crops requires growing crops	gold
+65	a plant; living thing requires nutrients to grow	gold
+66	Which of these human activities most relies on high-quality soil?	question
+67	planting crops requires growing crops	gold
+68	Growing crops	answer
+69	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	gold
+70	soil contains nutrients for plants	gold
+71	needing something means depending on that something	nongold
+72	making something requires resources	nongold
+73	humans eat crops	nongold

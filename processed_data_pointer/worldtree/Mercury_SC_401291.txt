@@ -1,0 +1,102 @@
+Question	What is the most likely function of a turtle's hard shell?	question
+Answer	provide protection	answer
+0	a shell is a part of a  turtle for protecting the turtle	gold
+1	an animal's shell is usually hard for protection	gold
+2	an animal's shell is usually hard for protection	nongold
+3	a turtle is a kind of animal	gold
+4	protecting is a kind of function	gold
+5	a sea turtle is a kind of animal	nongold
+6	providing is a kind of function	nongold
+7	a shell is a part of a  snail for protecting the snail	nongold
+8	something hard; something strong can be used for protection	gold
+9	the function of something is what that something  is used to do	gold
+10	a shell is a part of some animals	nongold
+11	to protect means to defend	nongold
+12	being used for is similar to providing	nongold
+13	a sea turtle lives in the ocean	nongold
+14	a turtle is a kind of reptile	nongold
+15	a turtle is a kind of omnivore	nongold
+16	to be a vehicle for is a kind of function	nongold
+17	role means function	nongold
+18	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+19	protecting something means preventing harm to that something	nongold
+20	function is similar to purpose	nongold
+21	if something performs a task then that task is that something's function	nongold
+22	to protect means to make safe	nongold
+23	an animal is a kind of living thing	nongold
+24	providing structure is a kind of function	nongold
+25	a living thing is a kind of object	nongold
+26	an organism is a living thing	nongold
+27	an aquatic animal is a kind of animal	nongold
+28	harming something has a  negative impact on; effect on that something	nongold
+29	causing is a kind of function	nongold
+30	providing support is a kind of function	nongold
+31	an animal is a kind of organism	nongold
+32	to provide something means to be the source of that something	nongold
+33	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+34	to be used for something means to be required by that something	nongold
+35	a function is a kind of characteristic	nongold
+36	a mammal is a kind of animal	nongold
+37	to serve as means to be used as	nongold
+38	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+39	protection means resistance to damage increases	nongold
+40	covering something is a kind of protection	nongold
+41	an amphibian is a kind of animal	nongold
+42	a snail is a kind of animal	nongold
+43	damage means harm	nongold
+44	an animal is a member of an animal species	nongold
+45	something is used for that something's purpose	nongold
+46	a source of something emits; produces; generates; provides that something	nongold
+47	hiding is a kind of protection against predators; from predators	nongold
+48	producing is a kind of function	nongold
+49	killing means harming something causing death	nongold
+50	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+51	organisms are a part of an environment	nongold
+52	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+53	protecting nature has a positive impact on the environment	nongold
+54	an part of an object is smaller than the entire object	nongold
+55	killing means changing a living thing from alive to dead by harming	nongold
+56	to have a function is similar to to be responsible for	nongold
+57	destroying is a kind of function	nongold
+58	a shell is a kind of fossil	nongold
+59	harm means danger	nongold
+60	to help; to benefit means to be of use	nongold
+61	purpose means role	nongold
+62	something harmful can cause harm	nongold
+63	provide is similar to give; make	nongold
+64	flippers are a part of a  sea turtle	nongold
+65	harming an animal species has a  negative impact on the population size of that species	nongold
+66	if something is required then that something must be provided	nongold
+67	regulating is a kind of function	nongold
+68	safe is the opposite of unsafe; harm; danger	nongold
+69	role is similar to importance	nongold
+70	requiring is similar to needing help	nongold
+71	a part of a living thing is a natural structure	nongold
+72	something dangerous can cause harm	nongold
+73	containing something is similar to providing that something	nongold
+74	pollinating is a kind of function	nongold
+75	a mollusk is a kind of animal	nongold
+76	an animal; living thing requires nutrients for survival	nongold
+77	often is similar to likely	nongold
+78	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold
+79	a function is an activity	nongold
+80	an object has properties	nongold
+81	if a living thing requires something then that something has a positive impact on that living thing	nongold
+82	to produce means to provide	nongold
+83	a structure of something is synonymous with a part of that something	nongold
+84	solids are usually hard	nongold
+85	down is soft	nongold
+86	an ocean is a kind of body of water	nongold
+87	objects in an environment are a part of that environment	nongold
+88	trait is synonymous with characteristic	nongold
+89	if something contains something , then something is able to provide something	nongold
+90	hard is the opposite of easy	nongold
+91	controlling is a kind of function	nongold
+92	part means role	nongold
+93	helping something has a  positive impact on that something	nongold
+94	breaking down is a kind of function	nongold
+95	a type is synonymous with a kind	nongold
+96	converting is a kind of function	nongold
+97	hardened means to become hard	nongold
+98	shelter is a kind of protective covering	nongold
+99	a landform is a kind of object	nongold

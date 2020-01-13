@@ -1,0 +1,102 @@
+0	A fox gave birth to an offspring that had a better sense of hearing than most foxes. How could this small change most likely result in descendants that are different from the original fox?	question
+1	Over time, descendants of this fox may hear and hunt prey better than other foxes.	answer
+2	a fox is a kind of animal	gold
+3	mammals birth; give birth to live young	nongold
+4	better senses have a positive impact on an animal's survival; health; ability to reproduce	gold
+5	hunting requires seeing; sensing prey	nongold
+6	hearing is a kind of sense	gold
+7	senses are an inherited characteristic	nongold
+8	sight is a kind of sense	nongold
+9	foxes eat rabbits	nongold
+10	a sense is a kind of ability	nongold
+11	hearing is used for sensing sound by animals	nongold
+12	to change means to become different	nongold
+13	predators eat prey	nongold
+14	to cause means to result in	nongold
+15	if something is not the same as something else then that something is different from that something else	nongold
+16	prey  is a kind of animal	nongold
+17	sense is a kind of characteristic of an animal	gold
+18	an increase is the opposite of a decrease	nongold
+19	different is the opposite of the same	nongold
+20	hunting is when an animal kills another animal to eat that animal	nongold
+21	a mouse births; gives birth to live young	nongold
+22	a predator is a kind of animal	nongold
+23	an animal is a kind of living thing	gold
+24	eating prey requires catching prey	nongold
+25	killing means harming something causing death	nongold
+26	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+27	a predator usually kills its prey to eat it	nongold
+28	killing means changing a living thing from alive to dead by harming	nongold
+29	an organism is a living thing	nongold
+30	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+31	prey is a kind of food for predators	nongold
+32	better means good	nongold
+33	trait is synonymous with characteristic	gold
+34	a mother births offspring	nongold
+35	an animal is a member of an animal species	nongold
+36	a living thing is a kind of object	nongold
+37	an increase is a kind of change	nongold
+38	an animal is a kind of organism	nongold
+39	killing a living thing decreases the number; population size of that living thing	nongold
+40	opposite is a kind of different	nongold
+41	to prey on an animal means to eat that animal	nongold
+42	an inherited characteristic is a kind of characteristic	nongold
+43	a predator eats other animals for food	nongold
+44	small is the opposite of large	nongold
+45	result means outcome	nongold
+46	to produce means to result in	nongold
+47	if a living thing requires something then that something has a positive impact on that living thing	gold
+48	to reproduce means to have; to produce offspring	nongold
+49	species is an inherited characteristic	nongold
+50	fur is often part of an animal	nongold
+51	some predators move  quickly to  catch prey	nongold
+52	harming something has a  negative impact on; effect on that something	nongold
+53	smell is a kind of sense	nongold
+54	reproduction produces; produce offspring	nongold
+55	to improve means to have a positive impact	nongold
+56	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+57	a result of something is evidence of that something	nongold
+58	predators; carnivores; omnivores eat other animals	nongold
+59	high is similar to increase	nongold
+60	a decrease is a kind of change	nongold
+61	an animal being born; being hatched when food is available has a positive impact on that animal's survival; health	nongold
+62	less is similar to decrease	nongold
+63	a predator is a kind of enemy to its prey	nongold
+64	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+65	trait means property	nongold
+66	low is similar to decrease	nongold
+67	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+68	if living things with one trait outnumber those living things with a different trait in a population then the living things with that one trait probably have a better chance of surviving and reproducing	nongold
+69	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+70	an animal being born; being hatched when temperatures are warm has a positive impact on that animal's survival; health	nongold
+71	sound of voice is an inherited characteristic	nongold
+72	inherited characteristics can change over several generations	nongold
+73	hunting is when a human kills an animal for food; recreation in the wild	nongold
+74	to impact means to affect	nongold
+75	to change means to cause a change	nongold
+76	genetic variation in offspring has a positive impact on an organism's; offspring's survival; health; ability to reproduce	nongold
+77	to breed is similar to to reproduce	nongold
+78	the color of; coloration of fur is an inherited characteristic	nongold
+79	good means positive	nongold
+80	fur is usually part of a mammal	nongold
+81	to be good for means to have a positive impact on	nongold
+82	increase means more	nongold
+83	taste is a kind of sense	nongold
+84	characteristic means property	nongold
+85	parents produce offspring	nongold
+86	helping something has a  positive impact on that something	nongold
+87	feeling is when an living thing senses through touch	nongold
+88	variable means able to change	nongold
+89	identical is the opposite of different	nongold
+90	noise means sound	nongold
+91	reproduction increases the number; population of a living thing	nongold
+92	a baby is the offspring of a parent	nongold
+93	a baby is the offspring of a parent	nongold
+94	negative impact is the opposite of positive impact	nongold
+95	ability is a kind of characteristic	nongold
+96	affected means changed	nongold
+97	little is similar to decrease	nongold
+98	mammals is a kind of class	nongold
+99	children; young is synonymous with offspring	nongold
+100	if members of a species are born; survive then the population of that species increases	nongold
+101	different organisms reproduce differently	nongold

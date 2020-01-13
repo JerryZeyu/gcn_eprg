@@ -1,0 +1,102 @@
+0	to lower means to decrease	nongold
+1	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+2	water is a kind of natural resource	nongold
+3	chemical splashing can cause harm to humans; to the eyes	nongold
+4	flowing is a kind of action	nongold
+5	a human is a kind of animal	nongold
+6	all living things eliminate waste	nongold
+7	to change means to have an effect	nongold
+8	negative impact is the opposite of positive impact	nongold
+9	harming something has a  negative impact on; effect on that something	gold
+10	absorbing something harmful has a negative impact on a thing	nongold
+11	to reduce means to decrease	nongold
+12	a body of water is a source of water	nongold
+13	damage means harm	nongold
+14	a liquid is a kind of substance	nongold
+15	flowing liquid can push objects	nongold
+16	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+17	to cause means to have an effect	nongold
+18	a plant is a kind of organism	nongold
+19	raccoons eat trash; garbage; waste	nongold
+20	something harmful can cause harm	nongold
+21	if something affects a part of something else then that something affects that something else	nongold
+22	a person is a kind of animal	nongold
+23	harm means injury	nongold
+24	water is a kind of object	nongold
+25	a living thing is a kind of object	nongold
+26	trash is synonymous with waste	nongold
+27	pouring is a kind of activity	nongold
+28	an animal is a kind of organism	nongold
+29	surroundings means environment	nongold
+30	water is a part of an environment	nongold
+31	an event is a kind of action	nongold
+32	humans cause pollution	nongold
+33	debris can cause harm to an organism	nongold
+34	a stream is a kind of body of water	gold
+35	flowing is a kind of motion	nongold
+36	harming an organism can cause that organism to die	nongold
+37	degrading is similar to having a negative impact	nongold
+38	impact means effect	gold
+39	an environment means an area	nongold
+40	to impact means to affect	nongold
+41	an animal is a kind of living thing	nongold
+42	pollution is a source of pollutants	nongold
+43	to hurt means to harm	nongold
+44	Which human activity often has a harmful effect on the environment?	question
+45	rainwater is a kind of water	nongold
+46	recycling reduces; decreases the amount of waste sent to landfills	nongold
+47	causing is a kind of affecting	nongold
+48	if a human discards an object then that object will become waste	nongold
+49	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+50	humans changing an environment sometimes causes that environment to be destroyed	nongold
+51	waste has a  negative impact on the environment	gold
+52	decreasing something negative has a positive impact on a thing	nongold
+53	a negative impact is a kind of consequence; risk	nongold
+54	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+55	helping something has a  positive impact on that something	nongold
+56	runoff is a kind of water	nongold
+57	water is a kind of substance	nongold
+58	humans move waste to a  landfill for disposal;storage	nongold
+59	something that contains water is similar to a body of water	nongold
+60	destroying something causes harm to that something	nongold
+61	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+62	dead organisms are a kind of waste	nongold
+63	polluting is a kind of activity	nongold
+64	burning a living thing usually causes harm to that living thing	nongold
+65	human is a kind of organism	nongold
+66	a body of water is a kind of environment	gold
+67	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+68	a trashcan contains trash; garbage; waste	nongold
+69	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+70	a waterfall contains water	nongold
+71	a body of water contains water	nongold
+72	human waste often causes harm to an environment	nongold
+73	water is a kind of natural resource	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	An example of avoiding waste is using an object; a material more than once	nongold
+76	a river is a kind of flowing body of water	nongold
+77	attracting a stream of water can cause water to bend	nongold
+78	water is when humans pollute the environment with pollutants	nongold
+79	pollutants have a negative impact on the environment; air quality	nongold
+80	a puddle is a kind of body of water	nongold
+81	organisms are a part of an environment	nongold
+82	to discard means to throw away	gold
+83	throwing garbage into a stream	answer
+84	adverse effect means negative impact	nongold
+85	water is a kind of liquid at room temperature	nongold
+86	dumping something in an environment means adding that something to that environment	nongold
+87	action means activity	nongold
+88	landfills have a negative impact on the environment; communities	nongold
+89	a garbage can is a kind of container	nongold
+90	an organism is a living thing	nongold
+91	damage has a negative impact on a thing	nongold
+92	poisoning an environment means poisoning the organisms in that environment	nongold
+93	person is synonymous with human	nongold
+94	recycling has a  positive impact on the environment	nongold
+95	garbage means waste	gold
+96	decreasing something positive has a negative impact on a thing	nongold
+97	humans discarding waste in an environment causes harm to that environment	gold
+98	objects in an environment are a part of that environment	nongold
+99	hitting something causes harm to that something	nongold
+100	death means to die	nongold
+101	an environment is a kind of place	nongold

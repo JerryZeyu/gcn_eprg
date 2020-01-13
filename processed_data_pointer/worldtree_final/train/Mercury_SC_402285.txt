@@ -1,0 +1,102 @@
+0	a plant is a kind of living thing	gold
+1	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+2	generate means produce	nongold
+3	freshwater is a kind of water	nongold
+4	product means result	nongold
+5	a tree is a kind of plant	nongold
+6	to produce means to provide	nongold
+7	a bush is a kind of plant	nongold
+8	using coal requires burning coal	nongold
+9	a plant; living thing requires food for survival	nongold
+10	converting is similar to producing	nongold
+11	an ocean is a kind of body of water	nongold
+12	being buried under soil and mud changes peat into coal through extreme heat and pressure in a swamp over a long period of time	gold
+13	dead organisms decay	gold
+14	plants are a part of the environment	nongold
+15	being buried under soil and mud changes dead plant matter; dead animal matter into oil; natural gas through extreme heat and pressure at the bottom of the sea over a long period of time	nongold
+16	a fossil fuel is a kind of natural resource	nongold
+17	sinkholes; caves are formed by precipitation; infiltration	nongold
+18	a product is a kind of object	nongold
+19	aquatic animals; plants live in bodies of water	nongold
+20	killing means harming something causing death	nongold
+21	death means to die	nongold
+22	fossil fuels are a nonrenewable resource	nongold
+23	the formation of peat occurs at the bottom of swamps	gold
+24	a plant is a kind of organism	nongold
+25	to contribute is similar to produce	nongold
+26	water is a part of an environment	nongold
+27	the formation of something is a kind of process	nongold
+28	weed is a kind of plant	nongold
+29	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+30	low means down	nongold
+31	coal	answer
+32	coal is a kind of fossil fuel	nongold
+33	destruction means loss	nongold
+34	coal is used for generating heat by burning	nongold
+35	a source of something emits; produces; generates; provides that something	nongold
+36	oil is a kind of fossil fuel	nongold
+37	vegetation means plants	gold
+38	peat is made of decaying vegetation compacted by soil in a swamp over a long period of time	gold
+39	coal is a kind of sedimentary rock	nongold
+40	a body of water is a source of water	nongold
+41	a marsh is a kind of body of water	nongold
+42	a swamp is a kind of land feature	nongold
+43	processes sometimes produce waste products	nongold
+44	fire destroys plants in an environment	nongold
+45	to be formed by is similar to being produced by	nongold
+46	providing something means making;delivering something	nongold
+47	coal is a kind of fuel	nongold
+48	a plants; living things require water for survival; to grow	nongold
+49	natural gas is a kind of fossil fuel	nongold
+50	sinking means moving down	nongold
+51	coal is a kind of rock	nongold
+52	dead plants means dead plant material	nongold
+53	emit means produce	nongold
+54	an ecosystem contains a large community of; large numbers of living organisms	nongold
+55	plants are a kind of resource	nongold
+56	a producer is a kind of living thing	nongold
+57	dead organisms are a kind of waste	nongold
+58	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+59	fossil fuels; fossils forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+60	gases from burning coal and oil dissolving in water in the atmosphere causes acid rain	nongold
+61	a plant requires soil for survival; to grow	nongold
+62	beneath means below	nongold
+63	the ground is at the bottom of an area	nongold
+64	roots are a part of a plant; tree	nongold
+65	What product was being formed as plants died and sank to the bottom of swamps?	question
+66	below means lower down	nongold
+67	products are formed; are produced; are created	gold
+68	to create means to make	nongold
+69	if a living thing dies then that living thing is dead	nongold
+70	to be submerged means to be placed under	nongold
+71	coal is a kind of object	nongold
+72	forming coal; fossil fuels requires decaying vegetation	nongold
+73	mining changes an ecosystem	nongold
+74	green plants are a kind of producer	nongold
+75	coal; uranium is acquired by mining the lithosphere	nongold
+76	sink down is similar to settle	nongold
+77	to be made of something means to be formed of that something	nongold
+78	producing is a kind of process	nongold
+79	combustion is a kind of chemical change	nongold
+80	a swamp is a kind of environment	nongold
+81	coal is a nonrenewable resource	nongold
+82	organisms are a part of an environment	nongold
+83	a wetland is a kind of ecosystem	nongold
+84	creating means making	nongold
+85	being buried under soil and mud changes dead vegetation; dead plant matter into peat through extreme heat and pressure in a swamp over a long period of time	gold
+86	fossil fuel contains chemical energy	nongold
+87	the bottom of a body of water is the deepest	nongold
+88	natural gas is a source of heat by burning	nongold
+89	to form means to create	nongold
+90	natural gas is a nonrenewable resource	nongold
+91	a body of water is a kind of environment	nongold
+92	burning coal is a source of air pollution	nongold
+93	an ecosystem is a kind of habitat	nongold
+94	fossil fuels; fossils are formed from dead organisms over time	nongold
+95	the bottom is the lowest part of something	nongold
+96	to produce means to create	nongold
+97	to cause the formation of means to form	nongold
+98	make means produce	nongold
+99	sediment falls to the bottom of bodies of water	nongold
+100	a coal mine is a source of coal under the ground	nongold
+101	petroleum is a kind of fossil fuel	nongold

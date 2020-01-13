@@ -1,0 +1,102 @@
+Question	Two balls rolled down two identical inclined planes. The balls were exactly the same mass and size, but one ball rolled down the inclined plane faster. Identify a possible reason that one ball rolled faster than the other ball.	question
+Answer	One ball was sticky and the other ball was smooth.	answer
+0	an inclined plane is used for raising; lowering objects	nongold
+1	the properties of something can be used to identify; used to describe that something	nongold
+2	rough is the opposite of smooth	nongold
+3	a ball is a kind of object	gold
+4	rolling is a kind of motion	gold
+5	a roll is a kind of movement	nongold
+6	an inclined plane is a kind of simple machine	nongold
+7	two objects are usually different in size	nongold
+8	identical is the opposite of different	nongold
+9	to slow; to slow down decreases speed	nongold
+10	an inclined plane decreases the force required to move an object to a different altitude	nongold
+11	both means two	nongold
+12	identifying is similar to determining	nongold
+13	rolling down is similar to falling	nongold
+14	friction occurs when two object's surfaces move against each other	nongold
+15	inclined means sloping	nongold
+16	an inclined plane increases the distance over which an object travels	nongold
+17	different is the opposite of the same	nongold
+18	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	gold
+19	friction causes the speed of an object to decrease	nongold
+20	faster means an increase; higher in speed	gold
+21	motion; movement means moving; to move	nongold
+22	speed is a measure of how fast an object is moving	nongold
+23	speed is a property of an object and includes values of slow; fast	nongold
+24	an increase is the opposite of a decrease	gold
+25	sticky is similar to moist	gold
+26	friction causes speed to decrease	nongold
+27	something's function can be used to describe; identify that something	nongold
+28	same means identical; equal in value; amount; number; quantity	nongold
+29	fast is the opposite of slow	nongold
+30	if an object accelerates then that object will go faster	nongold
+31	round objects roll	nongold
+32	a surface is a part of an object	gold
+33	friction acts to counter the motion of two objects when their surfaces are touching	gold
+34	mass is similar to size	nongold
+35	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+36	the  property of something is the same for the things of same kind	nongold
+37	to change means to become different	nongold
+38	smooth is a kind of texture	nongold
+39	downward means down	nongold
+40	counter means reduce; stop; resist	gold
+41	mass is a property of objects; matter	nongold
+42	a surface is a kind of object	nongold
+43	objects are made of materials; substances; matter	nongold
+44	if something changes , then that something is not the same	nongold
+45	identifying sometimes requires examining	nongold
+46	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	gold
+47	to identify means to discover	nongold
+48	faster means increased rate	nongold
+49	a surface is a part of a material	nongold
+50	low is similar to decrease	nongold
+51	fast means quickly	nongold
+52	a living thing is a kind of object	nongold
+53	low means down	nongold
+54	opposite is a kind of different	nongold
+55	friction converts mechanical energy into heat energy	nongold
+56	high is similar to increase	nongold
+57	mass; weight is a property of matter; objects; materials	nongold
+58	an increase is a kind of change	nongold
+59	sliding is a kind of motion	nongold
+60	to reduce means to decrease	gold
+61	variable means able to change	nongold
+62	hitting is a kind of motion	nongold
+63	affected means changed	nongold
+64	similarity means the same property	nongold
+65	if two things are made from the same objects; material then those two things are similar	nongold
+66	to bump means to hit	nongold
+67	mass is a measure of the amount of matter in an object	nongold
+68	stay the same means not changing	nongold
+69	size difference is a kind of difference	nongold
+70	to distinguish means to tell the difference between	nongold
+71	a motion is a kind of event; action	nongold
+72	mass; weight are the same on Earth	nongold
+73	an object has properties	nongold
+74	low is the opposite of high	nongold
+75	travel means to move	nongold
+76	an part of an object is smaller than the entire object	nongold
+77	identical means copy	nongold
+78	a velocity is a measure of a speed in a direction	nongold
+79	movement is a kind of change	nongold
+80	to match means to be the same	nongold
+81	fastest means greatest in  speed	nongold
+82	as roughness of a surface increases , friction will increase	nongold
+83	to lower means to decrease	nongold
+84	a rotation is a kind of movement	nongold
+85	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+86	less is similar to decrease	nongold
+87	small is the opposite of large	nongold
+88	a cause of something is a reason for that something	nongold
+89	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	nongold
+90	friction causes an object to lose energy	nongold
+91	sliding is a kind of movement	nongold
+92	moving is similar to travelling	nongold
+93	as the shape of an object changes , the mass of that object will stay the same	nongold
+94	as an object is moving down , the speed of the object  will increase	nongold
+95	increase means more	nongold
+96	rotation is a kind of motion	nongold
+97	slowest means lowest in  speed	nongold
+98	friction causes the temperature of an object to increase	nongold
+99	substances are made of matter	nongold

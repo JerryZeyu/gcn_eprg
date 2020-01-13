@@ -1,0 +1,63 @@
+0	to eat means to consume food	nongold
+1	lemon juice is a kind of acid	nongold
+2	a nutritional deficiency	answer
+3	requiring is similar to needing help	nongold
+4	sugary foods; drinks are dangerous to a person with diabetes	nongold
+5	an organism is a living thing	nongold
+6	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	gold
+7	Scurvy is a disease that sailors often got on long voyages. It was discovered that scurvy could be prevented by eating oranges and lemons. This suggests that scurvy is a disease caused by	question
+8	fruit salad is a kind of salad	nongold
+9	illness has a negative impact on an organism's health	nongold
+10	Scurvy is a disease that sailors often got on long voyages. It was discovered that scurvy could be prevented by eating oranges and lemons. This suggests that scurvy is a disease caused by	question
+11	a lemon is a kind of fruit	gold
+12	a vegetable is a kind of food	nongold
+13	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+14	adverse effect means negative impact	nongold
+15	disease has a negative impact on an organism	nongold
+16	fruit is a kind of food	gold
+17	a nutritional deficiency	answer
+18	fruit is a kind of food	gold
+19	eating oranges; lemons can prevent scurvy	gold
+20	producing is similar to causing	nongold
+21	a nutritional deficiency	answer
+22	eating oranges; lemons can prevent scurvy	gold
+23	a disordered immune system causes autoimmune diseases	nongold
+24	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	gold
+25	negative impact is the opposite of positive impact	nongold
+26	high is similar to increase	nongold
+27	arteries; veins transport nutrients; water; minerals throughout the body	nongold
+28	requiring something means needing that something	nongold
+29	due to means caused by	nongold
+30	sugar is a kind of food	nongold
+31	a person with diabetes should be careful about eating or drinking something that is high in sugar	nongold
+32	an orange is a kind of fruit	gold
+33	an orange is a kind of fruit	gold
+34	scurvy is a kind of disease	gold
+35	an animal needs to eat food for nutrients	nongold
+36	scurvy is a kind of disease	gold
+37	dysentery is a kind of illness	nongold
+38	eating oranges; lemons can prevent scurvy	gold
+39	typically means usually	nongold
+40	a lemon is a kind of fruit	gold
+41	an animal is a kind of living thing	nongold
+42	an orange is a kind of fruit	gold
+43	a negative impact is a kind of consequence; risk	nongold
+44	Scurvy is a disease that sailors often got on long voyages. It was discovered that scurvy could be prevented by eating oranges and lemons. This suggests that scurvy is a disease caused by	question
+45	a nutritional deficiency	answer
+46	a lemon is a kind of fruit	gold
+47	if a living thing requires something then that something has a positive impact on that living thing	nongold
+48	Scurvy is a disease that sailors often got on long voyages. It was discovered that scurvy could be prevented by eating oranges and lemons. This suggests that scurvy is a disease caused by	question
+49	something harmful can cause harm	nongold
+50	scurvy is a kind of disease	gold
+51	dying is the opposite of living; surviving	nongold
+52	person is synonymous with human	nongold
+53	inhibitor means something that prevents something from happening	nongold
+54	fruit is a kind of food	gold
+55	an animal is a kind of organism	nongold
+56	an apple is a kind of fruit	nongold
+57	a fruit is a kind of object	nongold
+58	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	gold
+59	to cause means to have an effect	nongold
+60	healthy means not having disease	nongold
+61	a human is a kind of animal	nongold
+62	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold

@@ -1,0 +1,102 @@
+0	using resources decreases those resources	nongold
+1	an event is a kind of action	nongold
+2	wood is a kind of resource	nongold
+3	water is a renewable resource	nongold
+4	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+5	removing a forest means cutting down the trees in that forest	nongold
+6	clearing a forest means humans cutting down the trees	nongold
+7	can be means able to be	nongold
+8	an increase is a kind of change	nongold
+9	deforested area means an area where trees have been cut down	nongold
+10	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+11	an inexhaustible resource is a kind of renewable resource	nongold
+12	trees are a renewable resource	gold
+13	the supply of an inexhaustible resource does not change over a long period of time	nongold
+14	a source of something increases the amount of that something	nongold
+15	if something causes a process then that something is required for that process	nongold
+16	a decrease is a kind of change	nongold
+17	low is similar to decrease	nongold
+18	trees are a kind of resource	nongold
+19	a requirement is a kind of limitation	nongold
+20	plants are a kind of resource	nongold
+21	Which of the following could limit the supply of a renewable resource?	question
+22	renewable resources can be used over again	nongold
+23	impact means effect	nongold
+24	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+25	destroying something decreases the amount of that something	nongold
+26	to be used for something means to be required by that something	nongold
+27	to lower means to decrease	nongold
+28	a renewable resource can be replaced	nongold
+29	planting trees is the opposite of cutting down trees	nongold
+30	an environment means an area	nongold
+31	less is similar to decrease	nongold
+32	woodland means forest	nongold
+33	cutting down trees in a forest causes the number of trees to decrease in that forest	gold
+34	requiring something means needing that something	nongold
+35	negative impact is the opposite of positive impact	nongold
+36	loss means reduction	nongold
+37	limiting something is a kind of activity	nongold
+38	trees are a kind of natural resource	nongold
+39	removing forests means removing animal habitats	nongold
+40	fossil fuels are a nonrenewable resource	nongold
+41	if something is required for a process then that something positively impacts that process	nongold
+42	a renewable resource can be renewed	nongold
+43	to reduce means to decrease	nongold
+44	if an event is required for a process then that event must occur before that process can occur	nongold
+45	a component means a part of	nongold
+46	roots are a part of a plant; tree	nongold
+47	a nonrenewable resource is limited in supply	nongold
+48	cutting down trees in forests	answer
+49	a supply of something is a source of that something	nongold
+50	a process is a kind of event	nongold
+51	a source of something emits; produces; generates; provides that something	nongold
+52	a fossil fuel is a kind of natural resource	nongold
+53	answering questions requires information	nongold
+54	high is similar to increase	nongold
+55	a restriction can be used to limit something; keep something low	nongold
+56	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+57	fossil fuels are a kind of energy resource	nongold
+58	change is a kind of impact	nongold
+59	a source of something supplies that something	nongold
+60	if a resource is limited in supply then that resource needs to be replaced	nongold
+61	reducing is a kind of change	nongold
+62	a forest contains  lots of plants; trees	nongold
+63	planting trees is sometimes a human activity	nongold
+64	destroying a forest means cutting down the trees in that forest	nongold
+65	a renewable resource is a kind of natural resource	nongold
+66	if something emits something else then that something increases the amount of that something else	nongold
+67	deforestation is the process of cutting down trees	nongold
+68	a tree contains wood	nongold
+69	a forest is a kind of environment	nongold
+70	less means a reduced amount	nongold
+71	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+72	renewable is the opposite of nonrenewable	nongold
+73	vegetation means plants	nongold
+74	timber companies cut down trees	nongold
+75	if a resource is limited in supply then that resource will run out	nongold
+76	an increase is the opposite of a decrease	nongold
+77	some animals live in forests	nongold
+78	a forest is a kind of ecosystem	nongold
+79	a plant is a kind of living thing	nongold
+80	a renewable resource is a kind of naturally replaced resource	nongold
+81	a tree is a kind of plant	nongold
+82	a natural resource is a kind of environmental factor	nongold
+83	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+84	to depend on; to rely on; to need means to require	nongold
+85	removing a forest means cutting down a forest	nongold
+86	a tree is a kind of living thing	nongold
+87	if something causes an increase in something else then that something produces that something else	nongold
+88	planting trees has a  positive impact on an ecosystem	nongold
+89	increase means more	nongold
+90	building usually requires cutting down trees	nongold
+91	wood is a renewable resource	nongold
+92	renewable resources are often available for many years	nongold
+93	to limit means to decrease	gold
+94	clearing a forest is similar to deforestation	nongold
+95	to provide means to supply	nongold
+96	cutting down a forest means cutting down the trees in that forest	nongold
+97	a tree can be replaced by planting a new tree each time one is cut down	nongold
+98	logging is when humans cut down trees; forests for wood	nongold
+99	forest is synonymous with wooded area	nongold
+100	if a tree is cut down then that tree will die	nongold
+101	too much is similar to increase	nongold

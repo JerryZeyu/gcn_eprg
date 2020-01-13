@@ -1,0 +1,55 @@
+0	a human is a kind of animal	nongold
+1	a pound is a kind of unit for measuring mass	nongold
+2	pair means two	nongold
+3	length is a measure of distance from one end of an object to the other end of that object	nongold
+4	lowest means least in value; amount; number	nongold
+5	motion; movement means moving; to move	nongold
+6	weight is a kind of property	gold
+7	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	gold
+8	a scale is used for measuring weight	gold
+9	as amount; size of something increases , the intensive properties of that something will not change	nongold
+10	a container contains objects; material; substances	nongold
+11	a tool is a kind of object	nongold
+12	length is a property of the shape of an object	nongold
+13	height	answer
+14	Stacey picks apples and puts them in a basket. When she puts her basket on a scale, the scale reads two kilograms	question
+15	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	gold
+16	a piece of something is a kind of object	nongold
+17	a balance is a kind of instrument for measuring mass; measuring weight	nongold
+18	larger; bigger is the opposite of smaller	nongold
+19	weight is a kind of property	gold
+20	smaller means less; lower in size	nongold
+21	a scale is used for measuring weight	gold
+22	a box is a kind of object	nongold
+23	pounds ( lb ) are a  imperial unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+24	a balance is used for measuring mass;weight of an object; of a substance	nongold
+25	small is the opposite of large	nongold
+26	an  apple is  hard	nongold
+27	a piece of an object is smaller in size than the whole object	nongold
+28	Stacey picks apples and puts them in a basket. When she puts her basket on a scale, the scale reads two kilograms	question
+29	height is an inherited characteristic	nongold
+30	food is a kind of substance	nongold
+31	a type is synonymous with a kind	nongold
+32	growing is when an animal's height;mass;size increase	nongold
+33	heavy means a large amount of weight	nongold
+34	calculation means measurement	nongold
+35	Stacey picks apples and puts them in a basket. When she puts her basket on a scale, the scale reads two kilograms	question
+36	height	answer
+37	structure is a property of an object; a material; a substance	nongold
+38	a living thing is a kind of object	nongold
+39	objects are made of materials; substances; matter	nongold
+40	highest means largest; greatest; most in height	nongold
+41	an  apple is  round in shape	nongold
+42	taller means greater in height; size	nongold
+43	material means substance	nongold
+44	weight is a kind of property	gold
+45	height is a property of the size of an object	nongold
+46	the volume of an object can be used to describe  the size of that object	nongold
+47	a scale is used for measuring weight	gold
+48	light means low  in weight	nongold
+49	an apple is a kind of fruit	nongold
+50	measuring requires reading a measurement	nongold
+51	height	answer
+52	height	answer
+53	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	gold
+54	Stacey picks apples and puts them in a basket. When she puts her basket on a scale, the scale reads two kilograms	question

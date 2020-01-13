@@ -1,0 +1,102 @@
+Question	Which of the following can only be seen with a telescope?	question
+Answer	the moon-like phases of Venus	answer
+0	Venus is a kind of planet	gold
+1	Venus has moon-like phases	gold
+2	type of moon; kind of moon means moon phase	nongold
+3	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+4	lunar phase is synonymous with moon phase	nongold
+5	a full moon is a kind of phase of the moon	nongold
+6	Venus is the planet that is second closest to the  Sun	nongold
+7	a phase of the moon is a kind of state	nongold
+8	phase means state	nongold
+9	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	gold
+10	a moon is a kind of celestial object; body	nongold
+11	human eyes can only see light in the range of visible light	nongold
+12	the phases of the Moon change the appearance of the Moon	nongold
+13	a moon phase is a kind of natural event	nongold
+14	if something is visible , then that something can be observed	nongold
+15	not visible means cannot be seen	nongold
+16	a moon phase occurs 28 days after the last time it occurred	nongold
+17	a first quarter is a kind of phase of the moon	nongold
+18	a telescope is a kind of optical instrument for observing celestial objects; observing the sky	gold
+19	Venus is closer to the sun than Earth	nongold
+20	the first quarter phase of the moon occurs after the new moon	nongold
+21	a new moon is a kind of phase of the moon	nongold
+22	each of the moon's phases occurs once per month	nongold
+23	to see means to look	nongold
+24	cycles of day and night occur once per day	nongold
+25	Venus reflects more sunlight toward Earth than other planets	nongold
+26	look at means observe	nongold
+27	an animal is a kind of living thing	nongold
+28	a last quarter is a kind of phase of the moon	nongold
+29	a waning crescent is a kind of phase of the moon	nongold
+30	optical tools are used for observing materials up close; in greater detail	nongold
+31	a mammal is a kind of animal	nongold
+32	visible means able to be seen	nongold
+33	a waning gibbous is a kind of phase of the moon	nongold
+34	viewing means observing light	nongold
+35	to view means to see	nongold
+36	a living thing is a kind of object	nongold
+37	detailed observation of celestial objects requires a telescope	nongold
+38	a waxing gibbous is a kind of phase of the moon	nongold
+39	the night time is part of one day	nongold
+40	the moon orbits the Earth	nongold
+41	can be means able to be	nongold
+42	a cycle happens; occurs repeatedly	nongold
+43	invisible means cannot be seen	nongold
+44	a different moon phase occurs once per week	nongold
+45	seeing requires light	nongold
+46	an optical telescope requires visible light for human to use	nongold
+47	if an object reflects light toward the eye then that object can be seen	nongold
+48	observable means visible	nongold
+49	a human is a kind of animal	nongold
+50	moons are large; solid; spherical	nongold
+51	observe means see	nongold
+52	the sun rising and setting causes cycles of day and night	nongold
+53	Mercury is closer to the Sun than Venus	nongold
+54	the Moon is Earth's moon	nongold
+55	the dark half of the moon is not visible	nongold
+56	looking is similar to observing	nongold
+57	a lens is a part of a telescope	nongold
+58	a human is a kind of mammal	nongold
+59	binoculars are used for observing distant objects	nongold
+60	a waxing crescent is a kind of phase of the moon	nongold
+61	eyes are used for seeing by animals by sensing light	nongold
+62	magnifying glass is used to see  small things by making objects appear bigger	nongold
+63	visible light is able to be seen without using equipment	nongold
+64	the eyes are part of the head used for seeing	nongold
+65	the day time is part of one day	nongold
+66	an event is a kind of action	nongold
+67	not looking means not seeing	nongold
+68	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+69	sight means to see	nongold
+70	water is a kind of water phase	nongold
+71	to get a better look at means to see better	nongold
+72	a type is synonymous with a kind	nongold
+73	seeing is used for sensing visual things	nongold
+74	an animal is a kind of organism	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	a convex lens causes light to refract and concentrate to magnify distant objects	nongold
+77	eyes can sense;detect light energy for seeing	nongold
+78	a motion is a kind of event; action	nongold
+79	eyes are a part of a human for seeing	nongold
+80	a can is a kind of object	nongold
+81	an optical telescope is a kind of telescope	nongold
+82	all the time means at day and at night	nongold
+83	an organism is a living thing	nongold
+84	a cat is a kind of mammal	nongold
+85	binoculars are a kind of instrument for observing distant objects	nongold
+86	an part of an object is smaller than the entire object	nongold
+87	events occur at a specific place; at a specific time; with a specific frequency	nongold
+88	condensing is a kind of  phase change	nongold
+89	a component means a part of	nongold
+90	a full moon occurs after a waxing gibbous moon	nongold
+91	the properties of something are used for describing that something	nongold
+92	the sun rising; setting occurs once per day	nongold
+93	to watch means to look at	nongold
+94	a planet is a kind of celestial object; body	gold
+95	a landform is a kind of object	nongold
+96	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+97	to be made of something means to be formed of that something	nongold
+98	affected means changed	nongold
+99	the moon rotates on its axis	nongold

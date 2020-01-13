@@ -1,0 +1,52 @@
+0	a tornado has high wind speeds	gold
+1	precipitation is a kind of weather	nongold
+2	high means a lot of something	nongold
+3	low means low in elevation; height; altitude	nongold
+4	usually means most of the time	nongold
+5	if something emits something else then that something increases the amount of that something else	nongold
+6	100% probability means always	nongold
+7	an increase is a kind of change	nongold
+8	wind   is a kind of airflow	nongold
+9	hurricanes cause harm to living things; to buildings	nongold
+10	low pressure systems cause precipitation	nongold
+11	windy is a kind of weather	nongold
+12	as heat and moisture  increases , the strength of a hurricane will increase	nongold
+13	causing is a kind of affecting	nongold
+14	a hurricane is a kind of storm	nongold
+15	Both hurricanes and tornadoes always ___.	question
+16	greater means higher; more in value	nongold
+17	a change is a kind of event	nongold
+18	to change means to cause a change	nongold
+19	losing something decreases the amount of that something	nongold
+20	a motion is a kind of event; action	nongold
+21	have high winds	answer
+22	wind means moving air	nongold
+23	faster means an increase; higher in speed	nongold
+24	cloudy conditions cause a low-pressure weather system	nongold
+25	to cause means to have an effect	nongold
+26	An example of stormy weather is rain	nongold
+27	a hurricane has high wind speeds	gold
+28	as the cause of something decreases , that something will decrease	nongold
+29	a tornado has high wind speeds	gold
+30	wind pattern is a kind of weather pattern	nongold
+31	to cause an event is similar to being involved in that event	nongold
+32	Both hurricanes and tornadoes always ___.	question
+33	cloudy means the presence  of clouds in the sky	nongold
+34	Both hurricanes and tornadoes always ___.	question
+35	Both hurricanes and tornadoes always ___.	question
+36	high means great in altitude	nongold
+37	hitting is a kind of motion	nongold
+38	something that happens is a kind of event	nongold
+39	a tornado has high wind speeds	gold
+40	have high winds	answer
+41	a hurricane has high wind speeds	gold
+42	a hurricane has high wind speeds	gold
+43	change is a kind of impact	nongold
+44	producing is similar to causing	nongold
+45	have high winds	answer
+46	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+47	rain is a kind of precipitation	nongold
+48	have high winds	answer
+49	a source of something increases the amount of that something	nongold
+50	a source of something emits; produces; generates; provides that something	nongold
+51	low is the opposite of high	nongold

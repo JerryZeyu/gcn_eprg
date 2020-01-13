@@ -1,0 +1,63 @@
+0	an increase is a kind of change	nongold
+1	wood is a kind of resource	gold
+2	frame construction is a kind of industry	gold
+3	greatest means largest; highest; most amount of something	nongold
+4	wood.	answer
+5	Frame construction predominates in the New England area due to the abundance of	question
+6	Surrey is a county located in England	nongold
+7	New England has an abundance of trees	gold
+8	Frame construction predominates in the New England area due to the abundance of	question
+9	most means over 50% of something	nongold
+10	less is similar to decrease	nongold
+11	to be used for something means to be required by that something	nongold
+12	abundant means high in number	nongold
+13	wood.	answer
+14	Worcestershire is a county located in England	nongold
+15	if an industry requires a resource then that industry predominates in areas with an abundance of that resource	gold
+16	to lower means to decrease	nongold
+17	amount is similar to abundance	nongold
+18	Essex is a county located in England	nongold
+19	Oxfordshire is a county located in England	nongold
+20	a tree contains wood	gold
+21	wood is a kind of resource	gold
+22	Middlesex is a county located in England	nongold
+23	an increase is the opposite of a decrease	nongold
+24	Dorset is a county located in England	nongold
+25	building something often requires measuring the materials	nongold
+26	a tree is a kind of plant	nongold
+27	Frame construction predominates in the New England area due to the abundance of	question
+28	wood is a light material	nongold
+29	a tree contains wood	gold
+30	frame construction is a kind of industry	gold
+31	Wiltshire is a county located in England	nongold
+32	if an industry requires a resource then that industry predominates in areas with an abundance of that resource	gold
+33	Frame construction predominates in the New England area due to the abundance of	question
+34	an environment is a kind of place	nongold
+35	if something required by something else is in a place then that something else may be in that place	nongold
+36	little is similar to decrease	nongold
+37	frame construction is a kind of industry	gold
+38	Devon is a county located in England	nongold
+39	a decrease is a kind of change	nongold
+40	New England has an abundance of trees	gold
+41	wood is a kind of natural material	nongold
+42	wood.	answer
+43	objects are made of materials; substances; matter	nongold
+44	Cheshire is a county located in England	nongold
+45	New England has an abundance of trees	gold
+46	increase means more	nongold
+47	wood is a kind of resource	gold
+48	new means different from the former one	nongold
+49	Gloucestershire is a county located in England	nongold
+50	if an industry requires a resource then that industry predominates in areas with an abundance of that resource	gold
+51	Rutland is a county located in England	nongold
+52	a tree contains wood	gold
+53	Buckinghamshire is a county located in England	nongold
+54	to lack means to not have	nongold
+55	frame construction requires wood	gold
+56	wood.	answer
+57	frame construction requires wood	gold
+58	construction means building	nongold
+59	Cambridgeshire is a county located in England	nongold
+60	Staffordshire is a county located in England	nongold
+61	frame construction requires wood	gold
+62	building a tool requires knowing about the parts of that tool	nongold

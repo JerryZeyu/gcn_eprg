@@ -1,0 +1,102 @@
+0	When light reaches an eyeglass lens, the light is	question
+1	refracted.	answer
+2	an eyeglass lens is a kind of object	gold
+3	an eyeglass lens is often made of glass	gold
+4	lenses are a part of eyeglasses	nongold
+5	a hand lens; a magnifying lens is synonymous with a magnifying glass	nongold
+6	a magnifying glass is a kind of tool for observing small things	nongold
+7	light comes to the focal point after passing the convex lens	nongold
+8	a convex lens causes light to refract and concentrate to magnify distant objects	nongold
+9	eyes are a part of a human for seeing	nongold
+10	lenses are a kind of object	nongold
+11	eyes are used for seeing by animals by sensing light	nongold
+12	light enters the eye through the pupil	nongold
+13	sunglasses are a kind of eyeglasses	nongold
+14	refraction is a property of light	nongold
+15	eyes are usually part of an animal for seeing	nongold
+16	a lens is a part of a telescope	nongold
+17	sight means vision	nongold
+18	the eyes are part of the head used for seeing	nongold
+19	sight means to see	nongold
+20	glass; objects made of glass cause refraction of light	gold
+21	magnifying glass is used to see  small things by making objects appear bigger	nongold
+22	a convex lens is used in camera	nongold
+23	refraction is when light passes from one medium to another medium	nongold
+24	when light enters the eye through the pupil , that light falls on the retina	nongold
+25	some lenses are made of glass	nongold
+26	sunglasses are used for reflecting light rays away from the eyes	nongold
+27	a convex lens is a kind of lenses	nongold
+28	a mirror reflects light	nongold
+29	refraction is when a wave goes through; transmits through; passes through a surface; a material; an object and travels in a different direction relative to the angle of incidence	nongold
+30	a mirror is used for reflecting light	nongold
+31	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+32	a retina is part of an eye for sensing light	nongold
+33	a convex lens is a part of telescope	nongold
+34	an image in a mirror is formed by reflecting light	nongold
+35	to see means to look	nongold
+36	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+37	refraction is a kind of process	nongold
+38	an optical telescope requires visible light for human to use	nongold
+39	if an object reflects light toward the eye then that object can be seen	nongold
+40	optical tools are used for observing materials up close; in greater detail	nongold
+41	objects are made of materials; substances; matter	nongold
+42	refraction is when light bends	nongold
+43	sunlight is a kind of light	nongold
+44	reflection is a property of light	nongold
+45	a surface is a part of a material	nongold
+46	a surface is a part of an object	nongold
+47	tinted lenses are a part of sunglasses for protecting the eyes by reflecting light	nongold
+48	can be means able to be	nongold
+49	a telescope is a kind of optical instrument for observing celestial objects; observing the sky	nongold
+50	an optical telescope is a kind of telescope	nongold
+51	to view means to see	nongold
+52	sight is a kind of sense	nongold
+53	when something reaches something else , that something has usually completed its movement	nongold
+54	refracting sunlight; light causes sunlight; light to split into different colors	nongold
+55	to focus means to concentrate	nongold
+56	a device is a kind of object	nongold
+57	light is a kind of wave	nongold
+58	reflection is a kind of process	nongold
+59	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	nongold
+60	a human is a kind of animal	nongold
+61	seeing requires light	nongold
+62	eyes can sense;detect light energy for seeing	nongold
+63	observable means visible	nongold
+64	some lenses are made of plastic	nongold
+65	a surface is a kind of object	nongold
+66	refractions of light can be used to help a person see	nongold
+67	a prism refracts light	nongold
+68	observe means see	nongold
+69	refraction changes the length and the direction of light	nongold
+70	an part of an object is smaller than the entire object	nongold
+71	reflection is when a wave bounces off a surface and travels in the  opposite direction relative to the angle of incidence	nongold
+72	light is made of photons	nongold
+73	seeing is used for sensing visual things	nongold
+74	a living thing is a kind of object	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	to reflect light means to scatter light	nongold
+77	refraction causes something to appear; to look different	nongold
+78	an animal is a kind of living thing	nongold
+79	motion is when moves an object; something to a direction	nongold
+80	a reflecting telescope is a kind of telescope	nongold
+81	refraction of light can split light into lights of different color	nongold
+82	a mirror is a kind of reflective object	nongold
+83	viewing means observing light	nongold
+84	if an object is made of a material then that object has the properties of that material	nongold
+85	an animal is a kind of organism	nongold
+86	to shine means to emit light	nongold
+87	emit means produce	nongold
+88	affected means changed	nongold
+89	motion; movement means moving; to move	nongold
+90	a tool is a kind of object	nongold
+91	human eyes can only see light in the range of visible light	nongold
+92	light means light energy	nongold
+93	to bounce back means to reflect	nongold
+94	to illuminate means to light up	nongold
+95	a prism is used for refracting light	nongold
+96	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+97	sunlight is made of ultraviolet, infrared, and visible light	nongold
+98	length is a measure of distance from one end of an object to the other end of that object	nongold
+99	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+100	light is a kind of electromagnetic radiation	nongold
+101	if an object is translucent , then some light will shine through that object	nongold

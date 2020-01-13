@@ -1,0 +1,102 @@
+0	gaseous means of gas	nongold
+1	melting point means temperature at which a solid melts; above which a solid melts	nongold
+2	to turn means to change	nongold
+3	a source of something emits; produces; generates; provides that something	nongold
+4	air is a kind of matter	nongold
+5	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+6	boiling point is a property of a substance; material	nongold
+7	a solid is a kind of substance	nongold
+8	gas is a kind of object	nongold
+9	to exhale means to release	nongold
+10	when a gas in an open container evaporates; boils , that gas spreads out into the air	nongold
+11	to lower means to decrease	nongold
+12	to reduce means to decrease	nongold
+13	air is usually a thermal; thermal energy insulator	nongold
+14	an increase is a kind of change	nongold
+15	heat energy can change the state of matter	nongold
+16	heat means heat energy	nongold
+17	temperature changing can cause phase changes	nongold
+18	to give off means to be the source of	nongold
+19	adding heat means increasing temperature	nongold
+20	liquid is a kind of state of matter	nongold
+21	carbon dioxide is a kind of gas	nongold
+22	adding something is a kind of change	nongold
+23	boiling is when liquids are heated above their boiling point	gold
+24	material means substance	nongold
+25	a liquid is a kind of substance	nongold
+26	volume has no impact on boiling; melting; freezing point	nongold
+27	combustion is a kind of chemical change	nongold
+28	substances are made of matter	nongold
+29	materials are made of matter	nongold
+30	to emit means to release	nongold
+31	the boiling point of water is 212F; 100C; 373K	nongold
+32	becoming is similar to changing	gold
+33	reducing is a kind of change	nongold
+34	to happen means to occur	nongold
+35	solid is a kind of state of matter	nongold
+36	boiling point is the highest temperature a liquid can reach	nongold
+37	boiling is a kind of phase change	nongold
+38	converting is similar to releasing	nongold
+39	condensing means matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+40	liquid becomes a gas	answer
+41	propane;C_{3}H_{8} is a kind of gas at room temperature	nongold
+42	when gas compresses , the temperature of the gas increases	nongold
+43	phase means state	nongold
+44	to change into means to form	nongold
+45	evaporating is a kind of phase change	nongold
+46	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+47	boiling is a kind of event	nongold
+48	desublimation; deposition means matter; a substance changes from a gas into a solid by decreasing heat energy	nongold
+49	water is a kind of matter	nongold
+50	to convert means to change	nongold
+51	oxygen is a kind of gas at room temperature	nongold
+52	Matter in the gas phase has variable shape	nongold
+53	gas is a kind of material	nongold
+54	water is a kind of substance	nongold
+55	a  gas is a kind of  element	nongold
+56	vapor is synonymous with gas	nongold
+57	chemical change is a kind of chemical reaction	nongold
+58	Matter in the gas phase has variable volume	nongold
+59	heat means temperature increases	nongold
+60	a solution is formed by one substance being dissolved in another substance	nongold
+61	Matter in the liquid phase has variable shape	nongold
+62	gas is a kind of nonmetal	nongold
+63	chemical change is the opposite of physical change	nongold
+64	high is similar to increase	nongold
+65	air is a kind of gas	nongold
+66	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+67	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+68	becoming is a kind of action	nongold
+69	becoming is similar to forming	nongold
+70	state means form	nongold
+71	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+72	freezing is a kind of phase change	nongold
+73	gas is a kind of substance	nongold
+74	if liquid is boiling then that liquid is hot	nongold
+75	chlorine is a kind of green, poisonous gas	nongold
+76	solution is a kind of liquid	nongold
+77	something that happens is a kind of event	nongold
+78	freezing point is a property of a substance; material	nongold
+79	to change means to cause a change	nongold
+80	condensation is when matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+81	a liquid is a kind of fluid	nongold
+82	a volatile substance gives off gas	nongold
+83	air temperature is a kind of temperature	nongold
+84	What happens at the boiling point of a substance?	question
+85	temperature is a measure of heat energy	nongold
+86	boiling means the volume of a liquid decreases	nongold
+87	boiling point is a kind of physical  property	nongold
+88	liquid; solid means nongaseous	nongold
+89	boiling point is an intensive property	nongold
+90	a decrease is a kind of change	nongold
+91	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+92	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+93	gas is a kind of state of matter	nongold
+94	a phase change is a kind of physical change	nongold
+95	forming is similar to converting	nongold
+96	to add means to increase	nongold
+97	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+98	chemical reactions cause chemical change	nongold
+99	condensing is when gasses are  cooled below their boiling point	nongold
+100	water is a kind of liquid at room temperature	nongold
+101	mass has no impact on boiling; melting; freezing point	nongold

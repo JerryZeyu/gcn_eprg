@@ -1,0 +1,61 @@
+0	causing is similar to generating	nongold
+1	fusion	answer
+2	formation of a state of matter is a kind of process	nongold
+3	producing is a kind of function	nongold
+4	something that happens is a kind of event	nongold
+5	generate means produce	gold
+6	nuclear fusion converts hydrogen into helium	nongold
+7	to give off means to be the source of	nongold
+8	the Sun is a kind of star	gold
+9	the Earth revolves around the sun	nongold
+10	a source of something emits; produces; generates; provides that something	nongold
+11	solar energy is a kind of heat energy	nongold
+12	nuclear fusion is a kind of process	nongold
+13	converting is similar to producing	nongold
+14	the function of something is what that something  is used to do	nongold
+15	answering questions requires information	nongold
+16	generate means produce	gold
+17	sunlight produces heat	nongold
+18	small stars burn for billions of years	gold
+19	generate means produce	gold
+20	What is the process that produces energy in the Sun for billions of years?	question
+21	nuclear fusion in a star's core generates energy for the star to (burn, shine)	gold
+22	What is the process that produces energy in the Sun for billions of years?	question
+23	a component of something means a part of that something	nongold
+24	to provide something means to be the source of that something	nongold
+25	the sun is a source of light; light energy called sunlight	nongold
+26	fusion	answer
+27	to convert means to change	nongold
+28	to a human a time period of 1000 years or more years is considered very long	nongold
+29	nuclear fusion in a star's core generates energy for the star to (burn, shine)	gold
+30	length of time means period of time	nongold
+31	nuclear fusion in a star's core generates energy for the star to (burn, shine)	gold
+32	to produce means to provide	nongold
+33	a part of a process means a stage in a process	nongold
+34	nuclear fusion causes star formation	nongold
+35	if something emits something else then that something increases the amount of that something else	nongold
+36	fusion	answer
+37	a star is a kind of celestial object; celestial body	nongold
+38	nuclear fusion is a kind of process	gold
+39	small stars burn for billions of years	gold
+40	if something causes a process then that something is required for that process	nongold
+41	sunlight is a kind of solar energy	nongold
+42	What is the process that produces energy in the Sun for billions of years?	question
+43	nuclear fusion is a kind of process	gold
+44	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+45	the sun is a source of radiation; heat called sunlight	nongold
+46	Earth is a kind of planet	nongold
+47	decades are a kind of unit for measuring time	nongold
+48	fusion	answer
+49	the Sun is a kind of star	gold
+50	protons and neutrons are formed during nuclear fusion	nongold
+51	the Sun is a kind of star	gold
+52	an increase is a kind of change	nongold
+53	if something releases something else then that something is the source of that something else	nongold
+54	small stars burn for billions of years	gold
+55	to power means to provide energy for	nongold
+56	nuclear fusion is a kind of process	gold
+57	to generate means to create	nongold
+58	producing is similar to causing	nongold
+59	a producer is a kind of living thing	nongold
+60	What is the process that produces energy in the Sun for billions of years?	question

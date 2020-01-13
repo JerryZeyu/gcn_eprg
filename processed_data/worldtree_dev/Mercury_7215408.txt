@@ -1,0 +1,102 @@
+Question	Which object is a planet found in the Milky Way Galaxy?	question
+Answer	Earth	answer
+0	Earth is located in the Milky Way Galaxy	gold
+1	the Milky Way is a kind of galaxy	nongold
+2	the Milky Way is a kind of spiral galaxy	nongold
+3	Earth is a kind of planet	gold
+4	the Sun is located near the edge of the Milky Way Galaxy	nongold
+5	to be found in means to be contained in	nongold
+6	if something is located  in somewhere , then something can be found in somewhere	gold
+7	if something is a part of something then that something can be found in that something	nongold
+8	celestial bodies; celestial objects are found in space	nongold
+9	a planet is a kind of celestial object; body	gold
+10	planets are found in space	nongold
+11	to discover means to find	nongold
+12	the Milky Way galaxy appears as a glowing band across the night sky	nongold
+13	a galaxy is a kind of celestial body; celestial object	nongold
+14	if something is located in some place , then the presence of that something can be found in that location	nongold
+15	a star is a kind of celestial object; celestial body	nongold
+16	found in means existing in	nongold
+17	galaxies are located  millions of light years from Earth	nongold
+18	astronomy is the study of celestial (objects, bodies)	nongold
+19	to detect means to find	nongold
+20	a galaxy is a kind of celestial body	nongold
+21	made of is similar to contains	nongold
+22	the Moon is Earth's moon	nongold
+23	a galaxy contains dust; stars; planets	nongold
+24	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+25	a galaxy is made of stars	nongold
+26	a moon is a kind of celestial object; body	nongold
+27	the Sun is a kind of star	nongold
+28	a device is a kind of object	nongold
+29	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+30	finding something means locating that something	nongold
+31	a galaxy is made of a group of objects in space	nongold
+32	contains means located in	nongold
+33	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+34	planets orbit stars	nongold
+35	made up of means contains; made of	nongold
+36	a planet is a kind of location	nongold
+37	Jupiter is a kind of outer planet	nongold
+38	Earth is the planet that is third closest to the  Sun	nongold
+39	if something does not move then that something can be found in the same location	nongold
+40	a planet is a kind of place	nongold
+41	a white dwarf is a kind of star	nongold
+42	can be means able to be	nongold
+43	Uranus is a kind of planet	nongold
+44	planets in the solar system orbit the Sun	nongold
+45	Jupiter is a kind of planet	nongold
+46	yellow dwarf is a kind of small star	nongold
+47	celestial objects are located in outer space	nongold
+48	planets have cleared their orbits	nongold
+49	the sun is a kind of yellow dwarf	nongold
+50	search for means seek to find	nongold
+51	if something required by something else is in a place then that something else may be in that place	nongold
+52	a galaxy is a kind of very large system of stars	nongold
+53	if something is a part of something else then that something else contains that something	nongold
+54	a yellow dwarf is a kind of main-sequence star	nongold
+55	stars are located light years apart from each other	nongold
+56	classifying means grouping objects; materials by their properties	nongold
+57	the Sun is the  star that is closest to Earth	nongold
+58	the Andromeda galaxy is 2.5 million light years closer	nongold
+59	a living thing is a kind of object	nongold
+60	revolving  around something means orbiting that something	nongold
+61	Pluto is a kind of dwarf planet	nongold
+62	the moon orbits the Earth	nongold
+63	classifying is when one sorts something by kind; type	nongold
+64	to discover means to make a discovery	nongold
+65	finding something requires sensing that something	nongold
+66	composed of means made of	nongold
+67	galaxies are usually thousands of light years in diameter	nongold
+68	if something is made of something; a material then that something contains that something; that material	nongold
+69	to contain means to have inside	nongold
+70	astronomical unit is a measure of distance between Earth and the Sun	nongold
+71	astronomical body means celestial body	nongold
+72	to identify means to discover	nongold
+73	distance is a property of space and includes ordered values of close; far	nongold
+74	a vehicle is a kind of object	nongold
+75	place means space	nongold
+76	usually something can be found  near a source in greater concentrations	nongold
+77	form means kind	nongold
+78	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+79	galaxies often contain hundreds of billions of stars	nongold
+80	satellites are found in space	nongold
+81	orbiting is a kind of action	nongold
+82	a type is synonymous with a kind	nongold
+83	an asteroid is a kind of celestial object	nongold
+84	a elliptical galaxy is a kind of galaxy	nongold
+85	Proxima Centauri is a kind of star	nongold
+86	a motion is a kind of event; action	nongold
+87	if something enters something else then that something is in that something else	nongold
+88	an object is made of its parts	nongold
+89	main-sequences stars are a kind of star	nongold
+90	objects are made of materials; substances; matter	nongold
+91	quasars are located in galaxies	nongold
+92	Saturn is a kind of planet	nongold
+93	an atom is a kind of object	nongold
+94	a dwarf planet is usually much smaller in size; in mass than other planets	nongold
+95	Neptune is a kind of planet in the solar system	nongold
+96	seeking something means trying to find; searching for something	nongold
+97	including means containing	nongold
+98	events occur at a specific place; at a specific time; with a specific frequency	nongold
+99	the location of an object can be used to describe that object	nongold

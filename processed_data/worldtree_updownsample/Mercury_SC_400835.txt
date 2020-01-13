@@ -1,0 +1,59 @@
+0	a lens is a part of a telescope	nongold
+1	a fingerprint is small in size	gold
+2	examining is a kind of process	nongold
+3	a finger is a part of a hand	nongold
+4	a component means a part of	nongold
+5	an eyeglass lens is often made of glass	nongold
+6	a hand lens	answer
+7	if an object is made of a material then that object has the properties of that material	nongold
+8	What tool would be used to examine a fingerprint?	question
+9	to be used for something means to be required by that something	nongold
+10	a magnifying glass is a kind of tool for observing small things	gold
+11	device means tool	nongold
+12	inspect; observe means examine	gold
+13	a convex lens causes light to refract and concentrate to magnify distant objects	nongold
+14	magnifying glass is used to see  small things by making objects appear bigger	gold
+15	a human hand is large enough to be visible	nongold
+16	identifying sometimes requires examining	nongold
+17	a component of something means a part of that something	nongold
+18	a hand lens; a magnifying lens is synonymous with a magnifying glass	gold
+19	an instrument is a piece of equipment	nongold
+20	a magnifying glass is a kind of tool for observing small things	gold
+21	an object; material; substance comes from that object or material's source	nongold
+22	instrument means tool	nongold
+23	magnifying glass is used to see  small things by making objects appear bigger	gold
+24	an object is an item	nongold
+25	a hand lens	answer
+26	if an object is made of something then the parts of that object are made of that something	nongold
+27	magnifying glass is used to see  small things by making objects appear bigger	gold
+28	a hand is a part of the body	nongold
+29	optical tools are used for observing materials up close; in greater detail	nongold
+30	length is a measure of distance from one end of an object to the other end of that object	nongold
+31	an invention is a kind of tool	nongold
+32	What tool would be used to examine a fingerprint?	question
+33	examining sometimes requires measuring	nongold
+34	inspect; observe means examine	gold
+35	studying  something usually requires seeing that something	nongold
+36	a hand lens; a magnifying lens is synonymous with a magnifying glass	gold
+37	a fingerprint is small in size	gold
+38	a magnifying glass is a kind of tool for observing small things	gold
+39	a fingerprint is small in size	gold
+40	investigating sometimes requires measuring	nongold
+41	feeling is when an living thing senses through touch	nongold
+42	What tool would be used to examine a fingerprint?	question
+43	a human is a kind of animal	nongold
+44	a structure of something is synonymous with a part of that something	nongold
+45	a hand lens; a magnifying lens is synonymous with a magnifying glass	gold
+46	a hand lens	answer
+47	refraction is a kind of process	nongold
+48	some lenses are made of plastic	nongold
+49	answering questions requires information	nongold
+50	a convex lens is a kind of lenses	nongold
+51	a camera is a kind of tool for recording images	nongold
+52	a simple machine is a kind of tool	nongold
+53	substances are made of matter	nongold
+54	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+55	inspect; observe means examine	gold
+56	a hand lens	answer
+57	a machine is a kind of  device	nongold
+58	What tool would be used to examine a fingerprint?	question

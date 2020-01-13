@@ -1,0 +1,68 @@
+0	moisture means liquid; liquid water	nongold
+1	a liquid is a kind of substance	nongold
+2	evaporation causes amount of water to decrease	nongold
+3	gas is a kind of substance	nongold
+4	vapor is synonymous with gas	nongold
+5	temperature is a measure of heat energy	gold
+6	daylight means sunlight	nongold
+7	solar energy is a kind of heat energy	gold
+8	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+9	evaporate.	answer
+10	to add means to increase	gold
+11	water is a kind of liquid at room temperature	gold
+12	sunshine means sunlight	gold
+13	adding heat to an object sometimes causes chemical reactions	nongold
+14	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	gold
+15	water is a kind of liquid at room temperature	gold
+16	a can is a kind of container	nongold
+17	solar energy is a kind of heat energy	gold
+18	to add means to increase	gold
+19	a living thing is a kind of object	nongold
+20	receiving sunlight  is synonymous with absorbing sunlight	nongold
+21	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+22	If left in the sunshine, water in an open jar will	question
+23	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+24	sunlight means solar energy	nongold
+25	temperature is a measure of heat energy	gold
+26	temperature is a measure of heat energy	gold
+27	solar energy is a kind of heat energy	gold
+28	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	gold
+29	sunshine means sunlight	gold
+30	if an object; something is in the sunlight then that object; that something will absorb solar energy	gold
+31	a source of heat can be used to heat something	nongold
+32	heat means temperature increases	nongold
+33	if something is outside during the day then that something will receive sunlight	nongold
+34	to be in the sun means to be in the sunlight	nongold
+35	water is an thermal; thermal energy conductor	nongold
+36	If left in the sunshine, water in an open jar will	question
+37	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+38	sunlight is a kind of solar energy	nongold
+39	leaving is a kind of movement	nongold
+40	evaporation can be used for separating a mixture of a liquid and a solid	nongold
+41	solar energy can warm up  the air	nongold
+42	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+43	warm means medium heat energy; temperature	nongold
+44	adding heat to something kills viruses; bacteria in that something	nongold
+45	evaporate.	answer
+46	to add means to increase	gold
+47	glass is a kind of open container	nongold
+48	water is a kind of liquid at room temperature	gold
+49	to lower means to decrease	nongold
+50	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	gold
+51	if an object; something is in the sunlight then that object; that something will absorb solar energy	gold
+52	heating means adding heat	nongold
+53	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+54	if heat is added to a substance then that substance absorbs that heat	nongold
+55	evaporate.	answer
+56	if an object; something is in the sunlight then that object; that something will absorb solar energy	gold
+57	hot means high in heat energy; temperature	nongold
+58	the sun causes water to evaporate more quickly by adding heat	nongold
+59	evaporation is a kind of process	nongold
+60	If left in the sunshine, water in an open jar will	question
+61	a hot substance is a source of heat	nongold
+62	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+63	evaporate.	answer
+64	If left in the sunshine, water in an open jar will	question
+65	warm; becoming warm means heat is added	nongold
+66	sunshine means sunlight	gold
+67	if something absorbs; requires more heat than it gives off in an reaction , then something will be cold in temperature	nongold

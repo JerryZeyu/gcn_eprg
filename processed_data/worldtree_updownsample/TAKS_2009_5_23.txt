@@ -1,0 +1,58 @@
+0	falling means height decreases	nongold
+1	rain is a kind of water	gold
+2	rainfall means the amount of precipitation	nongold
+3	shorter means smaller; less in  height	gold
+4	wind means moving air	nongold
+5	Rain and wind	answer
+6	a mountain is made of rocks; soil	gold
+7	The Davis Mountains in West Texas used to be taller than they are now. Which of the following conditions most likely caused the mountains to become shorter over time?	question
+8	length of time means period of time	nongold
+9	to reduce means to decrease	nongold
+10	a cloud is a kind of weather	nongold
+11	a storm is a source of precipitation	nongold
+12	weather is a property of a environment	nongold
+13	The Davis Mountains in West Texas used to be taller than they are now. Which of the following conditions most likely caused the mountains to become shorter over time?	question
+14	rainy is a kind of weather	nongold
+15	The Davis Mountains in West Texas used to be taller than they are now. Which of the following conditions most likely caused the mountains to become shorter over time?	question
+16	Rain and wind	answer
+17	both means two	nongold
+18	the surface of the Earth contains mountains	nongold
+19	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	gold
+20	low means low in elevation; height; altitude	nongold
+21	as height decreases , distance from sea level will decrease	nongold
+22	clouds produce precipitation	nongold
+23	Rain and wind	answer
+24	rain is a kind of water	gold
+25	a mountain is a kind of landform	nongold
+26	snow is a kind of precipitation	nongold
+27	a mountain; hill is taller than the land around it	nongold
+28	The Davis Mountains in West Texas used to be taller than they are now. Which of the following conditions most likely caused the mountains to become shorter over time?	question
+29	Rain and wind	answer
+30	a mountain is made of rocks; soil	gold
+31	rainfall is the amount of rain an area receives	nongold
+32	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	gold
+33	cloudy is a kind of sky condition	nongold
+34	a decrease is a kind of change	nongold
+35	precipitation is a property of weather	nongold
+36	low is the opposite of high	nongold
+37	high is similar to increase	nongold
+38	rainstorm means rain storm	nongold
+39	weather is a source of wind and water for the weathering process	nongold
+40	shorter means smaller; less in  height	gold
+41	rain is a kind of water	gold
+42	rising means elevation	nongold
+43	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+44	a mountain range contains mountains	nongold
+45	rising means height; altitude increases	nongold
+46	precipitation is a kind of weather	nongold
+47	decreasing is similar to becoming smaller	nongold
+48	clouds produce rain	nongold
+49	to shorten means to make shorter	nongold
+50	Texas is a state located in the United States of America	nongold
+51	shorter means smaller; less in  height	gold
+52	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	gold
+53	highest means largest; greatest; most in height	nongold
+54	storm is a kind of weather; weather event	nongold
+55	a mountain is made of rocks; soil	gold
+56	rain is a source of water	nongold
+57	becoming is similar to changing	nongold

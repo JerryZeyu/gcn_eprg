@@ -1,0 +1,49 @@
+0	a room is a kind of object	nongold
+1	a living thing is made of cells	nongold
+2	a plant is a kind of organism	nongold
+3	What is the outermost structure in a plant cell?	question
+4	cell wall	answer
+5	a plant is a kind of living thing	nongold
+6	basic life functions occur in the cells of organisms	nongold
+7	the function of something is what that something  is used to do	nongold
+8	a single-celled organism is a kind of living thing	nongold
+9	cell wall	answer
+10	cell wall	answer
+11	a stem is often a part of plant	nongold
+12	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+13	a multicellular organism contains more than one cell	nongold
+14	an animal is a kind of organism	nongold
+15	living things are made of organic molecules	nongold
+16	What is the outermost structure in a plant cell?	question
+17	a cell wall is the outermost structure of a plant cell	gold
+18	structure is a property of an object; a material; a substance	nongold
+19	a part of a living thing is a natural structure	nongold
+20	single-celled organism is made of only one cell	nongold
+21	all living things are made of cells according to the cell theory	nongold
+22	an animal cell is a kind of cell	nongold
+23	high is similar to increase	nongold
+24	affected means changed	nongold
+25	the cells of multicellular organisms can specialize	nongold
+26	the cell membrane is a part of a cell	nongold
+27	the cell is the most basic structural unit of life	nongold
+28	a molecule is a kind of object	nongold
+29	mitosis produces cells that are identical to the parent cell	nongold
+30	a cell wall is the outermost structure of a plant cell	gold
+31	a cell wall is the outermost structure of a plant cell	gold
+32	a multicellular organism is made of many cells	nongold
+33	the cell nucleus controls many of the functions of the cell	nongold
+34	cell wall	answer
+35	What is the outermost structure in a plant cell?	question
+36	made up of means contains; made of	nongold
+37	system is similar to structure	nongold
+38	What is the outermost structure in a plant cell?	question
+39	chloroplast is a part of a plant cell	nongold
+40	a cell nucleus is a part of a cell	nongold
+41	can be means able to be	nongold
+42	a cell is very small	nongold
+43	an organism is a living thing	nongold
+44	dead plants means dead plant material	nongold
+45	a cell membrane is a kind of cell structure	nongold
+46	a chromosome is a part of a cell	nongold
+47	the cell wall causes the plant cell to be  more rigid than the animal cell	nongold
+48	green plants are a kind of producer	nongold

@@ -1,0 +1,101 @@
+0	turning is a kind of motion	nongold
+1	an increase is a kind of change	nongold
+2	Earth is a kind of planet	nongold
+3	the Earth revolves around the sun	nongold
+4	the moon reflects sunlight towards the Earth	nongold
+5	a planet is a kind of celestial object; body	nongold
+6	seconds are used to measure time	nongold
+7	a moon is a kind of celestial object; body	nongold
+8	each of the moon's phases occurs once per month	nongold
+9	the sun is a source of light; light energy called sunlight	nongold
+10	a last quarter is a kind of phase of the moon	nongold
+11	a full moon is a kind of phase of the moon	nongold
+12	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+13	to create means to make	nongold
+14	the sun rising; setting occurs once per day	nongold
+15	approximately means about	nongold
+16	the new moon is when the lighted half of the moon faces the Sun	nongold
+17	a process is a kind of event	nongold
+18	the moon rotates on its axis	nongold
+19	a moon phase occurs 28 days after the last time it occurred	nongold
+20	once per means every	nongold
+21	the lowest gravitational pull is during a quarter moon	nongold
+22	the sun is the strongest source of gravity in the solar system	nongold
+23	the moon's orbit is elliptical	nongold
+24	a star is a kind of celestial object; celestial body	nongold
+25	rotating is similar to moving	nongold
+26	to turn means to change	nongold
+27	move around means revolve	nongold
+28	Earth rotating on its axis occurs once per day	nongold
+29	rotation  is  the  circular movement of an object around a center; axis	nongold
+30	a waning crescent is a kind of phase of the moon	nongold
+31	the moon orbits the Earth	gold
+32	moons; comets; planets are part of the solar system	nongold
+33	some celestial bodies rotate in space	nongold
+34	astronomy is the study of celestial (objects, bodies)	nongold
+35	a motion is a kind of event; action	nongold
+36	a revolution of the moon around the Earth takes 1; one month	nongold
+37	a measure of time is a length of time	nongold
+38	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+39	the sun is a kind of yellow dwarf	nongold
+40	the earth has more mass than the moon	nongold
+41	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	gold
+42	revolving is a kind of motion	nongold
+43	a celestial body travelling around another celestial body means that celestial body completes a cycle around that other celestial body	nongold
+44	setting is a kind of motion	nongold
+45	the Earth rotates on its axis	nongold
+46	a waning gibbous is a kind of phase of the moon	nongold
+47	a change is a kind of event	nongold
+48	type of moon; kind of moon means moon phase	nongold
+49	revolving is a kind of action	nongold
+50	the solar system contains the moon	nongold
+51	once means one time	nongold
+52	pulling is a kind of motion	nongold
+53	how long something takes is a kind of measurement of time	nongold
+54	the Moon completes a lunar cycle over a period of 29 days	nongold
+55	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+56	a full moon occurs after a waxing gibbous moon	nongold
+57	an event is a kind of action	nongold
+58	the sun  is the source of energy for physical cycles on Earth	nongold
+59	the new moon is when the dark half of the moon faces the Earth	nongold
+60	the Moon is Earth's moon	nongold
+61	the moon does not contain air; water	nongold
+62	a source of something emits; produces; generates; provides that something	nongold
+63	revolve once means to complete a revolution	nongold
+64	Earth's rotation causes time zones	nongold
+65	a revolution occurs when something revolves around something else	nongold
+66	to rotate means to complete a rotation	nongold
+67	a waxing gibbous is a kind of phase of the moon	nongold
+68	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+69	movements of celestial bodies are a kind of event	nongold
+70	a moon phase is a kind of natural event	nongold
+71	motion; movement means moving; to move	nongold
+72	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+73	high is similar to increase	nongold
+74	sunlight is a kind of light	nongold
+75	rotate is similar to revolve	nongold
+76	Earth's revolution is a kind of cycle	nongold
+77	a rotation is a kind of movement	nongold
+78	seconds are a kind of unit for measuring time	nongold
+79	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+80	the moon orbiting the Earth occurs once per month	gold
+81	moons orbit planets	nongold
+82	rising is a kind of motion	nongold
+83	rotation is a kind of motion	nongold
+84	the Sun is a kind of star	nongold
+85	a phase of the moon is a kind of state	nongold
+86	moons are large; solid; spherical	nongold
+87	a cycle happens; occurs repeatedly	nongold
+88	a rotation of the moon takes 1; one month	nongold
+89	Approximately how many times does the Moon revolve around Earth during one revolution of Earth around the Sun?	question
+90	a new moon is a kind of phase of the moon	nongold
+91	if a human is on a rotating planet then other celestial bodies will appear to move from that human's perspective due to  the rotation of that planet	nongold
+92	revolving  around something means orbiting that something	nongold
+93	period is similar to amount of time	nongold
+94	a first quarter is a kind of phase of the moon	nongold
+95	the moon is the celestial object that is closest to the  Earth	nongold
+96	how many means what number	nongold
+97	rotate means turn	nongold
+98	the sun is a source of radiation; heat called sunlight	nongold
+99	days are a kind of unit for measuring time	nongold
+100	the moon rising occurs once per day	nongold

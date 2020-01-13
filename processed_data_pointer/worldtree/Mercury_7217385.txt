@@ -1,0 +1,102 @@
+Question	Which SI unit would be most appropriate for recording the length of a typical classroom?	question
+Answer	meter	answer
+0	a meter is a kind of unit for measuring distance; measuring length	gold
+1	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+2	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+3	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+4	recording is similar to measuring	nongold
+5	length is a part of size	nongold
+6	a classroom is a kind of a room	gold
+7	measuring sometimes requires  recording; learning an amount	nongold
+8	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+9	longest means greatest in length	nongold
+10	a classroom is a kind of  area	nongold
+11	length of time means period of time	nongold
+12	femtometers ( fm ) are an  SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+13	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+14	newton ( N ) is an SI unit used for measuring weight	nongold
+15	a measure of time is a length of time	nongold
+16	joules ( J ) are an  SI unit used for measuring mechanical energy; work generally used for values between 1.0 and 1000.0	nongold
+17	unit is similar to part	nongold
+18	measuring requires reading a measurement	nongold
+19	a meter stick is used to measure distance; height; length	nongold
+20	a unit for measuring time is a kind of time interval	nongold
+21	a meter stick is a kind of tool for measuring length; measuring distance	nongold
+22	measuring is used for describing an object	nongold
+23	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+24	a student is a kind of human	nongold
+25	recording an observation sometimes requires measuring	gold
+26	a centimeter is used for measuring short lengths; short distances	nongold
+27	long means great in length	nongold
+28	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+29	a  tape measure is used to measure length; distance	nongold
+30	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+31	answering questions requires information	nongold
+32	a tape measure is a kind of tool for measuring distance; measuring length	nongold
+33	a human is a kind of animal	nongold
+34	shortest means least; smallest in length	nongold
+35	recording data is similar to showing data	nongold
+36	length is a measure of distance from one end of an object to the other end of that object	nongold
+37	nanometers ( nm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+38	hertz ( Hz ) is an SI unit used for measuring the frequency of a wave	nongold
+39	seconds are a kind of unit for measuring time	nongold
+40	a measurement is a kind of data	nongold
+41	miles are a kind of unit for measuring distance	nongold
+42	an instrument is a piece of equipment	nongold
+43	seconds are used to measure time	nongold
+44	a ruler is used for measuring the length of an object	nongold
+45	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+46	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+47	shorter means decreased length	nongold
+48	each is simiar to one	nongold
+49	length is a property of the shape of an object	gold
+50	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+51	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+52	to shorten means to make shorter	nongold
+53	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+54	a tool is a kind of object	nongold
+55	a type is synonymous with a kind	nongold
+56	a kilogram is a kind of unit for measuring mass	nongold
+57	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+58	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+59	height is a measure of length from the top of an object to the bottom of an object	nongold
+60	a camera is used for recording images	nongold
+61	a living thing is a kind of object	nongold
+62	shorter means smaller; less in  height	nongold
+63	an animal is a kind of living thing	nongold
+64	liters are a kind of unit for measuring volume of liquids	nongold
+65	calculation means measurement	nongold
+66	instrument means tool	nongold
+67	can be means able to be	nongold
+68	a kind of something is an example of that something	nongold
+69	form means kind	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	degrees kelvin ( K ) is an SI unit used for measuring temperature generally used for values between 0.0 and 50000000.0	nongold
+72	a gram  is a kind of unit for measuring mass	nongold
+73	a centimeter is a kind of unit of measurement	nongold
+74	a camera is a kind of tool for recording images	nongold
+75	a device is a kind of object	nongold
+76	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+77	wider means greater in width	nongold
+78	instrument means device	nongold
+79	thin means small in width	nongold
+80	a ruler is a kind of tool for measuring length	nongold
+81	greatest means largest; highest; most amount of something	nongold
+82	objects are made of materials; substances; matter	nongold
+83	a string is usually short in length with values between 2.0 and 1000 cm	nongold
+84	high is similar to increase	nongold
+85	property is similar to measurement	nongold
+86	to create means to make	nongold
+87	a classroom usually contains a low concentration odor	nongold
+88	an increase is a kind of change	nongold
+89	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+90	angstrom ( Å ) is a metric unit used for measuring wavelength; interatomic distance; length; distance	nongold
+91	testing often requires measuring	nongold
+92	instruction is a kind of information	nongold
+93	instantaneously means short in time	nongold
+94	an object is an item	nongold
+95	to be used for something means to be required by that something	nongold
+96	an part of an object is smaller than the entire object	nongold
+97	most means over 50% of something	nongold
+98	typically means usually	nongold
+99	measures of length; measures of distance are used to measure the amount of rainfall	nongold

@@ -1,0 +1,102 @@
+Question	The early Greeks are credited with many valid concepts in astronomy. Some of their theories were correct; some were later proven incorrect. One theory was that Earth was the center of the universe and that other planets circled Earth. The Greeks thought Earth did not move because its movement was not obvious from the surface of the planet. The Greeks also believed that an invisible sphere surrounding our planet contained the stars. This sphere rotated, explaining the apparent movement of constellations over time. Which celestial motion is responsible for the phases of the moon?	question
+Answer	the moon revolving around Earth	answer
+0	a constellation contains stars	nongold
+1	astronomy is the study of celestial (objects, bodies)	nongold
+2	revolving is a kind of motion	nongold
+3	if a human is on a rotating planet then other celestial bodies will appear to move from that human's perspective due to  the rotation of that planet	nongold
+4	to cause means to be responsible for	gold
+5	a moon is a kind of celestial object; body	nongold
+6	revolving  around something means orbiting that something	nongold
+7	the moon revolving around; orbiting the Earth causes the phases of the moon	gold
+8	a planet is a kind of celestial object; body	nongold
+9	Earth is a kind of planet	nongold
+10	a phase of the moon is a kind of state	nongold
+11	the moon orbits the Earth	nongold
+12	the Moon is Earth's moon	nongold
+13	type of moon; kind of moon means moon phase	nongold
+14	motion; movement means moving; to move	nongold
+15	to have a function is similar to to be responsible for	nongold
+16	the moon rotates on its axis	nongold
+17	a star is a kind of celestial object; celestial body	nongold
+18	being around something means surrounding  that something	nongold
+19	a rotation is a kind of movement	nongold
+20	rotation is a kind of motion	nongold
+21	astronomy is a kind of branch of science	nongold
+22	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+23	rotating is similar to moving	nongold
+24	moons are large; solid; spherical	nongold
+25	Celestial bodies move in orbits in space around other celestial bodies	nongold
+26	the Sun is a kind of star	nongold
+27	movements of celestial bodies are a kind of event	nongold
+28	a moon phase is a kind of natural event	nongold
+29	invisible means cannot be seen	nongold
+30	rotate means turn	nongold
+31	a planet is a kind of location	nongold
+32	phase means state	nongold
+33	motion is when moves an object; something to a direction	nongold
+34	the Earth revolves around the sun	nongold
+35	the Earth rotates on its axis	nongold
+36	a surface is a part of an object	nongold
+37	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+38	a planet is a kind of place	nongold
+39	moving is similar to travelling	nongold
+40	a surface is a kind of object	nongold
+41	astronomical body means celestial body	nongold
+42	if something exists on a surface then that surface contains that something	nongold
+43	the function of something is what that something  is used to do	nongold
+44	a moon phase occurs 28 days after the last time it occurred	nongold
+45	to be found in means to be contained in	nongold
+46	a rotation of the moon takes 1; one month	nongold
+47	if something is caused by something else , then that something can be explained by that something else	nongold
+48	a motion is a kind of event; action	nongold
+49	setting is a kind of motion	nongold
+50	a planet rotating causes cycles of day and night on that planet	nongold
+51	the moon does not contain air; water	nongold
+52	our Sun is located at the center of our solar system	nongold
+53	to be filled with means to contain	nongold
+54	revolving is a kind of action	nongold
+55	distance moved; distance travelled is a measure of how far an object moves	nongold
+56	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+57	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+58	movement is a kind of change	nongold
+59	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	nongold
+60	a galaxy is a kind of celestial body; celestial object	nongold
+61	the moon is the celestial object that is closest to the  Earth	nongold
+62	the phases of the Moon change the appearance of the Moon	nongold
+63	a full moon is a kind of phase of the moon	nongold
+64	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+65	to rotate means to complete a rotation	nongold
+66	to contain means to have inside	nongold
+67	not is similar to the opposite of	nongold
+68	to be used for something means to be required by that something	nongold
+69	if the surface of an object contains something then that object is covered with that something	nongold
+70	moons orbit planets	nongold
+71	each of the moon's phases occurs once per month	nongold
+72	if something is made of something; a material then that something contains that something; that material	nongold
+73	made up of means contains; made of	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	to contain something means to have that something	nongold
+76	contains means located in	nongold
+77	if something causes a process then that something is required for that process	nongold
+78	Earth rotating on its axis occurs once per day	nongold
+79	some celestial bodies rotate in space	nongold
+80	variable means able to change	nongold
+81	a theory is a kind of scientific term	nongold
+82	moving something is a kind of function	nongold
+83	if something performs a task then that task is that something's function	nongold
+84	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+85	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+86	if something is a part of something else then that something else contains that something	nongold
+87	lunar phase is synonymous with moon phase	nongold
+88	objects are made of materials; substances; matter	nongold
+89	something is used for that something's purpose	nongold
+90	events occur at a specific place; at a specific time; with a specific frequency	nongold
+91	appear is similar to apparent	nongold
+92	rotation  is  the  circular movement of an object around a center; axis	nongold
+93	a theory is more accepted; tested than a hypothesis	nongold
+94	rotate is similar to revolve	nongold
+95	to cause an event is similar to being involved in that event	nongold
+96	a waning gibbous is a kind of phase of the moon	nongold
+97	the sun is a source of light; light energy called sunlight	nongold
+98	to be a source of something means to cause that something	nongold
+99	a waning crescent is a kind of phase of the moon	nongold

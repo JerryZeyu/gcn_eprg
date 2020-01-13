@@ -1,0 +1,102 @@
+Question	In what way does society benefit from research on diseases?	question
+Answer	Many illnesses will be prevented or cured.	answer
+0	disease means illness	gold
+1	protecting something means preventing harm to that something	nongold
+2	helping something has a  positive impact on that something	nongold
+3	illness has a negative impact on an organism's health	nongold
+4	to help; to benefit means to be of use	nongold
+5	a positive impact is  a benefit	gold
+6	infection often requires medical treatment	nongold
+7	preventing something decreases the amount of that something	nongold
+8	disease has a negative impact on an organism	gold
+9	an animal is a kind of organism	gold
+10	cure means solution to being sick	gold
+11	reducing bacteria in food prevents illness in people	nongold
+12	many means high in number	nongold
+13	a human is a kind of animal	gold
+14	vaccines can help prevent illness	nongold
+15	if an organism dies then the population of that organism will decrease	nongold
+16	to inhibit means to prevent	nongold
+17	to keep something from happening means to prevent that something	nongold
+18	society is made of humans	gold
+19	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+20	to prevent means to make it not happen	nongold
+21	an animal is a kind of living thing	nongold
+22	inhibitor means something that prevents something from happening	nongold
+23	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+24	an organism is a living thing	nongold
+25	harming something has a  negative impact on; effect on that something	nongold
+26	negative impact is the opposite of positive impact	nongold
+27	a person is a kind of animal	nongold
+28	good means positive	nongold
+29	to depend on; to rely on; to need means to require	nongold
+30	saving an organism's life means preventing the death of that organism	nongold
+31	death means to die	nongold
+32	requiring is similar to needing help	nongold
+33	harming an organism can cause that organism to die	nongold
+34	person is synonymous with human	nongold
+35	a scientist is a kind of human	nongold
+36	researcher is a kind of scientist	nongold
+37	avoiding is similar to preventing	nongold
+38	pathogens can cause disease	nongold
+39	adverse effect means negative impact	nongold
+40	to prevent the occurence of an event means to decrease the occurence of the event	gold
+41	if something is required for a process then that something positively impacts that process	nongold
+42	most means over 50% of something	nongold
+43	dying is the opposite of living; surviving	nongold
+44	a bacterium is a kind of organism	nongold
+45	an event is a kind of action	nongold
+46	a source of something emits; produces; generates; provides that something	nongold
+47	organisms are a part of an environment	nongold
+48	if something causes a process then that something is required for that process	nongold
+49	best means most positive	nongold
+50	high is similar to increase	nongold
+51	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	nongold
+52	a research team is made of humans	nongold
+53	to be used for something means to be required by that something	nongold
+54	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+55	vaccines are a source of long-term immunity against some diseases for the human body	nongold
+56	virus is a kind of living thing	nongold
+57	human is a kind of organism	nongold
+58	an animal; living thing requires nutrients for survival	nongold
+59	to be good for means to have a positive impact on	nongold
+60	helping means something can be done; completed more easily; better	nongold
+61	food poisoning is a kind of illness	nongold
+62	bacteria; viruses cause food poisoning	nongold
+63	better means good	nongold
+64	dead organisms are a source of disease	nongold
+65	a negative impact is a kind of consequence; risk	nongold
+66	bacteria can cause people to become ill	nongold
+67	healthy means not having disease	nongold
+68	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+69	how many means what number	nongold
+70	a fungus is a kind of organism	nongold
+71	a process is a kind of event	nongold
+72	an autoimmune disease is when the body attacks its own tissues	nongold
+73	biology is a kind of science	nongold
+74	something harmful can cause harm	nongold
+75	an animal is a kind of consumer	nongold
+76	a producer is a kind of living thing	nongold
+77	a worm is a kind of animal	nongold
+78	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+79	bacteria sometimes cause disease	nongold
+80	causing is a kind of affecting	nongold
+81	receiving a treat is a kind of positive effect	nongold
+82	being sick is a kind of problem; harm	nongold
+83	nonliving; non-living; die is the opposite of living; alive; live	nongold
+84	a biologist is a kind of scientist	nongold
+85	the immune system defends the body against disease	nongold
+86	healing is a kind of biological process	nongold
+87	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+88	if something gains something from something else then that something else is a source of that something	nongold
+89	a part of a process means a stage in a process	nongold
+90	society is similar to culture	nongold
+91	impact means effect	nongold
+92	a communicable disease can be spread from one person to  other people through contact	nongold
+93	dysentery is a kind of illness	nongold
+94	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+95	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+96	decreasing something negative has a positive impact on a thing	gold
+97	affected means changed	nongold
+98	pathogen is similar to harmful substance	nongold
+99	to cause means to have an effect	nongold

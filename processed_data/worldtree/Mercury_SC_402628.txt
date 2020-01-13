@@ -1,0 +1,102 @@
+Question	Which tool would a student use to measure wind speed?	question
+Answer	anemometer	answer
+0	an anemometer is used to measure wind speed	gold
+1	an anemometer is a kind of instrument for measuring wind speed	gold
+2	instrument means tool	gold
+3	device means tool	nongold
+4	a student is a kind of human	nongold
+5	wind speed is a property of weather	nongold
+6	instrument means device	nongold
+7	an instrument is a piece of equipment	nongold
+8	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+9	windy means high wind speeds	nongold
+10	air pressure affects wind speed	nongold
+11	wind means moving air	nongold
+12	a tool is a kind of object	nongold
+13	calculating speed requires knowing distance travelled	nongold
+14	a thermometer is a kind of instrument for measuring temperature	nongold
+15	a thermometer is used to measure temperature	nongold
+16	experimentation requires measuring	nongold
+17	measuring is a kind of observing	nongold
+18	speed is a property of an object and includes values of slow; fast	nongold
+19	lab equipment is often used for measuring; observing	nongold
+20	a meter is a kind of unit for measuring distance; measuring length	nongold
+21	a velocity is a measure of a speed in a direction	nongold
+22	speed is a measure of how fast an object is moving	nongold
+23	a barometer is used to measure air pressure	nongold
+24	measuring requires reading a measurement	nongold
+25	rate is similar to speed	nongold
+26	a human is a kind of animal	nongold
+27	a barometer is a kind of instrument for measuring air pressure	nongold
+28	a machine is a kind of object	nongold
+29	determining often requires measuring; observing	nongold
+30	a device is a kind of object	nongold
+31	a machine is a kind of  device	nongold
+32	a simple machine is a kind of tool	nongold
+33	wind direction is a property of weather	nongold
+34	inventing a tool allows; enables that tool to be used	nongold
+35	to measure means to calculate	nongold
+36	a hurricane has high wind speeds	nongold
+37	a speedometer is used for giving a driver feedback on the speed of their vehicle	nongold
+38	high speed means fast	nongold
+39	speed is  a measure of how fast the wave passes the medium	nongold
+40	calculation means measurement	nongold
+41	an event is a kind of action	nongold
+42	extreme means very high in value	nongold
+43	wind   is a kind of airflow	nongold
+44	a measurement is a kind of data	nongold
+45	a motion is a kind of event; action	nongold
+46	a speedometer is a part of an automobile	nongold
+47	storm is a kind of weather; weather event	nongold
+48	speed up means increase	nongold
+49	wind is a source of energy	nongold
+50	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+51	fastest means greatest in  speed	nongold
+52	high is similar to increase	nongold
+53	length is a measure of distance from one end of an object to the other end of that object	nongold
+54	a centimeter is used for measuring short lengths; short distances	nongold
+55	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+56	to slow; to slow down decreases speed	nongold
+57	a measure of time is a length of time	nongold
+58	answering questions requires information	nongold
+59	measuring is a kind of science skill	nongold
+60	distance moved; distance travelled is a measure of how far an object moves	nongold
+61	a centimeter is a kind of unit of measurement	nongold
+62	person is synonymous with human	nongold
+63	faster means an increase; higher in speed	nongold
+64	measuring is used for describing an object	nongold
+65	slowest means lowest in  speed	nongold
+66	a tornado has high wind speeds	nongold
+67	useful means able to be used	nongold
+68	a vehicle is a kind of object	nongold
+69	windy is a kind of weather	nongold
+70	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+71	a meter stick is a kind of tool for measuring length; measuring distance	nongold
+72	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+73	a seismometer is used to measure the strength or magnitude of an earthquake	nongold
+74	affected means changed	nongold
+75	as air pressure increases , the reading on a barometer will rise	nongold
+76	furthest; farthest means greatest; most; highest in distance	nongold
+77	rising is a kind of motion	nongold
+78	force causes the speed of an object to increase; to decrease	nongold
+79	femtometers ( fm ) are an  SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+80	a storm is usually a source of strong winds	nongold
+81	measuring sometimes requires  recording; learning an amount	nongold
+82	a vehicle is a kind of tool for travel; transport	nongold
+83	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+84	seconds are used to measure time	nongold
+85	wind is a renewable; inexhaustible resource	nongold
+86	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+87	setting is a kind of motion	nongold
+88	property is similar to measurement	nongold
+89	increase means more	nongold
+90	wind chill is the temperature  felt on body due to wind speed	nongold
+91	length is a part of size	nongold
+92	can be means able to be	nongold
+93	a living thing is a kind of object	nongold
+94	a source of something emits; produces; generates; provides that something	nongold
+95	astronomy is the study of celestial (objects, bodies)	nongold
+96	seconds are a kind of unit for measuring time	nongold
+97	an invention is a kind of tool	nongold
+98	to use means to utilize	nongold
+99	an part of an object is smaller than the entire object	nongold

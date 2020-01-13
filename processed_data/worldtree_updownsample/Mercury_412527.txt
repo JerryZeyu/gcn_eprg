@@ -1,0 +1,52 @@
+0	an event is a kind of action	nongold
+1	square meters	answer
+2	the parts of something make up that something	nongold
+3	to be used for something means to be required by that something	nongold
+4	to lower means to decrease	nongold
+5	roots are a part of a plant; tree	nongold
+6	a structure of something is synonymous with a part of that something	nongold
+7	land area means land mass	nongold
+8	a forest is a kind of ecosystem	nongold
+9	A timber company is dividing a 10,000 hectare forest into 5 sections. Which unit is most appropriate to use when showing the area of the divided sections?	question
+10	to show means to present	nongold
+11	to form means to create	nongold
+12	area is similar to location	nongold
+13	expand means increase in size	nongold
+14	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+15	a hectare  is 10^4 square meter	gold
+16	a tree is a kind of matter	nongold
+17	a meter is a kind of unit for measuring distance; measuring length	nongold
+18	to subdivide is similar to to divide	nongold
+19	trees are a kind of natural resource	nongold
+20	square meters	answer
+21	larger means greater; higher; more; increase in size	nongold
+22	can be means able to be	nongold
+23	square meters	answer
+24	trees are a renewable resource	nongold
+25	hectare ( ha ) is a metric unit used for measuring area	gold
+26	largest amount means most	nongold
+27	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+28	vegetation means plants	nongold
+29	clearing a forest means humans cutting down the trees	nongold
+30	a type is synonymous with a kind	nongold
+31	an increase is a kind of change	nongold
+32	green plants are a kind of producer	nongold
+33	a hectare  is 10^4 square meter	gold
+34	square meters	answer
+35	image means visual depiction of an object	nongold
+36	a Punnett square is used to show; identify; calculate the percent chance of a trait being passed down from a parent to its offspring	nongold
+37	classifying means grouping objects; materials by their properties	nongold
+38	A timber company is dividing a 10,000 hectare forest into 5 sections. Which unit is most appropriate to use when showing the area of the divided sections?	question
+39	removing a forest means cutting down a forest	nongold
+40	to use means to utilize	nongold
+41	a hectare  is 10^4 square meter	gold
+42	hectare ( ha ) is a metric unit used for measuring area	gold
+43	area; space is a kind of resource	nongold
+44	smaller means less; lower in size	nongold
+45	cutting down a forest means cutting down the trees in that forest	nongold
+46	A timber company is dividing a 10,000 hectare forest into 5 sections. Which unit is most appropriate to use when showing the area of the divided sections?	question
+47	to show means to display	nongold
+48	A timber company is dividing a 10,000 hectare forest into 5 sections. Which unit is most appropriate to use when showing the area of the divided sections?	question
+49	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+50	hectare ( ha ) is a metric unit used for measuring area	gold
+51	to demonstrate means to exhibit	nongold

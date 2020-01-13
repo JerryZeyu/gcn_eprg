@@ -1,0 +1,61 @@
+0	to cause means to result in	gold
+1	determine is similar to cause	nongold
+2	most chemical reactions release or absorb heat energy	nongold
+3	to illuminate means to light up	nongold
+4	cooking causes a chemical reaction	nongold
+5	product means result	nongold
+6	chemical reactions cause new substances; different substances to form	nongold
+7	a student is a kind of human	nongold
+8	a candle is a kind of object	nongold
+9	photosynthesis is a kind of chemical  process	nongold
+10	material means substance	nongold
+11	to be formed by is similar to being produced by	nongold
+12	matter; materials; substances are made of atoms; particles	nongold
+13	fire causes burning	gold
+14	producing is similar to causing	nongold
+15	something that happens is a kind of event	nongold
+16	gas is a kind of material	nongold
+17	fire causes burning	gold
+18	a liquid is a kind of substance	nongold
+19	substances have chemical properties	nongold
+20	chemical reactions cause chemical change	gold
+21	Which results in a chemical change?	question
+22	to produce means to result in	nongold
+23	A teacher lights a candle.	answer
+24	fire is a kind of chemical reaction	gold
+25	objects contain chemical energy	nongold
+26	to give is similar to to cause	nongold
+27	photosynthesis is a kind of chemical reaction	nongold
+28	fire is a kind of chemical reaction	gold
+29	A teacher lights a candle.	answer
+30	Which results in a chemical change?	question
+31	substances are made of elements	nongold
+32	A teacher lights a candle.	answer
+33	A teacher lights a candle.	answer
+34	fire is a kind of chemical reaction	gold
+35	chemical reactions cause chemical change	gold
+36	Which results in a chemical change?	question
+37	gas is a kind of state of matter	nongold
+38	chemical reaction means chemical bonds change	nongold
+39	an animal is a kind of organism	nongold
+40	a candle is made of wax	nongold
+41	if something causes an increase in something else then that something produces that something else	nongold
+42	to cause an event is similar to being involved in that event	nongold
+43	substances are made of matter	nongold
+44	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+45	combustion is a kind of exergonic reaction	nongold
+46	to cause means to result in	gold
+47	chemical reactions cause chemical change	gold
+48	hydrogen contains chemical energy	nongold
+49	objects are made of materials; substances; matter	nongold
+50	to cause means to result in	gold
+51	lighting a candle causes that candle to burn	gold
+52	materials are made of matter	nongold
+53	lighting a candle causes that candle to burn	gold
+54	fire causes burning	gold
+55	chemical energy is a kind of energy	nongold
+56	light is a kind of energy	nongold
+57	lighting a candle causes that candle to burn	gold
+58	the chemistry of something is similar to what that something is made of	nongold
+59	Which results in a chemical change?	question
+60	to change means to cause a change	nongold

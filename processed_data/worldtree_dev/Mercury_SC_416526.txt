@@ -1,0 +1,102 @@
+Question	What part of a plant needs sunlight to do its job?	question
+Answer	leaf	answer
+0	a  plant requires sunlight for photosynthesis	nongold
+1	requiring something means needing that something	nongold
+2	a leaf absorbs sunlight to perform photosynthesis	gold
+3	sunlight means solar energy	nongold
+4	requiring is similar to needing help	nongold
+5	sunlight is a kind of light	nongold
+6	a leaf performs photosynthesis; gas exchange	gold
+7	a leaf is a part of a  green plant	gold
+8	sunlight is a kind of solar energy	nongold
+9	a  plant requires sunlight to  grow	nongold
+10	to depend on; to rely on; to need means to require	gold
+11	a plant requires photosynthesis to grow; survive	nongold
+12	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+13	a leaf is a kind of plant	nongold
+14	green plants are a kind of producer	nongold
+15	function means job	nongold
+16	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+17	to do a job means to perform a job	gold
+18	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	gold
+19	the sun is the source of solar energy called sunlight	nongold
+20	a plant is a kind of organism	nongold
+21	needing something means depending on that something	nongold
+22	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+23	what something needs is a property of that something	nongold
+24	daylight means sunlight	nongold
+25	the sun is a source of light; light energy called sunlight	nongold
+26	sunshine means sunlight	nongold
+27	a plant is a kind of living thing	nongold
+28	a tree requires sunlight to grow	nongold
+29	something is used for that something's purpose	nongold
+30	to be used for something means to be required by that something	nongold
+31	In the food chain process a  green plant has the role of  producer	nongold
+32	a leaf is a kind of object	nongold
+33	if something is a raw material in a process then that something is required for that process	gold
+34	a source of something emits; produces; generates; provides that something	nongold
+35	solar energy is a kind of light	nongold
+36	if something requires something else then that something requires a source of that something else	nongold
+37	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+38	a leaf is a part of a tree	nongold
+39	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+40	if something performs a task then that task is that something's function	nongold
+41	if something causes a process then that something is required for that process	nongold
+42	a plant; living thing requires nutrients to grow	nongold
+43	plant cells can perform photosynthesis	nongold
+44	an organism is a living thing	nongold
+45	a plant light is used for help plants by mimicking sunlight	nongold
+46	solar power means solar energy	nongold
+47	the function of something is what that something  is used to do	nongold
+48	an animal; living thing requires nutrients for survival	nongold
+49	if a living thing requires something then that something has a positive impact on that living thing	nongold
+50	an organism requires energy for growth; repair	nongold
+51	plants are a kind of resource	nongold
+52	a producer is a kind of living thing	nongold
+53	plant parts are made of plants	nongold
+54	photosynthesizing means performing photosynthesis	nongold
+55	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+56	vegetation means plants	nongold
+57	light means light energy	nongold
+58	unit is similar to part	nongold
+59	if something is required for a process then that something positively impacts that process	nongold
+60	a leaf is small in size	nongold
+61	solar energy is a renewable; inexhaustible resource	nongold
+62	photosynthesis is a kind of chemical  process	nongold
+63	to provide something means to be the source of that something	nongold
+64	to work means to function	nongold
+65	the leaves of a plant tilt in the direction of sunlight	nongold
+66	a living thing is a kind of object	nongold
+67	sunlight produces heat	nongold
+68	to receive sunlight means to absorb sunlight	nongold
+69	having a job has a positive impact on a human	nongold
+70	a plants; living things require water for survival; to grow	nongold
+71	function is similar to purpose	nongold
+72	a plant; living thing requires food for survival	nongold
+73	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+74	a tree is a kind of plant	nongold
+75	large leaves are a kind of adaptation for absorbing sunlight	nongold
+76	if something gains something from something else then that something else is a source of that something	nongold
+77	a producer produces its own food	nongold
+78	solar energy is a kind of energy	nongold
+79	to be in the sun means to be in the sunlight	nongold
+80	living things all require energy for survival	nongold
+81	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+82	if something is outside during the day then that something will receive sunlight	nongold
+83	to lower means to decrease	nongold
+84	large canopies; trees block sunlight from reaching the ground	nongold
+85	provide is similar to give; make	nongold
+86	a stem is often a part of plant	nongold
+87	a flower is a kind of plant	nongold
+88	the sunlight occurs during the day	nongold
+89	a shrub is a kind of plant	nongold
+90	food is a source of energy for animals; plants	nongold
+91	a fern is a kind of plant	nongold
+92	to be used  for something means to help to do that something	nongold
+93	a part of a process means a stage in a process	nongold
+94	plants are a source of oxygen through photosynthesis	nongold
+95	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+96	undertaking is similar to doing	nongold
+97	the sun is a source of radiation; heat called sunlight	nongold
+98	an increase is the opposite of a decrease	nongold
+99	can be means able to be	nongold

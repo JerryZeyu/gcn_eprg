@@ -1,0 +1,102 @@
+Question	What is the main source of raw material for the production of plastics?	question
+Answer	petroleum	answer
+0	petroleum is a source of raw material for the production of plastics	gold
+1	petroleum is a kind of fossil fuel	nongold
+2	plastic is a nonrenewable resource	nongold
+3	if something is a raw material in a process then that something is required for that process	nongold
+4	a source of something emits; produces; generates; provides that something	nongold
+5	producing is a kind of process	nongold
+6	oil is a nonrenewable resource	nongold
+7	to produce means to provide	nongold
+8	if something is a raw material then that something comes directly from a source	nongold
+9	oil is a kind of fossil fuel	nongold
+10	plastic is a kind of material made by humans	nongold
+11	if something requires something else then that something requires a source of that something else	nongold
+12	make means produce	nongold
+13	manufacture means make	nongold
+14	plastic is cheap	nongold
+15	emit means produce	nongold
+16	to provide something means to be the source of that something	nongold
+17	a supply of something is a source of that something	nongold
+18	an object; material; substance comes from that object or material's source	nongold
+19	plastic is recyclable	nongold
+20	if something comes from something else then that something else is a source of that something	nongold
+21	oil is a kind of liquid	nongold
+22	oil is a kind of liquid	nongold
+23	manufacturing means making	nongold
+24	material means substance	nongold
+25	to be used for something means to be required by that something	nongold
+26	producing is a kind of function	nongold
+27	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+28	a part of a process means a stage in a process	nongold
+29	to provide means to supply	nongold
+30	oil is a kind of substance; matter	nongold
+31	if something releases something else then that something is the source of that something else	nongold
+32	a material is a kind of resource	nongold
+33	a process is a kind of event	nongold
+34	materials are used for making products by manufacturers	nongold
+35	a source of something supplies that something	nongold
+36	production is similar to making	nongold
+37	plastic is high in strength	nongold
+38	products are formed; are produced; are created	nongold
+39	fossil fuels are a nonrenewable resource	nongold
+40	a producer is a kind of living thing	nongold
+41	generate means produce	nongold
+42	providing something means making;delivering something	nongold
+43	a fossil fuel is a kind of natural resource	nongold
+44	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+45	the function of something is what that something  is used to do	nongold
+46	processes sometimes produce waste products	nongold
+47	natural gas is a nonrenewable resource	nongold
+48	if something transfers something else then that something is a source of something else	nongold
+49	gas is a kind of material	nongold
+50	an event is a kind of action	nongold
+51	natural gas is a kind of fossil fuel	nongold
+52	producing is similar to releasing	nongold
+53	automobiles; industrialization are a source of carbon dioxide	nongold
+54	to depend on; to rely on; to need means to require	nongold
+55	oil is  insoluble in water	nongold
+56	a component of something means a part of that something	nongold
+57	development is similar to production	nongold
+58	a process usually requires all of the stages in that process	nongold
+59	using a raw material sometimes requires absorbing that raw material	nongold
+60	if something causes a process then that something is required for that process	nongold
+61	to contribute is similar to produce	nongold
+62	to produce means to create	nongold
+63	converting is similar to producing	nongold
+64	if something gains something from something else then that something else is a source of that something	nongold
+65	to be a source of something means to cause that something	nongold
+66	produce is similar to release	nongold
+67	if something is a source of something else then that something usually contains that something else	nongold
+68	making something requires resources	nongold
+69	if something is made of something; a material then that something contains that something; that material	nongold
+70	rubber is a kind of material	nongold
+71	producing is similar to causing	nongold
+72	metal is a kind of material	nongold
+73	if something is powered by something else then that something requires a source of that something else	nongold
+74	answering questions requires information	nongold
+75	oil is a source of energy	nongold
+76	to cause means to make	nongold
+77	if something causes an increase in something else then that something produces that something else	nongold
+78	plastic is durable	nongold
+79	green plants are a kind of producer	nongold
+80	matter; materials; substances are made of atoms; particles	nongold
+81	oil is a source of gasoline	nongold
+82	requiring something means needing that something	nongold
+83	to be formed by is similar to being produced by	nongold
+84	a product is a kind of object	nongold
+85	largest amount means most	nongold
+86	greatest means largest; highest; most amount of something	nongold
+87	a source of something increases the amount of that something	nongold
+88	renewable is the opposite of nonrenewable	nongold
+89	gasoline is a kind of chemical power source	nongold
+90	plastic is a kind of thermal insulator	nongold
+91	gasoline is a source of chemical energy	nongold
+92	where something  comes from is a source of that something	nongold
+93	affected means changed	nongold
+94	quantity means amount	nongold
+95	plastic is a kind of electrical insulator	nongold
+96	plastic is usually an electrical insulator	nongold
+97	something is used for that something's purpose	nongold
+98	an organism is a source of organic material	nongold
+99	provide is similar to give; make	nongold

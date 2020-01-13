@@ -1,0 +1,102 @@
+Question	The wheels and gears of a machine are greased in order to decrease	question
+Answer	friction	answer
+0	grease is used to make an object's surface more smooth	gold
+1	wheels; gears usually move against other surfaces	gold
+2	a machine is a kind of object	nongold
+3	a gear is a kind of object	gold
+4	friction causes speed to decrease	nongold
+5	a wheel is a kind of object	gold
+6	a machine is a kind of  device	nongold
+7	a wheel and axle is a kind of simple machine	nongold
+8	to reduce means to decrease	nongold
+9	friction causes the speed of an object to decrease	nongold
+10	a surface is a part of an object	nongold
+11	a surface is a part of a material	nongold
+12	a decrease is a kind of change	nongold
+13	friction converts mechanical energy into heat energy	nongold
+14	an increase is the opposite of a decrease	nongold
+15	to lower means to decrease	nongold
+16	friction exerts force on moving objects	nongold
+17	an increase is a kind of change	nongold
+18	friction occurs when two object's surfaces move against each other	nongold
+19	a surface is a kind of object	nongold
+20	a simple machine requires mechanical energy to function	nongold
+21	counter means reduce; stop; resist	nongold
+22	a tool is a kind of object	nongold
+23	friction causes the temperature of an object to increase	nongold
+24	a simple machine is a kind of tool	nongold
+25	friction causes an object to lose energy	nongold
+26	as roughness of a surface increases , friction will increase	nongold
+27	low is similar to decrease	nongold
+28	reducing is a kind of change	nongold
+29	friction is a kind of force	nongold
+30	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	gold
+31	wheels are a part of a car	nongold
+32	as moisture of an object decreases , the friction of that object against another object will increase	nongold
+33	high is similar to increase	nongold
+34	objects are made of materials; substances; matter	nongold
+35	temperature is a measure of heat energy	nongold
+36	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+37	heat means heat energy	nongold
+38	to rub; to rub together means to move against	nongold
+39	if an object is made of a material then that object has the properties of that material	nongold
+40	a lever is a kind of simple machine	nongold
+41	motion; movement means moving; to move	nongold
+42	a complex machine is made of more than one simple machine	nongold
+43	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	nongold
+44	to slow; to slow down decreases speed	nongold
+45	rubbing  is a kind of motion	nongold
+46	a vehicle is a kind of object	nongold
+47	metal is a kind of material	nongold
+48	a motion is a kind of event; action	nongold
+49	gritty is simiar to  rough	nongold
+50	a wheeled vehicle requires smooth surfaces	nongold
+51	an instrument is a piece of equipment	nongold
+52	little is similar to decrease	nongold
+53	a screw is a kind of simple machine	nongold
+54	an part of an object is smaller than the entire object	nongold
+55	a pulley is a kind of simple machine	nongold
+56	an object is made of its parts	nongold
+57	a car is a kind of object	nongold
+58	a cart is a kind of object	nongold
+59	heat energy is synonymous with thermal energy	nongold
+60	to add means to increase	nongold
+61	change is a kind of impact	nongold
+62	felt is high in roughness	nongold
+63	a bicycle is made of levers, wheels and axles, pulleys, and screws	nongold
+64	variable means able to change	nongold
+65	affected means changed	nongold
+66	a roll is a kind of movement	nongold
+67	increase means more	gold
+68	a device is a kind of object	nongold
+69	less is similar to decrease	nongold
+70	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+71	skidding causes friction	nongold
+72	as the thickness of something; of an object increases , the resistance to damage of that object; of that something will increase	nongold
+73	rubbing against something is a kind of contact	nongold
+74	rolling is a kind of motion	nongold
+75	lowering is a kind of motion	nongold
+76	sharpening an object causes that object to change shape	nongold
+77	movement is a kind of change	nongold
+78	force causes the speed of an object to increase; to decrease	nongold
+79	to enhance means to increase	nongold
+80	as the thickness of an object increases , the resistance to tearing; to breaking will increase	nongold
+81	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+82	materials are made of matter	nongold
+83	an object has properties	nongold
+84	as the resistance to something increases , how easilty that something can  be done will decrease	nongold
+85	an event is a kind of action	nongold
+86	instrument means tool	nongold
+87	rubber is a kind of material	nongold
+88	rough is the opposite of smooth	nongold
+89	a piece of something is a kind of object	nongold
+90	strength is a property of an object; a material	nongold
+91	speed is a measure of how fast an object is moving	nongold
+92	alteration means change	nongold
+93	if an object is made of something then the parts of that object are made of that something	nongold
+94	down is soft	nongold
+95	tearing means changing a whole into pieces	nongold
+96	a screw is a kind of object	nongold
+97	to impact means to affect	nongold
+98	friction is used for stopping a vehicle by brakes	nongold
+99	low means down	nongold

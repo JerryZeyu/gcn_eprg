@@ -1,0 +1,57 @@
+0	erosion is a kind of process	nongold
+1	a volcano is a kind of landform	nongold
+2	usually means most of the time	nongold
+3	a rock is usually a solid	nongold
+4	to create means to make	nongold
+5	volcanic eruptions early on Earth maybe caused a large proportion of the matter in hydrosphere	nongold
+6	a landform is a kind of natural formation	nongold
+7	most means over 50% of something	nongold
+8	volcanoes are most common along tectonic plate boundaries	gold
+9	metamorphic is a kind of rock	nongold
+10	to make means to form	nongold
+11	Many processes on Earth occur at or near tectonic plate boundaries. Which geological events are most common along tectonic plate boundaries?	question
+12	a volcano is a kind of geological event	gold
+13	weathering is a kind of process	nongold
+14	Many processes on Earth occur at or near tectonic plate boundaries. Which geological events are most common along tectonic plate boundaries?	question
+15	a tectonic plate is a kind of object	nongold
+16	earthquakes are most common along tectonic plate boundaries	gold
+17	change is a kind of process	nongold
+18	earthquake  is a kind of vibration  of the ground	nongold
+19	earthquakes and volcanoes	answer
+20	tectonic plates colliding causes older layers of rock to be located above newer layers of rock	nongold
+21	metamorphic rock is a kind of rock	nongold
+22	earthquakes are most common along tectonic plate boundaries	gold
+23	igneous intrusion is a kind of geologic process	nongold
+24	volcanoes are most common along tectonic plate boundaries	gold
+25	earthquakes and volcanoes	answer
+26	a volcanic eruption is a kind of quick process	nongold
+27	a volcano is a kind of geological event	gold
+28	Earth is made of rock	nongold
+29	weathering; erosion usually occurs over a period of many years	nongold
+30	crustal plate means tectonic plate	nongold
+31	metamorphosis is a kind of process	nongold
+32	to be a source of something means to cause that something	nongold
+33	the movement of tectonic plates causes volcanic eruptions	nongold
+34	volcanoes are most common along tectonic plate boundaries	gold
+35	a source of something emits; produces; generates; provides that something	nongold
+36	Many processes on Earth occur at or near tectonic plate boundaries. Which geological events are most common along tectonic plate boundaries?	question
+37	a volcano is a source of magma; lava	nongold
+38	tectonic plates being pushed together causes earthquakes	nongold
+39	typically means usually	nongold
+40	Many processes on Earth occur at or near tectonic plate boundaries. Which geological events are most common along tectonic plate boundaries?	question
+41	events occur at a specific place; at a specific time; with a specific frequency	nongold
+42	an earthquake is a kind of natural; geological event	gold
+43	the surface of the Earth contains mountains	nongold
+44	earthquakes are most common along tectonic plate boundaries	gold
+45	earthquakes and volcanoes	answer
+46	an earthquake is a kind of natural; geological event	gold
+47	a landform is a kind of place	nongold
+48	a volcano is a kind of geological event	gold
+49	high is similar to increase	nongold
+50	a motion is a kind of event; action	nongold
+51	if an event is more common then that event will occur more frequently	nongold
+52	an earthquake is a kind of natural; geological event	gold
+53	flowing is a kind of motion	nongold
+54	igneous is a kind of rock	nongold
+55	earthquakes and volcanoes	answer
+56	event is similar to occurrence	nongold

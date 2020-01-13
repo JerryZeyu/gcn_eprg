@@ -1,0 +1,63 @@
+0	maintain is similar to control	gold
+1	causing is a kind of affecting	nongold
+2	quantity means amount	nongold
+3	a human is a kind of animal	gold
+4	sugar is a kind of solid	nongold
+5	a producer is a source of sugar; food energy in an ecosystem	nongold
+6	a human is a kind of animal	gold
+7	produce is similar to release	nongold
+8	to slow; to slow down decreases speed	nongold
+9	the amount of sugar in blood is a part of an animal's internal environment	gold
+10	answering questions requires information	nongold
+11	the amount of sugar in blood is a part of an animal's internal environment	gold
+12	regulation is when an organism maintains a stable internal environment	gold
+13	In humans, the amount of sugar in blood is controlled by the release of a hormone called insulin. This process is an example of	question
+14	if something releases something else then that something else decreases in that something	nongold
+15	regulation	answer
+16	a step in a process means a stage in a process	nongold
+17	concentration means amount	nongold
+18	causing means influencing	nongold
+19	the body is a part of an organism	nongold
+20	high is similar to increase	nongold
+21	regulating is a kind of function	nongold
+22	ATP is formed by the breakdown of molecules of glucose	nongold
+23	An example of biological regulation is insulin being released to control the amount of sugar in blood	gold
+24	regulation	answer
+25	regulation	answer
+26	if something causes an increase in something else then that something produces that something else	nongold
+27	a decrease is a kind of change	nongold
+28	if something emits something else then that something increases the amount of that something else	nongold
+29	affected means changed	nongold
+30	controlling is a kind of function	nongold
+31	maintain is similar to control	gold
+32	sugar is a kind of pure substance	nongold
+33	regulation	answer
+34	the brain can control animal body through the nervous system	nongold
+35	the amount of sugar in blood is a part of an animal's internal environment	gold
+36	variable means able to change	nongold
+37	a human is a kind of animal	gold
+38	level is similar to amount; quantity	nongold
+39	an animal is a kind of organism	gold
+40	converting is similar to releasing	nongold
+41	In humans, the amount of sugar in blood is controlled by the release of a hormone called insulin. This process is an example of	question
+42	an animal is a kind of organism	gold
+43	An example of biological regulation is insulin being released to control the amount of sugar in blood	gold
+44	action means activity	nongold
+45	regulation is when an organism maintains a stable internal environment	gold
+46	some hormones regulate growth	nongold
+47	human is similar to individual	nongold
+48	if something causes a process then that something is required for that process	nongold
+49	cell activity means cell process	nongold
+50	carbohydrates are made of sugars	nongold
+51	causing is a kind of function	nongold
+52	a kind of something is an example of that something	nongold
+53	a process is a kind of event	nongold
+54	regulation is when an organism maintains a stable internal environment	gold
+55	determining is similar to controlling	nongold
+56	sugary means high in sugar	nongold
+57	an animal is a kind of organism	gold
+58	maintain is similar to control	gold
+59	a reaction is a kind of process	nongold
+60	In humans, the amount of sugar in blood is controlled by the release of a hormone called insulin. This process is an example of	question
+61	In humans, the amount of sugar in blood is controlled by the release of a hormone called insulin. This process is an example of	question
+62	An example of biological regulation is insulin being released to control the amount of sugar in blood	gold

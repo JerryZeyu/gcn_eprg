@@ -1,0 +1,102 @@
+0	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+1	electricity can  not flow through an open circuit	nongold
+2	if something causes an increase in something else then that something produces that something else	nongold
+3	electromagnets can be powered by electricity	nongold
+4	if the amount of electricity converted from the potential energy of an object is less than the amount of potential energy in the object , then the  potential energy is converted into other energy other than electricity	nongold
+5	a scientist is a kind of human	nongold
+6	affected means changed	nongold
+7	closing an electric circuit causes an electrical device to function	nongold
+8	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+9	lightning storm	answer
+10	lightning is the source of thunder	nongold
+11	if something transfers something else then that something is a source of something else	nongold
+12	lightning can cause a forest fire	nongold
+13	solar energy is a source of electricity	nongold
+14	current means electric current	nongold
+15	Early scientists most likely saw a discharge of electricity for the first time when observing a	question
+16	electrical energy is a kind of energy	nongold
+17	a complete electrical circuit is a source of  electrical energy	nongold
+18	studying is similar to observing	nongold
+19	electrical signals are made of electrical energy	nongold
+20	a generator converts kinetic energy into electrical energy; electricity	nongold
+21	electrical current means electrical energy	nongold
+22	researcher is a kind of scientist	nongold
+23	a physicist is a kind of scientist	nongold
+24	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+25	a storm is a source of precipitation	nongold
+26	emit means produce	nongold
+27	scientists make observations	nongold
+28	lightning is a kind of electrical discharge	gold
+29	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+30	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+31	answering questions requires information	nongold
+32	a device is a kind of object	nongold
+33	a thunderstorm is a kind of storm	nongold
+34	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+35	intense means extreme	nongold
+36	sight means to see	nongold
+37	rainstorm means rain storm	nongold
+38	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+39	lightning is a kind of electricity	nongold
+40	electricity means electrical energy	gold
+41	if something is powered by something else then that something requires a source of that something else	nongold
+42	to be a source of something means to cause that something	nongold
+43	something that happens is a kind of event	nongold
+44	electric shock occurs when a person contacts a source of electrical energy	nongold
+45	an electric outlet is a source of electricity	nongold
+46	electrocution causes harm to an organism	nongold
+47	an electrical device requires electricity to turn on	nongold
+48	intense means high in intensity	nongold
+49	to happen means to occur	nongold
+50	a circuit is a kind of electrical component	nongold
+51	an electrical charge can attract objects to other objects	nongold
+52	electricity is used as an energy source by electrical devices	nongold
+53	lightning occurs during lightning storms; thunderstorms	gold
+54	high is similar to increase	nongold
+55	An electrical conductor is a vehicle for the flow of electricity	nongold
+56	to emit means to release	nongold
+57	metal is an  electrical; electrical energy conductor	nongold
+58	gas is a kind of substance	nongold
+59	a source of something increases the amount of that something	nongold
+60	electrical devices are used for industrial purposes; household purposes by humans	nongold
+61	lightning is a kind of weather phenomenon	nongold
+62	if something releases something else then that something is the source of that something else	nongold
+63	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+64	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+65	events occur at a specific place; at a specific time; with a specific frequency	nongold
+66	storm is a kind of weather; weather event	nongold
+67	An example of light traveling faster than sound is people see the lightnings before hear the thunder	nongold
+68	a surface is a part of an object	nongold
+69	variable means able to change	nongold
+70	to cause an event is similar to being involved in that event	nongold
+71	objects are made of materials; substances; matter	nongold
+72	can be means able to be	nongold
+73	an object; material; substance comes from that object or material's source	nongold
+74	detecting is similar to observing	nongold
+75	an event is a kind of action	nongold
+76	making discoveries requires observing	nongold
+77	lightning causes thunder	nongold
+78	a source of something emits; produces; generates; provides that something	nongold
+79	observe means see	nongold
+80	to see means to look	nongold
+81	hypothesis means scientific guess about the cause and effect of an event	nongold
+82	a motion is a kind of event; action	nongold
+83	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+84	matter; materials; substances are made of atoms; particles	nongold
+85	generate means produce	nongold
+86	a wire is a part of an electrical circuit for conducting electricity	nongold
+87	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+88	to add means to increase	nongold
+89	event is similar to occurrence	nongold
+90	electric devices require electrical energy to function	nongold
+91	brick is an electrical; electrical energy insulator	nongold
+92	lightning produces electromagnetic radiation of a wide range	nongold
+93	emit means send out	nongold
+94	to give off means to be the source of	nongold
+95	gas is a kind of object	nongold
+96	a storm is usually a source of strong winds	nongold
+97	to change means to cause a change	nongold
+98	electricity is made of moving charges; moving charged particles	nongold
+99	electricity sometimes is used for heating buildings; substances	nongold
+100	the formation of lightning converts mechanical energy into electrical energy	nongold
+101	extreme means very high in value	nongold

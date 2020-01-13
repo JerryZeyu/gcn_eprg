@@ -1,0 +1,102 @@
+Question	Which types of objects are most easily seen by the human eye?	question
+Answer	objects that reflect most of the light that strikes them	answer
+0	if an object reflects more light then that object is more easily seen	gold
+1	a type is synonymous with a kind	nongold
+2	if an object reflects light toward the eye then that object can be seen	nongold
+3	light reflecting off of an object causes that object to be visible to the observer	nongold
+4	sight means to see	nongold
+5	seeing is used for sensing visual things	nongold
+6	shiny things; objects reflect light	nongold
+7	eyes are usually part of an animal for seeing	nongold
+8	eyes are used for seeing by animals by sensing light	nongold
+9	reflecting light; sound is the opposite of absorbing light; sound	nongold
+10	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+11	eyes are a part of a human for seeing	gold
+12	visible means able to be seen	nongold
+13	eyes can sense;detect light energy for seeing	nongold
+14	when light hits a reflective object , that light bounces off that object	nongold
+15	the eyes are part of the head used for seeing	nongold
+16	a human is a kind of animal	nongold
+17	to reflect light means to scatter light	nongold
+18	seeing requires light	nongold
+19	viewing means observing light	nongold
+20	reflection is when a wave bounces off a surface and travels in the  opposite direction relative to the angle of incidence	nongold
+21	when sunlight strikes something , that something receives sunlight	nongold
+22	to view means to see	nongold
+23	to bounce back means to reflect	nongold
+24	sight means vision	nongold
+25	reflection is when particles bounce off a surface	nongold
+26	bouncing something back means reflecting that something	nongold
+27	most means over 50% of something	nongold
+28	a mirror reflects light	nongold
+29	human eyes can only see light in the range of visible light	nongold
+30	if something strikes an object then that something may bounce off of that object	nongold
+31	light is a kind of wave	nongold
+32	objects are made of materials; substances; matter	nongold
+33	a reflector is used to reflect light especially on vehicles	nongold
+34	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+35	mostly means being the most	nongold
+36	to see means to look	nongold
+37	scattering light decreases visibility	nongold
+38	sunlight is a kind of light	nongold
+39	a living thing is a kind of object	nongold
+40	usually means most of the time	nongold
+41	different types of light have different wavelengths	nongold
+42	to hit means to strike	nongold
+43	a wave is a kind of object	nongold
+44	a white object reflects all visible light	nongold
+45	an animal is a kind of living thing	nongold
+46	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+47	if something is in a dark place , then that something will not reflect enough light to be seen	nongold
+48	a type of something is a kind of property of that something	nongold
+49	a mirror is used for reflecting light	nongold
+50	observe means see	nongold
+51	striking is a kind of movement	nongold
+52	intensity of sunlight is similar to amount of sunlight	nongold
+53	if something is visible , then that something can be observed	nongold
+54	optical tools are used for observing materials up close; in greater detail	nongold
+55	black objects absorbs the most sunlight	nongold
+56	visible light is a kind of  light	nongold
+57	reflection is a property of light	nongold
+58	if an object reflects a light of a certain color then the object appears to be that color	nongold
+59	magnifying glass is used to see  small things by making objects appear bigger	nongold
+60	if an object is white then that object reflects all visible light	nongold
+61	classifying is when one sorts something by kind; type	nongold
+62	variety means different kinds; different types	nongold
+63	brightness means amount of light	nongold
+64	invisible means cannot be seen	nongold
+65	shadow of an object can be seen by eyes	nongold
+66	greatest means largest; highest; most amount of something	nongold
+67	a magnifying glass is a kind of tool for observing small things	nongold
+68	a landform is a kind of object	nongold
+69	as lightness in color of an object increases , the ability of that object to reflect light will increase	nongold
+70	light rays means light	nongold
+71	sight is a kind of sense	nongold
+72	an image in a mirror is formed by reflecting light	nongold
+73	absorbance is when a wave absorbs at; stops at a surface	nongold
+74	echo is when sound reflects off of a surface	nongold
+75	hitting something causes harm to that something	nongold
+76	a kind of something is an example of that something	nongold
+77	the ability to reflect is a property of sound wave	nongold
+78	the ability to reflect off of a surface is a kind of characteristic	nongold
+79	darker objects absorb more light than light colored objects	nongold
+80	visible light is able to be seen without using equipment	nongold
+81	difficulty seeing means visibility decreases	nongold
+82	light means light energy	nongold
+83	to shine means to emit light	nongold
+84	An example of hitting something is dropping an object onto that something	nongold
+85	sunglasses are used for reflecting light rays away from the eyes	nongold
+86	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+87	if an object is translucent , then some light will scatter	nongold
+88	as the light reflected off of an object increases , the object will appear to be brighter	nongold
+89	image means visual depiction of an object	nongold
+90	to look like means to have the visual properties of	nongold
+91	bright means a lot of light	nongold
+92	an part of an object is smaller than the entire object	nongold
+93	not visible means cannot be seen	nongold
+94	a mirror is a kind of reflective object	nongold
+95	looking at bright objects has a negative impact on the eyes	nongold
+96	light rays can have a negative impact on the eyes	nongold
+97	materials are made of matter	nongold
+98	high is similar to increase	nongold
+99	a surface is a part of an object	nongold

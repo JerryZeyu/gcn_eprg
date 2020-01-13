@@ -1,0 +1,101 @@
+0	An exploratory robot was sent to the planet Mars. The gravity on Mars is weaker than the gravity on Earth. Compared to the mass and weight of the robot on Earth, the robot on Mars has	question
+1	equal mass but less weight.	answer
+2	Earth is greater in mass than Mars	nongold
+3	Mars is a kind of planet	gold
+4	mass; weight are the same on Earth	nongold
+5	weak means low in strength	nongold
+6	less is similar to decrease	gold
+7	weaker is the opposite of stronger	nongold
+8	Mars is a kind of inner planet	nongold
+9	strong means high in strength	nongold
+10	less is the opposite of more	nongold
+11	the Mars Rover is a kind of vehicle	nongold
+12	Earth is a kind of planet	nongold
+13	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	gold
+14	an increase is the opposite of a decrease	nongold
+15	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+16	a planet is a kind of celestial object; body	nongold
+17	weight is a property of objects; matter	nongold
+18	if something weakens , then that something is weaker	gold
+19	heavy means a large amount of weight	nongold
+20	greater means higher; more in value	nongold
+21	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	nongold
+22	Mars is the planet that is fourth closest to the  Sun	nongold
+23	high is similar to increase	nongold
+24	an animal is a kind of living thing	nongold
+25	mass; weight is a property of matter; objects; materials	nongold
+26	less means a reduced amount	nongold
+27	a human is a kind of animal	nongold
+28	the mass of a planet causes the pull of gravity on that planet	nongold
+29	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+30	increase means more	nongold
+31	same means identical; equal in value; amount; number; quantity	nongold
+32	a weight is a kind of object	nongold
+33	low is similar to decrease	nongold
+34	lighter means lower; less in weight	nongold
+35	weight is a measure of the force of the gravity on the mass of an object	nongold
+36	lower means less	nongold
+37	mass is a property of objects; matter	nongold
+38	a planet is a kind of place	nongold
+39	comparing requires measuring	nongold
+40	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+41	as the mass of an object increases ,  the weight of that object will increase	nongold
+42	to lower means to decrease	nongold
+43	weight means the force of gravity acting on an object	nongold
+44	as the force of gravity increases , the weight of objects will increase	nongold
+45	a living thing is a kind of object	nongold
+46	an animal is a kind of organism	nongold
+47	a planet is a kind of location	nongold
+48	an increase is a kind of change	nongold
+49	Weight is  the  force of gravity acting on an object	nongold
+50	as the mass of an object decreases , the weight of that object will decrease	nongold
+51	the earth has more mass than the moon	nongold
+52	fewer means lower; less in number	nongold
+53	a decrease is a kind of change	nongold
+54	comparing requires observing that something	nongold
+55	different is the opposite of the same	nongold
+56	higher means greater; above in value; amount; number	nongold
+57	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+58	gravity causes orbits	nongold
+59	as the force  of gravity decreases , the weight of the object will decrease	gold
+60	heaviest means greatest mass; weight	nongold
+61	weight is a kind of property	nongold
+62	a planet's  moon is smaller than that planet	nongold
+63	low is the opposite of high	nongold
+64	strength is a property of an object; a material	nongold
+65	not is similar to the opposite of	nongold
+66	person is synonymous with human	nongold
+67	to reduce means to decrease	nongold
+68	as the mass of an object increases , the force of gravity on that object will increase	nongold
+69	as the force  of gravity changes , the weight of the object will change	nongold
+70	a vehicle is a kind of object	nongold
+71	mass is a kind of physical property	nongold
+72	extreme means very high in value	nongold
+73	affected means changed	nongold
+74	a machine is a kind of object	nongold
+75	mass is similar to size	nongold
+76	negative impact is the opposite of positive impact	nongold
+77	planets have cleared their orbits	nongold
+78	gravity is a kind of force	nongold
+79	if an object escapes the gravitational pull of a planet then that object is no longer affected by the gravitational pull of that planet	nongold
+80	mass is a measure of the amount of matter in an object	nongold
+81	strength is a kind of property	nongold
+82	variable means able to change	nongold
+83	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+84	greatest means largest; highest; most amount of something	nongold
+85	light means low  in weight	nongold
+86	can be means able to be	nongold
+87	Mars contains ice	nongold
+88	a land mass is a kind of object	nongold
+89	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+90	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+91	an organism is a living thing	nongold
+92	Jupiter is a kind of planet	nongold
+93	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+94	humans have been on Earth for 300000 years	nongold
+95	if there is no gravitational pull , then the weight of an object will be equal to zero	nongold
+96	the mass of an object causes the gravitational force exerted by that object	nongold
+97	a mammal is a kind of animal	nongold
+98	an event is a kind of action	nongold
+99	opposite is a kind of different	nongold
+100	as the mass of an oject decreases , the force of gravity on that object will decrease	nongold

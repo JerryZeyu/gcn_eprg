@@ -1,0 +1,62 @@
+0	Nonrenewable fuel supplies are limited.	answer
+1	resources becoming available has a positive impact on the things that need those resources	gold
+2	if a resource is limited in supply then that resource should be recycled	nongold
+3	as the use of a resource decreases , the length of time that resource will be available increases	gold
+4	if a resource is limited in supply then that resource will run out	nongold
+5	renewable resources can be used over again	nongold
+6	a nonrenewable resource is limited in supply	gold
+7	less is similar to decrease	nongold
+8	fuel supply is a kind of resource	gold
+9	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+10	if something is required for a process then that something positively impacts that process	nongold
+11	as the use of something decreases , the use of the source of that something will decrease	nongold
+12	as available resources increases , the population of an organism that uses those resources will increase	nongold
+13	a source of something supplies that something	nongold
+14	a supply of something is a source of that something	nongold
+15	ethanol sometimes is made of corn	nongold
+16	replacing something causes that something to decrease	nongold
+17	high is similar to increase	nongold
+18	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+19	a fossil fuel is a kind of natural resource	nongold
+20	if something has a positive impact on something else then that something is important to that something else	gold
+21	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	gold
+22	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	gold
+23	if something has a positive impact on something else then that something is important to that something else	gold
+24	Nonrenewable fuel supplies are limited.	answer
+25	corn is a kind of plant	nongold
+26	requiring something means needing that something	nongold
+27	operating an automobile usually requires fossil fuels	nongold
+28	Some of the new cars being made can run on a renewable fuel that is made mostly from corn. Scientists are developing even more renewable fuels to replace gasoline. Why are renewable fuels most likely becoming more important?	question
+29	if a resource is not replaced then the resource has low availability	nongold
+30	a nonrenewable resource is limited in supply	gold
+31	alternative fuel is usually a renewable resource	nongold
+32	a nonrenewable resource is limited in supply	gold
+33	fuel efficient means uses less fuel	nongold
+34	replacement means something that is replaced	nongold
+35	as the use of a resource decreases , the length of time that resource will be available increases	gold
+36	if something has a positive impact on something else then that something is important to that something else	gold
+37	most means over 50% of something	nongold
+38	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+39	renewable resources are replenished more quickly than they are used	nongold
+40	fewer means lower; less in number	nongold
+41	fuel is a kind of energy source	nongold
+42	if something requires something else then that something else is important to that something	nongold
+43	Some of the new cars being made can run on a renewable fuel that is made mostly from corn. Scientists are developing even more renewable fuels to replace gasoline. Why are renewable fuels most likely becoming more important?	question
+44	fuel supply is a kind of resource	gold
+45	as the use of a resource decreases , the length of time that resource will be available increases	gold
+46	resources becoming available has a positive impact on the things that need those resources	gold
+47	resources becoming available has a positive impact on the things that need those resources	gold
+48	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	gold
+49	if something requires something else then that something requires a source of that something else	nongold
+50	fossil fuels are a nonrenewable resource	nongold
+51	Some of the new cars being made can run on a renewable fuel that is made mostly from corn. Scientists are developing even more renewable fuels to replace gasoline. Why are renewable fuels most likely becoming more important?	question
+52	corn is a kind of crop	nongold
+53	deplete is similar to decrease	nongold
+54	oil is a nonrenewable resource	nongold
+55	using less of a resource means conserving that resource	nongold
+56	an energy source is a kind of resource	nongold
+57	Some of the new cars being made can run on a renewable fuel that is made mostly from corn. Scientists are developing even more renewable fuels to replace gasoline. Why are renewable fuels most likely becoming more important?	question
+58	Nonrenewable fuel supplies are limited.	answer
+59	to lower means to decrease	nongold
+60	fuel supply is a kind of resource	gold
+61	Nonrenewable fuel supplies are limited.	answer

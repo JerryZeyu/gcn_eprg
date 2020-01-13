@@ -1,0 +1,102 @@
+Question	Many states require vehicles to be examined and to meet safety and pollution standards. What impact might vehicle inspections have on the environment?	question
+Answer	Fewer pollutants will be released by vehicles.	answer
+0	a vehicle inspection is when a person examines a vehicle for safety; pollution standards	gold
+1	inspect; observe means examine	nongold
+2	pollutants have a negative impact on the environment; air quality	nongold
+3	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+4	pollution has a negative impact on the environment; air quality; water quality; society	gold
+5	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	gold
+6	to study means to examine	nongold
+7	pollution is a source of pollutants	gold
+8	a pollutant is a kind of substance	nongold
+9	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+10	living things in a polluted environment often contain pollutants	nongold
+11	harming something has a  negative impact on; effect on that something	nongold
+12	examining sometimes requires measuring	nongold
+13	polluting gasses are a kind of pollution	nongold
+14	polluting means something poisonous is added to an environment	nongold
+15	water is when humans pollute the environment with pollutants	nongold
+16	investigating sometimes requires measuring	nongold
+17	chemicals can be pollutants	nongold
+18	examining is a kind of process	nongold
+19	cleaner means less; lower in pollutants	nongold
+20	contaminated means polluted	nongold
+21	many vehicles emit pollution into the air	gold
+22	negative impact is the opposite of positive impact	nongold
+23	testing often requires measuring	nongold
+24	less is similar to decrease	gold
+25	to impact means to affect	nongold
+26	decreasing something negative has a positive impact on a thing	nongold
+27	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+28	less means a reduced amount	nongold
+29	fewer means lower; less in number	gold
+30	impact means effect	nongold
+31	adverse effect means negative impact	nongold
+32	less is the opposite of more	nongold
+33	identifying sometimes requires examining	nongold
+34	if something releases something else then that something is the source of that something else	nongold
+35	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	nongold
+36	decreasing something positive has a negative impact on a thing	nongold
+37	an increase is the opposite of a decrease	nongold
+38	studying is similar to investigating	nongold
+39	to cause means to have an effect	nongold
+40	oil is a kind of pollutant	nongold
+41	to emit means to release	gold
+42	a car is a kind of vehicle	nongold
+43	to be used for something means to be required by that something	nongold
+44	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+45	investigating is a kind of process	nongold
+46	to reduce means to decrease	gold
+47	low is similar to decrease	nongold
+48	if something is required for a process then that something positively impacts that process	nongold
+49	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+50	to lower means to decrease	nongold
+51	humans cause pollution	nongold
+52	a negative impact is a kind of consequence; risk	nongold
+53	little is similar to decrease	nongold
+54	as the cause of something decreases , that something will decrease	nongold
+55	something harmful can cause harm	nongold
+56	a vehicle is a kind of object	nongold
+57	using a car causes pollution	nongold
+58	an automobile is a kind of vehicle	nongold
+59	absorbing something harmful has a negative impact on a thing	nongold
+60	investigation sometimes requires experimentation	nongold
+61	a source of something emits; produces; generates; provides that something	nongold
+62	lower means less	nongold
+63	increase means more	nongold
+64	studying  something usually requires seeing that something	nongold
+65	high is similar to increase	nongold
+66	a car is a kind of object	nongold
+67	if an amount of objects decreases then those objects are fewer in number	nongold
+68	a climate is synonymous with an environment	nongold
+69	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+70	polluting is a kind of activity	nongold
+71	as the use of something decreases , the use of the source of that something will decrease	nongold
+72	if a living thing requires something then that something has a positive impact on that living thing	nongold
+73	a factor impacts something	nongold
+74	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+75	little means low in amount	nongold
+76	a positive impact is  a benefit	nongold
+77	too much is similar to increase	nongold
+78	safe is the opposite of unsafe; harm; danger	nongold
+79	producing is similar to releasing	nongold
+80	solution is similar to a positive impact	nongold
+81	a source of something increases the amount of that something	nongold
+82	a decrease is a kind of change	nongold
+83	to depend on; to rely on; to need means to require	nongold
+84	to add means to increase	nongold
+85	an environment means an area	nongold
+86	helping something has a  positive impact on that something	nongold
+87	acid rain has a  negative impact on  water quality	nongold
+88	a car is a kind of automobile	nongold
+89	if something causes a process then that something is required for that process	nongold
+90	to change means to have an effect	nongold
+91	pollution is a kind of environmental problem	nongold
+92	causing is a kind of affecting	nongold
+93	something dangerous can cause harm	nongold
+94	a concern; a problem is a possible negative impact	nongold
+95	waste has a  negative impact on the environment	nongold
+96	a vehicle for something allows; enables that something to occur	nongold
+97	lowest means least in value; amount; number	nongold
+98	requiring something means needing that something	nongold
+99	observe means see	nongold

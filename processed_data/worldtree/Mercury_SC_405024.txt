@@ -1,0 +1,102 @@
+Question	Liam lives in the Northern Hemisphere of Earth and plays in the snow in December. His friend lives in the Southern Hemisphere of Earth and plays at the beach in December. What is the best explanation for why this is possible?	question
+Answer	tilt of Earth on its axis	answer
+0	December is during the winter in the northern hemisphere	gold
+1	the Earth rotates on its axis	nongold
+2	December is during the summer in the southern hemisphere	gold
+3	the Southern Hemisphere is a kind of hemisphere of Earth	nongold
+4	the Northern Hemisphere is a kind of hemisphere of Earth	nongold
+5	a hemisphere is a part of Earth	nongold
+6	a beach is a kind of habitat; environment	nongold
+7	December is a kind of month	nongold
+8	Earth is a kind of planet	nongold
+9	a hemisphere is a kind of place	nongold
+10	a body of water meets land at a beach	nongold
+11	a beach is a kind of location	nongold
+12	people usually only play on the beach when the temperature is hot	gold
+13	an animal is a kind of living thing	nongold
+14	the winter solstice is on December 21st in the northern hemisphere	nongold
+15	a living thing is a kind of object	nongold
+16	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+17	a beach is usually part of an island	nongold
+18	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+19	a half of Earth is a hemisphere of Earth	nongold
+20	the Western Hemisphere is a kind of hemisphere of Earth	nongold
+21	winter is when a hemisphere is tilted away from the sun	nongold
+22	life means living things	nongold
+23	the Southern Hemisphere is located south of the Northern Hemisphere	nongold
+24	an animal is a kind of organism	nongold
+25	a human is a kind of animal	nongold
+26	the Eastern Hemisphere is a kind of hemisphere of Earth	nongold
+27	to make possible means to be required	nongold
+28	setting is a kind of motion	nongold
+29	revolving is a kind of motion	nongold
+30	a motion is a kind of event; action	nongold
+31	motion; movement means moving; to move	nongold
+32	the Earth being tilted on its axis causes one side of the Earth; one hemisphere to receive less energy from the Sun than the other side	nongold
+33	the tilt of Earth's axis causes certain latitudes of Earth to be heated at a greater rate	nongold
+34	snow is a kind of object	nongold
+35	Earth's angle of tilt causes the length of day and night to vary	nongold
+36	rotation is a kind of motion	nongold
+37	an organism is a living thing	nongold
+38	motion is when moves an object; something to a direction	nongold
+39	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+40	north; northward is a kind of direction	nongold
+41	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+42	low means down	nongold
+43	the Earth being tilted on its rotating axis causes seasons	gold
+44	if a living thing becomes too cold then that living thing will die	nongold
+45	snow is cold	nongold
+46	a landform is a kind of object	nongold
+47	south; southward is a kind of direction	nongold
+48	high is similar to increase	nongold
+49	snow is a kind of precipitation	nongold
+50	an event is a kind of action	nongold
+51	place; location is synonymous with position	nongold
+52	if something is caused by something else , then that something can be explained by that something else	nongold
+53	Earth's rotation causes time zones	nongold
+54	best means most positive	nongold
+55	a cause of something is a reason for that something	nongold
+56	can be means able to be	nongold
+57	sand is a part of a beach	nongold
+58	an increase is a kind of change	nongold
+59	increase means more	nongold
+60	a planet is a kind of celestial object; body	nongold
+61	north is the opposite of south	nongold
+62	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+63	rising is a kind of motion	nongold
+64	variable means able to change	nongold
+65	toward is the opposite of away	nongold
+66	snowing is when snow fall from clouds to the Earth;ground	nongold
+67	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+68	snow is a kind of ice	nongold
+69	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+70	a surface is a part of an object	nongold
+71	rotation  is  the  circular movement of an object around a center; axis	nongold
+72	if something required by something else is in a place then that something else may be in that place	nongold
+73	the surface of a beach is formed by mechanical weathering	nongold
+74	an object is made of its parts	nongold
+75	to lower means to decrease	nongold
+76	length of time means period of time	nongold
+77	a rotation is a kind of movement	nongold
+78	downward is a kind of direction	nongold
+79	a body of water is a kind of environment	nongold
+80	turning is a kind of motion	nongold
+81	an environment is a kind of place	nongold
+82	something in a cold place becomes cold	nongold
+83	rotate means turn	nongold
+84	lowering is a kind of motion	nongold
+85	Earth is made of rock	nongold
+86	distance is a property of space and includes ordered values of close; far	nongold
+87	to turn means to change	nongold
+88	far means great in distance	nongold
+89	a component of something means a part of that something	nongold
+90	a plant is a kind of living thing	nongold
+91	land is a kind of landform	nongold
+92	a person is a kind of animal	nongold
+93	distant means great in distance	nongold
+94	if something moves then that something is in a different location	nongold
+95	a coast is a kind of environment	nongold
+96	pulling is a kind of motion	nongold
+97	an ocean is a kind of body of water	nongold
+98	near; close is the opposite of far; away	nongold
+99	low means low in elevation; height; altitude	nongold

@@ -1,0 +1,58 @@
+0	high pressure systems cause clear weather	gold
+1	temperature is a kind of condition	nongold
+2	an environment means an area	gold
+3	atmosphere means  air	nongold
+4	On a cold, cloudy day, the local weather forecaster predicts that a high-pressure system will be moving into the area in the next 24 hours. Which weather conditions will this system most likely bring to the area?	question
+5	sunlight means solar energy	nongold
+6	clear weather means sunny; not cloudy; not rainy weather	gold
+7	sunny	answer
+8	clear weather means sunny; not cloudy; not rainy weather	gold
+9	weather  usually happens in troposphere	nongold
+10	an environment is a kind of place	nongold
+11	On a cold, cloudy day, the local weather forecaster predicts that a high-pressure system will be moving into the area in the next 24 hours. Which weather conditions will this system most likely bring to the area?	question
+12	higher means greater; above in value; amount; number	nongold
+13	An example of stormy weather is rain	nongold
+14	an environment means an area	gold
+15	1 day is equal to 24 hours	nongold
+16	satellite technology is used for predicting the weather	nongold
+17	weather is a property of a environment	gold
+18	clouds are made of water vapor; rain droplets	nongold
+19	cold fronts cause thunderstorms as they pass by	nongold
+20	as temperature decreases , the air pressure will decrease	nongold
+21	types of clouds can be used to predict the possibility of tornadoes developing in a location	nongold
+22	a climate is synonymous with an environment	nongold
+23	predicting weather requires studying weater	nongold
+24	area is similar to location	nongold
+25	if something returns to a place then that something increases in that place	nongold
+26	On a cold, cloudy day, the local weather forecaster predicts that a high-pressure system will be moving into the area in the next 24 hours. Which weather conditions will this system most likely bring to the area?	question
+27	warm air is  usually low  in air pressure	nongold
+28	weather is a property of a environment	gold
+29	sunny	answer
+30	precipitation is a kind of weather	nongold
+31	clear weather means sunny; not cloudy; not rainy weather	gold
+32	an environment means an area	gold
+33	low pressure systems cause precipitation	nongold
+34	to cause is similar to bring	nongold
+35	high pressure systems cause clear weather	gold
+36	climate is the usual kind of weather in a location over a period of time	nongold
+37	cold is a kind of weather	nongold
+38	temperature is a property of weather	nongold
+39	distant means great in distance	nongold
+40	sunny	answer
+41	if weather is stormy then there is a greater chance of rain	nongold
+42	low is similar to decrease	nongold
+43	warm means medium heat energy; temperature	nongold
+44	high pressure systems cause clear weather	gold
+45	windy is a kind of weather	nongold
+46	an increase is a kind of change	nongold
+47	warm means warm temperature	nongold
+48	sky conditions are a property of weather	nongold
+49	when clouds become cold , those clouds will condense	nongold
+50	weather is a property of a environment	gold
+51	sunny	answer
+52	cloudy is a kind of sky condition	nongold
+53	an area receiving rain means rain falling in that area	nongold
+54	On a cold, cloudy day, the local weather forecaster predicts that a high-pressure system will be moving into the area in the next 24 hours. Which weather conditions will this system most likely bring to the area?	question
+55	as the sun sets , the temperature will decrease	nongold
+56	near means local	nongold
+57	hours are a kind of unit for measuring time	nongold

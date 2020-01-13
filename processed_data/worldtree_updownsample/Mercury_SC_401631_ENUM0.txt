@@ -1,0 +1,68 @@
+0	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+1	electrical energy.	answer
+2	a complete electrical circuit is a source of  electrical energy	nongold
+3	electric devices require electrical energy to function	gold
+4	being in the sun is synonymous with being in the sunlight	nongold
+5	the sun is a source of radiation; heat called sunlight	nongold
+6	a producer is a source of energy for consumers	nongold
+7	electricity is used as an energy source by electrical devices	gold
+8	heat means heat energy	nongold
+9	the sun is a source of light; light energy called sunlight	nongold
+10	to power means to provide energy for	gold
+11	to provide something means to be the source of that something	gold
+12	a  battery  is a kind of electrical power source	nongold
+13	if something transfers something else then that something is a source of something else	nongold
+14	to power means to provide energy for	gold
+15	consumption means use	nongold
+16	to provide something means to be the source of that something	gold
+17	if an event is required for a process then that event must occur before that process can occur	nongold
+18	the sun is the source of solar energy called sunlight	gold
+19	solar panels are a kind of power supplies	nongold
+20	to produce means to provide	nongold
+21	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+22	the function of something is what that something  is used to do	nongold
+23	if something generates energy for something else then that something powers that something else	nongold
+24	green plants are a kind of producer	nongold
+25	a source of something emits; produces; generates; provides that something	nongold
+26	a hot; warm something is a source of heat	nongold
+27	a star is a kind of celestial object; celestial body	nongold
+28	to power means to provide energy for	gold
+29	solar energy is a renewable; inexhaustible resource	nongold
+30	the sun is the source of solar energy called sunlight	gold
+31	electrical energy.	answer
+32	if something is required then that something must be provided	nongold
+33	where something  comes from is a source of that something	gold
+34	if something requires something else then that something requires a source of that something else	nongold
+35	where something  comes from is a source of that something	gold
+36	To use energy from the Sun to power household appliances, the solar energy must be converted to	question
+37	the sun is the source of solar energy called sunlight	gold
+38	if something is a raw material then that something comes directly from a source	nongold
+39	a home is a kind of building	nongold
+40	household appliances are a kind of electrical device	gold
+41	household appliances are a kind of electrical device	gold
+42	to be required means to be necessary	nongold
+43	household appliances are a kind of electrical device	gold
+44	if something is powered by something else then that something requires a source of that something else	nongold
+45	the Sun is a kind of star	nongold
+46	electrical devices are used for industrial purposes; household purposes by humans	nongold
+47	electricity is used as an energy source by electrical devices	gold
+48	to serve as means to be used as	nongold
+49	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+50	To use energy from the Sun to power household appliances, the solar energy must be converted to	question
+51	a process is a kind of event	nongold
+52	sunlight means solar energy	nongold
+53	a power plant converts chemical energy from energy source into electricity	nongold
+54	where something  comes from is a source of that something	gold
+55	electrical energy.	answer
+56	sunlight is a kind of solar energy	nongold
+57	electric devices require electrical energy to function	gold
+58	electrical energy.	answer
+59	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+60	electricity is used as an energy source by electrical devices	gold
+61	to provide something means to be the source of that something	gold
+62	solar cells convert solar energy into electrical energy	nongold
+63	To use energy from the Sun to power household appliances, the solar energy must be converted to	question
+64	electric devices require electrical energy to function	gold
+65	heat is a kind of energy	nongold
+66	To use energy from the Sun to power household appliances, the solar energy must be converted to	question
+67	if something is a raw material in a process then that something is required for that process	nongold

@@ -1,0 +1,102 @@
+Question	Which best describes transportation technology?	question
+Answer	a system that is used to move people and products	answer
+0	transportation technology is used for moving people; products	gold
+1	transportation technology is a kind of system for moving people and products	gold
+2	a vehicle is used for transportation	nongold
+3	transport means to move; to make travel	nongold
+4	motion; movement means moving; to move	nongold
+5	a vehicle is used for travel	nongold
+6	transit system means public transportation	nongold
+7	a vehicle is a kind of tool for travel; transport	nongold
+8	transporting is a kind of function	nongold
+9	a ship is used for moving people; products across bodies of water	nongold
+10	travel means to move	nongold
+11	a person is a kind of animal	nongold
+12	person is synonymous with human	nongold
+13	a airplane is used for moving people; products across bodies of water; to far away places	nongold
+14	to bring means to transport	nongold
+15	a human is a kind of animal	nongold
+16	technology is similar to tool	nongold
+17	the function of something is what that something  is used to do	nongold
+18	best means most positive	nongold
+19	the automobile is a kind of technology	nongold
+20	an automobile is a kind of vehicle	nongold
+21	to carry means to transport	nongold
+22	a vehicle is a kind of object	nongold
+23	a car is a kind of vehicle	nongold
+24	to ship means to transport	nongold
+25	to be used for something means to be required by that something	nongold
+26	humans ride vehicles	nongold
+27	moving is similar to travelling	nongold
+28	carrying something means moving that something	nongold
+29	if a  car is being driven , then the car will be moving	nongold
+30	a car is a kind of automobile	nongold
+31	system means a set of objects	nongold
+32	a motion is a kind of event; action	nongold
+33	wheels are a part of a car	nongold
+34	something is used for that something's purpose	nongold
+35	a machine is a kind of  device	nongold
+36	a car moves on a road	nongold
+37	to carry means to move something	nongold
+38	to transfer is similar to transport	nongold
+39	the properties of something are used for describing that something	nongold
+40	a vehicle can be used for transferring	nongold
+41	a car is a kind of object	nongold
+42	a machine is a kind of object	nongold
+43	a cart is a kind of object	nongold
+44	an event is a kind of action	nongold
+45	transporting materials through a plant is a kind of function	nongold
+46	an animal is a kind of consumer	nongold
+47	a mechanism is a kind of system that performs a function	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	measuring is used for describing an object	nongold
+50	distance moved; distance travelled is a measure of how far an object moves	nongold
+51	mechanical energy is used to move something by animals	nongold
+52	information is used to describe something	nongold
+53	public transportation is a kind of way of commuting	nongold
+54	to use means to utilize	nongold
+55	something's function can be used to describe; identify that something	nongold
+56	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+57	products are formed; are produced; are created	nongold
+58	a process is a kind of event	nongold
+59	a road is a kind of object	nongold
+60	device means tool	nongold
+61	moving something is a kind of function	nongold
+62	objects are made of materials; substances; matter	nongold
+63	an animal is a kind of organism	nongold
+64	a description sometimes provides information	nongold
+65	can be means able to be	nongold
+66	a wheel and axle is a kind of simple machine	nongold
+67	motion is when moves an object; something to a direction	nongold
+68	a wagon is a kind of vehicle	nongold
+69	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+70	a passenger in a car is usually a human	nongold
+71	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+72	affected means changed	nongold
+73	a product is a kind of object	nongold
+74	speed is a measure of how fast an object is moving	nongold
+75	a device is a kind of object	nongold
+76	appliance is similar to technology	nongold
+77	a tool is a kind of object	nongold
+78	product means result	nongold
+79	form means kind	nongold
+80	a vehicle transmits something	nongold
+81	a part of a process means a stage in a process	nongold
+82	rotation is a kind of motion	nongold
+83	materials are used for making products by manufacturers	nongold
+84	locomotion means movement	nongold
+85	typically means usually	nongold
+86	a complex machine is made of more than one simple machine	nongold
+87	an object; material; substance comes from that object or material's source	nongold
+88	inventing a tool allows; enables that tool to be used	nongold
+89	material means substance	nongold
+90	a component means a part of	nongold
+91	if something performs a task then that task is that something's function	nongold
+92	a living thing is a kind of object	nongold
+93	an animal is a kind of living thing	nongold
+94	stop means not move	nongold
+95	flowing is a kind of motion	nongold
+96	technology is used for application of science	nongold
+97	electrical devices are used for industrial purposes; household purposes by humans	nongold
+98	a wheel is a kind of object	nongold
+99	riding in; driving in a vehicle means using that vehicle	nongold

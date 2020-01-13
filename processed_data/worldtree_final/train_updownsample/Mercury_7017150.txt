@@ -1,0 +1,66 @@
+0	coal is used for generating heat by burning	gold
+1	chemical to thermal	answer
+2	heat means heat energy	gold
+3	heating means adding heat	nongold
+4	combustion is a kind of exergonic reaction	nongold
+5	events occur at a specific place; at a specific time; with a specific frequency	nongold
+6	to add means to combine	nongold
+7	Which energy conversion process occurs whenever coal is burned?	question
+8	to convert means to exchange	nongold
+9	a process is a kind of event	nongold
+10	substances are made of elements	nongold
+11	evaporation is a kind of process	nongold
+12	chemical to thermal	answer
+13	conversion is a kind of process	gold
+14	if something is a raw material in a process then that something is required for that process	nongold
+15	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+16	energy conversion is similar to energy transformation	gold
+17	energy conversion is similar to energy transformation	gold
+18	chemical to thermal	answer
+19	an event is a kind of action	nongold
+20	heat energy is synonymous with thermal energy	gold
+21	a vehicle for something allows; enables that something to occur	nongold
+22	conversion is a kind of process	gold
+23	producing is a kind of process	nongold
+24	coal is used for generating heat by burning	gold
+25	the potential energy in fossil fuels mostly are converted into thermal energy	nongold
+26	a liquid is a kind of substance	nongold
+27	conversion is a kind of process	gold
+28	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+29	coal is used to produce electricity by burning in coal-fire power stations	nongold
+30	coal is a kind of fossil fuel	gold
+31	a flame are a part of a fire	nongold
+32	coal is a kind of fossil fuel	gold
+33	fossil fuel contains chemical energy	gold
+34	energy conversion is similar to energy transformation	gold
+35	combustion means fire converts chemical energy into light energy and heat energy	nongold
+36	adding heat means increasing temperature	nongold
+37	coal is used for generating heat by burning	gold
+38	heat energy is synonymous with thermal energy	gold
+39	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+40	a part of a process means a stage in a process	nongold
+41	heat means heat energy	gold
+42	heat means heat energy	gold
+43	Which energy conversion process occurs whenever coal is burned?	question
+44	if something causes a process then that something is required for that process	nongold
+45	a step in a process means a stage in a process	nongold
+46	fossil fuel contains chemical energy	gold
+47	thermal energy is a kind of energy	nongold
+48	combining; mixing two substances chemically causes chemical reactions	nongold
+49	chemical to thermal	answer
+50	photosynthesis is a kind of chemical reaction	nongold
+51	Which energy conversion process occurs whenever coal is burned?	question
+52	fire is a kind of chemical reaction	nongold
+53	emit means produce	nongold
+54	fuel contains chemical energy	nongold
+55	fossil fuel contains chemical energy	gold
+56	forming is similar to converting	nongold
+57	conduction is a kind of process	nongold
+58	to give off means to be the source of	nongold
+59	chemical reactions cause new substances; different substances to form	nongold
+60	to transform means to convert	nongold
+61	Which energy conversion process occurs whenever coal is burned?	question
+62	heat energy is synonymous with thermal energy	gold
+63	if something releases something else then that something is the source of that something else	nongold
+64	coal is a kind of fossil fuel	gold
+65	to happen means to occur	nongold

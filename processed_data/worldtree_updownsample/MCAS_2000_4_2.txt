@@ -1,0 +1,66 @@
+0	many vehicles emit pollution into the air	gold
+1	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	gold
+2	increase in air pollution	answer
+3	if something emits something else then that something increases the amount of that something else	gold
+4	Which environmental problem was directly caused by the invention of the automobile?	question
+5	a vehicle is a kind of object	nongold
+6	if something causes an increase in something else then that something produces that something else	nongold
+7	Which environmental problem was directly caused by the invention of the automobile?	question
+8	many vehicles emit pollution into the air	gold
+9	using a car causes pollution	gold
+10	increase in air pollution	answer
+11	if something causes a process then that something is required for that process	nongold
+12	causing means influencing	nongold
+13	to give off means to be the source of	nongold
+14	an environment is similar to an ecosystem	nongold
+15	the atmosphere is a kind of area	nongold
+16	to change means to have an effect	nongold
+17	increase in air pollution	answer
+18	to lower means to decrease	nongold
+19	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+20	an automobile is a kind of vehicle	gold
+21	to be a source of something means to cause that something	nongold
+22	a concern; a problem is a possible negative impact	gold
+23	causing problems is a kind of negative impact	nongold
+24	a vehicle is used for transportation	nongold
+25	Which environmental problem was directly caused by the invention of the automobile?	question
+26	pollution is a source of pollutants	nongold
+27	automobiles; industrialization are a source of carbon dioxide	nongold
+28	absorbing something from the air decreases the  amount of  that something in the air	nongold
+29	to be used for something means to be required by that something	nongold
+30	inventing a tool allows; enables that tool to be used	nongold
+31	using a car causes pollution	gold
+32	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	gold
+33	a problem has a negative impact on a thing	nongold
+34	water vapor is a kind of greenhouse gas	nongold
+35	an engine is a part of an automobile	nongold
+36	many vehicles emit pollution into the air	gold
+37	creating is similar to causing	nongold
+38	global warming is a kind of environmental problem	nongold
+39	burning gasoline; oil is a source of air pollution	nongold
+40	decreasing something negative has a positive impact on a thing	nongold
+41	increase in air pollution	answer
+42	impact means effect	nongold
+43	to cause means to have an effect	nongold
+44	pollution has a negative impact on the environment; air quality; water quality; society	gold
+45	change is a kind of impact	nongold
+46	an increase is a kind of change	nongold
+47	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+48	water is a part of an environment	nongold
+49	if something emits something else then that something increases the amount of that something else	gold
+50	using a car causes pollution	gold
+51	an automobile is a kind of vehicle	gold
+52	if something emits something else then that something increases the amount of that something else	gold
+53	a decrease is a kind of change	nongold
+54	a concern; a problem is a possible negative impact	gold
+55	pollution has a negative impact on the environment; air quality; water quality; society	gold
+56	an invention is a kind of tool	nongold
+57	a source of something emits; produces; generates; provides that something	nongold
+58	an automobile is a kind of vehicle	gold
+59	an event is a kind of action	nongold
+60	pollution has a negative impact on the environment; air quality; water quality; society	gold
+61	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	gold
+62	adverse effect means negative impact	nongold
+63	to cause means to result in	nongold
+64	a concern; a problem is a possible negative impact	gold
+65	Which environmental problem was directly caused by the invention of the automobile?	question

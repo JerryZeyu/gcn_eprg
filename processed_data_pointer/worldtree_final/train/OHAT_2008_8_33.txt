@@ -1,0 +1,100 @@
+0	if something is a part of something else then that something else contains that something	nongold
+1	trait is synonymous with characteristic	nongold
+2	opposite is a kind of different	nongold
+3	tissues are a smaller level of organization than organs in living things	nongold
+4	unit is similar to part	nongold
+5	composed of means made of	nongold
+6	to cause means to make	nongold
+7	form means kind	nongold
+8	if something comes from something else then that something else is a source of that something	nongold
+9	internal organs are a part of the body	nongold
+10	creating means making	nongold
+11	made of is similar to is built from	nongold
+12	a living thing is a kind of object	nongold
+13	to vary means to change	nongold
+14	to be made of is similar to collection	nongold
+15	a kind of something is an example of that something	nongold
+16	variety means different kinds; different types	nongold
+17	to contain means to have inside	nongold
+18	if something is not the same as something else then that something is different from that something else	nongold
+19	the integumentary system is a kind of body; organ system	nongold
+20	an animal is a kind of organism	nongold
+21	a part of something means a characteristic of something	nongold
+22	to create means to make	nongold
+23	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+24	life means living things	nongold
+25	if two or more things are in a relationship then those things impact each other	nongold
+26	an object; material; substance comes from that object or material's source	nongold
+27	objects are made of materials; substances; matter	nongold
+28	classifying is when one sorts something by kind; type	nongold
+29	products are formed; are produced; are created	nongold
+30	a relationship occurs when two or more things interact with one another	nongold
+31	a brain is a kind of internal organ	nongold
+32	a body part is a kind of object	nongold
+33	an object is made of its parts	nongold
+34	the endocrine system is a kind of body; organ system	nongold
+35	converting is similar to producing	nongold
+36	high is similar to increase	nongold
+37	a component means a part of	nongold
+38	organ system means body system	nongold
+39	affected means changed	nongold
+40	different cellular tissues are made of different types of  somatic cells	nongold
+41	the digestive system is a kind of body; organ system	nongold
+42	a type is synonymous with a kind	nongold
+43	to be made of means to consist of	nongold
+44	organs are made of different types of  cellular tissues	gold
+45	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+46	cells are a part of the body	nongold
+47	identical is the opposite of different	nongold
+48	to belong to a class means to be a kind of something	nongold
+49	different materials usually have different properties	nongold
+50	What is the relationship between tissues and organs?	question
+51	usually means most of the time	nongold
+52	category means kind	nongold
+53	to be formed by is similar to being produced by	nongold
+54	if something is made of something else , then that something else will be the component of that something	nongold
+55	if two objects are apart from each other then matter is between those two objects	nongold
+56	not is similar to the opposite of	nongold
+57	variable means able to change	nongold
+58	made of is similar to contains	nongold
+59	to change means to become different	nongold
+60	to be made of something means to be formed of that something	nongold
+61	organs are a smaller level of organization than organ systems in living things	nongold
+62	Organs are made from different types of tissues.	answer
+63	provide is similar to give; make	nongold
+64	if an object is made of something then the parts of that object are made of that something	nongold
+65	a producer is a kind of living thing	nongold
+66	if something is made by something else then that something is affected by that something else	nongold
+67	the body is a part of an organism	nongold
+68	composition means the (materials, substances) of which something is composed	nongold
+69	a body system is a kind of object	nongold
+70	location is a kind of relationship	nongold
+71	a heart is a kind of organ	nongold
+72	materials are made of matter	nongold
+73	can be means able to be	nongold
+74	an organ system is made of different parts of the body working together	nongold
+75	a component of something means a part of that something	nongold
+76	an part of an object is smaller than the entire object	nongold
+77	an animal is a kind of living thing	nongold
+78	if two things are made from the same objects; material then those two things are similar	nongold
+79	make means produce	nongold
+80	a living thing is made of cells	nongold
+81	the stomach is a kind of organ	nongold
+82	a source of something emits; produces; generates; provides that something	nongold
+83	classifying means grouping objects; materials by their properties	nongold
+84	providing something means making;delivering something	nongold
+85	a human is a kind of animal	nongold
+86	where something  comes from is a source of that something	nongold
+87	a structure of something is synonymous with a part of that something	nongold
+88	if two objects are composed of similar materials then those objects may have come from the same source	nongold
+89	a liver is a kind of organ	nongold
+90	made up of means contains; made of	nongold
+91	to vary means to differ	nongold
+92	the muscular system is a kind of body; organ system	nongold
+93	if something is made of something; a material then that something contains that something; that material	nongold
+94	developing means making	nongold
+95	a body system is a part of the body; an animal	nongold
+96	another means different	nongold
+97	structure is a property of an object; a material; a substance	nongold
+98	an organism is a living thing	nongold
+99	different is the opposite of the same	nongold

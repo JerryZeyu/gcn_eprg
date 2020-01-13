@@ -1,0 +1,101 @@
+0	organs are made of different types of  cellular tissues	gold
+1	a part of a process means a stage in a process	nongold
+2	composed of means made of	nongold
+3	a source of something emits; produces; generates; provides that something	nongold
+4	a part of something means a characteristic of something	nongold
+5	an organism is a living thing	nongold
+6	a function is a kind of characteristic	nongold
+7	if something is made of something else , then that something else will be the component of that something	nongold
+8	a plant cell is a kind of cell	nongold
+9	a kind of something is classified as that something	nongold
+10	organ system means body system	nongold
+11	can be means able to be	nongold
+12	a component of something means a part of that something	nongold
+13	an animal is a kind of living thing	nongold
+14	human is a kind of organism	nongold
+15	causing is a kind of function	nongold
+16	to tell the difference between things means to classify those things	nongold
+17	a living thing is made of cells	nongold
+18	if something is made of something else then that something can be broken down into that something else	nongold
+19	increasing is a kind of order	nongold
+20	form means kind	nongold
+21	to split means to break down	nongold
+22	a human is a kind of animal	nongold
+23	the properties of something are used for describing that something	nongold
+24	variable means able to change	nongold
+25	a whole is formed by its parts	nongold
+26	the heart pumps blood to the rest of the body	nongold
+27	identical is the opposite of different	nongold
+28	a cell is very small	nongold
+29	life means living things	nongold
+30	a heart is a kind of organ	gold
+31	unit is similar to part	nongold
+32	a nerve cell is a kind of cell	nongold
+33	where something  comes from is a source of that something	nongold
+34	to change means to become different	nongold
+35	cells are a smaller level of organization than tissues in living things	nongold
+36	if something causes an increase in something else then that something produces that something else	nongold
+37	made of is similar to is built from	nongold
+38	all cells perform cellular respiration	nongold
+39	all living things are made of cells according to the cell theory	nongold
+40	the cell is the most basic structural unit of life	nongold
+41	better means good	nongold
+42	to be made of something means to be formed of that something	nongold
+43	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+44	organs are a smaller level of organization than organ systems in living things	nongold
+45	a structure of something is synonymous with a part of that something	nongold
+46	variety means different kinds; different types	nongold
+47	if something is caused by something else , then that something can be explained by that something else	nongold
+48	a living thing is a kind of object	nongold
+49	to be made of means to consist of	nongold
+50	a cell absorbs nutrients	nongold
+51	each is similar to individual	nongold
+52	an animal is a kind of organism	nongold
+53	cells are a part of the body	nongold
+54	denser means more dense	nongold
+55	a heart is a part of the body	nongold
+56	another means different	nongold
+57	different cellular tissues are made of different types of  somatic cells	gold
+58	arrangement means how something is arranged	nongold
+59	to belong to a class means to be a kind of something	nongold
+60	different types of matter have different chemical properties	nongold
+61	what something is made of is a property of the organization or that something	gold
+62	increase means more	nongold
+63	if something is made of something; a material then that something contains that something; that material	nongold
+64	a motion is a kind of event; action	nongold
+65	an animal cell is a kind of cell	nongold
+66	to be made of is similar to collection	nongold
+67	a type of something is a kind of property of that something	nongold
+68	a kind of something is an example of that something	nongold
+69	most means over 50% of something	nongold
+70	Which sentence best describes the organization of the heart?	question
+71	an organ system is made of different parts of the body working together	nongold
+72	the function of something is what that something  is used to do	nongold
+73	a component means a part of	nongold
+74	make means produce	nongold
+75	classifying is when one sorts something by kind; type	nongold
+76	opposite is a kind of different	nongold
+77	an object is made of its parts	nongold
+78	tissues are a smaller level of organization than organs in living things	nongold
+79	system is similar to structure	nongold
+80	organizing is sorting something by their properties in order	nongold
+81	made up of means contains; made of	nongold
+82	emit means produce	nongold
+83	something's function can be used to describe; identify that something	nongold
+84	made of is similar to contains	nongold
+85	a plant is made of plant cells	nongold
+86	The heart is an organ made up of different types of tissues, each of which has different types of cells.	answer
+87	best means most positive	nongold
+88	the heart is mostly made of muscle	nongold
+89	different is the opposite of the same	nongold
+90	a type is synonymous with a kind	nongold
+91	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+92	to be formed by is similar to being produced by	nongold
+93	tissue is a kind of group of cells with a common structure that work together to perform a similar function	nongold
+94	the heart is a part of the circulatory system	nongold
+95	an event is a kind of action	nongold
+96	a human cell is a kind of cell	nongold
+97	a cell is a kind of object	nongold
+98	the parts of something make up that something	nongold
+99	high is similar to increase	nongold
+100	all cells take in energy	nongold

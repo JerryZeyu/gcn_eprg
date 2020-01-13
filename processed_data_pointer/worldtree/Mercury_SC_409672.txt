@@ -1,0 +1,102 @@
+Question	Jessica watches the Sun set in the evening sky. What causes the setting of the Sun?	question
+Answer	Earth is rotating on its axis.	answer
+0	the Earth rotates on its axis	nongold
+1	a planet rotating causes cycles of day and night on that planet	nongold
+2	Earth rotating on its axis occurs once per day	nongold
+3	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+4	setting is a kind of motion	gold
+5	the sun rising and setting causes cycles of day and night	nongold
+6	Earth is a kind of planet	nongold
+7	rotating is similar to moving	nongold
+8	the Earth revolves around the sun	nongold
+9	the Sun is a kind of star	nongold
+10	rotate means turn	nongold
+11	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+12	rotation is a kind of motion	nongold
+13	if a human is on a rotating planet then other celestial bodies will appear to move from that human's perspective due to  the rotation of that planet	nongold
+14	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	gold
+15	the sun rising; setting occurs once per day	nongold
+16	revolving is a kind of motion	nongold
+17	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+18	the sun sets in the west	nongold
+19	the sun is not a star in the night sky	nongold
+20	rising is a kind of motion	nongold
+21	a star is a kind of celestial object; celestial body	nongold
+22	a rotation is a kind of movement	nongold
+23	if it is night then the sun has set	nongold
+24	the moon rotates on its axis	nongold
+25	the sun rises in the east	nongold
+26	to rotate means to complete a rotation	nongold
+27	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+28	cycles of day and night occur once per day	nongold
+29	rotate is similar to revolve	nongold
+30	Earth's rotation causes time zones	nongold
+31	a planet is a kind of celestial object; body	nongold
+32	turning is a kind of motion	nongold
+33	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	nongold
+34	some celestial bodies rotate in space	nongold
+35	Jupiter is a kind of planet	nongold
+36	the sun is a source of light; light energy called sunlight	nongold
+37	sunlight is a kind of light	nongold
+38	to turn means to change	nongold
+39	a motion is a kind of event; action	nongold
+40	the night time is part of one day	nongold
+41	shift means move	nongold
+42	a watch;clock;stopwatch is used for measuring time	nongold
+43	revolving  around something means orbiting that something	nongold
+44	the day time is part of one day	nongold
+45	motion; movement means moving; to move	nongold
+46	to change means to cause a change	nongold
+47	an increase is a kind of change	nongold
+48	revolving is a kind of action	nongold
+49	events occur at a specific place; at a specific time; with a specific frequency	nongold
+50	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+51	movement is a kind of change	nongold
+52	variable means able to change	nongold
+53	the sun setting is a kind of event	nongold
+54	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+55	to cause is similar to bring	nongold
+56	increase means more	nongold
+57	rotation  is  the  circular movement of an object around a center; axis	nongold
+58	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+59	high is similar to increase	nongold
+60	afternoon is a part of day time	nongold
+61	to watch means to look at	nongold
+62	the sun rising is a kind of event	nongold
+63	to add means to increase	nongold
+64	an event is a kind of action	nongold
+65	movements of celestial bodies are a kind of event	nongold
+66	a cycle is a kind of process	nongold
+67	causing means influencing	nongold
+68	to cause means to have an effect	nongold
+69	due to means caused by	nongold
+70	phase means state	nongold
+71	to happen means to occur	nongold
+72	to be a source of something means to cause that something	nongold
+73	a process is a kind of event	nongold
+74	the stars in the night sky are very far away from the Earth	nongold
+75	to cause an event is similar to being involved in that event	nongold
+76	to change means to have an effect	nongold
+77	a source of something emits; produces; generates; provides that something	nongold
+78	a part of a process means a stage in a process	nongold
+79	all the time means at day and at night	nongold
+80	motion is when moves an object; something to a direction	nongold
+81	to lower means to decrease	nongold
+82	sunlight is a kind of solar energy	nongold
+83	to slow; to slow down decreases speed	nongold
+84	a cycle happens; occurs repeatedly	nongold
+85	a change is a kind of event	nongold
+86	a component of something means a part of that something	nongold
+87	change is a kind of process	nongold
+88	the sky is similar to space	nongold
+89	a component means a part of	nongold
+90	a star produces light and heat	nongold
+91	a living thing is a kind of object	nongold
+92	if something causes a process then that something is required for that process	nongold
+93	Tuesday is a kind of  time	nongold
+94	becoming is similar to changing	nongold
+95	to give is similar to to cause	nongold
+96	constant means not changing	nongold
+97	turns is similar to changes	nongold
+98	a human is a kind of animal	nongold
+99	Earth's angle of tilt causes the length of day and night to vary	nongold

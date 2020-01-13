@@ -1,0 +1,102 @@
+0	storm is a kind of weather; weather event	nongold
+1	rainfall is the amount of rain an area receives	nongold
+2	often is similar to likely	nongold
+3	rain is a source of water	nongold
+4	water is a kind of natural resource	nongold
+5	In the water cycle , collection as snow; collection as ice can follow precipitation	nongold
+6	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+7	investigating a stage of something means investigating that something	gold
+8	greatest means largest; highest; most amount of something	nongold
+9	water is a kind of water phase	nongold
+10	precipitation amounts	answer
+11	determining often requires measuring; observing	nongold
+12	a process is a kind of event	nongold
+13	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+14	In the water cycle , runoff can follow precipitation	nongold
+15	an increase is a kind of change	nongold
+16	In the water cycle , melting snow; melting ice always follows collection as snow; collection as ice	nongold
+17	an event is a kind of action	nongold
+18	low pressure systems cause precipitation	nongold
+19	In the water cycle , runoff always follows collection as snow; collection as ice	nongold
+20	a source of something increases the amount of that something	nongold
+21	rainfall means the amount of precipitation	nongold
+22	a part of a process means a stage in a process	nongold
+23	snowfall means the amount of precipitation in snow form	nongold
+24	high is similar to increase	nongold
+25	rainwater is a kind of water	nongold
+26	a cycle is a kind of process	nongold
+27	to report means to show	nongold
+28	storms;rain cause bodies of water to increase amount of water they contain	nongold
+29	water is a kind of natural resource	nongold
+30	amount is similar to number	nongold
+31	rainfall means precipitation	nongold
+32	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+33	an area receiving rain means rain falling in that area	nongold
+34	investigating is a kind of process	nongold
+35	runoff is a kind of water	nongold
+36	studying is similar to investigating	nongold
+37	period is similar to amount of time	nongold
+38	largest amount means most	nongold
+39	water vapor condensing in clouds causes rain	nongold
+40	clouds produce rain	nongold
+41	runoff is a stage in the water cycle process	nongold
+42	An example of a physical cycle is the water cycle	nongold
+43	a body of water is a kind of environment	nongold
+44	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+45	sleet is a kind of precipitation	nongold
+46	precipitation is a kind of weather	nongold
+47	an increase is the opposite of a decrease	nongold
+48	rain causes erosion	nongold
+49	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+50	examining sometimes requires measuring	nongold
+51	water is a kind of substance	nongold
+52	water is a kind of object	nongold
+53	snow is a kind of precipitation	nongold
+54	water is a part of an environment	nongold
+55	measuring sometimes requires  recording; learning an amount	gold
+56	investigating requires gathering information	nongold
+57	lack of moisture in the air causes low amounts of rainfall	nongold
+58	recording an observation sometimes requires measuring	nongold
+59	lakes are formed by precipitation and runoff	nongold
+60	rain is a kind of water	nongold
+61	investigating the life cycle of a living thing requires that living thing to be alive	nongold
+62	drought is when amount of precipitation decreases	nongold
+63	answering questions requires information	nongold
+64	precipitation is a stage in the water cycle process	gold
+65	rain is a kind of precipitation	nongold
+66	rain; snow falls	nongold
+67	hail is a kind of precipitation; ice	nongold
+68	most means over 50% of something	nongold
+69	investigation sometimes requires experimentation	nongold
+70	less means a reduced amount	nongold
+71	annual means once per year	nongold
+72	clouds produce precipitation	nongold
+73	examining is a kind of process	nongold
+74	as the size of a cloud increases , the amount  of precipitation contained in that cloud will increase	nongold
+75	a cycle happens; occurs repeatedly	nongold
+76	quantity means amount	nongold
+77	precipitation is when water falls from the sky	gold
+78	In the water cycle , precipitation always follows transportation	nongold
+79	What would most likely be measure during an investigation of the water cycle?	question
+80	a cloud is a kind of weather	nongold
+81	measuring is a kind of observing	nongold
+82	inspect; observe means examine	nongold
+83	In the water cycle , collection in bodies of water can follow runoff	nongold
+84	a measurement is a kind of data	nongold
+85	a body of water is a source of water	nongold
+86	clouds are made of water vapor; rain droplets	nongold
+87	a storm is a source of precipitation	nongold
+88	average amount of precipitation is a property of climate	nongold
+89	experimentation requires measuring	nongold
+90	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+91	increase means more	nongold
+92	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+93	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+94	precipitation is a kind of  natural process	nongold
+95	precipitation is a kind of natural occurrence; cause	nongold
+96	precipitation is a property of weather	nongold
+97	making a valid conclusion in an investigation requires collecting relevant evidence	nongold
+98	rainstorm means rain storm	nongold
+99	investigating sometimes requires measuring	gold
+100	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+101	In the water cycle , precipitation can follow condensation	nongold

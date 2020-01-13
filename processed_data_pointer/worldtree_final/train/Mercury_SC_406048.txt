@@ -1,0 +1,101 @@
+0	nutrients are a kind of resource	gold
+1	a plant is a kind of living thing	gold
+2	if something transfers something else then that something is a source of something else	nongold
+3	trees are a kind of natural resource	nongold
+4	a wildflower is a kind of flower	nongold
+5	decomposition increases the  amount of nutrients; nitrogen in the soil	nongold
+6	plants are a source of fibers	nongold
+7	vegetation means plants	nongold
+8	a shrub is a kind of plant	nongold
+9	a vegetable is a kind of plant	nongold
+10	an animal; living thing requires nutrients for survival	nongold
+11	harming something has a  negative impact on; effect on that something	nongold
+12	best means most positive	nongold
+13	soil is a renewable resource for growing plants	nongold
+14	roots are a vehicle for absorbing water and nutrients from soil into the plant	nongold
+15	nutrients are a kind of material	nongold
+16	if something is required for a process then that something positively impacts that process	nongold
+17	people can plant trees	nongold
+18	a vine is a kind of plant	nongold
+19	a vine is a kind of stem	nongold
+20	roots anchor plants into the soil	nongold
+21	an animal needs to eat food for nutrients	nongold
+22	plants are a part of the environment	nongold
+23	renewing soil increases nutrients in the soil	nongold
+24	good means positive	nongold
+25	a student is a kind of human	nongold
+26	A student plants rosebushes in her front yard. The student is frequently seen pulling weeds from the base of the rosebushes. What is the most likely reason that the weeds are pulled?	question
+27	if something causes a process then that something is required for that process	nongold
+28	weed is a kind of plant	gold
+29	a plant requires photosynthesis to grow; survive	nongold
+30	green plants are a kind of producer	nongold
+31	soil contains nutrients for plants	nongold
+32	nutrients are a source of energy for living things	nongold
+33	a plant is a kind of organism	nongold
+34	a process is a kind of event	nongold
+35	a stem is often a part of plant	nongold
+36	a plant; living thing requires nutrients to grow	gold
+37	crops; farming cause nutrients in the soil to decrease	nongold
+38	to be used for something means to be required by that something	nongold
+39	a flower is a kind of plant	nongold
+40	negative impact is the opposite of positive impact	nongold
+41	a rose is a kind of flower	gold
+42	if a weed is pulled then that weed is destroyed	gold
+43	to depend on; to rely on; to need means to require	gold
+44	nutrients are a kind of substance	nongold
+45	nutrients are a kind of matter	nongold
+46	nitrogen is a kind of nutrient for plant growth	nongold
+47	a source of something emits; produces; generates; provides that something	nongold
+48	a  plant requires sunlight for photosynthesis	nongold
+49	a plant requires water to grow	nongold
+50	a tree requires sunlight to grow	nongold
+51	to provide something means to be the source of that something	nongold
+52	dead organisms are the source of nutrients for decomposers	nongold
+53	growth is a kind of process	nongold
+54	a leaf is a part of a  green plant	nongold
+55	if an event is required for a process then that event must occur before that process can occur	nongold
+56	if something is required then that something must be provided	nongold
+57	to be required means to be necessary	nongold
+58	an animal requires nutrients to grow and heal	nongold
+59	growing is a kind of process	nongold
+60	requiring something means needing that something	nongold
+61	roots are a part of a plant; tree	nongold
+62	a human is a kind of animal	nongold
+63	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+64	a flower is a source of nectar	nongold
+65	helping something has a  positive impact on that something	nongold
+66	a  plant requires sunlight to  grow	nongold
+67	a cause of something is a reason for that something	nongold
+68	pulling is a kind of motion	nongold
+69	a flower is a kind of object	nongold
+70	planting crops requires growing crops	nongold
+71	planting crops is synonymous with growing crops	nongold
+72	a process usually requires all of the stages in that process	nongold
+73	In the food chain process a  green plant has the role of  producer	nongold
+74	needing something means depending on that something	nongold
+75	if something requires something else then that something requires a source of that something else	nongold
+76	grass is a kind of green plant	nongold
+77	a plants; living things require water for survival; to grow	nongold
+78	Weeds use nutrients the roses need to grow.	answer
+79	an organism requires energy for growth; repair	nongold
+80	if some nutrients are in the soil then those nutrients are in the food chain	nongold
+81	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+82	requiring is similar to needing help	nongold
+83	a plant is a member of a plant species	nongold
+84	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+85	plants are a kind of resource	nongold
+86	what something needs is a property of that something	nongold
+87	an animal requires enough nutrients to maintain good health; survive	nongold
+88	planting is a kind of human action	nongold
+89	a nutrient is a kind of object	nongold
+90	if a plant is planted; growing somewhere then that plant is located there	nongold
+91	where something  comes from is a source of that something	nongold
+92	if something is a raw material in a process then that something is required for that process	nongold
+93	if something gains something from something else then that something else is a source of that something	nongold
+94	a food contains nutrients for living things	nongold
+95	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+96	if a living thing requires something then that something has a positive impact on that living thing	nongold
+97	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+98	weeds use up nutrients	gold
+99	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+100	a plant requires soil for survival; to grow	nongold

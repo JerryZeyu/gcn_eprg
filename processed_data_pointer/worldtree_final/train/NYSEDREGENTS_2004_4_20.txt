@@ -1,0 +1,102 @@
+0	texture is a kind of physical property	nongold
+1	an animal is a kind of living thing	nongold
+2	shape is a kind of characteristic	nongold
+3	a container is a kind of object	nongold
+4	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+5	appearance  is a kind of physical property	nongold
+6	objects are made of materials; substances; matter	nongold
+7	as amount; size of something increases , the intensive properties of that something will not change	nongold
+8	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+9	the shape  of an object can be discovered through feeling that object; touching that object	gold
+10	material means substance	nongold
+11	being  on something; placed in something; placed over something means touching  that something	nongold
+12	a body part is a kind of object	nongold
+13	a part of something means a characteristic of something	nongold
+14	looking is similar to observing	nongold
+15	to be filled with means to contain	nongold
+16	texture means how an object feels	nongold
+17	identifying is similar to determining	nongold
+18	color is a kind of physical; visual property	nongold
+19	a type of something is a kind of property of that something	nongold
+20	how something  appears is how that something  looks	nongold
+21	touching is when a body part makes contact with the surface of an object	nongold
+22	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+23	the texture of an object can sometimes be told by looking at the object	nongold
+24	a surface is a kind of object	nongold
+25	appearance is a property of objects; materials	nongold
+26	motion; movement means moving; to move	nongold
+27	a surface is a part of a material	nongold
+28	contents means the substance in a container	nongold
+29	looking in a container sometimes requires opening that container	nongold
+30	an object is made of its parts	nongold
+31	a living thing is a kind of object	nongold
+32	shape is a kind of physical property	nongold
+33	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+34	a physical property is a kind of property	nongold
+35	an part of an object is smaller than the entire object	nongold
+36	surface area is a property of shape	nongold
+37	Matter in the liquid phase has variable shape	nongold
+38	shape is an extensive property	nongold
+39	A student reaches one hand into a bag filled with smooth objects. The student feels the objects but does not look into the bag. Which property of the objects can the student most likely identify?	question
+40	a student is a kind of human	gold
+41	if something is definite in shape then that something will not change shape easily	nongold
+42	if an object is held under a substance then that object is touching that substance	nongold
+43	mass; weight is an extensive property	nongold
+44	composition is a property of an object; matter	nongold
+45	an object is an item	nongold
+46	the properties of something can be used to identify; used to describe that something	nongold
+47	to look like means to have the visual properties of	nongold
+48	a human is a kind of animal	gold
+49	structure is similar to shape	nongold
+50	an object has properties	nongold
+51	identifying sometimes requires examining	nongold
+52	being in something means touching that something	nongold
+53	something's function can be used to describe; identify that something	nongold
+54	a structure is a kind of feature	nongold
+55	Matter in the solid phase has definite shape	nongold
+56	a hand is a kind of object	nongold
+57	structure is a property of an object; a material; a substance	nongold
+58	a hand is a part of the body	nongold
+59	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+60	a structure of something is synonymous with a part of that something	nongold
+61	if an object is made of a material then that object has the properties of that material	nongold
+62	if one is holding an object then one is touching that object	nongold
+63	a surface is a part of an object	nongold
+64	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+65	form is similar to body	nongold
+66	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+67	a human hand is large enough to be visible	nongold
+68	similarity means the same property	nongold
+69	the shape of body parts is an inherited characteristic	nongold
+70	color is a property of  an object; a material	nongold
+71	matter with variable shape changes shape in different container	nongold
+72	shape of the parts of something is a property of that something	nongold
+73	an animal is a kind of organism	nongold
+74	shape	answer
+75	not looking means not seeing	gold
+76	variability of shape; variability of volume is a kind of physical property	nongold
+77	a container contains objects; material; substances	nongold
+78	feature is synonymous with characteristic	nongold
+79	size is an extensive property	nongold
+80	to see means to look	nongold
+81	shape is a property of the appearance of an object	nongold
+82	characteristic means property	nongold
+83	rough is the opposite of smooth	nongold
+84	Matter in the gas phase has variable shape	nongold
+85	form means kind	nongold
+86	feeling is when an living thing senses through touch	nongold
+87	touch is a kind of sense	nongold
+88	definite shape means the shape of an object stays the same when moved to different spot	nongold
+89	shape is a property of an object	gold
+90	variable means able to change	nongold
+91	felt is high in roughness	nongold
+92	smooth is a kind of texture	nongold
+93	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+94	to touch means to contact	nongold
+95	if something is dropped into a container of something else then that something is touching that something else	nongold
+96	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+97	soft is a kind of touch sensation	nongold
+98	a property of something is a feature of that something	nongold
+99	if a container contains something then that container touches that something	nongold
+100	touching something means feeling that something	nongold
+101	the body is a part of an organism	nongold

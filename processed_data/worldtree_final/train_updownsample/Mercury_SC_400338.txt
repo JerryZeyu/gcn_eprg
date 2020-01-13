@@ -1,0 +1,61 @@
+0	scales are a covering around the body of a scaled animal	gold
+1	death means to die	nongold
+2	protection.	answer
+3	an object is an item	nongold
+4	something hard; something strong can be used for protection	gold
+5	protecting something means preventing harm to that something	nongold
+6	answering questions requires information	nongold
+7	a fish is a kind of scaled animal	gold
+8	skin is a kind of material	nongold
+9	high is similar to increase	nongold
+10	a face is often a part of an animal	nongold
+11	an organism is a living thing	nongold
+12	a type is synonymous with a kind	nongold
+13	a covering is a kind of object	nongold
+14	scales are a covering around the body of a scaled animal	gold
+15	something hard; something strong can be used for protection	gold
+16	an amphibian is a kind of animal	nongold
+17	a fish lives in water	nongold
+18	scales are found on the skin of scaled animals	nongold
+19	reptiles have scales	nongold
+20	if a living thing requires something then that something has a positive impact on that living thing	nongold
+21	aquatic animal means water animal	nongold
+22	scales are used for protection by scaled animals	gold
+23	a fish is a kind of scaled animal	gold
+24	an animal is a kind of living thing	nongold
+25	a structure of something is synonymous with a part of that something	nongold
+26	structure is similar to shape	nongold
+27	protection.	answer
+28	trout is a kind of fish	nongold
+29	an animal is a kind of organism	nongold
+30	scales are used for protection by scaled animals	gold
+31	fish eat insects	nongold
+32	protection.	answer
+33	a scale is used for measuring weight	nongold
+34	fins are a part of aquatic animals used for moving through water	nongold
+35	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+36	killing means harming something causing death	nongold
+37	something hard; something strong can be used for protection	gold
+38	protection means resistance to damage increases	nongold
+39	scales are a covering around the body of a scaled animal	gold
+40	water is a kind of object	nongold
+41	a scale is hard	gold
+42	an aquatic animal is a kind of animal	nongold
+43	The body of a fish is covered by scales for	question
+44	a scale is a part of a fish	nongold
+45	killing means changing a living thing from alive to dead by harming	nongold
+46	person is synonymous with human	nongold
+47	the body is a part of an organism	nongold
+48	skin is used for protecting the body from harmful substances	nongold
+49	a fish is a kind of scaled animal	gold
+50	scales are used for protection by scaled animals	gold
+51	protection.	answer
+52	a fish is a kind of aquatic animal	nongold
+53	a shark is a kind of fish	nongold
+54	The body of a fish is covered by scales for	question
+55	damage has a negative impact on a thing	nongold
+56	a scale is hard	gold
+57	The body of a fish is covered by scales for	question
+58	The body of a fish is covered by scales for	question
+59	a scale is hard	gold
+60	a fish is a kind of predator	nongold

@@ -1,0 +1,75 @@
+0	beneficial or harmful	answer
+1	harming something has a  negative impact on; effect on that something	gold
+2	a microorganism is very small in size	nongold
+3	Some microorganisms cause human disease. Other microorganisms are used in making cheese, yogurt, and bread. Based on this information, the relationship between humans and microorganisms can be	question
+4	harming something has a  negative impact on; effect on that something	gold
+5	an organism is a living thing	gold
+6	if two or more things are in a relationship then those things impact each other	gold
+7	decreasing something negative has a positive impact on a thing	nongold
+8	beneficial or harmful	answer
+9	bacteria; molds; yeast cause food to spoil	nongold
+10	an animal is a kind of organism	gold
+11	a positive impact is a helpful effect	nongold
+12	a human is a kind of animal	gold
+13	an organism is a living thing	gold
+14	an animal; bacterium requires oxygen for survival; to breathe	nongold
+15	disease has a negative impact on an organism	gold
+16	mutualism has a positive impact on both organisms in the relationship	nongold
+17	Some microorganisms cause human disease. Other microorganisms are used in making cheese, yogurt, and bread. Based on this information, the relationship between humans and microorganisms can be	question
+18	yogurt is a kind of food	gold
+19	yogurt is a kind of food	gold
+20	if something is made by something else then that something is affected by that something else	nongold
+21	if two or more things are in a relationship then those things impact each other	gold
+22	a negative impact is a kind of consequence; risk	nongold
+23	if two or more things are in a relationship then those things impact each other	gold
+24	to be used for something means to be required by that something	gold
+25	an animal requires enough nutrients to maintain good health; survive	nongold
+26	if a living thing requires something then that something has a positive impact on that living thing	gold
+27	to be used for something means to be required by that something	gold
+28	can be means able to be	nongold
+29	mutualism is a kind of symbiotic relationship	nongold
+30	an animal is a kind of organism	gold
+31	Some microorganisms cause human disease. Other microorganisms are used in making cheese, yogurt, and bread. Based on this information, the relationship between humans and microorganisms can be	question
+32	a vegetable is a kind of food	nongold
+33	beneficial or harmful	answer
+34	bacteria sometimes cause disease	nongold
+35	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+36	a human is a kind of animal	gold
+37	an animal needs to eat food for nutrients	nongold
+38	a human is a kind of animal	gold
+39	cheese is a kind of food	gold
+40	if something affects a part of something else then that something affects that something else	nongold
+41	if a living thing requires something then that something has a positive impact on that living thing	gold
+42	organisms are a part of an environment	nongold
+43	if a living thing requires something then that something has a positive impact on that living thing	gold
+44	beneficial or harmful	answer
+45	an animal is a kind of organism	gold
+46	nutrients are a kind of matter	nongold
+47	cheese is a kind of food	gold
+48	causing is a kind of affecting	nongold
+49	cheese is a kind of food	gold
+50	yogurt is a kind of food	gold
+51	disease means illness	nongold
+52	to impact means to affect	nongold
+53	helping something has a  positive impact on that something	nongold
+54	make means produce	nongold
+55	data means information	nongold
+56	to help; to benefit means to be of use	nongold
+57	negative impact is the opposite of positive impact	nongold
+58	bread is a kind of food	gold
+59	Some microorganisms cause human disease. Other microorganisms are used in making cheese, yogurt, and bread. Based on this information, the relationship between humans and microorganisms can be	question
+60	beneficial means helpful	nongold
+61	bread is a kind of food	gold
+62	harming something has a  negative impact on; effect on that something	gold
+63	an organism is a living thing	gold
+64	good bacteria grow on the skin; a human's skin	nongold
+65	disease has a negative impact on an organism	gold
+66	disease has a negative impact on an organism	gold
+67	bread is a kind of food	gold
+68	a vegetable is a kind of plant	nongold
+69	death means to die	nongold
+70	an animal is a kind of consumer	nongold
+71	to be used for something means to be required by that something	gold
+72	better means good	nongold
+73	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+74	food poisoning is a kind of illness	nongold

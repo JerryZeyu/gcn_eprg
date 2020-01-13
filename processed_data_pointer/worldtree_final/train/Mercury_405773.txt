@@ -1,0 +1,102 @@
+0	coal is used to produce electricity by burning in coal-fire power stations	nongold
+1	electrical energy is a kind of energy	nongold
+2	an energy source is a kind of resource	nongold
+3	plants are a part of the environment	nongold
+4	fossil fuels are a kind of energy resource	nongold
+5	products are formed; are produced; are created	nongold
+6	the Earth contains many ecosystems	nongold
+7	to produce means to create	nongold
+8	an organism is a living thing	nongold
+9	coal is used for generating heat by burning	nongold
+10	forming coal; fossil fuels requires decaying vegetation	nongold
+11	using coal requires burning coal	gold
+12	an environment means an area	nongold
+13	decreasing something negative has a positive impact on a thing	nongold
+14	Many communities in the United States use coal to produce electricity. One problem with using coal is that	question
+15	a concern; a problem is a possible negative impact	nongold
+16	negative impacts on a species will decrease populations of a species	nongold
+17	society is made of humans	nongold
+18	to produce means to provide	nongold
+19	United States is located in the northern hemisphere	nongold
+20	an ecosystem contains a large community of; large numbers of living organisms	nongold
+21	the United States is a kind of country	nongold
+22	nature means a natural environment	nongold
+23	make means produce	nongold
+24	producing renewable electric energy requires renewable resources	nongold
+25	if something is powered by something else then that something requires a source of that something else	nongold
+26	an ecosystem is a kind of habitat	nongold
+27	energy flows in an ecosystem through food chains	nongold
+28	negative impact is the opposite of positive impact	nongold
+29	an environment is a kind of place	nongold
+30	helping something has a  positive impact on that something	nongold
+31	address a problem means reduce a problem	nongold
+32	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+33	vegetation means plants	nongold
+34	a plant is a kind of organism	nongold
+35	coal is a nonrenewable resource	nongold
+36	renewable is the opposite of nonrenewable	nongold
+37	plants are a kind of resource	nongold
+38	producing electricity sometimes requires burning oil	nongold
+39	destroying animal habitats changes an ecosystem	nongold
+40	converting is similar to producing	nongold
+41	a producer is a source of energy for consumers	nongold
+42	decreasing something positive has a negative impact on a thing	nongold
+43	to be used for something means to be required by that something	nongold
+44	electricity means electrical energy	nongold
+45	a natural ecosystem contains native living things only	nongold
+46	killing means harming something causing death	nongold
+47	damage means harm	nongold
+48	destroying something causes harm to that something	nongold
+49	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+50	resources sometimes are used for energy	nongold
+51	nature is the source of natural resources	nongold
+52	a state is a kind of place	nongold
+53	generate means produce	nongold
+54	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+55	if an organism dies then the population of that organism will decrease	nongold
+56	electricity is used as an energy source by electrical devices	nongold
+57	an environment is similar to an ecosystem	gold
+58	green plants are a kind of producer	nongold
+59	ecosystems can be damaged.	answer
+60	pollution is a kind of environmental problem	nongold
+61	dead organisms are a kind of waste	nongold
+62	producing is a kind of process	nongold
+63	problem is similar to issue	nongold
+64	as a population of organisms decreases , the resources used by those organisms will increase	nongold
+65	to generate means to create	nongold
+66	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+67	biofuel is used to produce electricity by burning	nongold
+68	coal is a kind of fuel	nongold
+69	generating power is a kind of positive impact	nongold
+70	a problem has a negative impact on a thing	gold
+71	processes sometimes produce waste products	nongold
+72	using moving water to produce electricity may disrupt local ecosystems	nongold
+73	organisms are a part of an environment	nongold
+74	damage has a negative impact on a thing	gold
+75	humans cause pollution	nongold
+76	destroying animal habitats has a negative  impact on an ecosystem	nongold
+77	natural gas is used for generating electricity by burning in a power plant	nongold
+78	if something causes a process then that something is required for that process	nongold
+79	destruction means to destroy	nongold
+80	humans changing an environment sometimes causes that environment to be destroyed	nongold
+81	to use means to utilize	nongold
+82	humans changing animal habitats usually causes harm to those animals	nongold
+83	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+84	using biomass to produce energy is a source of pollution	nongold
+85	oil is used for producing electricity	nongold
+86	coal is a kind of fossil fuel	nongold
+87	harming an animal species causes that animal's population to decrease	nongold
+88	producer is a kind of role in the food chain process; in an ecosystem	nongold
+89	as a population of organisms increases , the resources used by those organisms will decrease	nongold
+90	a producer is a kind of living thing	nongold
+91	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+92	organisms mean life	nongold
+93	a source of something emits; produces; generates; provides that something	nongold
+94	burning coal is a source of air pollution	gold
+95	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+96	if something is a raw material in a process then that something is required for that process	nongold
+97	pollution has a negative impact on the environment; air quality; water quality; society	gold
+98	a community is made of many types of organisms in an area	nongold
+99	causing problems is a kind of negative impact	nongold
+100	harming something has a  negative impact on; effect on that something	nongold
+101	emit means produce	nongold

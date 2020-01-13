@@ -1,0 +1,102 @@
+0	causing is similar to generating	nongold
+1	a process is a kind of event	nongold
+2	heat is a kind of energy	nongold
+3	if two things perform the same function then those two things are similar	nongold
+4	electricity is made of moving charges; moving charged particles	nongold
+5	a generator is a kind of  device	gold
+6	an electromagnet is a kind of device	nongold
+7	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+8	to produce means to create	nongold
+9	when an animal moves , chemical energy is converted to mechanical energy	nongold
+10	generate means produce	nongold
+11	hydropower converts kinetic energy into electric energy	nongold
+12	comet striking a planet converts kinetic energy into thermal energy	nongold
+13	kinetic energy is a kind of mechanical energy	nongold
+14	motion is a source of kinetic energy in an object	nongold
+15	products are formed; are produced; are created	nongold
+16	can be means able to be	nongold
+17	electrical current means electrical energy	nongold
+18	active transport converts chemical energy into mechanical energy	nongold
+19	the function of something is what that something  is used to do	nongold
+20	if something generates energy for something else then that something powers that something else	nongold
+21	mechanical energy is a kind of energy	nongold
+22	conversion is a kind of process	nongold
+23	a complex machine is made of more than one simple machine	nongold
+24	if something releases something else then that something is the source of that something else	nongold
+25	converting is similar to generating	nongold
+26	a source of something emits; produces; generates; provides that something	nongold
+27	to be formed by is similar to being produced by	nongold
+28	Which device converts kinetic energy into electrical energy?	question
+29	a machine is a kind of  device	nongold
+30	energy conversion is similar to energy transformation	nongold
+31	a complete electrical circuit is a source of  electrical energy	nongold
+32	to generate means to create	nongold
+33	forming is similar to converting	nongold
+34	an object; material; substance comes from that object or material's source	nongold
+35	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+36	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+37	all elements are a kind of pure substance	nongold
+38	a device requires energy to operate	nongold
+39	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+40	chemical energy is a kind of energy	nongold
+41	a human is a kind of animal	nongold
+42	sound is a kind of energy	nongold
+43	to generate means to form	nongold
+44	temperature is a measure of kinetic energy of molecules	nongold
+45	electrical signals are made of electrical energy	nongold
+46	a part of a process means a stage in a process	nongold
+47	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+48	energy transformation means one kind of energy changes into another kind of energy	nongold
+49	converting is similar to producing	nongold
+50	to transform means to convert	nongold
+51	where something  comes from is a source of that something	nongold
+52	if something requires something else then that something requires a source of that something else	nongold
+53	if something transfers something else then that something is a source of something else	nongold
+54	electric devices require electrical energy to function	nongold
+55	emit means produce	nongold
+56	device means tool	nongold
+57	if something converts one kind of energy into other kinds of energy then that something originally stores that energy as the first kind of energy	nongold
+58	electricity is used as an energy source by electrical devices	nongold
+59	a circuit is a kind of electrical component	nongold
+60	a mechanism is a kind of system that performs a function	nongold
+61	a generator converts kinetic energy into electrical energy; electricity	gold
+62	electrical devices are used for industrial purposes; household purposes by humans	nongold
+63	a heat engine converts heat energy into mechanical energy	nongold
+64	instrument means device	nongold
+65	closing an electric circuit causes an electrical device to function	nongold
+66	friction converts mechanical energy into heat energy	nongold
+67	a flashlight converts electrical energy; electricity into light energy	nongold
+68	electricity means electrical energy	nongold
+69	generator	answer
+70	make means produce	nongold
+71	generating power is a kind of positive impact	nongold
+72	a simple machine requires mechanical energy to function	nongold
+73	electrical impulses are a kind of electrical energy	nongold
+74	nuclear reactor generates electrical power	nongold
+75	if something comes from something else then that something else is a source of that something	nongold
+76	an electric motor converts electrical energy into mechanical energy	nongold
+77	to produce means to provide	nongold
+78	producing is a kind of process	nongold
+79	if something is a raw material then that something comes directly from a source	nongold
+80	an event is a kind of action	nongold
+81	to power means to provide energy for	nongold
+82	a power plant converts chemical energy from energy source into electricity	nongold
+83	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+84	combustion means fire converts chemical energy into light energy and heat energy	nongold
+85	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+86	to convert means to change	nongold
+87	sound is produced when mechanical energy is transformed into sound energy	nongold
+88	changes potential energy into kinetic energy through motion	nongold
+89	an electric motor is a kind of electrical device	nongold
+90	as a system; a device grows old , that system; device will use more energy	nongold
+91	to be made of something means to be formed of that something	nongold
+92	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+93	electrical energy is a kind of energy	nongold
+94	mechanical energy of a system includes the sum of kinetic energy and potential energy  in the system	nongold
+95	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+96	if something causes an increase in something else then that something produces that something else	nongold
+97	electromagnetic energy is a kind of energy	nongold
+98	the formation of lightning converts mechanical energy into electrical energy	nongold
+99	if something is powered by something else then that something requires a source of that something else	nongold
+100	a physical reaction is a kind of process	nongold
+101	person is synonymous with human	nongold

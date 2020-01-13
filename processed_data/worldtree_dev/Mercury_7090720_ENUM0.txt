@@ -1,0 +1,102 @@
+Question	Ethanol is an alternative fuel made from corn. What is one of the unfavorable effects of using ethanol as a fuel?	question
+Answer	decrease in farm land available for food production	answer
+0	if more farm land is used then less farm land will be available	gold
+1	producing crops requires using farm land	gold
+2	a farmer farms crops; plants for  food	nongold
+3	farming is a source of food	nongold
+4	corn is a kind of crop	gold
+5	farming is a kind of process	nongold
+6	farming is when a human plants crops for food	nongold
+7	land is a kind of resource	nongold
+8	corn is a kind of plant	nongold
+9	an increase is the opposite of a decrease	nongold
+10	ethanol sometimes is made of corn	gold
+11	cropland is used for farming by humans	nongold
+12	farming happens on a farm	nongold
+13	impact means effect	nongold
+14	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+15	crops; farming cause nutrients in the soil to decrease	nongold
+16	land is a kind of environment	nongold
+17	negative impact is the opposite of positive impact	nongold
+18	resources becoming available has a positive impact on the things that need those resources	nongold
+19	using less of a resource increases the availability of that resource	nongold
+20	a crop is a kind of food	gold
+21	ethanol is a kind of substance	nongold
+22	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+23	as the use of a crop increases , the amount of  crops planted will increase	nongold
+24	to cause means to have an effect	nongold
+25	to lower means to decrease	nongold
+26	a producer produces its own food	nongold
+27	crops are a kind of edible plant for eating	nongold
+28	if something is required for a process then that something positively impacts that process	nongold
+29	low is similar to decrease	nongold
+30	less is similar to decrease	gold
+31	to impact means to affect	nongold
+32	to change means to have an effect	nongold
+33	a decrease is a kind of change	nongold
+34	high is similar to increase	nongold
+35	as available resources increases , the population of an organism that uses those resources will increase	nongold
+36	make means produce	nongold
+37	change is a kind of impact	nongold
+38	a farmer is a kind of human	nongold
+39	alternative fuel is usually a renewable resource	nongold
+40	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+41	to be used for something means to be required by that something	nongold
+42	as the use of something decreases , the use of the source of that something will decrease	nongold
+43	production is similar to making	nongold
+44	gasoline is a kind of fuel	nongold
+45	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+46	to reduce means to decrease	nongold
+47	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+48	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+49	a consumer can not produce its own food	nongold
+50	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+51	using resources decreases those resources	nongold
+52	a plant; living thing requires food for survival	nongold
+53	a producer is a kind of living thing	nongold
+54	planting crops is synonymous with growing crops	nongold
+55	an increase is a kind of change	nongold
+56	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+57	inexhaustible means always available	nongold
+58	farming changes the environment	nongold
+59	producing is similar to causing	nongold
+60	crops growing well has a positive impact on a farmer's livelihood	nongold
+61	less is the opposite of more	nongold
+62	harming something has a  negative impact on; effect on that something	nongold
+63	a source of something emits; produces; generates; provides that something	nongold
+64	planting crops requires growing crops	nongold
+65	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+66	using gasoline is a source of carbon dioxide	nongold
+67	In the food chain process a  green plant has the role of  producer	nongold
+68	a source of something increases the amount of that something	nongold
+69	a plant is a kind of organism	nongold
+70	green plants are a kind of producer	nongold
+71	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+72	if a living thing requires something then that something has a positive impact on that living thing	nongold
+73	to depend on; to rely on; to need means to require	nongold
+74	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+75	humans eat crops	nongold
+76	little is similar to decrease	nongold
+77	renewable resources are often available for many years	nongold
+78	decreasing something positive has a negative impact on a thing	nongold
+79	corn is a kind of seed	nongold
+80	vegetable oil is a kind of fuel	nongold
+81	requiring something means needing that something	nongold
+82	too much is similar to increase	nongold
+83	increase means more	nongold
+84	a plant requires soil for survival; to grow	nongold
+85	food is a kind of resource	nongold
+86	if something causes an increase in something else then that something produces that something else	nongold
+87	farming decreases animal habitats	nongold
+88	an animal; living thing requires nutrients for survival	nongold
+89	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+90	renewable is the opposite of nonrenewable	nongold
+91	requiring is similar to needing help	nongold
+92	soil contains nutrients for plants	nongold
+93	using less of a resource means conserving that resource	nongold
+94	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+95	decreasing something negative has a positive impact on a thing	nongold
+96	a consumer is a kind of organism	nongold
+97	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+98	to cause means to make	nongold
+99	an animal is a kind of organism	nongold

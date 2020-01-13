@@ -1,0 +1,55 @@
+0	population is a measure of the number of a species in an environment	nongold
+1	if something has a positive impact on an organism's growth then that something increases the population of that organism	nongold
+2	as the supply of food in an environment decreases , the population of animals in that environment will decrease	gold
+3	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+4	If its food supply in a field decreases, the mouse population in that field will probably	question
+5	if something returns to a place then that something increases in that place	nongold
+6	decrease.	answer
+7	a deer mouse is a kind of mouse	nongold
+8	a cat is a kind of animal	nongold
+9	an increase is a kind of change	nongold
+10	less is similar to decrease	nongold
+11	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+12	a field contains soil	nongold
+13	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+14	an animal; living thing requires nutrients for survival	nongold
+15	an event is a kind of action	nongold
+16	as population of predators increases , the population of prey will decrease in an environment	nongold
+17	decrease.	answer
+18	If its food supply in a field decreases, the mouse population in that field will probably	question
+19	If its food supply in a field decreases, the mouse population in that field will probably	question
+20	a population is made of one type of organism in an area	nongold
+21	a field is a kind of environment	gold
+22	food is what an animal eats	nongold
+23	a mouse is a kind of animal	gold
+24	If its food supply in a field decreases, the mouse population in that field will probably	question
+25	a mouse is a kind of animal	gold
+26	a food contains nutrients for living things	nongold
+27	to lower means to decrease	nongold
+28	a bird is a kind of living thing	nongold
+29	a mouse is a kind of herbivore	nongold
+30	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+31	a mammal is a kind of animal	nongold
+32	a plant is a kind of living thing	nongold
+33	fur is usually part of a mammal	nongold
+34	humans changing an environment causes animal populations to decrease in that environment	nongold
+35	increase means more	nongold
+36	a rabbit is a kind of mammal	nongold
+37	organisms are a part of an environment	nongold
+38	living things eat their food source	nongold
+39	a mouse is a kind of animal	gold
+40	a field is a kind of environment	gold
+41	population increase means more survive	nongold
+42	a cat is a kind of mammal	nongold
+43	as the supply of food in an environment decreases , the population of animals in that environment will decrease	gold
+44	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+45	a field is a kind of environment	gold
+46	little is similar to decrease	nongold
+47	decrease.	answer
+48	food supply often limits predator population size in an ecosystem	nongold
+49	decrease.	answer
+50	as the supply of food in an environment decreases , the population of animals in that environment will decrease	gold
+51	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+52	predators eat prey	nongold
+53	high is similar to increase	nongold
+54	if an organism eats something then that something is a source of frood to that organism	nongold

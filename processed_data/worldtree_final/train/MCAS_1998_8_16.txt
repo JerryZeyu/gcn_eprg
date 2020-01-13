@@ -1,0 +1,102 @@
+0	If the number of trees significantly decreases, the atmosphere's level of which gas might significantly increase?	question
+1	carbon dioxide	answer
+2	carbon dioxide is a kind of gas	gold
+3	a tree is a kind of plant	gold
+4	carbon dioxide is a kind of greenhouse gas	nongold
+5	a forest contains  lots of plants; trees	nongold
+6	level is similar to amount; quantity	gold
+7	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	gold
+8	as the population of plants decreases , carbon in the atmosphere will increase	nongold
+9	when carbon dioxide in the atmosphere is absorbed by plants , the amount of carbon dioxide in the atmosphere is reduced in the atmosphere	nongold
+10	a tree is a kind of living thing	nongold
+11	a tree is a kind of matter	nongold
+12	increase means more	nongold
+13	a plant absorbs carbon dioxide from the air for photosynthesis	gold
+14	an increase is the opposite of a decrease	nongold
+15	atmosphere means  air	gold
+16	amount is similar to number	nongold
+17	to reduce means to decrease	nongold
+18	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+19	carbon dioxide is more dense than air	nongold
+20	to lower means to decrease	nongold
+21	air is a kind of gas	nongold
+22	fossil fuels release carbon dioxide into the atmosphere	nongold
+23	a source of something increases the amount of that something	nongold
+24	trees are a kind of natural resource	nongold
+25	oxygen is a kind of gas at room temperature	nongold
+26	a decrease is a kind of change	nongold
+27	the atmosphere contains gases; liquids; solids	nongold
+28	burning fossil fuels increases the carbon in the atmosphere	nongold
+29	carbon dioxide can be found in the air	nongold
+30	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+31	as the cause of something decreases , that something will decrease	nongold
+32	how many means what number	nongold
+33	a forest is a kind of environment	nongold
+34	high is similar to increase	nongold
+35	as the amount of carbon dioxide in the atmosphere increases , the temperature of the planet; the atmosphere will increase	nongold
+36	higher means greater; above in value; amount; number	nongold
+37	to add means to increase	nongold
+38	an increase is a kind of change	nongold
+39	many means high in number	nongold
+40	transpiration is when water vapor moves from plants;leaves into the atmosphere	nongold
+41	fewer means lower; less in number	nongold
+42	low is similar to decrease	nongold
+43	less is similar to decrease	nongold
+44	releasing something into the atmosphere increases the amount of that something in the atmosphere	nongold
+45	water vapor is the largest amount of greenhouse gas in the atmosphere	nongold
+46	absorbing something from the air decreases the  amount of  that something in the air	gold
+47	as the density  of the atmosphere decreases , the available oxygen will  decrease	nongold
+48	if an amount of objects decreases then those objects are fewer in number	nongold
+49	the Earth's atmosphere is made of .036 percent carbon dioxide by volume	nongold
+50	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+51	if there is a loss of something then that something decreases	nongold
+52	vegetation means plants	nongold
+53	water vapor is a kind of greenhouse gas	nongold
+54	a source of something emits; produces; generates; provides that something	nongold
+55	greatest means largest; highest; most amount of something	nongold
+56	carbon dioxide concentrations in the air have increased over the last decade dramatically	nongold
+57	vapor is synonymous with gas	nongold
+58	plants are a source of oxygen through photosynthesis	nongold
+59	a plant is a kind of living thing	nongold
+60	if something emits something else then that something increases the amount of that something else	nongold
+61	the number of parts of something is a property of that something	nongold
+62	carbon monoxide is a kind of gas	nongold
+63	trees are a kind of resource	nongold
+64	a tree contains wood	nongold
+65	carbon is a kind of element	nongold
+66	animals are a source of carbon dioxide by exhaling	nongold
+67	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+68	trees are a renewable resource	nongold
+69	the Earth's atmosphere is made of 0 to 4 percent hydrogen; water vapor by volume	nongold
+70	less means a reduced amount	nongold
+71	the emission of something is when something is added into the atmosphere	nongold
+72	deplete is similar to decrease	nongold
+73	if something releases something else then that something else decreases in that something	nongold
+74	a forest is a kind of ecosystem	nongold
+75	nitrogen is a kind of gas	nongold
+76	greenhouse gases are a part of the atmosphere	nongold
+77	a  gas is a kind of  element	nongold
+78	atmospheric means of the atmosphere	nongold
+79	answering questions requires information	nongold
+80	lowest means least in value; amount; number	nongold
+81	to limit means to decrease	nongold
+82	a plant is a kind of organism	nongold
+83	automobiles; industrialization are a source of carbon dioxide	nongold
+84	roots are a part of a plant; tree	nongold
+85	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+86	gas is a kind of substance	nongold
+87	as distance from a source of something increases , that something will decrease	nongold
+88	change is a kind of impact	nongold
+89	impact means effect	nongold
+90	to depend on; to rely on; to need means to require	nongold
+91	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+92	early photosynthetic life increases the  oxygen level in Earth's atmosphere	nongold
+93	an animal; bacterium requires oxygen for survival; to breathe	nongold
+94	oxygen is a stage in the carbon dioxide-oxygen cycle process	nongold
+95	to give off means to be the source of	nongold
+96	air is a part of the environment	nongold
+97	breathing out is when animals exhale carbon dioxide from their lungs into the air	nongold
+98	heat means heat energy	nongold
+99	most means over 50% of something	nongold
+100	gaseous means of gas	nongold
+101	fire causes harm to trees; to forests; to living things	nongold

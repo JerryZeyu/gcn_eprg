@@ -1,0 +1,102 @@
+0	planting crops is synonymous with growing crops	nongold
+1	planting crops is a kind of activity	gold
+2	drought may cause wildfires	nongold
+3	crop rotation has a  positive impact on soil quality	nongold
+4	harming something has a  negative impact on; effect on that something	nongold
+5	helping something has a  positive impact on that something	nongold
+6	person is synonymous with human	nongold
+7	water is a kind of nonliving thing	nongold
+8	to reduce means to decrease	nongold
+9	to be used for something means to be required by that something	nongold
+10	a plant requires soil for survival; to grow	nongold
+11	reproducing is a kind of activity	nongold
+12	conserving water is a kind of characteristic	nongold
+13	survive means live	nongold
+14	drought means available water decreases in an environment	nongold
+15	planting crops requires growing crops	nongold
+16	low is similar to decrease	nongold
+17	cropland is used for farming by humans	nongold
+18	green plants are a kind of producer	nongold
+19	an event is a kind of action	nongold
+20	adverse effect means negative impact	nongold
+21	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+22	conserving water can be used for survival in a dry environment	nongold
+23	to lower means to decrease	nongold
+24	planting trees is sometimes a human activity	nongold
+25	if an organism dies then that organism can not perform its function	nongold
+26	survive means live	nongold
+27	a dry environment is low in availability of water	nongold
+28	if a plant; crop requires less water then that plant; crop will survive in a drought	gold
+29	survival means to survive	nongold
+30	when available resources decrease in an environment , organisms have to conserve those resources	nongold
+31	farming changes the environment	nongold
+32	planting trees has a  positive impact on an ecosystem	nongold
+33	a process is a kind of event	nongold
+34	a plant is a kind of organism	nongold
+35	fruit trees are a kind of crop	nongold
+36	a plants; living things require water for survival; to grow	nongold
+37	water is a part of an environment	nongold
+38	conserving resources has a positive impact on the environment	nongold
+39	planting native plants has a  positive impact on an ecosystem	nongold
+40	drought is when amount of precipitation decreases	nongold
+41	storing water increases the water available to organisms in a dry environment	nongold
+42	growing is a kind of replenishing	nongold
+43	water is a kind of natural resource	nongold
+44	crops are a kind of edible plant for eating	nongold
+45	farming is a kind of process	nongold
+46	water is a kind of natural resource	gold
+47	too much water can cause a plant to not grow	nongold
+48	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+49	harvesting is a kind of using	nongold
+50	if a plant is planted; growing somewhere then that plant is located there	nongold
+51	requiring is similar to needing help	nongold
+52	a farmer farms crops; plants for  food	nongold
+53	conservation is often conserving natural resources	nongold
+54	a drought is a kind of slow environmental change	nongold
+55	creating is a kind of activity	nongold
+56	crops growing well has a positive impact on a farmer's livelihood	nongold
+57	producing crops requires using farm land	nongold
+58	death means to die	nongold
+59	Which of these activities is used to conserve water?	question
+60	planting is a kind of human action	nongold
+61	crop rotation renews; protects soil	nongold
+62	dry means low in amount of water; wetness; moisture	nongold
+63	a plant is a kind of living thing	nongold
+64	growing is a kind of process	nongold
+65	the function of something is what that something  is used to do	nongold
+66	crops grow in soil	nongold
+67	a motion is a kind of event; action	nongold
+68	planting crops that survive in droughts	answer
+69	if an organism dies then the population of that organism will decrease	nongold
+70	adding is a kind of activity	nongold
+71	plants are a part of the environment	nongold
+72	a farmer is a kind of human	nongold
+73	as available water decreases , the population of plants will decrease	nongold
+74	farming is a source of food	nongold
+75	a drought can change the color of an environment from green to brown	nongold
+76	decreasing something negative has a positive impact on a thing	nongold
+77	soil is a renewable resource for growing plants	nongold
+78	a plant; living thing requires nutrients to grow	nongold
+79	to cause an event is similar to being involved in that event	nongold
+80	using less of a resource means conserving that resource	gold
+81	to help; to benefit means to be of use	nongold
+82	as the use of a crop increases , the amount of  crops planted will increase	nongold
+83	a function is an activity	nongold
+84	farming is when a human plants crops for food	nongold
+85	water is a renewable resource	nongold
+86	action means activity	nongold
+87	a drought is a kind of natural event	nongold
+88	a plant requires water to grow	nongold
+89	growing is a kind of activity	nongold
+90	decreasing something positive has a negative impact on a thing	nongold
+91	negative impact is the opposite of positive impact	nongold
+92	crop rotation is when different crops are planted on a field in different years	nongold
+93	to conserve means to not change	nongold
+94	planting trees is the opposite of cutting down trees	nongold
+95	farming happens on a farm	nongold
+96	a drought occurs over a period of months; years	nongold
+97	a crop is a kind of food	nongold
+98	as dryness increases in an environment , the available water in that environment will decrease	nongold
+99	a drought is a kind of natural disaster	nongold
+100	animals; living things require water for survival	nongold
+101	crops; farming cause nutrients in the soil to decrease	nongold

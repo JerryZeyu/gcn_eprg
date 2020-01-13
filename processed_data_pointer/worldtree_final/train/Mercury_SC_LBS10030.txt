@@ -1,0 +1,101 @@
+0	remove means decrease	nongold
+1	eliminate means remove	nongold
+2	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+3	if food is cooked then heat energy is added to that food	nongold
+4	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+5	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+6	a surface is a part of a material	nongold
+7	water is an thermal; thermal energy conductor	nongold
+8	household appliances are a kind of electrical device	nongold
+9	pot;pan;frying pan is made of metal for cooking	nongold
+10	to be used for something means to be required by that something	nongold
+11	to be insulated means to have insulation	nongold
+12	if an object is made of a material then that object has the properties of that material	nongold
+13	plastic is a kind of electrical insulator	nongold
+14	cooking wares require a low thermal expansion material	nongold
+15	a burner is made of metal	nongold
+16	an oven is a kind of electrical device	nongold
+17	ceramic is a kind of material	nongold
+18	a source of heat can be used to heat something	nongold
+19	insulator means good insulator	nongold
+20	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+21	a hot substance is a source of heat	nongold
+22	material means substance	nongold
+23	if a container contains something then that container touches that something	nongold
+24	a stove generates heat for cooking usually	nongold
+25	being  on something; placed in something; placed over something means touching  that something	nongold
+26	temperature is a measure of heat energy	nongold
+27	heat means the transfer of thermal energy	nongold
+28	to serve as means to be used as	gold
+29	food is a kind of substance	nongold
+30	a pot is used for cooking food	nongold
+31	cookware is used for cooking	nongold
+32	a stove is used for cooking by generating heat	nongold
+33	hot means high in heat energy; temperature	nongold
+34	fire causes burning	nongold
+35	conductivity is a measure of how easily electricity travels through a material	nongold
+36	a burner is a part of a  stove	nongold
+37	metal is a thermal; thermal energy conductor	nongold
+38	electrical insulation requires wrapping a conductor in an insulator	nongold
+39	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+40	insulators.	answer
+41	a source of heat can be used to heat something	nongold
+42	if heat is added to a substance then that substance absorbs that heat	nongold
+43	a source of something emits; produces; generates; provides that something	nongold
+44	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+45	a hot; warm something is a source of heat	nongold
+46	heating elements are usually a part of an oven	nongold
+47	a thermal insulator can be used to remove hot objects from a heat source	gold
+48	to combust means to catch fire	nongold
+49	an insulator is insulated	nongold
+50	an object; material; substance comes from that object or material's source	nongold
+51	frying food is a kind of cooking	nongold
+52	plastic is usually an electrical insulator	nongold
+53	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+54	removing hot objects from a heat source requires thermal insulators	gold
+55	boiling is when liquids are heated above their boiling point	nongold
+56	cooking food requires adding heat energy to the food	nongold
+57	a burner is a kind of object; surface	nongold
+58	thermal insulation requires covering the conductor with an insulator	nongold
+59	a thermal insulator slows; prevents the transfer of heat	nongold
+60	if too much heat is transferred to an object then that object may burn	nongold
+61	metal is a kind of material	nongold
+62	an insulator is the opposite of a conductor	nongold
+63	conductivity is a property of a material; substance	nongold
+64	objects are made of materials; substances; matter	nongold
+65	When potholders are used to remove hot pans from an oven, the potholders are serving as	question
+66	heat energy  can be used to heat up  an object	nongold
+67	an oven is a source of heat	gold
+68	a pot is a kind of container	nongold
+69	pots are used for cooking liquid food usually	nongold
+70	heat energy is synonymous with thermal energy	nongold
+71	metal is an  electrical; electrical energy conductor	nongold
+72	a hot plate is a source of heat	nongold
+73	a hot plate is a kind of instrument	nongold
+74	an electric stove changes electrical energy into heat energy	nongold
+75	heating means adding heat	nongold
+76	a pot is a kind of object	nongold
+77	adding heat means increasing temperature	nongold
+78	a pan is a kind of object	nongold
+79	a thermal conductor is made of materials that conduct thermal energy	nongold
+80	a human is a kind of animal	nongold
+81	an insulator is a kind of material	nongold
+82	a pan;frying pan is a kind of container for cooking; food	gold
+83	baking is when a human makes food by adding heat	nongold
+84	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+85	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+86	food is a kind of object	nongold
+87	insulation requires an insulator	nongold
+88	if liquid is boiling then that liquid is hot	nongold
+89	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+90	plastic is a kind of thermal insulator	nongold
+91	fire transfers heat through waves	nongold
+92	if something is places over a heat source then that something is exposed to that heat source	nongold
+93	cooking is a kind of action	nongold
+94	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+95	thermal conduction is when heat flows from warmer object to cooler object	nongold
+96	a stove is a kind of machine	nongold
+97	heat means heat energy	nongold
+98	a container contains objects; material; substances	nongold
+99	if heat is transferred to an object , then the object will get hot	nongold
+100	a container is a kind of object	gold

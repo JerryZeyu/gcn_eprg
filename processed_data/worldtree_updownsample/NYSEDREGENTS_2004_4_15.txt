@@ -1,0 +1,74 @@
+0	a goose is a kind of bird	nongold
+1	a duck is a kind of animal	nongold
+2	a chicken is a kind of bird	gold
+3	a cluck is a kind of sound	gold
+4	a bird is a kind of living thing	nongold
+5	sound	answer
+6	an insect is a kind of prey	nongold
+7	sensing a warning means receiving a warning	gold
+8	chickens cluck	gold
+9	human voice is a kind of sound	nongold
+10	to be in danger means to be around; to be near something dangerous	nongold
+11	a plant is a kind of organism	nongold
+12	a chicken is a kind of bird	gold
+13	sensing a warning means receiving a warning	gold
+14	A mother hen clucks loudly when danger is near and her chicks quickly gather around her. Which sense helps the chicks receive this warning about danger from their mother?	question
+15	talking is when a human produces sound to communicate	nongold
+16	A mother hen clucks loudly when danger is near and her chicks quickly gather around her. Which sense helps the chicks receive this warning about danger from their mother?	question
+17	a chick is a kind of young; baby chicken	gold
+18	threatening behavior causes a fight-or-flight response in animals	nongold
+19	dogs can hear  sounds with higher frequency  than human can	nongold
+20	a chick is a kind of young; baby chicken	gold
+21	sound is a kind of air vibration	nongold
+22	sensing a warning means receiving a warning	gold
+23	receive means get	nongold
+24	a predator is a kind of animal	nongold
+25	sound means sound energy	nongold
+26	requiring is similar to needing help	nongold
+27	a chick is a kind of young; baby chicken	gold
+28	a cluck is a kind of sound	gold
+29	near means close	nongold
+30	a mammal is a kind of animal	nongold
+31	chickens cluck	gold
+32	hearing is used for sensing sound by animals	gold
+33	A bird is a pollinating animal	nongold
+34	loud means high in sound energy;sound intensity	gold
+35	near; close is the opposite of far; away	nongold
+36	to help; to benefit means to be of use	gold
+37	a hen is a kind of female adult chicken	gold
+38	a hen is a kind of female adult chicken	gold
+39	warning people of dangers has a positive impact on the safety of those people	nongold
+40	a bird is a kind of animal	gold
+41	the senses are used for making observations	nongold
+42	a hen is a kind of female adult chicken	gold
+43	A mother hen clucks loudly when danger is near and her chicks quickly gather around her. Which sense helps the chicks receive this warning about danger from their mother?	question
+44	sensing food has a positive impact on finding food	nongold
+45	A mother hen clucks loudly when danger is near and her chicks quickly gather around her. Which sense helps the chicks receive this warning about danger from their mother?	question
+46	hearing is used for sensing sound by animals	gold
+47	hearing is used for sensing sound by animals	gold
+48	hearing is a kind of sense	nongold
+49	sound	answer
+50	to help; to benefit means to be of use	gold
+51	chickens cluck	gold
+52	sound	answer
+53	loud noises can cause animals to startle	nongold
+54	motion; movement means moving; to move	nongold
+55	a cluck is a kind of sound	gold
+56	touch is a kind of sense	nongold
+57	loud means high in sound energy;sound intensity	gold
+58	to hurt means to harm	nongold
+59	mammals birth; give birth to live young	nongold
+60	to help; to benefit means to be of use	gold
+61	if a living thing requires something then that something has a positive impact on that living thing	nongold
+62	a chicken is a kind of bird	gold
+63	a bird is a kind of animal	gold
+64	to be used  for something means to help to do that something	nongold
+65	sound	answer
+66	a bird is a kind of animal	gold
+67	loud means high in sound energy;sound intensity	gold
+68	communication can be used to warn people of dangers	nongold
+69	an organism is a living thing	nongold
+70	an egg is a kind of object	nongold
+71	helping means to assist in a change	nongold
+72	a person should be careful about something dangerous	nongold
+73	sound can be used for communication by animals	nongold

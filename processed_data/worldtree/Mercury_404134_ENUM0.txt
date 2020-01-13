@@ -1,0 +1,102 @@
+Question	When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?	question
+Answer	Closing an electric circuit has produced light.	answer
+0	closing an electric circuit causes an electrical device to function	gold
+1	a digital clock produces light to display the time	gold
+2	pushing a button sometimes completes a circuit	nongold
+3	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+4	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+5	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+6	when a switch in a simple series circuit is closed , electricity will flow through the circuit	gold
+7	a battery-operated device is a kind of electrical device	gold
+8	a complete electrical circuit is a source of  electrical energy	nongold
+9	a circuit is a kind of electrical component	nongold
+10	electricity can  not flow through an open circuit	nongold
+11	when an electrical circuit is working properly , electrical current runs through that circuit; the wires in that circuit	nongold
+12	take place means happen	nongold
+13	a closed circuit has continuous path	nongold
+14	to illuminate means to light up	gold
+15	flipping a switch completes an electrical circuit	nongold
+16	battery-powered is similar to battery-operated	nongold
+17	creating a simple circuit requires a wire; battery	nongold
+18	a light bulb requires electrical energy to produce light	nongold
+19	a source of something emits; produces; generates; provides that something	nongold
+20	a button is similar to a switch	gold
+21	a light bulb generates visible light when it is turned on	nongold
+22	electric devices require electrical energy to function	nongold
+23	when an electrical conductor is plugged into an outlet , a circuit is completed	nongold
+24	sunlight is a kind of light	nongold
+25	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+26	a watch;clock;stopwatch is used for measuring time	gold
+27	to shine means to emit light	nongold
+28	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+29	flipping; pushing a switch means using; activating that switch	nongold
+30	emit means produce	nongold
+31	light means light energy	nongold
+32	producing is a kind of process	gold
+33	a process is a kind of event	nongold
+34	electricity means electrical energy	nongold
+35	a wire is a part of an electrical circuit for conducting electricity	nongold
+36	a light bulb is a kind of electrical device	nongold
+37	the function of something is what that something  is used to do	gold
+38	events occur at a specific place; at a specific time; with a specific frequency	nongold
+39	converting is similar to producing	nongold
+40	a battery is a source of electrical energy; electricity	nongold
+41	to produce means to provide	nongold
+42	to show means to display	nongold
+43	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+44	a device requires energy to operate	nongold
+45	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+46	a light bulb is a part of a  lamp	nongold
+47	to produce means to create	nongold
+48	visible light is a kind of  light	nongold
+49	a part of a process means a stage in a process	nongold
+50	to happen means to occur	nongold
+51	light bulb means lightbulb	nongold
+52	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+53	make means produce	nongold
+54	a battery is a kind of object	nongold
+55	generate means produce	nongold
+56	a process usually requires all of the stages in that process	nongold
+57	if electricity; electric current divides into more than one pathway then the circuit is parallel	nongold
+58	electricity is used as an energy source by electrical devices	nongold
+59	UV light is a kind of light	nongold
+60	producing is a kind of function	nongold
+61	a laser is used for producing light	nongold
+62	a flashlight requires a source of electricity to produce light	nongold
+63	products are formed; are produced; are created	nongold
+64	if something causes a process then that something is required for that process	nongold
+65	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+66	sunlight shining means sunlight is provided	nongold
+67	answering questions requires information	nongold
+68	a mechanism is a kind of system that performs a function	nongold
+69	a device is a kind of object	nongold
+70	bright means bright; light in color	nongold
+71	an event is a kind of action	nongold
+72	to be used for something means to be required by that something	nongold
+73	brightness means amount of light	nongold
+74	a flashlight emits light	nongold
+75	a  battery  is a kind of electrical power source	nongold
+76	process is similar to method	nongold
+77	if something performs a task then that task is that something's function	nongold
+78	operating electrical appliances requires electricity	nongold
+79	dim means a small amount of light	nongold
+80	change is a kind of process	nongold
+81	light is a kind of wave	nongold
+82	producing is similar to causing	nongold
+83	to contribute is similar to produce	nongold
+84	bright means a lot of light	nongold
+85	a laser is a kind of device for producing light	nongold
+86	a flashlight is a kind of battery-operated device	nongold
+87	a producer is a kind of living thing	nongold
+88	to create means to make	nongold
+89	an electric outlet is a source of electricity	nongold
+90	no light shines through an opaque object	nongold
+91	a flashlight converts electrical energy; electricity into light energy	nongold
+92	device means tool	nongold
+93	if an event is required for a process then that event must occur before that process can occur	nongold
+94	an instrument is a piece of equipment	nongold
+95	instrument means device	nongold
+96	minutes are a kind of unit for measuring time	nongold
+97	a light bulb is used for seeing in the dark	nongold
+98	can be means able to be	nongold
+99	metal is an  electrical; electrical energy conductor	nongold

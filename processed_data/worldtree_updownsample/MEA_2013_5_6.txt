@@ -1,0 +1,52 @@
+0	What information is needed to calculate the speed of a car?	question
+1	setting is a kind of motion	nongold
+2	to pass means to travel	nongold
+3	a property is a kind of information	nongold
+4	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+5	motion; movement means moving; to move	nongold
+6	a vehicle is used for transportation	nongold
+7	calculating speed requires knowing distance travelled	gold
+8	travel means to move	nongold
+9	a unit for measuring time is a kind of time interval	nongold
+10	mass is a kind of information	nongold
+11	getting information sometimes requires observing; observation	nongold
+12	measuring requires reading a measurement	nongold
+13	the distance travel	answer
+14	timing; multiplying is a kind of calculating	nongold
+15	What information is needed to calculate the speed of a car?	question
+16	the distance travel	answer
+17	distance moved; distance travelled is a measure of how far an object moves	nongold
+18	a speedometer is used for giving a driver feedback on the speed of their vehicle	nongold
+19	if a wheel travels on a surface then the wheel touches that surface	nongold
+20	stop; stopped means zero; 0; no speed	nongold
+21	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	gold
+22	a machine is a kind of object	nongold
+23	length is a measure of distance from one end of an object to the other end of that object	nongold
+24	furthest; farthest means greatest; most; highest in distance	nongold
+25	locating means determining	nongold
+26	can be means able to be	nongold
+27	to slow; to slow down decreases speed	nongold
+28	calculating speed requires knowing distance travelled	gold
+29	approximately means about	nongold
+30	a velocity is a measure of a speed in a direction	nongold
+31	learning; studying information causes one to know that information	nongold
+32	navigation requires knowing direction	nongold
+33	What information is needed to calculate the speed of a car?	question
+34	an automobile is a kind of vehicle	nongold
+35	far is the opposite of close	nongold
+36	What information is needed to calculate the speed of a car?	question
+37	calculating speed requires knowing distance travelled	gold
+38	calculation means measurement	nongold
+39	the distance travel	answer
+40	to measure means to calculate	nongold
+41	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	gold
+42	rate is similar to speed	nongold
+43	slowest means lowest in  speed	nongold
+44	curiosity means the need to know new information	nongold
+45	if a  car is being driven , then the car will be moving	nongold
+46	the distance travel	answer
+47	location is a kind of information	nongold
+48	calculating is similar to estimating	nongold
+49	motion is when moves an object; something to a direction	nongold
+50	a measure of time is a length of time	nongold
+51	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	gold

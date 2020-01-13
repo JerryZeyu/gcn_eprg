@@ -1,0 +1,102 @@
+Question	Some machines can remove the salt that is in seawater. How does removing salt from seawater most help people?	question
+Answer	provides useable drinking water	answer
+0	helping something has a  positive impact on that something	nongold
+1	being used for is similar to providing	nongold
+2	animals usually require removing salt from water for drinking	gold
+3	to help; to benefit means to be of use	nongold
+4	drinking is a kind of water use	nongold
+5	remove means decrease	nongold
+6	person is synonymous with human	gold
+7	helping means something can be done; completed more easily; better	nongold
+8	if something is required then that something must be provided	nongold
+9	to provide something means to be the source of that something	nongold
+10	eliminate means remove	nongold
+11	treating water is used to remove harmful substances before drinking	nongold
+12	a person is a kind of animal	nongold
+13	to be used  for something means to help to do that something	nongold
+14	salt is soluble in water	nongold
+15	saltwater is a kind of substance	nongold
+16	providing is a kind of function	nongold
+17	requiring is similar to needing help	gold
+18	salt water is made of salt and water	nongold
+19	salt is a kind of solid	nongold
+20	a human is a kind of animal	gold
+21	to help means to aid	nongold
+22	a machine is a kind of  device	nongold
+23	helping means to assist in a change	nongold
+24	liquid water is available  for organisms	nongold
+25	salt water is an electrical; electrical energy conductor	nongold
+26	get rid of means eliminate; remove	nongold
+27	to be used for something means to be required by that something	nongold
+28	salt is a kind of pure substance	nongold
+29	salt water is a kind of solution	nongold
+30	if too much water is removed from a location then the water may become used up	nongold
+31	to provide means to supply	nongold
+32	water is a kind of liquid at room temperature	nongold
+33	an aquatic animal is a kind of animal	nongold
+34	a source of something emits; produces; generates; provides that something	nongold
+35	a machine is a kind of object	nongold
+36	requiring something means needing that something	nongold
+37	provide is similar to give; make	nongold
+38	water is a kind of natural resource	nongold
+39	water is a kind of natural resource	nongold
+40	a body of water contains water	nongold
+41	a body of water is a source of water	nongold
+42	to lower means to decrease	nongold
+43	humans require fresh water to survive	nongold
+44	to be helpful means to help to do	nongold
+45	animals; living things require water for survival	nongold
+46	water is a part of an environment	nongold
+47	a body of water is a kind of environment	nongold
+48	if something contains something , then something is able to provide something	nongold
+49	an animal is a kind of living thing	nongold
+50	sea means ocean	gold
+51	the ocean contains large amounts of salt water	gold
+52	if the water is freshwater , then the water is not a source of salt	nongold
+53	useful means able to be used	nongold
+54	to use means to utilize	nongold
+55	to reduce means to decrease	nongold
+56	negative impact is the opposite of positive impact	nongold
+57	best means most positive	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	providing support is a kind of function	nongold
+60	if something is in something , then something is exposed to something	nongold
+61	if something transports something else then that something removes that something else from a place	nongold
+62	water is a kind of substance	nongold
+63	a source of something supplies that something	nongold
+64	an ocean is a kind of body of water	nongold
+65	if a living thing requires something then that something has a positive impact on that living thing	nongold
+66	water is a renewable resource	nongold
+67	an animal is a kind of organism	nongold
+68	saving money has a positive impact on a person; a company	nongold
+69	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+70	a simple machine is a kind of tool	nongold
+71	aquatic animal means water animal	nongold
+72	good means positive	nongold
+73	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+74	solution is similar to a positive impact	nongold
+75	humans cause pollution	nongold
+76	a liquid is a kind of substance	nongold
+77	salt is made of salt crystals	nongold
+78	humans drink beverages	nongold
+79	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+80	the temperature; pH of water has an impact on the health of that water	nongold
+81	providing something means making;delivering something	nongold
+82	organism requires liquid water to survive	nongold
+83	low is similar to decrease	nongold
+84	if something with the same function as something else is being used then the use of that something else decreases	nongold
+85	decreasing something negative has a positive impact on a thing	nongold
+86	In the solution salt water , the solute is salt	nongold
+87	useful means good to use	nongold
+88	to depend on; to rely on; to need means to require	nongold
+89	removing waste is a kind of function	nongold
+90	organisms are a part of an environment	nongold
+91	protecting something means preventing harm to that something	nongold
+92	fresh water means freshwater	nongold
+93	the function of something is what that something  is used to do	nongold
+94	removing an inhibitor of a process causes that process	nongold
+95	freshwater is drinkable	nongold
+96	containing something is similar to providing that something	nongold
+97	tool is similar to appliance	nongold
+98	aquatic animals; plants live in bodies of water	nongold
+99	if something causes a process then that something is required for that process	nongold

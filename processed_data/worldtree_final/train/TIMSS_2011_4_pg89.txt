@@ -1,0 +1,102 @@
+0	The direction water flows in a river depends on	question
+1	the slope of the land	answer
+2	the slope of the land causes a river to flow in a particular direction	gold
+3	water  flows down a slope	gold
+4	to be dependent on something means to depend on that something	nongold
+5	a river is a kind of flowing body of water	nongold
+6	slope is a measure of the difference in elevation between one part of the land and another part of the land	gold
+7	to depend on; to rely on; to need means to require	nongold
+8	to be affected by something is similar to depending on something	nongold
+9	downstream is a kind of direction in a river	nongold
+10	south; southward is a kind of direction	nongold
+11	land is a kind of environment	nongold
+12	land is a kind of landform	nongold
+13	a stream is a kind of body of water	nongold
+14	north; northward is a kind of direction	nongold
+15	flowing is a kind of motion	nongold
+16	down is a kind of direction	gold
+17	if something causes something else then that something else depends on that something	nongold
+18	a river is a kind of channel for water	nongold
+19	an increase is a kind of change	nongold
+20	downward is a kind of direction	nongold
+21	motion is when moves an object; something to a direction	nongold
+22	upward is a kind of direction	nongold
+23	downhill is a kind of direction	nongold
+24	toward is a kind of direction	nongold
+25	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+26	landform means surface feature; physical feature; land feature	nongold
+27	a body of water is a kind of land feature	nongold
+28	erosion is a kind of change	nongold
+29	needing something means depending on that something	nongold
+30	soil erosion is a kind of slow; natural process	nongold
+31	a body of water is a kind of environment	nongold
+32	flowing is a kind of action	nongold
+33	high is similar to increase	nongold
+34	land is a kind of resource	nongold
+35	a river basin is a kind of land drained by a river and its tributaries	nongold
+36	inclined means sloping	nongold
+37	landscape is similar to land	nongold
+38	a decrease is a kind of change	nongold
+39	to lower means to decrease	nongold
+40	far means great in distance	nongold
+41	water is a kind of matter	nongold
+42	erosion causes a river to become deeper and wider	nongold
+43	runoff is a kind of water	nongold
+44	a landform is a kind of place	nongold
+45	a landform is a kind of place	nongold
+46	erosion is a kind of process	nongold
+47	greater means higher; more in value	nongold
+48	greatest means largest; highest; most amount of something	nongold
+49	as elevation of a place decreases , how much a flood will affect that place will increases	nongold
+50	affected means changed	nongold
+51	to impact means to affect	nongold
+52	navigation requires knowing direction	nongold
+53	a motion is a kind of event; action	nongold
+54	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+55	change is a kind of impact	nongold
+56	to flow is similar to to transfer	nongold
+57	answering questions requires information	nongold
+58	land area means land mass	nongold
+59	soil erosion means soil loss through wind;water; animals	nongold
+60	soil erosion is a kind of event	nongold
+61	an event is a kind of action	nongold
+62	a floodplain is a kind of land; landform	nongold
+63	to reduce means to decrease	nongold
+64	weathering; erosion usually occurs over a period of many years	nongold
+65	increase means more	nongold
+66	downhill means down	nongold
+67	low is similar to decrease	nongold
+68	water is a part of an environment	nongold
+69	weathering is a kind of erosion	nongold
+70	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+71	a change is a kind of event	nongold
+72	a riverbed is a part of a river	nongold
+73	sinking is a kind of downward direction	nongold
+74	motion; movement means moving; to move	nongold
+75	runoff is when cropland water enters; runs off into bodies of water	nongold
+76	a source of something emits; produces; generates; provides that something	nongold
+77	a body of water is a source of water	nongold
+78	a factor impacts something	nongold
+79	a body of water contains water	nongold
+80	a velocity is a measure of a speed in a direction	nongold
+81	an environment means an area	nongold
+82	a landform is a kind of natural formation	nongold
+83	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+84	rising means elevation	nongold
+85	variable means able to change	nongold
+86	reducing is a kind of change	nongold
+87	to turn means to change	nongold
+88	the Colorado River is a kind of river	nongold
+89	a landform is a kind of object	nongold
+90	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+91	less is similar to decrease	nongold
+92	soil and sediment deposited by a river are usually high; rich in nutrients	nongold
+93	according to is similar to be determined by	nongold
+94	when a river floods , that river deposits soil; sediment in flood plains	nongold
+95	wind direction is a property of weather	nongold
+96	low means down	nongold
+97	a process is a kind of event	nongold
+98	to limit means to decrease	nongold
+99	movement is a kind of change	nongold
+100	a land feature is a kind of physical characteristic	nongold
+101	a shore is the land found at the edge of a body of water	nongold

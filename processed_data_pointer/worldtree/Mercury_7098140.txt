@@ -1,0 +1,102 @@
+Question	Radio signal interruption sometimes causes a humming or buzzing sound. These sounds are most likely caused by	question
+Answer	electromagnetic waves.	answer
+0	interruption of a radio signal causes a buzzing sound	gold
+1	a hum is a kind of sound	nongold
+2	a radio converts electrical energy into vibrations; sound energy	nongold
+3	radio signal is a kind of radio wave	gold
+4	radio wave is a kind of electromagnetic wave	nongold
+5	vibrations are a source of sound	nongold
+6	electromagnetic wave is a kind of  wave	nongold
+7	a vibration is similar to a wave	nongold
+8	electromagnetic radiation distorts the frequency of the radio waves	gold
+9	noise means sound	nongold
+10	a radio is a kind of electrical device	nongold
+11	the radio receives radio waves	nongold
+12	a radio contains a speaker	nongold
+13	sound waves means sound energy	nongold
+14	matter; molecules vibrating can cause sound	nongold
+15	distorting is simiar to causing an interruption	gold
+16	a radio is used for communication	nongold
+17	electromagnetic radiation means electromagnetic energy	nongold
+18	often is similar to likely	nongold
+19	high-frequency sound waves have low; short wavelengths	nongold
+20	electromagnetic energy travels as electromagnetic waves	nongold
+21	sound means sound energy	nongold
+22	sound wave is a kind of wave	nongold
+23	radio transmitter emits radio waves	nongold
+24	sound wave is similar to sound	nongold
+25	vibrating matter can produce sound	nongold
+26	electrical signals are made of electrical energy	nongold
+27	sound is a kind of sound energy	nongold
+28	radio station broadcasting is a source of radio waves	nongold
+29	acoustic signal is a kind of sound wave	nongold
+30	loud means high in sound energy;sound intensity	nongold
+31	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+32	frequency is a property of a wave; a particel of light; an event	nongold
+33	sound energy is transferred by vibrational waves	nongold
+34	vibration is a kind of motion	nongold
+35	ringing is a kind of action	nongold
+36	sound wave with frequency range in 20-20000 hertz  can be heard by human	nongold
+37	a wave is a kind of object	nongold
+38	if the frequency  of a sound wave is too high , then human cannot hear  the sound	nongold
+39	amplitude is  a measure of the loudness of the sound wave	nongold
+40	the radio converts radio waves into mechanical waves in the speaker	nongold
+41	to be formed by is similar to being produced by	nongold
+42	electromagnetic energy is a kind of energy	nongold
+43	electromagnetic wave is not a mechanical wave	nongold
+44	a radio is a kind of tool	nongold
+45	wave motion is transferred from the source to matter to produce sound	nongold
+46	ionizing radiation is a kind of electromagnetic wave	nongold
+47	to cause means to make	nongold
+48	electromagnetic spectrum is bands; ranges of frequencies of light waves	nongold
+49	musical instruments make sound when they are played	nongold
+50	infrared wave is a kind of  electromagnetic wave	nongold
+51	a wave is formed by the vibration of the source spreading around from the source	nongold
+52	light is a kind of electromagnetic radiation	nongold
+53	sound is a kind of energy	nongold
+54	electromagnetic radiation is arranged in the electromagnetic spectrum by wavelength; frequency	nongold
+55	decibel level is  a measure of the loudness of the sound	nongold
+56	producing is similar to causing	nongold
+57	a musical instrument is a kind of object	nongold
+58	if sound is absorbed then that sound can not be heard	nongold
+59	radiation is when electromagnetic waves transfers heat and light energy	nongold
+60	to be a source of something means to cause that something	nongold
+61	louder means higher; greater in volume	nongold
+62	molecules; atoms are constantly; always moving; vibrating in substance;matter	nongold
+63	objects are made of materials; substances; matter	nongold
+64	sound is a kind of air vibration	nongold
+65	disrupting is similar to having a negative impact	nongold
+66	events occur at a specific place; at a specific time; with a specific frequency	nongold
+67	hearing is used for sensing sound by animals	nongold
+68	typically means usually	nongold
+69	sound is produced when mechanical energy is transformed into sound energy	nongold
+70	electromagnetic waves can travel through a vacuum and matter	nongold
+71	oscillation means physical vibration	nongold
+72	to cause means to have an effect	nongold
+73	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+74	to give off means to be the source of	nongold
+75	an echo is a kind of sound	nongold
+76	emit means send out	nongold
+77	emit means produce	nongold
+78	microwave is a kind of electromagnetic wave	nongold
+79	to give is similar to to cause	nongold
+80	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+81	matter; materials; substances are made of atoms; particles	nongold
+82	a hummingbird is a kind of animal	nongold
+83	a source of something emits; produces; generates; provides that something	nongold
+84	intense sound energy can move objects	nongold
+85	air is a vehicle for sound	nongold
+86	form means kind	nongold
+87	to emit means to release	nongold
+88	can be means able to be	nongold
+89	volume means the loudness of a sound	nongold
+90	radio waves spread in all directions	nongold
+91	when a sound is produced inside of a room , there is sometimes an echo after the sound	nongold
+92	a bell ringing is a source of sound	nongold
+93	due to means caused by	nongold
+94	creating is similar to causing	nongold
+95	generally means usually	nongold
+96	high frequency means above 8000 hertz in  frequency	nongold
+97	a type is synonymous with a kind	nongold
+98	to happen means to occur	nongold
+99	causing means influencing	nongold

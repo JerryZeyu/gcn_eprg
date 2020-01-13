@@ -1,0 +1,102 @@
+0	to add means to increase	gold
+1	heating means adding heat	nongold
+2	when a gas in an open container evaporates; boils , that gas spreads out into the air	nongold
+3	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+4	The ice changes to a liquid then to a gas.	answer
+5	adding heat means increasing temperature	nongold
+6	being  on something; placed in something; placed over something means touching  that something	nongold
+7	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+8	ice is colder than water in temperature	nongold
+9	ice is a kind of object	nongold
+10	a burner is a kind of object; surface	nongold
+11	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	gold
+12	a liquid is a kind of fluid	nongold
+13	more burning causes fire to be hotter	nongold
+14	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+15	fire is a kind of chemical reaction	nongold
+16	gas is a kind of state of matter	nongold
+17	water is a kind of substance	nongold
+18	if a container contains something then that container touches that something	gold
+19	the heat energy in the cooler object increases in thermal conduction	nongold
+20	a pan is a kind of object	nongold
+21	to give off means to be the source of	gold
+22	boiling means the volume of a liquid decreases	nongold
+23	a fire requires  oxygen to burn	nongold
+24	temperature is a measure of heat energy	nongold
+25	a container is a kind of object	nongold
+26	gas is a kind of object	nongold
+27	cooling means temperature decreases	nongold
+28	water is an thermal; thermal energy conductor	gold
+29	if one surface; one substance; one object touches something then one is exposed to that something	gold
+30	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+31	if an object is placed in a liquid , then the  increased volume of the liquid will be equal to the volume of that object	nongold
+32	ice cube is made of ice	nongold
+33	condensing means matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+34	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+35	if  something is placed in warm air then that something will become warm	nongold
+36	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+37	if heat is transferred to the air , then the temperature of the air will increase	nongold
+38	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+39	vapor is synonymous with gas	nongold
+40	fire causes burning	nongold
+41	freezing is a kind of phase change	nongold
+42	heat means temperature increases	nongold
+43	to combust means to catch fire	nongold
+44	a cube is a kind of object	nongold
+45	fire gives off light; heat; smoke	gold
+46	if an object is put inside; poured into another object , then two objects are touching	nongold
+47	if heat is added to a substance then that substance absorbs that heat	nongold
+48	fire transfers heat through waves	nongold
+49	water is a kind of liquid at room temperature	nongold
+50	evaporating is a kind of phase change	nongold
+51	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+52	heat energy is synonymous with thermal energy	gold
+53	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+54	being in something means touching that something	nongold
+55	an ice cube is a kind of solid	nongold
+56	if something is in something , then something is exposed to something	nongold
+57	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+58	ice is cold in temperature	nongold
+59	if an object is held under a substance then that object is touching that substance	nongold
+60	to happen means to occur	nongold
+61	to place in is similar to to move to	nongold
+62	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+63	to exhale means to release	nongold
+64	melting is a kind of phase change	nongold
+65	hot means high in heat energy; temperature	gold
+66	an increase is a kind of change	nongold
+67	ice is a kind of food	gold
+68	metal is a thermal; thermal energy conductor	gold
+69	if heat is conducted to an object then that object will become hot	nongold
+70	a container contains objects; material; substances	gold
+71	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+72	if something is places over a heat source then that something is exposed to that heat source	gold
+73	gas is a kind of substance	nongold
+74	ice is a kind of water phase	nongold
+75	combustion is a kind of chemical change	nongold
+76	Matter in the gas phase has variable volume	nongold
+77	absorbing energy causes objects; materials; substances to heat	nongold
+78	as the oxygen a fire is exposed to increases the longer that fire will burn	nongold
+79	if too much heat is transferred to an object then that object may burn	nongold
+80	a pan;frying pan is a kind of container for cooking; food	gold
+81	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+82	a burner is a part of a  stove	nongold
+83	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+84	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+85	air is a kind of gas	nongold
+86	ice is a kind of solid	gold
+87	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+88	An ice cube is placed in a pan. The pan is placed over an open flame. Which change will most likely happen over time?	question
+89	gas is a kind of material	nongold
+90	thermal conduction is when heat flows from warmer object to cooler object	nongold
+91	boiling is when liquids are heated above their boiling point	nongold
+92	air temperature is a kind of temperature	nongold
+93	placing is a kind of action	nongold
+94	placing an object into a liquid causes the volume of the liquid to increase by the volume of object under the liquid	nongold
+95	air is usually a thermal; thermal energy insulator	nongold
+96	a flame are a part of a fire	gold
+97	an ice cube is a kind of object	nongold
+98	pot;pan;frying pan is made of metal for cooking	gold
+99	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+100	combustion means fire converts chemical energy into light energy and heat energy	nongold
+101	boiling is a kind of phase change	nongold

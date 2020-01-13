@@ -1,0 +1,101 @@
+0	a phase of the moon is a kind of state	nongold
+1	an asteroid impact is a kind of event	nongold
+2	answering questions requires information	nongold
+3	landform means surface feature; physical feature; land feature	nongold
+4	a covering is a kind of object	nongold
+5	a cloud of dust and gas is a kind of feature	nongold
+6	becoming is similar to forming	nongold
+7	to impact means to affect	nongold
+8	to form means to create	nongold
+9	if the surface of an object contains something then that object is covered with that something	nongold
+10	a structure of something is synonymous with a part of that something	nongold
+11	an object is made of its parts	nongold
+12	to be formed means to be originated	nongold
+13	a surface is a kind of object	nongold
+14	to be formed by is to be the result of	nongold
+15	a factor impacts something	nongold
+16	made up of means contains; made of	nongold
+17	how many means what number	nongold
+18	most means over 50% of something	nongold
+19	classifying is when one sorts something by kind; type	nongold
+20	something that happens is a kind of event	nongold
+21	a structure is a kind of feature	nongold
+22	breaking down is a kind of forming	nongold
+23	a living thing is a kind of object	nongold
+24	weathering occurs at the surface of the Earth	nongold
+25	an part of an object is smaller than the entire object	nongold
+26	usually means most of the time	nongold
+27	objects are made of materials; substances; matter	nongold
+28	the moon does not contain air; water	nongold
+29	a whole is formed by its parts	nongold
+30	events occur at a specific place; at a specific time; with a specific frequency	nongold
+31	a landform is a kind of object	nongold
+32	impact means effect	nongold
+33	to create means to make	nongold
+34	material means substance	nongold
+35	a moon is a kind of celestial object; body	nongold
+36	change is a kind of impact	nongold
+37	can be means able to be	nongold
+38	an animal is a kind of living thing	nongold
+39	if something is made of something else then the formation of that something requires that something else	nongold
+40	massive means giant	nongold
+41	a motion is a kind of event; action	nongold
+42	a meteoroid is a kind of meteor	nongold
+43	The surface of the Moon is covered with craters. Most of these craters were formed by	question
+44	moons are large; solid; spherical	nongold
+45	the lunar; moon's surface contains many craters	gold
+46	to cause an event is similar to being involved in that event	nongold
+47	system is similar to structure	nongold
+48	each is similar to individual	nongold
+49	to give is similar to to cause	nongold
+50	state means form	nongold
+51	all the other means the rest of	nongold
+52	bowl-shaped craters are a kind of crater	nongold
+53	to change into means to form	nongold
+54	the parts of something make up that something	nongold
+55	many means high in number	nongold
+56	to split means to break down	nongold
+57	usually craters on planets; craters on moons are formed by asteroids;meteoroids impacting that planet or moon's surface	gold
+58	the  moon's surface contains highlands	nongold
+59	due to means caused by	nongold
+60	if an object is made of something then the parts of that object are made of that something	nongold
+61	to cause the formation of means to form	nongold
+62	a component means a part of	nongold
+63	a surface is a part of a material	nongold
+64	the Moon is Earth's moon	nongold
+65	to cause means to result in	nongold
+66	to increase is similar to to create	nongold
+67	an environment means an area	nongold
+68	a component of something means a part of that something	nongold
+69	composed of means made of	nongold
+70	forming is a kind of action	nongold
+71	largest amount means most	nongold
+72	no longer means used to be	nongold
+73	the majority of is similar to largest	nongold
+74	contains means located in	nongold
+75	Earth is a kind of planet	nongold
+76	to be made of means to consist of	nongold
+77	to make means to form	nongold
+78	made of is similar to contains	nongold
+79	covering something is a kind of protection	nongold
+80	greatest means largest; highest; most amount of something	nongold
+81	the impacts of many meteoroids	answer
+82	a process is a kind of event	nongold
+83	a type is synonymous with a kind	nongold
+84	a meteoroid is a kind of clestial object	nongold
+85	to cause means to make	nongold
+86	the  moon's surface contains flat areas	nongold
+87	under water means covered by water; in water	nongold
+88	if something exists on a surface then that surface contains that something	nongold
+89	the Earth's surface contains many craters	nongold
+90	the moon orbits the Earth	nongold
+91	a surface is a part of an object	nongold
+92	an event is a kind of action	nongold
+93	Earth's surface is made of rock	nongold
+94	a crater is a kind of land feature	nongold
+95	creating is similar to causing	nongold
+96	to be formed by is similar to being produced by	nongold
+97	mostly means being the most	nongold
+98	a meteorite is formed by a meteoroid impacting the surface of a planet	nongold
+99	to be made of something means to be formed of that something	nongold
+100	form means kind	nongold

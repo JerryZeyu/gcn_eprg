@@ -1,0 +1,102 @@
+0	if a plant; crop requires less water then that plant; crop will survive in a drought	nongold
+1	as dryness increases in an environment , the available water in that environment will decrease	nongold
+2	lack of moisture in the air causes low amounts of rainfall	nongold
+3	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+4	drought may cause wildfires	nongold
+5	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+6	a body of water is a kind of environment	nongold
+7	an environment is a kind of place	nongold
+8	storms;rain cause bodies of water to increase amount of water they contain	nongold
+9	an increase is the opposite of a decrease	nongold
+10	lakes are formed by precipitation and runoff	nongold
+11	precipitation is a stage in the water cycle process	nongold
+12	to reduce means to decrease	nongold
+13	runoff is when cropland water enters; runs off into bodies of water	nongold
+14	to change means to cause a change	nongold
+15	month is a kind of period of time	nongold
+16	high is similar to increase	nongold
+17	a climate is synonymous with an environment	nongold
+18	each season occurs once per year	nongold
+19	a drought is a kind of natural disaster	nongold
+20	little is similar to decrease	nongold
+21	average amount of precipitation is a property of climate	nongold
+22	rainfall means the amount of precipitation	nongold
+23	rain is a kind of water	nongold
+24	precipitation is a kind of natural occurrence; cause	nongold
+25	to happen means to occur	nongold
+26	precipitation is when water falls from the sky	nongold
+27	organisms are a part of an environment	nongold
+28	as the amount of rain increases in an environment , available sunlight will decrease in that environment	nongold
+29	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+30	something that happens is a kind of event	nongold
+31	a cycle happens; occurs repeatedly	nongold
+32	rain is a source of water	nongold
+33	amount of sunlight causes changing weather patterns	nongold
+34	rainfall means precipitation	nongold
+35	storm is a kind of weather; weather event	nongold
+36	wet is the opposite of dry	nongold
+37	a drought is a kind of slow environmental change	gold
+38	a plants; living things require water for survival; to grow	nongold
+39	as available water decreases , the population of plants will decrease	nongold
+40	to lower means to decrease	nongold
+41	1 year is equal to 12 months	nongold
+42	a drought can change the color of an environment from green to brown	nongold
+43	a body of water is a source of water	nongold
+44	length of time means period of time	nongold
+45	rainfall is the amount of rain an area receives	nongold
+46	when a river floods , that river deposits soil; sediment in flood plains	nongold
+47	greatest means largest; highest; most amount of something	nongold
+48	wind and rain; storms cause erosion	nongold
+49	annual means once per year	nongold
+50	days are a kind of unit for measuring time	nongold
+51	a drought is a kind of natural event	nongold
+52	erosion is a kind of change	nongold
+53	flooding is a kind of change	nongold
+54	to turn means to change	nongold
+55	drought means available water decreases in an environment	nongold
+56	as the cause of something decreases , that something will decrease	nongold
+57	drought is when amount of precipitation decreases	nongold
+58	if a body of water loses all water then that body of water does not exist any more	nongold
+59	a seasonal change is a kind of environmental change	nongold
+60	an event is a kind of action	nongold
+61	animals; living things require water for survival	nongold
+62	drier means lower in amount of water; wetness; moisture	nongold
+63	change is a kind of impact	nongold
+64	weather is a property of a environment	nongold
+65	precipitation is a kind of weather	nongold
+66	precipitation is a property of weather	nongold
+67	dry means low in amount of water; wetness; moisture	nongold
+68	less is similar to decrease	nongold
+69	an environment means an area	nongold
+70	period is similar to amount of time	nongold
+71	water is a part of an environment	nongold
+72	years are a kind of unit for measuring time	nongold
+73	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+74	water is a renewable resource	nongold
+75	rain causes erosion	nongold
+76	months are a kind of unit for measuring time	nongold
+77	a decrease is a kind of change	nongold
+78	increase means more	nongold
+79	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+80	a body of water contains water	nongold
+81	low is similar to decrease	nongold
+82	if something releases something else then that something else decreases in that something	nongold
+83	Which of these environmental changes goes on for months or years?	question
+84	every summer  is a kind of period of time	nongold
+85	seasons cause change to the environment	nongold
+86	weathering; erosion usually occurs over a period of many years	nongold
+87	drying up means losing all water	nongold
+88	a process is a kind of event	nongold
+89	an increase is a kind of change	nongold
+90	as the  level of water rises , the amount of available land will decrease	nongold
+91	weather changes from seasons to seasons	nongold
+92	decades are a kind of unit for measuring time	nongold
+93	drought	answer
+94	death means to die	nongold
+95	a change is a kind of event	nongold
+96	a drought occurs over a period of months; years	gold
+97	rain is a kind of precipitation	nongold
+98	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+99	affected means changed	nongold
+100	when a body of water receives more water than it can hold , a flood occurs	nongold
+101	a river is a kind of flowing body of water	nongold

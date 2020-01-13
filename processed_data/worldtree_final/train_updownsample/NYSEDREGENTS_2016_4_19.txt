@@ -1,0 +1,55 @@
+0	depth is a property of the shape of an object	nongold
+1	surface type is a kind of characteristic	nongold
+2	an part of an object is smaller than the entire object	nongold
+3	a can is a kind of object	nongold
+4	particles in objects are a kind of matter	nongold
+5	shape of the parts of something is a property of that something	nongold
+6	shape is a property of an object	nongold
+7	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	gold
+8	objects are made of materials; substances; matter	nongold
+9	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	nongold
+10	soft is a kind of hardness	nongold
+11	what an object is made of is a kind of characteristic	nongold
+12	the effects of something is a property of that something	nongold
+13	texture	answer
+14	a covering is a kind of object	nongold
+15	texture	answer
+16	size is an extensive property	nongold
+17	the texture of an object can sometimes be told by looking at the object	nongold
+18	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	gold
+19	an object is made of its parts	nongold
+20	length is a property of the shape of an object	nongold
+21	a property of something is a feature of that something	nongold
+22	Which property of an object can be described as smooth?	question
+23	smooth is a kind of texture	gold
+24	different types of soil have different textures	nongold
+25	a surface is a part of an object	gold
+26	smooth is a kind of texture	gold
+27	high is similar to increase	nongold
+28	Which property of an object can be described as smooth?	question
+29	aspect is similar to property	nongold
+30	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	gold
+31	a surface is a part of an object	gold
+32	a landform is a kind of object	nongold
+33	Which property of an object can be described as smooth?	question
+34	soft is a kind of touch sensation	nongold
+35	Which property of an object can be described as smooth?	question
+36	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+37	an apple is smooth on the surface	nongold
+38	thickness is  a measure of how thick an object  is	nongold
+39	a surface is a part of an object	gold
+40	carpet has a rough surface	nongold
+41	composed of means made of	nongold
+42	inclined means sloping	nongold
+43	smooth is a kind of texture	gold
+44	a type of something is a kind of property of that something	nongold
+45	state of matter is a kind of physical property	nongold
+46	composition is a property of an object; matter	nongold
+47	texture	answer
+48	texture	answer
+49	a living thing is a kind of object	nongold
+50	rubbing  is a kind of motion	nongold
+51	sand has a rough surface	nongold
+52	material means substance	nongold
+53	texture means how an object feels	nongold
+54	gritty is simiar to  rough	nongold

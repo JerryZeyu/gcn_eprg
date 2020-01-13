@@ -1,0 +1,66 @@
+0	a population is made of one type of organism in an area	nongold
+1	an animal is a kind of living thing	nongold
+2	Humans	answer
+3	a bird is a kind of living thing	nongold
+4	a human is a kind of animal	gold
+5	amount is similar to number	nongold
+6	shortest means the least amount of time	gold
+7	human is a kind of organism	nongold
+8	bacteria can show significant trait changes in the shortest period of time	nongold
+9	shortest means the least amount of time	gold
+10	to a human a time period of 1000 years or more years is considered very long	nongold
+11	Earth is a kind of planet	nongold
+12	reptiles have been on Earth for 370000000 years	gold
+13	once means one time	nongold
+14	vegetation means plants	nongold
+15	Humans	answer
+16	an animal is a member of an animal species	gold
+17	shortest means the least amount of time	gold
+18	Which species have been on the Earth for the shortest amount of time?	question
+19	all the time means at day and at night	nongold
+20	Venus is a kind of planet	nongold
+21	fewer means lower; less in number	nongold
+22	Which species have been on the Earth for the shortest amount of time?	question
+23	population is a measure of the number of a species in an environment	nongold
+24	an organism is a living thing	nongold
+25	an animal is a member of an animal species	gold
+26	Which species have been on the Earth for the shortest amount of time?	question
+27	a living thing is a kind of object	nongold
+28	an increase is the opposite of a decrease	nongold
+29	fish have been on Earth for 419000000 years	gold
+30	a plant is a kind of living thing	nongold
+31	reptiles have been on Earth for 370000000 years	gold
+32	greatest means largest; highest; most amount of something	nongold
+33	a plant is a kind of organism	nongold
+34	shortest means least; smallest in length	nongold
+35	length is a measure of distance from one end of an object to the other end of that object	nongold
+36	longest means greatest in length	nongold
+37	usually means most of the time	nongold
+38	fish have been on Earth for 419000000 years	gold
+39	Humans	answer
+40	if a species existed for a relatively short time then that species is now extinct	nongold
+41	fewest means lowest; least in number	nongold
+42	distance is a property of space and includes ordered values of close; far	nongold
+43	lowest means least in value; amount; number	nongold
+44	fish have been on Earth for 419000000 years	gold
+45	closer means lower; less; a decrease in distance	nongold
+46	humans have been on Earth for 300000 years	gold
+47	humans have been on Earth for 300000 years	gold
+48	Humans	answer
+49	a human is a kind of animal	gold
+50	an animal is a member of an animal species	gold
+51	an animal is a kind of eukaryote	nongold
+52	insects have been on Earth for 400000000 years	gold
+53	Tuesday is a kind of  time	nongold
+54	reptiles have been on Earth for 370000000 years	gold
+55	shorter means smaller; less in  height	nongold
+56	how long something takes is a kind of measurement of time	nongold
+57	insects have been on Earth for 400000000 years	gold
+58	least is the opposite of greatest	nongold
+59	Which species have been on the Earth for the shortest amount of time?	question
+60	humans have been on Earth for 300000 years	gold
+61	carnivores; omnivores; herbivores are a kind of animal	nongold
+62	furthest; farthest means greatest; most; highest in distance	nongold
+63	a human is a kind of animal	gold
+64	insects have been on Earth for 400000000 years	gold
+65	answering questions requires information	nongold

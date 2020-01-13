@@ -1,0 +1,101 @@
+0	each season occurs once per year	nongold
+1	an animal is a kind of living thing	nongold
+2	if something comes from something else then that something else is a source of that something	nongold
+3	green plants are a kind of producer	nongold
+4	spring follows winter	nongold
+5	an animal is a kind of organism	nongold
+6	a vegetable is a kind of plant	nongold
+7	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+8	spring is a kind of season	nongold
+9	where something  comes from is a source of that something	nongold
+10	summer has the most sunlight	gold
+11	winter is the opposite of summer	nongold
+12	living things all require energy for survival	nongold
+13	different seasons occur during different times of the year	nongold
+14	an object; material; substance comes from that object or material's source	nongold
+15	the sun is the source of solar energy called sunlight	gold
+16	if a living thing requires something then that something has a positive impact on that living thing	nongold
+17	if something is required for a process then that something positively impacts that process	nongold
+18	if something transfers energy to something else then that something else absorbs that energy	nongold
+19	resources sometimes are used for energy	nongold
+20	summer follows spring	nongold
+21	a plants; living things require water for survival; to grow	nongold
+22	a living thing is a kind of object	nongold
+23	a plant requires photosynthesis to grow; survive	nongold
+24	solar energy is a kind of light	nongold
+25	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+26	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+27	vegetation means plants	nongold
+28	summer has hot temperatures; weather	nongold
+29	winter is a part of the year	nongold
+30	a plant; living thing requires nutrients to grow	nongold
+31	spring has warm temperatures; weather	nongold
+32	the sun is a source of radiation; heat called sunlight	nongold
+33	if something is transported to something else then that something else receives that something	nongold
+34	yearly means every year	nongold
+35	Autumn is a kind of season	nongold
+36	a plant is a kind of organism	nongold
+37	to receive sunlight means to absorb sunlight	nongold
+38	increase means more	nongold
+39	summer	answer
+40	a  plant requires sunlight for photosynthesis	nongold
+41	if something generates energy for something else then that something powers that something else	nongold
+42	fall means autumn	nongold
+43	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+44	sunlight is a kind of solar energy	nongold
+45	to depend on; to rely on; to need means to require	nongold
+46	annual means once per year	nongold
+47	heat is a kind of energy	nongold
+48	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+49	solar energy is a kind of energy	gold
+50	an energy source is a kind of resource	nongold
+51	every summer  is a kind of period of time	nongold
+52	sunlight produces heat	nongold
+53	food is a source of energy for animals; plants	nongold
+54	the sun  is the source of energy for physical cycles on Earth	nongold
+55	if something is outside during the day then that something will receive sunlight	gold
+56	if something causes a process then that something is required for that process	nongold
+57	if something requires something else then that something requires a source of that something else	nongold
+58	solar energy is a kind of heat energy	nongold
+59	heat means heat energy	nongold
+60	summer is a kind of season	gold
+61	the sun is the source of energy for life on Earth	nongold
+62	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+63	receive means get	nongold
+64	sunlight is a kind of light	nongold
+65	crops are a kind of edible plant for eating	nongold
+66	planting crops is synonymous with growing crops	nongold
+67	nutrients are a source of energy for living things	nongold
+68	to be used for something means to be required by that something	nongold
+69	a plant; living thing requires food for survival	nongold
+70	requiring something means needing that something	nongold
+71	receiving sunlight  is synonymous with absorbing sunlight	nongold
+72	a  plant requires sunlight to  grow	gold
+73	a source of something increases the amount of that something	nongold
+74	Ellie is growing a vegetable garden. In which season do the plants in Ellie's garden receive the most energy from the Sun for growing?	question
+75	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+76	a plant is a kind of living thing	nongold
+77	if something is passed down to something else then that something else receives that something	nongold
+78	obtain is similar to receive	nongold
+79	sunlight means solar energy	nongold
+80	fall is a kind of season	nongold
+81	fall follows summer	nongold
+82	if something gains something from something else then that something else is a source of that something	nongold
+83	an increase is the opposite of a decrease	nongold
+84	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+85	greatest means largest; highest; most amount of something	nongold
+86	a tree requires sunlight to grow	nongold
+87	if something transfers something else then that something is a source of something else	nongold
+88	high is similar to increase	nongold
+89	a vegetable is a kind of food	nongold
+90	to provide something means to be the source of that something	nongold
+91	the sun is a source of light; light energy called sunlight	nongold
+92	to add means to increase	nongold
+93	sunshine means sunlight	nongold
+94	a source of something emits; produces; generates; provides that something	nongold
+95	an organism requires energy for growth; repair	nongold
+96	all living things grow	nongold
+97	taking in something means receiving; absorbing; getting something	nongold
+98	spring increases the amount of available food in an environment	nongold
+99	winter is a kind of season	nongold
+100	winter follows fall	nongold

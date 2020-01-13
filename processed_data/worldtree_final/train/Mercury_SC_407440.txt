@@ -1,0 +1,101 @@
+0	Which of these items contains only a solution?	question
+1	a bottle of juice	answer
+2	juice is a kind of solution	gold
+3	a beverage is a kind of liquid	nongold
+4	a bottle is a kind of container	gold
+5	solution is a kind of liquid	gold
+6	an object is an item	nongold
+7	a solution is made of one substance dissolved in another substance	nongold
+8	fruit juice is a kind of  drink	nongold
+9	a solution is formed by one substance being dissolved in another substance	nongold
+10	a solvent is a part of a solution	nongold
+11	a solution is a kind of mixture	nongold
+12	juice is a kind of liquid	nongold
+13	a container contains objects; material; substances	gold
+14	a  solution  is a kind of object	nongold
+15	a glass bottle is a kind of bottle	nongold
+16	a bottle is a kind of object	nongold
+17	contents means the substance in a container	nongold
+18	water is a kind of substance	nongold
+19	a liquid is a kind of substance	gold
+20	a  solute is a part of a solution	nongold
+21	when one substance is dissolved in another substance then the molecules of that other substance exist in solution	nongold
+22	a glass contains water	nongold
+23	if something is soluble in something , then that something can be dissolved in something forming a solution	nongold
+24	a beverage is a kind of food	nongold
+25	to contain something means to have that something	nongold
+26	made of is similar to contains	nongold
+27	contain is similar to store	nongold
+28	a liquid is a kind of fluid	nongold
+29	juice is a kind of matter	nongold
+30	water is a kind of liquid at room temperature	nongold
+31	In the solution sugar water , the solvent is water	nongold
+32	made up of means contains; made of	nongold
+33	sugar water is a kind of solution	nongold
+34	if something is made of something; a material then that something contains that something; that material	nongold
+35	a mixture is a kind of substance	nongold
+36	if something absorbs something else then that something will contain that something else	nongold
+37	In the solution sugar water , the solute is sugar	nongold
+38	soda bottles are a kind of manufactured product	nongold
+39	containing something is similar to providing that something	nongold
+40	humans drink beverages	nongold
+41	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+42	fruit drink is a kind of beverage	nongold
+43	a product is a kind of object	nongold
+44	to be found in means to be contained in	nongold
+45	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+46	a container is a kind of object	nongold
+47	water is a kind of compound	nongold
+48	if something is a part of something else then that something else contains that something	nongold
+49	gas is a kind of substance	nongold
+50	if something is dissolved , then that something is the solute	nongold
+51	if something is a source of something else then that something usually contains that something else	nongold
+52	to contain means to have inside	nongold
+53	objects are made of materials; substances; matter	nongold
+54	a carbonated beverage contains dissolved carbon dioxide	nongold
+55	if a substance is dissolved in another substance then that substance is added to that other substance	nongold
+56	to be filled with means to contain	nongold
+57	material means substance	nongold
+58	water is a kind of matter	nongold
+59	if something contains something , then something is able to provide something	nongold
+60	sample is similar to small amount of substance; matter	nongold
+61	An example of a solution is vinegar mixed with water	nongold
+62	water is a kind of object	nongold
+63	alcohol is a kind of liquid	nongold
+64	quantity means amount	nongold
+65	containing is similar to holding	nongold
+66	substances are made of matter	nongold
+67	if a container contains something then that container touches that something	nongold
+68	if a solution is formed , then the  components of the solution are similar throughout	nongold
+69	substances are made of molecules	nongold
+70	provide is similar to give; make	nongold
+71	including means containing	nongold
+72	something that contains water is similar to a body of water	nongold
+73	an mixture is formed by two or more substances combined together physically	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	an object; material; substance comes from that object or material's source	nongold
+76	problem is similar to issue	nongold
+77	ethanol is a kind of substance	nongold
+78	fruit juice is usually high in sugar	nongold
+79	containing something is similar to holding something	nongold
+80	to provide something means to be the source of that something	nongold
+81	purity is a property of substance and includes ordered values of pure substance; mixture	nongold
+82	a pure substance is made of only one kind of atom; molecule	nongold
+83	matter; materials; substances are made of atoms; particles	nongold
+84	a compound is a kind of substance	nongold
+85	food is a kind of substance	nongold
+86	both means two	nongold
+87	contains means located in	nongold
+88	to give is similar to to cause	nongold
+89	a supply of something is a source of that something	nongold
+90	a fruit is a kind of object	nongold
+91	soda is a kind of carbonated beverage	nongold
+92	tea is a kind of solution of water and tea mix	nongold
+93	temperature is a measure of heat energy	nongold
+94	soda water is a kind of carbonated beverage	nongold
+95	person is synonymous with human	nongold
+96	concentration means amount	nongold
+97	liquid is a kind of state of matter	nongold
+98	moisture means liquid; liquid water	nongold
+99	lemon juice is a kind of substance	nongold
+100	thirst is used to make an animal realize that it needs to replenish its bodily water by the body	nongold

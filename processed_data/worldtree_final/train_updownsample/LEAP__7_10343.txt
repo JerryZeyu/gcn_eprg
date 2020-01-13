@@ -1,0 +1,51 @@
+0	recent means close to present time	nongold
+1	if studying something is used to learn about something then that something is a source of information	nongold
+2	best means most positive	nongold
+3	a process is a kind of event	nongold
+4	studying is similar to investigating	nongold
+5	developing means making	nongold
+6	high is similar to increase	nongold
+7	The technology used to study genes is still being developed.	answer
+8	an animal is a kind of organism	nongold
+9	Researchers recently discovered a gene in humans that previously was unknown to science. Which statement best explains why the gene probably was not discovered much sooner?	question
+10	scientific discoveries sometimes require specific technologies	gold
+11	genetic information can be used for making proteins	nongold
+12	Researchers recently discovered a gene in humans that previously was unknown to science. Which statement best explains why the gene probably was not discovered much sooner?	question
+13	to identify means to discover	nongold
+14	scientific discoveries sometimes require specific technologies	gold
+15	inherited characteristics are a kind of hereditary information	nongold
+16	human is a kind of organism	nongold
+17	faster means an increase; higher in speed	nongold
+18	to be found in means to be contained in	nongold
+19	research is used for learning	nongold
+20	a gene is a kind of unit of hereditary information	nongold
+21	a chromosomes of a human contains thousands of genes	nongold
+22	The technology used to study genes is still being developed.	answer
+23	if a technology that is used to study something is still being developed then that something can not be discovered; studied	gold
+24	if a technology that is used to study something is still being developed then that something can not be discovered; studied	gold
+25	a type is synonymous with a kind	nongold
+26	life means living things	nongold
+27	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+28	genes can be used for classifying  organisms	nongold
+29	an allele is a kind of gene	nongold
+30	The technology used to study genes is still being developed.	answer
+31	to study means to examine	nongold
+32	a  chromosome contains genes	nongold
+33	Researchers recently discovered a gene in humans that previously was unknown to science. Which statement best explains why the gene probably was not discovered much sooner?	question
+34	an increase is a kind of change	nongold
+35	a source of something emits; produces; generates; provides that something	nongold
+36	hypothesis means scientific guess about the cause and effect of an event	nongold
+37	found in means existing in	nongold
+38	Researchers recently discovered a gene in humans that previously was unknown to science. Which statement best explains why the gene probably was not discovered much sooner?	question
+39	The technology used to study genes is still being developed.	answer
+40	events occur at a specific place; at a specific time; with a specific frequency	nongold
+41	a human cell is a kind of cell	nongold
+42	if a technology that is used to study something is still being developed then that something can not be discovered; studied	gold
+43	increase means more	nongold
+44	can be means able to be	nongold
+45	scientific discoveries sometimes require specific technologies	gold
+46	to be formed by is similar to being produced by	nongold
+47	if something is a part of something then that something can be found in that something	nongold
+48	studying  something usually requires seeing that something	nongold
+49	a human is a kind of mammal	nongold
+50	an allele can be a recessive gene	nongold

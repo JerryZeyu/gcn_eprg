@@ -1,0 +1,102 @@
+Question	Jolie wanted to eat a hard-boiled egg for breakfast. She put the egg in boiling water for fifteen minutes. When she broke the shell, the liquid parts of the egg had become solid. This was because	question
+Answer	heating changed the chemical bonds in the egg.	answer
+0	heating an egg causes a chemical reaction in the egg	gold
+1	chemical reactions in an egg that is being heated cause the liquid parts of the egg to become solid	gold
+2	chemical reaction means chemical bonds change	gold
+3	breakfast is a kind of food	nongold
+4	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+5	an egg is a kind of food	nongold
+6	boiling is a kind of phase change	nongold
+7	chemical bonds are formed by chemically combining elements; atoms; molecules	nongold
+8	boiling is when liquids are heated above their boiling point	nongold
+9	temperature is a measure of heat energy	nongold
+10	solid is a kind of state of matter	nongold
+11	heating means adding heat	gold
+12	heat means heat energy	nongold
+13	chemical reactions cause chemical change	nongold
+14	chemical compounds contain chemical bonds between atoms; between elements	nongold
+15	an egg is a kind of object	nongold
+16	heat energy can change the state of matter	nongold
+17	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+18	adding heat to an object sometimes causes chemical reactions	nongold
+19	liquid is a kind of state of matter	nongold
+20	if an object undergoes chemical change then that object will have new chemical properties	nongold
+21	substances contain chemical bond energy	nongold
+22	adding heat means increasing temperature	nongold
+23	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+24	water is a kind of liquid at room temperature	gold
+25	chemical change is a kind of chemical reaction	nongold
+26	most chemical reactions release or absorb heat energy	nongold
+27	combining; mixing two substances chemically causes chemical reactions	nongold
+28	melting is a kind of phase change	nongold
+29	to reduce means to decrease	nongold
+30	if liquid is boiling then that liquid is hot	gold
+31	food is a kind of substance	nongold
+32	heat energy is synonymous with thermal energy	nongold
+33	evaporating is a kind of phase change	nongold
+34	to lower means to decrease	nongold
+35	heat means temperature increases	nongold
+36	an increase is a kind of change	nongold
+37	substances have chemical properties	nongold
+38	acid can cause chemical change	nongold
+39	to turn means to change	nongold
+40	a hot substance is a source of heat	gold
+41	An example of a chemical change is acid breaking down substances	nongold
+42	to add means to increase	nongold
+43	a decrease is a kind of change	nongold
+44	a solid is a kind of substance	nongold
+45	a bonding property is a kind of chemical property	nongold
+46	combustion is a kind of chemical change	nongold
+47	chemical change is the opposite of physical change	nongold
+48	a liquid is a kind of substance	gold
+49	water is a kind of substance	nongold
+50	An example of a chemical property is how a material reacts chemically	nongold
+51	an increase is the opposite of a decrease	nongold
+52	temperature changing can cause phase changes	nongold
+53	becoming is similar to changing	nongold
+54	separating is similar to breaking	nongold
+55	substances are made of matter	nongold
+56	to convert means to change	nongold
+57	a container contains objects; material; substances	nongold
+58	water is a kind of matter	nongold
+59	chemical reactions cause new substances; different substances to form	nongold
+60	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+61	melting is when solids are heated above their melting point	nongold
+62	a molecule is made of atoms chemically combined; bonded	nongold
+63	a source of something increases the amount of that something	nongold
+64	affected means changed	nongold
+65	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+66	hot means high in heat energy; temperature	nongold
+67	a hot; warm something is a source of heat	nongold
+68	boiling is a kind of event	nongold
+69	a source of something emits; produces; generates; provides that something	nongold
+70	the bonds of chemical compounds contain chemical energy	nongold
+71	if heat is added to a substance then that substance absorbs that heat	nongold
+72	if food is cooked then heat energy is added to that food	nongold
+73	heat energy  can be used to heat up  an object	nongold
+74	heating is the opposite of cooling	nongold
+75	if something emits something else then that something increases the amount of that something else	nongold
+76	warm up means increase temperature	nongold
+77	food is a kind of object	nongold
+78	to eat means to consume food	nongold
+79	warm; becoming warm means heat is added	nongold
+80	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+81	as heat is transferred from something to something else , the temperature of that something will decrease	nongold
+82	high is similar to increase	nongold
+83	ability to undergo a phase change is a property of a substance; material	nongold
+84	objects are made of materials; substances; matter	nongold
+85	an egg requires warmth to survive; hatch; develop	nongold
+86	if something undergoes physical change then the chemical properties of that something will remain unchanged	nongold
+87	increase means more	nongold
+88	alteration means change	nongold
+89	if something is places over a heat source then that something is exposed to that heat source	nongold
+90	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+91	break apart means break down	nongold
+92	minutes are a kind of unit for measuring time	nongold
+93	a chemical reaction is a kind of process	nongold
+94	chemicals means substances	nongold
+95	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+96	matter; materials; substances are made of atoms; particles	nongold
+97	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+98	adding something is a kind of change	nongold
+99	formation of a state of matter is a kind of process	nongold

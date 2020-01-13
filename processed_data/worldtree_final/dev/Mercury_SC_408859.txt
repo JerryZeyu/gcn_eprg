@@ -1,0 +1,102 @@
+0	American alligators are common in Florida wetlands. They are known to eat frogs, turtles, fish, mice, and birds. What role does an American alligator fill in its ecosystem?	question
+1	consumer	answer
+2	alligators eat frogs; turtles; fish; mice; birds	gold
+3	an alligator is a kind of aquatic animal	nongold
+4	a wetland is a kind of ecosystem	nongold
+5	a frog eats insects	nongold
+6	consumers eat other organisms	gold
+7	a wetland is a kind of habitat	nongold
+8	a frog is a kind of aquatic animal	nongold
+9	a frog is a kind of amphibian	nongold
+10	Florida is a state located in the United States of America	nongold
+11	a frog is a kind of animal	gold
+12	a consumer is a kind of organism	nongold
+13	a turtle is a kind of reptile	nongold
+14	an animal is a kind of consumer	nongold
+15	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	gold
+16	an animal needs to eat food for nutrients	nongold
+17	a turtle is a kind of animal	gold
+18	a role in the ecosystem is a role in the food chain process	gold
+19	an animal; living thing requires nutrients for survival	nongold
+20	predators eat prey	nongold
+21	a predator eats other animals for food	nongold
+22	a plant; living thing requires food for survival	nongold
+23	some frogs live in ponds	nongold
+24	a frog is an adult form of a frog	nongold
+25	aquatic animals; plants live in bodies of water	nongold
+26	role means function	nongold
+27	a marsh is a kind of body of water	nongold
+28	an ecosystem is a kind of habitat	nongold
+29	to eat means to consume food	nongold
+30	food is what an animal eats	nongold
+31	an amphibian is a kind of animal	nongold
+32	birds sometimes eat insects	nongold
+33	prey is a kind of food for predators	nongold
+34	an aquatic animal is a kind of animal	nongold
+35	fish eat insects	nongold
+36	predators; carnivores; omnivores eat other animals	nongold
+37	some birds are predators	nongold
+38	diet means what an animal eats	nongold
+39	if an organism eats something then that something is a source of frood to that organism	nongold
+40	purpose means role	nongold
+41	role means niche	nongold
+42	a fish is a kind of predator	nongold
+43	a predator usually kills its prey to eat it	nongold
+44	a fish is a kind of aquatic animal	nongold
+45	producer is a kind of role in the food chain process; in an ecosystem	nongold
+46	if something requires something else then that something else may be common in that something	nongold
+47	eating prey requires catching prey	nongold
+48	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+49	aquatic animal means water animal	nongold
+50	a turtle is a kind of omnivore	nongold
+51	to prey on an animal means to eat that animal	nongold
+52	a food contains nutrients for living things	nongold
+53	an environment is similar to an ecosystem	nongold
+54	a predator is a kind of animal	nongold
+55	living things eat their food source	nongold
+56	a bird is a kind of living thing	nongold
+57	an organism is a living thing	nongold
+58	a mouse is a kind of herbivore	nongold
+59	a body of water is a kind of environment	nongold
+60	a bird is a kind of animal	gold
+61	reproduction increases the number; population of a living thing	nongold
+62	part means role	nongold
+63	animals; living things live and feed in their habitats; near their habitats	nongold
+64	an animal is a kind of living thing	nongold
+65	an animal is a kind of organism	gold
+66	a mammal is a kind of animal	nongold
+67	survive means live	nongold
+68	survive means live	nongold
+69	something is used for that something's purpose	nongold
+70	an ecosystem contains a large community of; large numbers of living organisms	nongold
+71	an ecosystem contains nonliving things	nongold
+72	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+73	organisms are a part of an environment	nongold
+74	herbivore means first-level consumer	nongold
+75	a producer is a kind of living thing	nongold
+76	a fish is a kind of animal	gold
+77	a living thing is a kind of object	nongold
+78	the function of something is what that something  is used to do	nongold
+79	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+80	a mouse is a kind of animal	gold
+81	eating an animal; a plant means killing that animal; that plant	nongold
+82	an animal requires a habitat for survival	nongold
+83	prey  is a kind of animal	nongold
+84	role is similar to importance	nongold
+85	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+86	a producer produces its own food	nongold
+87	scavengers eat dead organisms	nongold
+88	an animal is a member of an animal species	nongold
+89	a mouse is a kind of mammal	nongold
+90	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+91	carnivores only eat animals	nongold
+92	to be a vehicle for is a kind of function	nongold
+93	function is similar to purpose	nongold
+94	a swamp is a kind of environment	nongold
+95	habitat is similar to environment	nongold
+96	organisms; living things live in their habitat; their home	nongold
+97	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+98	a frog is the mature form of a; adult form of a tadpole	nongold
+99	become prey means get eaten	nongold
+100	killing means harming something causing death	nongold
+101	a plant is a kind of organism	nongold

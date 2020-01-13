@@ -1,0 +1,102 @@
+Question	A scientist is searching for areas where new solar systems might form. What feature is the scientist looking for?	question
+Answer	a cloud of dust and gas	answer
+0	a cloud of dust and gas is a kind of feature	gold
+1	new solar systems are made of dust and gas	gold
+2	a structure is a kind of feature	nongold
+3	a cloud is a kind of object	nongold
+4	a scientist is a kind of human	nongold
+5	a star is formed by collapsing clouds of gas and dust	nongold
+6	search for means seek to find	nongold
+7	landform means surface feature; physical feature; land feature	nongold
+8	seeking something means trying to find; searching for something	nongold
+9	the solar system is a kind of system	nongold
+10	feature is synonymous with characteristic	nongold
+11	clouds are usually found in the sky	nongold
+12	place means area	nongold
+13	clouds are made of water vapor; rain droplets	nongold
+14	a property of something is a feature of that something	nongold
+15	an environment means an area	nongold
+16	sunlight is a kind of solar energy	nongold
+17	the Sun is a kind of star	nongold
+18	a cloud is a kind of weather	nongold
+19	cloudy means the presence  of clouds in the sky	nongold
+20	clouds are located in the atmosphere	nongold
+21	the atmosphere is a kind of area	nongold
+22	clouds and dust block visible light	nongold
+23	a land feature is a kind of physical characteristic	nongold
+24	sunlight means solar energy	nongold
+25	area is similar to location	nongold
+26	a nebula is made of hydrogen gas and dust	nongold
+27	dust is a kind of material	nongold
+28	a body of water is a kind of land feature	nongold
+29	to form means to create	nongold
+30	gas is a kind of object	nongold
+31	gas is a kind of substance	nongold
+32	looking is a kind of activity	nongold
+33	system means a set of objects	nongold
+34	clouds reflect solar energy back to space	nongold
+35	the sun is a source of radiation; heat called sunlight	nongold
+36	answering questions requires information	nongold
+37	form means kind	nongold
+38	to discover means to find	nongold
+39	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+40	to be made of something means to be formed of that something	nongold
+41	Earth is a kind of planet	nongold
+42	a structure of something is synonymous with a part of that something	nongold
+43	a mountain is a kind of land feature	nongold
+44	to make means to form	nongold
+45	a desert is a kind of land feature	nongold
+46	a  gas is a kind of  element	nongold
+47	to cause the formation of means to form	nongold
+48	a region is similar to an environment	nongold
+49	solar radiation means solar energy	nongold
+50	scientists make observations	nongold
+51	new means different from the former one	nongold
+52	finding something requires sensing that something	nongold
+53	state means form	nongold
+54	a human is a kind of animal	nongold
+55	an environment is a kind of place	nongold
+56	solar energy is a kind of heat energy	nongold
+57	if something required by something else is in a place then that something else may be in that place	nongold
+58	a star is made of gases	nongold
+59	gas is a kind of state of matter	nongold
+60	a region is a kind of location	nongold
+61	a type is synonymous with a kind	nongold
+62	a source of something emits; produces; generates; provides that something	nongold
+63	a living thing is a kind of object	nongold
+64	to change into means to form	nongold
+65	a planet is a kind of location	nongold
+66	a solid is more dense than a gas	nongold
+67	to increase is similar to to create	nongold
+68	an event is a kind of action	nongold
+69	high is similar to increase	nongold
+70	gaseous means of gas	nongold
+71	denser means more dense	nongold
+72	where something  comes from is a source of that something	nongold
+73	to detect means to find	nongold
+74	increase means more	nongold
+75	an object is made of its parts	nongold
+76	the sun is a source of light; light energy called sunlight	nongold
+77	can be means able to be	nongold
+78	if something is a part of something then that something can be found in that something	nongold
+79	system is similar to structure	nongold
+80	the solar system contains eight planets	nongold
+81	a galaxy contains dust; stars; planets	nongold
+82	a planet is a kind of celestial object; body	nongold
+83	a component of something means a part of that something	nongold
+84	Neptune is a kind of planet in the solar system	nongold
+85	the photosphere is a kind of region of the sun	nongold
+86	solar energy is a kind of light	nongold
+87	a component means a part of	nongold
+88	vapor is synonymous with gas	nongold
+89	to be formed by is similar to being produced by	nongold
+90	cloudy is a kind of  weather	nongold
+91	a planet is a kind of place	nongold
+92	area; space is a kind of resource	nongold
+93	finding something means locating that something	nongold
+94	to lower means to decrease	nongold
+95	composed of means made of	nongold
+96	forming something is a kind of change	nongold
+97	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+98	made up of means contains; made of	nongold
+99	sunlight is a kind of light	nongold

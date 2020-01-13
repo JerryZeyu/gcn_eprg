@@ -1,0 +1,102 @@
+Question	The force necessary to keep planets in orbit around the Sun is	question
+Answer	gravity.	answer
+0	to be required means to be necessary	gold
+1	to keep something occurring means to cause that something to occur	nongold
+2	keeping means staying	nongold
+3	revolving  around something means orbiting that something	nongold
+4	to keep a process or event happening is similar to causing that process or event to happen	nongold
+5	the Earth revolves around the sun	nongold
+6	planets orbit stars	gold
+7	requiring something means needing that something	nongold
+8	requiring is similar to needing help	nongold
+9	orbiting is a kind of action	nongold
+10	planets in the solar system orbit the Sun	nongold
+11	gravity causes orbits	gold
+12	gravity is a kind of force	gold
+13	a revolution occurs when something revolves around something else	nongold
+14	the Sun is a kind of star	gold
+15	if something causes a process then that something is required for that process	gold
+16	a planet completes one orbit around its star over a period of one planetary year	nongold
+17	to keep something from happening means to prevent that something	nongold
+18	to be used for something means to be required by that something	nongold
+19	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+20	essential means required	nongold
+21	moons orbit planets	nongold
+22	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+23	if an event is required for a process then that event must occur before that process can occur	nongold
+24	Earth is a kind of planet	nongold
+25	the mass of a planet causes the pull of gravity on that planet	nongold
+26	a requirement is a kind of limitation	nongold
+27	a motion is a kind of event; action	nongold
+28	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+29	a planet is a kind of celestial object; body	nongold
+30	all planets orbit the sun in the same direction	nongold
+31	planets have cleared their orbits	nongold
+32	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+33	force requires energy	nongold
+34	if something is required for a process then keeping that something from reaching that process can stop that process	nongold
+35	an event is a kind of action	nongold
+36	the sun is a kind of yellow dwarf	nongold
+37	if something is required for something else then that something allows that something else	nongold
+38	the sun is the strongest source of gravity in the solar system	nongold
+39	revolving is a kind of action	nongold
+40	if something required by something else is in a place then that something else may be in that place	nongold
+41	a process is a kind of event	nongold
+42	the moon orbits the Earth	nongold
+43	revolving is a kind of motion	nongold
+44	Celestial bodies move in orbits in space around other celestial bodies	nongold
+45	to maintain means to not change	nongold
+46	to depend on; to rely on; to need means to require	nongold
+47	a star is usually larger than a planet	nongold
+48	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+49	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	nongold
+50	the sun setting is a kind of event	nongold
+51	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+52	a star is a kind of celestial object; celestial body	nongold
+53	a process usually requires all of the stages in that process	nongold
+54	astronomy is the study of celestial (objects, bodies)	nongold
+55	if something requires something else then that something requires a source of that something else	nongold
+56	a star requires energy	nongold
+57	keeping is similar to storing	nongold
+58	the moon orbiting the Earth occurs once per month	nongold
+59	if something is a raw material in a process then that something is required for that process	nongold
+60	something is used for that something's purpose	nongold
+61	if an object escapes the gravitational pull of a planet then that object is no longer affected by the gravitational pull of that planet	nongold
+62	to lower means to decrease	nongold
+63	inhibitor means something that prevents something from happening	nongold
+64	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+65	a satellite orbits a planet	nongold
+66	the sun  is the source of energy for physical cycles on Earth	nongold
+67	if something performs a task then that task is that something's function	nongold
+68	a revolution of the moon around the Earth takes 1; one month	nongold
+69	events occur at a specific place; at a specific time; with a specific frequency	nongold
+70	a moon is a kind of celestial object; body	nongold
+71	as the distance of a planet from the star  it orbits increases , the length of a planetary year on that planet will increase	nongold
+72	an increase is a kind of change	nongold
+73	orbit means orbital path	nongold
+74	the solar system contains eight planets	nongold
+75	must have means require	nongold
+76	a vehicle for something allows; enables that something to occur	nongold
+77	something that happens is a kind of event	nongold
+78	to make possible means to be required	nongold
+79	if something is required for a process then that something positively impacts that process	nongold
+80	Jupiter is a kind of planet	nongold
+81	a planet rotating causes cycles of day and night on that planet	nongold
+82	a restriction can be used to limit something; keep something low	nongold
+83	to happen means to occur	nongold
+84	a planet's  moon is smaller than that planet	nongold
+85	to reduce means to decrease	nongold
+86	a change is a kind of event	nongold
+87	Jupiter is a kind of outer planet	nongold
+88	to remain means to stay where it is	nongold
+89	the asteroid belt orbits the sun	nongold
+90	if something requires something else then that something else is important to that something	nongold
+91	can be means able to be	nongold
+92	a decrease is a kind of change	nongold
+93	a planet's distance from the star causes the length of a planetary year	nongold
+94	greatest means largest; highest; most amount of something	nongold
+95	yellow dwarf is a kind of small star	nongold
+96	a part of a process means a stage in a process	nongold
+97	function is similar to purpose	nongold
+98	a white dwarf is a kind of star	nongold
+99	the Moon is Earth's moon	nongold

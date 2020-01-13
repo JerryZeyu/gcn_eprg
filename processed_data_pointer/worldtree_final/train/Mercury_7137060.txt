@@ -1,0 +1,101 @@
+0	a type of something is a kind of property of that something	nongold
+1	mass; weight is an extensive property	nongold
+2	mass is a kind of physical property	nongold
+3	high density	answer
+4	trait is synonymous with characteristic	nongold
+5	a landform is a kind of object	nongold
+6	an increase is a kind of change	nongold
+7	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+8	the volume of an object can be used to describe  the size of that object	nongold
+9	structure is a property of an object; a material; a substance	nongold
+10	if  two substances are made of different  elements , then the  substances will have different density	nongold
+11	volume is a property of matter	nongold
+12	massive is similar to large	nongold
+13	if an object has a small volume and large mass , then the object will  have a high density	gold
+14	an part of an object is smaller than the entire object	nongold
+15	a living thing is a kind of object	nongold
+16	smaller means less; lower in size	nongold
+17	a molecule is a kind of object	nongold
+18	the shape  of an object can be discovered through feeling that object; touching that object	nongold
+19	as the mass of an object increases , the density of that object will increase	nongold
+20	composition is a property of an object; matter	nongold
+21	length is a part of size	nongold
+22	a kind of something is an example of that something	nongold
+23	mass; weight is a property of matter; objects; materials	nongold
+24	mass is a measure of the amount of matter in an object	nongold
+25	the properties of something can be used to identify; used to describe that something	nongold
+26	Matter in the solid phase has definite volume	nongold
+27	shape is a property of an object	nongold
+28	liquid is a kind of state of matter	nongold
+29	less dense liquids; particles in liquids; materials float liquids; particiles in liquids; materials that are more dense	nongold
+30	dense means high in density	nongold
+31	greater means higher; more in value	nongold
+32	larger means greater; higher; more; increase in size	nongold
+33	mass is a property of objects; matter	nongold
+34	feature is synonymous with characteristic	nongold
+35	an increase is the opposite of a decrease	nongold
+36	mass is similar to size	nongold
+37	characteristic means property	gold
+38	a property of something is a feature of that something	nongold
+39	density is a measure of mass of an object over volume; divided by volume	gold
+40	particles in objects are a kind of matter	nongold
+41	size; amount of space means volume	nongold
+42	density is a kind of physical property	nongold
+43	a solid is more dense than a gas	nongold
+44	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+45	variability of shape; variability of volume is a kind of physical property	nongold
+46	if an object is made of a material then that object has the properties of that material	nongold
+47	an object has properties	nongold
+48	small is the opposite of large	nongold
+49	low is similar to decrease	nongold
+50	composed of means made of	nongold
+51	the properties of something are used for describing that something	nongold
+52	as the volume of an object decreases , the density of that object will increase	nongold
+53	substances are made of matter	nongold
+54	structure is similar to shape	nongold
+55	higher means greater; above in value; amount; number	nongold
+56	gases are usually low in density	nongold
+57	massive means great in mass	nongold
+58	objects are made of materials; substances; matter	nongold
+59	classifying means grouping objects; materials by their properties	nongold
+60	low is the opposite of high	nongold
+61	surface type is a kind of characteristic	nongold
+62	length is a property of the shape of an object	nongold
+63	if two substances have the same volume , then the  substance with less density will have less mass	nongold
+64	shape is a kind of characteristic	nongold
+65	an animal is a kind of living thing	nongold
+66	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+67	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+68	density is a property of an object; a substance and includes ordered values of dense; not dense	gold
+69	density is an intensive property	nongold
+70	a structure is a kind of feature	nongold
+71	matter is made of molecules	nongold
+72	color is a property of  an object; a material	nongold
+73	weight is a property of objects; matter	nongold
+74	Which would most likely be the characteristic of an object with a small volume and large mass?	question
+75	often is similar to likely	nongold
+76	volume is an extensive property	nongold
+77	classifying is when one sorts something by kind; type	nongold
+78	thickness is  a measure of how thick an object  is	nongold
+79	size is an extensive property	nongold
+80	as state of matter changes , mass will not change	nongold
+81	to be characterized by  a property means to have that property	nongold
+82	denser means more dense	nongold
+83	solid is a kind of state of matter	nongold
+84	an object is made of its parts	nongold
+85	shape is a kind of physical property	nongold
+86	materials are made of matter	nongold
+87	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+88	a structure of something is synonymous with a part of that something	nongold
+89	high means a lot of something	nongold
+90	a part of something means a characteristic of something	nongold
+91	high is similar to increase	nongold
+92	denser liquids; particles in liquids; materials settle below liquids or particles in liquids; materials that are less dense	nongold
+93	a decrease is a kind of change	nongold
+94	what an object is made of is a kind of characteristic	nongold
+95	a human is a kind of animal	nongold
+96	matter; materials; substances are made of atoms; particles	nongold
+97	a molecule is exceptionally small in size	nongold
+98	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+99	a type is synonymous with a kind	nongold
+100	two objects are usually different in size	nongold

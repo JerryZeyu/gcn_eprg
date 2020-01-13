@@ -1,0 +1,102 @@
+Question	In what way do transit systems, such as buses, benefit society?	question
+Answer	by reducing the amount of pollution	answer
+0	transit system means public transportation	gold
+1	pollution has a negative impact on the environment; air quality; water quality; society	gold
+2	humans cause pollution	nongold
+3	a positive impact is  a benefit	gold
+4	a bus is a kind of vehicle	nongold
+5	to reduce means to decrease	gold
+6	decreasing something negative has a positive impact on a thing	gold
+7	decreasing something positive has a negative impact on a thing	nongold
+8	to help; to benefit means to be of use	nongold
+9	helping something has a  positive impact on that something	nongold
+10	society is made of humans	nongold
+11	negative impact is the opposite of positive impact	nongold
+12	a vehicle is used for transportation	nongold
+13	harming something has a  negative impact on; effect on that something	nongold
+14	to depend on; to rely on; to need means to require	nongold
+15	less means a reduced amount	nongold
+16	if something is required for a process then that something positively impacts that process	nongold
+17	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+18	transport means to move; to make travel	nongold
+19	a vehicle is used for travel	nongold
+20	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+21	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+22	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+23	an increase is the opposite of a decrease	nongold
+24	a human is a kind of animal	nongold
+25	to be used for something means to be required by that something	nongold
+26	increase means more	nongold
+27	impact means effect	nongold
+28	loss means reduction	nongold
+29	a source of something emits; produces; generates; provides that something	nongold
+30	good means positive	nongold
+31	if something causes a process then that something is required for that process	nongold
+32	less is similar to decrease	nongold
+33	a negative impact is a kind of consequence; risk	nongold
+34	solution is similar to a positive impact	nongold
+35	to lower means to decrease	nongold
+36	a source of something increases the amount of that something	nongold
+37	reducing is a kind of change	nongold
+38	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+39	pollution is a kind of environmental problem	nongold
+40	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+41	a problem has a negative impact on a thing	nongold
+42	using a car causes pollution	gold
+43	a city is a part of a society	nongold
+44	adverse effect means negative impact	nongold
+45	change is a kind of impact	nongold
+46	causing problems is a kind of negative impact	nongold
+47	to impact means to affect	nongold
+48	high is similar to increase	nongold
+49	if a living thing requires something then that something has a positive impact on that living thing	nongold
+50	humans ride vehicles	nongold
+51	to be good for means to have a positive impact on	nongold
+52	a vehicle is a kind of tool for travel; transport	nongold
+53	controlling the amount of pollution is similar to reducing the amount of pollution	nongold
+54	answering questions requires information	nongold
+55	an animal is a kind of organism	nongold
+56	human is a kind of organism	nongold
+57	damage has a negative impact on a thing	nongold
+58	public transportation is a kind of way of commuting	nongold
+59	best means most positive	nongold
+60	as the cause of something decreases , that something will decrease	gold
+61	a decrease is a kind of change	nongold
+62	reducing is similar to slowing	nongold
+63	to add means to increase	nongold
+64	a car is a kind of vehicle	nongold
+65	a concern; a problem is a possible negative impact	nongold
+66	to improve means to have a positive impact	nongold
+67	to be dependent on something means to depend on that something	nongold
+68	counter means reduce; stop; resist	nongold
+69	a vehicle is a kind of object	nongold
+70	address a problem means reduce a problem	nongold
+71	life means living things	nongold
+72	an event is a kind of action	nongold
+73	if there is a loss of something then that something decreases	nongold
+74	pollution is a source of pollutants	nongold
+75	requiring something means needing that something	nongold
+76	better means good	nongold
+77	system means a set of objects	nongold
+78	an organism is a living thing	nongold
+79	an increase is a kind of change	nongold
+80	many vehicles emit pollution into the air	nongold
+81	low is similar to decrease	nongold
+82	to limit means to decrease	nongold
+83	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+84	society is similar to culture	nongold
+85	causing is a kind of affecting	nongold
+86	less is the opposite of more	nongold
+87	as use of public transportation increases , the use of automobiles decreases	gold
+88	saving money has a positive impact on a person; a company	nongold
+89	protecting something means preventing harm to that something	nongold
+90	to provide something means to be the source of that something	nongold
+91	waste has a  negative impact on the environment	nongold
+92	if something emits something else then that something increases the amount of that something else	nongold
+93	too much is similar to increase	nongold
+94	to be a source of something means to cause that something	nongold
+95	an environment means an area	nongold
+96	if something causes an increase in something else then that something produces that something else	nongold
+97	the function of something is what that something  is used to do	nongold
+98	a vehicle for something allows; enables that something to occur	nongold
+99	if something requires something else then that something requires a source of that something else	nongold

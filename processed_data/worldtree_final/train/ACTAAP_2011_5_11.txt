@@ -1,0 +1,102 @@
+0	Scientists dig in a dry area at the bottom of a mountain range. Fossilized shells of freshwater mussels are found in the area. Which is a likely conclusion that scientists will draw based on this evidence?	question
+1	Rivers once flowed through the area.	answer
+2	a river is a kind of flowing body of water	gold
+3	shells can be fossilized	nongold
+4	mussels are a kind of aquatic animal	nongold
+5	freshwater is a kind of water	nongold
+6	aquatic animals; plants live in bodies of water	nongold
+7	a mussel is a kind of water animal	gold
+8	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	gold
+9	fossil means preserved remains of ancient organisms	nongold
+10	mountain area means mountain range	nongold
+11	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	gold
+12	a shell is a kind of fossil	nongold
+13	aquatic animal means water animal	nongold
+14	an aquatic animal is a kind of animal	nongold
+15	a mollusk is a kind of animal	nongold
+16	a mountain; mountain range is a kind of environment	nongold
+17	flowing is a kind of motion	nongold
+18	a body of water is a kind of environment	nongold
+19	many mountain ranges are no longer covered in water	nongold
+20	dry means low in amount of water; wetness; moisture	nongold
+21	a shell is a part of some animals	nongold
+22	an environment means an area	nongold
+23	conclusions can be drawn about changes in organisms over time by determining the age of fossils of those organisms	nongold
+24	a stream is a kind of body of water	nongold
+25	to conclude means to make a conclusion	nongold
+26	found in means existing in	nongold
+27	once means one time	nongold
+28	an animal is a kind of living thing	nongold
+29	a body of water contains water	nongold
+30	fresh water means freshwater	nongold
+31	if something is a part of something then that something can be found in that something	nongold
+32	area is similar to location	nongold
+33	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+34	a mountain is a kind of landform	nongold
+35	a riverbed is a part of a river	nongold
+36	a mountain is made of rocks; soil	nongold
+37	a mountain range contains mountains	nongold
+38	a body of water is a source of water	nongold
+39	region is similar to range	nongold
+40	a living thing is a kind of object	nongold
+41	place means area	gold
+42	to be found in means to be contained in	nongold
+43	fossil fuels; fossils are formed from dead organisms over time	nongold
+44	water is a part of an environment	nongold
+45	the surface of the Earth contains mountains	nongold
+46	plants can be fossilized	nongold
+47	a river is a kind of channel for water	nongold
+48	a scientist is a kind of human	nongold
+49	drying means amount of water; amount of liquid; wetness decreases	nongold
+50	fossils are formed when layers of sediment cover the remains of organisms over time	nongold
+51	prehistoric means before 300000000 years ago	nongold
+52	a region is similar to an environment	nongold
+53	once-living means dead	nongold
+54	often is similar to likely	nongold
+55	preserved means from the past; from long ago	nongold
+56	an environment is a kind of place	nongold
+57	mussels eat plankton	nongold
+58	usually something can be found  near a source in greater concentrations	nongold
+59	organisms are a part of an environment	nongold
+60	a fish is a kind of aquatic animal	nongold
+61	an animal is a kind of organism	nongold
+62	sediment falls to the bottom of bodies of water	nongold
+63	if something is located  in somewhere , then something can be found in somewhere	nongold
+64	remains mean parts of a dead organism	nongold
+65	a body of water is a kind of land feature	nongold
+66	if something does not move then that something can be found in the same location	nongold
+67	a region is a kind of location	nongold
+68	concluding is a kind of action	nongold
+69	a landform is a kind of place	nongold
+70	a landform is a kind of place	nongold
+71	landform means surface feature; physical feature; land feature	nongold
+72	a mountain is a kind of land feature	nongold
+73	organisms lived in the water when they first appeared on Earth	nongold
+74	a fish lives in water	nongold
+75	groundwater is a kind of water	nongold
+76	flowing is a kind of action	nongold
+77	a reptile is a kind of animal	nongold
+78	ancient means a long time in the past	nongold
+79	if something is located in some place , then the presence of that something can be found in that location	nongold
+80	freshwater is drinkable	nongold
+81	if water vapor is limited to reach a location , then that location    will be dry	nongold
+82	a dry environment is low in availability of water	nongold
+83	mountain top is a kind of location	nongold
+84	region means place	nongold
+85	hypothesis means scientific guess about the cause and effect of an event	nongold
+86	if something required by something else is in a place then that something else may be in that place	nongold
+87	bodies of water are located on Earth's surface	nongold
+88	an organism is a living thing	nongold
+89	an ocean is a kind of body of water	nongold
+90	objects in an environment are a part of that environment	nongold
+91	organisms can be found in their habitats	nongold
+92	a valley is formed by a river flowing	nongold
+93	a snail is a kind of animal	nongold
+94	no longer means used to be	nongold
+95	mountain is a kind of geographic obstacles	nongold
+96	the bottom is the lowest part of something	nongold
+97	place is synonymous with location	nongold
+98	water is a kind of substance	nongold
+99	scientists make observations	nongold
+100	something that contains water is similar to a body of water	nongold
+101	a lake is a kind of body of water	nongold

@@ -1,0 +1,102 @@
+0	Automobile engines built today are designed to be gas efficient. Gas-efficient engines most likely affect a city by reducing	question
+1	air pollution.	answer
+2	gas-efficient engines use less gas	gold
+3	to impact means to affect	gold
+4	an engine is a part of an automobile	gold
+5	many vehicles emit pollution into the air	nongold
+6	impact means effect	nongold
+7	an automobile is a kind of vehicle	nongold
+8	to reduce means to decrease	gold
+9	automobiles; industrialization are a source of carbon dioxide	nongold
+10	pollution has a negative impact on the environment; air quality; water quality; society	gold
+11	air is a kind of gas	nongold
+12	a car engine is a part of a car	nongold
+13	if something affects a part of something else then that something affects that something else	nongold
+14	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+15	a car is a kind of automobile	nongold
+16	a car engine is a source of heat	nongold
+17	air is a part of the environment	nongold
+18	using a car causes pollution	nongold
+19	burning gasoline; oil is a source of air pollution	gold
+20	a car is a kind of vehicle	nongold
+21	polluting gasses are a kind of pollution	nongold
+22	causing is a kind of affecting	nongold
+23	fuel efficient means uses less fuel	nongold
+24	pollution is a source of pollutants	nongold
+25	humans cause pollution	nongold
+26	affected means changed	nongold
+27	atmosphere means  air	nongold
+28	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+29	operating an automobile usually requires fossil fuels	nongold
+30	to cause means to have an effect	nongold
+31	to change means to have an effect	nongold
+32	decreasing something negative has a positive impact on a thing	gold
+33	to act on means to affect	nongold
+34	gas is a kind of substance	nongold
+35	the automobile is a kind of technology	nongold
+36	to depend on; to rely on; to need means to require	nongold
+37	controlling the amount of pollution is similar to reducing the amount of pollution	nongold
+38	influence means impact	nongold
+39	harming something has a  negative impact on; effect on that something	nongold
+40	carbon dioxide is a kind of gas	nongold
+41	negative impact is the opposite of positive impact	nongold
+42	pollutants have a negative impact on the environment; air quality	nongold
+43	pollution is a kind of environmental problem	nongold
+44	a source of something emits; produces; generates; provides that something	nongold
+45	adverse effect means negative impact	nongold
+46	vapor is synonymous with gas	nongold
+47	to be used for something means to be required by that something	nongold
+48	the air is a kind of substance	nongold
+49	change is a kind of impact	nongold
+50	decreasing something positive has a negative impact on a thing	nongold
+51	influence means effect	nongold
+52	the emission of something is when something is added into the atmosphere	nongold
+53	not efficient means inefficient	nongold
+54	a city is a part of a society	gold
+55	to lower means to decrease	nongold
+56	a city is a kind of location	nongold
+57	a concern; a problem is a possible negative impact	nongold
+58	a vehicle is used for transportation	nongold
+59	an increase is the opposite of a decrease	nongold
+60	as the cause of something decreases , that something will decrease	nongold
+61	a source of something increases the amount of that something	nongold
+62	a negative impact is a kind of consequence; risk	nongold
+63	natural gas is a kind of fossil fuel	nongold
+64	loss means reduction	nongold
+65	to be a source of something means to cause that something	nongold
+66	fossil fuels burning causes pollution	nongold
+67	a combustion engine requires fuel to operate	nongold
+68	a human is a kind of animal	nongold
+69	reducing is a kind of change	nongold
+70	the atmosphere contains gases; liquids; solids	nongold
+71	a factor impacts something	nongold
+72	causing means influencing	nongold
+73	a pollutant is a kind of substance	nongold
+74	an event is a kind of action	nongold
+75	if something emits something else then that something increases the amount of that something else	nongold
+76	an animal is a kind of organism	nongold
+77	something harmful can cause harm	nongold
+78	often is similar to likely	nongold
+79	if something is required for a process then that something positively impacts that process	nongold
+80	the effects of something is a property of that something	nongold
+81	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+82	as the amount of a source of something decreases , the amount of that something will decrease	gold
+83	natural gas is a source of heat by burning	nongold
+84	high is similar to increase	nongold
+85	oxygen has a positive impact on air quality	nongold
+86	damage means harm	nongold
+87	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+88	gas is a kind of nonmetal	nongold
+89	helping something has a  positive impact on that something	nongold
+90	if something is powered by something else then that something requires a source of that something else	nongold
+91	person is synonymous with human	nongold
+92	absorbing something harmful has a negative impact on a thing	nongold
+93	vehicles usually require gasoline to operate	nongold
+94	less is similar to decrease	nongold
+95	water is when humans pollute the environment with pollutants	nongold
+96	gaseous means of gas	nongold
+97	a  gas is a kind of  element	nongold
+98	absorbing something from the air decreases the  amount of  that something in the air	nongold
+99	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+100	an environment means an area	nongold
+101	a car is a kind of object	nongold

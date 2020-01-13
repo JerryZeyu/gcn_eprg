@@ -1,0 +1,58 @@
+0	a process usually requires all of the stages in that process	nongold
+1	a human is a kind of animal	nongold
+2	an animal is a kind of living thing	nongold
+3	person is synonymous with human	nongold
+4	sitting is a kind of action	nongold
+5	an event is a kind of action	nongold
+6	a kind of something is an example of that something	gold
+7	locomotion is a generally learned behavior	nongold
+8	following orders is a learned characteristic	gold
+9	learned behavior.	answer
+10	a living thing is a kind of object	nongold
+11	a reaction is a kind of process	nongold
+12	a puppy is a young; baby dog	nongold
+13	undertaking is similar to doing	nongold
+14	an animal knows how to do  instinctive behaviors when it is born	nongold
+15	walking is a kind of motion	nongold
+16	a behavior is a kind of characteristic	gold
+17	direction is similar to instruction	nongold
+18	When a dog performs a specific action on command, such as sitting, the action is an example of	question
+19	a prairie dog is a kind of animal	nongold
+20	hunting is a kind of action	nongold
+21	rolling over is a kind of action	nongold
+22	walking is a kind of behavior	nongold
+23	some dogs are trained to bark; to scratch at the door when they want to go outside	nongold
+24	to create means to make	nongold
+25	to act on means to affect	nongold
+26	laying down is a kind of action	nongold
+27	When a dog performs a specific action on command, such as sitting, the action is an example of	question
+28	if something performs a task then that task is that something's function	nongold
+29	following orders is a learned characteristic	gold
+30	an organism eating is a kind of action	nongold
+31	determining is similar to learning	nongold
+32	An example of following orders is coming when called	nongold
+33	animal instinct means instinctive behavior	nongold
+34	a learned characteristic is a kind of acquired characteristic	nongold
+35	a behavior is a kind of characteristic	gold
+36	an animal is a kind of organism	nongold
+37	following an order means performing an action on command	gold
+38	animals learn some behaviors from watching their parents	nongold
+39	a kind of something is an example of that something	gold
+40	following an order means performing an action on command	gold
+41	a kind of something is an example of that something	gold
+42	a demonstration is similar to an example	nongold
+43	When a dog performs a specific action on command, such as sitting, the action is an example of	question
+44	following an order means performing an action on command	gold
+45	actions mean behavior	nongold
+46	learned behavior.	answer
+47	An example of hitting something is dropping an object onto that something	nongold
+48	learned behavior.	answer
+49	a trick is a learned behavior	nongold
+50	communication is a learned behavior	nongold
+51	a motion is a kind of event; action	nongold
+52	doing chores is a learned characteristic	nongold
+53	a behavior is a kind of characteristic	gold
+54	When a dog performs a specific action on command, such as sitting, the action is an example of	question
+55	following orders is a learned characteristic	gold
+56	learned behavior.	answer
+57	aspect of something is similar to part of something	nongold

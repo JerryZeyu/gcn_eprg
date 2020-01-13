@@ -1,0 +1,63 @@
+0	objects are made of materials; substances; matter	nongold
+1	a wheel is a kind of object	gold
+2	lowering is a kind of motion	nongold
+3	grease is used to make an object's surface more smooth	gold
+4	wheels are a part of a car	nongold
+5	low is similar to decrease	nongold
+6	increase means more	gold
+7	a wheel is a kind of object	gold
+8	a screw is a kind of simple machine	nongold
+9	The wheels and gears of a machine are greased in order to decrease	question
+10	a machine is a kind of object	nongold
+11	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	gold
+12	a pulley is a kind of simple machine	nongold
+13	an instrument is a piece of equipment	nongold
+14	sharpening an object causes that object to change shape	nongold
+15	as roughness of a surface increases , friction will increase	nongold
+16	low means down	nongold
+17	increase means more	gold
+18	a surface is a part of a material	nongold
+19	a gear is a kind of object	gold
+20	materials are made of matter	nongold
+21	an increase is a kind of change	nongold
+22	a wheel is a kind of object	gold
+23	a device is a kind of object	nongold
+24	strength is a property of an object; a material	nongold
+25	a roll is a kind of movement	nongold
+26	wheels; gears usually move against other surfaces	gold
+27	a wheeled vehicle requires smooth surfaces	nongold
+28	The wheels and gears of a machine are greased in order to decrease	question
+29	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	gold
+30	friction	answer
+31	rough is the opposite of smooth	nongold
+32	wheels; gears usually move against other surfaces	gold
+33	rubbing  is a kind of motion	nongold
+34	a motion is a kind of event; action	nongold
+35	increase means more	gold
+36	a gear is a kind of object	gold
+37	as moisture of an object decreases , the friction of that object against another object will increase	nongold
+38	reducing is a kind of change	nongold
+39	a car is a kind of object	nongold
+40	grease is used to make an object's surface more smooth	gold
+41	friction causes speed to decrease	nongold
+42	a complex machine is made of more than one simple machine	nongold
+43	a gear is a kind of object	gold
+44	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	gold
+45	as the resistance to something increases , how easilty that something can  be done will decrease	nongold
+46	a surface is a kind of object	nongold
+47	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+48	an event is a kind of action	nongold
+49	friction	answer
+50	to rub; to rub together means to move against	nongold
+51	The wheels and gears of a machine are greased in order to decrease	question
+52	an object is made of its parts	nongold
+53	friction	answer
+54	friction causes the speed of an object to decrease	nongold
+55	little is similar to decrease	nongold
+56	a surface is a part of an object	nongold
+57	grease is used to make an object's surface more smooth	gold
+58	to slow; to slow down decreases speed	nongold
+59	friction	answer
+60	wheels; gears usually move against other surfaces	gold
+61	friction causes an object to lose energy	nongold
+62	The wheels and gears of a machine are greased in order to decrease	question

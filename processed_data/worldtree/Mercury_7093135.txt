@@ -1,0 +1,102 @@
+Question	Which technology used to generate electrical power involves a trade-off between economical electricity and long-term waste disposal problems?	question
+Answer	nuclear reactor	answer
+0	nuclear reactor can cause long-term waste disposal problems	gold
+1	nuclear reactor generates electrical power	gold
+2	the disposal of nuclear waste products is a controversial issue associated with the use of nuclear power	nongold
+3	trade-off means balancing  the negative impact and the positive impact	gold
+4	generate means produce	nongold
+5	a concern; a problem is a possible negative impact	nongold
+6	a problem has a negative impact on a thing	nongold
+7	electricity means electrical energy	nongold
+8	problem is similar to issue	nongold
+9	causing problems is a kind of negative impact	gold
+10	electricity is used as an energy source by electrical devices	nongold
+11	address a problem means reduce a problem	nongold
+12	a source of something emits; produces; generates; provides that something	nongold
+13	generating power is a kind of positive impact	gold
+14	to power means to provide energy for	nongold
+15	waste must be removed	nongold
+16	converting is similar to generating	nongold
+17	electric devices require electrical energy to function	nongold
+18	causing is similar to generating	nongold
+19	producing renewable electric energy requires renewable resources	nongold
+20	if something is powered by something else then that something requires a source of that something else	nongold
+21	if something generates energy for something else then that something powers that something else	nongold
+22	nuclear energy is a kind of energy	nongold
+23	to produce means to provide	nongold
+24	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+25	to be used for something means to be required by that something	nongold
+26	to generate means to create	nongold
+27	an event is a kind of action	nongold
+28	pollution is a kind of environmental problem	nongold
+29	to depend on; to rely on; to need means to require	nongold
+30	electrical energy is a kind of energy	nongold
+31	producing is a kind of process	nongold
+32	converting is similar to producing	nongold
+33	a complete electrical circuit is a source of  electrical energy	nongold
+34	recycling is a kind of method of disposal	nongold
+35	humans move waste to a  landfill for disposal;storage	nongold
+36	a nuclear reaction can be found in a nuclear power plant	nongold
+37	power station means power plant	nongold
+38	if something releases something else then that something is the source of that something else	nongold
+39	a process is a kind of event	nongold
+40	electrical devices are used for industrial purposes; household purposes by humans	nongold
+41	human waste often causes harm to an environment	nongold
+42	if something causes a process then that something is required for that process	nongold
+43	a power plant converts chemical energy from energy source into electricity	nongold
+44	resources sometimes are used for energy	nongold
+45	to use means to utilize	nongold
+46	if something comes from something else then that something else is a source of that something	nongold
+47	where something  comes from is a source of that something	nongold
+48	something is used for that something's purpose	nongold
+49	processes sometimes produce waste products	nongold
+50	to generate means to form	nongold
+51	if something is a raw material then that something comes directly from a source	nongold
+52	solution is similar to a positive impact	nongold
+53	nuclear fusion is a kind of process	nongold
+54	nuclear fusion is a kind of process	nongold
+55	if something is a raw material in a process then that something is required for that process	nongold
+56	nuclear fusion is a source of energy	nongold
+57	affected means changed	nongold
+58	technology is similar to tool	nongold
+59	to give off means to be the source of	nongold
+60	natural gas is used for generating electricity by burning in a power plant	nongold
+61	recycling reduces; decreases the amount of waste sent to landfills	nongold
+62	a part of a process means a stage in a process	nongold
+63	to provide something means to be the source of that something	nongold
+64	an energy source is a kind of resource	nongold
+65	renewable is the opposite of nonrenewable	nongold
+66	if something requires something else then that something requires a source of that something else	nongold
+67	the function of something is what that something  is used to do	nongold
+68	dead organisms are a kind of waste	nongold
+69	emit means produce	nongold
+70	producing is similar to causing	nongold
+71	a generator is a kind of  device	nongold
+72	something that happens is a kind of event	nongold
+73	a change is a kind of event	nongold
+74	hydropower means hydroelectric power	nongold
+75	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+76	electrical current means electrical energy	nongold
+77	if something transfers something else then that something is a source of something else	nongold
+78	closing an electric circuit causes an electrical device to function	nongold
+79	removing waste is a kind of function	nongold
+80	using raw materials increases waste	nongold
+81	waste has a  negative impact on the environment	nongold
+82	global warming is a kind of environmental problem	nongold
+83	to cause an event is similar to being involved in that event	nongold
+84	a circuit is a kind of electrical component	nongold
+85	if an event is required for a process then that event must occur before that process can occur	nongold
+86	garbage means waste	nongold
+87	wastewater treatment is used for recycling water for human use	nongold
+88	to run on means to use as an energy source	nongold
+89	nuclear fusion is a kind of nuclear reaction	nongold
+90	coal is used to produce electricity by burning in coal-fire power stations	nongold
+91	if something is required for a process then that something positively impacts that process	nongold
+92	hydroelectric power uses water to generate electricity	nongold
+93	a device requires energy to operate	nongold
+94	impact means effect	nongold
+95	an object; material; substance comes from that object or material's source	nongold
+96	a supply of something is a source of that something	nongold
+97	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+98	an inexhaustible resource is a kind of renewable resource	nongold
+99	a generator converts kinetic energy into electrical energy; electricity	nongold

@@ -1,0 +1,71 @@
+0	a vehicle is used for travel	nongold
+1	how long something takes is a kind of measurement of time	nongold
+2	condensing is similar to collecting	nongold
+3	speed up means increase	nongold
+4	a vehicle is a kind of object	nongold
+5	stopwatch, calculator, meter stick	answer
+6	Which objects are the most useful for collecting data on the speed of a toy car?	question
+7	a speedometer is a part of an automobile	nongold
+8	to collect means to gather	nongold
+9	Which objects are the most useful for collecting data on the speed of a toy car?	question
+10	a stopwatch is used to measure time	gold
+11	a meter stick is used to measure distance; height; length	gold
+12	a car is a kind of object	nongold
+13	a stopwatch is a kind of tool for measuring time	gold
+14	a meter stick is a kind of tool for measuring length; measuring distance	gold
+15	operating a remote-control toy causes that toy to move	nongold
+16	a toy car is a kind of object	gold
+17	a living thing is a kind of object	nongold
+18	to be made of is similar to collection	nongold
+19	an instrument is a piece of equipment	nongold
+20	a stopwatch is used to measure time	gold
+21	a measure of time is a length of time	nongold
+22	a machine is a kind of object	nongold
+23	a calculator is a kind of tool	gold
+24	a motion is a kind of event; action	nongold
+25	seconds are a kind of unit for measuring time	nongold
+26	faster means an increase; higher in speed	nongold
+27	stopwatch, calculator, meter stick	answer
+28	an animal is a kind of organism	nongold
+29	a meter stick is a kind of tool for measuring length; measuring distance	gold
+30	speed is a property of an object and includes values of slow; fast	nongold
+31	An example of collecting data is measuring	gold
+32	motion is when moves an object; something to a direction	nongold
+33	faster means increased rate	nongold
+34	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	gold
+35	a meter stick is used to measure distance; height; length	gold
+36	a calculator is a kind of tool	gold
+37	a calculator is used for adding; subtracting; multiplying; dividing	gold
+38	useful means able to be used	nongold
+39	an object is an item	nongold
+40	a calculator is used for adding; subtracting; multiplying; dividing	gold
+41	stopwatch, calculator, meter stick	answer
+42	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	gold
+43	a stopwatch is a kind of tool for measuring time	gold
+44	a stopwatch is a kind of tool for measuring time	gold
+45	a calculator is used for adding; subtracting; multiplying; dividing	gold
+46	a vehicle is a kind of tool for travel; transport	nongold
+47	stopwatch, calculator, meter stick	answer
+48	speed is a measure of how fast an object is moving	nongold
+49	a stopwatch is used to measure time	gold
+50	a calculator is a kind of tool	gold
+51	a measurement is a kind of data	nongold
+52	a toy car is a kind of object	gold
+53	a meter stick is a kind of tool for measuring length; measuring distance	gold
+54	An example of collecting data is measuring	gold
+55	answering questions requires information	nongold
+56	data means information	nongold
+57	a meter is a kind of unit for measuring distance; measuring length	nongold
+58	to depend on; to rely on; to need means to require	nongold
+59	to slow; to slow down decreases speed	nongold
+60	a tool is a kind of object	nongold
+61	objects are made of materials; substances; matter	nongold
+62	Which objects are the most useful for collecting data on the speed of a toy car?	question
+63	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	gold
+64	device means tool	nongold
+65	Which objects are the most useful for collecting data on the speed of a toy car?	question
+66	a toy car is a kind of object	gold
+67	a meter stick is used to measure distance; height; length	gold
+68	An example of collecting data is measuring	gold
+69	a car moves on a road	nongold
+70	useful means good to use	nongold

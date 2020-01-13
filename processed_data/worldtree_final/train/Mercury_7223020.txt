@@ -1,0 +1,102 @@
+0	NASA's Kepler Mission has collected information about main-sequence stars with characteristics similar to the Sun. What is the most common color of these stars?	question
+1	yellow	answer
+2	main-sequences stars are a kind of star	nongold
+3	main-sequence stars are generally yellow	gold
+4	yellow is a kind of color	gold
+5	a yellow dwarf is a kind of main-sequence star	gold
+6	the sun is a kind of yellow dwarf	gold
+7	coloration means a thing's color	nongold
+8	the Sun is a kind of star	nongold
+9	if something requires something else then that something else may be common in that something	nongold
+10	in common is similar to the same	nongold
+11	stars can be classified by temperature; color; chemical composition; brightness	nongold
+12	main sequence is a kind of stage in the life cycle of a star	nongold
+13	similar means in common	nongold
+14	characteristic means property	gold
+15	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+16	coloration means a pattern of colors	nongold
+17	blue is a kind of color	nongold
+18	color is a property of  an object; a material	nongold
+19	green is a kind of color	nongold
+20	Alpha Mensae is a kind of main-sequence star	nongold
+21	data means information	nongold
+22	to collect means to gather	nongold
+23	red is a kind of color	nongold
+24	to be made of is similar to collection	nongold
+25	yellow dwarf is a kind of small star	nongold
+26	resemble means similar characteristics	nongold
+27	the sun is a source of light; light energy called sunlight	nongold
+28	a star produces light and heat	nongold
+29	unique  is the opposite of diverse	nongold
+30	a star is usually larger than a planet	nongold
+31	answering questions requires information	nongold
+32	a star is a kind of celestial object; celestial body	nongold
+33	to vary means to change	nongold
+34	to change means to become different	nongold
+35	different is the opposite of the same	nongold
+36	trait is synonymous with characteristic	nongold
+37	high is similar to increase	nongold
+38	red giant stars have greater volume than main sequence stars	nongold
+39	to vary means to differ	nongold
+40	a planet is a kind of celestial object; body	nongold
+41	the properties of something can be used to identify; used to describe that something	nongold
+42	the colors of parts of an organism are inherited characteristics	nongold
+43	stars spend most of their life cycle in the main sequence stage	nongold
+44	bright means bright; light in color	nongold
+45	red-dwarf stars are cooler than yellow-dwaf stars	nongold
+46	a star's surface temperature causes the star's  color	nongold
+47	what an object is made of is a kind of characteristic	nongold
+48	a property of something is a feature of that something	nongold
+49	purple;violet;magenta is a kind of color	nongold
+50	colorless means no color	nongold
+51	similarity means the same property	nongold
+52	color is an intensive property	nongold
+53	mostly means being the most	nongold
+54	not is similar to the opposite of	nongold
+55	opposite is a kind of different	nongold
+56	a type is synonymous with a kind	nongold
+57	trait means property	nongold
+58	affected means changed	nongold
+59	knowing the properties of something means knowing information about that something	nongold
+60	the color of an object can be discovered by looking at that object	nongold
+61	color is a kind of physical; visual property	gold
+62	the color of an environment means the color of the things that environment contains	nongold
+63	classifying means grouping objects; materials by their properties	nongold
+64	orange is a kind of color	nongold
+65	getting information sometimes requires observing; observation	nongold
+66	a star's type is determined by the star's mass	nongold
+67	a star is a source of light; light energy through nuclear reactions	nongold
+68	feature is synonymous with characteristic	nongold
+69	dark means dark in color	nongold
+70	to observe means to gather information	nongold
+71	the Sun has average brightness compared to other stars	nongold
+72	a part of something means a characteristic of something	nongold
+73	refracting sunlight; light causes sunlight; light to split into different colors	nongold
+74	usually means most of the time	nongold
+75	brown is a kind of color	nongold
+76	spectrum means a range of colors	nongold
+77	identical is the opposite of different	nongold
+78	certain is similar to specific	nongold
+79	stay the same means not changing	nongold
+80	a source of something emits; produces; generates; provides that something	nongold
+81	low is similar to decrease	nongold
+82	if two things have the same features then those two things are alike	nongold
+83	greatest means largest; highest; most amount of something	nongold
+84	pink is a kind of color	nongold
+85	white is a kind of color	nongold
+86	if something is copied then that something will be the same; similar; identical	nongold
+87	variable means able to change	nongold
+88	astronomy is the study of celestial (objects, bodies)	nongold
+89	least is the opposite of most	nongold
+90	information is used to describe something	nongold
+91	variation means change	nongold
+92	red giant stars burn at cooler temperatures than main sequence stars	nongold
+93	classifying is when one sorts something by kind; type	nongold
+94	stars change type during their life cycles	nongold
+95	form means kind	nongold
+96	the sun is average in size for a star in our galaxy	nongold
+97	to belong to a class means to be a kind of something	nongold
+98	coloration is a kind of adaptation for hiding;camouflage	nongold
+99	no longer means used to be	nongold
+100	another means different	nongold
+101	a property is a kind of information	nongold

@@ -1,0 +1,102 @@
+0	killing means harming something causing death	nongold
+1	helping something has a  positive impact on that something	nongold
+2	sunlight is a kind of solar energy	nongold
+3	x-rays can pass through some parts of the body	nongold
+4	ultraviolet	answer
+5	x-rays are used in medical technology	nongold
+6	an x ray is a kind of electromagnetic energy	nongold
+7	harm means injury	nongold
+8	impact means effect	nongold
+9	causing is a kind of affecting	nongold
+10	light is a kind of wave	nongold
+11	visible light is a kind of  light	nongold
+12	killing means changing a living thing from alive to dead by harming	nongold
+13	light means light energy	nongold
+14	UV mean ultraviolet	nongold
+15	wavelength is a property of wave	nongold
+16	to cause means to have an effect	nongold
+17	to be a source of something means to cause that something	nongold
+18	ozone absorbs harmful ultraviolet rays from the Sun	nongold
+19	a type is synonymous with a kind	gold
+20	skin is a kind of material	nongold
+21	Solar radiation is a combination of light with different wavelengths. Which type of ray can harm human skin the most?	question
+22	if an animal's skin looks like something then that animal looks like that something	nongold
+23	radiation can affect objects that are not touching	nongold
+24	the sun is the source of solar energy called sunlight	nongold
+25	chemical splashing can cause harm to humans; to the eyes	nongold
+26	absorbing ultraviolet light by ozone cause the breakdown of ozone into oxygen	nongold
+27	infrared light has a longer wavelength than visible light	nongold
+28	an animal is a kind of organism	nongold
+29	if an object is in the light then that object is blocking the light	nongold
+30	when sunlight strikes something , that something receives sunlight	nongold
+31	UV light is a kind of light	nongold
+32	harming something has a  negative impact on; effect on that something	nongold
+33	adverse effect means negative impact	nongold
+34	human is a kind of organism	nongold
+35	different types of light have different wavelengths	gold
+36	a living thing is a kind of object	nongold
+37	something dangerous can cause harm	nongold
+38	an increase is the opposite of a decrease	nongold
+39	an part of an object is smaller than the entire object	nongold
+40	an organism is a living thing	nongold
+41	radiation is when electromagnetic waves transfers heat and light energy	nongold
+42	harming an organism can cause that organism to die	nongold
+43	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+44	light is a kind of electromagnetic radiation	gold
+45	sunlight is made of ultraviolet, infrared, and visible light	nongold
+46	receiving sunlight  is synonymous with absorbing sunlight	nongold
+47	negative impact is the opposite of positive impact	nongold
+48	intense means high in intensity	nongold
+49	the sun is a source of light; light energy called sunlight	nongold
+50	solar energy is a kind of light	nongold
+51	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+52	sunlight means solar energy	nongold
+53	damage means harm	nongold
+54	to be a combination of means to be made of	nongold
+55	solar radiation means solar energy	nongold
+56	light rays can have a negative impact on the eyes	nongold
+57	skin is a part of an animal; plant	nongold
+58	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+59	skin is the first; outermost layer around the body of some animals	nongold
+60	human skin is a kind of object	nongold
+61	protection means resistance to damage increases	nongold
+62	ultraviolet light causes sunburn	nongold
+63	light is made of photons	nongold
+64	visible light is a part of the electromagnetic spectrum	nongold
+65	high is similar to increase	nongold
+66	harm means danger	nongold
+67	something harmful can cause harm	gold
+68	electromagnetic radiation means electromagnetic energy	nongold
+69	to receive sunlight means to absorb sunlight	nongold
+70	radiation means radiant energy	nongold
+71	ionizing radiation is harmful to human skin	gold
+72	the body is a part of an organism	nongold
+73	a source of something emits; produces; generates; provides that something	nongold
+74	ultraviolet light is a kind of electromagnetic energy	nongold
+75	an animal is a kind of living thing	nongold
+76	light rays means light	nongold
+77	ultraviolet rays means ultraviolet light	gold
+78	skin is used for protecting the body from harmful substances	nongold
+79	pair is a kind of combination	nongold
+80	to hurt means to harm	nongold
+81	protecting something means preventing harm to that something	nongold
+82	ultraviolet light is a kind of light	gold
+83	sunlight contains ultraviolet light	nongold
+84	sunlight is a kind of light	nongold
+85	absorbing something harmful has a negative impact on a thing	nongold
+86	something hard; something strong can be used for protection	nongold
+87	a human is a kind of animal	nongold
+88	form means kind	nongold
+89	ultraviolet radiation is ionizing	gold
+90	x-ray is a kind of ionizing radiation	nongold
+91	the sun is a source of radiation; heat called sunlight	nongold
+92	ultraviolet light has very short wavelength	nongold
+93	usually means most of the time	nongold
+94	damage has a negative impact on a thing	nongold
+95	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+96	low is similar to decrease	nongold
+97	rays of the sun means sunlight	nongold
+98	intensity of sunlight is similar to amount of sunlight	nongold
+99	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+100	being exposed to the ultraviolet light has a negative  impact on living organisms	nongold
+101	sunlight contains infrared light	nongold

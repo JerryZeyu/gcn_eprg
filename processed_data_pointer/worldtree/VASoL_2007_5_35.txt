@@ -1,0 +1,102 @@
+Question	A shiny aluminum screen can be placed on the windshield of a parked car. This screen helps to keep the car cool because it	question
+Answer	reflects the sunlight	answer
+0	shiny things; objects reflect light	gold
+1	keeping cool means not increasing temperature	gold
+2	a reflector is used to reflect light especially on vehicles	nongold
+3	if an object; something is in the sunlight then that object; that something will absorb solar energy	gold
+4	sunshine means sunlight	nongold
+5	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+6	being in the sun is synonymous with being in the sunlight	nongold
+7	sunlight means solar energy	nongold
+8	the sun is a source of light; light energy called sunlight	nongold
+9	reflection is a property of light	nongold
+10	a car is a kind of automobile	nongold
+11	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+12	keeping means staying	nongold
+13	sunlight is a kind of light	nongold
+14	sunlight is a kind of solar energy	nongold
+15	to be used  for something means to help to do that something	nongold
+16	a car is a kind of vehicle	nongold
+17	being  on something; placed in something; placed over something means touching  that something	nongold
+18	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+19	the sun is the source of solar energy called sunlight	nongold
+20	a car is a kind of object	gold
+21	helping something has a  positive impact on that something	nongold
+22	temperature is a measure of heat energy	nongold
+23	an automobile is a kind of vehicle	nongold
+24	receiving sunlight  is synonymous with absorbing sunlight	nongold
+25	to bounce back means to reflect	nongold
+26	to be in the sun means to be in the sunlight	nongold
+27	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	gold
+28	cool means cold	nongold
+29	absorbing sunlight causes objects to heat	nongold
+30	heat means heat energy	nongold
+31	to receive sunlight means to absorb sunlight	nongold
+32	staying cool is the opposite of becoming hot	nongold
+33	to keep something occurring means to cause that something to occur	nongold
+34	warm means medium heat energy; temperature	nongold
+35	to reflect light means to scatter light	nongold
+36	a vehicle is a kind of object	nongold
+37	staying cool has a positive impact on a human's comfort	nongold
+38	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+39	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+40	sunlight produces heat	nongold
+41	warm is the opposite of cool	nongold
+42	hot means high in heat energy; temperature	nongold
+43	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+44	intensity of sunlight is similar to amount of sunlight	nongold
+45	the sunlight occurs during the day	nongold
+46	solar energy is a kind of heat energy	nongold
+47	solar energy is a kind of light	nongold
+48	absorbing energy causes objects; materials; substances to heat	nongold
+49	sunlight can shine through a window	nongold
+50	reflection is when particles bounce off a surface	nongold
+51	aluminum is a kind of matter	nongold
+52	daylight means sunlight	nongold
+53	aluminum is a kind of metal	gold
+54	to reduce means to decrease	nongold
+55	reflecting light; sound is the opposite of absorbing light; sound	gold
+56	to help; to benefit means to be of use	nongold
+57	metallic is similar to shiny	nongold
+58	the sun is a source of radiation; heat called sunlight	nongold
+59	heat energy is synonymous with thermal energy	nongold
+60	an increase is the opposite of a decrease	nongold
+61	the ability to reflect off of a surface is a kind of characteristic	nongold
+62	answering questions requires information	nongold
+63	if an object reflects a light of a certain color then the object appears to be that color	nongold
+64	as the sunlight absorbed by the object increases ,  the temperature of the object  will increase more	nongold
+65	when sunlight strikes something , that something receives sunlight	nongold
+66	a surface is a part of an object	nongold
+67	light is a kind of wave	nongold
+68	light reflecting off of an object causes that object to be visible to the observer	nongold
+69	low is similar to decrease	nongold
+70	warm means warm temperature	nongold
+71	to lower means to decrease	nongold
+72	if an object reflects light toward the eye then that object can be seen	nongold
+73	sweat cools; helps to cool a body	nongold
+74	high is similar to increase	nongold
+75	can be means able to be	nongold
+76	a sunny day has  lots of sunlight	nongold
+77	reflection is when a wave bounces off a surface and travels in the  opposite direction relative to the angle of incidence	nongold
+78	daylight is when the sun shines on a location	nongold
+79	cooling means temperature decreases	nongold
+80	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+81	if an object is made of a material then that object has the properties of that material	nongold
+82	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+83	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+84	if an object is white then that object reflects all visible light	nongold
+85	if something is outside during the day then that something will receive sunlight	nongold
+86	brightness means amount of light	nongold
+87	a surface is a part of a material	nongold
+88	an object has properties	nongold
+89	if one object absorbs more energy than another object , then the  object will be warmer	nongold
+90	person is synonymous with human	nongold
+91	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+92	adding heat means increasing temperature	nongold
+93	if an object is blue then that object reflects only blue light	nongold
+94	helping means something can be done; completed more easily; better	nongold
+95	if heat is absorbed from a source then that heat source will cool	nongold
+96	metal is reflective	gold
+97	as lightness in color of an object increases , the ability of that object to reflect light will increase	nongold
+98	warmer means greater; higher in temperature; warmth	nongold
+99	objects are made of materials; substances; matter	nongold

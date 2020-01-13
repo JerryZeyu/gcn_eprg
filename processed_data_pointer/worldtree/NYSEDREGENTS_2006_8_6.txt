@@ -1,0 +1,102 @@
+Question	Weather forecasts are more accurate today than in the past due to	question
+Answer	use of images from space	answer
+0	weather forecast means weather prediction	gold
+1	celestial bodies; celestial objects are found in space	nongold
+2	satellites have had the greatest; most positive impact on the accuracy of weather predictions	gold
+3	a weather report describes weather	nongold
+4	satellite technology is used for predicting the weather	nongold
+5	satellites are used to take images from space	gold
+6	predicting weather requires studying weater	nongold
+7	weather  usually happens in troposphere	nongold
+8	answering questions requires information	nongold
+9	due to means caused by	nongold
+10	celestial objects are located in outer space	nongold
+11	increase means more	nongold
+12	if something used to be in the past then that something  has changed	nongold
+13	sky conditions are a property of weather	nongold
+14	a planet is a kind of celestial object; body	nongold
+15	the sky is similar to space	nongold
+16	storm is a kind of weather; weather event	nongold
+17	greater means higher; more in value	nongold
+18	preserved means from the past; from long ago	nongold
+19	weather is  a measure of the condition of the air in a place at a certain time	nongold
+20	altitude is the distance from the ground to an object in the sky	nongold
+21	less is similar to decrease	nongold
+22	high is similar to increase	nongold
+23	distance is a property of space and includes ordered values of close; far	nongold
+24	to be used for something means to be required by that something	nongold
+25	precipitation is a kind of weather	nongold
+26	less is the opposite of more	nongold
+27	weather is a source of wind and water for the weathering process	nongold
+28	an event is a kind of action	nongold
+29	Celestial bodies move in orbits in space around other celestial bodies	nongold
+30	windy is a kind of weather	nongold
+31	wind speed is a property of weather	nongold
+32	astronomy is the study of celestial (objects, bodies)	nongold
+33	furthest; farthest means greatest; most; highest in distance	nongold
+34	weather is a property of a environment	nongold
+35	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+36	a station model is used for displaying information about weather in a particular point and time	nongold
+37	place means space	nongold
+38	lower means less	nongold
+39	A celestial body is any identifiable object in space	nongold
+40	history means the past	nongold
+41	image means visual depiction of an object	nongold
+42	where something  comes from is a source of that something	nongold
+43	an object; material; substance comes from that object or material's source	nongold
+44	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+45	wind direction is a property of weather	nongold
+46	temperature is a property of weather	nongold
+47	weather changes from seasons to seasons	nongold
+48	precipitation is a property of weather	nongold
+49	climate is the usual kind of weather in a location over a period of time	nongold
+50	affected means changed	nongold
+51	an increase is a kind of change	nongold
+52	clear weather means sunny; not cloudy; not rainy weather	nongold
+53	a cloud is a kind of weather	nongold
+54	a planet is a kind of location	nongold
+55	cloudy is a kind of  weather	nongold
+56	an image transmits visual information	nongold
+57	size; amount of space means volume	nongold
+58	wind pattern is a kind of weather pattern	nongold
+59	less means a reduced amount	nongold
+60	a measurement is a kind of data	nongold
+61	events occur at a specific place; at a specific time; with a specific frequency	nongold
+62	a source of something emits; produces; generates; provides that something	nongold
+63	a hemisphere is a part of Earth	nongold
+64	Earth is a kind of planet	nongold
+65	space is a kind of resource	nongold
+66	a star is a kind of celestial object; celestial body	nongold
+67	if something comes from something else then that something else is a source of that something	nongold
+68	variable means able to change	nongold
+69	cloudy conditions cause a low-pressure weather system	nongold
+70	data means information	nongold
+71	the ground means Earth's surface	nongold
+72	a change is a kind of event	nongold
+73	far means great in distance	nongold
+74	an increase is the opposite of a decrease	nongold
+75	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+76	can be means able to be	nongold
+77	a warm front causes cloudy and rainy weather	nongold
+78	to add means to increase	nongold
+79	An example of stormy weather is rain	nongold
+80	low is similar to decrease	nongold
+81	annual means once per year	nongold
+82	higher means greater; above in value; amount; number	nongold
+83	as distance from a source of something increases , that something will decrease	nongold
+84	the ground is part of the Earth	nongold
+85	a satellite is a kind of instrument for observing Earth's surface	nongold
+86	a process is a kind of event	nongold
+87	something that happens is a kind of event	nongold
+88	if weather is stormy then there is a greater chance of rain	nongold
+89	to show means to present	nongold
+90	windy means high wind speeds	nongold
+91	movements of celestial bodies are a kind of event	nongold
+92	the movement of an air mass over Earth's surface causes sudden local weather changes	nongold
+93	a moon is located in space	nongold
+94	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+95	satellites are found in space	nongold
+96	heat has a great impact on weather	nongold
+97	a motion is a kind of event; action	nongold
+98	clouds reflect solar energy back to space	nongold
+99	observe means see	nongold

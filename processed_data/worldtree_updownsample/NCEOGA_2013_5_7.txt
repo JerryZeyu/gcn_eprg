@@ -1,0 +1,87 @@
+0	pot;pan;frying pan is made of metal for cooking	gold
+1	an oven is a source of heat	nongold
+2	cooking is a kind of process	nongold
+3	metal is a kind of material	gold
+4	a source of heat can be used to heat something	nongold
+5	metal is a thermal; thermal energy conductor	gold
+6	a surface is a part of a material	nongold
+7	to conduct is similar to to transfer	nongold
+8	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+9	if one is holding an object then one is touching that object	nongold
+10	if an object is made of a material then that object has the properties of that material	gold
+11	pot;pan;frying pan is made of metal for cooking	gold
+12	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot?	question
+13	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+14	solid is a kind of state of matter	nongold
+15	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+16	heating means adding heat	gold
+17	conduction	answer
+18	conductivity is a property of a material; substance	gold
+19	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+20	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+21	conductivity is a property of a material; substance	gold
+22	a pot is a kind of container	gold
+23	a surface is a part of an object	nongold
+24	adding heat means increasing temperature	nongold
+25	heat means heat energy	gold
+26	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+27	an insulator is the opposite of a conductor	nongold
+28	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+29	a source of something emits; produces; generates; provides that something	gold
+30	if heat is conducted to an object then that object will become hot	nongold
+31	a stove generates heat for cooking usually	gold
+32	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+33	heat energy  can be used to heat up  an object	nongold
+34	a liquid is a kind of substance	nongold
+35	warm means medium heat energy; temperature	nongold
+36	warm; becoming warm means heat is added	nongold
+37	heat means heat energy	gold
+38	heat energy is synonymous with thermal energy	gold
+39	heat means heat energy	gold
+40	a handle is a part of an object for holding that object	nongold
+41	objects are made of materials; substances; matter	nongold
+42	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+43	metal is a thermal; thermal energy conductor	gold
+44	a pot is a kind of container	gold
+45	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+46	metal is a kind of material	gold
+47	a stove generates heat for cooking usually	gold
+48	metal is a kind of material	gold
+49	pots are used for cooking liquid food usually	nongold
+50	conduction is a kind of process	gold
+51	the heat energy in the cooler object increases in thermal conduction	nongold
+52	if an object is made of a material then that object has the properties of that material	gold
+53	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot?	question
+54	heating means adding heat	gold
+55	a pot is a kind of container	gold
+56	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	nongold
+57	a container is a kind of object	gold
+58	an increase is the opposite of a decrease	nongold
+59	heating means adding heat	gold
+60	wood is an thermal; thermal energy insulator	nongold
+61	heat energy is synonymous with thermal energy	gold
+62	metal is a thermal; thermal energy conductor	gold
+63	if an object is made of a material then that object has the properties of that material	gold
+64	hot means high in heat energy; temperature	nongold
+65	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+66	a container is a kind of object	gold
+67	conduction is a kind of process	gold
+68	a container is a kind of object	gold
+69	to get hot means become hot	nongold
+70	heat energy is synonymous with thermal energy	gold
+71	conduction	answer
+72	pot;pan;frying pan is made of metal for cooking	gold
+73	a thermal conductor is made of materials that conduct thermal energy	nongold
+74	conductivity is a property of a material; substance	gold
+75	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+76	a burner is a part of a  stove	nongold
+77	conduction is a kind of process	gold
+78	a source of something emits; produces; generates; provides that something	gold
+79	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot?	question
+80	a source of heat can be used to heat something	nongold
+81	conduction	answer
+82	a stove generates heat for cooking usually	gold
+83	material means substance	nongold
+84	a source of something emits; produces; generates; provides that something	gold
+85	conduction	answer
+86	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot?	question

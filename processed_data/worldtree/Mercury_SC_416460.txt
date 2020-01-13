@@ -1,0 +1,102 @@
+Question	Which cell can survive without the help of other cells?	question
+Answer	yeast cell	answer
+0	a single-cell organism can survive without the help of other cells	gold
+1	to help; to benefit means to be of use	nongold
+2	helping something has a  positive impact on that something	nongold
+3	requiring is similar to needing help	nongold
+4	to help means to aid	nongold
+5	to be used  for something means to help to do that something	nongold
+6	helping means to assist in a change	nongold
+7	an animal; living thing requires nutrients for survival	nongold
+8	a yeast cell is a kind of single cell organism	gold
+9	survival means to survive	nongold
+10	to enable is to help	nongold
+11	an animal cell is a kind of cell	nongold
+12	survive means live	nongold
+13	survive means live	nongold
+14	bacteria can help digest food in humans	nongold
+15	bacteria; molds; yeast cause food to spoil	nongold
+16	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+17	a plant; living thing requires food for survival	nongold
+18	a plant cell is a kind of cell	nongold
+19	can means having the ability to	nongold
+20	to depend on; to rely on; to need means to require	nongold
+21	help means advantage	nongold
+22	death means to die	nongold
+23	bacteria is a kind of living thing	nongold
+24	an animal; bacterium requires oxygen for survival; to breathe	nongold
+25	an organism is a living thing	nongold
+26	to make something easier means to help	nongold
+27	negative impact is the opposite of positive impact	nongold
+28	a living thing is made of cells	nongold
+29	an animal is a kind of organism	nongold
+30	life means living things	nongold
+31	an animal is a kind of living thing	nongold
+32	if an organism can do something , then that organism is able to do that something	nongold
+33	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+34	a cell absorbs nutrients	nongold
+35	good bacteria have a positive impact on a living thing's survival; health	nongold
+36	dying is the opposite of living; surviving	nongold
+37	harming something has a  negative impact on; effect on that something	nongold
+38	helping means something can be done; completed more easily; better	nongold
+39	nonliving; non-living; die is the opposite of living; alive; live	nongold
+40	good means positive	nongold
+41	best means most positive	nongold
+42	killing means harming something causing death	nongold
+43	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+44	can be means able to be	nongold
+45	a fungus is a kind of organism	nongold
+46	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold
+47	disease has a negative impact on an organism	nongold
+48	a human cell is a kind of cell	nongold
+49	if a living thing requires something then that something has a positive impact on that living thing	nongold
+50	bacteria sometimes cause disease	nongold
+51	cannot is the opposite of  can	nongold
+52	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+53	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+54	to be helpful means to help to do	nongold
+55	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+56	high is similar to increase	nongold
+57	answering questions requires information	nongold
+58	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+59	if an organism cannot do something , then that organism is unable to do that something	nongold
+60	a bacterium is a kind of organism	nongold
+61	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+62	animal cells can  not perform photosynthesis	nongold
+63	biotic means living	nongold
+64	to be good for means to have a positive impact on	nongold
+65	a food contains nutrients for living things	nongold
+66	a plant is made of plant cells	nongold
+67	killing means changing a living thing from alive to dead by harming	nongold
+68	decreasing something negative has a positive impact on a thing	nongold
+69	lack of food causes starvation	nongold
+70	organisms are a part of an environment	nongold
+71	protecting something means preventing harm to that something	nongold
+72	decreasing something positive has a negative impact on a thing	nongold
+73	to be dependent on something means to depend on that something	nongold
+74	an animal requires enough nutrients to maintain good health; survive	nongold
+75	organisms mean life	nongold
+76	able is the opposite of unable	nongold
+77	to be used for something means to be required by that something	nongold
+78	if something has a positive impact on health then that something can help to maintain good health	nongold
+79	better means good	nongold
+80	an animal needs to eat food for nutrients	nongold
+81	live is similar to stay	nongold
+82	bacteria is a kind of pathogen sometimes	nongold
+83	solution is similar to a positive impact	nongold
+84	live means to be alive	nongold
+85	if something has the ability to do something else , then that something can do that something else	nongold
+86	harming an organism can cause that organism to die	nongold
+87	sickle cell anemia is a kind of genetic disease	nongold
+88	lack is similar to low; little	nongold
+89	a plant is a kind of organism	nongold
+90	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+91	inhibitor means something that prevents something from happening	nongold
+92	if something is required for a process then that something positively impacts that process	nongold
+93	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+94	a fungus is a kind of living thing	nongold
+95	plant cells can perform photosynthesis	nongold
+96	all cells perform cellular respiration	nongold
+97	an increase is the opposite of a decrease	nongold
+98	a negative impact is a kind of consequence; risk	nongold
+99	eating; taking in food is used to get nutrients;energy by animals; living things	nongold

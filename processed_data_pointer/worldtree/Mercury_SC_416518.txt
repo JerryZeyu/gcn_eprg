@@ -1,0 +1,102 @@
+Question	A mountain with a melting glacier has a stream with a waterfall. The waterfall fills a lake at the base of the mountain. Where is the water coldest?	question
+Answer	glacier	answer
+0	a glacier is a kind of body of water	nongold
+1	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+2	a mountain glacier is a kind of glacier	nongold
+3	a waterfall contains water	nongold
+4	a stream is a kind of body of water	gold
+5	cold means low in temperature	nongold
+6	a lake is a kind of body of water	gold
+7	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+8	colder; cooler means lower in temperature	nongold
+9	a glacier is made of ice	gold
+10	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+11	water is a kind of liquid at room temperature	nongold
+12	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+13	temperature is a measure of heat energy	nongold
+14	a glacier is made of a large buildup of ice; snow	nongold
+15	freezing means cold temperatures	nongold
+16	cold is a kind of weather	nongold
+17	warmer means greater; higher in temperature; warmth	nongold
+18	ice is colder than water in temperature	nongold
+19	cool means cold	nongold
+20	temperature is a property of weather	nongold
+21	ice is cold in temperature	gold
+22	something in a cold place becomes cold	nongold
+23	a river is a kind of flowing body of water	nongold
+24	cooler means colder	nongold
+25	icy means made of ice	nongold
+26	glaciers are a source of freshwater	nongold
+27	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+28	ice is a kind of solid	nongold
+29	freezing is a kind of phase change	nongold
+30	warm means medium heat energy; temperature	nongold
+31	an increase is the opposite of a decrease	nongold
+32	to be filled with means to contain	nongold
+33	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+34	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+35	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+36	temperature drop means cooling	nongold
+37	melting is when solids are heated above their melting point	nongold
+38	a body of water contains water	nongold
+39	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+40	to reduce means to decrease	nongold
+41	a mountain is made of rocks; soil	nongold
+42	less is similar to decrease	nongold
+43	to lower means to decrease	nongold
+44	winter has cold temperatures;weather	nongold
+45	frozen means solid	nongold
+46	warm means warm temperature	nongold
+47	melting point means temperature at which a solid melts; above which a solid melts	nongold
+48	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+49	cooling means temperature decreases	nongold
+50	low is similar to decrease	nongold
+51	high is similar to increase	nongold
+52	water is a kind of substance	nongold
+53	ice sheet; polar ice sheet is a kind of glacier	nongold
+54	freezing point is similar to melting point	nongold
+55	increase means more	nongold
+56	a mountain is a kind of landform	nongold
+57	snow is cold	nongold
+58	temperature drop means become colder	nongold
+59	glaciers are a kind of major reservoir for fresh water	nongold
+60	when water freezes , that water expands	nongold
+61	a mountain is high in altitude	nongold
+62	frost is a kind of solid water	nongold
+63	melting is a kind of phase change	nongold
+64	some deep lakes; bowl-shaped lakes are formed by glaciers	nongold
+65	to add means to increase	nongold
+66	temperature drop means temperature decrease	nongold
+67	liquid water cooling causes that liquid water to freeze	nongold
+68	if something is  cold in temperature , then something will be cold to touch	nongold
+69	heat means heat energy	nongold
+70	a mountain; mountain range is a kind of environment	nongold
+71	extreme means very high in value	nongold
+72	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+73	water is a part of an environment	nongold
+74	a decrease is a kind of change	nongold
+75	freezing causes a solid to form	nongold
+76	hot means high in heat energy; temperature	nongold
+77	if the glaciers melt , then the fresh water stored in glaciers will decrease	nongold
+78	ice is a kind of object	nongold
+79	snow is a kind of ice	nongold
+80	an increase is a kind of change	nongold
+81	a liquid is a kind of substance	nongold
+82	warm is the opposite of cool	nongold
+83	furthest; farthest means greatest; most; highest in distance	nongold
+84	hot is the opposite of  cold	nongold
+85	ice is a kind of water phase	nongold
+86	a body of water is a kind of environment	nongold
+87	a solid is a kind of substance	nongold
+88	near; close is the opposite of far; away	nongold
+89	if the glaciers melt , then the melting glacial ice will be freshwater	nongold
+90	temperature rise means become warmer	nongold
+91	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+92	a mountain is a kind of land feature	nongold
+93	snow falls during the winter in some environments	nongold
+94	a body of water is a source of water	nongold
+95	bodies of water are located on Earth's surface	nongold
+96	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+97	liquid is a kind of state of matter	nongold
+98	if a living thing becomes too cold then that living thing will die	nongold
+99	heat means temperature increases	nongold

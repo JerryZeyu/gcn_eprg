@@ -1,0 +1,102 @@
+Question	Which human activity most often has a harmful effect on the environment?	question
+Answer	polluting	answer
+0	polluting is a kind of activity	gold
+1	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	gold
+2	pollutants have a negative impact on the environment; air quality	nongold
+3	a pollutant is a kind of substance	nongold
+4	action means activity	nongold
+5	living things in a polluted environment often contain pollutants	nongold
+6	harming something has a  negative impact on; effect on that something	gold
+7	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+8	pollution is a source of pollutants	nongold
+9	polluting gasses are a kind of pollution	nongold
+10	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+11	humans changing animal habitats usually causes harm to those animals	nongold
+12	polluting means something poisonous is added to an environment	nongold
+13	contaminated means polluted	nongold
+14	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+15	water is when humans pollute the environment with pollutants	nongold
+16	adverse effect means negative impact	nongold
+17	a human is a kind of animal	nongold
+18	something harmful can cause harm	nongold
+19	impact means effect	nongold
+20	an environment means an area	nongold
+21	humans cause pollution	gold
+22	to cause means to have an effect	nongold
+23	to impact means to affect	nongold
+24	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	nongold
+25	chemicals can be pollutants	nongold
+26	organisms are a part of an environment	nongold
+27	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+28	human is a kind of organism	nongold
+29	an animal is a kind of organism	nongold
+30	damage means harm	nongold
+31	oil is a kind of pollutant	nongold
+32	killing means harming something causing death	nongold
+33	causing is a kind of affecting	nongold
+34	protecting something means preventing harm to that something	nongold
+35	something dangerous can cause harm	nongold
+36	an animal is a kind of living thing	nongold
+37	a body of water is a kind of environment	nongold
+38	an environment is similar to an ecosystem	nongold
+39	the atmosphere is a part of nature; the environment	nongold
+40	fishing has a negative impact on ecosystems	nongold
+41	negative impact is the opposite of positive impact	nongold
+42	harm means danger	nongold
+43	destroying something causes harm to that something	nongold
+44	humans changing an environment sometimes causes that environment to be destroyed	nongold
+45	protecting nature has a positive impact on the environment	nongold
+46	attracting is a kind of function; activity	nongold
+47	objects in an environment are a part of that environment	nongold
+48	actions mean behavior	nongold
+49	usually means most of the time	nongold
+50	reproducing is a kind of activity	nongold
+51	if something affects a part of something else then that something affects that something else	nongold
+52	helping something has a  positive impact on that something	nongold
+53	person is synonymous with human	nongold
+54	creating is a kind of activity	nongold
+55	typically means usually	nongold
+56	absorbing something harmful has a negative impact on a thing	nongold
+57	adding is a kind of activity	nongold
+58	to change means to have an effect	nongold
+59	an organism is a living thing	nongold
+60	killing means changing a living thing from alive to dead by harming	nongold
+61	nature means a natural environment	nongold
+62	carpooling is a kind of activity	nongold
+63	a negative impact is a kind of consequence; risk	nongold
+64	cleaner means less; lower in pollutants	nongold
+65	surroundings means environment	nongold
+66	fishing is when a human kills; catches fish for food	nongold
+67	an aquatic animal is a kind of animal	nongold
+68	harm means injury	nongold
+69	if something is made by something else then that something is affected by that something else	nongold
+70	decreasing something negative has a positive impact on a thing	nongold
+71	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+72	high is similar to increase	nongold
+73	human waste often causes harm to an environment	nongold
+74	if something is required for a process then that something positively impacts that process	nongold
+75	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	nongold
+76	damage has a negative impact on a thing	nongold
+77	looking is a kind of activity	nongold
+78	destroying animal habitats has a negative  impact on an ecosystem	nongold
+79	an ecosystem contains a large community of; large numbers of living organisms	nongold
+80	a predator is a kind of animal	nongold
+81	generally means usually	nongold
+82	harming an animal species has a  negative impact on the population size of that species	nongold
+83	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+84	action can cause change	nongold
+85	a motion is a kind of event; action	nongold
+86	washing is a kind of activity	nongold
+87	low is similar to decrease	nongold
+88	pollution is a kind of environmental problem	nongold
+89	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+90	poisoning an environment means poisoning the organisms in that environment	nongold
+91	a climate is synonymous with an environment	nongold
+92	to be a source of something means to cause that something	nongold
+93	human activity changed the composition of the atmosphere over the last hundreds of years	nongold
+94	flushing is a kind of activity	nongold
+95	to hurt means to harm	nongold
+96	an environment is a kind of place	nongold
+97	to cause an event is similar to being involved in that event	nongold
+98	a living thing is a kind of object	nongold
+99	a type is synonymous with a kind	nongold

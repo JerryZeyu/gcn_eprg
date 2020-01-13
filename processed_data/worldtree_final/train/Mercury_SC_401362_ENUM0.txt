@@ -1,0 +1,102 @@
+0	Which describes a specific characteristic necessary for survival in the desert?	question
+1	conserving water	answer
+2	conserving water is a kind of characteristic	gold
+3	conserving water can be used for survival in a dry environment	gold
+4	conserving resources has a positive impact on the environment	nongold
+5	to be required means to be necessary	gold
+6	using less of a resource means conserving that resource	nongold
+7	requiring something means needing that something	nongold
+8	requiring is similar to needing help	gold
+9	a desert is a kind of environment	nongold
+10	a desert environment is low in availability of water; availability of food	gold
+11	animals; living things require water for survival	gold
+12	conservation is often conserving natural resources	nongold
+13	essential means required	nongold
+14	if something causes a process then that something is required for that process	nongold
+15	to be used for something means to be required by that something	nongold
+16	to depend on; to rely on; to need means to require	nongold
+17	survival means to survive	nongold
+18	if something is required then that something must be provided	nongold
+19	characteristic means property	nongold
+20	an animal; living thing requires nutrients for survival	nongold
+21	feature is synonymous with characteristic	nongold
+22	a part of something means a characteristic of something	nongold
+23	water is a kind of natural resource	gold
+24	water is a kind of natural resource	nongold
+25	water is a part of an environment	nongold
+26	if a living thing requires something then that something has a positive impact on that living thing	nongold
+27	if something is required for a process then that something positively impacts that process	nongold
+28	a required resource being low in availability has a negative impact on the something  that requires that resource	gold
+29	helping something has a  positive impact on that something	gold
+30	humans require fresh water to survive	nongold
+31	a desert environment usually has a lot of sunlight	nongold
+32	a function is a kind of characteristic	nongold
+33	an environment means an area	nongold
+34	a body of water is a kind of environment	nongold
+35	a human is a kind of animal	nongold
+36	an animal requires enough nutrients to maintain good health; survive	nongold
+37	the properties of something are used for describing that something	nongold
+38	water is a renewable resource	nongold
+39	if an event is required for a process then that event must occur before that process can occur	nongold
+40	a plant; living thing requires food for survival	nongold
+41	an environment is a kind of place	nongold
+42	a desert environment receives low rainfall	nongold
+43	a desert environment is dry	gold
+44	an animal is a kind of living thing	nongold
+45	a body of water contains water	nongold
+46	food is a kind of resource	nongold
+47	needing something means depending on that something	nongold
+48	if something required by something else is in a place then that something else may be in that place	nongold
+49	survive means live	nongold
+50	survive means live	nongold
+51	if something requires something else then that something else is important to that something	nongold
+52	dying is the opposite of living; surviving	nongold
+53	a plants; living things require water for survival; to grow	nongold
+54	if something is a raw material in a process then that something is required for that process	nongold
+55	an animal is a kind of organism	nongold
+56	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+57	organisms are a part of an environment	nongold
+58	a body of water is a source of water	nongold
+59	negative impact is the opposite of positive impact	gold
+60	an event is a kind of action	nongold
+61	what something needs is a property of that something	nongold
+62	if something requires something else then that something requires a source of that something else	nongold
+63	must have means require	nongold
+64	a desert is a kind of land feature	nongold
+65	certain is similar to specific	nongold
+66	life means living things	nongold
+67	good means positive	nongold
+68	a process is a kind of event	nongold
+69	trait is synonymous with characteristic	nongold
+70	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+71	a description sometimes provides information	nongold
+72	if something has a positive impact on something else then that something is important to that something else	nongold
+73	when available resources decrease in an environment , organisms have to conserve those resources	nongold
+74	best means most positive	nongold
+75	to lower means to decrease	nongold
+76	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+77	to be good for means to have a positive impact on	nongold
+78	as available water in an environment decreases , the amount of available food in that environment will decrease	nongold
+79	a structure is a kind of feature	nongold
+80	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+81	a natural resource is a kind of environmental factor	nongold
+82	a food contains nutrients for living things	nongold
+83	resources becoming available has a positive impact on the things that need those resources	nongold
+84	being used for is similar to providing	nongold
+85	plants are a kind of resource	nongold
+86	a property of something is a feature of that something	nongold
+87	an organism is a living thing	nongold
+88	a process usually requires all of the stages in that process	nongold
+89	organism requires liquid water to survive	nongold
+90	decreasing something negative has a positive impact on a thing	nongold
+91	person is synonymous with human	nongold
+92	living things all require energy for survival	nongold
+93	decreasing something positive has a negative impact on a thing	nongold
+94	a source of something emits; produces; generates; provides that something	nongold
+95	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+96	plants are a part of the environment	nongold
+97	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+98	a part of a process means a stage in a process	nongold
+99	an animal requires a habitat for survival	nongold
+100	to conserve means to not change	nongold
+101	using tools is a learned characteristic	nongold

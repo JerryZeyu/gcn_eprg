@@ -1,0 +1,61 @@
+0	plants are a part of the environment	nongold
+1	coal is a kind of rock	nongold
+2	generate means produce	gold
+3	Coal and trees are resources found in Maryland. Both resources are used for	question
+4	roots are a part of a plant; tree	nongold
+5	coal is used to produce electricity by burning in coal-fire power stations	nongold
+6	an inexhaustible resource is a kind of renewable resource	nongold
+7	trees are a renewable resource	gold
+8	a tree contains wood	gold
+9	if something is a part of something then that something can be found in that something	nongold
+10	burning wood is used to produce heat	gold
+11	renewable resources can be used over again	nongold
+12	coal is a kind of fossil fuel	nongold
+13	trees are a kind of resource	nongold
+14	burning wood is used to produce heat	gold
+15	oil is a nonrenewable resource	nongold
+16	producing heat	answer
+17	generate means produce	gold
+18	a producer is a source of energy for consumers	nongold
+19	a tree contains wood	gold
+20	produce is similar to release	nongold
+21	if something causes a process then that something is required for that process	nongold
+22	coal is used for generating heat by burning	gold
+23	burning wood is used to produce heat	gold
+24	heat means heat energy	nongold
+25	a forest is a kind of environment	nongold
+26	natural gas is a nonrenewable resource	nongold
+27	products are formed; are produced; are created	nongold
+28	a tree is a kind of plant	nongold
+29	producing heat	answer
+30	to produce means to result in	nongold
+31	wood burns	nongold
+32	heating means adding heat	nongold
+33	petroleum is a kind of fossil fuel	nongold
+34	green plants are a kind of producer	nongold
+35	burning coal is a source of air pollution	nongold
+36	Coal and trees are resources found in Maryland. Both resources are used for	question
+37	temperature is a measure of heat energy	nongold
+38	natural gas is a source of heat by burning	nongold
+39	trees are a renewable resource	gold
+40	wood is a kind of resource	nongold
+41	Coal and trees are resources found in Maryland. Both resources are used for	question
+42	coal is used for generating heat by burning	gold
+43	fire causes burning	nongold
+44	producing heat	answer
+45	producing heat	answer
+46	a tree contains wood	gold
+47	Coal and trees are resources found in Maryland. Both resources are used for	question
+48	make means produce	nongold
+49	a material is a kind of resource	nongold
+50	fossil fuel contains chemical energy	nongold
+51	coal is a kind of fuel	nongold
+52	trees are a renewable resource	gold
+53	wood is a thermal; thermal energy insulator	nongold
+54	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+55	plants are a source of biofuel	nongold
+56	generate means produce	gold
+57	where something  comes from is a source of that something	nongold
+58	a plant is a kind of living thing	nongold
+59	coal is used for generating heat by burning	gold
+60	a renewable resource is a kind of naturally replaced resource	nongold

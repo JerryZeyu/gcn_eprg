@@ -1,0 +1,101 @@
+0	Signs in many stores and restaurants warn that microwaves are in use. What is the main reason for this warning?	question
+1	Some people have pacemakers that may be affected by microwaves.	answer
+2	microwaves harm people that have pacemakers	gold
+3	person is synonymous with human	nongold
+4	microwave radiation is used for heating food by microwaves by heating water molecules in the food	nongold
+5	a person is a kind of animal	nongold
+6	microwave is a kind of electromagnetic wave	nongold
+7	microwave-safe is when a material can be microwaved safely	nongold
+8	a microwave cooks food faster than an oven does	nongold
+9	to slow; to slow down decreases speed	nongold
+10	to impact means to affect	nongold
+11	sensing a warning means receiving a warning	nongold
+12	microwave is a part of the electromagnetic spectrum	nongold
+13	warning  people of something requires knowing about; predicting that something	nongold
+14	a human is a kind of animal	nongold
+15	speed up means increase	nongold
+16	impact means effect	nongold
+17	affected means changed	nongold
+18	a cause of something is a reason for that something	nongold
+19	microwave can be used to investigate low-energy radiation emitted when the universe began	nongold
+20	harming something has a  negative impact on; effect on that something	gold
+21	an animal is a kind of organism	nongold
+22	speed is a measure of how fast an object is moving	nongold
+23	faster means an increase; higher in speed	nongold
+24	to act on means to affect	nongold
+25	causing is a kind of affecting	nongold
+26	speed is a property of an object and includes values of slow; fast	nongold
+27	warning people of dangers has a positive impact on the safety of those people	gold
+28	if something affects a part of something else then that something affects that something else	nongold
+29	if something is made by something else then that something is affected by that something else	nongold
+30	slowest means lowest in  speed	nongold
+31	a living thing is a kind of object	nongold
+32	a source of something emits; produces; generates; provides that something	nongold
+33	to cause means to have an effect	nongold
+34	to lower means to decrease	nongold
+35	human is a kind of organism	nongold
+36	to give off means to be the source of	nongold
+37	rate is similar to speed	nongold
+38	to reduce means to decrease	nongold
+39	faster means increased rate	nongold
+40	the function of something is what that something  is used to do	nongold
+41	reducing is similar to slowing	nongold
+42	if something with the same function as something else is being used then the use of that something else decreases	nongold
+43	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+44	communication can be used to warn people of dangers	nongold
+45	high is similar to increase	nongold
+46	to help; to benefit means to be of use	nongold
+47	high speed means fast	nongold
+48	an animal is a kind of living thing	nongold
+49	if something emits something else then that something increases the amount of that something else	nongold
+50	a concern; a problem is a possible negative impact	nongold
+51	to be affected by something is similar to depending on something	nongold
+52	increase means more	nongold
+53	to store means to hold	nongold
+54	to change means to have an effect	nongold
+55	to be a source of something means to cause that something	nongold
+56	many means high in number	nongold
+57	heating means adding heat	nongold
+58	if something required by something else is in a place then that something else may be in that place	nongold
+59	to be used for something means to be required by that something	nongold
+60	radiation can affect objects that are not touching	nongold
+61	adverse effect means negative impact	nongold
+62	something harmful can cause harm	nongold
+63	food is a kind of substance	nongold
+64	if something is powered by something else then that something requires a source of that something else	nongold
+65	having an impact on something means altering that something	nongold
+66	negative impact is the opposite of positive impact	nongold
+67	an increase is the opposite of a decrease	nongold
+68	an part of an object is smaller than the entire object	nongold
+69	if an object is made of a material then that object has the properties of that material	nongold
+70	a sign of something is evidence of that something	nongold
+71	consumption means use	nongold
+72	a source of something increases the amount of that something	nongold
+73	an organism is a living thing	nongold
+74	the effects of something is a property of that something	nongold
+75	due to means caused by	nongold
+76	radiation is when electromagnetic waves transfers heat and light energy	nongold
+77	contain is similar to store	nongold
+78	a device is a kind of object	nongold
+79	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+80	fast is the opposite of slow	nongold
+81	variable means able to change	nongold
+82	distorting is a kind of affecting	nongold
+83	to add means to increase	nongold
+84	death means to die	nongold
+85	disrupting is similar to having a negative impact	nongold
+86	material means substance	nongold
+87	an event is a kind of action	nongold
+88	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+89	an animal is a kind of consumer	nongold
+90	inhibitor means something that prevents something from happening	nongold
+91	change is a kind of impact	nongold
+92	low is similar to decrease	nongold
+93	fastest means greatest in  speed	nongold
+94	events occur at a specific place; at a specific time; with a specific frequency	nongold
+95	electrical devices are used for industrial purposes; household purposes by humans	nongold
+96	may happen means having a chance of happening	nongold
+97	if an object accelerates then that object will go faster	nongold
+98	can be means able to be	nongold
+99	to cause an event is similar to being involved in that event	nongold
+100	to depend on; to rely on; to need means to require	nongold

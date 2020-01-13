@@ -1,0 +1,101 @@
+0	a food contains nutrients for living things	nongold
+1	a tree is a kind of living thing	nongold
+2	the function of something is what that something  is used to do	nongold
+3	an object; material; substance comes from that object or material's source	nongold
+4	an object is made of its parts	nongold
+5	the sun is the source of energy for life on Earth	nongold
+6	a leaf is a kind of object	nongold
+7	a plant; living thing requires food for survival	gold
+8	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+9	plant parts are made of plants	nongold
+10	a source of something increases the amount of that something	nongold
+11	sunlight is a kind of light	nongold
+12	the sun is a source of light; light energy called sunlight	gold
+13	to contribute is similar to produce	nongold
+14	solar energy is a kind of light	nongold
+15	to power means to provide energy for	nongold
+16	food is a source of energy for animals; plants	nongold
+17	producer is a kind of role in the food chain process; in an ecosystem	nongold
+18	to depend on; to rely on; to need means to require	nongold
+19	Which part of a plant is most responsible for using energy from the Sun to produce food for the plant?	question
+20	a source of something emits; produces; generates; provides that something	nongold
+21	leaf	answer
+22	where something  comes from is a source of that something	nongold
+23	if something is required for a process then that something positively impacts that process	nongold
+24	if something comes from something else then that something else is a source of that something	nongold
+25	if something gains something from something else then that something else is a source of that something	nongold
+26	to be used for something means to be required by that something	gold
+27	a part of something means a characteristic of something	nongold
+28	being used for is similar to providing	nongold
+29	a leaf is a kind of plant organ	nongold
+30	producing is similar to causing	nongold
+31	solar energy is a kind of energy	nongold
+32	if something requires something else then that something requires a source of that something else	nongold
+33	a  plant requires sunlight for photosynthesis	gold
+34	a leaf is a part of a tree	nongold
+35	plants are a kind of resource	nongold
+36	an animal needs to eat food for nutrients	nongold
+37	a plant requires photosynthesis to grow; survive	nongold
+38	nutrients are a source of energy for living things	nongold
+39	a producer is a source of sugar; food energy in an ecosystem	nongold
+40	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+41	food is a kind of resource	nongold
+42	to produce means to provide	nongold
+43	crops are a kind of edible plant for eating	nongold
+44	consumption means use	nongold
+45	to have a function is similar to to be responsible for	gold
+46	sunlight is a kind of solar energy	nongold
+47	if something generates energy for something else then that something powers that something else	nongold
+48	a flower is a part of a plant for attracting pollinators; producing seeds	nongold
+49	solar energy is a kind of heat energy	nongold
+50	make means produce	gold
+51	requiring something means needing that something	nongold
+52	a plant is a kind of living thing	nongold
+53	a tree is a kind of plant	nongold
+54	a component means a part of	nongold
+55	In the food chain process a  green plant has the role of  producer	nongold
+56	green plants provide food for themselves; animals; consumers by performing photosynthesis	gold
+57	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+58	a part of a process means a stage in a process	nongold
+59	emit means produce	nongold
+60	a living thing is a kind of object	nongold
+61	if something is a raw material in a process then that something is required for that process	gold
+62	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	gold
+63	a leaf performs photosynthesis; gas exchange	gold
+64	resources sometimes are used for energy	nongold
+65	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+66	sunlight produces heat	nongold
+67	an animal is a kind of living thing	nongold
+68	if something causes a process then that something is required for that process	nongold
+69	if something is a raw material then that something comes directly from a source	nongold
+70	a producer is a kind of living thing	nongold
+71	producing is a kind of process	nongold
+72	sunlight means solar energy	nongold
+73	to cause means to be responsible for	nongold
+74	an energy source is a kind of resource	nongold
+75	the sun is the source of solar energy called sunlight	nongold
+76	unit is similar to part	nongold
+77	a producer produces its own food	nongold
+78	a leaf is a kind of plant	nongold
+79	a plant is a kind of organism	nongold
+80	a component of something means a part of that something	nongold
+81	a leaf is a part of a  green plant	gold
+82	green plants are a kind of producer	nongold
+83	a producer is a source of energy for consumers	nongold
+84	the sun  is the source of energy for physical cycles on Earth	nongold
+85	vegetation means plants	nongold
+86	an animal is a kind of organism	nongold
+87	producing is a kind of function	nongold
+88	answering questions requires information	nongold
+89	part means role	nongold
+90	a leaf absorbs sunlight to perform photosynthesis	nongold
+91	the sun is a source of radiation; heat called sunlight	nongold
+92	to provide something means to be the source of that something	nongold
+93	aspect of something is similar to part of something	nongold
+94	if something transfers something else then that something is a source of something else	nongold
+95	to be a source of something means to cause that something	nongold
+96	if a living thing requires something then that something has a positive impact on that living thing	nongold
+97	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+98	an animal; living thing requires nutrients for survival	nongold
+99	generate means produce	nongold
+100	cellular respiration is when cells break down; extract energy from food to produce energy	nongold

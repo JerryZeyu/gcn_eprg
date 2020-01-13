@@ -1,0 +1,102 @@
+0	events occur at a specific place; at a specific time; with a specific frequency	nongold
+1	if an event occurs by adding something then that event requires that something	gold
+2	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+3	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+4	heating is the opposite of cooling	nongold
+5	boiling point is a property of a substance; material	nongold
+6	gas is a kind of state of matter	nongold
+7	temperature is a measure of heat energy	nongold
+8	to be required means to be necessary	nongold
+9	evaporating is a kind of phase change	nongold
+10	boiling point is a kind of physical  property	nongold
+11	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+12	what something needs is a property of that something	nongold
+13	melting is when solids are heated above their melting point	nongold
+14	boiling is a kind of event	nongold
+15	to give off means to be the source of	nongold
+16	a process is a kind of event	nongold
+17	to be used for something means to be required by that something	nongold
+18	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+19	an event is a kind of action	nongold
+20	melting point is a property of a substance; material	nongold
+21	heat	answer
+22	the boiling point of water is 212F; 100C; 373K	nongold
+23	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+24	Which is needed for both boiling and melting to occur?	question
+25	material means substance	nongold
+26	warm means medium heat energy; temperature	nongold
+27	a solid is a kind of substance	nongold
+28	warm; becoming warm means heat is added	nongold
+29	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	gold
+30	to depend on; to rely on; to need means to require	gold
+31	requiring something means needing that something	nongold
+32	water is an thermal; thermal energy conductor	nongold
+33	a phase change is a kind of physical change	nongold
+34	a cycle happens; occurs repeatedly	nongold
+35	heating means adding heat	nongold
+36	freezing causes a solid to form	nongold
+37	to make possible means to be required	nongold
+38	heat means temperature increases	nongold
+39	solid is a kind of state of matter	nongold
+40	volume has no impact on boiling; melting; freezing point	nongold
+41	to change means to cause a change	nongold
+42	a hot; warm something is a source of heat	nongold
+43	a source of something emits; produces; generates; provides that something	nongold
+44	vapor is synonymous with gas	nongold
+45	boiling is when liquids are heated above their boiling point	nongold
+46	heat means heat energy	gold
+47	liquid is a kind of state of matter	nongold
+48	moisture means liquid; liquid water	nongold
+49	melting is a kind of process	nongold
+50	a hot substance is a source of heat	nongold
+51	if heat is added to a substance then that substance absorbs that heat	nongold
+52	to keep something occurring means to cause that something to occur	nongold
+53	heat means the transfer of thermal energy	nongold
+54	freezing is a kind of phase change	nongold
+55	condensing is when gasses are  cooled below their boiling point	nongold
+56	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+57	water is a kind of substance	nongold
+58	boiling is a kind of phase change	nongold
+59	metal is a thermal; thermal energy conductor	nongold
+60	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+61	if an event is required for a process then that event must occur before that process can occur	nongold
+62	a change is a kind of event	gold
+63	to cause something means to contribute to that something happening	nongold
+64	a motion is a kind of event; action	nongold
+65	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+66	water is a kind of liquid at room temperature	nongold
+67	cooling is a kind of process	nongold
+68	cooling means temperature decreases	nongold
+69	to pass means to occur	nongold
+70	temperature changing can cause phase changes	nongold
+71	if liquid is boiling then that liquid is hot	nongold
+72	hot means high in heat energy; temperature	nongold
+73	thawing is similar to melting	nongold
+74	to happen means to occur	nongold
+75	if something causes a process then that something is required for that process	nongold
+76	event is similar to occurrence	nongold
+77	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+78	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+79	a vehicle for something allows; enables that something to occur	nongold
+80	melting is a kind of phase change	nongold
+81	if something is required for a process then that something positively impacts that process	nongold
+82	plasma is a kind of state of matter	nongold
+83	needing something means depending on that something	nongold
+84	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+85	an increase is a kind of change	nongold
+86	boiling point is the highest temperature a liquid can reach	nongold
+87	ability to undergo a phase change is a property of a substance; material	nongold
+88	a liquid is a kind of substance	nongold
+89	requiring is similar to needing help	nongold
+90	take place means happen	nongold
+91	something that happens is a kind of event	nongold
+92	occur is similar to appear	nongold
+93	both means two	nongold
+94	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+95	if something absorbs; requires more heat than it gives off in an reaction , then something will be cold in temperature	nongold
+96	melting point means temperature at which a solid melts; above which a solid melts	nongold
+97	to add means to increase	gold
+98	mass has no impact on boiling; melting; freezing point	nongold
+99	heat energy is synonymous with thermal energy	nongold
+100	adding heat means increasing temperature	nongold
+101	if something is a raw material in a process then that something is required for that process	nongold

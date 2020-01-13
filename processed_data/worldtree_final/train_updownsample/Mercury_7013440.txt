@@ -1,0 +1,52 @@
+0	determine is similar to cause	gold
+1	if a property affects a value then that property is needed to calculate that value	nongold
+2	temperature.	answer
+3	a student is a kind of human	nongold
+4	temperature.	answer
+5	increase means more	nongold
+6	as the state  of matter changes , the color of the object will stay the same	nongold
+7	the sun is a kind of yellow dwarf	nongold
+8	largest amount means most	nongold
+9	the Sun is a kind of star	nongold
+10	bright means bright; light in color	nongold
+11	a star's surface temperature causes the star's  color	gold
+12	greater means higher; more in value	nongold
+13	A student uses a telescope to view stars at night. The student notices some of the stars are different colors. The color of a star is determined most by its	question
+14	if an object reflects a light of a certain color then the object appears to be that color	nongold
+15	a star's surface temperature causes the star's  color	gold
+16	observe means see	nongold
+17	measuring is a kind of observing	nongold
+18	coloration means a pattern of colors	nongold
+19	temperature.	answer
+20	yellow is a kind of color	nongold
+21	a decrease is a kind of change	nongold
+22	determine is similar to cause	gold
+23	a human is a kind of animal	nongold
+24	an increase is the opposite of a decrease	nongold
+25	can be means able to be	nongold
+26	a star's type is determined by the star's mass	nongold
+27	stars can be classified by temperature; color; chemical composition; brightness	nongold
+28	according to is similar to be determined by	nongold
+29	A student uses a telescope to view stars at night. The student notices some of the stars are different colors. The color of a star is determined most by its	question
+30	as the temperature of an object increases , the size of that object will increase	nongold
+31	less is the opposite of more	nongold
+32	to measure means to calculate	nongold
+33	the properties of something can be used to identify; used to describe that something	nongold
+34	phase means state	nongold
+35	identifying is similar to determining	nongold
+36	determine is similar to cause	gold
+37	temperature.	answer
+38	a type is synonymous with a kind	nongold
+39	determining often requires measuring; observing	nongold
+40	classifying means grouping objects; materials by their properties	nongold
+41	an part of an object is smaller than the entire object	nongold
+42	to lower means to decrease	nongold
+43	blue is a kind of color	nongold
+44	low is similar to decrease	nongold
+45	constant means not changing	nongold
+46	the color of an object can be discovered by looking at that object	nongold
+47	furthest; farthest means greatest; most; highest in distance	nongold
+48	A student uses a telescope to view stars at night. The student notices some of the stars are different colors. The color of a star is determined most by its	question
+49	a star's surface temperature causes the star's  color	gold
+50	A student uses a telescope to view stars at night. The student notices some of the stars are different colors. The color of a star is determined most by its	question
+51	to view means to see	nongold

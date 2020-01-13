@@ -1,0 +1,102 @@
+Question	Weather patterns sometimes result in drought. Which activity would be most negatively affected during a drought year?	question
+Answer	farming	answer
+0	drought is when amount of precipitation decreases	gold
+1	a drought occurs over a period of months; years	nongold
+2	if a plant; crop requires less water then that plant; crop will survive in a drought	nongold
+3	a drought is a kind of slow environmental change	nongold
+4	a drought is a kind of natural event	nongold
+5	a farmer farms crops; plants for  food	nongold
+6	a drought is a kind of natural disaster	nongold
+7	drought means available water decreases in an environment	gold
+8	to cause means to result in	nongold
+9	farming is when a human plants crops for food	gold
+10	solar energy causes the weather patterns	nongold
+11	farming happens on a farm	nongold
+12	farming is a kind of process	nongold
+13	crops; farming cause nutrients in the soil to decrease	nongold
+14	to produce means to result in	nongold
+15	farming is a source of food	nongold
+16	causing is a kind of affecting	nongold
+17	cropland is used for farming by humans	nongold
+18	rainy is a kind of weather	nongold
+19	a farmer is a kind of human	nongold
+20	harming something has a  negative impact on; effect on that something	nongold
+21	planting crops is a kind of activity	nongold
+22	to impact means to affect	gold
+23	farming changes the environment	nongold
+24	action means activity	nongold
+25	affected means changed	nongold
+26	negative impact is the opposite of positive impact	nongold
+27	planting crops is synonymous with growing crops	gold
+28	planting crops requires growing crops	nongold
+29	crops growing well has a positive impact on a farmer's livelihood	nongold
+30	to lower means to decrease	nongold
+31	impact means effect	nongold
+32	if something is required for a process then that something positively impacts that process	nongold
+33	farming decreases animal habitats	nongold
+34	rainy means often raining	nongold
+35	if an organism dies then the population of that organism will decrease	nongold
+36	drought may cause wildfires	nongold
+37	an increase is the opposite of a decrease	nongold
+38	growing is a kind of activity	nongold
+39	decreasing something negative has a positive impact on a thing	nongold
+40	to reduce means to decrease	nongold
+41	a plants; living things require water for survival; to grow	gold
+42	death means to die	nongold
+43	crops are a kind of edible plant for eating	gold
+44	crops are a kind of edible plant for eating	gold
+45	decreasing something positive has a negative impact on a thing	nongold
+46	if something affects a part of something else then that something affects that something else	nongold
+47	producing crops requires using farm land	nongold
+48	precipitation is a kind of weather	gold
+49	as the cause of something decreases , that something will decrease	nongold
+50	change is a kind of impact	nongold
+51	climate is the usual kind of weather in a location over a period of time	nongold
+52	weather is a property of a environment	nongold
+53	a plant requires soil for survival; to grow	nongold
+54	annual means once per year	nongold
+55	a climate is synonymous with an environment	nongold
+56	a decrease is a kind of change	nongold
+57	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+58	crop rotation renews; protects soil	nongold
+59	a concern; a problem is a possible negative impact	nongold
+60	a plant requires water to grow	nongold
+61	an event is a kind of action	nongold
+62	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+63	precipitation is when water falls from the sky	nongold
+64	dying is the opposite of living; surviving	nongold
+65	crop rotation has a  positive impact on soil quality	nongold
+66	to change means to cause a change	nongold
+67	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+68	a plant requires a specific climate to grow and survive	nongold
+69	harming an organism can cause that organism to die	nongold
+70	a plant; living thing requires nutrients to grow	nongold
+71	an increase is a kind of change	nongold
+72	low is similar to decrease	nongold
+73	high is similar to increase	nongold
+74	usually means most of the time	nongold
+75	less is similar to decrease	nongold
+76	animals; living things require water for survival	nongold
+77	survive means live	nongold
+78	survive means live	nongold
+79	producing is similar to causing	nongold
+80	precipitation is a property of weather	nongold
+81	dry means low in amount of water; wetness; moisture	nongold
+82	a crop is a kind of food	nongold
+83	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+84	insects can have a negative impact on crops	nongold
+85	a dry environment contains little water	nongold
+86	negative impacts on a species will decrease populations of a species	nongold
+87	to be a source of something means to cause that something	nongold
+88	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+89	killing means harming something causing death	nongold
+90	increase means more	nongold
+91	wind pattern is a kind of weather pattern	nongold
+92	the intensity of sunlight is a kind of seasonal weather pattern	nongold
+93	amount of sunlight causes changing weather patterns	nongold
+94	a change is a kind of event	nongold
+95	drying up means losing all water	nongold
+96	something harmful can cause harm	nongold
+97	a problem has a negative impact on a thing	nongold
+98	atmospheric disturbance is a kind of weather pattern	nongold
+99	as dryness increases in an environment , the available water in that environment will decrease	nongold

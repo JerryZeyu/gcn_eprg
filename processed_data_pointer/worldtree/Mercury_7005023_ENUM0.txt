@@ -1,0 +1,102 @@
+Question	Which effect would the growing of legume crops such as beans and soybeans have?	question
+Answer	more usable nitrogen for other plants	answer
+0	soybeans are a kind of legume	gold
+1	growing legumes provides nitrogen for other plants	gold
+2	beans are a kind of legume	gold
+3	a legume is a kind of plant	nongold
+4	nitrogen is a kind of nutrient for plant growth	nongold
+5	a bean plant is a kind of plant	nongold
+6	impact means effect	nongold
+7	legumes contain nitrogen	gold
+8	a plant; living thing requires nutrients to grow	nongold
+9	crops are a kind of edible plant for eating	nongold
+10	to cause means to have an effect	nongold
+11	planting crops is synonymous with growing crops	nongold
+12	crops; farming cause nutrients in the soil to decrease	nongold
+13	green plants are a kind of producer	nongold
+14	farming is when a human plants crops for food	nongold
+15	to change means to have an effect	nongold
+16	a crop is a kind of food	nongold
+17	a vegetable is a kind of plant	nongold
+18	planting crops requires growing crops	nongold
+19	farming is a source of food	nongold
+20	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+21	all living things grow	nongold
+22	a food contains nutrients for living things	nongold
+23	useful means able to be used	nongold
+24	nitrogen is a kind of gas	nongold
+25	the waste of an animal contains nitrogen	nongold
+26	a plant; living thing requires food for survival	nongold
+27	increase means more	nongold
+28	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+29	less is the opposite of more	nongold
+30	a plant is a kind of living thing	nongold
+31	a plant is a kind of organism	nongold
+32	a producer is a kind of living thing	nongold
+33	corn is a kind of crop	nongold
+34	if something is required for a process then that something positively impacts that process	nongold
+35	if a living thing requires something then that something has a positive impact on that living thing	nongold
+36	fertilizers contain nitrogen	nongold
+37	useful means good to use	nongold
+38	less is similar to decrease	nongold
+39	an increase is the opposite of a decrease	nongold
+40	growing is a kind of process	nongold
+41	an animal; living thing requires nutrients for survival	nongold
+42	an animal needs to eat food for nutrients	nongold
+43	to impact means to affect	nongold
+44	greater means higher; more in value	nongold
+45	plants are a source of oxygen through photosynthesis	nongold
+46	a plants; living things require water for survival; to grow	nongold
+47	nitrogen fixation is when nitrogen becomes fixed by bacteria in the soil	nongold
+48	nitrogen is a kind of element	nongold
+49	negative impact is the opposite of positive impact	nongold
+50	less means a reduced amount	nongold
+51	a vegetable is a kind of food	nongold
+52	to be used for something means to be required by that something	nongold
+53	fruit trees are a kind of crop	nongold
+54	In the food chain process a  green plant has the role of  producer	nongold
+55	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+56	high is similar to increase	nongold
+57	corn is a kind of seed	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	a plant requires photosynthesis to grow; survive	nongold
+60	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+61	requiring something means needing that something	nongold
+62	a source of something emits; produces; generates; provides that something	nongold
+63	farming is a kind of process	nongold
+64	if something causes a process then that something is required for that process	nongold
+65	a nutrient is a kind of object	nongold
+66	change is a kind of impact	nongold
+67	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+68	to lower means to decrease	nongold
+69	a source of something increases the amount of that something	nongold
+70	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+71	an animal is a kind of living thing	nongold
+72	to add means to increase	nongold
+73	if something causes an increase in something else then that something produces that something else	nongold
+74	nutrients are a kind of resource	nongold
+75	N means nitrogen	nongold
+76	growing is a kind of replenishing	nongold
+77	crops growing well has a positive impact on a farmer's livelihood	nongold
+78	developing means growing	nongold
+79	as the use of a crop increases , the amount of  crops planted will increase	nongold
+80	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+81	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+82	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+83	plants are a kind of resource	nongold
+84	to reduce means to decrease	nongold
+85	to depend on; to rely on; to need means to require	nongold
+86	a farmer farms crops; plants for  food	nongold
+87	helping something has a  positive impact on that something	nongold
+88	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+89	starch is a kind of food	nongold
+90	a plant requires soil for survival; to grow	nongold
+91	an organism requires energy for growth; repair	nongold
+92	if something has a positive impact on an organism's growth then that something increases the population of that organism	nongold
+93	deplete is similar to decrease	nongold
+94	an increase is a kind of change	nongold
+95	a decrease is a kind of change	nongold
+96	to produce means to provide	nongold
+97	low is similar to decrease	nongold
+98	providing something means making;delivering something	nongold
+99	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold

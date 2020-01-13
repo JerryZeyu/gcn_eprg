@@ -1,0 +1,101 @@
+0	Which list contains only nonliving things?	question
+1	water, rocks, sunlight	answer
+2	water is a kind of nonliving thing	gold
+3	rock is a kind of nonliving thing	gold
+4	nonliving means not living	nongold
+5	nonliving; non-living; die is the opposite of living; alive; live	nongold
+6	light is a kind of nonliving thing	gold
+7	sunlight means solar energy	nongold
+8	a rock is a kind of object	nongold
+9	including means containing	nongold
+10	sunlight is a kind of solar energy	nongold
+11	water is a kind of substance	nongold
+12	soil is a kind of nonliving thing	nongold
+13	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+14	sunlight is a kind of light	gold
+15	the sun is a source of light; light energy called sunlight	nongold
+16	air is a kind of nonliving thing	nongold
+17	all living and nonliving materials are made of elements	nongold
+18	an ecosystem contains nonliving things	nongold
+19	water is a kind of object	nongold
+20	a living thing is a kind of object	nongold
+21	nonliving things are not made of cells	nongold
+22	the sun is a source of radiation; heat called sunlight	nongold
+23	organisms mean life	nongold
+24	an organism is a living thing	nongold
+25	animals; living things require water for survival	nongold
+26	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+27	sunshine means sunlight	nongold
+28	survive means live	nongold
+29	survive means live	nongold
+30	solar radiation means solar energy	nongold
+31	death means to die	nongold
+32	sunlight produces heat	nongold
+33	an animal is a kind of living thing	nongold
+34	daylight means sunlight	nongold
+35	the sun is the source of solar energy called sunlight	nongold
+36	abiotic means nonliving	nongold
+37	solar energy is a kind of light	nongold
+38	solar energy is a kind of heat energy	nongold
+39	if there is none of a thing then that thing does not exist	nongold
+40	to be found in means to be contained in	nongold
+41	water is a kind of liquid at room temperature	nongold
+42	if a living thing dies then that living thing is dead	nongold
+43	a plants; living things require water for survival; to grow	nongold
+44	made up of means contains; made of	nongold
+45	water is a kind of medium for light	nongold
+46	life means living things	nongold
+47	made of is similar to contains	nongold
+48	water is a kind of matter	nongold
+49	live means to be alive	nongold
+50	if something is a part of something else then that something else contains that something	nongold
+51	if something is made of something; a material then that something contains that something; that material	nongold
+52	dying is the opposite of living; surviving	nongold
+53	temperature is a measure of heat energy	nongold
+54	a plant is a kind of organism	nongold
+55	an animal is a member of an animal species	nongold
+56	low is similar to decrease	nongold
+57	heat means heat energy	nongold
+58	a plant is a kind of living thing	nongold
+59	water is a part of an environment	nongold
+60	an insect is a kind of animal	nongold
+61	greatest means largest; highest; most amount of something	nongold
+62	Earth is made of rock	nongold
+63	an animal is a kind of organism	nongold
+64	rock means stone	nongold
+65	species means a group of like organisms	nongold
+66	a rock is usually a solid	nongold
+67	rock is a kind of material	nongold
+68	something that contains water is similar to a body of water	nongold
+69	to be made of is similar to collection	nongold
+70	a container contains objects; material; substances	nongold
+71	an animal; living thing requires nutrients for survival	nongold
+72	the sunlight occurs during the day	nongold
+73	an ocean is a kind of body of water	nongold
+74	a  plant requires sunlight for photosynthesis	nongold
+75	lowest means least in value; amount; number	nongold
+76	intensity of sunlight is similar to amount of sunlight	nongold
+77	solar energy is a kind of energy	nongold
+78	if something exists on a surface then that surface contains that something	nongold
+79	survival means to survive	nongold
+80	water absorbs light energy	nongold
+81	a fungus is a kind of organism	nongold
+82	a human is a kind of animal	nongold
+83	high is similar to increase	nongold
+84	contains means located in	nongold
+85	organisms; living things live in their habitat; their home	nongold
+86	a bird is a kind of living thing	nongold
+87	animals; living things live and feed in their habitats; near their habitats	nongold
+88	sunlight can be found in the top 100 meters of the ocean	nongold
+89	an object is an item	nongold
+90	dead means not alive	nongold
+91	a fungus is a kind of living thing	nongold
+92	absorbing sunlight causes objects to heat	nongold
+93	to receive sunlight means to absorb sunlight	nongold
+94	an animal; bacterium requires oxygen for survival; to breathe	nongold
+95	if something does not contain something else then that something lacks that something else	nongold
+96	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+97	organisms are a part of an environment	nongold
+98	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+99	receiving sunlight  is synonymous with absorbing sunlight	nongold
+100	to lower means to decrease	nongold

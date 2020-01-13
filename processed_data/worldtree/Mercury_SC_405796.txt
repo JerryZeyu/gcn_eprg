@@ -1,0 +1,102 @@
+Question	Which material should be used on a bicycle ramp to increase friction?	question
+Answer	rough paper	answer
+0	as roughness of a surface increases , friction will increase	gold
+1	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	nongold
+2	friction causes the temperature of an object to increase	nongold
+3	as moisture of an object decreases , the friction of that object against another object will increase	nongold
+4	friction occurs when two object's surfaces move against each other	nongold
+5	a ramp is a kind of object	nongold
+6	a bicycle is a kind of object	nongold
+7	a bicycle is a kind of vehicle	nongold
+8	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	nongold
+9	friction converts mechanical energy into heat energy	nongold
+10	bike means bicycle	nongold
+11	a bicycle is made of levers, wheels and axles, pulleys, and screws	nongold
+12	friction causes the speed of an object to decrease	nongold
+13	friction exerts force on moving objects	nongold
+14	friction causes speed to decrease	nongold
+15	paper is a kind of material	gold
+16	skidding causes friction	nongold
+17	a paper is a kind of object	gold
+18	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+19	rough is the opposite of smooth	nongold
+20	a surface is a part of a material	nongold
+21	a surface is a part of an object	gold
+22	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+23	wheels; gears usually move against other surfaces	nongold
+24	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+25	a surface is a kind of object	nongold
+26	if an object is made of a material then that object has the properties of that material	nongold
+27	rolling down a ramp is a kind of rolling	nongold
+28	a sheet of paper is a kind of object	nongold
+29	a rough surface is a part of sandpaper	nongold
+30	as the thickness of an object increases , the resistance to tearing; to breaking will increase	nongold
+31	an increase is the opposite of a decrease	nongold
+32	an object being pushed across another object causes their surfaces to move against each other	nongold
+33	a tool is a kind of object	nongold
+34	to rub; to rub together means to move against	nongold
+35	high is similar to increase	nongold
+36	material means substance	nongold
+37	paper is not durable	nongold
+38	felt is high in roughness	nongold
+39	a lever is used for lifting;moving heavy objects	nongold
+40	to be used for something means to be required by that something	nongold
+41	riding something is to move that thing over a surface	nongold
+42	friction is a kind of force	nongold
+43	surfaces sometimes cause objects to break	nongold
+44	friction causes an object to lose energy	nongold
+45	being  on something; placed in something; placed over something means touching  that something	nongold
+46	friction is used for stopping a vehicle by brakes	nongold
+47	to add means to increase	nongold
+48	counter means reduce; stop; resist	nongold
+49	motion; movement means moving; to move	nongold
+50	moisture means liquid; liquid water	nongold
+51	paper is flexible	nongold
+52	as the thickness of something; of an object increases , the resistance to damage of that object; of that something will increase	nongold
+53	to reduce means to decrease	nongold
+54	a human can pedal a bicycle	nongold
+55	a piece of something is a kind of object	nongold
+56	a slide is a kind of object	nongold
+57	to scrape means to scratch	nongold
+58	an increase is a kind of change	nongold
+59	if a material scratches easily then that material has low hardness	nongold
+60	smooth is a kind of texture	nongold
+61	gritty is simiar to  rough	nongold
+62	an part of an object is smaller than the entire object	nongold
+63	sliding is a kind of movement	nongold
+64	a paper clip is a kind of object	nongold
+65	rolling is a kind of motion	nongold
+66	a source of something increases the amount of that something	nongold
+67	objects are made of materials; substances; matter	nongold
+68	a vehicle is a kind of object	nongold
+69	a machine is a kind of object	nongold
+70	a decrease is a kind of change	nongold
+71	sliding is a kind of motion	nongold
+72	mechanical energy can  cause objects to move	nongold
+73	to slow; to slow down decreases speed	nongold
+74	conductivity is a property of a material; substance	nongold
+75	a sheet of is similar to a piece of	nongold
+76	rubbing  is a kind of motion	nongold
+77	if something emits something else then that something increases the amount of that something else	nongold
+78	metal is a kind of material	nongold
+79	a paper bag is a kind of object	nongold
+80	to lower means to decrease	nongold
+81	speed is a measure of how fast an object is moving	nongold
+82	low is similar to decrease	nongold
+83	rubber is thermal;thermal energy insulator	nongold
+84	riding is a kind of motion	nongold
+85	a piece of an object is smaller in size than the whole object	nongold
+86	temperature is a measure of heat energy	nongold
+87	a piece is a part of a whole	nongold
+88	a type is synonymous with a kind	nongold
+89	metal is a thermal; thermal energy conductor	nongold
+90	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+91	speed up means increase	nongold
+92	vibration is a kind of motion	nongold
+93	a wheeled vehicle requires smooth surfaces	nongold
+94	skidding is a kind of motion	nongold
+95	to serve as means to be used as	nongold
+96	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+97	if an object slides across another object then those objects are touching	nongold
+98	paper cups are made of paper	nongold
+99	low means down	nongold

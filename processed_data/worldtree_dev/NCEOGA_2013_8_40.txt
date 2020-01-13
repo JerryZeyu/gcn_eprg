@@ -1,0 +1,102 @@
+Question	How would smoking tobacco most likely have a negative impact on the ability of an individual to succeed at physical activities?	question
+Answer	It decreases stamina and cardiovascular efficiency.	answer
+0	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	gold
+1	smoking tobacco decreases stamina; cardiovascular efficiency	gold
+2	exercise is a kind of physical activity	nongold
+3	exercise means physical fitness	nongold
+4	negative impact is the opposite of positive impact	nongold
+5	decreasing something negative has a positive impact on a thing	nongold
+6	inability is the opposite of ability	nongold
+7	exercise has a positive impact on a human's health	nongold
+8	person is synonymous with human	nongold
+9	an increase is the opposite of a decrease	nongold
+10	performance is similar to ability	nongold
+11	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+12	a person is a kind of animal	nongold
+13	decreasing something positive has a negative impact on a thing	nongold
+14	a human is a kind of animal	gold
+15	to impact means to affect	nongold
+16	impact means effect	nongold
+17	an animal is a kind of organism	gold
+18	human is a kind of organism	nongold
+19	to lower means to decrease	nongold
+20	harming something has a  negative impact on; effect on that something	nongold
+21	exercise increases a body's strength	nongold
+22	to reduce means to decrease	nongold
+23	exercise has a  positive impact on a body's strength	nongold
+24	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	gold
+25	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+26	human is similar to individual	gold
+27	if something is required for a process then that something positively impacts that process	nongold
+28	a decrease is a kind of change	nongold
+29	low is similar to decrease	nongold
+30	physical fitness is similar to athletic ability	nongold
+31	physical fitness is an acquired characteristic	nongold
+32	high is similar to increase	nongold
+33	to cause means to have an effect	nongold
+34	action means activity	nongold
+35	less is similar to decrease	nongold
+36	ability is a kind of characteristic	nongold
+37	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+38	not efficient means inefficient	nongold
+39	an animal is a kind of living thing	nongold
+40	to change means to have an effect	nongold
+41	an increase is a kind of change	nongold
+42	an organism is a living thing	nongold
+43	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+44	helping something has a  positive impact on that something	nongold
+45	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+46	the body is a part of an organism	nongold
+47	able is the opposite of unable	nongold
+48	change is a kind of impact	nongold
+49	if an organism undertakes an action with a negative effect , then that organism will learn to do that action less	nongold
+50	increase means more	nongold
+51	if a living thing requires something then that something has a positive impact on that living thing	nongold
+52	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+53	smoking causes direct damage to the lungs	nongold
+54	the ability to do means be able to do	nongold
+55	as the ability  to do something decreases , doing that something will be harder	nongold
+56	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+57	a negative impact is a kind of consequence; risk	nongold
+58	a positive impact is a helpful effect	nongold
+59	a living thing is a kind of object	nongold
+60	greater means higher; more in value	nongold
+61	little is similar to decrease	nongold
+62	too much is similar to increase	nongold
+63	requiring is similar to needing help	nongold
+64	a factor impacts something	nongold
+65	lower means less	nongold
+66	a source of something increases the amount of that something	nongold
+67	a concern; a problem is a possible negative impact	nongold
+68	to be used for something means to be required by that something	nongold
+69	to try means to make an effort	nongold
+70	often is similar to likely	nongold
+71	if something emits something else then that something increases the amount of that something else	nongold
+72	something harmful can cause harm	nongold
+73	if something affects a part of something else then that something affects that something else	nongold
+74	each is similar to individual	nongold
+75	if something has a positive impact on health then that something can help to maintain good health	nongold
+76	commensalism has a positive impact on one organism while not harming the other organism	nongold
+77	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+78	a source of something emits; produces; generates; provides that something	nongold
+79	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+80	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+81	good means positive	nongold
+82	an event is a kind of action	nongold
+83	being unhealthy has a negative impact on an organism	nongold
+84	a positive impact is  a benefit	nongold
+85	low is the opposite of high	nongold
+86	degrading is similar to having a negative impact	nongold
+87	greatest means largest; highest; most amount of something	nongold
+88	a body part is a kind of object	nongold
+89	less is the opposite of more	nongold
+90	to be good for means to have a positive impact on	nongold
+91	to slow; to slow down decreases speed	nongold
+92	causing is a kind of affecting	nongold
+93	a problem has a negative impact on a thing	nongold
+94	can be means able to be	nongold
+95	gaining is similar to increasing	nongold
+96	deplete is similar to decrease	nongold
+97	affected means changed	nongold
+98	if an organism undertakes an action with a positive effect , then that organism will learn to do that action more	nongold
+99	a student is a kind of human	nongold

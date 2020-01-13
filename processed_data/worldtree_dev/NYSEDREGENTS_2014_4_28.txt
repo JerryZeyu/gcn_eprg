@@ -1,0 +1,102 @@
+Question	Large birds have been eating small animals in an area. If all of the large birds died from a disease, the number of small animals in the area would probably	question
+Answer	increase	answer
+0	if an organism dies then the population of that organism will decrease	nongold
+1	disease means illness	nongold
+2	population is a measure of the number of a species in an environment	nongold
+3	an environment means an area	gold
+4	if a living thing dies then that living thing is dead	nongold
+5	killing a living thing decreases the number; population size of that living thing	nongold
+6	some birds are predators	gold
+7	reproduction increases the number; population of a living thing	nongold
+8	a bird is a kind of living thing	nongold
+9	birds sometimes eat insects	nongold
+10	a bird is a kind of animal	nongold
+11	predators eat prey	nongold
+12	larger means greater; higher; more; increase in size	nongold
+13	killing means harming something causing death	gold
+14	population increase means more survive	nongold
+15	a population is made of one type of organism in an area	nongold
+16	high is similar to increase	nongold
+17	death means to die	gold
+18	an increase is the opposite of a decrease	nongold
+19	survive means live	nongold
+20	survive means live	nongold
+21	a predator eats other animals for food	nongold
+22	eating an animal; a plant means killing that animal; that plant	nongold
+23	dead organisms are a source of disease	nongold
+24	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+25	if an amount of objects decreases then those objects are fewer in number	nongold
+26	many means high in number	nongold
+27	a predator usually kills its prey to eat it	nongold
+28	harming an animal species causes that animal's population to decrease	gold
+29	an increase is a kind of change	nongold
+30	an animal is a kind of living thing	nongold
+31	an animal; living thing requires nutrients for survival	nongold
+32	an organism is a living thing	nongold
+33	to lower means to decrease	nongold
+34	an animal is a kind of organism	nongold
+35	disease has a negative impact on an organism	nongold
+36	if an organism eats something then that something is a source of frood to that organism	nongold
+37	nonliving; non-living; die is the opposite of living; alive; live	nongold
+38	low is similar to decrease	nongold
+39	harming an organism can cause that organism to die	nongold
+40	increase means more	nongold
+41	killing means changing a living thing from alive to dead by harming	nongold
+42	a decrease is a kind of change	nongold
+43	to eat means to consume food	nongold
+44	to prey on an animal means to eat that animal	nongold
+45	eating something decreases the amount of that something	nongold
+46	harming an animal species has a  negative impact on the population size of that species	nongold
+47	place means area	nongold
+48	dying is the opposite of living; surviving	nongold
+49	harming something has a  negative impact on; effect on that something	nongold
+50	small is the opposite of large	nongold
+51	amount is similar to number	nongold
+52	eating prey requires catching prey	nongold
+53	fewer means lower; less in number	nongold
+54	as population of predators increases , the population of prey will decrease in an environment	nongold
+55	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+56	an animal needs to eat food for nutrients	nongold
+57	less is similar to decrease	nongold
+58	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+59	as  population of prey decreases , the population of predators will  decrease	nongold
+60	as population of predators decreases , the population of prey will increase in an environment	gold
+61	a living thing is a kind of object	nongold
+62	predators; carnivores; omnivores eat other animals	gold
+63	a plant; living thing requires food for survival	nongold
+64	a mammal is a kind of animal	nongold
+65	if a new predator begins eating prey then the population of that prey will decrease	nongold
+66	smaller means less; lower in size	nongold
+67	food is what an animal eats	nongold
+68	an animal is a member of an animal species	nongold
+69	animals; living things live and feed in their habitats; near their habitats	nongold
+70	die out means become extinct	nongold
+71	an insect is a kind of prey	nongold
+72	greatest means largest; highest; most amount of something	nongold
+73	diet means what an animal eats	nongold
+74	prey is a kind of food for predators	nongold
+75	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+76	little is similar to decrease	nongold
+77	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+78	birds sometimes eat berries;seeds	nongold
+79	an insect is a kind of animal	nongold
+80	a predator is a kind of animal	gold
+81	as the cause of something decreases , that something will decrease	nongold
+82	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+83	become prey means get eaten	nongold
+84	live means to be alive	nongold
+85	life means living things	nongold
+86	scavengers eat dead organisms	nongold
+87	greater means higher; more in value	nongold
+88	dead means not alive	nongold
+89	if members of a species are born; survive then the population of that species increases	nongold
+90	most means over 50% of something	nongold
+91	an insect usually has a small size	nongold
+92	larger; bigger is the opposite of smaller	nongold
+93	a source of something increases the amount of that something	nongold
+94	negative impacts on a species will decrease populations of a species	nongold
+95	largest amount means most	nongold
+96	prey  is a kind of animal	nongold
+97	if a population decreases to zero then that organism is extinct	nongold
+98	an animal requires enough nutrients to maintain good health; survive	nongold
+99	a food contains nutrients for living things	nongold

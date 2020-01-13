@@ -1,0 +1,101 @@
+0	deforested area means an area where trees have been cut down	nongold
+1	clearing a forest is similar to deforestation	nongold
+2	low is similar to decrease	nongold
+3	roots are a part of a plant; tree	nongold
+4	clearing a forest means humans cutting down the trees	nongold
+5	An example of replacing a natural resource is planting new trees where a forest once stood	nongold
+6	resource management means managing the use of resources	nongold
+7	a forest contains  lots of plants; trees	nongold
+8	harming something has a  negative impact on; effect on that something	nongold
+9	best means most positive	nongold
+10	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+11	planting trees is the opposite of cutting down trees	gold
+12	a process usually requires all of the stages in that process	nongold
+13	Timber companies can best manage the number of trees in forests by	question
+14	negative impact is the opposite of positive impact	nongold
+15	harvesting is a kind of using	nongold
+16	four is a kind of number	nongold
+17	replanting  a plant means replacing that plant	nongold
+18	woodland means forest	nongold
+19	to be used for something means to be required by that something	nongold
+20	amount is similar to number	nongold
+21	the number of parts of something is a property of that something	nongold
+22	if something has a positive impact on something else then that something is important to that something else	nongold
+23	to reduce means to decrease	nongold
+24	requiring something means needing that something	nongold
+25	requiring is similar to needing help	nongold
+26	a tree is a kind of plant	nongold
+27	damage has a negative impact on a thing	nongold
+28	plants are a kind of resource	nongold
+29	a decrease is a kind of change	nongold
+30	a renewable resource is a kind of naturally replaced resource	nongold
+31	an event is a kind of action	nongold
+32	good means positive	nongold
+33	less is similar to decrease	nongold
+34	planting is a kind of human action	nongold
+35	increase means more	nongold
+36	a forest is a kind of ecosystem	nongold
+37	removing trees is a kind of task	nongold
+38	deforestation is the process of cutting down trees	nongold
+39	a process is a kind of event	nongold
+40	if a resource is limited in supply then that resource needs to be replaced	nongold
+41	vegetation means plants	nongold
+42	decreasing something positive has a negative impact on a thing	nongold
+43	trees are a renewable resource	nongold
+44	trees are a kind of natural resource	nongold
+45	renewable is the opposite of nonrenewable	nongold
+46	an increase is a kind of change	nongold
+47	an increase is the opposite of a decrease	nongold
+48	a renewable resource is a kind of natural resource	nongold
+49	planting native plants has a  positive impact on an ecosystem	nongold
+50	many means high in number	nongold
+51	green plants are a kind of producer	nongold
+52	if an amount of objects decreases then those objects are fewer in number	nongold
+53	a rain forest is a kind of forest	nongold
+54	if something causes a process then that something is required for that process	nongold
+55	cutting down a forest means cutting down the trees in that forest	nongold
+56	replacement means something that is replaced	nongold
+57	solution is similar to a positive impact	nongold
+58	planting trees has a  positive impact on an ecosystem	nongold
+59	if something is eliminated then the amount of that something decreases	nongold
+60	if something does not have to be replaced for a long time then that something will save money	nongold
+61	trees are a kind of resource	nongold
+62	wood is a kind of resource	nongold
+63	people can plant trees	nongold
+64	replace means change from one thing into  another	nongold
+65	helping something has a  positive impact on that something	nongold
+66	planting trees to replace what they cut down.	answer
+67	logging is when humans cut down trees; forests for wood	nongold
+68	removing a forest means cutting down the trees in that forest	nongold
+69	managing the number of something is similar to replacing that something	nongold
+70	conserving resources has a positive impact on the environment	nongold
+71	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+72	using less of a resource means conserving that resource	nongold
+73	a tree can be replaced by planting a new tree each time one is cut down	nongold
+74	one is a kind of number	nongold
+75	replenish is similar to replace	nongold
+76	destroying a forest means cutting down the trees in that forest	nongold
+77	to lower means to decrease	nongold
+78	An example of managing the use of something is using less of that something	nongold
+79	better means good	nongold
+80	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+81	a billion is a kind of  number	nongold
+82	An example of managing; maintaining the number; the use of something is replacing that something	gold
+83	removing a forest means cutting down a forest	nongold
+84	decreasing something negative has a positive impact on a thing	nongold
+85	a forest is a kind of environment	nongold
+86	a renewable resource can be replaced	nongold
+87	forest is synonymous with wooded area	nongold
+88	clearing is similar to removing	nongold
+89	greatest means largest; highest; most amount of something	nongold
+90	timber companies cut down trees	gold
+91	fewer means lower; less in number	nongold
+92	a tree contains wood	nongold
+93	population is a measure of the number of a species in an environment	nongold
+94	planting trees is sometimes a human activity	nongold
+95	to depend on; to rely on; to need means to require	nongold
+96	how many means what number	nongold
+97	wood is a renewable resource	nongold
+98	replacing something causes that something to decrease	nongold
+99	removing forests means removing animal habitats	nongold
+100	if a tree is cut down then that tree will die	nongold

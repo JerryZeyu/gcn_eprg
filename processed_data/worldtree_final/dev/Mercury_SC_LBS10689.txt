@@ -1,0 +1,102 @@
+0	Which invention uses natural magnetism?	question
+1	compass	answer
+2	natural magnetism is used for pointing north by a compass	nongold
+3	an invention is a kind of tool	gold
+4	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+5	a compass is a kind of object	nongold
+6	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+7	a magnet is a kind of object	nongold
+8	inventing a tool allows; enables that tool to be used	nongold
+9	an electromagnet is a kind of electric magnet	nongold
+10	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	nongold
+11	developing means creating; inventing	nongold
+12	to make means to invent	nongold
+13	device means tool	nongold
+14	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+15	magnetism is a kind of physical property	nongold
+16	a compass's needle lines up with Earth's magnetic poles	gold
+17	a needle floating in water is a kind of compass	nongold
+18	humans usually develop inventions that they require	nongold
+19	made by humans; artificial is the opposite of natural	nongold
+20	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+21	technology is similar to tool	nongold
+22	an electromagnet is a kind of device	nongold
+23	instrument means device	nongold
+24	magnetic force means magnetism	nongold
+25	a device is a kind of object	nongold
+26	a compass is used to navigate oceans; seas	nongold
+27	instrument means tool	nongold
+28	manufacture means make	nongold
+29	magnetism is a kind of force	nongold
+30	materials are used for making products by manufacturers	nongold
+31	Magnetite is always magnetic	nongold
+32	a compass is a kind of tool for determining direction by pointing north	gold
+33	a horseshoe magnet is a kind of magnet	nongold
+34	a compass is used for determining direction	gold
+35	a tool is a kind of object	nongold
+36	using an object often requires creating that object	nongold
+37	an electric car is a kind of invention	nongold
+38	a machine is a kind of  device	nongold
+39	to discover means to make a discovery	nongold
+40	magnetism does not require contact between objects to act	nongold
+41	electromagnets generate magnetic fields	nongold
+42	magnetism is a kind of energy	nongold
+43	magnetism can cause objects to repel each other	nongold
+44	objects are made of materials; substances; matter	nongold
+45	to be used for something means to be required by that something	nongold
+46	a magnet contains a north pole; south pole	nongold
+47	electric currents produce magnetic fields	nongold
+48	emit means produce	nongold
+49	Earth's magnetic field causes compasses to point North	gold
+50	something is used for that something's purpose	nongold
+51	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+52	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+53	the invention of the airplane occurred in 1903	nongold
+54	can be means able to be	nongold
+55	make means produce	nongold
+56	a simple machine is a kind of tool	nongold
+57	magnet can be  used for separating a magnetic material from a mixture of a magnetic and nonmagnetic material	nongold
+58	metal is sometimes magnetic	nongold
+59	form means kind	nongold
+60	a source of something emits; produces; generates; provides that something	nongold
+61	material means substance	nongold
+62	a machine is a kind of object	nongold
+63	steel; carbon steel is always ferromagnetic; magnetic	nongold
+64	if an object is made of a material then that object has the properties of that material	nongold
+65	if something contains a large amount of magnetic material then that something will attract magnets	nongold
+66	to cause means to make	nongold
+67	magnetism can affect objects that are not touching	nongold
+68	to create means to make	nongold
+69	if something requires something else then that something requires a source of that something else	nongold
+70	substances are made of matter	nongold
+71	soft iron; iron is always ferromagnetic; magnetic	nongold
+72	where something  comes from is a source of that something	nongold
+73	process is similar to method	nongold
+74	electrical devices are used for industrial purposes; household purposes by humans	nongold
+75	to use means to utilize	nongold
+76	if something causes a process then that something is required for that process	nongold
+77	technology is used for application of science	nongold
+78	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+79	a vehicle is a kind of object	nongold
+80	a process is a kind of event	nongold
+81	when the needle of a compass lines up with Earth's magnetic poles , the needle points north	nongold
+82	motion is when moves an object; something to a direction	nongold
+83	a magnetic field is a kind of force	nongold
+84	to produce means to create	nongold
+85	the automobile is a kind of technology	nongold
+86	generate means produce	nongold
+87	a motion is a kind of event; action	nongold
+88	an object; material; substance comes from that object or material's source	nongold
+89	if something comes from something else then that something else is a source of that something	nongold
+90	to be formed means to be originated	nongold
+91	creating means making	nongold
+92	an insulator is a kind of material	nongold
+93	Magnetoplumbite is always magnetic	nongold
+94	cobalt is always ferromagnetic; magnetic	nongold
+95	scientific discoveries sometimes require specific technologies	nongold
+96	electricity is made of moving charges; moving charged particles	nongold
+97	magnetic separation is using a magnet to attract magnetic material from the mixture of magnetic and nonmagnetic material	nongold
+98	if something is a raw material in a process then that something is required for that process	nongold
+99	an electric motor is a kind of electrical device	nongold
+100	to be a source of something means to cause that something	nongold
+101	experimentation requires measuring	nongold

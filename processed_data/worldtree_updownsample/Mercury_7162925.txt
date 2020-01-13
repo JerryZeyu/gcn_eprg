@@ -1,0 +1,62 @@
+0	weight means the force of gravity acting on an object	gold
+1	an animal is a kind of living thing	gold
+2	an part of an object is smaller than the entire object	nongold
+3	a student is a kind of human	gold
+4	size; amount of space means volume	nongold
+5	an increase is the opposite of a decrease	nongold
+6	weight is a kind of property	nongold
+7	a scale is used for measuring weight	gold
+8	a living thing is a kind of object	gold
+9	length is a measure of distance from one end of an object to the other end of that object	nongold
+10	a student is a kind of human	gold
+11	mass; weight is a property of matter; objects; materials	nongold
+12	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+13	mass is a property of objects; matter	nongold
+14	exerting force on an object means a force acts on an object	nongold
+15	to cause means to have an effect	nongold
+16	A student stands on a scale, and the scale reads 85 pounds. What is being measured by the scale?	question
+17	weight means the force of gravity acting on an object	gold
+18	the force of gravity acting on the student	answer
+19	to act on means to affect	nongold
+20	weight means the force of gravity acting on an object	gold
+21	a type is synonymous with a kind	nongold
+22	can be means able to be	nongold
+23	work is a measure of the product of force and distance	nongold
+24	a balance is a kind of instrument for measuring mass; measuring weight	nongold
+25	a kilogram is a kind of unit for measuring mass	nongold
+26	a container contains objects; material; substances	nongold
+27	seconds are used to measure time	nongold
+28	a human is a kind of animal	gold
+29	a living thing is a kind of object	gold
+30	a human is a kind of animal	gold
+31	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+32	a force is a kind of push or pull on an object	nongold
+33	a scale is used for measuring weight	gold
+34	gravity is a kind of force	nongold
+35	the force of gravity acting on the student	answer
+36	low is the opposite of high	nongold
+37	a scale is used for measuring weight	gold
+38	the force of gravity acting on the student	answer
+39	affected means changed	nongold
+40	to change means to have an effect	nongold
+41	high means a lot of something	nongold
+42	an animal is a kind of living thing	gold
+43	measuring requires reading a measurement	nongold
+44	a human is a kind of animal	gold
+45	A student stands on a scale, and the scale reads 85 pounds. What is being measured by the scale?	question
+46	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+47	as the mass of an object increases , the force of gravity on that object will increase	nongold
+48	a student is a kind of human	gold
+49	A student stands on a scale, and the scale reads 85 pounds. What is being measured by the scale?	question
+50	form means kind	nongold
+51	the force of gravity acting on the student	answer
+52	a living thing is a kind of object	gold
+53	an animal is a kind of living thing	gold
+54	as the force of gravity increases , the weight of objects will increase	nongold
+55	A student stands on a scale, and the scale reads 85 pounds. What is being measured by the scale?	question
+56	a gram  is a kind of unit for measuring mass	nongold
+57	variable means able to change	nongold
+58	a surface is a part of a material	nongold
+59	an object exerts an upward force objects that sit on that object	nongold
+60	objects are made of materials; substances; matter	nongold
+61	calculation means measurement	nongold

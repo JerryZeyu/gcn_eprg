@@ -1,0 +1,102 @@
+Question	Which landforms are most like hills but are much taller?	question
+Answer	mountains	answer
+0	a mountain is taller than a hill	gold
+1	a mountain; hill is taller than the land around it	gold
+2	a mountain is a kind of landform	gold
+3	hills are a kind of small mountain	nongold
+4	land is a kind of landform	nongold
+5	tall means great in height	nongold
+6	rising means height; altitude increases	nongold
+7	a landform is a kind of natural formation	nongold
+8	a mountain range contains mountains	nongold
+9	a mountain is high in altitude	nongold
+10	a landform is a kind of place	nongold
+11	a landform is a kind of place	nongold
+12	a landform is a kind of object	nongold
+13	a ridge is a kind of landform	nongold
+14	highest means largest; greatest; most in height	nongold
+15	shorter means smaller; less in  height	nongold
+16	a mountain is made of rocks; soil	nongold
+17	a hill is more rounded than a mountain	nongold
+18	a mountain; mountain range is a kind of environment	nongold
+19	taller means greater in height; size	nongold
+20	rising means elevation	nongold
+21	a mountain is a kind of land feature	nongold
+22	landform means surface feature; physical feature; land feature	nongold
+23	a mound is a kind of landform	nongold
+24	high means great in altitude	nongold
+25	high mountains with well-rounded peaks can be formed by collision of crustal plates; erosion	nongold
+26	a hill is a kind of place	nongold
+27	low means low in elevation; height; altitude	nongold
+28	the Appalachian Mountains are a kind of mountain	nongold
+29	to travel up means to rise	nongold
+30	piles of rock are a kind of landform	nongold
+31	high is similar to increase	nongold
+32	the surface of the Earth contains mountains	nongold
+33	valley is located between mountains; hills	nongold
+34	low is the opposite of high	nongold
+35	mountain area means mountain range	nongold
+36	rising means moving upward	nongold
+37	a mountain top is a part of a mountain	nongold
+38	rising is a kind of motion	nongold
+39	mountains are formed by earthquakes; volcanoes; plate tectonics	nongold
+40	a plain is a kind of landform	nongold
+41	Mount Everest is a kind of mountain	nongold
+42	mountain is a kind of geographic obstacles	nongold
+43	to ascend means to rise	nongold
+44	an island is a kind of landform	nongold
+45	furthest; farthest means greatest; most; highest in distance	nongold
+46	a hill is a kind of incline	nongold
+47	slope is a measure of the difference in elevation between one part of the land and another part of the land	nongold
+48	low means down	nongold
+49	the Himalayas are a kind of mountain range	nongold
+50	most means over 50% of something	nongold
+51	greatest means largest; highest; most amount of something	nongold
+52	a structure of something is synonymous with a part of that something	nongold
+53	larger means greater; higher; more; increase in size	nongold
+54	falling means height decreases	nongold
+55	the Appalachians are a kind of mountain range	nongold
+56	higher means greater; above in value; amount; number	nongold
+57	the Appalachians means the Appalachian Mountains	nongold
+58	increase means more	nongold
+59	summit means the top of the mountain	nongold
+60	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+61	low is similar to decrease	nongold
+62	to be made of something means to be formed of that something	nongold
+63	greater means higher; more in value	nongold
+64	up means upward	nongold
+65	the Alps are a kind of mountain range	nongold
+66	the Sierra Nevada is a kind of mountain range	nongold
+67	a floodplain is a kind of land; landform	nongold
+68	usually means most of the time	nongold
+69	at the top of a place means at the highest point of the place	nongold
+70	a volcano is a kind of landform	nongold
+71	an animal is a kind of living thing	nongold
+72	north is the opposite of south	nongold
+73	a rock is a kind of object	nongold
+74	a type is synonymous with a kind	nongold
+75	can be means able to be	nongold
+76	high means a lot of something	nongold
+77	mostly means being the most	nongold
+78	the surface of the Moon contains mountains	nongold
+79	climbing increases altitude	nongold
+80	mountains can  cause the water in the air mass to condense	nongold
+81	a whole is formed by its parts	nongold
+82	the properties of something are used for describing that something	nongold
+83	the ground is part of the Earth	nongold
+84	a canyon is a kind of landform	nongold
+85	height is a property of the size of an object	nongold
+86	not is similar to the opposite of	nongold
+87	a land mass is a kind of object	nongold
+88	a living thing is a kind of object	nongold
+89	all the other means the rest of	nongold
+90	composed of means made of	nongold
+91	to lower means to decrease	nongold
+92	a continent is a kind of large land mass	nongold
+93	a delta is a kind of geologic structure; landform	nongold
+94	a land feature is a kind of physical characteristic	nongold
+95	both means two	nongold
+96	a sand dune is a kind of hill	nongold
+97	height is a measure of length from the top of an object to the bottom of an object	nongold
+98	raising is a kind of motion	nongold
+99	altitude is the distance from the ground to an object in the sky	nongold

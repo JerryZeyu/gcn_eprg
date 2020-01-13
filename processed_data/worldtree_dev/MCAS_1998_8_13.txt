@@ -1,0 +1,102 @@
+Question	Which is not a major controversial issue associated with the use of nuclear power?	question
+Answer	the unemployment due to conversion to nuclear power	answer
+0	the disposal of nuclear waste products is a controversial issue associated with the use of nuclear power	gold
+1	to be used for something means to be required by that something	nongold
+2	problem is similar to issue	nongold
+3	to turn means to convert	nongold
+4	to convert means to change	nongold
+5	the health hazards in areas surrounding nuclear plants is a controversial issue associated with the use of nuclear power	gold
+6	conversion is a kind of process	nongold
+7	forming is similar to converting	nongold
+8	if something is a source of something else then that something is associated with that something else	nongold
+9	the thermal pollution of water bodies used for cooling is a controversial issue associated with the use of nuclear power	gold
+10	an increase is the opposite of a decrease	nongold
+11	a concern; a problem is a possible negative impact	nongold
+12	to lower means to decrease	nongold
+13	as the use of something decreases , the use of the source of that something will decrease	nongold
+14	converting is similar to producing	nongold
+15	due to means caused by	nongold
+16	a problem has a negative impact on a thing	nongold
+17	to use means to utilize	nongold
+18	high is similar to increase	nongold
+19	if something causes a process then that something is required for that process	nongold
+20	an increase is a kind of change	nongold
+21	a decrease is a kind of change	nongold
+22	less is similar to decrease	nongold
+23	electricity means electrical energy	nongold
+24	to be a source of something means to cause that something	nongold
+25	low is similar to decrease	nongold
+26	harming something has a  negative impact on; effect on that something	nongold
+27	negative impact is the opposite of positive impact	nongold
+28	less is the opposite of more	nongold
+29	something is used for that something's purpose	nongold
+30	to reduce means to decrease	nongold
+31	nuclear reactor generates electrical power	nongold
+32	as the cause of something decreases , that something will decrease	nongold
+33	if something is required for a process then that something positively impacts that process	nongold
+34	converting is a kind of function	nongold
+35	if something with the same function as something else is being used then the use of that something else decreases	nongold
+36	an event is a kind of action	nongold
+37	if something causes an increase in something else then that something produces that something else	nongold
+38	renewable is the opposite of nonrenewable	nongold
+39	converting is similar to turning into	nongold
+40	a source of something increases the amount of that something	nongold
+41	extreme means very high in value	nongold
+42	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+43	lower means less	nongold
+44	too much is similar to increase	nongold
+45	greatest means largest; highest; most amount of something	nongold
+46	converting is similar to generating	nongold
+47	a cause of something is a reason for that something	nongold
+48	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+49	if something requires something else then that something requires a source of that something else	nongold
+50	a source of something emits; produces; generates; provides that something	nongold
+51	increase means more	nongold
+52	to turn means to change	nongold
+53	if something gains something from something else then that something else is a source of that something	nongold
+54	impact means effect	nongold
+55	nuclear energy is a kind of energy	nongold
+56	change is a kind of impact	nongold
+57	affected means changed	nongold
+58	little is similar to decrease	nongold
+59	convert is similar to transfer	nongold
+60	a process is a kind of event	nongold
+61	deplete is similar to decrease	nongold
+62	if something is a raw material in a process then that something is required for that process	nongold
+63	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+64	can be means able to be	nongold
+65	no longer means used to be	nongold
+66	to change means to cause a change	nongold
+67	usually means most of the time	nongold
+68	person is synonymous with human	nongold
+69	generating power is a kind of positive impact	nongold
+70	most means over 50% of something	nongold
+71	less means a reduced amount	nongold
+72	if an element is converted into another element then that element is lost	nongold
+73	a change is a kind of event	nongold
+74	to impact means to affect	nongold
+75	producing is similar to causing	nongold
+76	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+77	to depend on; to rely on; to need means to require	nongold
+78	if something releases something else then that something is the source of that something else	nongold
+79	not is similar to the opposite of	nongold
+80	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+81	coal is a kind of fossil fuel	nongold
+82	greater means higher; more in value	nongold
+83	fewer means lower; less in number	nongold
+84	to cause means to have an effect	nongold
+85	action can cause change	nongold
+86	gases released during the use of fossil fuels causes global warming	nongold
+87	generate means produce	nongold
+88	if something comes from something else then that something else is a source of that something	nongold
+89	United States is located in the northern hemisphere	nongold
+90	if something transfers something else then that something is a source of something else	nongold
+91	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+92	events occur at a specific place; at a specific time; with a specific frequency	nongold
+93	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+94	a factor impacts something	nongold
+95	if something used to be in the past then that something  has changed	nongold
+96	to change means to have an effect	nongold
+97	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+98	nuclear reactor can cause long-term waste disposal problems	nongold
+99	something that happens is a kind of event	nongold

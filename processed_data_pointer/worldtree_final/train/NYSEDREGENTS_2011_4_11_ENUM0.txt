@@ -1,0 +1,102 @@
+0	folding an object causes that object to change shape	nongold
+1	shape is a property of the appearance of an object	nongold
+2	surface area is a property of shape	nongold
+3	a physical property is a kind of property	nongold
+4	a type is synonymous with a kind	nongold
+5	a landform is a kind of object	nongold
+6	shape is a kind of physical property	nongold
+7	paper is a kind of material	nongold
+8	variable means able to change	nongold
+9	state of matter is a kind of physical property	nongold
+10	appearance is a property of objects; materials	nongold
+11	shape is a property of an object	gold
+12	paper can  not be melted	nongold
+13	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+14	a living thing is a kind of object	nongold
+15	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+16	structure is similar to shape	nongold
+17	what something needs is a property of that something	nongold
+18	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+19	A student crumples up a sheet of paper. Which property of the paper has changed?	question
+20	break down means change from a whole into pieces	nongold
+21	distance is a property of space and includes ordered values of close; far	nongold
+22	length is a property of the shape of an object	nongold
+23	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+24	size is an extensive property	nongold
+25	if something is definite in shape then that something will not change shape easily	nongold
+26	variability of shape; variability of volume is a kind of physical property	nongold
+27	matter with variable shape changes shape in different container	nongold
+28	an object has properties	nongold
+29	objects are made of materials; substances; matter	nongold
+30	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+31	to change means to become different	nongold
+32	a property is similar to a factor	nongold
+33	state means form	nongold
+34	a sheet of paper is a kind of object	gold
+35	structure is a property of an object; a material; a substance	nongold
+36	appearance  is a kind of physical property	nongold
+37	the  property of something is the same for the things of same kind	nongold
+38	a  chemical property is a kind of  property	nongold
+39	a sheet of is similar to a piece of	nongold
+40	sharpness is a property of shape	nongold
+41	bending is a kind of change of shape	nongold
+42	to be characterized by  a property means to have that property	nongold
+43	to change into means to form	nongold
+44	shape is an extensive property	nongold
+45	straight is a kind of shape	nongold
+46	mass; weight is an extensive property	nongold
+47	no longer means used to be	nongold
+48	depth is a property of the shape of an object	nongold
+49	stretching is a kind of change in shape	nongold
+50	Matter in the gas phase has variable shape	nongold
+51	color is a kind of physical; visual property	nongold
+52	answering questions requires information	nongold
+53	to break down means to break into smaller pieces	nongold
+54	density is a property of an object; a substance and includes ordered values of dense; not dense	nongold
+55	a paper is a kind of object	nongold
+56	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+57	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+58	a structure is a kind of feature	nongold
+59	an increase is a kind of change	nongold
+60	an object is made of its parts	nongold
+61	a structure of something is synonymous with a part of that something	nongold
+62	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+63	definite shape means the shape of an object stays the same when moved to different spot	nongold
+64	a human is a kind of animal	nongold
+65	characteristic means property	nongold
+66	irregular is a kind of shape	nongold
+67	a student is a kind of human	nongold
+68	to rearrange is to change position; order	nongold
+69	shape of the parts of something is a property of that something	nongold
+70	sharpening an object causes that object to change shape	nongold
+71	elliptical is a kind of shape	nongold
+72	breaking down into pieces is a kind of change in shape	nongold
+73	size; amount of space means volume	nongold
+74	elliptical is a kind of shape	nongold
+75	shape is a kind of characteristic	nongold
+76	crumble means break down	nongold
+77	breaking down an object changes that object's shape and that object's mass	nongold
+78	a property is a kind of information	nongold
+79	classifying means grouping objects; materials by their properties	nongold
+80	changed is the opposite of unchanged	nongold
+81	a circle is a kind of shape	nongold
+82	tearing an object changes that object's shape	nongold
+83	an part of an object is smaller than the entire object	nongold
+84	length is a part of size	nongold
+85	particles in objects are a kind of matter	nongold
+86	length is a measure of distance from one end of an object to the other end of that object	nongold
+87	Matter in the liquid phase has variable shape	nongold
+88	a property of something is a feature of that something	nongold
+89	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+90	unchanged means not changed	nongold
+91	form means kind	nongold
+92	Matter in the solid phase has definite shape	nongold
+93	an animal is a kind of living thing	nongold
+94	state of matter at room temperature is a kind of physical property	nongold
+95	the shape  of an object can be discovered through feeling that object; touching that object	nongold
+96	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+97	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	gold
+98	color is a property of  an object; a material	nongold
+99	as amount; size of something increases , the intensive properties of that something will not change	nongold
+100	to turn means to change	nongold
+101	shape	answer

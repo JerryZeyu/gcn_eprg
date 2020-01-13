@@ -1,0 +1,71 @@
+0	to cause means to have an effect	nongold
+1	an environment means an area	nongold
+2	Many states require vehicles to be examined and to meet safety and pollution standards. What impact might vehicle inspections have on the environment?	question
+3	examining is a kind of process	nongold
+4	a factor impacts something	nongold
+5	pollution is a source of pollutants	gold
+6	waste has a  negative impact on the environment	nongold
+7	to emit means to release	gold
+8	too much is similar to increase	nongold
+9	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	gold
+10	a car is a kind of object	nongold
+11	something dangerous can cause harm	nongold
+12	adverse effect means negative impact	nongold
+13	a decrease is a kind of change	nongold
+14	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	gold
+15	Many states require vehicles to be examined and to meet safety and pollution standards. What impact might vehicle inspections have on the environment?	question
+16	pollution has a negative impact on the environment; air quality; water quality; society	gold
+17	solution is similar to a positive impact	nongold
+18	living things in a polluted environment often contain pollutants	nongold
+19	contaminated means polluted	nongold
+20	if a living thing requires something then that something has a positive impact on that living thing	nongold
+21	fewer means lower; less in number	gold
+22	Fewer pollutants will be released by vehicles.	answer
+23	many vehicles emit pollution into the air	gold
+24	water is when humans pollute the environment with pollutants	nongold
+25	less is the opposite of more	nongold
+26	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	gold
+27	causing is a kind of affecting	nongold
+28	fewer means lower; less in number	gold
+29	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	nongold
+30	Fewer pollutants will be released by vehicles.	answer
+31	a vehicle inspection is when a person examines a vehicle for safety; pollution standards	gold
+32	to study means to examine	nongold
+33	investigation sometimes requires experimentation	nongold
+34	to reduce means to decrease	gold
+35	pollution is a source of pollutants	gold
+36	a positive impact is  a benefit	nongold
+37	Many states require vehicles to be examined and to meet safety and pollution standards. What impact might vehicle inspections have on the environment?	question
+38	to impact means to affect	nongold
+39	helping something has a  positive impact on that something	nongold
+40	Many states require vehicles to be examined and to meet safety and pollution standards. What impact might vehicle inspections have on the environment?	question
+41	to reduce means to decrease	gold
+42	to emit means to release	gold
+43	harming something has a  negative impact on; effect on that something	nongold
+44	many vehicles emit pollution into the air	gold
+45	a vehicle is a kind of object	nongold
+46	Fewer pollutants will be released by vehicles.	answer
+47	pollutants have a negative impact on the environment; air quality	nongold
+48	a vehicle for something allows; enables that something to occur	nongold
+49	humans cause pollution	nongold
+50	less is similar to decrease	gold
+51	less is similar to decrease	gold
+52	pollution is a source of pollutants	gold
+53	many vehicles emit pollution into the air	gold
+54	pollution has a negative impact on the environment; air quality; water quality; society	gold
+55	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+56	polluting is a kind of activity	nongold
+57	less is similar to decrease	gold
+58	fewer means lower; less in number	gold
+59	Fewer pollutants will be released by vehicles.	answer
+60	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+61	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+62	to emit means to release	gold
+63	pollution has a negative impact on the environment; air quality; water quality; society	gold
+64	a vehicle inspection is when a person examines a vehicle for safety; pollution standards	gold
+65	an automobile is a kind of vehicle	nongold
+66	low is similar to decrease	nongold
+67	acid rain has a  negative impact on  water quality	nongold
+68	a vehicle inspection is when a person examines a vehicle for safety; pollution standards	gold
+69	to reduce means to decrease	gold
+70	a concern; a problem is a possible negative impact	nongold

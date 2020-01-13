@@ -1,0 +1,61 @@
+0	trees are a kind of resource	gold
+1	paper is a kind of material	nongold
+2	Recycling of a resource, such as paper, is important because	question
+3	creating paper requires cutting down trees	gold
+4	recycling reduces the resources needed to make something	gold
+5	Recycling of a resource, such as paper, is important because	question
+6	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+7	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+8	wasting  a resource harms that resource	nongold
+9	using recycled paper reduces the cutting of new trees.	answer
+10	an increase is a kind of change	nongold
+11	trees are a source of paper	gold
+12	cutting down a forest means cutting down the trees in that forest	nongold
+13	paper is recyclable	nongold
+14	paper is not durable	nongold
+15	cutting means changing the object from a whole into smaller pieces	nongold
+16	using recycled paper reduces the cutting of new trees.	answer
+17	using resources decreases those resources	nongold
+18	replacing is similar to recycling	nongold
+19	An example of replacing a natural resource is planting new trees where a forest once stood	nongold
+20	trees are a kind of resource	gold
+21	recyclable means a material can be recycled	nongold
+22	a tree is a kind of living thing	nongold
+23	replacing something causes that something to decrease	nongold
+24	trees are a source of paper	gold
+25	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+26	Recycling of a resource, such as paper, is important because	question
+27	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+28	using less resources usually causes money to be saved	nongold
+29	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+30	trees are a kind of resource	gold
+31	recycling has a  positive impact on the environment	gold
+32	green plants are a kind of producer	nongold
+33	recycling reduces the resources needed to make something	gold
+34	creating paper requires cutting down trees	gold
+35	recycling has a  positive impact on the environment	gold
+36	using recycled paper reduces the cutting of new trees.	answer
+37	recycling means using over again	nongold
+38	using recycled paper reduces the cutting of new trees.	answer
+39	a material is a kind of resource	nongold
+40	creating paper requires cutting down trees	gold
+41	less means a reduced amount	nongold
+42	An example of avoiding waste is using an object; a material more than once	nongold
+43	if something is a raw material in a process then that something is required for that process	nongold
+44	if something requires something else then that something else is important to that something	nongold
+45	recycling reduces the resources needed to make something	gold
+46	as the use of something decreases , the use of the source of that something will decrease	nongold
+47	using less of a resource means conserving that resource	nongold
+48	a plant is a kind of living thing	nongold
+49	recycling is a kind of action	nongold
+50	if something is required for a process then that something positively impacts that process	nongold
+51	wood is a kind of resource	nongold
+52	high is similar to increase	nongold
+53	a decrease is a kind of change	nongold
+54	waste must be removed	nongold
+55	recycling has a  positive impact on the environment	gold
+56	if a resource is limited in supply then that resource should be recycled	nongold
+57	Recycling of a resource, such as paper, is important because	question
+58	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+59	trees are a source of paper	gold
+60	An example of recycling is using an object to make a new object	nongold

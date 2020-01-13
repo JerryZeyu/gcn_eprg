@@ -1,0 +1,102 @@
+Question	Which plant part absorbs minerals?	question
+Answer	root	answer
+0	plants absorb nutrients; water; oxygen from soil into themselves through their roots	gold
+1	roots are a part of a plant; tree	gold
+2	roots are a vehicle for absorbing water and nutrients from soil into the plant	nongold
+3	a root is a kind of object	nongold
+4	plant parts are made of plants	nongold
+5	a plant is a kind of organism	nongold
+6	unit is similar to part	nongold
+7	a plant is a kind of living thing	nongold
+8	a component of something means a part of that something	nongold
+9	some minerals are nutrients	gold
+10	a mineral is a kind of solid; natural material	nongold
+11	a stem is often a part of plant	nongold
+12	a component means a part of	nongold
+13	a leaf is a kind of plant	nongold
+14	a source of something emits; produces; generates; provides that something	nongold
+15	absorption is a kind of process	nongold
+16	soil contains water; humus; weathered rocks; organic matter	nongold
+17	a food contains nutrients for living things	nongold
+18	a leaf is a part of a  green plant	nongold
+19	if something is a part of something else then that something else contains that something	nongold
+20	a plant stem is the vehicle for transporting water and food from roots to the rest of the plant	nongold
+21	a mineral is a kind of object	nongold
+22	soil contains nutrients for plants	nongold
+23	collecting is similar to absorbing	nongold
+24	if something is made of something; a material then that something contains that something; that material	nongold
+25	an organism is a living thing	nongold
+26	if something absorbs something else then that something will contain that something else	nongold
+27	when plant parts are mixed with soil then the amount  of oganic matter in the soil will increase	nongold
+28	arteries; veins transport nutrients; water; minerals throughout the body	nongold
+29	if something transfers something else then that something is a source of something else	nongold
+30	a plants; living things require water for survival; to grow	nongold
+31	soil is made of very small rocks; minerals	nongold
+32	an object is made of its parts	nongold
+33	if something releases something else then that something is the source of that something else	nongold
+34	take in means absorb	nongold
+35	food contains carbohydrates	nongold
+36	a cell absorbs nutrients	nongold
+37	if something gains something from something else then that something else is a source of that something	nongold
+38	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+39	nutrients are a kind of matter	nongold
+40	green plants are a kind of producer	nongold
+41	a whole is formed by its parts	nongold
+42	if something is a source of something else then that something usually contains that something else	nongold
+43	a plant; living thing requires nutrients to grow	nongold
+44	taking in something means receiving; absorbing; getting something	nongold
+45	a stem is used to store water by some plants	nongold
+46	a plant; living thing requires food for survival	nongold
+47	nutrients are a kind of substance	nongold
+48	a leaf performs photosynthesis; gas exchange	nongold
+49	a part of a process means a stage in a process	nongold
+50	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+51	if something requires something else then that something requires a source of that something else	nongold
+52	if an object is made of something then the parts of that object are made of that something	nongold
+53	a leaf is a part of a tree	nongold
+54	objects are made of materials; substances; matter	nongold
+55	made up of means contains; made of	nongold
+56	absorption is a kind of event	nongold
+57	a tree is a kind of plant	nongold
+58	rock is made of minerals	nongold
+59	an animal; living thing requires nutrients for survival	nongold
+60	material means substance	nongold
+61	a living thing is a kind of object	nongold
+62	a fern is a kind of plant	nongold
+63	special tissues in plants transport food; water; minerals throughout the plant	nongold
+64	sugars are transported from the leaves to the roots of a plant	nongold
+65	substances are made of matter	nongold
+66	a structure of something is synonymous with a part of that something	nongold
+67	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+68	to add means to increase	nongold
+69	food is a kind of substance	nongold
+70	to contain means to have inside	nongold
+71	nutrients are a kind of material	nongold
+72	provide is similar to give; make	nongold
+73	plant and animal matter means organic matter	nongold
+74	can be means able to be	nongold
+75	water is a kind of matter	nongold
+76	if something is made of something else , then that something else will be the component of that something	nongold
+77	a part of something is a property of that something	nongold
+78	sulfur is a kind of mineral	nongold
+79	classifying means grouping objects; materials by their properties	nongold
+80	if something comes from something else then that something else is a source of that something	nongold
+81	to lower means to decrease	nongold
+82	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+83	absorbing something harmful has a negative impact on a thing	nongold
+84	evaporation is a kind of process	nongold
+85	a tree is a kind of matter	nongold
+86	leafy vegetables are a good source of minerals	nongold
+87	a branch is a part of a tree	nongold
+88	a plant is a member of a plant species	nongold
+89	an animal is a kind of living thing	nongold
+90	plants are a source of oxygen through photosynthesis	nongold
+91	a tree is a kind of living thing	nongold
+92	gypsum is a kind of mineral	nongold
+93	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+94	fungi absorb nutrients from decaying tissue	nongold
+95	materials are made of matter	nongold
+96	where something  comes from is a source of that something	nongold
+97	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+98	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+99	to be made of something means to be formed of that something	nongold

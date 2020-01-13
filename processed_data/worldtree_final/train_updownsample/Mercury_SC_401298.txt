@@ -1,0 +1,66 @@
+0	living underground can be used for hiding from predators	gold
+1	a predator avoiding some types of prey is a learned behavior	nongold
+2	to prevent means to make it not happen	nongold
+3	death means to die	nongold
+4	underground home	answer
+5	eating prey requires catching prey	nongold
+6	an hawk is a kind of predator	gold
+7	organisms; living things live in their habitat; their home	gold
+8	an animal is a kind of living thing	gold
+9	fire causes harm to trees; to forests; to living things	nongold
+10	hiding can be used for avoiding predators	gold
+11	an owl is a kind of bird	nongold
+12	answering questions requires information	nongold
+13	underground means buried deep below other rocks	nongold
+14	organisms; living things live in their habitat; their home	gold
+15	a plant; living thing requires food for survival	nongold
+16	protecting something means preventing harm to that something	nongold
+17	hiding can be used for avoiding predators	gold
+18	underground home	answer
+19	an owl is a kind of predator	gold
+20	a human is a kind of animal	nongold
+21	food is what an animal eats	nongold
+22	survive means live	nongold
+23	escape means avoid	nongold
+24	avoiding  predators is synonymous with avoiding being eaten	gold
+25	an eagle is a kind of animal	nongold
+26	an hawk is a kind of predator	gold
+27	an owl is a kind of predator	gold
+28	an animal is a kind of living thing	gold
+29	an animal is a kind of organism	nongold
+30	avoiding  predators is synonymous with avoiding being eaten	gold
+31	underground home	answer
+32	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+33	an animal is a kind of living thing	gold
+34	living underground can be used for hiding from predators	gold
+35	killing means harming something causing death	nongold
+36	negative impact is the opposite of positive impact	nongold
+37	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+38	hawks;eagles eat snakes;lizards; rats; rabbits; mice	nongold
+39	harming an organism can cause that organism to die	nongold
+40	killing means changing a living thing from alive to dead by harming	nongold
+41	a predator usually kills its prey to eat it	nongold
+42	predators eat prey	nongold
+43	to help means to aid	nongold
+44	Which would best help a forest animal avoid being eaten by hawks or owls?	question
+45	Which would best help a forest animal avoid being eaten by hawks or owls?	question
+46	eating an animal; a plant means killing that animal; that plant	nongold
+47	to be used  for something means to help to do that something	nongold
+48	avoiding  predators is synonymous with avoiding being eaten	gold
+49	organisms; living things live in their habitat; their home	gold
+50	an organism is a living thing	nongold
+51	Which would best help a forest animal avoid being eaten by hawks or owls?	question
+52	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+53	an hawk is a kind of predator	gold
+54	a forest is a kind of ecosystem	nongold
+55	an eagle is a kind of carnivore	nongold
+56	Which would best help a forest animal avoid being eaten by hawks or owls?	question
+57	hiding can be used for avoiding predators	gold
+58	underground home	answer
+59	an owl is a kind of predator	gold
+60	to prey on an animal means to eat that animal	nongold
+61	an animal; living thing requires nutrients for survival	nongold
+62	eagles live in trees	nongold
+63	most predators live in; live near the same environment as their prey	nongold
+64	living underground can be used for hiding from predators	gold
+65	a house is a kind of building	nongold

@@ -1,0 +1,102 @@
+Question	What enabled Galileo in the 17th century to see the moons of Jupiter?	question
+Answer	He invented advanced tools for looking at the sky.	answer
+0	Jupiter is a kind of planet	nongold
+1	Jupiter is a kind of outer planet	nongold
+2	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+3	Jupiter is the planet that is fifth closest to the Sun	nongold
+4	Galileo Galilei made improvements to the telescope to make better observations of celestial bodies	gold
+5	instrument means tool	gold
+6	inventing a tool allows; enables that tool to be used	gold
+7	to see means to look	gold
+8	device means tool	nongold
+9	seeing is used for sensing visual things	nongold
+10	look at means observe	gold
+11	the Sun is a kind of star	nongold
+12	a moon is a kind of celestial object; body	nongold
+13	an invention is a kind of tool	nongold
+14	sight means to see	nongold
+15	moons are large; solid; spherical	nongold
+16	a star is a kind of celestial object; celestial body	nongold
+17	a tool is a kind of object	nongold
+18	technology is similar to tool	nongold
+19	the sun is not a star in the night sky	nongold
+20	instrument means device	nongold
+21	observe means see	nongold
+22	to view means to see	nongold
+23	the sky is similar to space	nongold
+24	visible means able to be seen	nongold
+25	astronomy is the study of celestial (objects, bodies)	nongold
+26	seeing requires light	nongold
+27	looking is similar to observing	nongold
+28	an instrument is a piece of equipment	nongold
+29	to watch means to look at	nongold
+30	eyes are a part of a human for seeing	nongold
+31	the stars in the night sky are very far away from the Earth	nongold
+32	a simple machine is a kind of tool	nongold
+33	Leo is a kind of constellation	nongold
+34	to advance means to improve	gold
+35	sunlight is a kind of light	nongold
+36	to enable is similar to cause	nongold
+37	a living thing is a kind of object	nongold
+38	sight means vision	nongold
+39	the function of something is what that something  is used to do	nongold
+40	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+41	if it is night then the sun has set	nongold
+42	eyes are usually part of an animal for seeing	nongold
+43	the sun rises in the east	nongold
+44	the sun is a source of light; light energy called sunlight	nongold
+45	the moon orbits the Earth	nongold
+46	setting is a kind of motion	nongold
+47	answering questions requires information	nongold
+48	a device is a kind of object	nongold
+49	to depend on; to rely on; to need means to require	nongold
+50	the sun sets in the west	nongold
+51	better look means see better	nongold
+52	a vehicle is a kind of tool for travel; transport	nongold
+53	a machine is a kind of  device	nongold
+54	helping something has a  positive impact on that something	nongold
+55	to be used for something means to be required by that something	nongold
+56	the asteroid belt is located between Mars and Jupiter	nongold
+57	eyes are used for seeing by animals by sensing light	nongold
+58	to help; to benefit means to be of use	nongold
+59	distant means great in distance	nongold
+60	an animal is a kind of living thing	nongold
+61	to get a better look at means to see better	nongold
+62	the Moon is closer to the Earth than the Sun	nongold
+63	the Moon is Earth's moon	nongold
+64	a landform is a kind of object	nongold
+65	the Sun is the  star that is closest to Earth	nongold
+66	the night time is part of one day	nongold
+67	something is used for that something's purpose	nongold
+68	looking is a kind of activity	nongold
+69	a human is a kind of animal	nongold
+70	a planet is a kind of celestial object; body	nongold
+71	can be means able to be	nongold
+72	the moon reflects sunlight towards the Earth	nongold
+73	far means great in distance	nongold
+74	sight is a kind of sense	nongold
+75	high is similar to increase	nongold
+76	to enable is to help	nongold
+77	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+78	the sun setting is a kind of event	nongold
+79	cycles of day and night occur once per day	nongold
+80	if something is visible , then that something can be observed	nongold
+81	astronomical body means celestial body	nongold
+82	eyes can sense;detect light energy for seeing	nongold
+83	to enable means to allow	nongold
+84	the sun rising and setting causes cycles of day and night	nongold
+85	the moon is the celestial object that is closest to the  Earth	nongold
+86	celestial bodies; celestial objects are found in space	nongold
+87	the day time is part of one day	nongold
+88	an object is made of its parts	nongold
+89	moons; comets; planets are part of the solar system	nongold
+90	a star is a source of light; light energy through nuclear reactions	nongold
+91	clouds are usually found in the sky	nongold
+92	all the time means at day and at night	nongold
+93	the sun rising is a kind of event	nongold
+94	an animal is a kind of organism	nongold
+95	Earth is a kind of planet	nongold
+96	a moon is a kind of satellite	nongold
+97	ancient means a long time in the past	nongold
+98	a motion is a kind of event; action	nongold
+99	increase means more	nongold

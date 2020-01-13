@@ -1,0 +1,60 @@
+0	iron is a kind of metal	gold
+1	aluminum is recyclable	nongold
+2	if an object is made of a material then that object has the properties of that material	nongold
+3	increase means more	nongold
+4	rocks sometimes contain aluminum	gold
+5	metal is a kind of natural resource	nongold
+6	metal is a kind of material	nongold
+7	iron is a kind of metal	gold
+8	high is similar to increase	nongold
+9	iron is a kind of mineral	nongold
+10	iron is always magnetic	nongold
+11	metal is a kind of substance	nongold
+12	oil is a kind of liquid	nongold
+13	Large amounts of metals like iron and aluminum are found in	question
+14	amount is similar to abundance	nongold
+15	Large amounts of metals like iron and aluminum are found in	question
+16	oil wells	answer
+17	usually something can be found  near a source in greater concentrations	nongold
+18	gold is a kind of metal	nongold
+19	Large amounts of metals like iron and aluminum are found in	question
+20	oil wells	answer
+21	magnesium is a kind of alkaline earth metal	nongold
+22	found in means existing in	nongold
+23	made up of means contains; made of	nongold
+24	sample is similar to small amount of substance; matter	nongold
+25	an element is a kind of material	nongold
+26	metals are made of metal	nongold
+27	aluminum is a kind of metal	gold
+28	ferrous metals contain iron	nongold
+29	a well is a vehicle for removing water from an aquifer	nongold
+30	oil wells	answer
+31	metal is sometimes magnetic	nongold
+32	rocks sometimes contain iron	gold
+33	rocks sometimes contain aluminum	gold
+34	rocks sometimes contain iron	gold
+35	oil wells	answer
+36	objects in an environment are a part of that environment	nongold
+37	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	nongold
+38	Large amounts of metals like iron and aluminum are found in	question
+39	if something required by something else is in a place then that something else may be in that place	nongold
+40	groundwater is a kind of water	nongold
+41	all elements are a kind of pure substance	nongold
+42	rocks often contain large amounts of metal	gold
+43	if something is a part of something then that something can be found in that something	nongold
+44	can be means able to be	nongold
+45	if something is located  in somewhere , then something can be found in somewhere	nongold
+46	aluminum is a kind of metal	gold
+47	rocks sometimes contain iron	gold
+48	nickel is a kind of metal	nongold
+49	aluminum is a kind of metal	gold
+50	answering questions requires information	nongold
+51	metal is a nonrenewable resource	nongold
+52	smaller means less; lower in size	nongold
+53	rocks sometimes contain aluminum	gold
+54	rocks often contain large amounts of metal	gold
+55	a mineral is a kind of solid; natural material	nongold
+56	iron is a kind of metal	gold
+57	rocks often contain large amounts of metal	gold
+58	sodium is a kind of element	nongold
+59	an element is a kind of  substance	nongold

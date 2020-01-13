@@ -1,0 +1,71 @@
+0	if an object is made of a material then that object has the properties of that material	gold
+1	a thermal conductor is made of materials that conduct thermal energy	nongold
+2	if an object is made of a material then that object has the properties of that material	gold
+3	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+4	if an object is made of a material then that object has the properties of that material	gold
+5	metal is a thermal; thermal energy conductor	gold
+6	if an object is held under a substance then that object is touching that substance	nongold
+7	a hot; warm something is a source of heat	gold
+8	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+9	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	gold
+10	Heat transfer is part of everyday life. Which of these examples involving heat transfer occurs mainly by conduction?	question
+11	metal is a kind of material	gold
+12	a hot plate is a source of heat	nongold
+13	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+14	a spoon is a kind of object	gold
+15	a hot; warm something is a source of heat	gold
+16	wood is an thermal; thermal energy insulator	nongold
+17	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+18	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+19	metal is a thermal; thermal energy conductor	gold
+20	food is a kind of substance	nongold
+21	friction converts mechanical energy into heat energy	nongold
+22	warm means warm temperature	nongold
+23	soup is a kind of liquid	nongold
+24	a container contains objects; material; substances	nongold
+25	Hot soup warms a metal spoon handle.	answer
+26	a metal is usually a solid at room temperature	nongold
+27	Heat transfer is part of everyday life. Which of these examples involving heat transfer occurs mainly by conduction?	question
+28	liquid is a kind of state of matter	nongold
+29	conductivity is a property of a material; substance	gold
+30	a spoon is a kind of object	gold
+31	food is a kind of object	nongold
+32	a spoon is a kind of object	gold
+33	an insulator is the opposite of a conductor	nongold
+34	if heat is conducted to an object then that object will become hot	nongold
+35	Heat transfer is part of everyday life. Which of these examples involving heat transfer occurs mainly by conduction?	question
+36	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	gold
+37	metal is a kind of material	gold
+38	material means substance	nongold
+39	conductivity is a property of a material; substance	gold
+40	an insulator is a kind of material	nongold
+41	conductivity is a property of a material; substance	gold
+42	if food is cooked then heat energy is added to that food	nongold
+43	if liquid is boiling then that liquid is hot	nongold
+44	if one is holding an object then one is touching that object	nongold
+45	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+46	temperature is a measure of heat energy	nongold
+47	a surface is a part of an object	nongold
+48	a hot; warm something is a source of heat	gold
+49	Hot soup warms a metal spoon handle.	answer
+50	heating means adding heat	nongold
+51	metal is a kind of material	gold
+52	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+53	to conduct is similar to to transfer	nongold
+54	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+55	a container is a kind of object	nongold
+56	a pan;frying pan is a kind of container for cooking; food	nongold
+57	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+58	a surface is a part of a material	nongold
+59	Heat transfer is part of everyday life. Which of these examples involving heat transfer occurs mainly by conduction?	question
+60	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+61	Hot soup warms a metal spoon handle.	answer
+62	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+63	warmer means greater; higher in temperature; warmth	nongold
+64	convert is similar to transfer	nongold
+65	a product is a kind of object	nongold
+66	a kind of something is an example of that something	nongold
+67	metal is a thermal; thermal energy conductor	gold
+68	Hot soup warms a metal spoon handle.	answer
+69	heat energy  can be used to heat up  an object	nongold
+70	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	gold

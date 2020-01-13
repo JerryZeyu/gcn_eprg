@@ -1,0 +1,102 @@
+0	A student combined rice cereal with melted marshmallows. Which best describes what the student made?	question
+1	a mixture	answer
+2	melted marshmallow is a kind of food	gold
+3	a marshmallow is a kind of food	nongold
+4	rice cereal; cereal is a kind of  food	gold
+5	roasting marshmallows requires heat	nongold
+6	a student is a kind of human	nongold
+7	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+8	to add means to combine	nongold
+9	a mixture is a kind of substance	nongold
+10	a solution is a kind of mixture	nongold
+11	to be a combination of means to be made of	nongold
+12	plus means to combine	nongold
+13	an mixture is formed by two or more substances combined together physically	gold
+14	flour is a kind of substance	nongold
+15	the properties of something are used for describing that something	nongold
+16	heat means heat energy	nongold
+17	make means produce	nongold
+18	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+19	a human is a kind of animal	nongold
+20	An example of combining two substances is pouring one substance into the other substance	nongold
+21	a liquid is a kind of substance	nongold
+22	a solid is a kind of substance	nongold
+23	made of is similar to contains	nongold
+24	combining; mixing two substances chemically causes chemical reactions	nongold
+25	baking is when a human makes food by adding heat	nongold
+26	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+27	dough is a kind of mixture of sugar, butter, flour and salt	nongold
+28	dough is a kind of food	nongold
+29	to eat means to consume food	nongold
+30	corn is a kind of seed	nongold
+31	temperature is a measure of heat energy	nongold
+32	crops are a kind of edible plant for eating	nongold
+33	if food is cooked then heat energy is added to that food	nongold
+34	objects are made of materials; substances; matter	nongold
+35	a powder mix is a kind of substance	nongold
+36	adding heat means increasing temperature	nongold
+37	cooking food requires adding heat energy to the food	nongold
+38	yogurt is a kind of food	nongold
+39	a dessert is a kind of food	nongold
+40	melting is when solids are heated above their melting point	nongold
+41	answering questions requires information	nongold
+42	made up of means contains; made of	nongold
+43	provide is similar to give; make	nongold
+44	a corn kernel is a part of a  corn	nongold
+45	to add means to increase	nongold
+46	corn is a kind of plant	nongold
+47	a source of something emits; produces; generates; provides that something	nongold
+48	if an object is made of a material then that object has the properties of that material	nongold
+49	humans eat crops	nongold
+50	best means most positive	nongold
+51	providing something means making;delivering something	nongold
+52	corn is a kind of crop	nongold
+53	person is synonymous with human	nongold
+54	snacks often are made of more than one substances	nongold
+55	a description sometimes provides information	nongold
+56	food is a kind of substance	gold
+57	melting is a kind of phase change	nongold
+58	composed of means made of	nongold
+59	products are formed; are produced; are created	nongold
+60	melting is a kind of process	nongold
+61	an animal needs to eat food for nutrients	nongold
+62	a solution is made of one substance dissolved in another substance	nongold
+63	heat energy is synonymous with thermal energy	nongold
+64	material means substance	nongold
+65	a product is a kind of object	nongold
+66	if heat is added to a substance then that substance absorbs that heat	nongold
+67	breakfast is a kind of food	nongold
+68	a compound is a kind of material	nongold
+69	if a substance is dissolved in another substance then that substance is added to that other substance	nongold
+70	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+71	a crop is a kind of food	nongold
+72	to cause means to make	nongold
+73	all elements are a kind of pure substance	nongold
+74	to create means to make	nongold
+75	an object; material; substance comes from that object or material's source	nongold
+76	sugar is a kind of solid	nongold
+77	a solution is formed by one substance being dissolved in another substance	nongold
+78	a component means a part of	nongold
+79	materials are made of matter	nongold
+80	a mixture usually is made of objects with different physical properties	nongold
+81	a beverage is a kind of food	nongold
+82	a compound is a kind of substance	nongold
+83	a gourd is a kind of fruit	nongold
+84	heat means temperature increases	nongold
+85	measuring is used for describing an object	nongold
+86	manufacture means make	nongold
+87	substances are made of matter	nongold
+88	a fruit is a kind of object	nongold
+89	butter is a kind of substance	nongold
+90	an insulator is a kind of material	nongold
+91	a bean plant is a kind of plant	nongold
+92	a vegetable is a kind of food	nongold
+93	a component of something means a part of that something	nongold
+94	a process is a kind of event	nongold
+95	soup is a kind of food	nongold
+96	nutrients are a kind of material	nongold
+97	an element is a kind of material	nongold
+98	liquid is a kind of state of matter	nongold
+99	the chemistry of something is similar to what that something is made of	nongold
+100	soup is a kind of liquid	nongold
+101	food is what an animal eats	nongold

@@ -1,0 +1,63 @@
+0	decreasing something negative has a positive impact on a thing	nongold
+1	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+2	A water company uses lab tests on the water supply before sending the water through pipes to people's homes. How do these lab tests help people?	question
+3	death means to die	nongold
+4	a supply of something is a source of that something	nongold
+5	a homeowner is a kind of human	nongold
+6	water is a kind of liquid at room temperature	nongold
+7	a beverage is a kind of liquid	nongold
+8	a human is a kind of animal	gold
+9	helping something has a  positive impact on that something	gold
+10	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+11	if a body of water has high turbidity levels then it is unsafe to drink	nongold
+12	A water company uses lab tests on the water supply before sending the water through pipes to people's homes. How do these lab tests help people?	question
+13	a plants; living things require water for survival; to grow	nongold
+14	helping means to assist in a change	nongold
+15	water is a kind of substance	nongold
+16	protecting something means preventing harm to that something	nongold
+17	testing often requires measuring	nongold
+18	a positive impact is a helpful effect	nongold
+19	A water company uses lab tests on the water supply before sending the water through pipes to people's homes. How do these lab tests help people?	question
+20	by checking the water to make sure it is safe to drink	answer
+21	to protect means to make safe	gold
+22	a lab test on a water supply is used for checking water to make sure it is safe to drink by water companies	gold
+23	to protect means to make safe	gold
+24	solution is similar to a positive impact	nongold
+25	saving money has a positive impact on a person; a company	nongold
+26	to be used  for something means to help to do that something	nongold
+27	a body of water is a source of water	nongold
+28	a source of something emits; produces; generates; provides that something	nongold
+29	by checking the water to make sure it is safe to drink	answer
+30	a scientist is a kind of human	nongold
+31	being used for is similar to providing	nongold
+32	to protect means to make safe	gold
+33	A water company uses lab tests on the water supply before sending the water through pipes to people's homes. How do these lab tests help people?	question
+34	a lab test on a water supply is used for checking water to make sure it is safe to drink by water companies	gold
+35	the temperature; pH of water has an impact on the health of that water	nongold
+36	something that contains water is similar to a body of water	nongold
+37	inspect; observe means examine	nongold
+38	person is synonymous with human	gold
+39	helping something has a  positive impact on that something	gold
+40	humans cause pollution	nongold
+41	helping something has a  positive impact on that something	gold
+42	to help means to aid	nongold
+43	a human is a kind of animal	gold
+44	high-quality means positive	nongold
+45	a person should be careful about something dangerous	nongold
+46	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+47	a lab test on a water supply is used for checking water to make sure it is safe to drink by water companies	gold
+48	to be in danger means to be around; to be near something dangerous	nongold
+49	emit means send out	nongold
+50	a home is a kind of building	nongold
+51	a human is a kind of animal	gold
+52	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+53	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+54	person is synonymous with human	gold
+55	by checking the water to make sure it is safe to drink	answer
+56	low is similar to decrease	nongold
+57	a body of water contains water	nongold
+58	person is synonymous with human	gold
+59	inhibitor means something that prevents something from happening	nongold
+60	by checking the water to make sure it is safe to drink	answer
+61	negative impact is the opposite of positive impact	nongold
+62	water is a kind of natural resource	nongold

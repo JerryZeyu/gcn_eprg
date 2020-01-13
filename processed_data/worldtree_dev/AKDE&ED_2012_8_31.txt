@@ -1,0 +1,102 @@
+Question	Which of the following best describes a scientific inference?	question
+Answer	an explanation based on facts but is not the direct observation	answer
+0	a scientific inference is a kind of explanation based on facts that is not a direct observation	gold
+1	observations; data are a part of the results of an experiment	nongold
+2	hypothesis means scientific guess about the cause and effect of an event	nongold
+3	measuring is used for describing an object	nongold
+4	scientists make observations	nongold
+5	An example of evidence for a scientific theory is observations	nongold
+6	a hypothesis is a kind of scientific term	nongold
+7	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+8	to conclude means to make a conclusion	nongold
+9	the properties of something are used for describing that something	nongold
+10	information is used to describe something	nongold
+11	can be means able to be	nongold
+12	an animal is a kind of organism	nongold
+13	measuring is a kind of observing	nongold
+14	causing means influencing	nongold
+15	an event is a kind of action	nongold
+16	determining often requires measuring; observing	nongold
+17	if something is caused by something else , then that something can be explained by that something else	nongold
+18	a scientist is a kind of human	nongold
+19	studying is similar to observing	nongold
+20	a human is a kind of animal	nongold
+21	form means kind	nongold
+22	detecting is similar to observing	nongold
+23	to discover means to make a discovery	nongold
+24	an animal is a kind of living thing	nongold
+25	a process is a kind of event	nongold
+26	an organism is a living thing	nongold
+27	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+28	classifying is a kind of science process	nongold
+29	a living thing is a kind of object	nongold
+30	experiment is synonymous with test	nongold
+31	astronomy is the study of celestial (objects, bodies)	nongold
+32	classifying is when one sorts something by kind; type	nongold
+33	a source of something emits; produces; generates; provides that something	nongold
+34	a result of something is evidence of that something	nongold
+35	a theory is a kind of scientific term	nongold
+36	a motion is a kind of event; action	nongold
+37	events occur at a specific place; at a specific time; with a specific frequency	nongold
+38	learning about something sometimes requires observing that something	nongold
+39	material means substance	nongold
+40	a star is a kind of celestial object; celestial body	nongold
+41	a type is synonymous with a kind	nongold
+42	making discoveries requires observing	nongold
+43	looking is similar to observing	nongold
+44	to cause means to have an effect	nongold
+45	a moon is a kind of celestial object; body	nongold
+46	a person is a kind of animal	nongold
+47	impact means effect	nongold
+48	something's function can be used to describe; identify that something	nongold
+49	a cause of something is a reason for that something	nongold
+50	determine is similar to cause	nongold
+51	something that happens is a kind of event	nongold
+52	a tree is a kind of matter	nongold
+53	to be a source of something means to cause that something	nongold
+54	warning  people of something requires knowing about; predicting that something	nongold
+55	to cause means to result in	nongold
+56	the location of an object can be used to describe that object	nongold
+57	to happen means to occur	nongold
+58	classifying means grouping objects; materials by their properties	nongold
+59	if something is made by something else then that something is affected by that something else	nongold
+60	substances are made of matter	nongold
+61	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+62	the senses are used for making observations	nongold
+63	to produce means to result in	nongold
+64	not is similar to the opposite of	nongold
+65	objects are made of materials; substances; matter	nongold
+66	getting information sometimes requires observing; observation	nongold
+67	the Moon is Earth's moon	nongold
+68	particles in objects are a kind of matter	nongold
+69	identifying is similar to determining	nongold
+70	knowing the properties of something means knowing information about that something	nongold
+71	the properties of something can be used to identify; used to describe that something	nongold
+72	matter; materials; substances are made of atoms; particles	nongold
+73	to report means to show	nongold
+74	a worm is a kind of animal	nongold
+75	if something is made of something; a material then that something contains that something; that material	nongold
+76	a planet is a kind of celestial object; body	nongold
+77	composed of means made of	nongold
+78	a comet is a kind of celestial object	nongold
+79	to observe means to gather information	nongold
+80	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+81	to cause means to make	nongold
+82	researcher is a kind of scientist	nongold
+83	state means form	nongold
+84	Earth is a kind of planet	nongold
+85	person is synonymous with human	nongold
+86	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+87	a component means a part of	nongold
+88	a component of something means a part of that something	nongold
+89	quantity means amount	nongold
+90	a plant is a kind of organism	nongold
+91	affected means changed	nongold
+92	a worm is a kind of living thing	nongold
+93	determining is similar to learning	nongold
+94	learning; studying information causes one to know that information	nongold
+95	United States is located in the northern hemisphere	nongold
+96	best means most positive	nongold
+97	observe means see	nongold
+98	to be used for something means to be required by that something	nongold
+99	comparing requires observing that something	nongold

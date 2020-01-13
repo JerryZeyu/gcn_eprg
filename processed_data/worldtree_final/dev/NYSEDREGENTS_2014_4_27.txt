@@ -1,0 +1,102 @@
+0	A body structure under a skunk's tail produces a liquid with a very bad odor. This odor helps the skunk to	question
+1	avoid predators	answer
+2	a skunk produces a bad odor	gold
+3	avoiding predators; escaping predators; avoiding consumers is a kind of protection	gold
+4	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+5	avoiding  predators is synonymous with avoiding being eaten	nongold
+6	a skunk is a kind of animal	nongold
+7	a predator avoiding some types of prey is a learned behavior	nongold
+8	avoiding is a kind of conditioned behavior	nongold
+9	avoiding is similar to preventing	nongold
+10	escape means avoid	nongold
+11	An example of being careful is avoiding danger	nongold
+12	most animals avoid bad odors	gold
+13	avoiding something requires sensing that something	nongold
+14	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+15	helping something has a  positive impact on that something	gold
+16	protecting something means preventing harm to that something	nongold
+17	hiding can be used for avoiding predators	nongold
+18	hiding is a kind of protection against predators; from predators	nongold
+19	avoiding is a kind of defense	nongold
+20	avoiding means doing something less	nongold
+21	to help; to benefit means to be of use	nongold
+22	to help means to aid	nongold
+23	harming something has a  negative impact on; effect on that something	nongold
+24	odor means scent	nongold
+25	a structure of something is synonymous with a part of that something	nongold
+26	danger has a negative impact on a thing	nongold
+27	to inhibit means to prevent	nongold
+28	to be in danger means to be around; to be near something dangerous	nongold
+29	smell means scent	nongold
+30	structure is a property of an object; a material; a substance	nongold
+31	smell is a property of an object; a material; a substance	nongold
+32	a predator is a kind of animal	gold
+33	killing means harming something causing death	nongold
+34	a predator is a kind of enemy to its prey	nongold
+35	smell is used for detecting odor	nongold
+36	harm means danger	nongold
+37	some animals move quickly to escape predators	nongold
+38	negative impact is the opposite of positive impact	nongold
+39	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+40	producing is similar to causing	nongold
+41	a predator eats other animals for food	nongold
+42	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+43	to hurt means to harm	nongold
+44	predators eat prey	nongold
+45	harming an organism can cause that organism to die	nongold
+46	smell is a kind of sense	nongold
+47	an organism is a living thing	nongold
+48	an animal is a kind of living thing	nongold
+49	a chipmunk is a kind of mammal	nongold
+50	decreasing something negative has a positive impact on a thing	nongold
+51	to protect means to make safe	nongold
+52	an animal is a kind of organism	nongold
+53	killing means changing a living thing from alive to dead by harming	nongold
+54	to be used  for something means to help to do that something	nongold
+55	a living thing is a kind of object	nongold
+56	survive means live	nongold
+57	survive means live	nongold
+58	absorbing something harmful has a negative impact on a thing	nongold
+59	if a substance has a strong odor , then the substance has a high concentration of odor	nongold
+60	mimicry is used for avoiding predators by animals by camouflaging as a dangerous animal	nongold
+61	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+62	the body is a part of an organism	nongold
+63	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+64	a human is a kind of animal	nongold
+65	producing is similar to releasing	nongold
+66	a mammal is a kind of animal	nongold
+67	a body part is a kind of object	nongold
+68	something harmful can cause harm	nongold
+69	protection means resistance to damage increases	nongold
+70	a predator usually kills its prey to eat it	nongold
+71	hair; fur is  a part of skin for protection; keeping warm	nongold
+72	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+73	a liquid is a kind of substance	nongold
+74	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	to keep something from happening means to prevent that something	nongold
+77	a part of a living thing is a natural structure	nongold
+78	threatening the existence of an organism has a negative impact on that organism	nongold
+79	the head is a part of an animal	nongold
+80	a positive impact is a helpful effect	nongold
+81	hiding means visibility; ability to be seen decreases for camouflage	nongold
+82	death means to die	nongold
+83	organisms are a part of an environment	nongold
+84	preventing something decreases the amount of that something	nongold
+85	get rid of means eliminate; remove	nongold
+86	to lower means to decrease	nongold
+87	a danger is dangerous	nongold
+88	something hard; something strong can be used for protection	nongold
+89	a poisonous animal is dangerous	nongold
+90	a positive impact is  a benefit	nongold
+91	a human is a kind of mammal	nongold
+92	animals usually distance themselves from humans	nongold
+93	if a living thing requires something then that something has a positive impact on that living thing	nongold
+94	converting is similar to producing	nongold
+95	objects in an environment are a part of that environment	nongold
+96	food can be a source of an odor	nongold
+97	covering something is a kind of protection	nongold
+98	to reduce means to decrease	nongold
+99	harming an animal species has a  negative impact on the population size of that species	nongold
+100	emit means produce	nongold
+101	smell is used for  finding food by some animals	nongold

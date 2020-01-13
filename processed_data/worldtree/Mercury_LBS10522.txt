@@ -1,0 +1,102 @@
+Question	If soil is permeable	question
+Answer	water easily flows through it.	answer
+0	soil is permeable	gold
+1	if something is permeable , then the water will flow through something easily	gold
+2	to pass through means to move through	nongold
+3	a river is a kind of flowing body of water	nongold
+4	water easily passes through pebbles	nongold
+5	soil contains water; humus; weathered rocks; organic matter	nongold
+6	soil is a part of the ground outside	nongold
+7	to lower means to decrease	nongold
+8	to run through means to transfer	nongold
+9	to reduce means to decrease	nongold
+10	soil is made of very small rocks; minerals	nongold
+11	flowing is a kind of motion	nongold
+12	soil is made of solid particles	nongold
+13	soil is usually part of an environment	nongold
+14	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+15	a stream is a kind of body of water	nongold
+16	a wall is a kind of surface	nongold
+17	an increase is a kind of change	nongold
+18	soil is a kind of material	nongold
+19	to add means to increase	nongold
+20	water is a kind of substance	nongold
+21	water is a part of an environment	nongold
+22	ground water is a kind of water	nongold
+23	high is similar to increase	nongold
+24	flowing is a kind of action	nongold
+25	a river is a kind of channel for water	nongold
+26	a body of water is a kind of environment	nongold
+27	soil erosion is a kind of slow; natural process	nongold
+28	an effective aquifer requires materials with high porosity and high permeability	nongold
+29	water is a kind of matter	nongold
+30	a decrease is a kind of change	nongold
+31	the pores are well connected in high permeability materials	nongold
+32	to flow is similar to to transfer	nongold
+33	groundwater is a kind of water	nongold
+34	a body of water contains water	nongold
+35	soil is formed by weathering	nongold
+36	soil usually has layers	nongold
+37	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+38	heat means heat energy	nongold
+39	low is similar to decrease	nongold
+40	to undergo is similar to to pass through	nongold
+41	to pass means to travel	nongold
+42	to slow; to slow down decreases speed	nongold
+43	a riverbed is a part of a river	nongold
+44	can be means able to be	nongold
+45	increase means more	nongold
+46	moisture means liquid; liquid water	nongold
+47	harming something has a  negative impact on; effect on that something	nongold
+48	an environment means an area	nongold
+49	soil erosion means soil loss through wind;water; animals	nongold
+50	conductivity is a property of a material; substance	nongold
+51	to limit means to decrease	nongold
+52	a tunnel is a kind of hole	nongold
+53	a body of water is a source of water	nongold
+54	temperature is a measure of heat energy	nongold
+55	media; medium means the material something travel through	nongold
+56	reducing is a kind of change	nongold
+57	the ground is part of the Earth	nongold
+58	water is a kind of liquid at room temperature	nongold
+59	H2O means water	nongold
+60	soil erosion is a kind of event	nongold
+61	passing through is similar to entering	nongold
+62	a channel contains moving water	nongold
+63	a tube-like body has a positive impact on moving through soil	nongold
+64	a source of something emits; produces; generates; provides that something	nongold
+65	variable means able to change	nongold
+66	erosion is a kind of change	nongold
+67	to create means to make	nongold
+68	pouring water onto soil causes that soil to wash away	nongold
+69	to wash away is a kind of movement by moving water	nongold
+70	a surface is a part of a material	nongold
+71	a wall is a kind of object	nongold
+72	to turn means to change	nongold
+73	a riverbank is made of soil	nongold
+74	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+75	runoff is a kind of water	nongold
+76	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+77	answering questions requires information	nongold
+78	overgrazing increases soil erosion	nongold
+79	composed of means made of	nongold
+80	low means down	nongold
+81	erosion causes a river to become deeper and wider	nongold
+82	if something releases something else then that something else decreases in that something	nongold
+83	weathering; erosion usually occurs over a period of many years	nongold
+84	greatest means largest; highest; most amount of something	nongold
+85	Earth's surface is made of rock	nongold
+86	flowing is similar to pouring	nongold
+87	landform means surface feature; physical feature; land feature	nongold
+88	if something is strong then that something  does not break easily	nongold
+89	to cross means to pass	nongold
+90	low quality soil has a small; a low number of nutrients	nongold
+91	weathering is a kind of erosion	nongold
+92	the bottom is the lowest part of something	nongold
+93	organisms are a part of an environment	nongold
+94	conductivity is a kind of physical property	nongold
+95	below means lower down	nongold
+96	to produce means to create	nongold
+97	to pass into means to enter	nongold
+98	if something releases something else then that something is the source of that something else	nongold
+99	an event is a kind of action	nongold

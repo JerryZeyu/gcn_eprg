@@ -1,0 +1,50 @@
+0	if something comes from something else then that something else is a source of that something	nongold
+1	answering questions requires information	nongold
+2	oil is a nonrenewable resource	nongold
+3	an inexhaustible resource is a kind of renewable resource	nongold
+4	if something is a source of something else then that something usually contains that something else	nongold
+5	typically means usually	nongold
+6	where something  comes from is a source of that something	nongold
+7	if something is located in some place , then the presence of that something can be found in that location	nongold
+8	heat means heat energy	nongold
+9	if something releases something else then that something is the source of that something else	nongold
+10	a component of something means a part of that something	nongold
+11	if something gains something from something else then that something else is a source of that something	nongold
+12	natural resources are found in nature	nongold
+13	Which of these is a renewable resource found in Nevada?	question
+14	to be found in means to be contained in	nongold
+15	made up of means contains; made of	nongold
+16	oil is a kind of energy resource	nongold
+17	geothermal energy	answer
+18	a renewable resource is a kind of natural resource	nongold
+19	Which of these is a renewable resource found in Nevada?	question
+20	if something causes a process then that something is required for that process	nongold
+21	found in means existing in	nongold
+22	geothermal energy is a renewable resource	gold
+23	heat is a kind of energy	nongold
+24	renewable resources are often available for many years	nongold
+25	if something absorbs something else then that something will contain that something else	nongold
+26	water is a kind of natural resource	nongold
+27	geothermal energy	answer
+28	geothermal energy is a renewable resource	gold
+29	Nevada mines produce gold	nongold
+30	solar energy is a kind of heat energy	nongold
+31	coal is a kind of fossil fuel	nongold
+32	a process is a kind of event	nongold
+33	if something transfers something else then that something is a source of something else	nongold
+34	fossil fuels are a nonrenewable resource	nongold
+35	form means kind	nongold
+36	oil is a kind of fossil fuel	nongold
+37	if something is made of something; a material then that something contains that something; that material	nongold
+38	Which of these is a renewable resource found in Nevada?	question
+39	if something is a raw material then that something comes directly from a source	nongold
+40	geothermal energy is a renewable resource	gold
+41	if something is located  in somewhere , then something can be found in somewhere	nongold
+42	petroleum is a kind of fossil fuel	nongold
+43	usually something can be found  near a source in greater concentrations	nongold
+44	Which of these is a renewable resource found in Nevada?	question
+45	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+46	geothermal energy	answer
+47	made of is similar to contains	nongold
+48	geothermal energy	answer
+49	a renewable resource can be renewed	nongold

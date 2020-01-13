@@ -1,0 +1,102 @@
+Question	Which of these is a composite material?	question
+Answer	a fiberglass bumper	answer
+0	a bumper is a kind of object	gold
+1	a bumper car is a kind of car	nongold
+2	fiberglass is made of glass and plastic	gold
+3	fiber is a kind of material	nongold
+4	a car is a kind of object	nongold
+5	a car is a kind of vehicle	nongold
+6	if an object is made of a material then that object has the properties of that material	nongold
+7	a vehicle is a kind of object	nongold
+8	a tire is a kind of object	nongold
+9	a car fender is sometimes made of metal	nongold
+10	wheels are a part of a car	nongold
+11	a car is a kind of automobile	nongold
+12	a structure of something is synonymous with a part of that something	nongold
+13	an automobile is a kind of vehicle	nongold
+14	structure is a property of an object; a material; a substance	nongold
+15	composite materials are made of two more more materials	gold
+16	a type is synonymous with a kind	nongold
+17	an object has properties	nongold
+18	if an object is made of something then the parts of that object are made of that something	nongold
+19	metal is a kind of material	nongold
+20	an object is made of its parts	nongold
+21	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+22	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+23	made of is similar to is built from	nongold
+24	materials are used for making products by manufacturers	nongold
+25	an part of an object is smaller than the entire object	nongold
+26	material means substance	nongold
+27	a body part is a kind of object	nongold
+28	a living thing is a kind of object	nongold
+29	composed of means made of	nongold
+30	a piece of something is a kind of object	nongold
+31	a component means a part of	nongold
+32	plastic is a kind of material made by humans	gold
+33	can be means able to be	nongold
+34	make means produce	nongold
+35	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+36	form means kind	nongold
+37	provide is similar to give; make	nongold
+38	a component of something means a part of that something	nongold
+39	an animal is a kind of living thing	nongold
+40	to be formed by is similar to being produced by	nongold
+41	a toy car is a kind of object	nongold
+42	high-quality means positive	nongold
+43	manufacture means make	nongold
+44	wheels; gears usually move against other surfaces	nongold
+45	a piece of an object is smaller in size than the whole object	nongold
+46	an engine is a part of an automobile	nongold
+47	length is a measure of distance from one end of an object to the other end of that object	nongold
+48	strength is a property of an object; a material	nongold
+49	plastic is high in strength	nongold
+50	a car engine is a part of a car	nongold
+51	aluminum is a kind of metal	nongold
+52	the automobile is a kind of technology	nongold
+53	a product is a kind of object	nongold
+54	to make means to build	nongold
+55	looking like is similar to camouflaging as	nongold
+56	an object; material; substance comes from that object or material's source	nongold
+57	affected means changed	nongold
+58	form is similar to body	nongold
+59	a tool is a kind of object	nongold
+60	an airplane is a kind of vehicle	nongold
+61	aluminum is recyclable	nongold
+62	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+63	different materials usually have different properties	nongold
+64	to create means to make	nongold
+65	answering questions requires information	nongold
+66	a source of something emits; produces; generates; provides that something	nongold
+67	if two things are made from the same objects; material then those two things are similar	nongold
+68	a wheel is a kind of object	nongold
+69	to be made of something means to be formed of that something	nongold
+70	length is a part of size	nongold
+71	a kind of something is an example of that something	nongold
+72	objects are made of materials; substances; matter	gold
+73	to slow; to slow down decreases speed	nongold
+74	products are formed; are produced; are created	nongold
+75	a producer is a kind of living thing	nongold
+76	a surface is a part of a material	nongold
+77	to be used for something means to be required by that something	nongold
+78	to cause means to make	nongold
+79	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+80	a structure is a kind of feature	nongold
+81	as amount; size of something increases , the intensive properties of that something will not change	nongold
+82	made of is similar to contains	nongold
+83	a part of a living thing is a natural structure	nongold
+84	high is similar to increase	nongold
+85	tires generally are made of rubber	nongold
+86	greatest means largest; highest; most amount of something	nongold
+87	made up of means contains; made of	nongold
+88	if something is made of something; a material then that something contains that something; that material	nongold
+89	person is synonymous with human	nongold
+90	speed is a property of an object and includes values of slow; fast	nongold
+91	a surface is a part of an object	nongold
+92	plastic is recyclable	nongold
+93	variable means able to change	nongold
+94	composition means the (materials, substances) of which something is composed	nongold
+95	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+96	length is a property of the shape of an object	nongold
+97	system is similar to structure	nongold
+98	if two objects are composed of similar materials then those objects may have come from the same source	nongold
+99	harming something has a  negative impact on; effect on that something	nongold

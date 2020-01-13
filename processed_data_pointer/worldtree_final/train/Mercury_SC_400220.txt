@@ -1,0 +1,101 @@
+0	the shape of body parts is an inherited characteristic	nongold
+1	reproduction produces; produce offspring	nongold
+2	inherited characteristics are a kind of hereditary information	nongold
+3	height is a kind of position	nongold
+4	trait is synonymous with characteristic	gold
+5	eye color is an inherited characteristic	nongold
+6	tall height is a dominant trait in pea plants	nongold
+7	a face is often a part of an animal	nongold
+8	human is similar to individual	nongold
+9	shorter means smaller; less in  height	nongold
+10	parents produce offspring	nongold
+11	dimple is a dominant trait in human	nongold
+12	the length of body parts is an inherited characteristic	nongold
+13	senses are an inherited characteristic	nongold
+14	a part of something means a characteristic of something	nongold
+15	a learned characteristic is a kind of acquired characteristic	nongold
+16	intelligence is an acquired characteristic	nongold
+17	genes are able to determine the inherited characteristics of a living thing	nongold
+18	V-shaped; widow's peak hairline is a dominant trait in human	nongold
+19	rising means height; altitude increases	nongold
+20	if two or more organisms have similar characteristics then those organisms might share a common ancestor	nongold
+21	a cat is a kind of animal	nongold
+22	resemble means similar characteristics	nongold
+23	a mammal is a kind of animal	nongold
+24	an inherited characteristic is a kind of characteristic	nongold
+25	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+26	height is an inherited characteristic	gold
+27	an adaptation is a kind of characteristic	nongold
+28	short height is a recessive trait in pea plants	nongold
+29	if two things have the same features then those two things are alike	nongold
+30	Which human trait is most likely inherited from a parent?	question
+31	the inherited characteristics of the parents can be used to predict inherited characteristics of the offspring	nongold
+32	species is an inherited characteristic	nongold
+33	phenotype of an organism means the visible traits of  an organism	nongold
+34	feature is synonymous with characteristic	nongold
+35	a plant is a kind of organism	nongold
+36	identical means copy	nongold
+37	inherited characteristics can change over several generations	nongold
+38	a child is a kind of young human	nongold
+39	characteristic means property	nongold
+40	low is similar to decrease	nongold
+41	height is a property of the size of an object	nongold
+42	a type is synonymous with a kind	nongold
+43	taller means greater in height; size	nongold
+44	a son is a kind of male offspring	nongold
+45	person is synonymous with human	nongold
+46	a person is a kind of animal	nongold
+47	asexual reproduction is when a single parent passes inherited traits to offspring	nongold
+48	eyes are a part of a human for seeing	nongold
+49	a baby is the offspring of a parent	nongold
+50	the skeleton of an animal can be used for inferring the height; the length of that animal	nongold
+51	a cat is a kind of mammal	nongold
+52	the head is a part of an animal	nongold
+53	a baby is the offspring of a parent	nongold
+54	a structure of something is synonymous with a part of that something	nongold
+55	height	answer
+56	the size of an organism is an inherited characteristic	nongold
+57	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+58	the condition of parts of an organism are acquired characteristics	nongold
+59	freckles are an inherited characteristic	nongold
+60	the color of; coloration of fur is an inherited characteristic	nongold
+61	falling means height decreases	nongold
+62	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+63	tall is  a dominant trait in plants	nongold
+64	a kind of something is an example of that something	nongold
+65	growth means size;number;value;strength increases	nongold
+66	light means low  in weight	nongold
+67	if an organism passes on its traits then future generations will have those traits	nongold
+68	an organism's environment affects that organism's acquired characteristics	nongold
+69	an organism is a living thing	nongold
+70	a chin without a cleft is  a recessive trait in human	nongold
+71	growing is when an animal's height;mass;size increase	nongold
+72	unique  is the opposite of diverse	nongold
+73	tall means great in height	nongold
+74	trait means property	nongold
+75	an animal is a kind of organism	nongold
+76	height is a measure of length from the top of an object to the bottom of an object	nongold
+77	high is similar to increase	nongold
+78	highest means largest; greatest; most in height	nongold
+79	growing means a plant's height;mass;size increase	nongold
+80	what an object is made of is a kind of characteristic	nongold
+81	ability is a kind of characteristic	nongold
+82	children; young is synonymous with offspring	nongold
+83	often is similar to likely	nongold
+84	a human is a kind of animal	nongold
+85	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	gold
+86	low is the opposite of high	nongold
+87	low means down	nongold
+88	body weight is a generally acquired characteristic	nongold
+89	a living thing is a kind of object	nongold
+90	an animal is a kind of living thing	nongold
+91	a father is a kind of male parent	nongold
+92	personality is an acquired characteristic	nongold
+93	low means low in elevation; height; altitude	nongold
+94	identical twins have all of the same inherited characteristics	nongold
+95	a mother is a kind of female parent	nongold
+96	classifying is when one sorts something by kind; type	nongold
+97	a human is a kind of mammal	nongold
+98	an part of an object is smaller than the entire object	nongold
+99	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+100	human is a kind of organism	nongold

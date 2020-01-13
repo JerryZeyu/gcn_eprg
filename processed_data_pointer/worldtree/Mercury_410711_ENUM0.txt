@@ -1,0 +1,102 @@
+Question	Sodium bicarbonate	question
+Answer	It is a solid.	answer
+0	sodium bicarbonate is a kind of compound	gold
+1	a solid is a kind of substance	nongold
+2	lithium; sodium; potassium; rubidium; caesium; francium is located in alkali metals; group 1 on the periodic table	nongold
+3	sodium carbonate is made of sodium, carbon, oxygen	nongold
+4	potassium is a kind of element	nongold
+5	sodium is a kind of metal	nongold
+6	solid is a kind of state of matter	nongold
+7	sodium chloride is always made of chemically combined chlorine and sodium	nongold
+8	Calcium; Beryllium; Strontium; Radium; Barium; Magnesium is located in alkaline earth metal family; group 2 on the periodic table	nongold
+9	sodium carbonate is a kind of  compound	nongold
+10	a liquid is a kind of substance	nongold
+11	sodium chloride is a kind of substance	nongold
+12	hydrogen chloride is made of hydrogen and chlorine	nongold
+13	table salt means sodium chloride	nongold
+14	chlorine is a kind of element	nongold
+15	sodium is a kind of element	nongold
+16	NaCl means sodium chloride	nongold
+17	nonmetal means nonmetals	nongold
+18	hydrochloric acid is made of hydrogen chloride dissolved in water	nongold
+19	sodium chloride means salt	nongold
+20	calcium carbonate is made of calcium, carbon, and oxygen	nongold
+21	nonmetal means not metal	nongold
+22	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+23	a metal is usually a solid at room temperature	nongold
+24	magnesium is a kind of alkaline earth metal	nongold
+25	K means potassium	nongold
+26	water is a kind of liquid at room temperature	nongold
+27	sodium chloride dissolves in water when they are combined	nongold
+28	liquid is a kind of state of matter	nongold
+29	hydrochloric acid is a kind of acid	nongold
+30	organic compounds do not contain potassium	nongold
+31	chromium is a kind of metal	nongold
+32	a nonmetal is a kind of element	nongold
+33	all elements are a kind of pure substance	nongold
+34	a chemical property is the opposite of a physical property	gold
+35	sodium chloride is a kind of chemical compound	nongold
+36	chlorine is a kind of green, poisonous gas	nongold
+37	a source of something emits; produces; generates; provides that something	nongold
+38	can be means able to be	nongold
+39	liquid; solid means nongaseous	nongold
+40	a hydrocarbon molecule is made of hydrogen and carbon by being chemically combined	nongold
+41	mercury is liquid at room temperature	nongold
+42	sodium chloride is a kind of molecule	nongold
+43	state means form	nongold
+44	temperature is a measure of heat energy	nongold
+45	material means substance	nongold
+46	state of matter means physical state	nongold
+47	substances are made of matter	nongold
+48	physical state means state of matter	nongold
+49	water is a kind of matter	nongold
+50	a physical property is a kind of property	nongold
+51	calcium is a kind of element	nongold
+52	to be made of something means to be formed of that something	nongold
+53	salt is a kind of solid	nongold
+54	composed of means made of	nongold
+55	materials are made of matter	nongold
+56	zinc chloride is a kind of compound	nongold
+57	a compound can be chemically separated into the elements that it is made of	nongold
+58	heat means heat energy	nongold
+59	made up of means contains; made of	nongold
+60	the Earth's atmosphere is made of 1.288 percent argon by mass	nongold
+61	water is a kind of substance	nongold
+62	if something is dissolved , then that something is the solute	nongold
+63	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+64	an element is a kind of  substance	nongold
+65	an element is a kind of material	nongold
+66	conductivity is a property of a material; substance	nongold
+67	objects are made of materials; substances; matter	nongold
+68	substances are made of elements	nongold
+69	not is similar to the opposite of	nongold
+70	an alkaline earth metal is a kind of element	nongold
+71	state of matter is a kind of physical property	nongold
+72	Fluorine(F); Chlorine(Cl); Bromine(Br); Iodine(I); Astatine(At) is located in halogens family; group 17 on the periodic table	nongold
+73	a halogen is a kind of element	nongold
+74	fluorine is not a metal	nongold
+75	a  chemical property is a kind of  property	nongold
+76	nitrogen; arsenic; phosphorus; antimony is found in the nitrogen family on the periodic table	nongold
+77	if something is made of something; a material then that something contains that something; that material	nongold
+78	an insulator is the opposite of a conductor	nongold
+79	gas is a kind of nonmetal	nongold
+80	argon is a kind of element	nongold
+81	oxygen; selenium; sulfur; tellurium; polonium is located in group 16; oxygen family on the periodic table	nongold
+82	solution is a kind of liquid	nongold
+83	made of is similar to contains	nongold
+84	an event is a kind of action	nongold
+85	hydrocarbon molecules can be large in size	nongold
+86	magnesium is a kind of substance	nongold
+87	zinc is a kind of metal	nongold
+88	metal is a kind of material	nongold
+89	water is a kind of compound	nongold
+90	if a substance is made of one element , then the substance is called an element	nongold
+91	propane;C_{3}H_{8} is a kind of gas at room temperature	nongold
+92	a compound is made of two or more elements that have been chemically combined	nongold
+93	a human is a kind of animal	nongold
+94	substances have chemical properties	nongold
+95	plant and animal matter means organic matter	nongold
+96	conductivity is a kind of physical property	nongold
+97	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+98	water contains dissolved oxygen	nongold
+99	state of matter at room temperature is a kind of physical property	nongold

@@ -1,0 +1,102 @@
+Question	Solar cells absorb energy from the sun. In order to use this energy to power household appliances, solar cells must convert the absorbed energy to	question
+Answer	electricity.	answer
+0	solar cells convert solar energy into electrical energy	gold
+1	household appliances are a kind of electrical device	gold
+2	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+3	operating electrical appliances requires electricity	nongold
+4	solar energy is a source of electricity	nongold
+5	solar power means solar energy	nongold
+6	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+7	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+8	to transform means to convert	nongold
+9	solar energy is a kind of energy	nongold
+10	to receive sunlight means to absorb sunlight	nongold
+11	electric devices require electrical energy to function	gold
+12	solar panels are a kind of power supplies	nongold
+13	the sun is the source of solar energy called sunlight	gold
+14	the sun is a source of light; light energy called sunlight	nongold
+15	energy conversion is similar to energy transformation	nongold
+16	solar energy is a kind of heat energy	nongold
+17	electricity means electrical energy	gold
+18	the sun is a source of radiation; heat called sunlight	nongold
+19	sunlight means solar energy	nongold
+20	sunlight is a kind of solar energy	nongold
+21	to power means to provide energy for	gold
+22	to turn means to convert	nongold
+23	must have means require	nongold
+24	solar energy is a kind of light	nongold
+25	to be used for something means to be required by that something	nongold
+26	electricity is used as an energy source by electrical devices	gold
+27	requiring is similar to needing help	nongold
+28	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+29	electrical energy is a kind of energy	nongold
+30	requiring something means needing that something	nongold
+31	if something transfers energy to something else then that something else absorbs that energy	nongold
+32	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+33	if something is powered by something else then that something requires a source of that something else	nongold
+34	solar energy is a renewable; inexhaustible resource	nongold
+35	receiving sunlight  is synonymous with absorbing sunlight	nongold
+36	to convert means to change	nongold
+37	a source of something emits; produces; generates; provides that something	nongold
+38	convert is similar to transfer	nongold
+39	absorbing is a kind of function	nongold
+40	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+41	all cells require energy	nongold
+42	converting is similar to generating	nongold
+43	appliance is similar to technology	nongold
+44	converting is a kind of function	nongold
+45	converting is similar to producing	nongold
+46	conversion is a kind of process	nongold
+47	a battery is a source of electrical energy; electricity	nongold
+48	if something is required then that something must be provided	nongold
+49	generating power is a kind of positive impact	nongold
+50	a  battery  is a kind of electrical power source	nongold
+51	absorbing energy causes objects; materials; substances to heat	nongold
+52	a plant cell is a kind of cell	nongold
+53	if something transfers something else then that something is a source of something else	nongold
+54	a food processor is a kind of household appliances	nongold
+55	forming is similar to converting	nongold
+56	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+57	energy transformation means one kind of energy changes into another kind of energy	nongold
+58	to use means to utilize	nongold
+59	electrical devices are used for industrial purposes; household purposes by humans	nongold
+60	to depend on; to rely on; to need means to require	nongold
+61	heat is a kind of energy	nongold
+62	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+63	where something  comes from is a source of that something	nongold
+64	solar cells often are made of silicon	nongold
+65	the Sun is a kind of star	nongold
+66	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+67	sunlight is a kind of light	nongold
+68	if something requires something else then that something requires a source of that something else	nongold
+69	a cell is very small	nongold
+70	resources sometimes are used for energy	nongold
+71	a power plant converts chemical energy from energy source into electricity	nongold
+72	using a raw material sometimes requires absorbing that raw material	nongold
+73	absorbing sunlight causes objects to heat	nongold
+74	light is a kind of energy	nongold
+75	light is a kind of energy	nongold
+76	household appliances are connected  in parallel circuit	nongold
+77	the function of something is what that something  is used to do	nongold
+78	sunlight produces heat	nongold
+79	if something is a raw material in a process then that something is required for that process	nongold
+80	a cell absorbs nutrients	nongold
+81	if something causes a process then that something is required for that process	nongold
+82	to provide something means to be the source of that something	gold
+83	the solar system is a kind of system	nongold
+84	a solar panel is made of solar cells	nongold
+85	a  plant requires sunlight for photosynthesis	nongold
+86	electricity sometimes is used for heating buildings; substances	nongold
+87	a plant is made of plant cells	nongold
+88	if something comes from something else then that something else is a source of that something	gold
+89	absorbing something harmful has a negative impact on a thing	nongold
+90	solar energy is an inexhaustible resource	nongold
+91	an energy source is a kind of resource	nongold
+92	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+93	a device requires energy to operate	nongold
+94	water absorbs light energy	nongold
+95	a cell is a kind of object	nongold
+96	solar radiation means solar energy	nongold
+97	a process usually requires all of the stages in that process	nongold
+98	if an event is required for a process then that event must occur before that process can occur	nongold
+99	to create means to make	nongold

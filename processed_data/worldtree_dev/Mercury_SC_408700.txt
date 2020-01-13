@@ -1,0 +1,102 @@
+Question	Emily made a cup of tea and stirred it with a spoon. The spoon became warm. How was the heat from the tea transferred to the spoon?	question
+Answer	conduction	answer
+0	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	gold
+1	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+2	conduction is a kind of process	nongold
+3	conductivity is a property of a material; substance	nongold
+4	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+5	tea is a kind of beverage	nongold
+6	warm; becoming warm means heat is added	nongold
+7	thermal conduction is when heat flows from warmer object to cooler object	nongold
+8	stirring is a kind of first-	nongold
+9	a spoon is a kind of object	gold
+10	if one surface; one substance; one object touches something then one is exposed to that something	gold
+11	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+12	to conduct is similar to to transfer	gold
+13	heat means the transfer of thermal energy	nongold
+14	heating means adding heat	nongold
+15	metal is a thermal; thermal energy conductor	nongold
+16	a hot substance is a source of heat	nongold
+17	temperature is a measure of heat energy	nongold
+18	heat means heat energy	nongold
+19	tea is usually hot; warm	gold
+20	if heat is conducted to an object then that object will become hot	nongold
+21	a hot; warm something is a source of heat	gold
+22	stirring is when something moves an object in a circular motion for mixing	nongold
+23	a source of something emits; produces; generates; provides that something	nongold
+24	a container contains objects; material; substances	nongold
+25	heat energy is synonymous with thermal energy	nongold
+26	being  on something; placed in something; placed over something means touching  that something	nongold
+27	emit means produce	nongold
+28	transfer is a kind of process	nongold
+29	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+30	a cup is a kind of drinking container	nongold
+31	if a container contains something then that container touches that something	nongold
+32	liquid is a kind of state of matter	nongold
+33	a liquid is a kind of substance	nongold
+34	convert is similar to transfer	nongold
+35	a thermal conductor is made of materials that conduct thermal energy	nongold
+36	an insulator is a kind of material	nongold
+37	objects are made of materials; substances; matter	nongold
+38	a container is a kind of object	nongold
+39	if an object is made of a material then that object has the properties of that material	nongold
+40	if something transfers something else then that something is a source of something else	nongold
+41	an insulator is the opposite of a conductor	nongold
+42	a liquid is a kind of fluid	nongold
+43	if heat is added to a substance then that substance absorbs that heat	nongold
+44	to add means to increase	nongold
+45	transferring is similar to adding	nongold
+46	evaporating is a kind of phase change	nongold
+47	to give off means to be the source of	nongold
+48	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+49	become warm means get warm	nongold
+50	transfer is a kind of change	nongold
+51	conducting is a kind of function	nongold
+52	adding heat means increasing temperature	nongold
+53	a surface is a part of a material	nongold
+54	heat energy  can be used to heat up  an object	nongold
+55	material means substance	nongold
+56	if an object is hot then the surfaces of that object are hot	nongold
+57	a spoon sometimes is made of metal	nongold
+58	ability to undergo a phase change is a property of a substance; material	nongold
+59	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+60	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+61	warm means medium heat energy; temperature	nongold
+62	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+63	a surface is a part of an object	nongold
+64	food is a kind of substance	nongold
+65	to cause means to make	nongold
+66	conducting is similar to exchanging	nongold
+67	if an object is put inside; poured into another object , then two objects are touching	nongold
+68	transferring is moving from one place to another place	nongold
+69	to pass means to transfer	nongold
+70	warm means warm temperature	nongold
+71	a beverage is a kind of liquid	nongold
+72	if one is holding an object then one is touching that object	nongold
+73	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+74	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+75	a material's response to heating and cooling can be used to study that material's thermal properties	nongold
+76	metal is a kind of material	nongold
+77	becoming is similar to changing	nongold
+78	if something is places over a heat source then that something is exposed to that heat source	nongold
+79	heat energy can change the state of matter	nongold
+80	a bowl is a kind of container	nongold
+81	being in something means touching that something	nongold
+82	a plastic spoon is made of plastic	nongold
+83	pouring into is a kind of transfer	nongold
+84	warm is similar to hot	nongold
+85	affected means changed	nongold
+86	to lower means to decrease	nongold
+87	if an object is held under a substance then that object is touching that substance	nongold
+88	a human is a kind of animal	nongold
+89	warm up means increase temperature	nongold
+90	food is a kind of object	nongold
+91	person is synonymous with human	nongold
+92	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+93	to reduce means to decrease	nongold
+94	counter means reduce; stop; resist	nongold
+95	solid is a kind of state of matter	nongold
+96	a source of heat can be used to heat something	nongold
+97	a source of heat can be used to heat something	nongold
+98	a person is a kind of animal	nongold
+99	thermal expansion is a property of matter and includes ordered values of high; low	nongold

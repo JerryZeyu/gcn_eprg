@@ -1,0 +1,102 @@
+0	when an animal sheds its fur , its fur becomes less dense	nongold
+1	characteristic means property	nongold
+2	an animal requires warmth for survival	nongold
+3	when a habitat can support living things , living things can live in that habitat	nongold
+4	beneficial means helpful	gold
+5	a structure is a kind of feature	gold
+6	thick fur; thick feathers can be used for keeping warm	gold
+7	An example of a seasonal change is an animal growing thick fur for keeping warm in the winter	nongold
+8	to be used for something means to be required by that something	nongold
+9	a land feature is a kind of physical characteristic	nongold
+10	length is a property of the shape of an object	nongold
+11	a human is a kind of animal	nongold
+12	an animal is a kind of living thing	gold
+13	staying warm has a positive impact on an animal's survival; health	gold
+14	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+15	to depend on; to rely on; to need means to require	nongold
+16	feature is synonymous with characteristic	gold
+17	texture means how an object feels	nongold
+18	a positive impact is  a benefit	nongold
+19	snow is a covering found on the surface of an arctic environment	nongold
+20	an animal; living thing requires nutrients for survival	nongold
+21	good means positive	nongold
+22	if a living thing becomes too cold then that living thing will die	gold
+23	a property of something is a feature of that something	nongold
+24	fur is often part of an animal	gold
+25	trait means property	nongold
+26	a living thing is a kind of object	nongold
+27	an organism is a living thing	nongold
+28	if something is required for a process then that something positively impacts that process	nongold
+29	if a living thing requires something then that something has a positive impact on that living thing	nongold
+30	a part of a living thing is a natural structure	nongold
+31	if an animal's fur is a color then that animal is that color	nongold
+32	an animal usually requires a warm body temperature for survival	nongold
+33	length is a part of size	nongold
+34	color is a property of  an object; a material	nongold
+35	mountain is a kind of geographic obstacles	nongold
+36	cold environments usually have little food for animals	nongold
+37	a mountain; hill is taller than the land around it	nongold
+38	structure is similar to shape	nongold
+39	an adaptation is a kind of characteristic	nongold
+40	Which characteristic is most beneficial for an animal living on a snowy mountain?	question
+41	a mountain is taller than a hill	nongold
+42	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+43	the arctic is a kind of environment	nongold
+44	animals; living things live and feed in their habitats; near their habitats	nongold
+45	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	gold
+46	the arctic environment covered in snow	nongold
+47	some animals shed fur in warm weather	nongold
+48	a part of something means a characteristic of something	nongold
+49	a component of something means a part of that something	nongold
+50	protecting something means preventing harm to that something	nongold
+51	harming something has a  negative impact on; effect on that something	nongold
+52	fur is usually part of a mammal	nongold
+53	skin is a part of an animal; plant	nongold
+54	negative impact is the opposite of positive impact	nongold
+55	staying warm means keeping warm	nongold
+56	life means living things	nongold
+57	fur is usually soft in texture	nongold
+58	coat means fur coat	nongold
+59	to impact means to affect	nongold
+60	trait is synonymous with characteristic	nongold
+61	an animal requires enough nutrients to maintain good health; survive	nongold
+62	providing warmth is synonymous with keeping warm	nongold
+63	a mountain is made of rocks; soil	nongold
+64	a mountain; mountain range is a kind of environment	nongold
+65	an animal requires a habitat for survival	nongold
+66	organisms; living things live in their habitat; their home	nongold
+67	a mountain is high in altitude	gold
+68	requiring is similar to needing help	nongold
+69	coloration means a thing's color	nongold
+70	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+71	requiring something means needing that something	nongold
+72	snow is a kind of object	nongold
+73	some animals' fur grows thicker for staying warm in the winter	nongold
+74	thickness is  a measure of how thick an object  is	nongold
+75	snow falls during the winter in some environments	nongold
+76	arctic animals live in an arctic environment	nongold
+77	a mountain is a kind of landform	nongold
+78	snow is cold	nongold
+79	best means most positive	nongold
+80	helping something has a  positive impact on that something	gold
+81	an environment means an area	nongold
+82	thick fur	answer
+83	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+84	an animal is a kind of organism	nongold
+85	snowy means a large amount of snow	gold
+86	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+87	what an object is made of is a kind of characteristic	nongold
+88	a mountain is a kind of land feature	nongold
+89	an part of an object is smaller than the entire object	nongold
+90	thin means small in width	nongold
+91	the thickness of the parts of an organism is an inherited characteristic	nongold
+92	a structure of something is synonymous with a part of that something	gold
+93	to be good for means to have a positive impact on	nongold
+94	a positive impact is a helpful effect	nongold
+95	snow falls during the winter in the arctic environment	nongold
+96	fur is a covering around the body of an animal	nongold
+97	hair; fur is  a part of skin for protection; keeping warm	nongold
+98	an environment is a kind of place	nongold
+99	as the thickness of something; of an object increases , the resistance to damage of that object; of that something will increase	nongold
+100	to help; to benefit means to be of use	nongold
+101	what something needs is a property of that something	nongold

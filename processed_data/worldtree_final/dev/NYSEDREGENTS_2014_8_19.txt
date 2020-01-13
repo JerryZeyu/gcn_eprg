@@ -1,0 +1,101 @@
+0	A single human body cell typically contains thousands of	question
+1	genes	answer
+2	a chromosomes of a human contains thousands of genes	gold
+3	typically means usually	nongold
+4	a body cell means a somatic cell	nongold
+5	a human cell is a kind of cell	nongold
+6	if something is a source of something else then that something usually contains that something else	nongold
+7	to be found in means to be contained in	nongold
+8	contain is similar to store	nongold
+9	a human is a kind of animal	nongold
+10	human is a kind of organism	nongold
+11	a  chromosome contains genes	nongold
+12	if something is a part of something else then that something else contains that something	nongold
+13	to contain something means to have that something	nongold
+14	usually means most of the time	nongold
+15	an animal cell is a kind of cell	nongold
+16	generally means usually	nongold
+17	if something absorbs something else then that something will contain that something else	nongold
+18	single means one	nongold
+19	if something is made of something; a material then that something contains that something; that material	nongold
+20	including means containing	nongold
+21	to contain means to have inside	nongold
+22	a homozygous recessive organism contains only recessive genes	nongold
+23	an animal is a kind of organism	nongold
+24	made of is similar to contains	nongold
+25	a somatic cell of a human contains 23 pairs of; 46  chromosomes	nongold
+26	genes are located on chromosomes	nongold
+27	cells are a part of the body	nongold
+28	made up of means contains; made of	nongold
+29	genes can be used for classifying  organisms	nongold
+30	a billion is a kind of  number	nongold
+31	genotype of  an organism means the genes of  an organism	nongold
+32	genetic; hereditary means of genes; heredity	nongold
+33	the nucleus contains genetic material for reproduction	nongold
+34	the body is a part of an organism	nongold
+35	genetics is a part of biology	nongold
+36	genes contains genetic information	nongold
+37	a heterozygous organism contains both dominant and recessive genes	nongold
+38	if something contains something , then something is able to provide something	nongold
+39	how many means what number	nongold
+40	amount is similar to number	nongold
+41	largest amount means most	nongold
+42	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+43	most means over 50% of something	nongold
+44	single-celled organism is made of only one cell	nongold
+45	containing something is similar to providing that something	nongold
+46	if something does not contain something else then that something lacks that something else	nongold
+47	a multicellular organism contains more than one cell	nongold
+48	if something is a part of something then that something can be found in that something	nongold
+49	contains means located in	nongold
+50	single-cell organism means unicellular organism	nongold
+51	to be filled with means to contain	nongold
+52	classifying is when one sorts something by kind; type	nongold
+53	a living thing is made of cells	nongold
+54	many means high in number	nongold
+55	a sex cell of a human contains 23 chromosomes	nongold
+56	form is similar to body	nongold
+57	if an offspring has a recessive trait , then each parent has at least one recessive gene	nongold
+58	a single-cell organism cannot specialize	nongold
+59	a human is a kind of mammal	nongold
+60	can be means able to be	nongold
+61	a cell is very small	nongold
+62	the number of parts of something is a property of that something	nongold
+63	to be made of is similar to collection	nongold
+64	an animal is a kind of living thing	nongold
+65	genes are made of DNA	nongold
+66	inserting a gene that performs a certain function into another organism causes that organism to also perform that function	nongold
+67	a plant cell is a kind of cell	nongold
+68	a zygote contains all the genes needed to develop into a new organism	nongold
+69	the parent cell is the original cell	nongold
+70	to carry something means to contain something	nongold
+71	genes is a vehicle for passing genetic information from one generation to  the next	nongold
+72	a cell is a kind of object	nongold
+73	a process usually requires all of the stages in that process	nongold
+74	a human sperm cell has 23; twenty-three chromosomes	nongold
+75	unit is similar to part	nongold
+76	an organism is a living thing	nongold
+77	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+78	biological means of biology	nongold
+79	a component of something means a part of that something	nongold
+80	a cell nucleus is a part of a cell	nongold
+81	a source of something emits; produces; generates; provides that something	nongold
+82	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+83	if an organism produces a substance then that organism has a gene that controls the production of that substance	nongold
+84	reproduction is when an organism passes genetic information from itself to its offspring	nongold
+85	a prokaryotic cell does not contain a nucleus	nongold
+86	offspring receives half of the genes from each parent	nongold
+87	a chromosome is a part of a cell	nongold
+88	food contains carbohydrates	nongold
+89	a type is synonymous with a kind	nongold
+90	a body part is a kind of object	nongold
+91	generate means produce	nongold
+92	evolution is a kind of process	nongold
+93	identical means copy	nongold
+94	a component means a part of	nongold
+95	receiving the recessive gene for a trait from each parent causes the offspring to have; to express that recessive trait	nongold
+96	a  homozygous dominant organism contains only dominant genes	nongold
+97	quantity means amount	nongold
+98	a multicellular organism is made of many cells	nongold
+99	human is similar to individual	nongold
+100	greatest means largest; highest; most amount of something	nongold

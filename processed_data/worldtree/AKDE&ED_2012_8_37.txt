@@ -1,0 +1,102 @@
+Question	An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?	question
+Answer	Star X is larger than star Y.	answer
+0	a star is a kind of celestial object; celestial body	nongold
+1	brighter means higher; greater in brightness	nongold
+2	a star is a source of light; light energy through nuclear reactions	nongold
+3	larger means greater; higher; more; increase in size	gold
+4	as the size of a source of light increases , that source of light will appear brighter	gold
+5	same means identical; equal in value; amount; number; quantity	nongold
+6	smaller means less; lower in size	nongold
+7	an increase is the opposite of a decrease	nongold
+8	increase means more	nongold
+9	closer means lower; less; a decrease in distance	gold
+10	the Sun is a kind of star	nongold
+11	small is the opposite of large	nongold
+12	greater means higher; more in value	nongold
+13	as a source of light becomes closer , that source will appear brighter	gold
+14	a star produces light and heat	gold
+15	higher means greater; above in value; amount; number	nongold
+16	bright means bright; light in color	nongold
+17	as distance from an object decreases , that object will appear larger	nongold
+18	astronomy is the study of celestial (objects, bodies)	nongold
+19	high is similar to increase	gold
+20	low is similar to decrease	nongold
+21	larger; bigger is the opposite of smaller	nongold
+22	as distance to an object increases , that object will appear smaller	nongold
+23	less is similar to decrease	gold
+24	bright means a lot of light	nongold
+25	dimmer is the opposite of brighter	nongold
+26	the sun is average in size for a star in our galaxy	nongold
+27	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+28	if an object is close then that object will appear large	nongold
+29	decreasing is similar to becoming smaller	nongold
+30	close means low in distance	nongold
+31	the Sun is the  star that is closest to Earth	nongold
+32	greatest means largest; highest; most amount of something	nongold
+33	dimmer means less bright	nongold
+34	to lower means to decrease	nongold
+35	a source of something emits; produces; generates; provides that something	gold
+36	to add means to increase	nongold
+37	furthest; farthest means greatest; most; highest in distance	nongold
+38	apparent magnitude is a measure of the brightness of a celestial object; celestial body as observed on Earth	nongold
+39	length is a part of size	nongold
+40	both means two	nongold
+41	largest means greatest in size	nongold
+42	a source of something increases the amount of that something	nongold
+43	a star requires energy	nongold
+44	far means great in distance	nongold
+45	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+46	as distance from a source of light increases , that source of  light will appear dimmer	nongold
+47	a star is usually larger than a planet	nongold
+48	distant means great in distance	nongold
+49	low is the opposite of high	gold
+50	an increase is a kind of change	gold
+51	the Sun has average brightness compared to other stars	nongold
+52	a decrease is a kind of change	gold
+53	intensity of sunlight is similar to amount of sunlight	nongold
+54	variable means able to change	nongold
+55	the sun is a source of radiation; heat called sunlight	nongold
+56	near; close is the opposite of far; away	nongold
+57	less is the opposite of more	nongold
+58	far is the opposite of close	nongold
+59	best means most positive	nongold
+60	the sun is a source of light; light energy called sunlight	nongold
+61	two objects are usually different in size	nongold
+62	an part of an object is smaller than the entire object	nongold
+63	faster means an increase; higher in speed	nongold
+64	lower means less	nongold
+65	a star is very hot in temperature	nongold
+66	larger is a kind of difference	nongold
+67	as distance from a source of something increases , that something will decrease	nongold
+68	stay the same means not changing	nongold
+69	studying  something usually requires seeing that something	nongold
+70	to change means to become different	gold
+71	different is the opposite of the same	gold
+72	if something emits something else then that something increases the amount of that something else	nongold
+73	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+74	mass; weight are the same on Earth	nongold
+75	hot means high in heat energy; temperature	nongold
+76	mass is similar to size	nongold
+77	less means a reduced amount	nongold
+78	size difference is a kind of difference	nongold
+79	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+80	as the light reflected off of an object increases , the object will appear to be brighter	nongold
+81	little means small	nongold
+82	sunlight is a kind of light	nongold
+83	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+84	opposite is a kind of different	nongold
+85	appear is similar to apparent	nongold
+86	to reduce means to decrease	nongold
+87	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+88	distance is a property of space and includes ordered values of close; far	nongold
+89	light means low  in weight	nongold
+90	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+91	the sun is a kind of yellow dwarf	nongold
+92	low means down	nongold
+93	amount is similar to number	nongold
+94	stars are located light years apart from each other	nongold
+95	little is similar to decrease	nongold
+96	little means low in amount	nongold
+97	distant means far away	nongold
+98	stars are some of the hottest objects	nongold
+99	intense means high in intensity	nongold

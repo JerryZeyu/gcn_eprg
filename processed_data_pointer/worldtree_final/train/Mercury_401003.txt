@@ -1,0 +1,101 @@
+0	to be good for means to have a positive impact on	nongold
+1	person is synonymous with human	nongold
+2	a person is a kind of animal	nongold
+3	to be used for something means to be required by that something	nongold
+4	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	nongold
+5	a part of a process means a stage in a process	nongold
+6	affected means changed	nongold
+7	reducing bacteria in food prevents illness in people	nongold
+8	dead organisms are a source of disease	nongold
+9	an autoimmune disease is when the body attacks its own tissues	nongold
+10	harming an organism can cause that organism to die	nongold
+11	Many illnesses will be prevented or cured.	answer
+12	helping means something can be done; completed more easily; better	nongold
+13	something harmful can cause harm	nongold
+14	if something gains something from something else then that something else is a source of that something	nongold
+15	to prevent means to make it not happen	nongold
+16	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+17	receiving a treat is a kind of positive effect	nongold
+18	preventing something decreases the amount of that something	nongold
+19	illness has a negative impact on an organism's health	nongold
+20	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+21	an animal is a kind of consumer	nongold
+22	helping something has a  positive impact on that something	nongold
+23	bacteria; viruses cause food poisoning	nongold
+24	decreasing something negative has a positive impact on a thing	gold
+25	disease means illness	gold
+26	a bacterium is a kind of organism	nongold
+27	saving an organism's life means preventing the death of that organism	nongold
+28	a worm is a kind of animal	nongold
+29	a biologist is a kind of scientist	nongold
+30	nonliving; non-living; die is the opposite of living; alive; live	nongold
+31	dysentery is a kind of illness	nongold
+32	biology is a kind of science	nongold
+33	healthy means not having disease	nongold
+34	a communicable disease can be spread from one person to  other people through contact	nongold
+35	a research team is made of humans	nongold
+36	impact means effect	nongold
+37	to cause means to have an effect	nongold
+38	adverse effect means negative impact	nongold
+39	a positive impact is  a benefit	gold
+40	food poisoning is a kind of illness	nongold
+41	best means most positive	nongold
+42	high is similar to increase	nongold
+43	a process is a kind of event	nongold
+44	bacteria can cause people to become ill	nongold
+45	infection often requires medical treatment	nongold
+46	healing is a kind of biological process	nongold
+47	vaccines are a source of long-term immunity against some diseases for the human body	nongold
+48	a scientist is a kind of human	nongold
+49	most means over 50% of something	nongold
+50	a fungus is a kind of organism	nongold
+51	many means high in number	nongold
+52	pathogen is similar to harmful substance	nongold
+53	cure means solution to being sick	gold
+54	requiring is similar to needing help	nongold
+55	dying is the opposite of living; surviving	nongold
+56	to prevent the occurence of an event means to decrease the occurence of the event	gold
+57	to help; to benefit means to be of use	nongold
+58	virus is a kind of living thing	nongold
+59	harming something has a  negative impact on; effect on that something	nongold
+60	society is made of humans	gold
+61	if something causes a process then that something is required for that process	nongold
+62	to depend on; to rely on; to need means to require	nongold
+63	a source of something emits; produces; generates; provides that something	nongold
+64	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+65	better means good	nongold
+66	human is a kind of organism	nongold
+67	the immune system defends the body against disease	nongold
+68	an event is a kind of action	nongold
+69	pathogens can cause disease	nongold
+70	In what way does society benefit from research on diseases?	question
+71	an animal; living thing requires nutrients for survival	nongold
+72	good means positive	nongold
+73	organisms are a part of an environment	nongold
+74	researcher is a kind of scientist	nongold
+75	a human is a kind of animal	gold
+76	if an organism dies then the population of that organism will decrease	nongold
+77	to keep something from happening means to prevent that something	nongold
+78	society is similar to culture	nongold
+79	a producer is a kind of living thing	nongold
+80	an animal is a kind of organism	gold
+81	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+82	vaccines can help prevent illness	nongold
+83	to inhibit means to prevent	nongold
+84	an organism is a living thing	nongold
+85	how many means what number	nongold
+86	bacteria sometimes cause disease	nongold
+87	death means to die	nongold
+88	inhibitor means something that prevents something from happening	nongold
+89	negative impact is the opposite of positive impact	nongold
+90	a negative impact is a kind of consequence; risk	nongold
+91	avoiding is similar to preventing	nongold
+92	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+93	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+94	disease has a negative impact on an organism	gold
+95	being sick is a kind of problem; harm	nongold
+96	causing is a kind of affecting	nongold
+97	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+98	an animal is a kind of living thing	nongold
+99	protecting something means preventing harm to that something	nongold
+100	if something is required for a process then that something positively impacts that process	nongold

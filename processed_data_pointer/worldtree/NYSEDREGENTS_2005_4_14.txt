@@ -1,0 +1,102 @@
+Question	Which animal is preparing for a seasonal change in the environment?	question
+Answer	a squirrel storing nuts	answer
+0	a squirrel is a kind of animal	gold
+1	a squirrel is a kind of herbivore	nongold
+2	squirrels store food in the autumn to eat during the winter	nongold
+3	squirrels gather nuts in the autumn to  eat during the winter	gold
+4	a seasonal change is a kind of environmental change	nongold
+5	squirrels eat edible plants; fruit	nongold
+6	seasons cause change to the environment	nongold
+7	In the tree reproduction process a squirrel has the role of  seed disperser	nongold
+8	squirrels live in forests	nongold
+9	An example of  preparing is storing something for use later	gold
+10	nuts are a kind of fruit	gold
+11	an animal is a kind of living thing	nongold
+12	seasonal changes are made in response to changes in the environment	nongold
+13	nut is a kind of  food	nongold
+14	usually squirrels sleep through the winter	nongold
+15	a seed is used for storing food for a new plant	nongold
+16	fruit contains seeds	nongold
+17	an environment means an area	nongold
+18	surroundings means environment	nongold
+19	an animal is a kind of organism	nongold
+20	winter means environmental; outdoor temperature decreases	nongold
+21	winter is a kind of season	gold
+22	annual means once per year	nongold
+23	changes in an environment cause animals; plants to adapt to survive	nongold
+24	a berry is a kind of fruit	nongold
+25	seeds are a part of  berries	nongold
+26	a berry contains seeds	nongold
+27	if an animal relies on plants for food then that animal must store enough food to last through the winter	gold
+28	fruit is a part of a plant; tree	nongold
+29	each season occurs once per year	nongold
+30	Autumn is a kind of season	nongold
+31	a living thing is a kind of object	nongold
+32	precipitation is a kind of weather	nongold
+33	seed dispersal is when the seeds of a plant are moved from the plant to  a new environment	nongold
+34	seed dispersal is when the seeds of a plant are moved; are carried; are spread; are dropped; from the parent plant to another area	nongold
+35	an increase is a kind of change	nongold
+36	a seed is a part of a plant	nongold
+37	keeping is similar to storing	nongold
+38	a plant is a kind of living thing	nongold
+39	a forest is a kind of environment	nongold
+40	plant requires seed dispersal for reproduction	nongold
+41	a plant; living thing requires food for survival	nongold
+42	plants are the source of fruit	gold
+43	a gourd is a kind of fruit	nongold
+44	a pumpkin contains seeds	nongold
+45	winter is a part of the year	nongold
+46	fruit is a kind of food	nongold
+47	yearly means every year	nongold
+48	objects in an environment are a part of that environment	nongold
+49	a mammal is a kind of animal	nongold
+50	An example of seed dispersal is animals eating; excreting seeds	nongold
+51	snow falls during the winter in some environments	nongold
+52	plants are a part of the environment	nongold
+53	a seed is a kind of food for birds	nongold
+54	an acorn is a kind of seed	nongold
+55	an environment is a kind of place	nongold
+56	spring follows winter	nongold
+57	a fruit is a kind of object	nongold
+58	spring increases the amount of available food in an environment	nongold
+59	humans sometimes eat seeds	nongold
+60	season is a major yearly temperature change	nongold
+61	increase means more	nongold
+62	a change is a kind of event	nongold
+63	high is similar to increase	nongold
+64	precipitation is a kind of  natural process	nongold
+65	a plant is a kind of organism	nongold
+66	every summer  is a kind of period of time	nongold
+67	summer is a kind of season	nongold
+68	different seasons occur during different times of the year	nongold
+69	an animal is a kind of consumer	nongold
+70	corn is a kind of seed	nongold
+71	adapting is when a living thing responds to a change in an environment	nongold
+72	precipitation is when water falls from the sky	nongold
+73	a seed is a kind of young plant	nongold
+74	seed dispersal has a positive impact on a plant; a plant's reproduction	nongold
+75	a decrease is a kind of change	nongold
+76	an event is a kind of action	nongold
+77	change is a kind of process	nongold
+78	to store means to hold	nongold
+79	contain is similar to store	nongold
+80	a tree is a kind of living thing	nongold
+81	an organism is a living thing	nongold
+82	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+83	answering questions requires information	nongold
+84	snow is a kind of precipitation	nongold
+85	fruit is  usually a solid	nongold
+86	an animal; living thing requires nutrients for survival	nongold
+87	a new season occurs four times per year	nongold
+88	spring is a kind of season	nongold
+89	summer follows spring	nongold
+90	a leaf performs photosynthesis; gas exchange	nongold
+91	nature means a natural environment	nongold
+92	colder; cooler means lower in temperature	nongold
+93	a new season occurs once per 3.0 months	nongold
+94	weather changes from seasons to seasons	nongold
+95	habitat is similar to environment	nongold
+96	a climate is synonymous with an environment	nongold
+97	an environment is similar to an ecosystem	nongold
+98	to change means to cause a change	nongold
+99	variable means able to change	nongold

@@ -1,0 +1,52 @@
+0	Which weather instrument measures air pressure?	question
+1	rainy is a kind of weather	nongold
+2	extreme means very high in value	nongold
+3	a barometer is a kind of instrument for measuring air pressure	gold
+4	barometer	answer
+5	a  gas is a kind of  element	nongold
+6	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+7	to create means to make	nongold
+8	to reduce means to decrease	nongold
+9	affected means changed	nongold
+10	the atmosphere is a kind of area	nongold
+11	temperature is a property of weather	nongold
+12	a barometer is used to measure air pressure	gold
+13	a tool is a kind of object	nongold
+14	low means low in elevation; height; altitude	nongold
+15	a meter is a kind of unit for measuring distance; measuring length	nongold
+16	instrument means device	nongold
+17	a barometer is used to measure air pressure	gold
+18	barometer	answer
+19	measuring is a kind of observing	nongold
+20	a barometer is a kind of instrument for measuring air pressure	gold
+21	cold is a kind of weather	nongold
+22	seconds are a kind of unit for measuring time	nongold
+23	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+24	low means down	nongold
+25	barometer	answer
+26	a bar is a kind of object	nongold
+27	an anemometer is a kind of instrument for measuring wind speed	nongold
+28	instrument means tool	nongold
+29	pressure is a kind of condition	nongold
+30	high pressure systems cause clear weather	nongold
+31	weather is a source of wind and water for the weathering process	nongold
+32	Which weather instrument measures air pressure?	question
+33	a barometer is used to measure air pressure	gold
+34	gas is a kind of state of matter	nongold
+35	atmospheric means of the atmosphere	nongold
+36	barometer	answer
+37	if a cover is put on in a location , then the  air pressure inside of the bottle will be equal to the air pressure of that location	nongold
+38	Which weather instrument measures air pressure?	question
+39	snowstorm is a kind of weather	nongold
+40	Which weather instrument measures air pressure?	question
+41	a measurement is a kind of data	nongold
+42	storm is a kind of weather; weather event	nongold
+43	a thermometer is a kind of instrument for measuring temperature	nongold
+44	air is a kind of gas	nongold
+45	seconds are used to measure time	nongold
+46	the air is a kind of substance	nongold
+47	gas is a kind of material	nongold
+48	low is similar to decrease	nongold
+49	a barometer is a kind of instrument for measuring air pressure	gold
+50	can be means able to be	nongold
+51	a decrease is a kind of change	nongold

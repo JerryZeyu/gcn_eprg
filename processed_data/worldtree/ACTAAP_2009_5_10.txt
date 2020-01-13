@@ -1,0 +1,102 @@
+Question	Which is a physical property of an apple?	question
+Answer	what color it is	answer
+0	color is a kind of physical; visual property	gold
+1	color is a property of  an object; a material	gold
+2	an apple is a kind of fruit	gold
+3	an apple is red in color	nongold
+4	a physical property is a kind of property	nongold
+5	an  apple is  hard	nongold
+6	an  apple is  round in shape	nongold
+7	coloration means a thing's color	nongold
+8	an apple is smooth on the surface	nongold
+9	an apple tree is a kind of plant	nongold
+10	the color of an environment means the color of the things that environment contains	nongold
+11	a property of something is a feature of that something	nongold
+12	a type of something is a kind of property of that something	nongold
+13	a fruit is a kind of object	gold
+14	state of matter is a kind of physical property	nongold
+15	state of matter at room temperature is a kind of physical property	nongold
+16	color is an intensive property	nongold
+17	a living thing is a kind of object	nongold
+18	an object has properties	nongold
+19	shape is a kind of physical property	nongold
+20	fruit is  usually a solid	nongold
+21	if something undergoes a physical change then the physical properties of that something will change	nongold
+22	structure is a property of an object; a material; a substance	nongold
+23	appearance is sometimes a physical property	nongold
+24	coloration means a pattern of colors	nongold
+25	the colors of parts of an organism are inherited characteristics	nongold
+26	variability of shape; variability of volume is a kind of physical property	nongold
+27	a chemical property is the opposite of a physical property	nongold
+28	appearance  is a kind of physical property	nongold
+29	physical state means state of matter	nongold
+30	state of matter means physical state	nongold
+31	green is a kind of color	nongold
+32	a leaf is a kind of object	nongold
+33	objects are made of materials; substances; matter	nongold
+34	chemical change is the opposite of physical change	nongold
+35	colorless means no color	nongold
+36	composition is a property of an object; matter	nongold
+37	what something needs is a property of that something	nongold
+38	what an object is made of is a kind of characteristic	nongold
+39	texture is a kind of physical property	nongold
+40	an animal is a kind of living thing	nongold
+41	shape of the parts of something is a property of that something	nongold
+42	shape is a property of an object	nongold
+43	the effects of something is a property of that something	nongold
+44	a tree is a kind of living thing	nongold
+45	blue is a kind of color	nongold
+46	state means form	nongold
+47	white is a kind of color	nongold
+48	a structure of something is synonymous with a part of that something	nongold
+49	a tree is a kind of matter	nongold
+50	yellow is a kind of color	nongold
+51	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+52	appearance is a property of objects; materials	nongold
+53	fruit is a kind of food	nongold
+54	can be means able to be	nongold
+55	as amount; size of something increases , the intensive properties of that something will not change	nongold
+56	solid is a kind of state of matter	nongold
+57	a surface is a part of an object	nongold
+58	red is a kind of color	nongold
+59	an part of an object is smaller than the entire object	nongold
+60	composed of means made of	nongold
+61	brown is a kind of color	nongold
+62	orange is a kind of color	nongold
+63	dark means dark in color	nongold
+64	the color of an object can be discovered by looking at that object	nongold
+65	an object is made of its parts	nongold
+66	not is similar to the opposite of	nongold
+67	form means kind	nongold
+68	density is a kind of physical property	nongold
+69	characteristic means property	nongold
+70	phase means state	nongold
+71	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+72	affected means changed	nongold
+73	to be formed by is similar to being produced by	nongold
+74	a plant is a kind of living thing	nongold
+75	shape is a property of the appearance of an object	nongold
+76	a type is synonymous with a kind	nongold
+77	bright means bright; light in color	nongold
+78	coloration is a kind of adaptation for hiding;camouflage	nongold
+79	black is a kind of color	nongold
+80	variable means able to change	nongold
+81	hardness is a kind of physical property	nongold
+82	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+83	a part of something means a characteristic of something	nongold
+84	made of is similar to contains	nongold
+85	if an object is black then that object absorbs all visible light; heat	nongold
+86	to give is similar to to cause	nongold
+87	a  chemical property is a kind of  property	nongold
+88	purple;violet;magenta is a kind of color	nongold
+89	to contain means to have inside	nongold
+90	pink is a kind of color	nongold
+91	temperature changing does not cause color to change	nongold
+92	to be made of something means to be formed of that something	nongold
+93	to convert means to change	nongold
+94	if an object reflects a light of a certain color then the object appears to be that color	nongold
+95	as the state  of matter changes , the color of the object will stay the same	nongold
+96	a gourd is a kind of fruit	nongold
+97	conductivity is a kind of physical property	nongold
+98	a phase change is a kind of physical change	nongold
+99	materials are made of matter	nongold

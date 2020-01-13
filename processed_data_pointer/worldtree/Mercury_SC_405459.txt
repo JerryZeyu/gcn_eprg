@@ -1,0 +1,102 @@
+Question	Corn can be used to make ethanol, which is a fuel for some cars. What problem could be caused by the increased use of ethanol?	question
+Answer	decrease in nutrients in soil	answer
+0	a problem has a negative impact on a thing	nongold
+1	corn is a kind of plant	nongold
+2	ethanol sometimes is made of corn	gold
+3	crops; farming cause nutrients in the soil to decrease	gold
+4	a concern; a problem is a possible negative impact	nongold
+5	corn is a kind of crop	gold
+6	causing problems is a kind of negative impact	nongold
+7	soil contains nutrients for plants	nongold
+8	low quality soil has a small; a low number of nutrients	nongold
+9	a car is a kind of vehicle	nongold
+10	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+11	soil is usually part of an environment	nongold
+12	as the use of something decreases , the use of the source of that something will decrease	nongold
+13	a plant requires soil for survival; to grow	nongold
+14	an animal; living thing requires nutrients for survival	nongold
+15	an increase is the opposite of a decrease	gold
+16	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+17	corn is a kind of seed	nongold
+18	to reduce means to decrease	nongold
+19	an automobile is a kind of vehicle	nongold
+20	decomposition increases the  amount of nutrients; nitrogen in the soil	nongold
+21	less is similar to decrease	nongold
+22	harming something has a  negative impact on; effect on that something	nongold
+23	if some nutrients are in the soil then those nutrients are in the food chain	nongold
+24	address a problem means reduce a problem	nongold
+25	renewing soil increases nutrients in the soil	nongold
+26	a car is a kind of automobile	nongold
+27	a plant is a kind of organism	nongold
+28	a car is a kind of object	nongold
+29	a plant is a kind of living thing	nongold
+30	a plant; living thing requires food for survival	nongold
+31	often soil is found in an environment	nongold
+32	to lower means to decrease	nongold
+33	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+34	problem is similar to issue	nongold
+35	nutrient poor soil means low quality soil	nongold
+36	decreasing something negative has a positive impact on a thing	nongold
+37	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+38	to cause means to make	nongold
+39	as the cause of something decreases , that something will decrease	nongold
+40	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+41	decreasing something positive has a negative impact on a thing	nongold
+42	negative impact is the opposite of positive impact	nongold
+43	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+44	a source of something increases the amount of that something	nongold
+45	a corn kernel is a part of a  corn	nongold
+46	soil is a renewable resource for growing plants	nongold
+47	low is similar to decrease	nongold
+48	to be used for something means to be required by that something	nongold
+49	if a living thing requires something then that something has a positive impact on that living thing	nongold
+50	a plant; living thing requires nutrients to grow	nongold
+51	helping something has a  positive impact on that something	nongold
+52	the top layer of soil contains the most nutrients	nongold
+53	an animal needs to eat food for nutrients	nongold
+54	plants are a part of the environment	nongold
+55	a food contains nutrients for living things	nongold
+56	adverse effect means negative impact	nongold
+57	ethanol is a kind of substance	nongold
+58	if something emits something else then that something increases the amount of that something else	nongold
+59	high is similar to increase	nongold
+60	requiring is similar to needing help	nongold
+61	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+62	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+63	an animal is a kind of living thing	nongold
+64	a decrease is a kind of change	nongold
+65	soil is a kind of material	nongold
+66	green plants are a kind of producer	nongold
+67	nutrients are a kind of substance	nongold
+68	as available water in an environment decreases , the amount of available food in that environment will decrease	nongold
+69	changes in the pH of soil can cause plants to die	nongold
+70	soil is made of solid particles	nongold
+71	nutrients are a kind of resource	nongold
+72	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+73	an organism is a living thing	nongold
+74	a producer is a kind of living thing	nongold
+75	organisms are a part of an environment	nongold
+76	if something with the same function as something else is being used then the use of that something else decreases	nongold
+77	roots are a vehicle for absorbing water and nutrients from soil into the plant	nongold
+78	using the fuel requires burning the fuel	nongold
+79	using a car causes pollution	nongold
+80	to help; to benefit means to be of use	nongold
+81	a plants; living things require water for survival; to grow	nongold
+82	to add means to increase	nongold
+83	an animal requires enough nutrients to maintain good health; survive	nongold
+84	make means produce	nongold
+85	to cause means to have an effect	nongold
+86	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+87	crops are a kind of edible plant for eating	nongold
+88	operating an automobile usually requires fossil fuels	nongold
+89	an increase is a kind of change	nongold
+90	a car engine is a part of a car	nongold
+91	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+92	something harmful can cause harm	nongold
+93	automobiles; industrialization are a source of carbon dioxide	nongold
+94	providing something means making;delivering something	nongold
+95	little is similar to decrease	nongold
+96	a nutrient is a kind of object	nongold
+97	increase means more	nongold
+98	crops grow in soil	nongold
+99	if something causes an increase in something else then that something produces that something else	nongold

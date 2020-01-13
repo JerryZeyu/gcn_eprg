@@ -1,0 +1,102 @@
+Question	A single-cell organism can do everything a cell from a multicellular organism can do except	question
+Answer	specialize.	answer
+0	a multicellular organism is a kind of living thing	nongold
+1	a single-celled organism is a kind of living thing	nongold
+2	a single-celled organism is a kind of organism	nongold
+3	a multicellular organism is made of many cells	nongold
+4	single-cell organism means unicellular organism	nongold
+5	single-celled organism is made of only one cell	nongold
+6	a multicellular organism contains more than one cell	nongold
+7	a multicellular organism has more than one cell	nongold
+8	the cells of multicellular organisms can specialize	gold
+9	a single-cell organism cannot specialize	gold
+10	a single-celled organism's organelles are like the organs of a multi-celled organism	nongold
+11	multicellular organisms produce more cells through cell division	nongold
+12	single means one	nongold
+13	if a cell can not specialize then that cell must perform all life functions	nongold
+14	a yeast cell is a kind of single cell organism	nongold
+15	a single-cell organism can survive without the help of other cells	nongold
+16	an animal cell is a kind of cell	nongold
+17	an organism is a living thing	nongold
+18	cells working together requires cells to specialize	nongold
+19	a multicellular organism is large enough to be visible	nongold
+20	a living thing is made of cells	nongold
+21	an animal is a kind of organism	nongold
+22	if an organism can do something , then that organism is able to do that something	nongold
+23	two somatic cells from the same multicellular organism will have the same number of chromosomes	nongold
+24	a cell is very small	nongold
+25	the function of something is what that something  is used to do	nongold
+26	a cell is a kind of object	nongold
+27	an animal is a kind of living thing	nongold
+28	answering questions requires information	nongold
+29	a unicellular organism has one cell	nongold
+30	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+31	if something performs a task then that task is that something's function	nongold
+32	basic life functions occur in the cells of organisms	nongold
+33	double is a kind of increase	nongold
+34	a cell nucleus is a part of a cell	nongold
+35	if something has the ability to do something else , then that something can do that something else	nongold
+36	the ability to do means be able to do	nongold
+37	the cell membrane is a part of a cell	nongold
+38	except means not	nongold
+39	fungi can be multicellular	nongold
+40	to be used for something means to be required by that something	nongold
+41	a human cell is a kind of cell	nongold
+42	all living things are made of cells according to the cell theory	nongold
+43	can be means able to be	nongold
+44	the parent cell is the original cell	nongold
+45	a plant cell is a kind of cell	nongold
+46	role means niche	nongold
+47	cells are a part of the body	nongold
+48	fungi are sometimes single-celled organisms	nongold
+49	high is similar to increase	nongold
+50	a cell membrane is a kind of cell structure	nongold
+51	the cell nucleus controls many of the functions of the cell	nongold
+52	can means having the ability to	nongold
+53	if something causes a process then that something is required for that process	nongold
+54	to be a vehicle for is a kind of function	nongold
+55	a producer is a kind of living thing	nongold
+56	cell activity means cell process	nongold
+57	a body cell means a somatic cell	nongold
+58	organisms mean life	nongold
+59	a living thing is a kind of object	nongold
+60	an amoeba is a kind of single-celled organism	nongold
+61	to be capable means can	nongold
+62	the cell membrane is the membrane around the cell of all living things	nongold
+63	producing is a kind of function	nongold
+64	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	the cell cycle is when a cell forms new cells	nongold
+67	to work means to function	nongold
+68	an animal is a kind of eukaryote	nongold
+69	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+70	providing is a kind of function	nongold
+71	causing is a kind of function	nongold
+72	a kind of something is an example of that something	nongold
+73	all cells perform cellular respiration	nongold
+74	living things perform biological processes	nongold
+75	where something  comes from is a source of that something	nongold
+76	a type is synonymous with a kind	nongold
+77	producer is a kind of role in the food chain process; in an ecosystem	nongold
+78	trait is synonymous with characteristic	nongold
+79	affected means changed	nongold
+80	all cells require energy	nongold
+81	something is used for that something's purpose	nongold
+82	if something comes from something else then that something else is a source of that something	nongold
+83	a base is basic	nongold
+84	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	nongold
+85	cell division means cell reproduction	nongold
+86	converting is similar to producing	nongold
+87	the cell membrane provides support; protection for a cell	nongold
+88	form means kind	nongold
+89	ability is a kind of characteristic	nongold
+90	the cell is the most basic structural unit of life	nongold
+91	an object; material; substance comes from that object or material's source	nongold
+92	a process usually requires all of the stages in that process	nongold
+93	biotic means living	nongold
+94	providing something means making;delivering something	nongold
+95	role means function	nongold
+96	to produce means to provide	nongold
+97	function is similar to purpose	nongold
+98	system means a set of objects	nongold
+99	to provide something means to be the source of that something	nongold

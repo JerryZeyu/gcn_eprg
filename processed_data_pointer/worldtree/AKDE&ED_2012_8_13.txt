@@ -1,0 +1,102 @@
+Question	Which behavior can help animals establish a territory?	question
+Answer	A wolf pack howls to warn other wolves to stay away.	answer
+0	howling is used to warn other wolves by wolves	gold
+1	establishing a territory requires keeping other animals away	gold
+2	a wolf is a kind of animal	gold
+3	howling is a kind of behavior	gold
+4	a wolf pack is made of wolves	gold
+5	to remain means to stay where it is	nongold
+6	actions mean behavior	nongold
+7	helping something has a  positive impact on that something	nongold
+8	an animal is a kind of living thing	nongold
+9	to help; to benefit means to be of use	nongold
+10	to help means to aid	nongold
+11	helping means to assist in a change	nongold
+12	animal instinct means instinctive behavior	nongold
+13	to be used  for something means to help to do that something	nongold
+14	protecting something means preventing harm to that something	nongold
+15	an animal is a kind of organism	nongold
+16	to remain means to stay the same	nongold
+17	repel means move away	nongold
+18	to protect means to make safe	nongold
+19	keeping means staying	gold
+20	action means activity	nongold
+21	harming something has a  negative impact on; effect on that something	nongold
+22	staying means not changing	nongold
+23	to move away means to increase distance	nongold
+24	live is similar to stay	nongold
+25	away is a kind of direction	nongold
+26	fur is often part of an animal	nongold
+27	toward is the opposite of away	nongold
+28	requiring is similar to needing help	nongold
+29	a behavior is a kind of characteristic	nongold
+30	to protect means to defend	nongold
+31	a predator is a kind of animal	nongold
+32	near; close is the opposite of far; away	nongold
+33	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+34	danger has a negative impact on a thing	nongold
+35	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+36	to be in danger means to be around; to be near something dangerous	nongold
+37	warning  people of something requires knowing about; predicting that something	nongold
+38	wolves eat elk; deer	nongold
+39	hiding is a kind of protection against predators; from predators	nongold
+40	sensing a warning means receiving a warning	nongold
+41	harm means danger	nongold
+42	an environment means an area	nongold
+43	to keep something occurring means to cause that something to occur	nongold
+44	help means advantage	nongold
+45	a human is a kind of animal	nongold
+46	good means positive	nongold
+47	apart means away	nongold
+48	to remain means to not change	nongold
+49	a living thing is a kind of object	nongold
+50	animals usually distance themselves from humans	nongold
+51	a tiger is a kind of animal	nongold
+52	an animal knows how to do  instinctive behaviors when it is born	nongold
+53	to enable is to help	nongold
+54	a predator eats other animals for food	nongold
+55	best means most positive	nongold
+56	an threat threatens	nongold
+57	to hurt means to harm	nongold
+58	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+59	to stay means to continue to exist	nongold
+60	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+61	being around something means surrounding  that something	nongold
+62	distant means far away	nongold
+63	better means good	nongold
+64	if an animal is trained to do something then that something is a learned behavior	nongold
+65	communication is a learned behavior	nongold
+66	a fox is a kind of animal	nongold
+67	negative impact is the opposite of positive impact	nongold
+68	a danger is dangerous	nongold
+69	killing means harming something causing death	nongold
+70	to make something easier means to help	nongold
+71	near means close	nongold
+72	coat means fur coat	nongold
+73	something hard; something strong can be used for protection	nongold
+74	high is similar to increase	nongold
+75	warning people of dangers has a positive impact on the safety of those people	nongold
+76	if a living thing requires something then that something has a positive impact on that living thing	nongold
+77	proximity means distance	nongold
+78	communication can be used to warn people of dangers	nongold
+79	An example of being careful is avoiding danger	nongold
+80	action can cause change	nongold
+81	fur is a covering around the body of an animal	nongold
+82	an event is a kind of action	nongold
+83	avoiding is similar to preventing	nongold
+84	stay the same means not changing	nongold
+85	protecting is a kind of function	nongold
+86	human is similar to individual	nongold
+87	threatening behavior causes a fight-or-flight response in animals	nongold
+88	damage means harm	nongold
+89	close means low in distance	nongold
+90	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+91	inhibitor means something that prevents something from happening	nongold
+92	can be means able to be	nongold
+93	a bear is a kind of predator	nongold
+94	to keep a process or event happening is similar to causing that process or event to happen	nongold
+95	an organism is a living thing	nongold
+96	to be good for means to have a positive impact on	nongold
+97	stop means not move	nongold
+98	leave alone means not change	nongold
+99	staying warm means keeping warm	nongold

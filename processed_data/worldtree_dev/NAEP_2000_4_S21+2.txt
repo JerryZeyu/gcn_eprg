@@ -1,0 +1,102 @@
+Question	Beryl finds a rock and wants to know what kind it is. Which piece of information about the rock will best help her to identify it?	question
+Answer	The minerals the rock contains	answer
+0	to identify means to discover	nongold
+1	form means kind	nongold
+2	if something is a part of something else then that something else contains that something	nongold
+3	to be found in means to be contained in	nongold
+4	to discover means to find	nongold
+5	if something is a source of something else then that something usually contains that something else	nongold
+6	if something is made of something; a material then that something contains that something; that material	gold
+7	a mineral is a kind of object	nongold
+8	knowing the properties of something means knowing information about that something	gold
+9	helping something has a  positive impact on that something	nongold
+10	to help means to aid	nongold
+11	to help; to benefit means to be of use	nongold
+12	the properties of something can be used to identify; used to describe that something	gold
+13	a piece of something is a kind of object	nongold
+14	rock is made of minerals	gold
+15	finding something means locating that something	nongold
+16	to contain something means to have that something	nongold
+17	to contain means to have inside	nongold
+18	a rock is a kind of object	gold
+19	a mineral is a kind of solid; natural material	nongold
+20	to be used  for something means to help to do that something	nongold
+21	made of is similar to contains	nongold
+22	to detect means to find	nongold
+23	the composition of something can be used to identify that something	gold
+24	classifying is when one sorts something by kind; type	nongold
+25	including means containing	nongold
+26	data means information	nongold
+27	something's function can be used to describe; identify that something	nongold
+28	made up of means contains; made of	nongold
+29	a type is synonymous with a kind	nongold
+30	best means most positive	nongold
+31	finding something requires sensing that something	nongold
+32	helping means something can be done; completed more easily; better	nongold
+33	contain is similar to store	nongold
+34	category means kind	nongold
+35	if something absorbs something else then that something will contain that something else	nongold
+36	objects are made of materials; substances; matter	nongold
+37	to be helpful means to help to do	nongold
+38	identifying sometimes requires examining	nongold
+39	if something exists on a surface then that surface contains that something	nongold
+40	indication is similar to a piece of information	nongold
+41	classifying means grouping objects; materials by their properties	nongold
+42	to discover means to make a discovery	nongold
+43	if something is a part of something then that something can be found in that something	nongold
+44	rock is a kind of material	nongold
+45	rock means stone	nongold
+46	search for means seek to find	nongold
+47	a living thing is a kind of object	nongold
+48	seeking something means trying to find; searching for something	nongold
+49	if something does not contain something else then that something lacks that something else	nongold
+50	a property is a kind of information	gold
+51	a piece of an object is smaller in size than the whole object	nongold
+52	contains means located in	nongold
+53	helping means to assist in a change	nongold
+54	a piece is a part of a whole	nongold
+55	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+56	class is a property of a rock and includes values of sedimentary; metamorphic; igneous	nongold
+57	discovering something usually requires seeing that something	nongold
+58	curiosity means the need to know new information	nongold
+59	can be means able to be	nongold
+60	if something contains something , then something is able to provide something	nongold
+61	a description sometimes provides information	nongold
+62	sedimentary is a kind of rock	nongold
+63	containing something is similar to holding something	nongold
+64	material means substance	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	a rock is usually a solid	nongold
+67	composition is a kind of information	nongold
+68	to be made of is similar to collection	nongold
+69	a human is a kind of animal	nongold
+70	an part of an object is smaller than the entire object	nongold
+71	sedimentary rocks are made of small particles	nongold
+72	a person is a kind of animal	nongold
+73	location is a kind of information	nongold
+74	communicating means sharing information	nongold
+75	containing something is similar to providing that something	nongold
+76	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+77	a type of something is a kind of property of that something	nongold
+78	composed of means made of	gold
+79	if an object is made of something then the parts of that object are made of that something	nongold
+80	the properties of something are used for describing that something	nongold
+81	information is used to describe something	nongold
+82	an object is made of its parts	nongold
+83	getting information sometimes requires observing; observation	nongold
+84	sand is made of very small rocks; minerals	nongold
+85	if something comes from something else then that something else is a source of that something	nongold
+86	if studying something is used to learn about something then that something is a source of information	nongold
+87	substances are made of matter	nongold
+88	learning; studying information causes one to know that information	nongold
+89	to carry something means to contain something	nongold
+90	to make something easier means to help	nongold
+91	a container contains objects; material; substances	nongold
+92	observe means see	nongold
+93	composition is a property of an object; matter	gold
+94	an animal is a kind of living thing	nongold
+95	to enable is to help	nongold
+96	to observe means to gather information	nongold
+97	person is synonymous with human	nongold
+98	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+99	materials are made of matter	nongold

@@ -1,0 +1,53 @@
+0	a description sometimes provides information	nongold
+1	long means great in length	nongold
+2	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+3	a kilogram is a kind of unit for measuring mass	nongold
+4	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+5	a measure of time is a length of time	nongold
+6	a piece of an object is smaller in size than the whole object	nongold
+7	meter	answer
+8	a source of something emits; produces; generates; provides that something	nongold
+9	a rock is a kind of object	nongold
+10	a tool is a kind of object	nongold
+11	length of time means period of time	nongold
+12	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+13	a ruler is used for measuring the length of an object	nongold
+14	shorter means decreased length	nongold
+15	a tectonic plate is a kind of object	nongold
+16	a meter is a kind of unit for measuring distance; measuring length	gold
+17	a living thing is a kind of object	nongold
+18	a graduated cylinder is used to measure volume of a liquid; of an object	nongold
+19	length is a measure of distance from one end of an object to the other end of that object	nongold
+20	meter	answer
+21	meter	answer
+22	shorter means smaller; less in  height	nongold
+23	meter	answer
+24	Which unit of measurement describes an object's length?	question
+25	the skeleton of an animal can be used for inferring the height; the length of that animal	nongold
+26	a meter is a kind of unit for measuring distance; measuring length	gold
+27	a surface is a kind of object	nongold
+28	Which unit of measurement describes an object's length?	question
+29	the volume of an object can be used to describe  the size of that object	nongold
+30	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+31	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+32	an event is a kind of action	nongold
+33	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+34	Which unit of measurement describes an object's length?	question
+35	thin means small in width	nongold
+36	water is a kind of object	nongold
+37	Which unit of measurement describes an object's length?	question
+38	meters;centimeters;kilometers are used to describe distance; describe length	gold
+39	depth is a property of the shape of an object	nongold
+40	measuring requires reading a measurement	nongold
+41	calculation means measurement	nongold
+42	height is a property of the size of an object	nongold
+43	length is a part of size	nongold
+44	a surface is a part of an object	nongold
+45	meters;centimeters;kilometers are used to describe distance; describe length	gold
+46	a meter is a kind of unit for measuring distance; measuring length	gold
+47	distance moved; distance travelled is a measure of how far an object moves	nongold
+48	an object is made of its parts	nongold
+49	m/s means meters per second	nongold
+50	person is synonymous with human	nongold
+51	mass; weight is a property of matter; objects; materials	nongold
+52	meters;centimeters;kilometers are used to describe distance; describe length	gold

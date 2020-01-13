@@ -1,0 +1,55 @@
+0	human is a kind of organism	nongold
+1	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+2	hard is the opposite of easy	nongold
+3	illness has a negative impact on an organism's health	nongold
+4	exercise daily	answer
+5	can be means able to be	nongold
+6	a process usually requires all of the stages in that process	nongold
+7	able is the opposite of unable	nongold
+8	What is one way that humans can maintain good health?	question
+9	better means good	nongold
+10	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+11	rest is a kind of activity	nongold
+12	less is similar to decrease	nongold
+13	an animal; living thing requires nutrients for survival	nongold
+14	1 day is equal to 24 hours	nongold
+15	exercise daily	answer
+16	can means having the ability to	nongold
+17	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+18	if something has a positive impact on health then that something can help to maintain good health	gold
+19	good means positive	gold
+20	a positive impact is  a benefit	nongold
+21	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+22	a source of something increases the amount of that something	nongold
+23	if something has a positive impact on health then that something can help to maintain good health	gold
+24	an increase is the opposite of a decrease	nongold
+25	if something has a positive impact on health then that something can help to maintain good health	gold
+26	exercise has a positive impact on a human's health	gold
+27	What is one way that humans can maintain good health?	question
+28	best means most positive	nongold
+29	physical fitness is similar to athletic ability	nongold
+30	exercise means physical fitness	nongold
+31	exercise has a positive impact on a human's health	gold
+32	an animal requires enough nutrients to maintain good health; survive	nongold
+33	good means positive	gold
+34	an animal is a kind of living thing	nongold
+35	to be good for means to have a positive impact on	nongold
+36	good means positive	gold
+37	exercise is a kind of physical activity	nongold
+38	sleeping all day has a  negative impact on a human's health	nongold
+39	a component means a part of	nongold
+40	a source of something emits; produces; generates; provides that something	nongold
+41	exercise has a positive impact on a human's health	gold
+42	rest has a  positive impact on a health	nongold
+43	exercise daily	answer
+44	if a living thing requires something then that something has a positive impact on that living thing	nongold
+45	dying is the opposite of living; surviving	nongold
+46	if something is required for a process then that something positively impacts that process	nongold
+47	What is one way that humans can maintain good health?	question
+48	the day time is part of one day	nongold
+49	high is similar to increase	nongold
+50	to enhance means to increase	nongold
+51	trait is synonymous with characteristic	nongold
+52	exercise daily	answer
+53	low is similar to decrease	nongold
+54	What is one way that humans can maintain good health?	question

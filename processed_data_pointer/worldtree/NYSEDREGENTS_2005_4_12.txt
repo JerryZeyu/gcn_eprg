@@ -1,0 +1,102 @@
+Question	A dog opens its mouth and lets its tongue hang out. A human's body produces sweat. These are two ways that organisms may adjust to	question
+Answer	hot temperatures	answer
+0	when the body is hot , sweat is produced to cool the body	nongold
+1	sweat is used for adjusting to hot temperatures by some animals	gold
+2	adjusting body temperature means stabilizing body temperature	nongold
+3	a dog is a kind of animal	gold
+4	sweat cools; helps to cool a body	nongold
+5	emit means produce	nongold
+6	sweat is a kind of liquid	nongold
+7	if an animal sweats then that animal's bodily water decreases	nongold
+8	a source of something emits; produces; generates; provides that something	nongold
+9	if something causes an increase in something else then that something produces that something else	nongold
+10	human is a kind of organism	nongold
+11	a human is a kind of animal	gold
+12	panting is when an animal hangs its tongue out of its mouth to adjust to hot temperatures	gold
+13	to sweat means the body discharges water	nongold
+14	hot means high in heat energy; temperature	nongold
+15	panting is when an animal's body is cooled by hanging out their tongue	nongold
+16	an organism is a living thing	nongold
+17	an increase is the opposite of a decrease	nongold
+18	temperature is a measure of heat energy	nongold
+19	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+20	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+21	cold temperatures usually have a negative impact on organisms	nongold
+22	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+23	producing is similar to releasing	nongold
+24	warm means medium heat energy; temperature	nongold
+25	intense heat has a negative impact on an organism	nongold
+26	person is synonymous with human	nongold
+27	converting is similar to producing	nongold
+28	a human is a kind of mammal	nongold
+29	an animal is a kind of living thing	nongold
+30	producing is similar to causing	nongold
+31	temperature is a kind of condition	nongold
+32	an animal is a kind of organism	gold
+33	the body is a part of an organism	nongold
+34	moisture means liquid; liquid water	nongold
+35	heat means heat energy	nongold
+36	generate means produce	nongold
+37	if an organism becomes too hot then that organism may die	nongold
+38	temperature is a property of weather	nongold
+39	producing is a kind of process	nongold
+40	both means two	nongold
+41	organisms mean life	nongold
+42	to reduce means to decrease	nongold
+43	warm is similar to hot	nongold
+44	produce is similar to release	nongold
+45	an animal usually requires a warm body temperature for survival	nongold
+46	organisms are a part of an environment	nongold
+47	warmer means greater; higher in temperature; warmth	nongold
+48	warm means warm temperature	nongold
+49	to lower means to decrease	nongold
+50	low is similar to decrease	nongold
+51	a living thing is a kind of object	nongold
+52	a producer produces its own food	nongold
+53	to a  human a air; environment temperature of 28 C to 35 C is considered hot	nongold
+54	if a living thing requires something then that something has a positive impact on that living thing	nongold
+55	to add means to increase	nongold
+56	to a  human a air; environment temperature of 35 C to 50000000 C is considered very hot	nongold
+57	high is similar to increase	nongold
+58	if an organism produces a substance then that organism has a gene that controls the production of that substance	nongold
+59	an increase is a kind of change	nongold
+60	adding heat means increasing temperature	nongold
+61	an animal requires warmth for survival	nongold
+62	the body of a warm-blooded animal is usually warm in temperature	nongold
+63	heat means temperature increases	nongold
+64	heat energy is synonymous with thermal energy	nongold
+65	less is similar to decrease	nongold
+66	a decrease is a kind of change	nongold
+67	staying cool is the opposite of becoming hot	nongold
+68	helping something has a  positive impact on that something	nongold
+69	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+70	a hot; warm something is a source of heat	nongold
+71	to a  human a air; environment temperature of 10 C to 21 C is considered cool	nongold
+72	if heat is conducted to an object then that object will become hot	nongold
+73	colder; cooler means lower in temperature	nongold
+74	warm is the opposite of cool	nongold
+75	heating means adding heat	nongold
+76	as temperature during the day increases , the temperature in an environment will increase	nongold
+77	hot is the opposite of  cold	nongold
+78	out is synonymous with outside	nongold
+79	little is similar to decrease	nongold
+80	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+81	extreme means very high in value	nongold
+82	if an object is hot then the surfaces of that object are hot	nongold
+83	to a  human a air; environment temperature of 82 F to 95 F is considered hot	nongold
+84	to a  human a air; environment temperature of 21 C to 28 C is considered warm	nongold
+85	to a  human a air; environment temperature of 95 F to 50000000 F is considered very hot	nongold
+86	a climate is synonymous with an environment	nongold
+87	to get hot means become hot	nongold
+88	warm-weather organisms live in warm climates	nongold
+89	moist means high in moisture	nongold
+90	a hot substance is a source of heat	nongold
+91	a person is a kind of animal	nongold
+92	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+93	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+94	staying warm has a positive impact on an animal's survival; health	nongold
+95	adapting is when a living thing responds to a change in an environment	nongold
+96	dry means low in amount of water; wetness; moisture	nongold
+97	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+98	to produce means to provide	nongold
+99	life means living things	nongold

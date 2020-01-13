@@ -1,0 +1,52 @@
+0	if an object reflects a light of a certain color then the object appears to be that color	nongold
+1	a white object reflects all visible light	gold
+2	light is a kind of wave	nongold
+3	a wall is a kind of surface	nongold
+4	to look like means to have the visual properties of	nongold
+5	ground means floor	nongold
+6	if an object is white then that object reflects all visible light	nongold
+7	the floor is a kind of object	gold
+8	affected means changed	nongold
+9	light reflecting off of an object causes that object to be visible to the observer	nongold
+10	a white object reflects all visible light	gold
+11	painting an object a color causes that object to be that color	nongold
+12	shiny things; objects reflect light	nongold
+13	white floor	answer
+14	coloration means a thing's color	nongold
+15	the color of an environment means the color of the things that environment contains	nongold
+16	Which object best reflects light?	question
+17	green is a kind of color	nongold
+18	dark means a low amount of light	nongold
+19	white floor	answer
+20	a property of something is a feature of that something	nongold
+21	the color of an object can be discovered by looking at that object	nongold
+22	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+23	a white tile can be used as a streak plate	nongold
+24	an animal is a kind of living thing	nongold
+25	Which object best reflects light?	question
+26	an environment means an area	nongold
+27	the floor is a kind of object	gold
+28	if an object is black then that object absorbs all visible light; heat	nongold
+29	white floor	answer
+30	a white object reflects all visible light	gold
+31	a covering is a kind of object	nongold
+32	the floor is a kind of object	gold
+33	to reflect light means to scatter light	nongold
+34	the ability to reflect off of a surface is a kind of characteristic	nongold
+35	reflection is a property of light	nongold
+36	Which object best reflects light?	question
+37	dark means dark in color	nongold
+38	to bounce back means to reflect	nongold
+39	reflecting light; sound is the opposite of absorbing light; sound	nongold
+40	an animal is a kind of organism	nongold
+41	a surface is a part of a material	nongold
+42	a reflector is used to reflect light especially on vehicles	nongold
+43	Which object best reflects light?	question
+44	the floor is at the bottom of a room	nongold
+45	if an object reflects more light then that object is more easily seen	nongold
+46	dark is the opposite of light	nongold
+47	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+48	white floor	answer
+49	bright means bright; light in color	nongold
+50	white objects absorbs the least sunlight	nongold
+51	room contains walls	nongold

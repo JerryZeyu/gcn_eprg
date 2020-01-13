@@ -1,0 +1,102 @@
+Question	In a closed system, what happens to the total energy of the system as energy conversions take place?	question
+Answer	It remains constant.	answer
+0	when one kind of energy changes into another kind of energy , the total amount of energy is constant	gold
+1	energy transformation means one kind of energy changes into another kind of energy	nongold
+2	constant means not changing	nongold
+3	energy conversion is similar to energy transformation	nongold
+4	to remain means to not change	nongold
+5	to convert means to change	gold
+6	to remain means to stay the same	nongold
+7	take place means happen	nongold
+8	constant is similar to same	nongold
+9	conversion is a kind of process	nongold
+10	to transform means to convert	nongold
+11	to turn means to convert	nongold
+12	consistent means constant	nongold
+13	an increase is a kind of change	nongold
+14	stay the same means not changing	nongold
+15	to add means to increase	nongold
+16	forming is similar to converting	nongold
+17	a decrease is a kind of change	nongold
+18	variable means able to change	nongold
+19	convert is similar to transfer	nongold
+20	to happen means to occur	nongold
+21	heat is a kind of energy	nongold
+22	to convert means to exchange	nongold
+23	system means a set of objects	nongold
+24	to remain means to stay where it is	nongold
+25	high is similar to increase	nongold
+26	chemical energy is a kind of energy	nongold
+27	unchanged means not changed	nongold
+28	an increase is the opposite of a decrease	nongold
+29	increase means more	nongold
+30	changed is the opposite of unchanged	nongold
+31	to lower means to decrease	nongold
+32	converting is similar to producing	nongold
+33	particles in objects are a kind of matter	nongold
+34	converting is a kind of function	nongold
+35	converting is similar to generating	nongold
+36	if the component of something changed , then the whole thing will change	nongold
+37	electrical energy is a kind of energy	nongold
+38	gas is a kind of state of matter	nongold
+39	matter; materials; substances are made of atoms; particles	nongold
+40	to retain means to remain	nongold
+41	heat means heat energy	nongold
+42	solid is a kind of state of matter	nongold
+43	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+44	an event is a kind of action	nongold
+45	a source of something increases the amount of that something	nongold
+46	state of matter means physical state	nongold
+47	a process is a kind of event	nongold
+48	no longer means used to be	nongold
+49	less is similar to decrease	nongold
+50	physical state means state of matter	nongold
+51	thermal energy is a kind of energy	nongold
+52	heat energy can change the state of matter	nongold
+53	liquid is a kind of state of matter	nongold
+54	a change is a kind of event	nongold
+55	a body system is a kind of object	nongold
+56	if something is insoluble in something , then they will remain separated	nongold
+57	to turn means to change	nongold
+58	a source of something emits; produces; generates; provides that something	nongold
+59	to give off means to be the source of	nongold
+60	low is similar to decrease	nongold
+61	food is a kind of chemical energy	nongold
+62	something that happens is a kind of event	nongold
+63	change is a kind of process	nongold
+64	state means form	nongold
+65	nuclear energy is a kind of energy	nongold
+66	becoming is similar to changing	nongold
+67	if something emits something else then that something increases the amount of that something else	nongold
+68	mechanical energy is a kind of energy	nongold
+69	a component of something means a part of that something	nongold
+70	can be means able to be	nongold
+71	events occur at a specific place; at a specific time; with a specific frequency	nongold
+72	to limit means to decrease	nongold
+73	mechanical energy of a system includes the sum of kinetic energy and potential energy  in the system	nongold
+74	affected means changed	nongold
+75	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+76	converting is similar to turning into	nongold
+77	replace means change from one thing into  another	nongold
+78	when an animal moves , chemical energy is converted to mechanical energy	nongold
+79	a component means a part of	nongold
+80	converting is similar to releasing	nongold
+81	to add means to combine	nongold
+82	if something has no impact on something else then that something else stays the same	nongold
+83	phase means state	nongold
+84	magnetic energy is a kind of energy	nongold
+85	fixed is similar to definite	nongold
+86	a part of a process means a stage in a process	nongold
+87	to change means to cause a change	nongold
+88	a motion is a kind of event; action	nongold
+89	to maintain means to not change	nongold
+90	chemical reactions do not cause the total number of atoms to change	nongold
+91	temperature is a measure of heat energy	nongold
+92	light is a kind of energy	nongold
+93	light is a kind of energy	nongold
+94	to reduce means to decrease	nongold
+95	to slow; to slow down decreases speed	nongold
+96	if something releases something else then that something else decreases in that something	nongold
+97	if something undergoes physical change then the chemical properties of that something will remain unchanged	nongold
+98	if something causes an increase in something else then that something produces that something else	nongold
+99	definite is the opposite of variable	nongold

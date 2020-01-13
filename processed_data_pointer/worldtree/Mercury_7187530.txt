@@ -1,0 +1,102 @@
+Question	A student is organizing a room. She moves a box from the floor to a shelf. She wants to estimate the amount of potential energy the box has on the shelf. What information does the student need?	question
+Answer	the mass of the box and the height of the shelf	answer
+0	to depend on; to rely on; to need means to require	nongold
+1	shelf is a kind of  object	gold
+2	answering questions requires information	nongold
+3	potential energy is a measure of the energy of an object due to position relative to other objects	gold
+4	a student is a kind of human	nongold
+5	if a property affects a value then that property is needed to calculate that value	nongold
+6	as the mass of an object increases , the potential energy of that object will increase	nongold
+7	a box is a kind of object	gold
+8	potential energy is a kind of energy	nongold
+9	as an object moves down , potential energy will decrease	nongold
+10	mass is a kind of information	nongold
+11	what something needs is a property of that something	nongold
+12	an increase is the opposite of a decrease	nongold
+13	mass is a measure of the amount of matter in an object	nongold
+14	height is a property of the size of an object	nongold
+15	as the altitude of an object increases ,  the  potential energy of the object  will increase	nongold
+16	calculating is similar to estimating	gold
+17	potential energy means stored energy	nongold
+18	an increase is a kind of change	nongold
+19	potential is a kind of ability	nongold
+20	calculation means measurement	nongold
+21	mass is a property of objects; matter	nongold
+22	an animal requires energy to move	nongold
+23	height is a kind of position	gold
+24	high is similar to increase	nongold
+25	to measure means to calculate	nongold
+26	knowing the properties of something means knowing information about that something	nongold
+27	a property is a kind of information	nongold
+28	an part of an object is smaller than the entire object	nongold
+29	the floor is a kind of object	nongold
+30	level is similar to amount; quantity	nongold
+31	a room is a kind of object	nongold
+32	data means information	gold
+33	greater means higher; more in value	nongold
+34	higher means greater; above in value; amount; number	nongold
+35	the floor is at the bottom of a room	nongold
+36	learning; studying information causes one to know that information	nongold
+37	to add means to increase	nongold
+38	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+39	information is used to describe something	nongold
+40	increase means more	nongold
+41	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+42	a decrease is a kind of change	nongold
+43	gravitational potential energy is a measure of the product of weight and height	gold
+44	determining often requires measuring; observing	nongold
+45	mass; weight is a property of matter; objects; materials	nongold
+46	larger means greater; higher; more; increase in size	nongold
+47	low is similar to decrease	nongold
+48	mass is similar to size	nongold
+49	changes potential energy into kinetic energy through motion	nongold
+50	as an object falls , the potential energy of that object will decrease	nongold
+51	taller means greater in height; size	nongold
+52	a room is a kind of container	nongold
+53	a human is a kind of animal	nongold
+54	to be used for something means to be required by that something	nongold
+55	curiosity means the need to know new information	nongold
+56	both means two	nongold
+57	a classroom is a kind of a room	nongold
+58	a living thing is a kind of object	nongold
+59	an animal is a kind of living thing	nongold
+60	quantity means amount	nongold
+61	as kinetic energy increases , the potential energy will decrease	nongold
+62	objects are made of materials; substances; matter	nongold
+63	size; amount of space means volume	nongold
+64	location is a kind of information	nongold
+65	getting information sometimes requires observing; observation	nongold
+66	low means low in elevation; height; altitude	nongold
+67	ground means floor	nongold
+68	the ceiling is at the top of a room	nongold
+69	a measurement is a kind of data	gold
+70	room contains walls	nongold
+71	low is the opposite of high	nongold
+72	height is a measure of length from the top of an object to the bottom of an object	gold
+73	faster means an increase; higher in speed	nongold
+74	mass is a kind of physical property	nongold
+75	tall means great in height	nongold
+76	requiring something means needing that something	nongold
+77	chemical energy is a kind of potential energy	nongold
+78	variable means able to change	nongold
+79	smaller means less; lower in size	nongold
+80	measuring sometimes requires  recording; learning an amount	nongold
+81	person is synonymous with human	nongold
+82	low means down	nongold
+83	an organism is a living thing	nongold
+84	the bottom is the lowest part of something	nongold
+85	growing is when an animal's height;mass;size increase	nongold
+86	as the amount; size of something increases , the extensive properties of that something will increase	nongold
+87	gravitational potential energy is a kind of potential energy	gold
+88	a surface is a part of an object	nongold
+89	to reduce means to decrease	nongold
+90	affected means changed	nongold
+91	to lower means to decrease	nongold
+92	a surface is a part of a material	nongold
+93	organizing is sorting something by their properties in order	nongold
+94	An example of a container is room	nongold
+95	instruction is a kind of information	nongold
+96	as amount; size of something increases , the intensive properties of that something will not change	nongold
+97	heat is a kind of energy	nongold
+98	to place in is similar to to move to	nongold
+99	motion; movement means moving; to move	nongold

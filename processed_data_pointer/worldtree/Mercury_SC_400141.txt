@@ -1,0 +1,102 @@
+Question	Which tool would be best to measure the length of a butterfly?	question
+Answer	metric ruler	answer
+0	a ruler is used for measuring the length of an object	gold
+1	a ruler is a kind of tool for measuring length	gold
+2	a butterfly is a kind of insect	nongold
+3	a butterfly is a kind of animal	gold
+4	instrument means tool	nongold
+5	length is a part of size	nongold
+6	a butterfly is a kind of organism	nongold
+7	a tool is a kind of object	nongold
+8	length is a property of the shape of an object	nongold
+9	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+10	determining often requires measuring; observing	nongold
+11	to measure means to calculate	nongold
+12	measuring requires reading a measurement	nongold
+13	measuring is used for describing an object	nongold
+14	length is a measure of distance from one end of an object to the other end of that object	nongold
+15	device means tool	nongold
+16	long means great in length	nongold
+17	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+18	property is similar to measurement	nongold
+19	a meter is a kind of unit for measuring distance; measuring length	nongold
+20	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+21	calculation means measurement	nongold
+22	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+23	instrument means device	nongold
+24	shortest means least; smallest in length	nongold
+25	longest means greatest in length	nongold
+26	measuring is a kind of observing	nongold
+27	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+28	an insect usually has a small size	nongold
+29	a living thing is a kind of object	gold
+30	a centimeter is used for measuring short lengths; short distances	nongold
+31	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+32	an part of an object is smaller than the entire object	nongold
+33	best means most positive	nongold
+34	larger means greater; higher; more; increase in size	nongold
+35	shorter means decreased length	nongold
+36	an insect is a kind of animal	nongold
+37	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+38	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+39	experimentation requires measuring	nongold
+40	can be means able to be	nongold
+41	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+42	angstrom ( Å ) is a metric unit used for measuring wavelength; interatomic distance; length; distance	nongold
+43	shorter means smaller; less in  height	nongold
+44	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+45	a string is usually short in length with values between 2.0 and 1000 cm	nongold
+46	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+47	furthest; farthest means greatest; most; highest in distance	nongold
+48	an animal is a kind of living thing	gold
+49	a scale is used for measuring weight	nongold
+50	thin means small in width	nongold
+51	a bird is a kind of living thing	nongold
+52	high is similar to increase	nongold
+53	a simple machine is a kind of tool	nongold
+54	greater means higher; more in value	nongold
+55	calculating is similar to estimating	nongold
+56	a butterfly is the mature form of a; adult form of a caterpillar	nongold
+57	higher means greater; above in value; amount; number	nongold
+58	height is a measure of length from the top of an object to the bottom of an object	nongold
+59	if a property affects a value then that property is needed to calculate that value	nongold
+60	measuring sometimes requires  recording; learning an amount	nongold
+61	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+62	objects are made of materials; substances; matter	nongold
+63	smaller means less; lower in size	nongold
+64	wider means greater in width	nongold
+65	to be used for something means to be required by that something	nongold
+66	a piece of an object is smaller in size than the whole object	nongold
+67	highest means largest; greatest; most in height	nongold
+68	better means good	nongold
+69	a tape measure is a kind of tool for measuring distance; measuring length	nongold
+70	an object is made of its parts	nongold
+71	a centimeter is a kind of unit of measurement	nongold
+72	good means positive	nongold
+73	affected means changed	nongold
+74	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+75	small is the opposite of large	nongold
+76	height is a property of the size of an object	nongold
+77	an animal's scales are small in size	nongold
+78	classifying is when one sorts something by kind; type	nongold
+79	largest means greatest in size	nongold
+80	examining sometimes requires measuring	nongold
+81	a bird is a kind of animal	nongold
+82	a fly is a kind of insect	nongold
+83	diameter is a measure of length through the center of a circle	nongold
+84	the properties of something are used for describing that something	nongold
+85	an organism is a living thing	nongold
+86	a measurement is a kind of data	nongold
+87	classifying means grouping objects; materials by their properties	nongold
+88	motion; movement means moving; to move	nongold
+89	motion is when moves an object; something to a direction	nongold
+90	lowest means least in value; amount; number	nongold
+91	a caterpillar is the immature form of a butterfly	nongold
+92	a  tape measure is used to measure length; distance	nongold
+93	answering questions requires information	nongold
+94	cutting a material usually requires measuring length	nongold
+95	speed is a property of an object and includes values of slow; fast	nongold
+96	distance is a property of space and includes ordered values of close; far	nongold
+97	the properties of something can be used to identify; used to describe that something	nongold
+98	an instrument is a piece of equipment	nongold
+99	extreme means very high in value	nongold

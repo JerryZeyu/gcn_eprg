@@ -1,0 +1,102 @@
+Question	Data indicate that chemical pollutants contaminate 53% of the waterways that empty into the Chesapeake Bay. These chemical pollutants are found in the tissues of animals living in the bay. Which group of people who live away from the bay might be most affected by these chemical pollutants?	question
+Answer	people who consume fish from the bay	answer
+0	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	gold
+1	living things in a polluted environment often contain pollutants	gold
+2	chemicals can be pollutants	nongold
+3	a pollutant is a kind of substance	nongold
+4	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+5	water is when humans pollute the environment with pollutants	nongold
+6	a bay is a kind of body of water	gold
+7	pollution is a source of pollutants	nongold
+8	pollutants have a negative impact on the environment; air quality	nongold
+9	humans sometimes eat fish	gold
+10	harming something has a  negative impact on; effect on that something	nongold
+11	polluting means something poisonous is added to an environment	nongold
+12	a fish is a kind of aquatic animal	gold
+13	aquatic animal means water animal	nongold
+14	an aquatic animal is a kind of animal	gold
+15	a body of water is a source of water	nongold
+16	aquatic animals; plants live in bodies of water	nongold
+17	if something comes from something else then that something else is a source of that something	nongold
+18	a fish lives in water	gold
+19	where something  comes from is a source of that something	nongold
+20	a fish is a kind of animal	nongold
+21	ocean is a source of wild fish for human populations	nongold
+22	if something affects a part of something else then that something affects that something else	nongold
+23	a person is a kind of animal	nongold
+24	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+25	fish eat insects	nongold
+26	person is synonymous with human	gold
+27	polluting gasses are a kind of pollution	nongold
+28	living things eat their food source	nongold
+29	if something is a part of something then that something can be found in that something	nongold
+30	to impact means to affect	gold
+31	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+32	causing is a kind of affecting	nongold
+33	a body of water is a kind of environment	gold
+34	negative impact is the opposite of positive impact	nongold
+35	most means over 50% of something	nongold
+36	if a living thing requires something then that something has a positive impact on that living thing	nongold
+37	to be found in means to be contained in	nongold
+38	an animal is a kind of organism	nongold
+39	an animal is a kind of living thing	gold
+40	to belong to a group means to be a kind of something	nongold
+41	a fish is a kind of predator	nongold
+42	as distance from a source of something increases , that something will decrease	nongold
+43	animals; living things require water for survival	nongold
+44	an object; material; substance comes from that object or material's source	nongold
+45	contaminated means polluted	gold
+46	an animal; living thing requires nutrients for survival	nongold
+47	an organism is a living thing	gold
+48	something harmful can cause harm	nongold
+49	to eat means to consume food	gold
+50	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+51	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+52	if something is made by something else then that something is affected by that something else	nongold
+53	animals; living things live and feed in their habitats; near their habitats	nongold
+54	if something required by something else is in a place then that something else may be in that place	nongold
+55	animals usually distance themselves from humans	nongold
+56	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+57	killing means harming something causing death	nongold
+58	a human is a kind of animal	gold
+59	impact means effect	nongold
+60	eating an animal; a plant means killing that animal; that plant	nongold
+61	a negative impact is a kind of consequence; risk	nongold
+62	adverse effect means negative impact	nongold
+63	a source of something emits; produces; generates; provides that something	nongold
+64	life means living things	nongold
+65	an ocean is a kind of body of water	nongold
+66	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+67	harming an organism can cause that organism to die	nongold
+68	animals are a source of carbon dioxide by exhaling	nongold
+69	organisms are a part of an environment	nongold
+70	near; close is the opposite of far; away	nongold
+71	harming an animal species causes that animal's population to decrease	nongold
+72	a body of water contains water	nongold
+73	water is a part of an environment	nongold
+74	an animal is a kind of consumer	nongold
+75	if something releases something else then that something is the source of that something else	nongold
+76	decreasing something negative has a positive impact on a thing	nongold
+77	predators eat prey	nongold
+78	oil is a kind of pollutant	nongold
+79	to be a source of something means to cause that something	nongold
+80	harming an animal species has a  negative impact on the population size of that species	nongold
+81	fish is a kind of meat	nongold
+82	an animal is a member of an animal species	nongold
+83	something that contains water is similar to a body of water	nongold
+84	polluting is a kind of activity	nongold
+85	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+86	decreasing something positive has a negative impact on a thing	nongold
+87	to cause means to have an effect	nongold
+88	food is what an animal eats	nongold
+89	affected means changed	nongold
+90	an increase is the opposite of a decrease	nongold
+91	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+92	ocean animal is similar to water animal	nongold
+93	humans cause pollution	nongold
+94	fishing is when a human kills; catches fish for food	nongold
+95	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+96	water is a kind of substance	nongold
+97	a positive impact is  a benefit	nongold
+98	absorbing something harmful has a negative impact on a thing	nongold
+99	nonliving; non-living; die is the opposite of living; alive; live	nongold

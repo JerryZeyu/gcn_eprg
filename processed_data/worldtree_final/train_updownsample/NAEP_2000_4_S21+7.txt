@@ -1,0 +1,64 @@
+0	a surface is a part of an object	nongold
+1	rattle is a kind of motion	gold
+2	thunder is loud	gold
+3	a storm is usually a source of strong winds	nongold
+4	hail is a kind of precipitation; ice	nongold
+5	glass is a kind of object	nongold
+6	thunder is loud	gold
+7	if something comes from something else then that something else is a source of that something	nongold
+8	an animal is a kind of living thing	nongold
+9	a home is a kind of building	nongold
+10	shaking is a kind of motion	nongold
+11	a window is a part of a house	nongold
+12	There is a thunderstorm close to your house. The windows rattle at the same time that you hear the thunder. What causes the windows to rattle?	question
+13	Sound waves from the thunder	answer
+14	thunder is loud	gold
+15	lightning occurs during lightning storms; thunderstorms	nongold
+16	a window is a kind of object	gold
+17	matter; molecules vibrating can cause sound	nongold
+18	electromagnetic wave is a kind of  wave	nongold
+19	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+20	rattle is a kind of motion	gold
+21	pulling is a kind of motion	nongold
+22	sound waves means sound energy	gold
+23	There is a thunderstorm close to your house. The windows rattle at the same time that you hear the thunder. What causes the windows to rattle?	question
+24	amplitude is  a measure of the loudness of the sound wave	nongold
+25	objects are made of materials; substances; matter	nongold
+26	thunder is a kind of sound	gold
+27	to be a source of something means to cause that something	nongold
+28	vibrations are a source of sound	nongold
+29	storm is a kind of weather; weather event	nongold
+30	a window is a kind of object	gold
+31	sound waves transfer energy	nongold
+32	near; close is the opposite of far; away	nongold
+33	loud means high in sound energy;sound intensity	gold
+34	sound wave is a kind of wave	nongold
+35	a thunderstorm is a kind of storm	nongold
+36	Sound waves from the thunder	answer
+37	sound waves means sound energy	gold
+38	sound wave is a kind of mechanical wave	nongold
+39	Sound waves from the thunder	answer
+40	thunder is a kind of sound	gold
+41	loud means high in sound energy;sound intensity	gold
+42	There is a thunderstorm close to your house. The windows rattle at the same time that you hear the thunder. What causes the windows to rattle?	question
+43	to change means to cause a change	nongold
+44	sound means sound energy	nongold
+45	a vibration is similar to a wave	nongold
+46	lightning causes thunder	nongold
+47	a wave is a kind of object	nongold
+48	sound waves means sound energy	gold
+49	thunder occurs during thunderstorms	gold
+50	motion; movement means moving; to move	nongold
+51	a window is a kind of object	gold
+52	hearing is used for sensing sound by animals	nongold
+53	loud means high in sound energy;sound intensity	gold
+54	thunder occurs during thunderstorms	gold
+55	thunder is a kind of sound	gold
+56	a wave is formed by the vibration of the source spreading around from the source	nongold
+57	An example of light traveling faster than sound is people see the lightnings before hear the thunder	nongold
+58	thunder occurs during thunderstorms	gold
+59	Sound waves from the thunder	answer
+60	to add means to increase	nongold
+61	rattle is a kind of motion	gold
+62	vibration is a kind of motion	nongold
+63	There is a thunderstorm close to your house. The windows rattle at the same time that you hear the thunder. What causes the windows to rattle?	question

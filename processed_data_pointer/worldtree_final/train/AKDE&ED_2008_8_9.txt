@@ -1,0 +1,102 @@
+0	hitting something causes harm to that something	nongold
+1	water is a kind of liquid at room temperature	nongold
+2	a pond is a kind of body of water	nongold
+3	impact means effect	nongold
+4	a swimming pool contains water	nongold
+5	a living thing is a kind of object	nongold
+6	a bird is a kind of animal	nongold
+7	actions mean behavior	nongold
+8	a rabbit is a kind of prey	nongold
+9	a bird is a kind of living thing	nongold
+10	a pool of muddy water contains mud	gold
+11	harm means danger	nongold
+12	water is a kind of substance	nongold
+13	some birds are predators	nongold
+14	How do moose use a learned behavior to protect themselves?	question
+15	a body of water is a kind of environment	nongold
+16	locomotion is a generally learned behavior	nongold
+17	avoiding something requires sensing that something	nongold
+18	a pond is a kind of environment	nongold
+19	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+20	a roll is a kind of movement	nongold
+21	a trick is a learned behavior	nongold
+22	an organism is a living thing	nongold
+23	negative impact is the opposite of positive impact	nongold
+24	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+25	a pool is a kind of body of water	nongold
+26	to protect means to defend	nongold
+27	rolling is a kind of motion	nongold
+28	animals; living things require water for survival	nongold
+29	flying is a kind of locomotion	nongold
+30	a worm is a kind of living thing	nongold
+31	An example of an adaptation for flight in birds is feathers; wings; hollow bones	nongold
+32	a landform is a kind of object	nongold
+33	to hurt means to harm	nongold
+34	moisture means liquid; liquid water	nongold
+35	person is synonymous with human	nongold
+36	water is a kind of object	nongold
+37	avoiding is a kind of defense	nongold
+38	protecting is a kind of function	nongold
+39	using tools is a learned characteristic	nongold
+40	a behavior is a kind of characteristic	nongold
+41	howling is a kind of behavior	nongold
+42	an animal is a kind of organism	nongold
+43	killing means changing a living thing from alive to dead by harming	nongold
+44	a human is a kind of animal	nongold
+45	a predator is a kind of animal	nongold
+46	adult birds usually fly	nongold
+47	protecting something means preventing harm to that something	gold
+48	a learned characteristic is a kind of acquired characteristic	nongold
+49	if a living thing dies then that living thing is dead	nongold
+50	water is a part of an environment	nongold
+51	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+52	avoiding is a kind of conditioned behavior	nongold
+53	skills are learned characteristics; behaviors	nongold
+54	prey  is a kind of animal	nongold
+55	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+56	conditioned behavior is a kind of learned behavior	nongold
+57	helping something has a  positive impact on that something	nongold
+58	a part of a living thing is a natural structure	nongold
+59	mimicry is used for avoiding predators by animals by camouflaging as a dangerous animal	nongold
+60	a rabbit cannot fly; climb	nongold
+61	threatening behavior causes a fight-or-flight response in animals	nongold
+62	a predator avoiding some types of prey is a learned behavior	nongold
+63	something hard; something strong can be used for protection	nongold
+64	rolling over is a kind of action	nongold
+65	avoiding  predators is synonymous with avoiding being eaten	nongold
+66	damage means harm	nongold
+67	danger has a negative impact on a thing	nongold
+68	harming something has a  negative impact on; effect on that something	nongold
+69	avoiding means doing something less	nongold
+70	a moose is a kind of animal	gold
+71	dirt means soil	nongold
+72	motion; movement means moving; to move	nongold
+73	an insect is a kind of animal	nongold
+74	aquatic animals; plants live in bodies of water	nongold
+75	a surface is a part of an object	nongold
+76	an animal is a kind of living thing	gold
+77	if an animal is trained to do something then that something is a learned behavior	nongold
+78	covering something is a kind of protection	nongold
+79	if a living thing requires something then that something has a positive impact on that living thing	nongold
+80	a fly is a kind of insect	gold
+81	avoiding is similar to preventing	gold
+82	animals learn some behaviors from watching their parents	nongold
+83	rolling in mud can be used to avoid insect bites by an animal	gold
+84	a rabbit is a kind of animal	nongold
+85	protection means resistance to damage increases	nongold
+86	An example of being careful is avoiding danger	nongold
+87	aquatic animal means water animal	nongold
+88	an environment means an area	nongold
+89	a long tail; thick tail can be used to move through water by an animal	nongold
+90	rolling down is similar to falling	nongold
+91	damage has a negative impact on a thing	nongold
+92	an aquatic animal is a kind of animal	nongold
+93	flying is a kind of motion through air; space	nongold
+94	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+95	an insect is a kind of prey	nongold
+96	They roll in a pool of muddy water to avoid fly bites.	answer
+97	rolling in mud is a learned behavior	gold
+98	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+99	harm means injury	nongold
+100	insect bites cause harm to living things	gold
+101	An example of an organism responding to its external environment is an animal jumping when startled	nongold

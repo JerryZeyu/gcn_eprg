@@ -1,0 +1,102 @@
+0	rain; snow falls	nongold
+1	clouds produce precipitation	nongold
+2	snow is a kind of precipitation	nongold
+3	precipitation amounts	answer
+4	greater means higher; more in value	nongold
+5	largest amount means most	nongold
+6	rainfall is the amount of rain an area receives	nongold
+7	precipitation is a stage in the water cycle process	gold
+8	average amount of precipitation is a property of climate	nongold
+9	In the water cycle , melting snow; melting ice always follows collection as snow; collection as ice	nongold
+10	a decrease is a kind of change	nongold
+11	to lower means to decrease	nongold
+12	measuring requires reading a measurement	nongold
+13	In the water cycle , evaporation always follows collection in bodies of water	nongold
+14	calculation means measurement	nongold
+15	a cycle is a kind of process	nongold
+16	snowfall means the amount of precipitation in snow form	nongold
+17	investigation sometimes requires experimentation	nongold
+18	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+19	In the water cycle , plant uptake can follow collection in groundwater	nongold
+20	hail is a kind of precipitation; ice	nongold
+21	rainstorm means rain storm	nongold
+22	a process is a kind of event	nongold
+23	rainfall means precipitation	nongold
+24	precipitation is a kind of weather	nongold
+25	drought is when amount of precipitation decreases	nongold
+26	evaporation is a stage in the water cycle process	nongold
+27	rainfall means the amount of precipitation	nongold
+28	In the water cycle , condensation always follows evaporation	nongold
+29	In the water cycle , runoff can follow precipitation	nongold
+30	a lot means large in amount; quantity	nongold
+31	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+32	greatest means largest; highest; most amount of something	nongold
+33	unit is similar to part	nongold
+34	a storm is a source of precipitation	nongold
+35	investigating the life cycle of a living thing requires that living thing to be alive	nongold
+36	evaporation is when water is drawn back up into the air in the water cycle	nongold
+37	In the water cycle , transportation can follow condensation	nongold
+38	examining sometimes requires measuring	nongold
+39	measuring sometimes requires  recording; learning an amount	gold
+40	In the water cycle , collection in bodies of water can follow runoff	nongold
+41	a stream is a kind of body of water	nongold
+42	a cycle happens; occurs repeatedly	nongold
+43	precipitation is a property of weather	nongold
+44	a type is synonymous with a kind	nongold
+45	investigating requires gathering information	nongold
+46	a unit for measuring time is a kind of time interval	nongold
+47	precipitation is a kind of natural occurrence; cause	nongold
+48	water absorbs solar energy in the water cycle	nongold
+49	In the water cycle , infiltration can follow runoff	nongold
+50	investigating a stage of something means investigating that something	gold
+51	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+52	precipitation is a kind of  natural process	nongold
+53	investigating sometimes requires measuring	gold
+54	flowing is a kind of motion	nongold
+55	measuring is a kind of observing	nongold
+56	a measurement is a kind of data	nongold
+57	rain is a kind of water	nongold
+58	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+59	In the water cycle , collection in groundwater always follows infiltration	nongold
+60	storm is a kind of weather; weather event	nongold
+61	higher means greater; above in value; amount; number	nongold
+62	increase means more	nongold
+63	runoff is a stage in the water cycle process	nongold
+64	rain is a source of water	nongold
+65	examining is a kind of process	nongold
+66	quantity means amount	nongold
+67	storms;rain cause bodies of water to increase amount of water they contain	nongold
+68	high is similar to increase	nongold
+69	studying is similar to investigating	nongold
+70	the glaciers has the role of storing fresh water in the water cycle	nongold
+71	In the water cycle , runoff always follows collection as snow; collection as ice	nongold
+72	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+73	precipitation is when water falls from the sky	gold
+74	making a valid conclusion in an investigation requires collecting relevant evidence	nongold
+75	an increase is a kind of change	nongold
+76	rain is a kind of precipitation	nongold
+77	how long something takes is a kind of measurement of time	nongold
+78	property is similar to measurement	nongold
+79	rainwater is a kind of water	nongold
+80	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+81	investigating is a kind of process	nongold
+82	condensation is a stage in the water cycle process	nongold
+83	In the water cycle , precipitation always follows transportation	nongold
+84	An example of a physical cycle is the water cycle	nongold
+85	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+86	transpiration is a kind of process of the water cycle	nongold
+87	In the water cycle , precipitation can follow condensation	nongold
+88	recording an observation sometimes requires measuring	nongold
+89	inspect; observe means examine	nongold
+90	a measure of time is a length of time	nongold
+91	answering questions requires information	nongold
+92	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+93	an event is a kind of action	nongold
+94	a thunderstorm is a kind of storm	nongold
+95	water is a kind of matter	nongold
+96	What would most likely be measure during an investigation of the water cycle?	question
+97	cycles of day and night occur once per day	nongold
+98	most means over 50% of something	nongold
+99	In the water cycle , collection as snow; collection as ice can follow precipitation	nongold
+100	determining often requires measuring; observing	nongold
+101	the water cycle occurs on Earth	nongold

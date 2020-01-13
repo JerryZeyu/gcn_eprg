@@ -1,0 +1,102 @@
+Question	Which is a characteristic of a sperm cell but not of an egg cell?	question
+Answer	presence of a tail	answer
+0	feature is synonymous with characteristic	nongold
+1	a tail is a part of a  sperm cell	gold
+2	a tail is not part of an egg cell	gold
+3	a sperm cell is a kind of  sex cell	nongold
+4	trait is synonymous with characteristic	nongold
+5	characteristic means property	nongold
+6	an egg cell is a kind of sex cell	nongold
+7	the reproductive system produces sperm; egg cells	nongold
+8	an inherited characteristic is a kind of characteristic	nongold
+9	a part of something is present in that something	gold
+10	a long tail; thick tail can be used to move through water by an animal	nongold
+11	a part of something means a characteristic of something	gold
+12	trait means property	nongold
+13	an animal is a kind of living thing	nongold
+14	what an object is made of is a kind of characteristic	nongold
+15	an adaptation is a kind of characteristic	nongold
+16	an animal cell is a kind of cell	nongold
+17	a human sperm cell has 23; twenty-three chromosomes	nongold
+18	a learned characteristic is a kind of acquired characteristic	nongold
+19	reproductive behavior is an inherited characteristic	nongold
+20	an animal is a kind of organism	nongold
+21	a structure is a kind of feature	nongold
+22	if something is located in some place , then the presence of that something can be found in that location	nongold
+23	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+24	a cell is a kind of object	nongold
+25	male animals require sperm cells to reproduce	nongold
+26	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+27	the color of; coloration of fur is an inherited characteristic	nongold
+28	causing is a kind of affecting	nongold
+29	a living thing is a kind of object	nongold
+30	a function is a kind of characteristic	nongold
+31	a living thing is made of cells	nongold
+32	an organism is a living thing	nongold
+33	to impact means to affect	nongold
+34	sexual reproduction in animals is when egg; sperm join together	nongold
+35	gamete means sex cell	nongold
+36	to lack means to not have	nongold
+37	in sexual reproduction sperm is a vehicle for the genes from the father to the offspring	nongold
+38	sexual reproduction produces offspring with genetic material from both parents; cells with genetic material from both parent cells	nongold
+39	a property of something is a feature of that something	nongold
+40	the shape of body parts is an inherited characteristic	nongold
+41	sexual reproduction is a kind of reproduction	nongold
+42	affected means changed	nongold
+43	reproduction produces; produce offspring	nongold
+44	to cause means to have an effect	nongold
+45	an egg is a kind of object	nongold
+46	the condition of parts of an organism are acquired characteristics	nongold
+47	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+48	if something is made by something else then that something is affected by that something else	nongold
+49	shape is a kind of characteristic	nongold
+50	species is an inherited characteristic	nongold
+51	opposite is a kind of different	nongold
+52	sexual reproduction is a source of genetic variation; naturally occurring variation in offspring; in a species	nongold
+53	being around something means surrounding  that something	nongold
+54	the head is a part of an animal	nongold
+55	the size of an organism is an inherited characteristic	nongold
+56	impact means effect	nongold
+57	a mother births offspring	nongold
+58	answering questions requires information	nongold
+59	a structure of something is synonymous with a part of that something	nongold
+60	to reproduce means to have; to produce offspring	nongold
+61	sense is a kind of characteristic of an animal	nongold
+62	resemble means similar characteristics	nongold
+63	if something affects a part of something else then that something affects that something else	nongold
+64	a plant cell is a kind of cell	nongold
+65	a type is synonymous with a kind	nongold
+66	a sex cell of a human contains 23 chromosomes	nongold
+67	a behavior is a kind of characteristic	nongold
+68	aspect of something is similar to part of something	nongold
+69	can be means able to be	nongold
+70	a cell is very small	nongold
+71	not is similar to the opposite of	nongold
+72	the length of body parts is an inherited characteristic	nongold
+73	parents produce offspring	nongold
+74	children; young is synonymous with offspring	nongold
+75	due to means caused by	nongold
+76	producing is similar to causing	nongold
+77	ability is a kind of characteristic	nongold
+78	a fertilized egg cell is a kind of somatic cell	nongold
+79	a belly is a part of an animal	nongold
+80	a body cell means a somatic cell	nongold
+81	to change means to have an effect	nongold
+82	the effects of something is a property of that something	nongold
+83	in sexual reproduction the egg is a vehicle for the genes from the mother to the offspring	nongold
+84	to be formed by is similar to being produced by	nongold
+85	phenotype of an organism means the visible traits of  an organism	nongold
+86	form means kind	nongold
+87	high is similar to increase	nongold
+88	composed of means made of	nongold
+89	a human cell is a kind of cell	nongold
+90	if both dominant genes are present , then the  dominant trait will be visible; expressed	nongold
+91	to contain means to have inside	nongold
+92	variable means able to change	nongold
+93	contains means located in	nongold
+94	animals reproduce sexually	nongold
+95	made up of means contains; made of	nongold
+96	to give is similar to to cause	nongold
+97	a source of something emits; produces; generates; provides that something	nongold
+98	an egg is a kind of food	nongold
+99	to act on means to affect	nongold

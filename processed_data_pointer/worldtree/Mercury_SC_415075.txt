@@ -1,0 +1,102 @@
+Question	What is an example of a shelter in an ecosystem?	question
+Answer	a raccoon in a hollow log	answer
+0	a raccoon is a kind of animal	gold
+1	some raccoons live in hollow logs	gold
+2	a kind of something is an example of that something	nongold
+3	a shelter is used for living in by animals	gold
+4	an ecosystem is a kind of habitat	nongold
+5	shelter is a kind of place;building;structure for protection	nongold
+6	an organism's shelter is a part of that organism's environment	nongold
+7	an environment is similar to an ecosystem	nongold
+8	raccoons eat trash; garbage; waste	nongold
+9	an animal is a kind of living thing	nongold
+10	a living thing is a kind of object	nongold
+11	an animal requires shelter	nongold
+12	an organism is a living thing	nongold
+13	an ecosystem contains a large community of; large numbers of living organisms	nongold
+14	shelter is a kind of protective covering	nongold
+15	organisms are a part of an environment	nongold
+16	a part of a living thing is a natural structure	nongold
+17	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+18	habitat is similar to environment	nongold
+19	objects in an environment are a part of that environment	nongold
+20	an animal is a kind of organism	nongold
+21	a structure of something is synonymous with a part of that something	nongold
+22	hiding is a kind of protection against predators; from predators	nongold
+23	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+24	a human is a kind of animal	nongold
+25	person is synonymous with human	nongold
+26	an environment means an area	nongold
+27	a wooden log is made of wood	nongold
+28	organisms mean life	nongold
+29	a plant is a kind of organism	nongold
+30	organisms; living things live in their habitat; their home	nongold
+31	a plant is a kind of living thing	nongold
+32	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+33	an animal needs to move to find shelter	nongold
+34	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+35	a forest is a kind of ecosystem	nongold
+36	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+37	an animal requires a habitat for survival	nongold
+38	an animal is a member of an animal species	nongold
+39	an environment is a kind of place	nongold
+40	shelter is used for protection by animals against weather	nongold
+41	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+42	a bird is a kind of living thing	nongold
+43	shelter can protect animals;humans from weather	nongold
+44	an ecosystem contains nonliving things	nongold
+45	killing means harming something causing death	nongold
+46	a bird is a kind of animal	nongold
+47	human is a kind of organism	nongold
+48	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+49	harming something has a  negative impact on; effect on that something	nongold
+50	a tree is a kind of living thing	nongold
+51	life means living things	nongold
+52	nonliving; non-living; die is the opposite of living; alive; live	nongold
+53	something hard; something strong can be used for protection	nongold
+54	objects are made of materials; substances; matter	nongold
+55	an animal requires warmth for survival	nongold
+56	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+57	a forest is a kind of environment	nongold
+58	a rainforest is a kind of ecosystem	nongold
+59	a room is a kind of object	nongold
+60	a tree is a kind of plant	nongold
+61	requiring is similar to needing help	nongold
+62	surroundings means environment	nongold
+63	structure is a property of an object; a material; a substance	nongold
+64	position means a place in a structure	nongold
+65	killing means changing a living thing from alive to dead by harming	nongold
+66	death means to die	nongold
+67	a human is a kind of mammal	nongold
+68	to protect means to make safe	nongold
+69	if something required by something else is in a place then that something else may be in that place	nongold
+70	answering questions requires information	nongold
+71	an insect is a kind of animal	nongold
+72	a person is a kind of animal	nongold
+73	a room is a kind of container	nongold
+74	camouflage is a kind of adaptation for hiding in an environment	nongold
+75	the Earth contains many ecosystems	nongold
+76	rocks are a source of shelter for small animals in an environment	nongold
+77	a plant; living thing requires food for survival	nongold
+78	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+79	a rabbit is a kind of animal	nongold
+80	safe is the opposite of unsafe; harm; danger	nongold
+81	an object has properties	nongold
+82	survival means to survive	nongold
+83	a state is a kind of place	nongold
+84	dead means not alive	nongold
+85	place is synonymous with location	nongold
+86	a source of something emits; produces; generates; provides that something	nongold
+87	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+88	an animal usually requires a warm body temperature for survival	nongold
+89	when a habitat can support living things , living things can live in that habitat	nongold
+90	An example of a container is room	nongold
+91	humans changing an environment sometimes causes that environment to be destroyed	nongold
+92	a tree is a kind of habitat	nongold
+93	live means to be alive	nongold
+94	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+95	what an object is made of is a kind of characteristic	nongold
+96	to be used for something means to be required by that something	nongold
+97	the function of something is what that something  is used to do	nongold
+98	keeping means staying	nongold
+99	shelter building is an inherited characteristic	nongold

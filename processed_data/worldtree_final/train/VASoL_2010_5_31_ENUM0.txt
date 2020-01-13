@@ -1,0 +1,102 @@
+0	Which item is designed to change electrical energy into heat energy?	question
+1	Hand dryer	answer
+2	a hand dryer is a kind of electrical device for drying hair	gold
+3	a hand dryer produces heat	gold
+4	heating means adding heat	nongold
+5	heat means heat energy	nongold
+6	drying means amount of water; amount of liquid; wetness decreases	nongold
+7	an object is an item	gold
+8	electrical energy is a kind of energy	gold
+9	electricity means electrical energy	gold
+10	heat is a kind of energy	gold
+11	temperature is a measure of heat energy	nongold
+12	dry means low in amount of water; wetness; moisture	nongold
+13	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+14	heat energy is synonymous with thermal energy	nongold
+15	energy transformation means one kind of energy changes into another kind of energy	nongold
+16	to convert means to change	gold
+17	to turn means to change	nongold
+18	a device is a kind of object	gold
+19	solar energy is a kind of heat energy	nongold
+20	metal is a thermal; thermal energy conductor	nongold
+21	heat energy can change the state of matter	nongold
+22	adding heat means increasing temperature	nongold
+23	a hand is a kind of object	nongold
+24	an electric stove changes electrical energy into heat energy	nongold
+25	a living thing is a kind of object	nongold
+26	a tool is a kind of object	nongold
+27	a heat engine converts heat energy into mechanical energy	nongold
+28	thermal energy is a kind of energy	nongold
+29	objects are made of materials; substances; matter	nongold
+30	if an object is made of a material then that object has the properties of that material	nongold
+31	a source of something emits; produces; generates; provides that something	nongold
+32	electrical devices are used for industrial purposes; household purposes by humans	nongold
+33	the function of something is what that something  is used to do	nongold
+34	device means tool	nongold
+35	to add means to increase	nongold
+36	metal is an  electrical; electrical energy conductor	nongold
+37	material means substance	nongold
+38	to transform means to convert	nongold
+39	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+40	absorbing energy causes objects; materials; substances to heat	nongold
+41	electricity is used as an energy source by electrical devices	nongold
+42	electric devices require electrical energy to function	nongold
+43	to turn means to convert	nongold
+44	to modify means to change	nongold
+45	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+46	a wet object is a source of water	nongold
+47	wood is an thermal; thermal energy insulator	nongold
+48	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+49	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+50	a device requires energy to operate	nongold
+51	wood is a thermal; thermal energy insulator	nongold
+52	variable means able to change	nongold
+53	metal is a kind of material	nongold
+54	rubber is thermal;thermal energy insulator	nongold
+55	water is an thermal; thermal energy conductor	nongold
+56	heat means the transfer of thermal energy	nongold
+57	a machine is a kind of  device	nongold
+58	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+59	a vehicle is a kind of object	nongold
+60	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+61	heat means temperature increases	nongold
+62	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+63	solar energy is a kind of energy	nongold
+64	an increase is a kind of change	nongold
+65	instrument means device	nongold
+66	change is a kind of process	nongold
+67	friction converts mechanical energy into heat energy	nongold
+68	tool is similar to appliance	nongold
+69	to give off means to be the source of	nongold
+70	if two things perform the same function then those two things are similar	nongold
+71	an object; material; substance comes from that object or material's source	nongold
+72	an animal is a kind of living thing	nongold
+73	a product is a kind of object	nongold
+74	a human is a kind of animal	nongold
+75	dry wood easily burns	nongold
+76	heat energy  can be used to heat up  an object	nongold
+77	washing clothes requires water use	nongold
+78	household appliances are a kind of electrical device	nongold
+79	a burner is a kind of object; surface	nongold
+80	wet is the opposite of dry	nongold
+81	to be used for something means to be required by that something	nongold
+82	something is used for that something's purpose	nongold
+83	an article of clothing is a kind of object	nongold
+84	hot means high in heat energy; temperature	nongold
+85	can be means able to be	nongold
+86	answering questions requires information	nongold
+87	chemical energy is a kind of energy	nongold
+88	if the component of something changed , then the whole thing will change	nongold
+89	a source of something increases the amount of that something	nongold
+90	to change means to have an effect	nongold
+91	substances are made of matter	nongold
+92	replace means change from one thing into  another	nongold
+93	if something emits something else then that something increases the amount of that something else	nongold
+94	a machine is a kind of object	nongold
+95	a source of heat can be used to heat something	nongold
+96	a source of heat can be used to heat something	nongold
+97	energy conversion is similar to energy transformation	nongold
+98	if something generates energy for something else then that something powers that something else	nongold
+99	if something transfers something else then that something is a source of something else	nongold
+100	if something causes a process then that something is required for that process	nongold
+101	an insulator is a kind of material	nongold

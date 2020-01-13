@@ -1,0 +1,63 @@
+0	predicting weather requires studying weater	nongold
+1	a storm is usually a source of strong winds	nongold
+2	clouds produce rain	nongold
+3	to happen means to occur	nongold
+4	snowing is when snow fall from clouds to the Earth;ground	gold
+5	grey clouds are a source of precipitation	gold
+6	clouds are made of water vapor; rain droplets	nongold
+7	cloudy means the presence  of clouds in the sky	nongold
+8	a cloud is a kind of weather	gold
+9	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+10	weather is  a measure of the condition of the air in a place at a certain time	nongold
+11	as the size of a cloud increases , the amount  of precipitation contained in that cloud will increase	nongold
+12	snow is a kind of precipitation	gold
+13	thick grey clouds	answer
+14	storm is a kind of weather; weather event	nongold
+15	The weather forecast says a heavy snowstorm is coming later today. Which weather observation is likely just before the snow?	question
+16	cloudy is a kind of  weather	nongold
+17	measuring is a kind of observing	nongold
+18	snow is cold	nongold
+19	a cloud is a kind of weather	gold
+20	an increase is a kind of change	nongold
+21	to change means to cause a change	nongold
+22	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+23	snowing is when snow fall from clouds to the Earth;ground	gold
+24	thick grey clouds	answer
+25	how long something takes is a kind of measurement of time	nongold
+26	freezing means cold temperatures	nongold
+27	clouds are usually found in the sky	nongold
+28	grey clouds appear before precipitation	gold
+29	sky conditions are a property of weather	nongold
+30	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	gold
+31	grey clouds appear before precipitation	gold
+32	grey clouds appear before precipitation	gold
+33	high is similar to increase	nongold
+34	thick grey clouds	answer
+35	a decrease is a kind of change	nongold
+36	weather forecast means weather prediction	nongold
+37	a cloud is a kind of weather	gold
+38	winter has cold temperatures;weather	nongold
+39	grey clouds are a source of precipitation	gold
+40	a weather report describes weather	nongold
+41	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	gold
+42	The weather forecast says a heavy snowstorm is coming later today. Which weather observation is likely just before the snow?	question
+43	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	gold
+44	snowing is when snow fall from clouds to the Earth;ground	gold
+45	thick grey clouds	answer
+46	The weather forecast says a heavy snowstorm is coming later today. Which weather observation is likely just before the snow?	question
+47	cold fronts cause thunderstorms as they pass by	nongold
+48	snow falls during the winter in some environments	nongold
+49	winter is a kind of season	nongold
+50	clear weather means sunny; not cloudy; not rainy weather	nongold
+51	greatest means largest; highest; most amount of something	nongold
+52	increase means more	nongold
+53	an increase is the opposite of a decrease	nongold
+54	days are a kind of unit for measuring time	nongold
+55	snow is a kind of precipitation	gold
+56	a blizzard is a kind of storm	nongold
+57	extreme means very high in value	nongold
+58	temperature is a property of weather	nongold
+59	The weather forecast says a heavy snowstorm is coming later today. Which weather observation is likely just before the snow?	question
+60	a type is synonymous with a kind	nongold
+61	grey clouds are a source of precipitation	gold
+62	snow is a kind of precipitation	gold

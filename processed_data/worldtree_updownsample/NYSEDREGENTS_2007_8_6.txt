@@ -1,0 +1,50 @@
+0	a cell nucleus is a part of a cell	nongold
+1	Compared to the amount of hereditary information in a human body cell, how much hereditary information is contained in a human sex cell?	question
+2	one-half the amount	answer
+3	a sperm cell is a kind of  sex cell	nongold
+4	a property is a kind of information	nongold
+5	classifying requires comparing	nongold
+6	if something is a source of something else then that something usually contains that something else	nongold
+7	a sex cell of a human contains 23 chromosomes	gold
+8	Compared to the amount of hereditary information in a human body cell, how much hereditary information is contained in a human sex cell?	question
+9	if something is a part of something then that something can be found in that something	nongold
+10	a source of something emits; produces; generates; provides that something	nongold
+11	a sex cell of a human contains 23 chromosomes	gold
+12	human is a kind of organism	nongold
+13	comparing requires observing that something	nongold
+14	Compared to the amount of hereditary information in a human body cell, how much hereditary information is contained in a human sex cell?	question
+15	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+16	to contain something means to have that something	nongold
+17	learning; studying information causes one to know that information	nongold
+18	heredity is when genetic information is passed from one generation to the next	nongold
+19	an organism is a living thing	nongold
+20	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+21	genetic information is encoded in genetic code	nongold
+22	a mammal is a kind of animal	nongold
+23	information is used to describe something	nongold
+24	not is similar to the opposite of	nongold
+25	genes is a vehicle for passing genetic information from one generation to  the next	nongold
+26	can be means able to be	nongold
+27	asexual reproduction is when a single parent passes inherited traits to offspring	nongold
+28	information in an organism's chromosomes cause genetic traits to be passed down to that organism's offspring	nongold
+29	offspring receives half of the genes from each parent	nongold
+30	one in  two means half; 50%	nongold
+31	a human is a kind of animal	nongold
+32	to be made of means to consist of	nongold
+33	a body cell means a somatic cell	nongold
+34	Compared to the amount of hereditary information in a human body cell, how much hereditary information is contained in a human sex cell?	question
+35	one-half the amount	answer
+36	one-half the amount	answer
+37	genes contains genetic information	nongold
+38	the parent cell is the original cell	nongold
+39	if something is made of something; a material then that something contains that something; that material	nongold
+40	a sex cell of a human contains 23 chromosomes	gold
+41	typically means usually	nongold
+42	gamete means sex cell	nongold
+43	if something contains something , then something is able to provide something	nongold
+44	an egg cell is a kind of sex cell	nongold
+45	contains means located in	nongold
+46	genetic information can be used for repairing damage by proteins	nongold
+47	genetic; hereditary means of genes; heredity	nongold
+48	one-half the amount	answer
+49	identical means copy	nongold

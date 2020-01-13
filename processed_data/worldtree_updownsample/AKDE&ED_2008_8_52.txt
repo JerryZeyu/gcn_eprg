@@ -1,0 +1,52 @@
+0	comparing data increases; improves the likelihood of obtaining accurate experiment results	gold
+1	result means outcome	nongold
+2	repeating the same experiment can be used for comparing  data	gold
+3	Data can be compared.	answer
+4	less is similar to decrease	nongold
+5	obtain is similar to receive	nongold
+6	particles in objects are a kind of matter	nongold
+7	a component means a part of	nongold
+8	double is a kind of increase	nongold
+9	likelihood is simiar to probability	nongold
+10	faster means increased rate	nongold
+11	chance means likelihood	nongold
+12	How does repeating an experiment improve the likelihood of obtaining accurate results?	question
+13	something that happens is a kind of event	nongold
+14	How does repeating an experiment improve the likelihood of obtaining accurate results?	question
+15	a scientist is a kind of human	nongold
+16	Data can be compared.	answer
+17	How does repeating an experiment improve the likelihood of obtaining accurate results?	question
+18	comparing data increases; improves the likelihood of obtaining accurate experiment results	gold
+19	repeating the same experiment can be used for comparing  data	gold
+20	a source of something emits; produces; generates; provides that something	nongold
+21	a process is a kind of event	nongold
+22	to gain means to obtain	nongold
+23	Data can be compared.	answer
+24	to depend on; to rely on; to need means to require	nongold
+25	an increase is a kind of change	nongold
+26	comparing requires observing that something	nongold
+27	Data can be compared.	answer
+28	more likely means increased likelihood	nongold
+29	comparing data increases; improves the likelihood of obtaining accurate experiment results	gold
+30	high is similar to increase	nongold
+31	repeating the same experiment can be used for comparing  data	gold
+32	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+33	researcher is a kind of scientist	nongold
+34	testing often requires measuring	nongold
+35	measuring sometimes requires  recording; learning an amount	nongold
+36	scientists make observations	nongold
+37	a component of something means a part of that something	nongold
+38	to impact means to affect	nongold
+39	helping means something can be done; completed more easily; better	nongold
+40	experimentation requires measuring	nongold
+41	an animal is a kind of organism	nongold
+42	can be means able to be	nongold
+43	a factor impacts something	nongold
+44	faster means an increase; higher in speed	nongold
+45	a type is synonymous with a kind	nongold
+46	a particle is a kind of object	nongold
+47	to repeat an experiment means to perform multiple trials of the same experiment	nongold
+48	to improve means to have a positive impact	nongold
+49	a hypothesis is a kind of scientific term	nongold
+50	How does repeating an experiment improve the likelihood of obtaining accurate results?	question
+51	often is similar to likely	nongold

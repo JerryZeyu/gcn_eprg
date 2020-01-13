@@ -1,0 +1,101 @@
+0	a stream is a kind of body of water	nongold
+1	a well is a vehicle for removing water from an aquifer	gold
+2	deplete is similar to decrease	nongold
+3	to limit means to decrease	nongold
+4	water is a kind of liquid at room temperature	nongold
+5	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+6	a body of water contains water	nongold
+7	the ground is part of the Earth	nongold
+8	a supply of something is a source of that something	nongold
+9	Earth is made of rock	nongold
+10	extreme means very high in value	nongold
+11	flowing is similar to pouring	nongold
+12	contain is similar to store	nongold
+13	where something  comes from is a source of that something	nongold
+14	less is similar to decrease	nongold
+15	soil contains water; humus; weathered rocks; organic matter	nongold
+16	an increase is the opposite of a decrease	nongold
+17	as the amount of water in a body of water decreases , the water levels will decrease	nongold
+18	water is a kind of natural resource	nongold
+19	if something requires something else then that something requires a source of that something else	nongold
+20	if something is powered by something else then that something requires a source of that something else	nongold
+21	groundwater is located under ground	gold
+22	form means kind	nongold
+23	an aquifer contains groundwater	gold
+24	requiring something means needing that something	nongold
+25	a type is synonymous with a kind	nongold
+26	groundwater is a kind of water	nongold
+27	the formation of something is a kind of process	nongold
+28	too much is similar to increase	nongold
+29	storing water increases the water available to organisms in a dry environment	nongold
+30	to be formed by is similar to being produced by	nongold
+31	An example of managing the use of something is using less of that something	nongold
+32	if too much water is removed from a location then the water may become used up	gold
+33	to be filled with means to contain	nongold
+34	to flow is similar to to transfer	nongold
+35	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+36	the formation of rock is a kind of process	nongold
+37	if something comes from something else then that something else is a source of that something	nongold
+38	low means down	nongold
+39	pumping water means removing water	gold
+40	to serve as means to be used as	nongold
+41	storing water is a kind of adaptation	nongold
+42	water is a part of an environment	nongold
+43	to reduce means to decrease	nongold
+44	water is a kind of substance	nongold
+45	a source of something emits; produces; generates; provides that something	nongold
+46	sinkholes; caves are formed by precipitation; infiltration	nongold
+47	to help; to benefit means to be of use	nongold
+48	excessive means too much in quantity	gold
+49	underground means buried deep below other rocks	nongold
+50	keeping is similar to storing	nongold
+51	forming is a kind of replenishing	nongold
+52	underground means under ground	nongold
+53	a body of water is a kind of environment	nongold
+54	to emit means to release	nongold
+55	requiring is similar to needing help	nongold
+56	an effective aquifer requires materials with high porosity and high permeability	nongold
+57	water is a kind of natural resource	nongold
+58	if something is made of something else then the formation of that something requires that something else	nongold
+59	a river is a kind of flowing body of water	nongold
+60	to be used for something means to be required by that something	nongold
+61	excessive pumping from wells	answer
+62	to slow; to slow down decreases speed	nongold
+63	to add means to increase	nongold
+64	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+65	less means a reduced amount	nongold
+66	adverse effect means negative impact	nongold
+67	high is similar to increase	nongold
+68	affected means changed	nongold
+69	drinking is a kind of water use	nongold
+70	overuse is similar to depletion	nongold
+71	Earth is a kind of planet	nongold
+72	to provide something means to be the source of that something	nongold
+73	liquid water is available  for organisms	nongold
+74	something in the soil is located underground	nongold
+75	water is a renewable resource	nongold
+76	to provide means to supply	nongold
+77	to lower means to decrease	nongold
+78	Some of Earth's water is stored underground in porous rock formations known as aquifers. Which of these could use up groundwater in aquifers?	question
+79	a reservoir is a kind of body of water	nongold
+80	little is similar to decrease	nongold
+81	a water reservoir contains; stores water	nongold
+82	an animal can not use underground water	nongold
+83	to depend on; to rely on; to need means to require	nongold
+84	low is similar to decrease	nongold
+85	ground water is a kind of water	nongold
+86	something that contains water is similar to a body of water	nongold
+87	bodies of water are located on Earth's surface	nongold
+88	if something releases something else then that something is the source of that something else	nongold
+89	to cause the formation of means to form	nongold
+90	a rock is a kind of object	nongold
+91	best means most positive	nongold
+92	to store means to hold	nongold
+93	rainwater is a kind of water	nongold
+94	using less of a resource means conserving that resource	nongold
+95	if something causes a process then that something is required for that process	nongold
+96	a body of water is a source of water	nongold
+97	aquifers are the largest source of drinkable water on Earth	nongold
+98	an object; material; substance comes from that object or material's source	nongold
+99	a riverbed is a part of a river	nongold
+100	irrigation sometimes requires using groundwater from aquifers	nongold

@@ -1,0 +1,101 @@
+0	high temperatures can cause an object to combust	nongold
+1	to help; to benefit means to be of use	nongold
+2	protecting is a kind of function	nongold
+3	material means substance	nongold
+4	shelter is a kind of place;building;structure for protection	nongold
+5	a  chemical property is a kind of  property	nongold
+6	safety goggles are a kind of safety gear	nongold
+7	chemicals means substances	nongold
+8	to inhibit means to prevent	nongold
+9	a surface is a part of an object	nongold
+10	skin is a part of a frog for breathing; protection; absorbing moisture	nongold
+11	combustibility is a kind of  chemical property	nongold
+12	chemical splashing can cause harm to humans; to the eyes	gold
+13	covering something is a kind of protection	nongold
+14	a vehicle is a kind of object	nongold
+15	damage means harm	nongold
+16	toxic means poisonous	nongold
+17	water is a kind of object	nongold
+18	thermal gloves are used for protecting the hand against heat	nongold
+19	strong means high in strength	nongold
+20	water is a part of an environment	nongold
+21	person is synonymous with human	nongold
+22	an article of clothing is a kind of object	nongold
+23	protecting nature has a positive impact on the environment	nongold
+24	hitting something causes harm to that something	nongold
+25	laboratory apron; laboratory coat is a kind of safety gear for protecting a person during an experiment	nongold
+26	Which item is used for protection from chemical splashing?	question
+27	adverse effect means negative impact	nongold
+28	protection means resistance to damage increases	nongold
+29	warning people of dangers has a positive impact on the safety of those people	nongold
+30	protecting something means preventing harm to that something	gold
+31	pollutants have a negative impact on the environment; air quality	nongold
+32	to be in danger means to be around; to be near something dangerous	nongold
+33	safe is the opposite of unsafe; harm; danger	nongold
+34	form means kind	nongold
+35	an animal is a kind of organism	nongold
+36	chemicals can be pollutants	nongold
+37	helping something has a  positive impact on that something	nongold
+38	a source of something emits; produces; generates; provides that something	nongold
+39	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+40	an animal is a kind of living thing	nongold
+41	requiring is similar to needing help	nongold
+42	if an object is made of a material then that object has the properties of that material	nongold
+43	something hard; something strong can be used for protection	nongold
+44	a human is a kind of animal	nongold
+45	an object is an item	gold
+46	fire is a kind of chemical reaction	nongold
+47	safety goggles	answer
+48	water is a kind of substance	nongold
+49	to be used  for something means to help to do that something	nongold
+50	to protect means to make safe	nongold
+51	an aquatic animal is a kind of animal	nongold
+52	something harmful can cause harm	nongold
+53	objects are made of materials; substances; matter	nongold
+54	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+55	water is when humans pollute the environment with pollutants	nongold
+56	a living thing is a kind of object	nongold
+57	a body part is a kind of object	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	chemical weathering is a kind of weathering	nongold
+60	chemical splashing sometimes occurs during experiments	gold
+61	wearing safety goggles is a kind of safe practice in a laboratory	nongold
+62	inhibitor means something that prevents something from happening	nongold
+63	shelter can protect animals;humans from weather	nongold
+64	a glove is a covering around the hand for protection	nongold
+65	decreasing use  of a resource protects that resource	nongold
+66	a frog is a kind of animal	nongold
+67	an event is a kind of action	nongold
+68	water-resistance is a property of objects; matter and includes ordered values of water-resistant; not water-resistant	nongold
+69	shelter is used for protection by animals against weather	nongold
+70	goggles are a kind of object	gold
+71	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+72	a sharp object can be used for protection	nongold
+73	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+74	a body of water is a kind of environment	nongold
+75	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+76	skin is used for protecting the body from harmful substances	nongold
+77	to hurt means to harm	nongold
+78	danger has a negative impact on a thing	nongold
+79	a person is a kind of animal	nongold
+80	best means most positive	nongold
+81	adding heat to an object sometimes causes chemical reactions	nongold
+82	shelter is a kind of protective covering	nongold
+83	absorbing something harmful has a negative impact on a thing	nongold
+84	harm means danger	nongold
+85	to protect means to defend	nongold
+86	a tool is a kind of object	nongold
+87	harm means injury	nongold
+88	a surface is a kind of object	nongold
+89	to be used for something means to be required by that something	nongold
+90	damage has a negative impact on a thing	nongold
+91	Camouflage is synonymous with visual disguise	nongold
+92	safety goggles are used for protecting the eyes during experiments	gold
+93	to combust means to catch fire	nongold
+94	negative impact is the opposite of positive impact	nongold
+95	a liquid is a kind of substance	nongold
+96	substances have chemical properties	nongold
+97	an object; material; substance comes from that object or material's source	nongold
+98	chemical reactions cause chemical change	nongold
+99	thermal gloves are a kind of safety gear	nongold
+100	knowing sometimes requires determing	nongold

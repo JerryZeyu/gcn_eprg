@@ -1,0 +1,101 @@
+0	A sample in a cylindrical container has a cylindrical shape and a fixed volume. The state of matter of the sample	question
+1	could be either solid or liquid.	answer
+2	solid is a kind of state of matter	gold
+3	Matter in the liquid phase has variable shape	gold
+4	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+5	liquid is a kind of state of matter	gold
+6	Matter in the solid phase has definite shape	gold
+7	Matter in the gas phase has variable shape	nongold
+8	volume is a property of matter	nongold
+9	state of matter means physical state	nongold
+10	matter with variable shape changes shape in different container	nongold
+11	physical state means state of matter	nongold
+12	shape is a kind of physical property	nongold
+13	a solid is a kind of substance	nongold
+14	Matter in the liquid phase has definite volume	gold
+15	Matter in the solid phase has definite volume	gold
+16	state of matter is a kind of physical property	nongold
+17	shape is a property of an object	nongold
+18	a container is a kind of object	nongold
+19	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+20	a liquid is a kind of substance	nongold
+21	state of matter at room temperature is a kind of physical property	nongold
+22	a container contains objects; material; substances	nongold
+23	sample is similar to small amount of substance; matter	nongold
+24	substances are made of matter	nongold
+25	Matter in the gas phase has variable volume	nongold
+26	objects are made of materials; substances; matter	nongold
+27	shape of the parts of something is a property of that something	nongold
+28	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+29	temperature is a measure of heat energy	nongold
+30	density is a measure of mass of an object over volume; divided by volume	nongold
+31	heat energy can change the state of matter	nongold
+32	both means two	nongold
+33	different containers usually are different in shape	nongold
+34	materials are made of matter	nongold
+35	state means form	nongold
+36	contents means the substance in a container	nongold
+37	water is a kind of matter	nongold
+38	round means circular in shape	nongold
+39	structure is similar to shape	nongold
+40	if an object has a small volume and large mass , then the object will  have a high density	nongold
+41	variable means able to change	nongold
+42	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+43	to add means to increase	nongold
+44	matter; materials; substances are made of atoms; particles	nongold
+45	material means substance	nongold
+46	heat means heat energy	nongold
+47	matter is made of molecules	nongold
+48	mass is a measure of the amount of matter in an object	nongold
+49	if something has a definite volume , then its volume will not change when transferred into a different container	nongold
+50	can be means able to be	nongold
+51	rod is cylindrical in shape	nongold
+52	mass is a property of objects; matter	nongold
+53	particles in objects are a kind of matter	nongold
+54	the volume of an object can be used to describe  the size of that object	nongold
+55	fixed is similar to definite	gold
+56	phase means state	nongold
+57	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+58	when a flexible container is filled with a substance , then the volume of the container will be the volume of the substance	nongold
+59	as state of matter changes , mass will not change	nongold
+60	volume has no impact on boiling; melting; freezing point	nongold
+61	if something is definite in shape then that something will not change shape easily	nongold
+62	a physical property is a kind of property	nongold
+63	shape is a property of the appearance of an object	nongold
+64	water is a kind of liquid at room temperature	nongold
+65	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+66	gas is a kind of state of matter	nongold
+67	mass; weight is a property of matter; objects; materials	nongold
+68	elliptical is a kind of shape	nongold
+69	elliptical is a kind of shape	nongold
+70	if an object is made of a material then that object has the properties of that material	nongold
+71	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+72	density is a kind of physical property	nongold
+73	affected means changed	nongold
+74	compressibility is a property of  matter and includes ordered values of compressible; not compressible	nongold
+75	an increase is a kind of change	nongold
+76	condensing means matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+77	surface area is a property of shape	nongold
+78	temperature changing can cause volume of the object to change	nongold
+79	heating means adding heat	nongold
+80	density is a property of an object; a substance and includes ordered values of dense; not dense	nongold
+81	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+82	condensing is a kind of  phase change	nongold
+83	a chemical property is the opposite of a physical property	nongold
+84	form means kind	nongold
+85	size; amount of space means volume	nongold
+86	moisture means liquid; liquid water	nongold
+87	a human is a kind of animal	nongold
+88	if a container contains something then that container touches that something	nongold
+89	not is similar to the opposite of	nongold
+90	sublimation means matter; a substance changes from a solid into a gas by increasing heat energy	nongold
+91	breaking down an object changes that object's shape and that object's mass	nongold
+92	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+93	circular means having the shape of a circle	nongold
+94	as the shape of an object changes , the mass of that object will stay the same	nongold
+95	placing an object into a liquid causes the volume of the liquid to increase by the volume of object under the liquid	nongold
+96	mass is a kind of physical property	nongold
+97	high is similar to increase	nongold
+98	different types of matter have different chemical properties	nongold
+99	composition is a property of an object; matter	nongold
+100	a particle is a kind of object	nongold

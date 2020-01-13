@@ -1,0 +1,102 @@
+Question	How does repeating an experiment improve the likelihood of obtaining accurate results?	question
+Answer	Data can be compared.	answer
+0	comparing data increases; improves the likelihood of obtaining accurate experiment results	gold
+1	to improve the chances means to increase the likelihood	nongold
+2	repeating the same experiment can be used for comparing  data	gold
+3	chance means likelihood	nongold
+4	if an experiment is repeated then the results are more likely to be correct due to fewer errors being made	nongold
+5	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	nongold
+6	likelihood is simiar to probability	nongold
+7	to repeat an experiment means to perform multiple trials of the same experiment	nongold
+8	comparing requires measuring	nongold
+9	comparing requires observing that something	nongold
+10	to improve means to have a positive impact	nongold
+11	observations; data are a part of the results of an experiment	nongold
+12	experiment is synonymous with test	nongold
+13	experimentation requires measuring	nongold
+14	result means outcome	nongold
+15	data means information	nongold
+16	more likely means increased likelihood	nongold
+17	answering questions requires information	nongold
+18	classifying requires comparing	nongold
+19	can be means able to be	nongold
+20	trial is synonymous with test	nongold
+21	100% probability means always	nongold
+22	to obtain means to get	nongold
+23	analyzing all results has a  positive impact on the effort to remain objective during experiments	nongold
+24	testing often requires measuring	nongold
+25	high is similar to increase	nongold
+26	to advance means to improve	nongold
+27	to gain means to obtain	nongold
+28	to enhance means to increase	nongold
+29	increase means more	nongold
+30	to cause means to result in	nongold
+31	an event is a kind of action	nongold
+32	a result of something is evidence of that something	nongold
+33	a human is a kind of animal	nongold
+34	an animal is a kind of organism	nongold
+35	scientists make observations	nongold
+36	to depend on; to rely on; to need means to require	nongold
+37	if an object is a source of something for something else then that something else can obtain that something from that object	nongold
+38	an increase is the opposite of a decrease	nongold
+39	better means good	nongold
+40	obtain is similar to receive	nongold
+41	can means having the ability to	nongold
+42	a measurement is a kind of data	nongold
+43	determining often requires measuring; observing	nongold
+44	a scientist is a kind of human	nongold
+45	an increase is a kind of change	nongold
+46	may happen means having a chance of happening	nongold
+47	to be formed by is to be the result of	nongold
+48	catching something is synonymous with obtaining that something	nongold
+49	investigation sometimes requires experimentation	nongold
+50	a process is a kind of event	nongold
+51	to produce means to result in	nongold
+52	a negative impact is a kind of consequence; risk	nongold
+53	hypothesis means scientific guess about the cause and effect of an event	nongold
+54	a hypothesis is a kind of scientific term	nongold
+55	product means result	nongold
+56	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+57	a source of something increases the amount of that something	nongold
+58	good means positive	nongold
+59	determining is similar to learning	nongold
+60	causing means influencing	nongold
+61	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+62	bias can cause error in an experiment	nongold
+63	An example of evidence for a scientific theory is observations	nongold
+64	variable means able to change	nongold
+65	an animal is a kind of living thing	nongold
+66	concluding is a kind of action	nongold
+67	a living thing is a kind of object	nongold
+68	impact means effect	nongold
+69	often is similar to likely	nongold
+70	25% probability is similar to one in four	nongold
+71	researcher is a kind of scientist	nongold
+72	human is a kind of organism	nongold
+73	a component of something means a part of that something	nongold
+74	a particle is a kind of object	nongold
+75	to cause an event means to make that event more likely	nongold
+76	a source of something emits; produces; generates; provides that something	nongold
+77	faster means an increase; higher in speed	nongold
+78	a type is synonymous with a kind	nongold
+79	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+80	less is similar to decrease	nongold
+81	an organism is a living thing	nongold
+82	intelligence is an acquired characteristic	nongold
+83	a component means a part of	nongold
+84	events occur at a specific place; at a specific time; with a specific frequency	nongold
+85	seconds are a kind of unit for measuring time	nongold
+86	information is used to describe something	nongold
+87	process is similar to method	nongold
+88	best means most positive	nongold
+89	faster means increased rate	nongold
+90	measuring sometimes requires  recording; learning an amount	nongold
+91	according to is similar to be determined by	nongold
+92	helping means something can be done; completed more easily; better	nongold
+93	something that happens is a kind of event	nongold
+94	particles in objects are a kind of matter	nongold
+95	double is a kind of increase	nongold
+96	to impact means to affect	nongold
+97	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+98	a factor impacts something	nongold
+99	a part of a process means a stage in a process	nongold

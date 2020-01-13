@@ -1,0 +1,102 @@
+Question	Giant redwood trees change energy from one form to another. How is energy changed by the trees?	question
+Answer	They change solar energy into chemical energy.	answer
+0	a redwood tree is a kind of tree	nongold
+1	chemical energy is a kind of energy	gold
+2	sunlight is a kind of solar energy	nongold
+3	solar energy is a kind of energy	gold
+4	sunlight means solar energy	nongold
+5	solar energy is a kind of heat energy	nongold
+6	energy transformation means one kind of energy changes into another kind of energy	nongold
+7	to convert means to change	gold
+8	to change into means to form	nongold
+9	a tree is a kind of living thing	nongold
+10	chemical reactions cause chemical change	nongold
+11	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	gold
+12	chemical change is the opposite of physical change	nongold
+13	a tree is a kind of plant	gold
+14	solar energy is a kind of light	nongold
+15	food is a kind of chemical energy	gold
+16	form means kind	gold
+17	a plant is a kind of living thing	nongold
+18	solar radiation means solar energy	nongold
+19	chemical reactions cause new substances; different substances to form	nongold
+20	substances have chemical properties	nongold
+21	photosynthesis is a kind of chemical  process	nongold
+22	solar power means solar energy	nongold
+23	a leaf is a part of a tree	nongold
+24	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+25	photosynthesis is a kind of chemical reaction	nongold
+26	objects contain chemical energy	nongold
+27	a leaf is a part of a  green plant	nongold
+28	forming is similar to converting	nongold
+29	to transform means to convert	nongold
+30	an increase is a kind of change	nongold
+31	a leaf is a kind of plant	nongold
+32	sunlight produces heat	nongold
+33	combining; mixing two substances chemically causes chemical reactions	nongold
+34	state means form	nongold
+35	energy conversion is similar to energy transformation	nongold
+36	an animal is a kind of living thing	nongold
+37	combustion means fire converts chemical energy into light energy and heat energy	nongold
+38	heat is a kind of energy	nongold
+39	most chemical reactions release or absorb heat energy	nongold
+40	a tree contains wood	nongold
+41	substances are made of elements	nongold
+42	a  plant requires sunlight for photosynthesis	nongold
+43	an organism is a living thing	nongold
+44	all elements are a kind of pure substance	nongold
+45	a source of something emits; produces; generates; provides that something	nongold
+46	converting is similar to producing	nongold
+47	carbon is a kind of element	nongold
+48	a living thing is a kind of object	nongold
+49	a fir tree is a kind of tree	nongold
+50	if something transfers something else then that something is a source of something else	nongold
+51	chemicals means substances	nongold
+52	a tree is a kind of matter	nongold
+53	a plant is a kind of organism	nongold
+54	heat means heat energy	nongold
+55	forming something is a kind of change	nongold
+56	a branch is a part of a tree	nongold
+57	the sun is the source of solar energy called sunlight	nongold
+58	to change means to cause a change	nongold
+59	sunlight is a kind of light	nongold
+60	cellular energy is a kind of chemical energy	nongold
+61	when an animal moves , chemical energy is converted to mechanical energy	nongold
+62	adding something is a kind of change	nongold
+63	if something converts one kind of energy into other kinds of energy then that something originally stores that energy as the first kind of energy	nongold
+64	replace means change from one thing into  another	nongold
+65	affected means changed	nongold
+66	a leaf performs photosynthesis; gas exchange	nongold
+67	if something comes from something else then that something else is a source of that something	nongold
+68	a leaf absorbs sunlight to perform photosynthesis	nongold
+69	chemical change is a kind of chemical reaction	nongold
+70	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+71	a chemical property is the opposite of a physical property	nongold
+72	a  chemical property is a kind of  property	nongold
+73	acid can cause chemical change	nongold
+74	green plants are a kind of producer	nongold
+75	hydrogen contains chemical energy	nongold
+76	to modify means to change	nongold
+77	if an object undergoes chemical change then that object will have new chemical properties	nongold
+78	if the component of something changed , then the whole thing will change	nongold
+79	different substances usually have different amount of chemical energy	nongold
+80	if something generates energy for something else then that something powers that something else	nongold
+81	to be made of something means to be formed of that something	nongold
+82	light is a kind of energy	nongold
+83	light is a kind of energy	nongold
+84	a decrease is a kind of change	nongold
+85	variable means able to change	nongold
+86	if something undergoes physical change then the chemical properties of that something will remain unchanged	nongold
+87	a forest contains  lots of plants; trees	nongold
+88	can be means able to be	nongold
+89	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+90	a decomposer is a kind of living thing	nongold
+91	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+92	a chemical reaction is a kind of process	nongold
+93	when one kind of energy changes into another kind of energy , the total amount of energy is constant	nongold
+94	if something emits something else then that something increases the amount of that something else	nongold
+95	plants are a source of oxygen through photosynthesis	nongold
+96	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+97	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+98	an event is a kind of action	nongold
+99	fire causes harm to trees; to forests; to living things	nongold

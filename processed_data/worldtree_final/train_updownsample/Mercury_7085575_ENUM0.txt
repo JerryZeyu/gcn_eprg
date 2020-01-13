@@ -1,0 +1,60 @@
+0	coal is a kind of fossil fuel	gold
+1	pollution is a source of pollutants	nongold
+2	coal	answer
+3	oil is a kind of fossil fuel	nongold
+4	gases from burning coal and oil dissolving in water in the atmosphere causes acid rain	nongold
+5	Which resource when used causes the most pollution?	question
+6	a fossil fuel is a kind of natural resource	gold
+7	an environment means an area	nongold
+8	coal	answer
+9	Which resource when used causes the most pollution?	question
+10	to be a source of something means to cause that something	gold
+11	a decrease is a kind of change	nongold
+12	coal is a kind of sedimentary rock	nongold
+13	change is a kind of impact	nongold
+14	to produce means to create	nongold
+15	to be a source of something means to cause that something	gold
+16	as the use of something decreases , the use of the source of that something will decrease	nongold
+17	where something  comes from is a source of that something	nongold
+18	gases released during the use of fossil fuels causes global warming	nongold
+19	removing coal can cause contamination of the groundwater	nongold
+20	Which resource when used causes the most pollution?	question
+21	water is a part of an environment	nongold
+22	natural gas is a kind of fossil fuel	nongold
+23	a body of water is a kind of environment	nongold
+24	using coal requires burning coal	gold
+25	an increase is a kind of change	nongold
+26	coal	answer
+27	lower means less	nongold
+28	burning coal is a source of air pollution	gold
+29	to be used for something means to be required by that something	nongold
+30	coal is a kind of fossil fuel	gold
+31	using biomass to produce energy is a source of pollution	nongold
+32	usually means most of the time	nongold
+33	a process is a kind of event	nongold
+34	lowest means least in value; amount; number	nongold
+35	burning coal is a source of air pollution	gold
+36	cleaner means less; lower in pollutants	nongold
+37	if something releases something else then that something is the source of that something else	nongold
+38	high is similar to increase	nongold
+39	fossil fuels burning causes pollution	nongold
+40	natural gas is a nonrenewable resource	nongold
+41	largest amount means most	nongold
+42	Which resource when used causes the most pollution?	question
+43	increase means more	nongold
+44	burning coal is a source of air pollution	gold
+45	to lower means to decrease	nongold
+46	a fossil fuel is a kind of natural resource	gold
+47	coal is used for generating heat by burning	nongold
+48	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+49	to change means to cause a change	nongold
+50	less is similar to decrease	nongold
+51	to be a source of something means to cause that something	gold
+52	greatest means largest; highest; most amount of something	nongold
+53	if something causes an increase in something else then that something produces that something else	nongold
+54	using coal requires burning coal	gold
+55	coal is a kind of fossil fuel	gold
+56	a fossil fuel is a kind of natural resource	gold
+57	coal	answer
+58	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+59	using coal requires burning coal	gold

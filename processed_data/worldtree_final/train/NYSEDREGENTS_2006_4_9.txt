@@ -1,0 +1,102 @@
+0	Which object is the best conductor of electricity?	question
+1	metal fork	answer
+2	a good conductor is a conductor	gold
+3	a fork is a kind of object	gold
+4	a fork is a kind of utensil	nongold
+5	metal is an  electrical; electrical energy conductor	gold
+6	metal is a thermal; thermal energy conductor	nongold
+7	rubber is thermal;thermal energy insulator	gold
+8	metal fork is made of metal for eating	nongold
+9	wax is an electrical; electrical energy insulator	nongold
+10	a thermal conductor is made of materials that conduct thermal energy	nongold
+11	plastic is usually an electrical insulator	gold
+12	an insulator is the opposite of a conductor	gold
+13	plastic is a kind of electrical insulator	nongold
+14	wood is a thermal; thermal energy insulator	nongold
+15	wood is an thermal; thermal energy insulator	gold
+16	plastic is a kind of thermal insulator	nongold
+17	best means most positive	gold
+18	rubber is a kind of material	nongold
+19	conductivity is a property of a material; substance	gold
+20	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+21	metal is a kind of material	nongold
+22	electricity means electrical energy	nongold
+23	friction converts mechanical energy into heat energy	nongold
+24	metal is usually flexible	nongold
+25	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+26	rubber is usually flexible	nongold
+27	better means good	nongold
+28	if an object is made of a material then that object has the properties of that material	gold
+29	a spoon sometimes is made of metal	nongold
+30	plastic is high in strength	nongold
+31	a handle is a kind of object	nongold
+32	water is an thermal; thermal energy conductor	nongold
+33	plastic is a kind of material made by humans	nongold
+34	heat means heat energy	nongold
+35	wiring requires an electrical conductor	nongold
+36	heating means adding heat	nongold
+37	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+38	rubber is a kind of nonmetal	nongold
+39	wood is a kind of object	nongold
+40	electrical insulation requires wrapping a conductor in an insulator	nongold
+41	instrument means tool	nongold
+42	to be good for means to have a positive impact on	nongold
+43	brick is an electrical; electrical energy insulator	nongold
+44	rubber is a kind of solid	nongold
+45	heat energy is synonymous with thermal energy	nongold
+46	objects are made of materials; substances; matter	nongold
+47	thermal insulation requires covering the conductor with an insulator	nongold
+48	steel is a kind of metal	nongold
+49	rubber is durable	nongold
+50	a wax crayon is made of wax	nongold
+51	conductivity is a measure of how easily electricity travels through a material	nongold
+52	a thermal insulator slows; prevents the transfer of heat	nongold
+53	a spoon is a kind of object	nongold
+54	wood is a light material	nongold
+55	wood is a strong material	nongold
+56	An electrical conductor is a vehicle for the flow of electricity	nongold
+57	metal is a kind of substance	nongold
+58	a surface is a part of a material	nongold
+59	heat means the transfer of thermal energy	nongold
+60	temperature is a measure of heat energy	nongold
+61	a piece of something is a kind of object	nongold
+62	aluminum is a kind of metal	nongold
+63	insulator means good insulator	nongold
+64	metals usually have greater; higher conductivity than nonmetals	nongold
+65	a handle is used for holding an object	nongold
+66	plastic is durable	nongold
+67	wood has a smooth surface	nongold
+68	conductivity is a kind of physical property	nongold
+69	instrument means device	nongold
+70	a tool is a kind of object	nongold
+71	wood is a kind of nonmetal	nongold
+72	material means substance	nongold
+73	a hand is a kind of object	nongold
+74	good means positive	gold
+75	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+76	leather is a kind of material	nongold
+77	a source of something emits; produces; generates; provides that something	nongold
+78	a plastic spoon is made of plastic	nongold
+79	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+80	a handle is a part of an object for holding that object	nongold
+81	a human is a kind of animal	nongold
+82	a nail is a kind of object	nongold
+83	a stick is a kind of object	nongold
+84	thermal conduction is when heat flows from warmer object to cooler object	nongold
+85	a sheet of copper is a kind of object	nongold
+86	friction occurs when two object's surfaces move against each other	nongold
+87	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+88	electricity is used as an energy source by electrical devices	nongold
+89	electric devices require electrical energy to function	nongold
+90	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+91	stainless steel is always magnetic; nonmagnetic	nongold
+92	if two things are made from the same objects; material then those two things are similar	nongold
+93	wood is a kind of natural material	nongold
+94	person is synonymous with human	nongold
+95	electrical devices are used for industrial purposes; household purposes by humans	nongold
+96	a device is a kind of object	nongold
+97	soft iron; iron is always ferromagnetic; magnetic	nongold
+98	a firewood is a kind of object	nongold
+99	tool is similar to appliance	nongold
+100	steel; carbon steel is always ferromagnetic; magnetic	nongold
+101	a heating element converts electrical energy; electricity into heat energy for heating	nongold

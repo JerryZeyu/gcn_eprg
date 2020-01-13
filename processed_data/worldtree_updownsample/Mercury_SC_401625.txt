@@ -1,0 +1,65 @@
+0	paper is always nonmagnetic	nongold
+1	a paper clip is a kind of object	gold
+2	metal is a kind of material	gold
+3	paper is not durable	nongold
+4	a paper clip is often made of magnetic metals; ferromagnetic metals	gold
+5	magnetic force means magnetism	nongold
+6	to be helpful means to help to do	nongold
+7	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+8	help means advantage	nongold
+9	a piece of something is a kind of object	nongold
+10	magnetic attraction pulls two objects together	nongold
+11	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	gold
+12	a block is a kind of object	gold
+13	an insulator is the opposite of a conductor	nongold
+14	a paper clip is a kind of object	gold
+15	a magnet is a kind of object	nongold
+16	paper clip	answer
+17	a paper clip is a kind of object	gold
+18	if something is made of something; a material then that something contains that something; that material	nongold
+19	Goslarite is always magnetic	nongold
+20	metal is a kind of material	gold
+21	a block is a kind of object	gold
+22	conductivity is a property of a material; substance	nongold
+23	magnetic energy is a kind of energy	nongold
+24	identifying is similar to determining	nongold
+25	to help means to aid	nongold
+26	solid is a kind of state of matter	nongold
+27	if an object is made of a material then that object has the properties of that material	gold
+28	paper clip	answer
+29	helping means something can be done; completed more easily; better	nongold
+30	paper is recyclable	nongold
+31	an electromagnet is a kind of device	nongold
+32	a device is a kind of object	nongold
+33	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+34	Which object would best help a student determine if a block of an unknown material is magnetic?	question
+35	metal is a kind of substance	nongold
+36	Which object would best help a student determine if a block of an unknown material is magnetic?	question
+37	objects are made of materials; substances; matter	nongold
+38	a paper clip is often made of magnetic metals; ferromagnetic metals	gold
+39	Which object would best help a student determine if a block of an unknown material is magnetic?	question
+40	if an object is made of a material then that object has the properties of that material	gold
+41	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	gold
+42	determining often requires measuring; observing	nongold
+43	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+44	paper is a kind of material	nongold
+45	a paper clip is often made of magnetic metals; ferromagnetic metals	gold
+46	a block is a kind of object	gold
+47	conductivity is a kind of physical property	nongold
+48	metal is a kind of material	gold
+49	an object has properties	nongold
+50	Which object would best help a student determine if a block of an unknown material is magnetic?	question
+51	Magnetoplumbite is always magnetic	nongold
+52	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+53	a sheet of paper is a kind of object	nongold
+54	Siderite is always magnetic	nongold
+55	metal is sometimes magnetic	nongold
+56	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+57	paper clip	answer
+58	an part of an object is smaller than the entire object	nongold
+59	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	gold
+60	if an object is made of a material then that object has the properties of that material	gold
+61	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+62	substances are made of matter	nongold
+63	paper clip	answer
+64	a living thing is a kind of object	nongold

@@ -1,0 +1,55 @@
+0	a source of something emits; produces; generates; provides that something	nongold
+1	sunlight means solar energy	nongold
+2	radiation means radiant energy	gold
+3	synthesize means to make	nongold
+4	solar energy is a source of electricity	nongold
+5	heating means adding heat	nongold
+6	a component means a part of	nongold
+7	manufacturing means making	nongold
+8	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+9	conversion is a kind of process	gold
+10	process is similar to method	nongold
+11	radiant energy to electrical energy	answer
+12	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+13	Which of these processes is a conversion made by solar panels?	question
+14	electricity means electrical energy	nongold
+15	energy conversion is similar to energy transformation	nongold
+16	conversion is a kind of process	gold
+17	if something requires something else then that something requires a source of that something else	nongold
+18	conductivity is a property of a material; substance	nongold
+19	to turn means to convert	nongold
+20	if something generates energy for something else then that something powers that something else	nongold
+21	if something is a raw material in a process then that something is required for that process	nongold
+22	conduction is a kind of process	nongold
+23	sunlight produces heat	nongold
+24	Which of these processes is a conversion made by solar panels?	question
+25	sunlight is a kind of solar energy	nongold
+26	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+27	make means produce	nongold
+28	radiation means radiant energy	gold
+29	radiant energy to electrical energy	answer
+30	where something  comes from is a source of that something	nongold
+31	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+32	radiant energy to electrical energy	answer
+33	radiation means radiant energy	gold
+34	a cycle is a kind of process	nongold
+35	production is similar to making	nongold
+36	Which of these processes is a conversion made by solar panels?	question
+37	converting is similar to producing	nongold
+38	to produce means to provide	nongold
+39	if something transfers something else then that something is a source of something else	nongold
+40	solar energy is a kind of heat energy	nongold
+41	photovoltaic cells convert light energy into electricity	nongold
+42	a part of a process means a stage in a process	nongold
+43	emit means produce	nongold
+44	metal is a thermal; thermal energy conductor	nongold
+45	temperature is a measure of heat energy	nongold
+46	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+47	solar energy is a renewable; inexhaustible resource	nongold
+48	Which of these processes is a conversion made by solar panels?	question
+49	radiant energy to electrical energy	answer
+50	conversion is a kind of process	gold
+51	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+52	to add means to combine	nongold
+53	green plants are a kind of producer	nongold
+54	heat is a kind of energy	nongold

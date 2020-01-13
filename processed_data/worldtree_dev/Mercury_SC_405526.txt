@@ -1,0 +1,102 @@
+Question	Which is the best reason for planting a tree away from a sidewalk?	question
+Answer	The sidewalk might crack as the tree grows.	answer
+0	if a tree is located near a sidewalk then the roots of that tree might crack the sidewalk	gold
+1	sidewalk means pavement	nongold
+2	the sidewalk is a kind of object	nongold
+3	a sidewalk is located outside	nongold
+4	when something breaks , a crack may form in that something	nongold
+5	cracking something may cause that something  to break apart	nongold
+6	best means most positive	gold
+7	planting trees is the opposite of cutting down trees	nongold
+8	cracking something usually has a negative impact on that something	gold
+9	a tree requires sunlight to grow	nongold
+10	a crack is a kind of opening	nongold
+11	a tree requires space to grow	nongold
+12	planting is a kind of human action	nongold
+13	harming something has a  negative impact on; effect on that something	nongold
+14	a tree is a kind of plant	gold
+15	a  plant requires sunlight to  grow	nongold
+16	a cause of something is a reason for that something	nongold
+17	a plant requires space to grow	nongold
+18	a tree is a kind of living thing	nongold
+19	planting trees is sometimes a human activity	nongold
+20	roots are a part of a plant; tree	nongold
+21	growing means a plant's height;mass;size increase	nongold
+22	planting trees has a  positive impact on an ecosystem	nongold
+23	when a plant grows , the size of; number of the leaves of that plant may increase	nongold
+24	growth means size;number;value;strength increases	nongold
+25	a plant is a kind of organism	nongold
+26	a plant is a kind of living thing	nongold
+27	toward is the opposite of away	nongold
+28	away is a kind of direction	nongold
+29	buildings collapsing often causes death	nongold
+30	negative impact is the opposite of positive impact	gold
+31	a branch is a part of a tree	nongold
+32	damage means harm	nongold
+33	growing is when an animal's height;mass;size increase	nongold
+34	motion is when moves an object; something to a direction	nongold
+35	to reduce means to decrease	nongold
+36	construction means building	nongold
+37	all living things grow	nongold
+38	counter means reduce; stop; resist	nongold
+39	a leaf is a part of a tree	nongold
+40	bark is a part of a tree	nongold
+41	an organism is a living thing	nongold
+42	building usually requires cutting down trees	nongold
+43	near; close is the opposite of far; away	gold
+44	a living thing is a kind of object	nongold
+45	a trunk is a part of a tree for supporting the tree	nongold
+46	surfaces sometimes cause objects to break	nongold
+47	damage has a negative impact on a thing	nongold
+48	to move away means to increase distance	nongold
+49	death means to die	nongold
+50	forming is similar to growing	nongold
+51	a plant requires soil for survival; to grow	nongold
+52	moving away from the source increases the distance	nongold
+53	a plant's  roots slowly break down rocks as the roots grow	nongold
+54	if something breaks , then that something cannot be used	nongold
+55	a plant; living thing requires nutrients to grow	nongold
+56	far means great in distance	nongold
+57	as distance from a source of something increases , that something will decrease	nongold
+58	a tree is a kind of matter	nongold
+59	when a plant grows , the roots of that plant may become longer	nongold
+60	sunlight means solar energy	nongold
+61	crumble means break down	nongold
+62	to lower means to decrease	nongold
+63	people can plant trees	nongold
+64	a tree contains wood	nongold
+65	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+66	objects are made of materials; substances; matter	nongold
+67	helping something has a  positive impact on that something	nongold
+68	a redwood tree is a kind of tree	nongold
+69	growing is a kind of process	nongold
+70	greatest means largest; highest; most amount of something	nongold
+71	some species of tree are deciduous	nongold
+72	break apart means break down	nongold
+73	a concern; a problem is a possible negative impact	nongold
+74	person is synonymous with human	nongold
+75	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+76	something is used for that something's purpose	nongold
+77	closer means lower; less; a decrease in distance	nongold
+78	to slow; to slow down decreases speed	nongold
+79	to be used for something means to be required by that something	nongold
+80	a surface is a part of an object	nongold
+81	separate is similar to break down	nongold
+82	motion; movement means moving; to move	nongold
+83	inhibitor means something that prevents something from happening	nongold
+84	sunlight is a kind of solar energy	nongold
+85	killing means harming something causing death	nongold
+86	if a tree falls then that tree is dead	nongold
+87	to hurt means to harm	nongold
+88	a leaf is a part of a  green plant	nongold
+89	something harmful can cause harm	nongold
+90	a plant requires photosynthesis to grow; survive	nongold
+91	if something causes a process then that something is required for that process	nongold
+92	apart means away	nongold
+93	if a tree is cut down then that tree will die	nongold
+94	can be means able to be	nongold
+95	planting native plants has a  positive impact on an ecosystem	nongold
+96	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+97	better means good	nongold
+98	low means down	nongold
+99	a problem has a negative impact on a thing	nongold

@@ -1,0 +1,102 @@
+Question	Why would explorers use a compass when traveling to unknown lands?	question
+Answer	to locate a direction to travel	answer
+0	a compass is used to navigate oceans; seas	nongold
+1	a compass is a kind of tool for determining direction by pointing north	gold
+2	a compass is used for determining direction	gold
+3	a compass is a kind of object	nongold
+4	finding something means locating that something	nongold
+5	navigation requires knowing direction	gold
+6	to reach somewhere requires traveling	nongold
+7	travelling requires  navigation	gold
+8	seeking something means trying to find; searching for something	nongold
+9	north; northward is a kind of direction	nongold
+10	search for means seek to find	nongold
+11	instrument means tool	nongold
+12	finding something requires sensing that something	nongold
+13	toward is a kind of direction	nongold
+14	a compass's needle lines up with Earth's magnetic poles	nongold
+15	a vehicle is used for travel	nongold
+16	a vehicle is a kind of tool for travel; transport	nongold
+17	south; southward is a kind of direction	nongold
+18	natural magnetism is used for pointing north by a compass	nongold
+19	a continent is a kind of location	nongold
+20	miles are a kind of unit for measuring distance	nongold
+21	to pass means to travel	nongold
+22	the floating arrow on a compass always points towards the north	nongold
+23	when the needle of a compass lines up with Earth's magnetic poles , the needle points north	nongold
+24	a needle floating in water is a kind of compass	nongold
+25	to be used for something means to be required by that something	nongold
+26	a tool is a kind of object	nongold
+27	a road is a kind of object	nongold
+28	travel means to move	nongold
+29	a road is a kind of location	nongold
+30	instrument means device	nongold
+31	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+32	answering questions requires information	nongold
+33	motion is when moves an object; something to a direction	nongold
+34	if a person is lost at sea then that person may not know the direction of land	nongold
+35	location is a kind of information	nongold
+36	land is a kind of landform	nongold
+37	to discover means to find	nongold
+38	a vehicle is used for transportation	nongold
+39	a human is a kind of animal	nongold
+40	useful means able to be used	nongold
+41	land is a kind of environment	nongold
+42	Earth's magnetic field causes compasses to point North	nongold
+43	an instrument is a piece of equipment	nongold
+44	Earth's magnetic patterns are used for finding locations by animals that migrate	nongold
+45	place is synonymous with location	nongold
+46	discovering something usually requires seeing that something	nongold
+47	far means great in distance	nongold
+48	located means situated	nongold
+49	can be means able to be	nongold
+50	a device is a kind of object	nongold
+51	the location of an object can be used to describe that object	nongold
+52	something is used for that something's purpose	nongold
+53	to use means to utilize	nongold
+54	the function of something is what that something  is used to do	nongold
+55	an animal is a kind of living thing	nongold
+56	a vehicle is a kind of object	nongold
+57	latitude is a property of a location; place on Earth	nongold
+58	device means tool	nongold
+59	path is a kind of pathway	nongold
+60	locating means determining	gold
+61	to detect means to find	nongold
+62	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+63	a process is a kind of event	nongold
+64	a meter is a kind of unit for measuring distance; measuring length	nongold
+65	Earth is a kind of planet	nongold
+66	an event is a kind of action	nongold
+67	distant means great in distance	nongold
+68	down is a kind of direction	nongold
+69	to discover means to make a discovery	nongold
+70	if a person is lost then that person might not know their location	nongold
+71	using an object often requires creating that object	nongold
+72	upward is a kind of direction	nongold
+73	away is a kind of direction	nongold
+74	if something required by something else is in a place then that something else may be in that place	nongold
+75	transport means to move; to make travel	nongold
+76	a measure of time is a length of time	nongold
+77	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+78	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+79	area is similar to location	nongold
+80	if something is located  in somewhere , then something can be found in somewhere	nongold
+81	passage is passing	nongold
+82	a continent is a kind of large land mass	nongold
+83	where something  comes from is a source of that something	nongold
+84	to identify means to discover	nongold
+85	to cross means to pass	nongold
+86	downward is a kind of direction	nongold
+87	length of time means period of time	nongold
+88	furthest; farthest means greatest; most; highest in distance	nongold
+89	a type is synonymous with a kind	nongold
+90	moving is similar to travelling	nongold
+91	a living thing is a kind of object	nongold
+92	a region is a kind of location	nongold
+93	distant means far away	nongold
+94	technology is similar to tool	nongold
+95	direction is similar to instruction	nongold
+96	an invention is a kind of tool	nongold
+97	a source of something emits; produces; generates; provides that something	nongold
+98	helping something has a  positive impact on that something	nongold
+99	to create means to make	nongold

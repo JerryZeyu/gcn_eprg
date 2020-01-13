@@ -1,0 +1,60 @@
+0	Which of these items contains only a solution?	question
+1	person is synonymous with human	nongold
+2	a container contains objects; material; substances	gold
+3	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+4	water is a kind of liquid at room temperature	nongold
+5	juice is a kind of solution	gold
+6	a bottle is a kind of container	gold
+7	a bottle is a kind of container	gold
+8	purity is a property of substance and includes ordered values of pure substance; mixture	nongold
+9	a container is a kind of object	nongold
+10	moisture means liquid; liquid water	nongold
+11	water is a kind of compound	nongold
+12	alcohol is a kind of liquid	nongold
+13	both means two	nongold
+14	a source of something emits; produces; generates; provides that something	nongold
+15	a supply of something is a source of that something	nongold
+16	a pure substance is made of only one kind of atom; molecule	nongold
+17	a beverage is a kind of liquid	nongold
+18	a bottle of juice	answer
+19	a bottle of juice	answer
+20	Which of these items contains only a solution?	question
+21	solution is a kind of liquid	gold
+22	a liquid is a kind of substance	gold
+23	fruit juice is a kind of  drink	nongold
+24	a compound is a kind of substance	nongold
+25	a liquid is a kind of substance	gold
+26	juice is a kind of solution	gold
+27	a bottle of juice	answer
+28	Which of these items contains only a solution?	question
+29	substances are made of matter	nongold
+30	soda water is a kind of carbonated beverage	nongold
+31	concentration means amount	nongold
+32	an mixture is formed by two or more substances combined together physically	nongold
+33	a container contains objects; material; substances	gold
+34	Which of these items contains only a solution?	question
+35	food is a kind of substance	nongold
+36	if a solution is formed , then the  components of the solution are similar throughout	nongold
+37	a container contains objects; material; substances	gold
+38	a bottle is a kind of object	nongold
+39	a glass contains water	nongold
+40	problem is similar to issue	nongold
+41	water is a kind of object	nongold
+42	including means containing	nongold
+43	solution is a kind of liquid	gold
+44	a liquid is a kind of substance	gold
+45	An example of a solution is vinegar mixed with water	nongold
+46	tea is a kind of solution of water and tea mix	nongold
+47	lemon juice is a kind of substance	nongold
+48	if something is a source of something else then that something usually contains that something else	nongold
+49	juice is a kind of solution	gold
+50	contains means located in	nongold
+51	a bottle of juice	answer
+52	a bottle is a kind of container	gold
+53	gas is a kind of substance	nongold
+54	solution is a kind of liquid	gold
+55	if something is made of something; a material then that something contains that something; that material	nongold
+56	fruit juice is usually high in sugar	nongold
+57	objects are made of materials; substances; matter	nongold
+58	a glass bottle is a kind of bottle	nongold
+59	a carbonated beverage contains dissolved carbon dioxide	nongold

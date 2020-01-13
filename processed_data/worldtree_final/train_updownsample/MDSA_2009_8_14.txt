@@ -1,0 +1,61 @@
+0	heat means heat energy	gold
+1	a thermal conductor is made of materials that conduct thermal energy	nongold
+2	if something requires something else then that something requires a source of that something else	nongold
+3	to produce means to provide	nongold
+4	thermal energy is a kind of energy	nongold
+5	a stove generates heat for cooking usually	gold
+6	an electric stove	answer
+7	pot;pan;frying pan is made of metal for cooking	nongold
+8	heating means adding heat	nongold
+9	convert is similar to transfer	nongold
+10	electrical devices are used for industrial purposes; household purposes by humans	nongold
+11	producing electricity sometimes requires burning oil	nongold
+12	a stove is a kind of machine	gold
+13	Electricity has many uses. Which device is designed to transform electrical energy into useful heat energy?	question
+14	an electric stove changes electrical energy into heat energy	gold
+15	Electricity has many uses. Which device is designed to transform electrical energy into useful heat energy?	question
+16	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+17	electric devices require electrical energy to function	nongold
+18	an electric stove	answer
+19	metal is a thermal; thermal energy conductor	nongold
+20	metal is an  electrical; electrical energy conductor	nongold
+21	an electromagnet is a kind of device	nongold
+22	to give off means to be the source of	nongold
+23	a stove is a kind of machine	gold
+24	a stove generates heat for cooking usually	gold
+25	an electric stove	answer
+26	heat means heat energy	gold
+27	electricity is used as an energy source by electrical devices	nongold
+28	a stove is used for cooking by generating heat	nongold
+29	to help; to benefit means to be of use	nongold
+30	heat is a kind of energy	nongold
+31	an electrical device requires electricity to turn on	nongold
+32	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+33	a source of heat can be used to heat something	nongold
+34	to add means to increase	nongold
+35	if something is powered by something else then that something requires a source of that something else	nongold
+36	Electricity has many uses. Which device is designed to transform electrical energy into useful heat energy?	question
+37	if something transfers something else then that something is a source of something else	nongold
+38	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+39	emit means produce	nongold
+40	an electric stove	answer
+41	a hot; warm something is a source of heat	nongold
+42	brick is an electrical; electrical energy insulator	nongold
+43	a machine is a kind of  device	gold
+44	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+45	electrical energy is a kind of energy	nongold
+46	an electric stove changes electrical energy into heat energy	gold
+47	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+48	adding heat means increasing temperature	nongold
+49	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+50	Electricity has many uses. Which device is designed to transform electrical energy into useful heat energy?	question
+51	a machine is a kind of  device	gold
+52	an electric stove changes electrical energy into heat energy	gold
+53	heat means heat energy	gold
+54	a stove generates heat for cooking usually	gold
+55	a stove is a kind of machine	gold
+56	a machine is a kind of  device	gold
+57	to serve as means to be used as	nongold
+58	a machine is a kind of object	nongold
+59	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+60	converting is similar to producing	nongold

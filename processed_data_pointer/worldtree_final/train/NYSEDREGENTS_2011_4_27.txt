@@ -1,0 +1,102 @@
+0	clearing is similar to removing	nongold
+1	a negative impact is a kind of consequence; risk	nongold
+2	removing a forest means cutting down a forest	nongold
+3	an environment is similar to an ecosystem	gold
+4	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+5	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+6	removing forests means removing animal habitats	nongold
+7	rainfall means the amount of precipitation	nongold
+8	removing a forest means cutting down the trees in that forest	nongold
+9	death means to die	nongold
+10	planting trees has a  positive impact on an ecosystem	nongold
+11	humans cause pollution	nongold
+12	a plant is a kind of living thing	nongold
+13	helping something has a  positive impact on that something	nongold
+14	clearing a forest means humans cutting down the trees	nongold
+15	nature is the source of natural resources	nongold
+16	adding is a kind of activity	nongold
+17	deforested area means an area where trees have been cut down	nongold
+18	adverse effect means negative impact	nongold
+19	logging is when humans cut down trees; forests for wood	gold
+20	protecting something means preventing harm to that something	nongold
+21	an environment means an area	nongold
+22	if a tree is cut down then that tree will die	nongold
+23	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+24	destruction means loss	nongold
+25	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+26	creating is a kind of activity	nongold
+27	woodland means forest	nongold
+28	limiting something is a kind of activity	nongold
+29	a plant is a kind of organism	nongold
+30	harming something has a  negative impact on; effect on that something	gold
+31	loss is similar to removal	nongold
+32	action means activity	nongold
+33	loss of resources has a negative impact on  the organisms in an area	nongold
+34	destroying animal habitats has a negative  impact on an ecosystem	nongold
+35	planting is a kind of human action	nongold
+36	a forest is a kind of ecosystem	gold
+37	killing means harming something causing death	nongold
+38	clearing a forest is similar to deforestation	nongold
+39	to impact means to affect	nongold
+40	rainfall means precipitation	nongold
+41	cutting down a rain forest	answer
+42	something harmful can cause harm	nongold
+43	an ecosystem contains a large community of; large numbers of living organisms	gold
+44	polluting is a kind of activity	nongold
+45	planting crops is a kind of activity	nongold
+46	fire causes harm to trees; to forests; to living things	nongold
+47	humans changing animal habitats usually causes harm to those animals	nongold
+48	a motion is a kind of event; action	nongold
+49	plants are a part of the environment	nongold
+50	human waste often causes harm to an environment	nongold
+51	rain causes erosion	nongold
+52	person is synonymous with human	nongold
+53	negative impact is the opposite of positive impact	nongold
+54	building usually requires cutting down trees	nongold
+55	removing an inhibitor of a process causes that process	nongold
+56	a tree is a kind of plant	nongold
+57	roots are a part of a plant; tree	nongold
+58	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+59	deforestation is the process of cutting down trees	nongold
+60	damage has a negative impact on a thing	nongold
+61	cutting down a forest means cutting down the trees in that forest	gold
+62	forest is synonymous with wooded area	nongold
+63	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+64	organisms are a part of an environment	nongold
+65	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+66	a forest is a kind of environment	nongold
+67	damage means harm	nongold
+68	a rainforest is a kind of ecosystem	nongold
+69	if a habitat is removed then that habitat is destroyed	nongold
+70	an event is a kind of action	nongold
+71	rain is a kind of water	nongold
+72	something dangerous can cause harm	nongold
+73	rain is a source of water	nongold
+74	planting trees is the opposite of cutting down trees	nongold
+75	growing is a kind of activity	nongold
+76	humans changing an environment sometimes causes that environment to be destroyed	nongold
+77	remove means decrease	nongold
+78	timber companies cut down trees	nongold
+79	a human is a kind of animal	nongold
+80	destroying something decreases the amount of that something	nongold
+81	burning a living thing usually causes harm to that living thing	nongold
+82	a natural ecosystem contains native living things only	nongold
+83	harm means danger	nongold
+84	destroying animal habitats changes an ecosystem	nongold
+85	nature means a natural environment	nongold
+86	human is a kind of organism	nongold
+87	An example of protecting the environment is creating protected areas	nongold
+88	a rain forest is a kind of forest	gold
+89	impact means effect	nongold
+90	destroying something causes harm to that something	nongold
+91	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+92	planting trees is sometimes a human activity	nongold
+93	destruction means to destroy	nongold
+94	a tree is a kind of living thing	nongold
+95	protecting nature has a positive impact on the environment	nongold
+96	a forest contains  lots of plants; trees	gold
+97	action can cause change	nongold
+98	destroying a forest means cutting down the trees in that forest	nongold
+99	rain is a kind of precipitation	nongold
+100	reproducing is a kind of activity	nongold
+101	Which human activity is most harmful to the natural environment?	question

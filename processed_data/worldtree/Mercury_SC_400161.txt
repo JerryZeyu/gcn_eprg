@@ -1,0 +1,102 @@
+Question	Why should scientists wear goggles during experiments?	question
+Answer	to protect their eyes	answer
+0	safety goggles are used for protecting the eyes during experiments	gold
+1	wearing safety goggles is a kind of safe practice in a laboratory	nongold
+2	goggles are a kind of object	nongold
+3	safety goggles are a kind of safety gear	nongold
+4	to protect means to defend	nongold
+5	protecting something means preventing harm to that something	nongold
+6	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+7	a scientist is a kind of human	nongold
+8	covering something is a kind of protection	nongold
+9	eyes are a part of a human for seeing	nongold
+10	eyes are usually part of an animal for seeing	nongold
+11	something hard; something strong can be used for protection	nongold
+12	an animal is a kind of living thing	nongold
+13	a human is a kind of animal	nongold
+14	experiment is synonymous with test	nongold
+15	harming something has a  negative impact on; effect on that something	nongold
+16	a living thing is a kind of object	nongold
+17	protection means resistance to damage increases	nongold
+18	chemical splashing sometimes occurs during experiments	nongold
+19	an animal is a kind of organism	nongold
+20	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+21	laboratory apron; laboratory coat is a kind of safety gear for protecting a person during an experiment	nongold
+22	looking at bright objects has a negative impact on the eyes	nongold
+23	helping something has a  positive impact on that something	nongold
+24	experimentation requires measuring	nongold
+25	a face is often a part of an animal	nongold
+26	if a living thing requires something then that something has a positive impact on that living thing	nongold
+27	sight means to see	nongold
+28	the eyes are part of the head used for seeing	nongold
+29	negative impact is the opposite of positive impact	nongold
+30	to protect means to make safe	nongold
+31	scientists make observations	nongold
+32	objects are made of materials; substances; matter	nongold
+33	sight means vision	nongold
+34	to put on means to wear	nongold
+35	tinted lenses are a part of sunglasses for protecting the eyes by reflecting light	nongold
+36	light rays can have a negative impact on the eyes	nongold
+37	person is synonymous with human	nongold
+38	protecting is a kind of function	nongold
+39	hiding means visibility; ability to be seen decreases for camouflage	nongold
+40	eyes are used for seeing by animals by sensing light	nongold
+41	to look like means to have the visual properties of	nongold
+42	Camouflage is synonymous with visual disguise	nongold
+43	color is a property of  an object; a material	nongold
+44	difficulty seeing means visibility decreases	nongold
+45	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+46	a sharp object can be used for protection	nongold
+47	a person is a kind of animal	nongold
+48	damage has a negative impact on a thing	nongold
+49	instrument means tool	nongold
+50	a tool is a kind of object	nongold
+51	human is a kind of organism	nongold
+52	looking like is similar to camouflaging as	nongold
+53	an part of an object is smaller than the entire object	nongold
+54	better look means see better	nongold
+55	to hurt means to harm	nongold
+56	a laser beam can cause eye damage if viewed directly	nongold
+57	if an object is made of a material then that object has the properties of that material	nongold
+58	human eyes can only see light in the range of visible light	nongold
+59	An example of camouflage is when an organism looks like its environment	nongold
+60	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+61	An example of camouflage is when something is; has the same color as its environment	nongold
+62	a negative impact is a kind of consequence; risk	nongold
+63	magnifying glass is used to see  small things by making objects appear bigger	nongold
+64	a covering is a kind of object	nongold
+65	visible means able to be seen	nongold
+66	not looking means not seeing	nongold
+67	scientific discoveries sometimes require specific technologies	nongold
+68	an object has properties	nongold
+69	damage means harm	nongold
+70	a device is a kind of object	nongold
+71	observations; data are a part of the results of an experiment	nongold
+72	something harmful can cause harm	nongold
+73	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+74	an organism is a living thing	nongold
+75	requiring is similar to needing help	nongold
+76	metal is a kind of material	nongold
+77	hiding is a kind of protection against predators; from predators	nongold
+78	seeing requires light	nongold
+79	if an object is black then that object absorbs all visible light; heat	nongold
+80	to see means to look	nongold
+81	answering questions requires information	nongold
+82	an instrument is a piece of equipment	nongold
+83	to be used for something means to be required by that something	nongold
+84	high is similar to increase	nongold
+85	something is used for that something's purpose	nongold
+86	materials are made of matter	nongold
+87	as the size of the eyes of an animal increases , the ability of that animal to see will usually increase	nongold
+88	death means to die	nongold
+89	disguise means  changing appearance to hide	nongold
+90	the function of something is what that something  is used to do	nongold
+91	a type is synonymous with a kind	nongold
+92	to get a better look at means to see better	nongold
+93	light enters the eye through the pupil	nongold
+94	a research team is made of humans	nongold
+95	an event is a kind of action	nongold
+96	researcher is a kind of scientist	nongold
+97	sunglasses are used for reflecting light rays away from the eyes	nongold
+98	plastic is a kind of material made by humans	nongold
+99	a process is a kind of event	nongold

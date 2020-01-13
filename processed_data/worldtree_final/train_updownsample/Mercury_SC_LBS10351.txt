@@ -1,0 +1,58 @@
+0	dark is the opposite of light	nongold
+1	shift means move	gold
+2	if it is night then the sun has set	nongold
+3	affected means changed	nongold
+4	Its position appears to shift relative to the horizon.	answer
+5	appearance is a property of objects; materials	nongold
+6	approximately means about	nongold
+7	stars appear to move relative to the horizon during the night	gold
+8	the sun rising and setting causes cycles of day and night	nongold
+9	motion is when moves an object; something to a direction	nongold
+10	stars appear to move relative to the horizon during the night	gold
+11	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+12	to turn means to change	nongold
+13	not is similar to the opposite of	nongold
+14	stay the same means not changing	nongold
+15	a constellation contains stars	gold
+16	How does the appearance of a constellation change during the night?	question
+17	to add means to increase	nongold
+18	shape is a property of the appearance of an object	nongold
+19	variable means able to change	nongold
+20	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+21	stars appear to move relative to the horizon during the night	gold
+22	the Sun is a kind of star	nongold
+23	daytime means day	nongold
+24	moving changes position	gold
+25	moving changes position	gold
+26	the sun is not a star in the night sky	nongold
+27	if an object is close then that object will appear large	nongold
+28	revolving  around something means orbiting that something	nongold
+29	How does the appearance of a constellation change during the night?	question
+30	How does the appearance of a constellation change during the night?	question
+31	sunlight is a kind of light	nongold
+32	shift means move	gold
+33	Its position appears to shift relative to the horizon.	answer
+34	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+35	the sunlight occurs during the day	nongold
+36	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	nongold
+37	Its position appears to shift relative to the horizon.	answer
+38	to slow; to slow down decreases speed	nongold
+39	a constellation contains stars	gold
+40	Its position appears to shift relative to the horizon.	answer
+41	the Sun is the  star that is closest to Earth	nongold
+42	low is similar to decrease	nongold
+43	phase means state	nongold
+44	changed is the opposite of unchanged	nongold
+45	a star is a kind of celestial object; celestial body	nongold
+46	no longer means used to be	nongold
+47	constant means not changing	nongold
+48	close means low in distance	nongold
+49	moving changes position	gold
+50	a planet is a kind of celestial object; body	nongold
+51	light is a kind of wave	nongold
+52	a constellation contains stars	gold
+53	How does the appearance of a constellation change during the night?	question
+54	to change means to cause a change	nongold
+55	shift means move	gold
+56	astronomy is the study of celestial (objects, bodies)	nongold
+57	an increase is a kind of change	nongold

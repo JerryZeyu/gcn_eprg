@@ -1,0 +1,63 @@
+0	combustion means fire converts chemical energy into light energy and heat energy	nongold
+1	substances have chemical properties	nongold
+2	electrical signals are made of electrical energy	nongold
+3	energy transformation means one kind of energy changes into another kind of energy	gold
+4	batteries can be used to power electrical devices	nongold
+5	instrument means device	nongold
+6	converting is similar to turning into	nongold
+7	a  battery  is a kind of electrical power source	nongold
+8	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+9	a laser is a kind of device for producing light	nongold
+10	chemical -> electrical -> light	answer
+11	light is a kind of energy	nongold
+12	visible light is a kind of  light	nongold
+13	a battery-operated device is a kind of electrical device	gold
+14	a light bulb is a kind of electrical device	nongold
+15	converting is similar to producing	nongold
+16	a machine is a kind of  device	nongold
+17	a flashlight is a kind of battery-operated device	gold
+18	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+19	a light bulb generates visible light when it is turned on	nongold
+20	a flashlight requires a source of electricity to produce light	gold
+21	closing an electric circuit causes an electrical device to function	nongold
+22	conductivity is a property of a material; substance	nongold
+23	to transform means to convert	nongold
+24	energy transformation means one kind of energy changes into another kind of energy	gold
+25	a process is a kind of event	nongold
+26	forming is similar to converting	nongold
+27	a flashlight is a kind of battery-operated device	gold
+28	a battery-operated device is a kind of electrical device	gold
+29	a flashlight emits light	gold
+30	an event is a kind of action	nongold
+31	when an animal moves , chemical energy is converted to mechanical energy	nongold
+32	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+33	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+34	to happen means to occur	nongold
+35	a firecracker converts chemical energy into sound energy and light energy and heat energy	nongold
+36	a flashlight requires a source of electricity to produce light	gold
+37	a flashlight is a kind of battery-operated device	gold
+38	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+39	nuclear energy is a kind of energy	nongold
+40	energy transformation means one kind of energy changes into another kind of energy	gold
+41	chemical change is the opposite of physical change	nongold
+42	light is a kind of electromagnetic radiation	nongold
+43	a device is a kind of object	nongold
+44	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+45	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+46	a flashlight requires a source of electricity to produce light	gold
+47	different substances usually have different amount of chemical energy	nongold
+48	chemical -> electrical -> light	answer
+49	to turn means to convert	nongold
+50	energy conversion is similar to energy transformation	nongold
+51	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+52	chemical -> electrical -> light	answer
+53	chemical change is a kind of chemical reaction	nongold
+54	rotate means turn	nongold
+55	a flashlight emits light	gold
+56	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+57	chemical -> electrical -> light	answer
+58	if an old battery no longer supplies electrical energy then that battery needs to be replaced	nongold
+59	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+60	a flashlight emits light	gold
+61	all elements are a kind of pure substance	nongold
+62	a battery-operated device is a kind of electrical device	gold

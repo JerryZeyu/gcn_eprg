@@ -1,0 +1,102 @@
+Question	Which is the best plan to make the fossil fuel supply last longer?	question
+Answer	reduce electricity use	answer
+0	to last longer means to be available longer	gold
+1	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+2	as the use of something decreases , the use of the source of that something will decrease	gold
+3	as the use of a resource decreases , the length of time that resource will be available increases	gold
+4	to reduce means to decrease	gold
+5	oil is used for producing electricity	gold
+6	producing electricity sometimes requires burning oil	nongold
+7	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+8	increase means more	nongold
+9	how long something takes is a kind of measurement of time	gold
+10	electricity means electrical energy	nongold
+11	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+12	less is similar to decrease	nongold
+13	electricity causes less pollution than gasoline	nongold
+14	fuel supply is a kind of resource	nongold
+15	using resources decreases those resources	nongold
+16	biofuel is used to produce electricity by burning	nongold
+17	fossil fuels are a kind of energy resource	nongold
+18	reducing is a kind of change	nongold
+19	make means produce	nongold
+20	to cause means to make	nongold
+21	an increase is the opposite of a decrease	nongold
+22	using less of a resource increases the availability of that resource	nongold
+23	less means a reduced amount	nongold
+24	fossil fuels are a nonrenewable resource	nongold
+25	fuel efficient means uses less fuel	nongold
+26	a source of something emits; produces; generates; provides that something	gold
+27	if something lasts longer then that something will not have to be replaced for a long time	nongold
+28	to lower means to decrease	nongold
+29	to add means to increase	nongold
+30	a fossil fuel is a kind of natural resource	nongold
+31	producing renewable electric energy requires renewable resources	nongold
+32	to depend on; to rely on; to need means to require	nongold
+33	natural gas is a kind of fossil fuel	nongold
+34	to provide means to supply	nongold
+35	electricity sometimes is used for heating buildings; substances	nongold
+36	natural gas is used for generating electricity by burning in a power plant	nongold
+37	coal is used to produce electricity by burning in coal-fire power stations	nongold
+38	solar energy is a source of electricity	nongold
+39	fuel is a kind of energy source	nongold
+40	as a resource is used less , the lower an electric bill is	nongold
+41	electricity is used as an energy source by electrical devices	nongold
+42	petroleum is a kind of fossil fuel	nongold
+43	a power plant converts chemical energy from energy source into electricity	nongold
+44	a decrease is a kind of change	nongold
+45	if something is powered by something else then that something requires a source of that something else	nongold
+46	generating power is a kind of positive impact	nongold
+47	low is similar to decrease	nongold
+48	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+49	if something with the same function as something else is being used then the use of that something else decreases	nongold
+50	oil is a nonrenewable resource	nongold
+51	to be used for something means to be required by that something	nongold
+52	loss means reduction	nongold
+53	a source of something increases the amount of that something	nongold
+54	using renewable resources to generate power reduces greenhouse gases	nongold
+55	deplete is similar to decrease	nongold
+56	operating electrical appliances requires electricity	nongold
+57	alternative fuel is usually a renewable resource	nongold
+58	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+59	natural gas is a nonrenewable resource	nongold
+60	best means most positive	nongold
+61	a fuel is used to make energy	nongold
+62	renewable resources can be used over again	nongold
+63	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+64	consumption means use	nongold
+65	fuel is a source of energy	nongold
+66	provide is similar to give; make	nongold
+67	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+68	length of time means period of time	nongold
+69	if something is a raw material in a process then that something is required for that process	nongold
+70	oil is a kind of fossil fuel	gold
+71	making something requires resources	nongold
+72	too much is similar to increase	nongold
+73	if something requires something else then that something requires a source of that something else	nongold
+74	final means last	nongold
+75	an increase is a kind of change	nongold
+76	powering is similar to fueling	nongold
+77	to make possible means to be required	nongold
+78	little is similar to decrease	nongold
+79	a supply of something is a source of that something	nongold
+80	the supply of an inexhaustible resource does not change over a long period of time	nongold
+81	no longer means used to be	nongold
+82	to power means to provide energy for	nongold
+83	using moving water to produce electricity may disrupt local ecosystems	nongold
+84	if something causes an increase in something else then that something produces that something else	nongold
+85	to shorten means to make shorter	nongold
+86	high is similar to increase	nongold
+87	if something causes a process then that something is required for that process	nongold
+88	negative impact is the opposite of positive impact	nongold
+89	wind is used for producing electricity	nongold
+90	give off is similar to make	nongold
+91	hydropower is when falling water produces electricity	nongold
+92	providing something means making;delivering something	nongold
+93	an energy source is a kind of resource	nongold
+94	current means electric current	nongold
+95	fossil fuels have high potential energy	nongold
+96	less is the opposite of more	nongold
+97	using the fuel requires burning the fuel	nongold
+98	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+99	if a resource is limited in supply then that resource will run out	nongold

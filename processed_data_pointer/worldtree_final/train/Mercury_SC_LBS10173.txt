@@ -1,0 +1,101 @@
+0	snowy means a large amount of snow	nongold
+1	frozen means solid	nongold
+2	water is a kind of liquid at room temperature	nongold
+3	cold is a kind of weather	nongold
+4	flowing is a kind of action	nongold
+5	ice is a kind of food	nongold
+6	formation of a state of matter is a kind of process	nongold
+7	cooler means colder	nongold
+8	colder; cooler means lower in temperature	nongold
+9	snow is a kind of ice	nongold
+10	to happen means to occur	nongold
+11	to give off means to be the source of	nongold
+12	a glacier moves slowly	gold
+13	pulling is a kind of motion	nongold
+14	a change is a kind of event	nongold
+15	change is a kind of process	nongold
+16	cold means low in temperature	nongold
+17	solid is a kind of state of matter	nongold
+18	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+19	melting is a kind of process	nongold
+20	to give is similar to to cause	nongold
+21	form means kind	nongold
+22	to add means to increase	nongold
+23	ice is a kind of water phase	nongold
+24	precipitation is a kind of  natural process	nongold
+25	ice wedging is a kind of mechanical weathering	nongold
+26	thawing is similar to melting	nongold
+27	to cause is similar to bring	nongold
+28	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+29	a type is synonymous with a kind	nongold
+30	melting is a kind of phase change	nongold
+31	something that happens is a kind of event	nongold
+32	glacier	answer
+33	ice is colder than water in temperature	nongold
+34	a process is a kind of event	nongold
+35	ice crystals means  ice	nongold
+36	state means form	nongold
+37	snow is a kind of object	nongold
+38	ice is a kind of solid	nongold
+39	events occur at a specific place; at a specific time; with a specific frequency	nongold
+40	motion is when moves an object; something to a direction	nongold
+41	a glacier causes mechanical weathering	nongold
+42	spreading is a kind of motion	nongold
+43	Antarctic polar ice contains ice; glaciers	nongold
+44	a glacier is made of a large buildup of ice; snow	gold
+45	movement is a kind of change	nongold
+46	snow is cold	nongold
+47	skidding is a kind of motion	nongold
+48	to place in is similar to to move to	nongold
+49	ice is a kind of object	nongold
+50	ice sheet; polar ice sheet is a kind of glacier	nongold
+51	shift means move	nongold
+52	variable means able to change	nongold
+53	icy means made of ice	nongold
+54	increase means more	nongold
+55	moving is similar to travelling	nongold
+56	liquid is a kind of state of matter	nongold
+57	to increase is similar to to create	nongold
+58	water is a kind of substance	nongold
+59	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+60	buildup means increase	nongold
+61	to cause an event is similar to being involved in that event	nongold
+62	to split means to break down	nongold
+63	an increase is a kind of change	nongold
+64	a glacier is made of ice	nongold
+65	water is a kind of polar substance	nongold
+66	motion; movement means moving; to move	nongold
+67	temperature is a measure of heat energy	nongold
+68	intense means extreme	nongold
+69	water is a kind of matter	nongold
+70	a decrease is a kind of change	nongold
+71	to lower means to decrease	nongold
+72	precipitation is a kind of weather	nongold
+73	freezing causes a solid to form	nongold
+74	a glacier is a kind of body of water	nongold
+75	a component means a part of	nongold
+76	temperature is a property of weather	nongold
+77	a mountain glacier is a kind of glacier	nongold
+78	flowing is a kind of motion	nongold
+79	ice is cold in temperature	nongold
+80	a component of something means a part of that something	nongold
+81	an increase is the opposite of a decrease	nongold
+82	to change means to cause a change	nongold
+83	a part of a process means a stage in a process	nongold
+84	freezing means cold temperatures	nongold
+85	phase means state	nongold
+86	What is a large buildup of moving ice and snow called?	question
+87	cycles of freezing and thawing water cause ice wedging	nongold
+88	a source of something increases the amount of that something	nongold
+89	a phase change is a kind of physical change	nongold
+90	weathering is a kind of process	nongold
+91	rising is a kind of motion	nongold
+92	snow is a kind of precipitation	nongold
+93	something in a cold place becomes cold	nongold
+94	high is similar to increase	nongold
+95	hail is a kind of precipitation; ice	nongold
+96	an event is a kind of action	nongold
+97	a motion is a kind of event; action	nongold
+98	to wash away is a kind of movement by moving water	nongold
+99	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+100	freezing is a kind of phase change	nongold

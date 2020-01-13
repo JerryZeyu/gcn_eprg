@@ -1,0 +1,102 @@
+0	impact means effect	nongold
+1	a farmer farms crops; plants for  food	nongold
+2	organisms are a part of an environment	nongold
+3	soil is a part of the ground outside	nongold
+4	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	gold
+5	a berry is a kind of fruit	nongold
+6	a plant; living thing requires food for survival	nongold
+7	crops grow in soil	nongold
+8	an environment is a kind of place	nongold
+9	fruit trees are a kind of crop	nongold
+10	to change means to have an effect	nongold
+11	fruit is a kind of food	nongold
+12	planting crops requires growing crops	nongold
+13	crop rotation has a  positive impact on soil quality	nongold
+14	an apple tree is a kind of plant	nongold
+15	soil quality	answer
+16	a coastal area is a kind of environment	nongold
+17	soil is a renewable resource for growing plants	gold
+18	high is similar to increase	nongold
+19	a property is similar to a factor	nongold
+20	causing is a kind of affecting	nongold
+21	cause is similar to influence	nongold
+22	plants are the source of fruit	nongold
+23	a vegetable is a kind of plant	nongold
+24	fertile soil is high in quality	nongold
+25	often soil is found in an environment	nongold
+26	crops; farming cause nutrients in the soil to decrease	nongold
+27	nutrient poor soil means low quality soil	nongold
+28	planting crops is synonymous with growing crops	gold
+29	to impact means to affect	nongold
+30	corn is a kind of plant	nongold
+31	a plant; living thing requires nutrients to grow	gold
+32	soybeans are a kind of legume	nongold
+33	fruit is a part of a plant; tree	nongold
+34	affected means changed	nongold
+35	moisture is a kind of environmental factor	nongold
+36	cropland is used for farming by humans	nongold
+37	a plant is a kind of organism	nongold
+38	soil is usually part of an environment	nongold
+39	corn is a kind of seed	nongold
+40	producing is similar to causing	nongold
+41	farming is a kind of process	gold
+42	often is similar to likely	nongold
+43	farming is when a human plants crops for food	gold
+44	if something is made by something else then that something is affected by that something else	nongold
+45	a decrease is a kind of change	nongold
+46	farming changes the environment	nongold
+47	helping something has a  positive impact on that something	nongold
+48	The Piedmont and Coastal Plains regions in Maryland produce crops such as corn, soybeans, wheat, tobacco, tomatoes, and apples. Which environmental factor most likely influences which crops are grown in these regions?	question
+49	plants are a part of the environment	nongold
+50	a coast is a kind of environment	nongold
+51	humans eat crops	nongold
+52	as the use of a crop increases , the amount of  crops planted will increase	nongold
+53	low quality soil has a small; a low number of nutrients	nongold
+54	a farmer is a kind of human	nongold
+55	high-quality means positive	nongold
+56	an increase is a kind of change	nongold
+57	a natural resource is a kind of environmental factor	gold
+58	erosion of soil has a  negative impact on the environment; soil quality	nongold
+59	to contribute is similar to produce	nongold
+60	a plant requires soil for survival; to grow	gold
+61	corn is a kind of crop	nongold
+62	green plants are a kind of producer	nongold
+63	Maryland is a kind of region	nongold
+64	a producer is a kind of living thing	nongold
+65	region means place	nongold
+66	good means positive	nongold
+67	an apple is a kind of fruit	nongold
+68	a climate is synonymous with an environment	nongold
+69	all living things grow	nongold
+70	influence means effect	nongold
+71	crops growing well has a positive impact on a farmer's livelihood	nongold
+72	a producer produces its own food	nongold
+73	an environment means an area	nongold
+74	soil contains nutrients for plants	gold
+75	a potato is a kind of food	nongold
+76	a vegetable is a kind of food	nongold
+77	a tomato plant is a kind of plant	nongold
+78	change is a kind of impact	nongold
+79	farming is a source of food	nongold
+80	a factor impacts something	nongold
+81	if something causes an increase in something else then that something produces that something else	nongold
+82	an animal is a kind of living thing	nongold
+83	producing crops requires using farm land	nongold
+84	an increase is the opposite of a decrease	nongold
+85	if something affects a part of something else then that something affects that something else	nongold
+86	if something is required for a process then that something positively impacts that process	gold
+87	a region is a kind of location	nongold
+88	a crop is a kind of food	nongold
+89	an organism is a living thing	nongold
+90	if a plant is planted; growing somewhere then that plant is located there	nongold
+91	an animal is a kind of organism	nongold
+92	a plant is a kind of living thing	nongold
+93	a source of something emits; produces; generates; provides that something	nongold
+94	a region is similar to an environment	gold
+95	Maryland is a state located in the United States of America	nongold
+96	a human is a kind of animal	nongold
+97	crops are a kind of edible plant for eating	gold
+98	a plant requires photosynthesis to grow; survive	nongold
+99	a coast is a coastal area	nongold
+100	influence means impact	gold
+101	a coast is where land meets the edge of a body of water	nongold

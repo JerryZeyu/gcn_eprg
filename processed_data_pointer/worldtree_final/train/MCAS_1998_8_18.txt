@@ -1,0 +1,101 @@
+0	old is the opposite of new	nongold
+1	Huntingdonshire is a county located in England	nongold
+2	Staffordshire is a county located in England	nongold
+3	construction means building	nongold
+4	Oxfordshire is a county located in England	nongold
+5	due to means caused by	nongold
+6	trees are a renewable resource	nongold
+7	area; space is a kind of resource	nongold
+8	Cambridgeshire is a county located in England	nongold
+9	low is similar to decrease	nongold
+10	Yorkshire is a county located in England	nongold
+11	Shropshire is a county located in England	nongold
+12	Berkshire is a county located in England	nongold
+13	Northumberland is a county located in England	nongold
+14	if something required by something else is in a place then that something else may be in that place	nongold
+15	answering questions requires information	nongold
+16	to depend on; to rely on; to need means to require	nongold
+17	Cornwall is a county located in England	nongold
+18	a lot means large in amount; quantity	nongold
+19	a decrease is a kind of change	nongold
+20	a tree contains wood	gold
+21	vegetation means plants	nongold
+22	Gloucestershire is a county located in England	nongold
+23	quantity means amount	nongold
+24	most means over 50% of something	nongold
+25	frame construction requires wood	gold
+26	wood.	answer
+27	an increase is the opposite of a decrease	nongold
+28	high is similar to increase	nongold
+29	Worcestershire is a county located in England	nongold
+30	place means area	nongold
+31	building usually requires cutting down trees	nongold
+32	wood is a kind of resource	gold
+33	a structure of something is synonymous with a part of that something	nongold
+34	requiring something means needing that something	nongold
+35	an increase is a kind of change	nongold
+36	greatest means largest; highest; most amount of something	nongold
+37	objects are made of materials; substances; matter	nongold
+38	Westmoreland is a county located in England	nongold
+39	Sussex is a county located in England	nongold
+40	little is similar to decrease	nongold
+41	wood is a light material	nongold
+42	Norfolk is a county located in England	nongold
+43	to conserve means to not change	nongold
+44	Somerset is a county located in England	nongold
+45	a tree is a kind of plant	nongold
+46	New England has an abundance of trees	gold
+47	frame construction is a kind of industry	gold
+48	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+49	Nottinghamshire is a county located in England	nongold
+50	wood is a kind of object	nongold
+51	wood is usually sturdy	nongold
+52	Bedfordshire is a county located in England	nongold
+53	to create means to make	nongold
+54	Cumbria (Cumberland) is a county located in England	nongold
+55	Rutland is a county located in England	nongold
+56	increase means more	nongold
+57	construction of a building usually requires clearing the land as the first step; beforehand	nongold
+58	Cheshire is a county located in England	nongold
+59	Frame construction predominates in the New England area due to the abundance of	question
+60	Wiltshire is a county located in England	nongold
+61	Hampshire is a county located in England	nongold
+62	amount is similar to abundance	nongold
+63	wood is a strong material	nongold
+64	less is similar to decrease	nongold
+65	to make means to build	nongold
+66	area is similar to location	nongold
+67	Surrey is a county located in England	nongold
+68	no longer means used to be	nongold
+69	Leicestershire is a county located in England	nongold
+70	an environment means an area	nongold
+71	Lancashire is a county located in England	nongold
+72	to lower means to decrease	nongold
+73	Derbyshire is a county located in England	nongold
+74	a type is synonymous with a kind	nongold
+75	Middlesex is a county located in England	nongold
+76	Devon is a county located in England	nongold
+77	if an industry requires a resource then that industry predominates in areas with an abundance of that resource	gold
+78	wood is a renewable resource	nongold
+79	to be used for something means to be required by that something	nongold
+80	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+81	as the cause of something decreases , that something will decrease	nongold
+82	Hertfordshire is a county located in England	nongold
+83	building something often requires measuring the materials	nongold
+84	Essex is a county located in England	nongold
+85	a region is a kind of location	nongold
+86	Kent is a county located in England	nongold
+87	wood is a kind of natural material	nongold
+88	to lack means to not have	nongold
+89	New Zealand is located in the southern hemisphere	nongold
+90	building a tool requires knowing about the parts of that tool	nongold
+91	Buckinghamshire is a county located in England	nongold
+92	Suffolk is a county located in England	nongold
+93	new means different from the former one	nongold
+94	Dorset is a county located in England	nongold
+95	Durham is a county located in England	nongold
+96	Lincolnshire is a county located in England	nongold
+97	an environment is a kind of place	nongold
+98	Northamptonshire is a county located in England	nongold
+99	Warwickshire is a county located in England	nongold
+100	abundant means high in number	nongold

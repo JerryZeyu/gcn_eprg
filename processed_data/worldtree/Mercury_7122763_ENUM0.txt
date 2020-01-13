@@ -1,0 +1,102 @@
+Question	The orbit of Earth is almost circular and has a period of about 365 days. Compared to the orbit of Earth, which of these objects usually have highly elliptical orbits and can have periods of over 1000 years?	question
+Answer	comets	answer
+0	a comet is a kind of celestial body	nongold
+1	a comet is a kind of celestial object	nongold
+2	comet orbits are elliptical	gold
+3	a comet orbit occurs usually once per 1000.0 years	gold
+4	moons; comets; planets are part of the solar system	nongold
+5	1 year is equal to 365 days	nongold
+6	elliptical is a kind of shape	nongold
+7	elliptical is a kind of shape	nongold
+8	Earth is a kind of planet	nongold
+9	a comet is made of ice, gases, and dust	nongold
+10	circular means having the shape of a circle	nongold
+11	a planet is a kind of celestial object; body	nongold
+12	years are a kind of unit for measuring time	nongold
+13	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+14	to a human a time period of 1000 years or more years is considered very long	nongold
+15	the moon's orbit is elliptical	nongold
+16	revolving  around something means orbiting that something	nongold
+17	days are a kind of unit for measuring time	nongold
+18	comparing requires observing that something	nongold
+19	orbit means orbital path	nongold
+20	period is similar to amount of time	nongold
+21	comparing requires measuring	nongold
+22	planetary orbits are mostly elliptical	nongold
+23	an asteroid is a kind of celestial object	nongold
+24	rotation  is  the  circular movement of an object around a center; axis	nongold
+25	a elliptical galaxy is a kind of galaxy	nongold
+26	comets reflect the light of the sun	nongold
+27	round means circular in shape	nongold
+28	moons orbit planets	nongold
+29	a moon is a kind of celestial object; body	nongold
+30	length of time means period of time	nongold
+31	can be means able to be	nongold
+32	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+33	an orbit is a kind of regular path	nongold
+34	a comet is often made of ice	nongold
+35	high is similar to increase	nongold
+36	moving in a circle means moving in a circular motion	nongold
+37	a star is a kind of celestial object; celestial body	nongold
+38	answering questions requires information	nongold
+39	astronomy is the study of celestial (objects, bodies)	nongold
+40	orbit is a kind of characteristic	nongold
+41	events occur at a specific place; at a specific time; with a specific frequency	nongold
+42	orbiting is a kind of action	nongold
+43	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+44	a measure of time is a length of time	nongold
+45	planets orbit stars	nongold
+46	objects are made of materials; substances; matter	nongold
+47	classifying requires comparing	nongold
+48	furthest; farthest means greatest; most; highest in distance	nongold
+49	the day time is part of one day	nongold
+50	an object is made of its parts	nongold
+51	an increase is a kind of change	nongold
+52	extreme means very high in value	nongold
+53	variable means able to change	nongold
+54	affected means changed	nongold
+55	month is a kind of period of time	nongold
+56	the Moon is Earth's moon	nongold
+57	increase means more	nongold
+58	greater means higher; more in value	nongold
+59	an increase is the opposite of a decrease	nongold
+60	motion is when moves an object; something to a direction	nongold
+61	a planet completes one orbit around its star over a period of one planetary year	nongold
+62	the Earth revolves around the sun	nongold
+63	approximately means about	nongold
+64	the Kuiper Belt contains orbiting comets and asteroids	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	Celestial bodies move in orbits in space around other celestial bodies	nongold
+67	Mars is a kind of planet	nongold
+68	decades are a kind of unit for measuring time	nongold
+69	a motion is a kind of event; action	nongold
+70	distance is a property of space and includes ordered values of close; far	nongold
+71	setting is a kind of motion	nongold
+72	1 month is equal to 28-31 days	nongold
+73	to add means to increase	nongold
+74	a light-year is used for describing long distances	nongold
+75	revolving is a kind of motion	nongold
+76	low is similar to decrease	nongold
+77	if an object is made of something then the parts of that object are made of that something	nongold
+78	astronomy is a kind of branch of science	nongold
+79	centuries are a kind of unit for measuring time	nongold
+80	classifying is when one sorts something by kind; type	nongold
+81	an animal is a kind of living thing	nongold
+82	diameter is a measure of length through the center of a circle	nongold
+83	an part of an object is smaller than the entire object	nongold
+84	astronomical body means celestial body	nongold
+85	an event is a kind of action	nongold
+86	a type is synonymous with a kind	nongold
+87	an object has properties	nongold
+88	a particle is a kind of object	nongold
+89	annual means once per year	nongold
+90	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+91	the Earth rotates on its axis	nongold
+92	the moon orbiting the Earth occurs once per month	nongold
+93	months are a kind of unit for measuring time	nongold
+94	1 week is equal to 7 days	nongold
+95	the moon orbits the Earth	nongold
+96	speed is a property of an object and includes values of slow; fast	nongold
+97	system means a set of objects	nongold
+98	usually means most of the time	nongold
+99	rotate means turn	nongold

@@ -1,0 +1,101 @@
+0	white objects absorbs the least sunlight	nongold
+1	bright means bright; light in color	nongold
+2	objects are made of materials; substances; matter	nongold
+3	if something exists on a surface then that surface contains that something	nongold
+4	if an object reflects a light of a certain color then the object appears to be that color	nongold
+5	if an object reflects more light then that object is more easily seen	nongold
+6	the floor is at the bottom of a room	nongold
+7	a living thing is a kind of object	nongold
+8	coloration means a pattern of colors	nongold
+9	darker objects absorb more light than light colored objects	nongold
+10	smooth is a kind of texture	nongold
+11	the ability to reflect is a property of sound wave	nongold
+12	brightness means amount of light	nongold
+13	objects in an environment are a part of that environment	nongold
+14	if something is in a dark place , then that something will not reflect enough light to be seen	nongold
+15	appearance  is a kind of physical property	nongold
+16	an animal is a kind of organism	nongold
+17	dark means dark in color	nongold
+18	person is synonymous with human	nongold
+19	a white tile can be used as a streak plate	nongold
+20	a table is a kind of furniture	nongold
+21	feature is synonymous with characteristic	nongold
+22	carpet has a rough surface	nongold
+23	best means most positive	nongold
+24	a human is a kind of animal	nongold
+25	if the surface of an object contains something then that object is covered with that something	nongold
+26	affected means changed	nongold
+27	the ability to reflect off of a surface is a kind of characteristic	nongold
+28	reflection is a property of light	nongold
+29	image means visual depiction of an object	nongold
+30	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+31	a panel is a kind of object	nongold
+32	white is a kind of color	nongold
+33	a white object reflects all visible light	gold
+34	room contains walls	nongold
+35	a surface is a part of a material	nongold
+36	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+37	as lightness in color of an object increases , the ability of that object to reflect light will increase	nongold
+38	a covering is a kind of object	nongold
+39	a surface is a part of an object	nongold
+40	eyes can sense;detect light energy for seeing	nongold
+41	light is a kind of wave	nongold
+42	if an object reflects light toward the eye then that object can be seen	nongold
+43	reflection is when particles bounce off a surface	nongold
+44	a wall is a kind of surface	nongold
+45	green is a kind of color	nongold
+46	to be good for means to have a positive impact on	nongold
+47	if an object is black then that object absorbs all visible light; heat	nongold
+48	light reflecting off of an object causes that object to be visible to the observer	nongold
+49	if an object is translucent , then some light will scatter	nongold
+50	appearance is a property of objects; materials	nongold
+51	an environment means an area	nongold
+52	sunlight is a kind of light	nongold
+53	ground means floor	nongold
+54	white light is made of all colors of visible light combined	nongold
+55	when object is in direct light then that object is not shaded	nongold
+56	color is a property of  an object; a material	nongold
+57	to look like means to have the visual properties of	nongold
+58	a property of something is a feature of that something	nongold
+59	the floor is a kind of object	gold
+60	shiny things; objects reflect light	nongold
+61	reflection is when a wave bounces off a surface and travels in the  opposite direction relative to the angle of incidence	nongold
+62	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+63	a surface is a kind of object	nongold
+64	a wall is a kind of object	nongold
+65	UV light is a kind of light	nongold
+66	texture means how an object feels	nongold
+67	a mirror reflects light	nongold
+68	coloration means a thing's color	nongold
+69	a blue object reflects only blue light	nongold
+70	an animal is a kind of living thing	nongold
+71	dark means a low amount of light	nongold
+72	if an object is white then that object reflects all visible light	nongold
+73	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+74	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+75	to bounce back means to reflect	nongold
+76	reflection is a kind of process	nongold
+77	if an object is in the light then that object is blocking the light	nongold
+78	to lower means to decrease	nongold
+79	if someone walks on a surface then that someone touches that surface	nongold
+80	an part of an object is smaller than the entire object	nongold
+81	to reflect light means to scatter light	nongold
+82	Which object best reflects light?	question
+83	painting an object a color causes that object to be that color	nongold
+84	better means good	nongold
+85	when light hits a reflective object , that light bounces off that object	nongold
+86	if an object is blue then that object reflects only blue light	nongold
+87	a person is a kind of animal	nongold
+88	reflecting light; sound is the opposite of absorbing light; sound	nongold
+89	color is a kind of physical; visual property	nongold
+90	visible light is a kind of  light	nongold
+91	color is an intensive property	nongold
+92	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+93	a reflector is used to reflect light especially on vehicles	nongold
+94	a room is a kind of object	nongold
+95	feeling is when an living thing senses through touch	nongold
+96	good means positive	nongold
+97	dark is the opposite of light	nongold
+98	the color of an environment means the color of the things that environment contains	nongold
+99	white floor	answer
+100	the color of an object can be discovered by looking at that object	nongold

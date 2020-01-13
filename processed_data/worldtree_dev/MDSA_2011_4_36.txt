@@ -1,0 +1,102 @@
+Question	A teacher carefully places some objects into very hot water. After one minute, which item is most likely too hot to touch?	question
+Answer	a metal spoon	answer
+0	metal is a thermal; thermal energy conductor	gold
+1	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	nongold
+2	a plastic spoon is made of plastic	nongold
+3	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+4	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+5	a spoon is a kind of object	gold
+6	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+7	an object is an item	gold
+8	a spoon sometimes is made of metal	nongold
+9	water is an thermal; thermal energy conductor	nongold
+10	if an object is hot then the surfaces of that object are hot	nongold
+11	being  on something; placed in something; placed over something means touching  that something	nongold
+12	if one is holding an object then one is touching that object	nongold
+13	a thermal insulator slows; prevents the transfer of heat	nongold
+14	if an object is held under a substance then that object is touching that substance	nongold
+15	to touch means to contact	nongold
+16	hot means high in heat energy; temperature	nongold
+17	plastic is a kind of thermal insulator	nongold
+18	metal is a kind of material	gold
+19	temperature is a measure of heat energy	nongold
+20	touching is when a body part makes contact with the surface of an object	nongold
+21	a hot; warm something is a source of heat	gold
+22	being in something means touching that something	nongold
+23	if a container contains something then that container touches that something	nongold
+24	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+25	metal is a kind of substance	nongold
+26	if heat is conducted to an object then that object will become hot	nongold
+27	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+28	a hot substance is a source of heat	nongold
+29	if an object is put inside; poured into another object , then two objects are touching	nongold
+30	a container contains objects; material; substances	nongold
+31	objects are made of materials; substances; matter	nongold
+32	heat means heat energy	nongold
+33	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+34	water is a kind of liquid at room temperature	nongold
+35	heat energy is synonymous with thermal energy	nongold
+36	a surface is a part of a material	nongold
+37	a material's response to heating and cooling can be used to study that material's thermal properties	nongold
+38	friction occurs when two object's surfaces move against each other	nongold
+39	a thermal conductor is made of materials that conduct thermal energy	nongold
+40	counter means reduce; stop; resist	nongold
+41	thermal conduction is when heat flows from warmer object to cooler object	nongold
+42	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+43	friction causes the temperature of an object to increase	nongold
+44	if something is dropped into a container of something else then that something is touching that something else	nongold
+45	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+46	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+47	a surface is a part of an object	nongold
+48	if an object is made of a material then that object has the properties of that material	gold
+49	water is a kind of substance	nongold
+50	an insulator is the opposite of a conductor	nongold
+51	a surface is a kind of object	nongold
+52	water is a kind of object	nongold
+53	to lower means to decrease	nongold
+54	an insulator is a kind of material	nongold
+55	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+56	to reduce means to decrease	nongold
+57	heat means the transfer of thermal energy	nongold
+58	heating means adding heat	nongold
+59	material means substance	nongold
+60	if an organism becomes too hot then that organism may die	nongold
+61	a container is a kind of object	nongold
+62	a thermal insulator can be used to remove hot objects from a heat source	nongold
+63	a human is a kind of animal	nongold
+64	touching something means feeling that something	nongold
+65	if something is  cold in temperature , then something will be cold to touch	nongold
+66	a metal is usually a solid at room temperature	nongold
+67	a tool is a kind of object	nongold
+68	warm; becoming warm means heat is added	nongold
+69	water is a kind of matter	nongold
+70	inspect; observe means examine	nongold
+71	a pan;frying pan is a kind of container for cooking; food	nongold
+72	motion; movement means moving; to move	nongold
+73	to rub; to rub together means to move against	nongold
+74	a bowl is a kind of container	nongold
+75	friction converts mechanical energy into heat energy	nongold
+76	warm is similar to hot	nongold
+77	a living thing is a kind of object	nongold
+78	harming something has a  negative impact on; effect on that something	nongold
+79	a liquid is a kind of substance	nongold
+80	a person is a kind of animal	nongold
+81	person is synonymous with human	nongold
+82	a device is a kind of object	nongold
+83	a source of something emits; produces; generates; provides that something	nongold
+84	an increase is the opposite of a decrease	nongold
+85	an animal is a kind of living thing	nongold
+86	rubbing against something is a kind of contact	nongold
+87	often is similar to likely	nongold
+88	placing an object into a liquid causes the volume of the liquid to increase by the volume of object under the liquid	nongold
+89	thermal expansion is a property of matter and includes ordered values of high; low	nongold
+90	device means tool	nongold
+91	an animal is a kind of organism	nongold
+92	instrument means tool	nongold
+93	a hot plate is a kind of instrument	nongold
+94	plastic is a kind of material made by humans	nongold
+95	a pan is a kind of object	nongold
+96	a body part is a kind of object	nongold
+97	minutes are a kind of unit for measuring time	nongold
+98	instrument means device	nongold
+99	an organism is a living thing	nongold

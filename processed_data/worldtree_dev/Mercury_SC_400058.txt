@@ -1,0 +1,102 @@
+Question	The small stone plant has leaves that look like pebbles or stones. This characteristic helps the plant	question
+Answer	avoid being eaten by animals.	answer
+0	avoiding  predators is synonymous with avoiding being eaten	nongold
+1	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+2	avoiding is similar to preventing	nongold
+3	a pebble is a kind of small rock	gold
+4	escape means avoid	nongold
+5	helping something has a  positive impact on that something	gold
+6	avoiding predators; escaping predators; avoiding consumers is a kind of protection	gold
+7	pebbles are a kind of material	nongold
+8	avoiding something requires sensing that something	nongold
+9	harming something has a  negative impact on; effect on that something	nongold
+10	eating an animal; a plant means killing that animal; that plant	nongold
+11	harming an organism can cause that organism to die	nongold
+12	killing means harming something causing death	nongold
+13	avoiding is a kind of conditioned behavior	nongold
+14	a predator avoiding some types of prey is a learned behavior	nongold
+15	to help means to aid	nongold
+16	hiding can be used for avoiding predators	nongold
+17	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+18	avoiding means doing something less	nongold
+19	to help; to benefit means to be of use	nongold
+20	An example of being careful is avoiding danger	nongold
+21	protecting something means preventing harm to that something	nongold
+22	to inhibit means to prevent	nongold
+23	to look like means to have the visual properties of	nongold
+24	feature is synonymous with characteristic	nongold
+25	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+26	a plant is a kind of living thing	nongold
+27	a part of something means a characteristic of something	nongold
+28	a plant is a kind of organism	gold
+29	killing means changing a living thing from alive to dead by harming	nongold
+30	avoiding is a kind of defense	nongold
+31	a leaf is small in size	nongold
+32	an animal is a kind of living thing	nongold
+33	characteristic means property	nongold
+34	a leaf is a part of a  green plant	nongold
+35	harming an animal species has a  negative impact on the population size of that species	nongold
+36	an animal is a kind of organism	nongold
+37	a leaf is a kind of plant	nongold
+38	rock means stone	gold
+39	negative impact is the opposite of positive impact	nongold
+40	death means to die	nongold
+41	an organism is a living thing	nongold
+42	a living thing is a kind of object	nongold
+43	An example of camouflage is an organism looking like leaves	nongold
+44	a leaf is a kind of object	nongold
+45	if a living thing dies then that living thing is dead	nongold
+46	survive means live	nongold
+47	survive means live	nongold
+48	hiding is a kind of protection against predators; from predators	nongold
+49	nonliving; non-living; die is the opposite of living; alive; live	nongold
+50	harming an animal species causes that animal's population to decrease	nongold
+51	harm means danger	nongold
+52	to keep something from happening means to prevent that something	nongold
+53	predators eat prey	nongold
+54	resemble means look like	nongold
+55	to be used  for something means to help to do that something	nongold
+56	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+57	dying is the opposite of living; surviving	nongold
+58	danger has a negative impact on a thing	nongold
+59	a plant; living thing requires food for survival	nongold
+60	dead means not alive	nongold
+61	something harmful can cause harm	nongold
+62	water easily passes through pebbles	nongold
+63	destroying something causes harm to that something	nongold
+64	a positive impact is  a benefit	nongold
+65	killing a living thing decreases the number; population size of that living thing	nongold
+66	decreasing something negative has a positive impact on a thing	nongold
+67	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+68	preventing something decreases the amount of that something	nongold
+69	a predator usually kills its prey to eat it	nongold
+70	inhibitor means something that prevents something from happening	nongold
+71	some animals move quickly to escape predators	nongold
+72	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+73	to prevent means to make it not happen	nongold
+74	to hurt means to harm	nongold
+75	objects are made of materials; substances; matter	nongold
+76	organisms are a part of an environment	nongold
+77	plants are a part of the environment	nongold
+78	become prey means get eaten	nongold
+79	looking like is similar to camouflaging as	gold
+80	a leaf is often green in color	nongold
+81	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	gold
+82	if a living thing requires something then that something has a positive impact on that living thing	nongold
+83	an animal needs to eat food for nutrients	nongold
+84	decreasing something positive has a negative impact on a thing	nongold
+85	if an organism eats something then that something is a source of frood to that organism	nongold
+86	a positive impact is a helpful effect	nongold
+87	a poisonous animal is dangerous	nongold
+88	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+89	a leaf performs photosynthesis; gas exchange	nongold
+90	to be in danger means to be around; to be near something dangerous	nongold
+91	to eat means to consume food	nongold
+92	most animals avoid bad odors	nongold
+93	an animal; living thing requires nutrients for survival	nongold
+94	mimicry is used for avoiding predators by animals by camouflaging as a dangerous animal	nongold
+95	food is what an animal eats	nongold
+96	plant parts are made of plants	nongold
+97	a plant is a member of a plant species	nongold
+98	a structure is a kind of feature	nongold
+99	eating something decreases the amount of that something	nongold

@@ -1,0 +1,55 @@
+0	human is a kind of organism	nongold
+1	adverse effect means negative impact	nongold
+2	Some people have pacemakers that may be affected by microwaves.	answer
+3	an animal is a kind of living thing	nongold
+4	harming something has a  negative impact on; effect on that something	gold
+5	fastest means greatest in  speed	nongold
+6	to lower means to decrease	nongold
+7	harming something has a  negative impact on; effect on that something	gold
+8	food is a kind of substance	nongold
+9	slowest means lowest in  speed	nongold
+10	disrupting is similar to having a negative impact	nongold
+11	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+12	warning people of dangers has a positive impact on the safety of those people	gold
+13	to change means to have an effect	nongold
+14	microwaves harm people that have pacemakers	gold
+15	microwaves harm people that have pacemakers	gold
+16	to be affected by something is similar to depending on something	nongold
+17	Signs in many stores and restaurants warn that microwaves are in use. What is the main reason for this warning?	question
+18	Some people have pacemakers that may be affected by microwaves.	answer
+19	impact means effect	nongold
+20	Some people have pacemakers that may be affected by microwaves.	answer
+21	to be a source of something means to cause that something	nongold
+22	high speed means fast	nongold
+23	an animal is a kind of organism	nongold
+24	warning people of dangers has a positive impact on the safety of those people	gold
+25	if an object accelerates then that object will go faster	nongold
+26	microwave-safe is when a material can be microwaved safely	nongold
+27	Signs in many stores and restaurants warn that microwaves are in use. What is the main reason for this warning?	question
+28	events occur at a specific place; at a specific time; with a specific frequency	nongold
+29	a person is a kind of animal	nongold
+30	an animal is a kind of consumer	nongold
+31	to give off means to be the source of	nongold
+32	microwaves harm people that have pacemakers	gold
+33	faster means increased rate	nongold
+34	if something emits something else then that something increases the amount of that something else	nongold
+35	warning people of dangers has a positive impact on the safety of those people	gold
+36	to depend on; to rely on; to need means to require	nongold
+37	an organism is a living thing	nongold
+38	to reduce means to decrease	nongold
+39	increase means more	nongold
+40	harming something has a  negative impact on; effect on that something	gold
+41	Signs in many stores and restaurants warn that microwaves are in use. What is the main reason for this warning?	question
+42	an part of an object is smaller than the entire object	nongold
+43	to cause means to have an effect	nongold
+44	the function of something is what that something  is used to do	nongold
+45	if something is made by something else then that something is affected by that something else	nongold
+46	to act on means to affect	nongold
+47	speed up means increase	nongold
+48	Some people have pacemakers that may be affected by microwaves.	answer
+49	death means to die	nongold
+50	speed is a measure of how fast an object is moving	nongold
+51	Signs in many stores and restaurants warn that microwaves are in use. What is the main reason for this warning?	question
+52	can be means able to be	nongold
+53	to store means to hold	nongold
+54	the effects of something is a property of that something	nongold

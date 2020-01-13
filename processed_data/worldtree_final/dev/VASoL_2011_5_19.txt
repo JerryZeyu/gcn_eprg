@@ -1,0 +1,102 @@
+0	Sonar helps people find which information about an object?	question
+1	Location	answer
+2	sonar is used to find the location of an object by sound waves	gold
+3	finding something means locating that something	nongold
+4	sonar usually is used for  locating objects underwater	nongold
+5	location is a kind of information	nongold
+6	to discover means to find	nongold
+7	to detect means to find	nongold
+8	place is synonymous with location	nongold
+9	finding something requires sensing that something	nongold
+10	to identify means to discover	nongold
+11	place; location is synonymous with position	nongold
+12	to be used  for something means to help to do that something	nongold
+13	if something is located in some place , then the presence of that something can be found in that location	nongold
+14	a person is a kind of animal	nongold
+15	person is synonymous with human	nongold
+16	to help means to aid	nongold
+17	to help; to benefit means to be of use	nongold
+18	data means information	nongold
+19	if something is located  in somewhere , then something can be found in somewhere	nongold
+20	knowing the properties of something means knowing information about that something	nongold
+21	a human is a kind of animal	nongold
+22	helping something has a  positive impact on that something	nongold
+23	a planet is a kind of location	nongold
+24	search for means seek to find	nongold
+25	to discover means to make a discovery	nongold
+26	place means space	nongold
+27	the location of an object can be used to describe that object	gold
+28	place means area	nongold
+29	area is similar to location	nongold
+30	discovering something usually requires seeing that something	nongold
+31	helping means to assist in a change	nongold
+32	if something is received on a location then that something can be observed on that location	nongold
+33	an environment is a kind of place	nongold
+34	if a person is lost then that person might not know their location	nongold
+35	seeking something means trying to find; searching for something	nongold
+36	a computer is used for communication; finding information	nongold
+37	warning  people of something requires knowing about; predicting that something	nongold
+38	a living thing is a kind of object	nongold
+39	sense is used for obtaining information about one's environment	nongold
+40	a device is a kind of object	nongold
+41	a user is a kind of person	nongold
+42	a landform is a kind of place	nongold
+43	a landform is a kind of place	nongold
+44	located means situated	nongold
+45	celestial bodies; celestial objects are found in space	nongold
+46	spot means location	nongold
+47	a planet is a kind of place	nongold
+48	locating means determining	nongold
+49	can be means able to be	nongold
+50	a description sometimes provides information	nongold
+51	a property is a kind of information	nongold
+52	an animal is a kind of living thing	nongold
+53	bodies of water are located on Earth's surface	nongold
+54	if something is a part of something then that something can be found in that something	nongold
+55	a city is a kind of location	nongold
+56	contains means located in	nongold
+57	a tool is a kind of object	nongold
+58	a continent is a kind of location	nongold
+59	motion is when moves an object; something to a direction	nongold
+60	an animal is a kind of organism	nongold
+61	distant means far away	nongold
+62	helping means something can be done; completed more easily; better	nongold
+63	a state is a kind of place	nongold
+64	monitoring something is used for knowing information about that something	nongold
+65	a landform is a kind of object	nongold
+66	A celestial body is any identifiable object in space	nongold
+67	to be helpful means to help to do	nongold
+68	a tag is a kind of tool for monitoring an object's location	nongold
+69	indication is similar to a piece of information	nongold
+70	something's function can be used to describe; identify that something	nongold
+71	attracting something to a location causes that something  to be near that location	nongold
+72	an environment means an area	nongold
+73	a region is a kind of location	nongold
+74	identifying is similar to determining	nongold
+75	an organism is a living thing	nongold
+76	information is used to describe something	gold
+77	celestial objects are located in outer space	nongold
+78	to observe means to gather information	nongold
+79	human is a kind of organism	nongold
+80	distant means great in distance	nongold
+81	a surface is a part of an object	nongold
+82	seeing is used for sensing visual things	nongold
+83	a beach is a kind of location	nongold
+84	to see means to look	nongold
+85	detecting is similar to observing	nongold
+86	determining the type of an organism requires having information about that organism	nongold
+87	if something moves then that something is in a different location	nongold
+88	sonar equipment is a source of sound waves	nongold
+89	learning; studying information causes one to know that information	nongold
+90	identifying sometimes requires examining	nongold
+91	a tag is used for monitoring an object's location	nongold
+92	latitude is a property of a location; place on Earth	nongold
+93	objects are made of materials; substances; matter	nongold
+94	local means relating to a certain area	nongold
+95	getting information sometimes requires observing; observation	nongold
+96	classifying is when one sorts something by kind; type	nongold
+97	a vehicle transmits something	nongold
+98	objects in an environment are a part of that environment	nongold
+99	an part of an object is smaller than the entire object	nongold
+100	events occur at a specific place; at a specific time; with a specific frequency	nongold
+101	a vehicle is a kind of object	nongold

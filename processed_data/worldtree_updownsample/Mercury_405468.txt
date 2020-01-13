@@ -1,0 +1,61 @@
+0	low is the opposite of high	nongold
+1	exercise increases a body's strength	nongold
+2	decreasing something positive has a negative impact on a thing	gold
+3	creating is a kind of activity	nongold
+4	negative impact is the opposite of positive impact	nongold
+5	impact means effect	gold
+6	technology is used for application of science	nongold
+7	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+8	some types of new technology cause physical activity to decrease	gold
+9	exercise is a kind of physical activity	gold
+10	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+11	change is a kind of impact	nongold
+12	Which of these is a negative effect associated with some types of new technology?	question
+13	Which of these is a negative effect associated with some types of new technology?	question
+14	some types of new technology cause physical activity to decrease	gold
+15	decreased physical activity	answer
+16	impact means effect	gold
+17	physical fitness is an acquired characteristic	nongold
+18	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+19	to cause means to have an effect	nongold
+20	a process is a kind of event	nongold
+21	greater means higher; more in value	nongold
+22	exercise has a positive impact on a human's health	gold
+23	increase means more	nongold
+24	decreased physical activity	answer
+25	to improve means to have a positive impact	nongold
+26	exercise has a positive impact on a human's health	gold
+27	exercise is a kind of physical activity	gold
+28	decreasing something positive has a negative impact on a thing	gold
+29	too much is similar to increase	nongold
+30	the effects of something is a property of that something	nongold
+31	decreased physical activity	answer
+32	an increase is the opposite of a decrease	nongold
+33	to enhance means to increase	nongold
+34	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+35	decreasing something positive has a negative impact on a thing	gold
+36	Physical adaptation; structural adaptation is a physical  change in a population over successive generations that  helps individual organisms in that population to  survive; reproduce	nongold
+37	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+38	decreased physical activity	answer
+39	to be good for means to have a positive impact on	nongold
+40	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+41	exercise is a kind of physical activity	gold
+42	a decrease is a kind of change	nongold
+43	degrading is similar to having a negative impact	nongold
+44	some types of new technology cause physical activity to decrease	gold
+45	Which of these is a negative effect associated with some types of new technology?	question
+46	impact means effect	gold
+47	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+48	helping something has a  positive impact on that something	nongold
+49	new means different from the former one	nongold
+50	to impact means to affect	nongold
+51	affected means changed	nongold
+52	less means a reduced amount	nongold
+53	physical fitness is similar to athletic ability	nongold
+54	to be a source of something means to cause that something	nongold
+55	Which of these is a negative effect associated with some types of new technology?	question
+56	exercise has a positive impact on a human's health	gold
+57	drop means decrease	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	a source of something increases the amount of that something	nongold
+60	action means activity	nongold

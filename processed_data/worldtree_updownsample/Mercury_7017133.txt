@@ -1,0 +1,60 @@
+0	if an object is made of a material then that object has the properties of that material	nongold
+1	a fiberglass bumper	answer
+2	fiber is a kind of material	nongold
+3	a tire is a kind of object	nongold
+4	plastic is recyclable	nongold
+5	plastic is a kind of material made by humans	gold
+6	different materials usually have different properties	nongold
+7	if two objects are composed of similar materials then those objects may have come from the same source	nongold
+8	composite materials are made of two more more materials	gold
+9	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+10	a piece of something is a kind of object	nongold
+11	Which of these is a composite material?	question
+12	strength is a property of an object; a material	nongold
+13	to slow; to slow down decreases speed	nongold
+14	a source of something emits; produces; generates; provides that something	nongold
+15	form means kind	nongold
+16	fiberglass is made of glass and plastic	gold
+17	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+18	a car is a kind of object	nongold
+19	a bumper is a kind of object	gold
+20	Which of these is a composite material?	question
+21	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+22	an object; material; substance comes from that object or material's source	nongold
+23	to be formed by is similar to being produced by	nongold
+24	to cause means to make	nongold
+25	to create means to make	nongold
+26	a bumper is a kind of object	gold
+27	made of is similar to is built from	nongold
+28	Which of these is a composite material?	question
+29	materials are used for making products by manufacturers	nongold
+30	a toy car is a kind of object	nongold
+31	an engine is a part of an automobile	nongold
+32	products are formed; are produced; are created	nongold
+33	make means produce	nongold
+34	an automobile is a kind of vehicle	nongold
+35	objects are made of materials; substances; matter	gold
+36	a fiberglass bumper	answer
+37	composite materials are made of two more more materials	gold
+38	a living thing is a kind of object	nongold
+39	aluminum is recyclable	nongold
+40	fiberglass is made of glass and plastic	gold
+41	material means substance	nongold
+42	a car fender is sometimes made of metal	nongold
+43	composition means the (materials, substances) of which something is composed	nongold
+44	a fiberglass bumper	answer
+45	objects are made of materials; substances; matter	gold
+46	the automobile is a kind of technology	nongold
+47	a component of something means a part of that something	nongold
+48	made up of means contains; made of	nongold
+49	plastic is a kind of material made by humans	gold
+50	composite materials are made of two more more materials	gold
+51	a bumper car is a kind of car	nongold
+52	a fiberglass bumper	answer
+53	objects are made of materials; substances; matter	gold
+54	plastic is a kind of material made by humans	gold
+55	to make means to build	nongold
+56	fiberglass is made of glass and plastic	gold
+57	a bumper is a kind of object	gold
+58	a structure of something is synonymous with a part of that something	nongold
+59	Which of these is a composite material?	question

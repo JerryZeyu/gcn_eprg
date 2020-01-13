@@ -1,0 +1,71 @@
+0	using a gasoline engine requires burning  gasoline	gold
+1	an electric car uses less gasoline than a regular car	gold
+2	decreasing something negative has a positive impact on a thing	nongold
+3	consumption means use	nongold
+4	an animal is a kind of organism	gold
+5	to be used for something means to be required by that something	nongold
+6	person is synonymous with human	gold
+7	a car engine is a source of heat	nongold
+8	burning gasoline; oil is a source of air pollution	gold
+9	human is a kind of organism	nongold
+10	a vehicle is used for transportation	nongold
+11	using gasoline is a source of carbon dioxide	nongold
+12	an electric car contains an electric motor	gold
+13	an animal is a kind of organism	gold
+14	uses less gasoline	answer
+15	burning gasoline; oil is a source of air pollution	gold
+16	fuel is a kind of energy source	nongold
+17	a type is synonymous with a kind	nongold
+18	less is the opposite of more	nongold
+19	an electric motor converts electrical energy into mechanical energy	nongold
+20	person is synonymous with human	gold
+21	negative impact is the opposite of positive impact	gold
+22	to depend on; to rely on; to need means to require	nongold
+23	using less of a resource means conserving that resource	nongold
+24	A car has a small gasoline engine combined with a battery-powered electric motor. When the car stops at a red light, the gasoline engine stops running and the electric motor begins working. How does this type of car most likely benefit people?	question
+25	using a car causes pollution	nongold
+26	if something is required for a process then that something positively impacts that process	nongold
+27	less means a reduced amount	nongold
+28	an electric car contains an electric motor	gold
+29	a source of something increases the amount of that something	nongold
+30	negative impact is the opposite of positive impact	gold
+31	person is synonymous with human	gold
+32	decreasing something positive has a negative impact on a thing	nongold
+33	saving money has a positive impact on a person; a company	nongold
+34	uses less gasoline	answer
+35	a human is a kind of animal	gold
+36	something harmful can cause harm	nongold
+37	an electric car is a kind of invention	nongold
+38	a positive impact is  a benefit	gold
+39	the function of something is what that something  is used to do	nongold
+40	high-efficiency device uses less energy	nongold
+41	an automobile is a kind of vehicle	nongold
+42	to be good for means to have a positive impact on	nongold
+43	uses less gasoline	answer
+44	using a gasoline engine requires burning  gasoline	gold
+45	an animal is a kind of living thing	nongold
+46	an animal is a kind of organism	gold
+47	A car has a small gasoline engine combined with a battery-powered electric motor. When the car stops at a red light, the gasoline engine stops running and the electric motor begins working. How does this type of car most likely benefit people?	question
+48	if something is powered by something else then that something requires a source of that something else	nongold
+49	burning gasoline is a source of  heat energy	nongold
+50	burning gasoline; oil is a source of air pollution	gold
+51	an electric car uses less gasoline than a regular car	gold
+52	A car has a small gasoline engine combined with a battery-powered electric motor. When the car stops at a red light, the gasoline engine stops running and the electric motor begins working. How does this type of car most likely benefit people?	question
+53	a positive impact is  a benefit	gold
+54	a  battery  is a kind of electrical power source	nongold
+55	negative impact is the opposite of positive impact	gold
+56	using a gasoline engine requires burning  gasoline	gold
+57	a human is a kind of animal	gold
+58	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+59	A car has a small gasoline engine combined with a battery-powered electric motor. When the car stops at a red light, the gasoline engine stops running and the electric motor begins working. How does this type of car most likely benefit people?	question
+60	an electric car contains an electric motor	gold
+61	an electric motor is a kind of electrical device	nongold
+62	a human is a kind of animal	gold
+63	using less of a resource increases the availability of that resource	nongold
+64	an electric car uses less gasoline than a regular car	gold
+65	electricity is used as an energy source by electrical devices	nongold
+66	an engine is a part of an automobile	nongold
+67	counter means reduce; stop; resist	nongold
+68	uses less gasoline	answer
+69	a positive impact is  a benefit	gold
+70	a source of something emits; produces; generates; provides that something	nongold

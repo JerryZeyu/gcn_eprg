@@ -1,0 +1,102 @@
+0	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+1	to discard means to throw away	nongold
+2	increase means more	nongold
+3	a human is a kind of animal	nongold
+4	if an object is made of a material then that object has the properties of that material	nongold
+5	largest amount means most	nongold
+6	less is the opposite of more	nongold
+7	a source of something emits; produces; generates; provides that something	nongold
+8	less is similar to decrease	nongold
+9	to depend on; to rely on; to need means to require	nongold
+10	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+11	using raw materials increases waste	nongold
+12	Many people throw away almost five pounds of trash each day. How could everyone decrease the amount of trash thrown away daily?	question
+13	waste has a  negative impact on the environment	nongold
+14	daily means every day; once per day	nongold
+15	paper is a kind of material	nongold
+16	take away means decreasing	nongold
+17	a decrease is a kind of change	nongold
+18	destroying something causes harm to that something	nongold
+19	everyday means daily	nongold
+20	replacing is similar to recycling	nongold
+21	a weight is a kind of object	nongold
+22	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+23	a source of something increases the amount of that something	nongold
+24	to limit means to decrease	nongold
+25	helping something has a  positive impact on that something	nongold
+26	recyclable means a material can be recycled	nongold
+27	recycling means using over again	nongold
+28	human waste often causes harm to an environment	nongold
+29	a pound is a kind of unit for measuring mass	nongold
+30	materials are made of matter	nongold
+31	processes sometimes produce waste products	nongold
+32	recycling is similar to reusing	nongold
+33	recycling is a kind of method of disposal	nongold
+34	once per means every	nongold
+35	solution is similar to a positive impact	nongold
+36	monthly means once per month	nongold
+37	An example of recycling is using an object to make a new object	nongold
+38	reducing is a kind of change	nongold
+39	if something emits something else then that something increases the amount of that something else	nongold
+40	recycling has a  positive impact on the environment	nongold
+41	remove means decrease	nongold
+42	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+43	a process is a kind of event	nongold
+44	humans discarding waste in an environment causes harm to that environment	nongold
+45	recycling reduces; decreases the amount of waste sent to landfills	gold
+46	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+47	high is similar to increase	nongold
+48	a material is a kind of resource	nongold
+49	as the cause of something decreases , that something will decrease	nongold
+50	too much is similar to increase	nongold
+51	most means over 50% of something	nongold
+52	reusing is similar to using many times	nongold
+53	recycling is a kind of action	nongold
+54	if a human discards an object then that object will become waste	nongold
+55	to recycle means return	nongold
+56	damage has a negative impact on a thing	nongold
+57	humans move waste to a  landfill for disposal;storage	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	garbage means waste	nongold
+60	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+61	an increase is a kind of change	nongold
+62	a lot means large in amount; quantity	nongold
+63	decreasing something positive has a negative impact on a thing	nongold
+64	to lower means to decrease	nongold
+65	An example of avoiding waste is using an object; a material more than once	nongold
+66	requiring is similar to needing help	nongold
+67	deplete is similar to decrease	nongold
+68	a trashcan contains trash; garbage; waste	nongold
+69	greatest means largest; highest; most amount of something	nongold
+70	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+71	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+72	an object; material; substance comes from that object or material's source	nongold
+73	all living things eliminate waste	nongold
+74	destroying something decreases the amount of that something	nongold
+75	recycle materials	answer
+76	person is synonymous with human	nongold
+77	as the time a tool lasts increases , the number of tools discarded will decrease	nongold
+78	dust is a kind of material	nongold
+79	an increase is the opposite of a decrease	nongold
+80	waste must be removed	nongold
+81	change is a kind of impact	nongold
+82	recycling reduces the resources needed to make something	nongold
+83	if an amount of objects decreases then those objects are fewer in number	nongold
+84	dumping something in an environment means adding that something to that environment	nongold
+85	trash is synonymous with waste	gold
+86	a person is a kind of animal	nongold
+87	losing something decreases the amount of that something	nongold
+88	impact means effect	nongold
+89	decreasing something negative has a positive impact on a thing	nongold
+90	low is similar to decrease	nongold
+91	negative impact is the opposite of positive impact	nongold
+92	dead organisms are a kind of waste	nongold
+93	little is similar to decrease	nongold
+94	recycling means reusing	nongold
+95	metal is a kind of material	nongold
+96	a negative impact is a kind of consequence; risk	nongold
+97	to reduce means to decrease	nongold
+98	less means a reduced amount	nongold
+99	if there is a loss of something then that something decreases	nongold
+100	objects are made of materials; substances; matter	nongold
+101	accumulation means increase	nongold

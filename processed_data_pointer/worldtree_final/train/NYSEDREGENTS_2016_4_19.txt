@@ -1,0 +1,102 @@
+0	a surface is a part of an object	gold
+1	inclined means sloping	nongold
+2	an part of an object is smaller than the entire object	nongold
+3	the properties of something are used for describing that something	nongold
+4	a type is synonymous with a kind	nongold
+5	down is soft	nongold
+6	size is an extensive property	nongold
+7	hardness is an intensive property	nongold
+8	asphalt is a smooth surface	nongold
+9	length is a property of the shape of an object	nongold
+10	if an object is made of a material then that object has the properties of that material	nongold
+11	the composition of the soil causes the texture of the soil to be different	nongold
+12	composition is a property of an object; matter	nongold
+13	can be means able to be	nongold
+14	soft is a kind of touch sensation	nongold
+15	structure is a property of an object; a material; a substance	nongold
+16	landform means surface feature; physical feature; land feature	nongold
+17	a component means a part of	nongold
+18	an apple is smooth on the surface	nongold
+19	a can is a kind of object	nongold
+20	increase means more	nongold
+21	high is similar to increase	nongold
+22	a property of something is a feature of that something	nongold
+23	what an object is made of is a kind of characteristic	nongold
+24	low means down	nongold
+25	an object is made of its parts	nongold
+26	surface area is a property of shape	nongold
+27	particles in objects are a kind of matter	nongold
+28	a living thing is a kind of object	nongold
+29	variability of shape; variability of volume is a kind of physical property	nongold
+30	a structure of something is synonymous with a part of that something	nongold
+31	a wall is a kind of surface	nongold
+32	smooth is a kind of texture	gold
+33	appearance is a property of objects; materials	nongold
+34	sand has a rough surface	nongold
+35	aspect of something is similar to part of something	nongold
+36	flat means level	nongold
+37	felt is high in roughness	nongold
+38	concrete is usually a smooth surface	nongold
+39	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+40	different types of soil have different textures	nongold
+41	an object has properties	nongold
+42	shape of the parts of something is a property of that something	nongold
+43	a landform is a kind of object	nongold
+44	gritty is simiar to  rough	nongold
+45	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	nongold
+46	objects are made of materials; substances; matter	nongold
+47	a structure is a kind of feature	nongold
+48	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	gold
+49	texture	answer
+50	luster is a property of  an object; a material and includes ordered values of dull; shiny	nongold
+51	if someone walks on a surface then that someone touches that surface	nongold
+52	surfaces sometimes cause objects to break	nongold
+53	motion; movement means moving; to move	nongold
+54	rough is the opposite of smooth	nongold
+55	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+56	an animal is a kind of living thing	nongold
+57	if an object is made of something then the parts of that object are made of that something	nongold
+58	a covering is a kind of object	nongold
+59	a physical property is a kind of property	nongold
+60	the texture of an object can sometimes be told by looking at the object	nongold
+61	shape is a kind of physical property	nongold
+62	a property is similar to a factor	nongold
+63	a type of something is a kind of property of that something	nongold
+64	surface type is a kind of characteristic	nongold
+65	a component of something means a part of that something	nongold
+66	depth is a property of the shape of an object	nongold
+67	shape is a property of the appearance of an object	nongold
+68	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+69	as roughness of a surface increases , friction will increase	nongold
+70	material means substance	nongold
+71	if something exists on a surface then that surface contains that something	nongold
+72	the  property of something is the same for the things of same kind	nongold
+73	touch can be used for detecting texture	nongold
+74	a surface is a kind of object	nongold
+75	fur is usually soft in texture	nongold
+76	the effects of something is a property of that something	nongold
+77	texture means how an object feels	nongold
+78	rubbing  is a kind of motion	nongold
+79	wood has a smooth surface	nongold
+80	aspect is similar to property	nongold
+81	a rough surface is a part of sandpaper	nongold
+82	feature is synonymous with characteristic	nongold
+83	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+84	soft is a kind of hardness	nongold
+85	to be characterized by  a property means to have that property	nongold
+86	state of matter is a kind of physical property	nongold
+87	shape is a property of an object	nongold
+88	carpet has a rough surface	nongold
+89	Which property of an object can be described as smooth?	question
+90	a surface is a part of a material	nongold
+91	color is a kind of physical; visual property	nongold
+92	to scrape means to scratch	nongold
+93	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+94	form means kind	nongold
+95	color is a property of  an object; a material	nongold
+96	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	nongold
+97	characteristic means property	nongold
+98	texture is a kind of physical property	nongold
+99	what something needs is a property of that something	nongold
+100	composed of means made of	nongold
+101	thickness is  a measure of how thick an object  is	nongold

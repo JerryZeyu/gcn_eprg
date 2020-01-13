@@ -1,0 +1,61 @@
+0	converting is similar to producing	nongold
+1	if something transfers something else then that something is a source of something else	nongold
+2	to transform means to convert	nongold
+3	if something converts one kind of energy into other kinds of energy then that something originally stores that energy as the first kind of energy	nongold
+4	a doorbell converts electrical energy; electricity into sound energy	gold
+5	a doorbell is a kind of electric device	gold
+6	sound.	answer
+7	the function of something is what that something  is used to do	nongold
+8	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+9	where something  comes from is a source of that something	nongold
+10	to convert means to exchange	nongold
+11	ringing is a kind of function of a doorbell	gold
+12	emit means produce	nongold
+13	closing an electric circuit causes an electrical device to function	gold
+14	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+15	sound.	answer
+16	a human is a kind of animal	nongold
+17	to produce means to provide	nongold
+18	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+19	The primary function of a doorbell circuit is to convert electrical energy into	question
+20	a simple machine requires mechanical energy to function	nongold
+21	a generator converts kinetic energy into electrical energy; electricity	nongold
+22	to be a vehicle for is a kind of function	nongold
+23	a doorknob is a kind of object	nongold
+24	closing an electric circuit causes an electrical device to function	gold
+25	an event is a kind of action	nongold
+26	ringing is a kind of function of a doorbell	gold
+27	a doorbell converts electrical energy; electricity into sound energy	gold
+28	electric devices require electrical energy to function	nongold
+29	ringing is a kind of function of a doorbell	gold
+30	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+31	convert is similar to transfer	nongold
+32	a door is a kind of object	nongold
+33	if something comes from something else then that something else is a source of that something	nongold
+34	electrical energy is a kind of energy	nongold
+35	sound is a kind of energy	nongold
+36	sound.	answer
+37	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+38	electrical current means electrical energy	nongold
+39	instrument means device	nongold
+40	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+41	ringing is a kind of action	nongold
+42	a doorbell is a kind of electric device	gold
+43	to provide something means to be the source of that something	nongold
+44	closing an electric circuit causes an electrical device to function	gold
+45	The primary function of a doorbell circuit is to convert electrical energy into	question
+46	a doorbell is a kind of electric device	gold
+47	a doorbell converts electrical energy; electricity into sound energy	gold
+48	The primary function of a doorbell circuit is to convert electrical energy into	question
+49	sound.	answer
+50	a source of something emits; produces; generates; provides that something	nongold
+51	can be means able to be	nongold
+52	The primary function of a doorbell circuit is to convert electrical energy into	question
+53	converting is a kind of function	nongold
+54	if two things perform the same function then those two things are similar	nongold
+55	mechanical energy is a kind of energy	nongold
+56	a musical instrument is a kind of object	nongold
+57	electricity means electrical energy	nongold
+58	sound means sound energy	nongold
+59	flipping a switch completes an electrical circuit	nongold
+60	electrical devices convert from electrical energy; electricity into other forms of energy	gold

@@ -1,0 +1,102 @@
+Question	A glacier is a slow moving river of ice. How does a glacier help create soil?	question
+Answer	It scrapes small particles off large rocks.	answer
+0	soil is made of very small rocks; minerals	gold
+1	scraping an object may cause small particles to break off of that object	gold
+2	soil is made of solid particles	nongold
+3	helping means something can be done; completed more easily; better	nongold
+4	a particle is a kind of object	nongold
+5	helping something has a  positive impact on that something	nongold
+6	a glacier is a kind of body of water	nongold
+7	to help means to aid	nongold
+8	to be used  for something means to help to do that something	nongold
+9	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+10	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+11	a river is a kind of flowing body of water	nongold
+12	soil erosion is a kind of slow; natural process	nongold
+13	glaciers cause scratches in rocks	nongold
+14	helping means to assist in a change	nongold
+15	to scrape means to scratch	nongold
+16	a glacier is made of ice	nongold
+17	a molecule is a kind of particle	nongold
+18	a rock is a kind of object	gold
+19	creating means making	nongold
+20	soil is a kind of material	nongold
+21	a glacier is made of a large buildup of ice; snow	nongold
+22	a glacier moves slowly	nongold
+23	particles in objects are a kind of matter	nongold
+24	to help; to benefit means to be of use	nongold
+25	soil is formed by rocks eroding	nongold
+26	soil contains water; humus; weathered rocks; organic matter	nongold
+27	to create means to make	nongold
+28	soil is formed by weathering	gold
+29	requiring is similar to needing help	nongold
+30	matter; materials; substances are made of atoms; particles	nongold
+31	ice is a kind of object	nongold
+32	weathering; mechanical weathering means breaking down rocks; surface materials from a larger whole  into smaller pieces by weather	nongold
+33	ice is a kind of solid	nongold
+34	to be helpful means to help to do	nongold
+35	to increase is similar to to create	nongold
+36	to form means to create	gold
+37	soil is usually part of an environment	nongold
+38	to break down means to break into smaller pieces	nongold
+39	rock is a kind of material	nongold
+40	a rock is usually a solid	nongold
+41	to produce means to create	nongold
+42	using an object often requires creating that object	nongold
+43	soil erosion is a kind of event	nongold
+44	objects are made of materials; substances; matter	nongold
+45	materials are made of matter	nongold
+46	soil erosion means soil loss through wind;water; animals	nongold
+47	small is the opposite of large	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	snow is a kind of ice	nongold
+50	creating is similar to causing	nongold
+51	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+52	particles in a liquid are slower than particles in a gas	nongold
+53	soil is a part of the ground outside	nongold
+54	erosion is a kind of process	nongold
+55	particles in a solid are slower than particles in a liquid	nongold
+56	flowing is a kind of motion	nongold
+57	to make something easier means to help	nongold
+58	to cause means to make	nongold
+59	water is a kind of object	nongold
+60	water causes the most soil and rock erosion	nongold
+61	substances are made of matter	nongold
+62	if something causes a process then that something is required for that process	nongold
+63	to be used for something means to be required by that something	nongold
+64	soil and sediment deposited by a river are usually high; rich in nutrients	nongold
+65	products are formed; are produced; are created	nongold
+66	water is a kind of matter	nongold
+67	a glacier causes mechanical weathering	gold
+68	motion; movement means moving; to move	nongold
+69	to generate means to create	nongold
+70	erosion of soil has a  negative impact on the environment; soil quality	nongold
+71	weathering is a kind of process	nongold
+72	a tool is a kind of object	nongold
+73	particles in a liquid are close to each other	nongold
+74	particles in a liquid flows past each other	nongold
+75	atoms are made of particles	nongold
+76	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+77	to make means to form	nongold
+78	a process is a kind of event	nongold
+79	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+80	an increase is a kind of change	nongold
+81	to slow; to slow down decreases speed	nongold
+82	cutting means changing the object from a whole into smaller pieces	nongold
+83	a mountain glacier is a kind of glacier	nongold
+84	water is a kind of substance	nongold
+85	a motion is a kind of event; action	nongold
+86	if an object breaks off of another object then that object is formed from the same materials as that other object	nongold
+87	weathering is a kind of erosion	nongold
+88	snow is a kind of object	nongold
+89	sedimentary rocks are made of small particles	nongold
+90	a piece of something is a kind of object	nongold
+91	erosion sometimes decreases the amount of nutrients in soil	nongold
+92	an object is made of its parts	nongold
+93	liquid is a kind of state of matter	nongold
+94	denser liquids; particles in liquids; materials settle below liquids or particles in liquids; materials that are less dense	nongold
+95	heat means heat energy	nongold
+96	a landform is a kind of object	nongold
+97	sediment is similar to soil	nongold
+98	if something is a raw material in a process then that something is required for that process	nongold
+99	to make means to invent	nongold

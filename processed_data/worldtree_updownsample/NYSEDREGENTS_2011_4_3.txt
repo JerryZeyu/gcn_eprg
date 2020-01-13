@@ -1,0 +1,55 @@
+0	water is a kind of liquid at room temperature	nongold
+1	heat means temperature increases	nongold
+2	precipitation is when water falls from the sky	nongold
+3	temperature and sky conditions	answer
+4	wind direction is a property of weather	nongold
+5	something's function can be used to describe; identify that something	nongold
+6	measuring is used for describing an object	nongold
+7	high is similar to increase	nongold
+8	temperature and sky conditions	answer
+9	sky conditions are a property of weather	gold
+10	weather is a property of a environment	nongold
+11	sky conditions are a property of weather	gold
+12	the properties of something are used for describing that something	gold
+13	a source of something emits; produces; generates; provides that something	nongold
+14	a planet is a kind of location	nongold
+15	affected means changed	nongold
+16	gas is a kind of state of matter	nongold
+17	a weather report describes weather	nongold
+18	clear weather means sunny; not cloudy; not rainy weather	nongold
+19	temperature is a property of weather	gold
+20	both means two	nongold
+21	weather is a source of wind and water for the weathering process	nongold
+22	determining often requires measuring; observing	nongold
+23	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+24	answering questions requires information	nongold
+25	to a  human a air; environment temperature of 21 C to 28 C is considered warm	nongold
+26	furthest; farthest means greatest; most; highest in distance	nongold
+27	the properties of something are used for describing that something	gold
+28	water is a kind of matter	nongold
+29	the properties of something are used for describing that something	gold
+30	Which two observations are both used to describe weather?	question
+31	a decrease is a kind of change	nongold
+32	an increase is the opposite of a decrease	nongold
+33	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+34	warmer means greater; higher in temperature; warmth	nongold
+35	wind speed is a property of weather	nongold
+36	colder; cooler means lower in temperature	nongold
+37	a description sometimes provides information	nongold
+38	temperature and sky conditions	answer
+39	Which two observations are both used to describe weather?	question
+40	warm means warm temperature	nongold
+41	an increase is a kind of change	nongold
+42	sky conditions are a property of weather	gold
+43	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+44	Which two observations are both used to describe weather?	question
+45	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+46	temperature is a property of weather	gold
+47	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+48	temperature and sky conditions	answer
+49	getting information sometimes requires observing; observation	nongold
+50	recording an observation sometimes requires measuring	nongold
+51	temperature is a property of weather	gold
+52	measuring is a kind of observing	nongold
+53	objects are made of materials; substances; matter	nongold
+54	Which two observations are both used to describe weather?	question

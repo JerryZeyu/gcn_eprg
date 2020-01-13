@@ -1,0 +1,71 @@
+0	a human is a kind of animal	gold
+1	a dessert is a kind of food	gold
+2	poor health;bad health;unhealthy is the opposite of good health;healthy	gold
+3	eating candy instead of lunch	answer
+4	an object is an item	nongold
+5	eating something decreases the amount of that something	nongold
+6	a person is a kind of animal	nongold
+7	candy is a kind of dessert	gold
+8	being unhealthy has a negative impact on an organism	nongold
+9	a food contains nutrients for living things	nongold
+10	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+11	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+12	eating certain foods is a kind of habit	gold
+13	harming something has a  negative impact on; effect on that something	nongold
+14	a human is a kind of animal	gold
+15	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+16	an animal requires enough nutrients to maintain good health; survive	gold
+17	taking is the opposite of giving; leaving	nongold
+18	an part of an object is smaller than the entire object	nongold
+19	an animal is a kind of organism	nongold
+20	diet means what an animal eats	nongold
+21	An example of a poor health habit is	question
+22	bacteria can cause people to become ill	nongold
+23	a kind of something is an example of that something	gold
+24	a dessert is a kind of food	gold
+25	eating certain foods is a kind of habit	gold
+26	tasting bad is a kind of negative effect	nongold
+27	a producer is a kind of living thing	nongold
+28	a kind of something is an example of that something	gold
+29	candy is a kind of dessert	gold
+30	desserts usually have less  nutrients than other foods	gold
+31	desserts usually have less  nutrients than other foods	gold
+32	if a living thing requires something then that something has a positive impact on that living thing	nongold
+33	an animal requires enough nutrients to maintain good health; survive	gold
+34	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+35	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+36	a person with diabetes should be careful about eating or drinking something that is high in sugar	nongold
+37	a product is a kind of object	nongold
+38	An example of a poor health habit is	question
+39	if something has a positive impact on health then that something can help to maintain good health	nongold
+40	An example of a poor health habit is	question
+41	to be good for means to have a positive impact on	nongold
+42	to reduce means to decrease	nongold
+43	low is the opposite of high	nongold
+44	person is synonymous with human	nongold
+45	if an animal consumes more calories than needed for daily activities then that animal will gain weight	nongold
+46	candy is a kind of dessert	gold
+47	An example of a poor health habit is	question
+48	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+49	eating candy instead of lunch	answer
+50	to improve means to have a positive impact	nongold
+51	nutrients are a kind of substance	nongold
+52	dying is the opposite of living; surviving	nongold
+53	eating candy instead of lunch	answer
+54	a dessert is a kind of food	gold
+55	an animal needs to eat food for nutrients	gold
+56	helping something has a  positive impact on that something	nongold
+57	desserts usually have less  nutrients than other foods	gold
+58	to give is similar to to cause	nongold
+59	eating certain foods is a kind of habit	gold
+60	exercise has a positive impact on a human's health	nongold
+61	an animal is a kind of living thing	nongold
+62	being sick is a kind of problem; harm	nongold
+63	a kind of something is an example of that something	gold
+64	eating candy instead of lunch	answer
+65	an animal requires enough nutrients to maintain good health; survive	gold
+66	poor health;bad health;unhealthy is the opposite of good health;healthy	gold
+67	a human is a kind of animal	gold
+68	poor health;bad health;unhealthy is the opposite of good health;healthy	gold
+69	an animal needs to eat food for nutrients	gold
+70	an animal needs to eat food for nutrients	gold

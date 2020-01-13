@@ -1,0 +1,102 @@
+Question	Which type of energy does a person use to pedal a bicycle?	question
+Answer	mechanical	answer
+0	a human can pedal a bicycle	gold
+1	a person is a kind of animal	nongold
+2	person is synonymous with human	gold
+3	bike means bicycle	nongold
+4	a bicycle is a kind of vehicle	nongold
+5	mechanical energy is used to move something by animals	nongold
+6	a type is synonymous with a kind	gold
+7	mechanical energy is a kind of energy	gold
+8	pedals are part of a  bicycle for pedalling	nongold
+9	mechanical energy can  cause objects to move	nongold
+10	a bicycle is a kind of object	nongold
+11	pedalling a bicycle requires moving the pedals in a circular motion	gold
+12	An example of mechanical energy is an object in motion	nongold
+13	a type of something is a kind of property of that something	nongold
+14	a human is a kind of animal	nongold
+15	an animal requires energy to move	nongold
+16	a living thing is a kind of object	nongold
+17	a simple machine requires mechanical energy to function	gold
+18	a vehicle is a kind of tool for travel; transport	nongold
+19	a vehicle is a kind of object	nongold
+20	a motorcycle is a kind of automobile	nongold
+21	an animal is a kind of living thing	nongold
+22	mechanical energy exerted by an object can be used to push or pull another object	nongold
+23	humans ride vehicles	nongold
+24	a machine is a kind of  device	nongold
+25	an animal is a kind of organism	nongold
+26	riding something is a kind of movement	nongold
+27	a machine is a kind of object	nongold
+28	kinetic energy is a kind of mechanical energy	nongold
+29	pushing on the pedals of a bike cause that bike to move	nongold
+30	form means kind	nongold
+31	a tool is a kind of object	nongold
+32	device means tool	nongold
+33	a device requires energy to operate	nongold
+34	instrument means tool	nongold
+35	a device is a kind of object	nongold
+36	riding something is to move that thing over a surface	nongold
+37	a vehicle is used for transportation	nongold
+38	human is a kind of organism	nongold
+39	a car is a kind of vehicle	nongold
+40	a kind of something is an example of that something	nongold
+41	a bicycle is made of levers, wheels and axles, pulleys, and screws	nongold
+42	the function of something is what that something  is used to do	nongold
+43	riding is a kind of motion	nongold
+44	a car is a kind of object	nongold
+45	a simple machine is a kind of tool	nongold
+46	a user is a kind of person	nongold
+47	a rotation is a kind of movement	nongold
+48	rotation is a kind of motion	nongold
+49	motion is when moves an object; something to a direction	nongold
+50	riding in; driving in a vehicle means using that vehicle	nongold
+51	wheels; gears usually move against other surfaces	nongold
+52	vibration is a kind of motion	nongold
+53	to use means to utilize	nongold
+54	an automobile is a kind of vehicle	nongold
+55	to drive means to cause	nongold
+56	motion; movement means moving; to move	nongold
+57	wheels are a part of a car	nongold
+58	a wheel is a kind of object	nongold
+59	a motion is a kind of event; action	nongold
+60	to be a vehicle for is a kind of function	nongold
+61	sound is a kind of energy	nongold
+62	to be used for something means to be required by that something	gold
+63	instrument means device	nongold
+64	classifying is when one sorts something by kind; type	nongold
+65	objects are made of materials; substances; matter	nongold
+66	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+67	an electric motor converts electrical energy into mechanical energy	nongold
+68	a wheel and axle is a kind of simple machine	nongold
+69	to depend on; to rely on; to need means to require	nongold
+70	an instrument is a piece of equipment	nongold
+71	a bicycle is a kind of nonliving thing	nongold
+72	motion is a source of kinetic energy in an object	nongold
+73	a cycle is a kind of process	nongold
+74	moving; mobile is the opposite of stationary; unmoving	nongold
+75	mechanical energy of a system includes the sum of kinetic energy and potential energy  in the system	nongold
+76	a component of something means a part of that something	nongold
+77	answering questions requires information	nongold
+78	mechanical force is a kind of mechanical energy	nongold
+79	speed is a measure of how fast an object is moving	nongold
+80	if a wheel travels on a surface then the wheel touches that surface	nongold
+81	moving is similar to travelling	nongold
+82	sound is produced when mechanical energy is transformed into sound energy	nongold
+83	if an object is made of a material then that object has the properties of that material	nongold
+84	an animal is a kind of consumer	nongold
+85	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+86	material means substance	nongold
+87	can be means able to be	nongold
+88	a component means a part of	nongold
+89	a source of something emits; produces; generates; provides that something	nongold
+90	sound is a kind of sound energy	nongold
+91	a pedal is a kind of lever	gold
+92	resources sometimes are used for energy	nongold
+93	rolling is a kind of motion	nongold
+94	speed is a property of an object and includes values of slow; fast	nongold
+95	pulling is a kind of motion	nongold
+96	a car is a kind of automobile	nongold
+97	An example of an object with kinetic energy is an object in motion	nongold
+98	an part of an object is smaller than the entire object	nongold
+99	something is used for that something's purpose	nongold

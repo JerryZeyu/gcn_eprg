@@ -1,0 +1,71 @@
+0	battery-powered is similar to battery-operated	nongold
+1	a  battery  is a kind of electrical power source	nongold
+2	a watch;clock;stopwatch is used for measuring time	gold
+3	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+4	if something generates energy for something else then that something powers that something else	nongold
+5	emit means produce	nongold
+6	closing an electric circuit causes an electrical device to function	gold
+7	a battery-operated device is a kind of electrical device	gold
+8	when a switch in a simple series circuit is closed , electricity will flow through the circuit	gold
+9	an object; material; substance comes from that object or material's source	nongold
+10	When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?	question
+11	Closing an electric circuit has produced light.	answer
+12	the function of something is what that something  is used to do	gold
+13	a watch;clock;stopwatch is used for measuring time	gold
+14	something is used for that something's purpose	nongold
+15	a watch;clock;stopwatch is used for measuring time	gold
+16	device means tool	nongold
+17	flipping a switch completes an electrical circuit	nongold
+18	a motion is a kind of event; action	nongold
+19	light is a kind of wave	nongold
+20	closing an electric circuit causes an electrical device to function	gold
+21	a circuit is a kind of electrical component	nongold
+22	When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?	question
+23	electrical devices are used for industrial purposes; household purposes by humans	nongold
+24	producing is a kind of process	gold
+25	to illuminate means to light up	gold
+26	a digital clock produces light to display the time	gold
+27	a battery-operated device is a kind of electrical device	gold
+28	the function of something is what that something  is used to do	gold
+29	a flashlight converts electrical energy; electricity into light energy	nongold
+30	flipping; pushing a switch means using; activating that switch	nongold
+31	a button is similar to a switch	gold
+32	to illuminate means to light up	gold
+33	a digital clock produces light to display the time	gold
+34	a button is similar to a switch	gold
+35	a battery is a source of electrical energy; electricity	nongold
+36	to be formed by is similar to being produced by	nongold
+37	When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?	question
+38	a cycle happens; occurs repeatedly	nongold
+39	When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?	question
+40	if something causes an increase in something else then that something produces that something else	nongold
+41	to illuminate means to light up	gold
+42	when a switch in a simple series circuit is closed , electricity will flow through the circuit	gold
+43	producing is a kind of function	nongold
+44	causing is similar to generating	nongold
+45	producing is a kind of process	gold
+46	a battery-operated device is a kind of electrical device	gold
+47	producing is a kind of process	gold
+48	Closing an electric circuit has produced light.	answer
+49	a button is similar to a switch	gold
+50	when a switch in a simple series circuit is closed , electricity will flow through the circuit	gold
+51	closing an electric circuit causes an electrical device to function	gold
+52	a laser is used for producing light	nongold
+53	a producer is a kind of living thing	nongold
+54	an event is a kind of action	nongold
+55	a light bulb requires electrical energy to produce light	nongold
+56	a device is a kind of object	nongold
+57	a digital clock produces light to display the time	gold
+58	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+59	an electric motor is a kind of electrical device	nongold
+60	a machine is a kind of object	nongold
+61	sunlight is a kind of light	nongold
+62	a laser is a kind of device for producing light	nongold
+63	Closing an electric circuit has produced light.	answer
+64	generate means produce	nongold
+65	a part of a process means a stage in a process	nongold
+66	products are formed; are produced; are created	nongold
+67	a complete electrical circuit is a source of  electrical energy	nongold
+68	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+69	the function of something is what that something  is used to do	gold
+70	Closing an electric circuit has produced light.	answer

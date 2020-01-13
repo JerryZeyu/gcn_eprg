@@ -1,0 +1,102 @@
+Question	An example of a poor health habit is	question
+Answer	eating candy instead of lunch	answer
+0	poor health;bad health;unhealthy is the opposite of good health;healthy	gold
+1	eating certain foods is a kind of habit	gold
+2	lunch is a kind of meal	nongold
+3	a kind of something is an example of that something	gold
+4	having food has a positive impact on an organism's health	nongold
+5	candy is a kind of dessert	gold
+6	to eat means to consume food	nongold
+7	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+8	an animal requires enough nutrients to maintain good health; survive	gold
+9	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+10	diet means what an animal eats	nongold
+11	breakfast is a kind of food	nongold
+12	food is what an animal eats	nongold
+13	chocolate  is a kind of food	nongold
+14	a human is a kind of animal	gold
+15	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+16	food spoiling has a negative impact on the health of the animal that eats that food	nongold
+17	healthy means not having disease	nongold
+18	being sick is a kind of problem; harm	nongold
+19	food is a kind of object	nongold
+20	snacks often are made of more than one substances	nongold
+21	an animal is a kind of organism	nongold
+22	taking is the opposite of giving; leaving	nongold
+23	a food contains nutrients for living things	nongold
+24	sleeping all day has a  negative impact on a human's health	nongold
+25	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+26	desserts usually have less  nutrients than other foods	gold
+27	harming something has a  negative impact on; effect on that something	nongold
+28	to lack means to not have	nongold
+29	sugary foods; drinks are dangerous to a person with diabetes	nongold
+30	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+31	tasting bad is a kind of negative effect	nongold
+32	eating something decreases the amount of that something	nongold
+33	exercise has a positive impact on a human's health	nongold
+34	an animal is a kind of living thing	nongold
+35	an animal needs to eat food for nutrients	gold
+36	if something has a positive impact on health then that something can help to maintain good health	nongold
+37	low is similar to decrease	nongold
+38	illness has a negative impact on an organism's health	nongold
+39	being unhealthy has a negative impact on an organism	nongold
+40	an increase is the opposite of a decrease	nongold
+41	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+42	staying warm has a positive impact on an animal's survival; health	nongold
+43	requiring is similar to needing help	nongold
+44	negative impact is the opposite of positive impact	nongold
+45	the  diet of an animal is an inherited characteristic	nongold
+46	high is similar to increase	nongold
+47	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+48	a living thing is a kind of object	nongold
+49	food is a kind of substance	nongold
+50	a person is a kind of animal	nongold
+51	to be good for means to have a positive impact on	nongold
+52	human is a kind of organism	nongold
+53	person is synonymous with human	nongold
+54	helping something has a  positive impact on that something	nongold
+55	an object is an item	nongold
+56	low is the opposite of high	nongold
+57	to lower means to decrease	nongold
+58	less is similar to decrease	nongold
+59	trait is synonymous with characteristic	nongold
+60	nutrients are a kind of substance	nongold
+61	an animal; living thing requires nutrients for survival	nongold
+62	an part of an object is smaller than the entire object	nongold
+63	if a living thing requires something then that something has a positive impact on that living thing	nongold
+64	better means good	nongold
+65	dying is the opposite of living; surviving	nongold
+66	less is the opposite of more	nongold
+67	good means positive	nongold
+68	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+69	a product is a kind of object	nongold
+70	answering questions requires information	nongold
+71	a dessert is a kind of food	gold
+72	to slow; to slow down decreases speed	nongold
+73	when an animal eats or drinks something , that animal tastes that something	nongold
+74	better senses have a positive impact on an animal's survival; health; ability to reproduce	nongold
+75	lack of food causes starvation	nongold
+76	taking in something means receiving; absorbing; getting something	nongold
+77	a human requires sleep; rest to be healthy	nongold
+78	a person with diabetes should be careful about eating or drinking something that is high in sugar	nongold
+79	a plant; living thing requires food for survival	nongold
+80	food spoiling decreases the shelf life of that food	nongold
+81	rest has a  positive impact on a health	nongold
+82	inability is the opposite of ability	nongold
+83	can means having the ability to	nongold
+84	to give is similar to to cause	nongold
+85	if an animal consumes more calories than needed for daily activities then that animal will gain weight	nongold
+86	bacteria can cause people to become ill	nongold
+87	adverse effect means negative impact	nongold
+88	if a source of food is unhealthy then the organism consuming that food will be unhealthy	nongold
+89	as the cause of something decreases , that something will decrease	nongold
+90	to make something easier means to help	nongold
+91	to reduce means to decrease	nongold
+92	yogurt is a kind of food	nongold
+93	an animal is a kind of consumer	nongold
+94	nonliving; non-living; die is the opposite of living; alive; live	nongold
+95	a student is a kind of human	nongold
+96	receive means get	nongold
+97	to improve means to have a positive impact	nongold
+98	a producer is a kind of living thing	nongold
+99	lower means less	nongold

@@ -1,0 +1,102 @@
+Question	The orbit of Earth is almost circular and has a period of about 365 days. Compared to the orbit of Earth, which of these objects usually have highly elliptical orbits and can have periods of over 1000 years?	question
+Answer	comets	answer
+0	comet orbits are elliptical	gold
+1	a comet orbit occurs usually once per 1000.0 years	gold
+2	a comet is a kind of celestial object	nongold
+3	a comet is a kind of celestial body	nongold
+4	planetary orbits are mostly elliptical	nongold
+5	the moon's orbit is elliptical	nongold
+6	1 year is equal to 365 days	nongold
+7	to a human a time period of 1000 years or more years is considered very long	nongold
+8	moons; comets; planets are part of the solar system	nongold
+9	moons orbit planets	nongold
+10	years are a kind of unit for measuring time	nongold
+11	days are a kind of unit for measuring time	nongold
+12	Earth is a kind of planet	nongold
+13	a planet is a kind of celestial object; body	nongold
+14	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+15	revolving  around something means orbiting that something	nongold
+16	orbit means orbital path	nongold
+17	elliptical is a kind of shape	nongold
+18	elliptical is a kind of shape	nongold
+19	typically means usually	nongold
+20	an asteroid is a kind of celestial object	nongold
+21	circular means having the shape of a circle	nongold
+22	length of time means period of time	nongold
+23	a comet is made of ice, gases, and dust	nongold
+24	usually means most of the time	nongold
+25	astronomy is the study of celestial (objects, bodies)	nongold
+26	planets orbit stars	nongold
+27	can be means able to be	nongold
+28	a moon is a kind of celestial object; body	nongold
+29	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+30	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+31	high is similar to increase	nongold
+32	answering questions requires information	nongold
+33	a type is synonymous with a kind	nongold
+34	a planet completes one orbit around its star over a period of one planetary year	nongold
+35	month is a kind of period of time	nongold
+36	period is similar to amount of time	nongold
+37	the day time is part of one day	nongold
+38	orbiting is a kind of action	nongold
+39	approximately means about	nongold
+40	the moon orbits the Earth	nongold
+41	events occur at a specific place; at a specific time; with a specific frequency	nongold
+42	a living thing is a kind of object	nongold
+43	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+44	a unit for measuring time is a kind of time interval	nongold
+45	a measure of time is a length of time	nongold
+46	increase means more	nongold
+47	orbit is a kind of characteristic	nongold
+48	classifying is when one sorts something by kind; type	nongold
+49	an event is a kind of action	nongold
+50	months are a kind of unit for measuring time	nongold
+51	revolving is a kind of motion	nongold
+52	a light-year is used for describing long distances	nongold
+53	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+54	a star is a kind of celestial object; celestial body	nongold
+55	variable means able to change	nongold
+56	an increase is a kind of change	nongold
+57	setting is a kind of motion	nongold
+58	a process is a kind of event	nongold
+59	movements of celestial bodies are a kind of event	nongold
+60	Mars is a kind of planet	nongold
+61	an orbit is a kind of regular path	nongold
+62	an object is made of its parts	nongold
+63	an increase is the opposite of a decrease	nongold
+64	a component of something means a part of that something	nongold
+65	the moon orbiting the Earth occurs once per month	nongold
+66	a component means a part of	nongold
+67	a motion is a kind of event; action	nongold
+68	system means a set of objects	nongold
+69	long means great in length	nongold
+70	annual means once per year	nongold
+71	generally means usually	nongold
+72	a part of a process means a stage in a process	nongold
+73	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+74	a elliptical galaxy is a kind of galaxy	nongold
+75	centuries are a kind of unit for measuring time	nongold
+76	something that happens is a kind of event	nongold
+77	hours are a kind of unit for measuring time	nongold
+78	to be made of something means to be formed of that something	nongold
+79	astronomy is a kind of branch of science	nongold
+80	how long something takes is a kind of measurement of time	nongold
+81	Tuesday is a kind of  time	nongold
+82	astronomical body means celestial body	nongold
+83	Neptune is a kind of planet in the solar system	nongold
+84	once per means every	nongold
+85	once means one time	nongold
+86	the night time is part of one day	nongold
+87	both means two	nongold
+88	a cycle is a kind of process	nongold
+89	a change is a kind of event	nongold
+90	comets reflect the light of the sun	nongold
+91	composed of means made of	nongold
+92	celestial bodies; celestial objects are found in space	nongold
+93	the Sun is a kind of star	nongold
+94	Celestial bodies move in orbits in space around other celestial bodies	nongold
+95	objects are made of materials; substances; matter	nongold
+96	form means kind	nongold
+97	not is similar to the opposite of	nongold
+98	if something is made of something else then that something can be broken down into that something else	nongold
+99	1 day is equal to 24 hours	nongold

@@ -1,0 +1,55 @@
+0	instrument means tool	gold
+1	instrument means tool	gold
+2	property is similar to measurement	nongold
+3	an anemometer is used to measure wind speed	gold
+4	a thermometer is a kind of instrument for measuring temperature	nongold
+5	a velocity is a measure of a speed in a direction	nongold
+6	rising is a kind of motion	nongold
+7	length is a measure of distance from one end of an object to the other end of that object	nongold
+8	anemometer	answer
+9	furthest; farthest means greatest; most; highest in distance	nongold
+10	a speedometer is a part of an automobile	nongold
+11	wind chill is the temperature  felt on body due to wind speed	nongold
+12	a barometer is a kind of instrument for measuring air pressure	nongold
+13	an anemometer is used to measure wind speed	gold
+14	an anemometer is used to measure wind speed	gold
+15	determining often requires measuring; observing	nongold
+16	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+17	wind direction is a property of weather	nongold
+18	length is a part of size	nongold
+19	femtometers ( fm ) are an  SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+20	anemometer	answer
+21	a meter stick is a kind of tool for measuring length; measuring distance	nongold
+22	Which tool would a student use to measure wind speed?	question
+23	measuring requires reading a measurement	nongold
+24	an part of an object is smaller than the entire object	nongold
+25	wind is a renewable; inexhaustible resource	nongold
+26	an anemometer is a kind of instrument for measuring wind speed	gold
+27	fastest means greatest in  speed	nongold
+28	extreme means very high in value	nongold
+29	seconds are a kind of unit for measuring time	nongold
+30	a student is a kind of human	nongold
+31	a vehicle is a kind of object	nongold
+32	a hurricane has high wind speeds	nongold
+33	useful means able to be used	nongold
+34	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+35	Which tool would a student use to measure wind speed?	question
+36	a barometer is used to measure air pressure	nongold
+37	a motion is a kind of event; action	nongold
+38	wind speed is a property of weather	nongold
+39	Which tool would a student use to measure wind speed?	question
+40	a seismometer is used to measure the strength or magnitude of an earthquake	nongold
+41	air pressure affects wind speed	nongold
+42	anemometer	answer
+43	measuring is a kind of science skill	nongold
+44	to slow; to slow down decreases speed	nongold
+45	anemometer	answer
+46	windy is a kind of weather	nongold
+47	wind is a source of energy	nongold
+48	a thermometer is used to measure temperature	nongold
+49	speed is a measure of how fast an object is moving	nongold
+50	instrument means tool	gold
+51	speed is a property of an object and includes values of slow; fast	nongold
+52	an anemometer is a kind of instrument for measuring wind speed	gold
+53	an anemometer is a kind of instrument for measuring wind speed	gold
+54	Which tool would a student use to measure wind speed?	question

@@ -1,0 +1,102 @@
+0	At what time on a sunny day will the shadow of the school's flagpole be the shortest?	question
+1	noon	answer
+2	shortest means least; smallest in length	gold
+3	shorter means smaller; less in  height	nongold
+4	shortest means the least amount of time	nongold
+5	longest means greatest in length	nongold
+6	a flagpole is a kind of object	gold
+7	shorter means decreased length	nongold
+8	a sunny day has  lots of sunlight	gold
+9	long means great in length	nongold
+10	lowest means least in value; amount; number	gold
+11	noon is a kind of time of day	gold
+12	length is a part of size	gold
+13	greatest means largest; highest; most amount of something	nongold
+14	the sun is located directly overhead at noon	gold
+15	furthest; farthest means greatest; most; highest in distance	nongold
+16	highest means largest; greatest; most in height	nongold
+17	amount of daylight means length of daylight	nongold
+18	as a source of light moves directly overhead of an object , the size of the shadow of that object will decrease	gold
+19	shadow of an object can be seen by eyes	nongold
+20	largest means greatest in size	nongold
+21	sunshine means sunlight	nongold
+22	daylight means sunlight	nongold
+23	wider means greater in width	nongold
+24	sunny is a kind of weather	nongold
+25	length is a measure of distance from one end of an object to the other end of that object	nongold
+26	fewer means lower; less in number	nongold
+27	taller means greater in height; size	nongold
+28	to shorten means to make shorter	nongold
+29	a measure of time is a length of time	nongold
+30	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+31	sunlight is a kind of light	gold
+32	the sunlight occurs during the day	nongold
+33	smaller means less; lower in size	nongold
+34	dark means a low amount of light	nongold
+35	afternoon is a part of day time	nongold
+36	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+37	the occurance  of shadow requires the presence  of light	nongold
+38	clear weather means sunny; not cloudy; not rainy weather	nongold
+39	shade means low sunlight	nongold
+40	height is a measure of length from the top of an object to the bottom of an object	nongold
+41	fewest means lowest; least in number	nongold
+42	length of time means period of time	nongold
+43	the afternoon is  a part of the day	nongold
+44	the sun is a source of light; light energy called sunlight	nongold
+45	a meter is a kind of unit for measuring distance; measuring length	nongold
+46	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+47	least is the opposite of greatest	nongold
+48	the day time is part of one day	nongold
+49	daylight is when the sun shines on a location	nongold
+50	as the amount of daylight increases , sunset will occur later in the day	nongold
+51	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+52	sunlight means solar energy	nongold
+53	an object blocking light causes a shadow	nongold
+54	to lower means to decrease	gold
+55	daylight occurs during the day	nongold
+56	less is similar to decrease	nongold
+57	low is similar to decrease	nongold
+58	dark is the opposite of light	nongold
+59	a living thing is a kind of object	nongold
+60	when object is in direct light then that object is not shaded	nongold
+61	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+62	if an amount of objects decreases then those objects are fewer in number	nongold
+63	an increase is the opposite of a decrease	nongold
+64	sunlight is a kind of solar energy	nongold
+65	length is a property of the shape of an object	nongold
+66	days are a kind of unit for measuring time	nongold
+67	an animal is a kind of living thing	nongold
+68	the amount of daylight is greatest in the summer	nongold
+69	the Sun is a kind of star	nongold
+70	a human is a kind of animal	nongold
+71	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+72	sunrise occurs at the beginning of the day	nongold
+73	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+74	to reduce means to decrease	nongold
+75	the amount of daylight is least in the winter	nongold
+76	not visible means cannot be seen	nongold
+77	rainy is a kind of weather	nongold
+78	minutes are a kind of unit for measuring time	nongold
+79	Earth's angle of tilt causes the length of day and night to vary	nongold
+80	the sun is the source of solar energy called sunlight	gold
+81	a pulley is used to lift a flag on a flagpole	nongold
+82	night is low in light; in visibility	nongold
+83	when the Sun is located directly overhead , it is located at the highest point in the sky	nongold
+84	darkness occurs at night	nongold
+85	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+86	the sun is a kind of yellow dwarf	nongold
+87	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+88	the sun rising; setting occurs once per day	nongold
+89	a student is a kind of human	nongold
+90	if something is outside during the day then that something will receive sunlight	nongold
+91	visible means able to be seen	nongold
+92	all the time means at day and at night	nongold
+93	a decrease is a kind of change	nongold
+94	high is similar to increase	nongold
+95	hours are a kind of unit for measuring time	nongold
+96	how long something takes is a kind of measurement of time	nongold
+97	closer means lower; less; a decrease in distance	nongold
+98	solar energy is a kind of light	nongold
+99	as distance from an object decreases , that object will appear larger	nongold
+100	the number of parts of something is a property of that something	nongold
+101	the sun is a source of radiation; heat called sunlight	nongold

@@ -1,0 +1,102 @@
+0	Earth is made of rock	nongold
+1	Earth is a kind of planet	gold
+2	staying means not changing	nongold
+3	same means identical; equal in value; amount; number; quantity	nongold
+4	Earth is greater in mass than Mars	nongold
+5	Scientists launch a rocket into space for a mission. Once the rocket escapes the gravitational pull of Earth, how will the mass and weight of the rocket be affected?	question
+6	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+7	affected means changed	gold
+8	as the mass of an oject decreases , the force of gravity on that object will decrease	nongold
+9	gravity is a kind of force	nongold
+10	an astronaut is a kind of human	nongold
+11	as the heat  of an object increases , the mass of the object will stay the same	nongold
+12	harming something has a  negative impact on; effect on that something	nongold
+13	to remain means to not change	nongold
+14	the effects of something is a property of that something	nongold
+15	if the component of something changed , then the whole thing will change	nongold
+16	a factor impacts something	nongold
+17	the mass of a planet causes the pull of gravity on that planet	nongold
+18	as the force of gravity increases , the weight of objects will increase	nongold
+19	change is a kind of impact	nongold
+20	to change means to cause a change	nongold
+21	constant is similar to same	nongold
+22	different is the opposite of the same	nongold
+23	The mass will stay the same, but the weight will change.	answer
+24	another means different	nongold
+25	causing is a kind of affecting	nongold
+26	high is similar to increase	nongold
+27	an increase is a kind of change	nongold
+28	increase means more	nongold
+29	phase changes do not change mass	nongold
+30	as the force  of gravity changes , the weight of the object will change	nongold
+31	as the mass of an object increases ,  the weight of that object will increase	nongold
+32	having an impact on something means altering that something	nongold
+33	Weight is  the  force of gravity acting on an object	nongold
+34	mass is a measure of the amount of matter in an object	nongold
+35	as the mass of an object increases , the force of gravity on that object will increase	nongold
+36	a decrease is a kind of change	nongold
+37	stay the same means not changing	gold
+38	a weight is a kind of object	nongold
+39	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+40	a rocket is a kind of vehicle	nongold
+41	if something is copied then that something will be the same; similar; identical	nongold
+42	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+43	gravity causes orbits	nongold
+44	a pull is a kind of force	nongold
+45	as the pressure on an object increases , the mass of the object will stay the same	nongold
+46	weight is a kind of property	nongold
+47	if something has no impact on something else then that something else stays the same	nongold
+48	low is similar to decrease	nongold
+49	mass; weight is an extensive property	nongold
+50	variable means able to change	nongold
+51	satellites; spacecraft launched from Earth need to reach a specific speed to escape Earth's surface to overcome earth's gravitational force	nongold
+52	light means low  in weight	nongold
+53	as the class of a rock changes ,  the mass of the rock will stay the same	nongold
+54	if there is no gravitational pull , then the weight of an object will be equal to zero	nongold
+55	as the shape of an object changes , the mass of that object will stay the same	nongold
+56	the mass of an object causes the gravitational force exerted by that object	nongold
+57	the  property of something is the same for the things of same kind	nongold
+58	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+59	mass; weight are the same on Earth	nongold
+60	to lower means to decrease	nongold
+61	changed is the opposite of unchanged	nongold
+62	to change means to have an effect	nongold
+63	to be affected by something is similar to depending on something	nongold
+64	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	gold
+65	to remain means to stay where it is	nongold
+66	if something is not the same as something else then that something is different from that something else	nongold
+67	heavy means a large amount of weight	nongold
+68	mass is a property of objects; matter	nongold
+69	as the altitude increases , the gravity will decrease	nongold
+70	a change is a kind of event	nongold
+71	an increase is the opposite of a decrease	nongold
+72	weight is a property of objects; matter	nongold
+73	a planet is a kind of celestial object; body	nongold
+74	as the cause of something decreases , that something will decrease	nongold
+75	launching is a kind of motion	nongold
+76	to retain means to remain	nongold
+77	to change means to become different	nongold
+78	as state of matter changes , mass will not change	nongold
+79	as a substance dissolves in water , the mass of the substance will stay the same	nongold
+80	mass; weight is a property of matter; objects; materials	nongold
+81	gas is a kind of object	nongold
+82	identical is the opposite of different	nongold
+83	a scientist is a kind of human	nongold
+84	a source of something increases the amount of that something	nongold
+85	to cause means to have an effect	nongold
+86	gas is a kind of state of matter	nongold
+87	if something changes , then that something is not the same	nongold
+88	mass is similar to size	nongold
+89	weight means the force of gravity acting on an object	gold
+90	if something affects a part of something else then that something affects that something else	nongold
+91	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+92	as the mass of an object decreases , the weight of that object will decrease	nongold
+93	to impact means to affect	nongold
+94	impact means effect	nongold
+95	as the force  of gravity changes , the mass of the object will stay the same	nongold
+96	as the force  of gravity decreases , the weight of the object will decrease	nongold
+97	if something is made by something else then that something is affected by that something else	nongold
+98	to remain means to stay the same	nongold
+99	a rocket is a kind of object	gold
+100	weight is a measure of the force of the gravity on the mass of an object	nongold
+101	if an object escapes the gravitational pull of a planet then that object is no longer affected by the gravitational pull of that planet	gold

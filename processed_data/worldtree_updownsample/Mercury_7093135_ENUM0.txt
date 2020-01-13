@@ -1,0 +1,60 @@
+0	nuclear reactor can cause long-term waste disposal problems	gold
+1	generating power is a kind of positive impact	gold
+2	an event is a kind of action	nongold
+3	nuclear reactor	answer
+4	generating power is a kind of positive impact	gold
+5	nuclear reactor	answer
+6	dead organisms are a kind of waste	nongold
+7	metal is a kind of natural resource	nongold
+8	the function of something is what that something  is used to do	nongold
+9	causing problems is a kind of negative impact	gold
+10	nuclear reactor generates electrical power	gold
+11	nuclear reactor	answer
+12	electricity means electrical energy	nongold
+13	generating power is a kind of positive impact	gold
+14	if something generates energy for something else then that something powers that something else	nongold
+15	trade-off means balancing  the negative impact and the positive impact	gold
+16	Which technology used to generate electrical power involves a trade-off between economical electricity and long-term waste disposal problems?	question
+17	something that happens is a kind of event	nongold
+18	a process is a kind of event	nongold
+19	if an event is required for a process then that event must occur before that process can occur	nongold
+20	emit means produce	nongold
+21	nuclear reactor can cause long-term waste disposal problems	gold
+22	causing problems is a kind of negative impact	gold
+23	recycling is a kind of method of disposal	nongold
+24	causing problems is a kind of negative impact	gold
+25	where something  comes from is a source of that something	nongold
+26	nuclear reactor can cause long-term waste disposal problems	gold
+27	Which technology used to generate electrical power involves a trade-off between economical electricity and long-term waste disposal problems?	question
+28	metal is an  electrical; electrical energy conductor	nongold
+29	a change is a kind of event	nongold
+30	nuclear reactor generates electrical power	gold
+31	uranium is a kind of energy resource	nongold
+32	all living things eliminate waste	nongold
+33	nuclear fusion is a kind of process	nongold
+34	pollution is a kind of environmental problem	nongold
+35	waste has a  negative impact on the environment	nongold
+36	Which technology used to generate electrical power involves a trade-off between economical electricity and long-term waste disposal problems?	question
+37	a source of something increases the amount of that something	nongold
+38	to generate means to form	nongold
+39	nuclear reactor	answer
+40	an increase is a kind of change	nongold
+41	if something is a raw material then that something comes directly from a source	nongold
+42	recycling reduces; decreases the amount of waste sent to landfills	nongold
+43	nuclear reactor generates electrical power	gold
+44	if something emits something else then that something increases the amount of that something else	nongold
+45	trade-off means balancing  the negative impact and the positive impact	gold
+46	Which technology used to generate electrical power involves a trade-off between economical electricity and long-term waste disposal problems?	question
+47	using raw materials increases waste	nongold
+48	to cause an event is similar to being involved in that event	nongold
+49	resources sometimes are used for energy	nongold
+50	a nuclear reaction can be found in a nuclear power plant	nongold
+51	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+52	good means positive	nongold
+53	address a problem means reduce a problem	nongold
+54	if something releases something else then that something is the source of that something else	nongold
+55	humans move waste to a  landfill for disposal;storage	nongold
+56	a material is a kind of resource	nongold
+57	a fossil fuel is a kind of natural resource	nongold
+58	renewable is the opposite of nonrenewable	nongold
+59	trade-off means balancing  the negative impact and the positive impact	gold

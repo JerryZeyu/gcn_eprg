@@ -1,0 +1,102 @@
+Question	Which features can be found on the surface of both Earth and the Moon?	question
+Answer	mountains	answer
+0	a mountain is a kind of land feature	nongold
+1	the surface of the Earth contains mountains	gold
+2	a mountain; mountain range is a kind of environment	nongold
+3	a mountain range contains mountains	nongold
+4	the surface of the Moon contains mountains	gold
+5	mountain area means mountain range	nongold
+6	a mountain; hill is taller than the land around it	nongold
+7	a mountain is a kind of landform	gold
+8	a mountain is high in altitude	nongold
+9	a mountain is made of rocks; soil	nongold
+10	hills are a kind of small mountain	nongold
+11	landform means surface feature; physical feature; land feature	gold
+12	topography means the physical features of a planet's surface	nongold
+13	Earth is a kind of planet	nongold
+14	valley is located between mountains; hills	nongold
+15	a mountain top is a part of a mountain	nongold
+16	mountain top is a kind of location	nongold
+17	the ground means Earth's surface	nongold
+18	high mountains with well-rounded peaks can be formed by collision of crustal plates; erosion	nongold
+19	Earth's surface is made of rock	nongold
+20	the  moon's surface contains highlands	nongold
+21	mountains are formed by earthquakes; volcanoes; plate tectonics	nongold
+22	mountain is a kind of geographic obstacles	nongold
+23	a mountain is taller than a hill	nongold
+24	mountainside is a part of valley	nongold
+25	a property of something is a feature of that something	nongold
+26	many mountain ranges are no longer covered in water	nongold
+27	a structure is a kind of feature	nongold
+28	the lunar; moon's surface contains many craters	nongold
+29	the Appalachian Mountains are a kind of mountain	nongold
+30	celestial bodies; celestial objects are found in space	nongold
+31	a crater is a kind of land feature	nongold
+32	a terrain contains a surface	nongold
+33	a body of water is a kind of land feature	nongold
+34	a surface is a kind of object	nongold
+35	if something is a part of something then that something can be found in that something	nongold
+36	summit means the top of the mountain	nongold
+37	a surface is a part of an object	nongold
+38	the Alps are a kind of mountain range	nongold
+39	a hill is a kind of place	nongold
+40	a moon is a kind of celestial object; body	nongold
+41	a hill is more rounded than a mountain	nongold
+42	the Moon is Earth's moon	nongold
+43	a planet is a kind of celestial object; body	nongold
+44	the  moon's surface contains flat areas	nongold
+45	the ground is part of the Earth	nongold
+46	at the top of a place means at the highest point of the place	nongold
+47	place means space	nongold
+48	the moon orbits the Earth	nongold
+49	soil is found on the surface of the Earth	nongold
+50	the Sierra Nevada is a kind of mountain range	nongold
+51	the Earth's surface contains many craters	nongold
+52	usually craters on planets; craters on moons are formed by asteroids;meteoroids impacting that planet or moon's surface	nongold
+53	low means low in elevation; height; altitude	nongold
+54	feature is synonymous with characteristic	nongold
+55	Earth is made of rock	nongold
+56	a land feature is a kind of physical characteristic	nongold
+57	if something exists on a surface then that surface contains that something	nongold
+58	a desert is a kind of land feature	nongold
+59	motion is when moves an object; something to a direction	nongold
+60	the Appalachians means the Appalachian Mountains	nongold
+61	the Appalachians are a kind of mountain range	nongold
+62	rising is a kind of motion	nongold
+63	astronomy is the study of celestial (objects, bodies)	nongold
+64	bodies of water are located on Earth's surface	nongold
+65	place means area	nongold
+66	usually something can be found  near a source in greater concentrations	nongold
+67	rising means elevation	nongold
+68	mountains can limit the water vapor reaching a location	nongold
+69	an object is made of its parts	nongold
+70	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+71	organisms are located on Earth's surface	nongold
+72	a rock is a kind of object	nongold
+73	a land mass is a kind of object	nongold
+74	the Himalayas are a kind of mountain range	nongold
+75	a living thing is a kind of object	nongold
+76	a planet is a kind of place	nongold
+77	to be found in means to be contained in	gold
+78	a landform is a kind of place	nongold
+79	a landform is a kind of place	nongold
+80	far means great in distance	nongold
+81	highest means largest; greatest; most in height	nongold
+82	surface area is a property of shape	nongold
+83	high means great in altitude	nongold
+84	Earth has a rocky terrain in some places	nongold
+85	distance is a property of space and includes ordered values of close; far	nongold
+86	made up of means contains; made of	nongold
+87	place; location is synonymous with position	nongold
+88	landslides often occur on mountains	nongold
+89	if something is located in some place , then the presence of that something can be found in that location	nongold
+90	the ground is at the bottom of an area	nongold
+91	the crust of the Earth is similar to the surface of the Earth	nongold
+92	composed of means made of	nongold
+93	a cloud of dust and gas is a kind of feature	nongold
+94	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+95	the location of an object can be used to describe that object	nongold
+96	classifying means grouping objects; materials by their properties	nongold
+97	motion; movement means moving; to move	nongold
+98	elevation relative to sea level is a measure of  how high a place is relative to sea level	nongold
+99	a motion is a kind of event; action	nongold

@@ -1,0 +1,57 @@
+0	plants are a kind of resource	nongold
+1	renewable resources can be used over again	nongold
+2	Which of these can be mined from Earth and used as an energy source?	question
+3	Which of these can be mined from Earth and used as an energy source?	question
+4	a mineral is a kind of solid; natural material	nongold
+5	a coal mine is a source of coal under the ground	gold
+6	an element is a kind of material	nongold
+7	fossil fuels are a nonrenewable resource	nongold
+8	if something generates energy for something else then that something powers that something else	nongold
+9	natural gas is a kind of fossil fuel	nongold
+10	if something is a raw material then that something comes directly from a source	nongold
+11	a source of something emits; produces; generates; provides that something	gold
+12	material means substance	nongold
+13	a renewable resource is a kind of natural resource	nongold
+14	metal is a kind of material	nongold
+15	a fossil fuel is a kind of natural resource	nongold
+16	Coal	answer
+17	to be made of something means to be formed of that something	nongold
+18	to provide something means to be the source of that something	nongold
+19	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+20	metal is a kind of substance	nongold
+21	energy transformation means one kind of energy changes into another kind of energy	nongold
+22	an object; material; substance comes from that object or material's source	nongold
+23	a coal mine is a source of coal under the ground	gold
+24	electricity means electrical energy	gold
+25	copper is a kind of metal	nongold
+26	fossil fuels are a kind of energy resource	nongold
+27	if something is powered by something else then that something requires a source of that something else	nongold
+28	Coal	answer
+29	an inexhaustible resource is a kind of renewable resource	nongold
+30	all the other means the rest of	nongold
+31	metal is a kind of natural resource	nongold
+32	Which of these can be mined from Earth and used as an energy source?	question
+33	emit means produce	nongold
+34	a source of something emits; produces; generates; provides that something	gold
+35	a source of something emits; produces; generates; provides that something	gold
+36	if something releases something else then that something is the source of that something else	nongold
+37	minerals are a nonrenewable resource	nongold
+38	wood is a kind of energy resource	nongold
+39	if something is made of something; a material then that something contains that something; that material	nongold
+40	electricity means electrical energy	gold
+41	a coal mine is a source of coal under the ground	gold
+42	electricity means electrical energy	gold
+43	answering questions requires information	nongold
+44	Coal	answer
+45	resources sometimes are used for energy	nongold
+46	Which of these can be mined from Earth and used as an energy source?	question
+47	oil is a kind of fossil fuel	nongold
+48	to depend on; to rely on; to need means to require	nongold
+49	a renewable resource is a kind of naturally replaced resource	nongold
+50	electrical energy is a kind of energy	nongold
+51	coal is used to produce electricity by burning in coal-fire power stations	gold
+52	coal is used to produce electricity by burning in coal-fire power stations	gold
+53	Coal	answer
+54	a material is a kind of resource	nongold
+55	a fuel is used to make energy	nongold
+56	coal is used to produce electricity by burning in coal-fire power stations	gold

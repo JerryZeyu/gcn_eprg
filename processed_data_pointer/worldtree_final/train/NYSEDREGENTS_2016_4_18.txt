@@ -1,0 +1,102 @@
+0	to shorten means to make shorter	nongold
+1	objects are made of materials; substances; matter	nongold
+2	beaker is a kind of container	nongold
+3	angstrom ( Å ) is a metric unit used for measuring wavelength; interatomic distance; length; distance	nongold
+4	length is a measure of distance from one end of an object to the other end of that object	nongold
+5	shorter means decreased length	nongold
+6	a unit for measuring time is a kind of time interval	nongold
+7	a bar is a kind of object	nongold
+8	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+9	a ruler is a kind of tool for measuring length	nongold
+10	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+11	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+12	a human is a kind of animal	nongold
+13	a tool is a kind of object	nongold
+14	landform means surface feature; physical feature; land feature	nongold
+15	mass is a measure of the amount of matter in an object	nongold
+16	liters are a kind of unit for measuring volume of liquids	nongold
+17	a rod is a kind of object	nongold
+18	density is a measure of mass of an object over volume; divided by volume	nongold
+19	a  tape measure is used to measure length; distance	nongold
+20	diameter is a measure of length through the center of a circle	nongold
+21	a landform is a kind of object	nongold
+22	an animal is a kind of living thing	nongold
+23	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+24	length is a property of the shape of an object	nongold
+25	an object is an item	nongold
+26	a graduated cylinder is a kind of instrument for measuring volume of liquids or objects	nongold
+27	materials are made of matter	nongold
+28	temperature is a measure of heat energy	nongold
+29	a graduated cylinder is a kind of container	nongold
+30	an object is made of its parts	nongold
+31	a balance is used for measuring mass;weight of an object; of a substance	nongold
+32	cubic centimeter ( cm^3 ) is a metric unit used for measuring volume	nongold
+33	a piece of something is a kind of object	nongold
+34	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+35	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+36	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+37	mL means milliliters	nongold
+38	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+39	wider means greater in width	nongold
+40	height is a measure of length from the top of an object to the bottom of an object	nongold
+41	a beaker is used for measuring the volume of substances	nongold
+42	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+43	a measure of time is a length of time	nongold
+44	an ounce is a kind of unit for measuring mass	nongold
+45	the volume of an object can be used to describe  the size of that object	nongold
+46	answering questions requires information	nongold
+47	a ruler is used for measuring the length of an object	nongold
+48	heat means heat energy	nongold
+49	a meter stick is a kind of tool for measuring length; measuring distance	nongold
+50	rod is cylindrical in shape	nongold
+51	a centimeter is used for measuring short lengths; short distances	nongold
+52	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+53	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	gold
+54	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+55	longest means greatest in length	nongold
+56	shortest means least; smallest in length	nongold
+57	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+58	an increase is a kind of change	nongold
+59	instrument means tool	nongold
+60	shorter means smaller; less in  height	nongold
+61	seconds are a kind of unit for measuring time	nongold
+62	a measuring cup is a kind of tool for measuring the volume of substances	nongold
+63	miles are a kind of unit for measuring distance	nongold
+64	the skeleton of an animal can be used for inferring the height; the length of that animal	nongold
+65	a bottle is a kind of object	nongold
+66	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+67	a kilogram is a kind of unit for measuring mass	nongold
+68	femtometers ( fm ) are an  SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+69	milliliters is a kind of unit for measuring volume of liquids	nongold
+70	long means great in length	nongold
+71	a gram  is a kind of unit for measuring mass	nongold
+72	milliliter	answer
+73	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+74	a molecule is a kind of object	nongold
+75	classifying means grouping objects; materials by their properties	nongold
+76	a string is usually short in length with values between 2.0 and 1000 cm	nongold
+77	thin means small in width	nongold
+78	milliliters ( mL ) is a metric unit used for measuring volume generally used for values between 1.0 and 1000.0	nongold
+79	measuring is used for describing an object	gold
+80	a meter stick is used to measure distance; height; length	nongold
+81	Which metric unit is used to describe an object's length?	question
+82	a description sometimes provides information	nongold
+83	a tape measure is a kind of tool for measuring distance; measuring length	nongold
+84	a spoon is a kind of object	nongold
+85	length is a part of size	nongold
+86	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+87	an part of an object is smaller than the entire object	nongold
+88	the properties of something are used for describing that something	nongold
+89	nanometers ( nm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+90	mass; weight is a property of matter; objects; materials	nongold
+91	a graduated cylinder is used to measure volume of a liquid; of an object	nongold
+92	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+93	moisture means liquid; liquid water	nongold
+94	degrees celsius ( C ) is a metric unit used for measuring temperature generally used for values between -273.0 and 50000000.0	nongold
+95	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+96	a meter is a kind of unit for measuring distance; measuring length	nongold
+97	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+98	length of time means period of time	nongold
+99	unit is similar to part	nongold
+100	thickness is  a measure of how thick an object  is	nongold
+101	a living thing is a kind of object	nongold

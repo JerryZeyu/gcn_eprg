@@ -1,0 +1,100 @@
+0	an organism requires energy for growth; repair	nongold
+1	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+2	an animal; living thing requires nutrients for survival	nongold
+3	person is synonymous with human	nongold
+4	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+5	consumption means use	nongold
+6	needing something means depending on that something	nongold
+7	an animal requires nutrients to grow and heal	nongold
+8	a plants; living things require water for survival; to grow	nongold
+9	if a living thing requires something then that something has a positive impact on that living thing	nongold
+10	survive means live	nongold
+11	if food is not immediately used by the body for energy then that food will be stored for future use	gold
+12	living things all require energy for survival	nongold
+13	containing something is similar to providing that something	nongold
+14	contain is similar to store	nongold
+15	a supply of something is a source of that something	nongold
+16	food is a kind of chemical energy	nongold
+17	usually plants store the food they produce for future use	nongold
+18	living things can all reproduce	nongold
+19	resources sometimes are used for energy	nongold
+20	humans sometimes eat seeds	nongold
+21	an animal needs to eat food for nutrients	nongold
+22	to contain means to have inside	nongold
+23	a seed is used for storing food for a new plant	nongold
+24	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+25	to be used for something means to be required by that something	nongold
+26	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+27	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+28	a producer is a kind of living thing	nongold
+29	to eat means to consume food	nongold
+30	a producer produces its own food	nongold
+31	survive means live	nongold
+32	requiring something means needing that something	nongold
+33	a plant; living thing requires nutrients to grow	nongold
+34	a plant is a kind of living thing	nongold
+35	an animal requires enough nutrients to maintain good health; survive	nongold
+36	to provide something means to be the source of that something	nongold
+37	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+38	dying is the opposite of living; surviving	nongold
+39	a person is a kind of animal	nongold
+40	Humans need food to grow and survive. Food that is not used immediately by the body for energy is	question
+41	nutrients are a source of energy for living things	nongold
+42	a plant requires photosynthesis to grow; survive	nongold
+43	if something causes a process then that something is required for that process	nongold
+44	a plant is a kind of organism	nongold
+45	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+46	to contain something means to have that something	nongold
+47	In the food chain process a  green plant has the role of  producer	nongold
+48	life means living things	nongold
+49	photosynthesis stores; captures energy	nongold
+50	a living thing is a kind of object	nongold
+51	carbohydrates are a vehicle for storing;transporting energy	nongold
+52	green plants are a kind of producer	nongold
+53	nonliving; non-living; die is the opposite of living; alive; live	nongold
+54	stored for future use	answer
+55	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+56	a  plant requires sunlight to  grow	nongold
+57	growing is a kind of process	nongold
+58	if something requires something else then that something requires a source of that something else	nongold
+59	if something is required then that something must be provided	nongold
+60	an organism is a living thing	nongold
+61	organisms are a part of an environment	nongold
+62	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+63	if something converts one kind of energy into other kinds of energy then that something originally stores that energy as the first kind of energy	nongold
+64	living things eat their food source	nongold
+65	an animal is a kind of consumer	nongold
+66	the body is a part of an organism	nongold
+67	a plant requires soil for survival; to grow	nongold
+68	carbohydrates are used for storing;transporting energy	nongold
+69	food contains carbohydrates	nongold
+70	food is what an animal eats	nongold
+71	not is similar to the opposite of	nongold
+72	requiring is similar to needing help	nongold
+73	a food contains nutrients for living things	nongold
+74	all living things grow	nongold
+75	a plant; living thing requires food for survival	nongold
+76	survival means to survive	nongold
+77	what something needs is a property of that something	nongold
+78	resources becoming available has a positive impact on the things that need those resources	nongold
+79	a source of something emits; produces; generates; provides that something	nongold
+80	an animal is a kind of living thing	nongold
+81	keeping is similar to storing	nongold
+82	if something is required for a process then that something positively impacts that process	nongold
+83	to store means to hold	nongold
+84	an animal is a kind of organism	nongold
+85	food is a kind of substance	nongold
+86	being used for is similar to providing	nongold
+87	if a plant dies then that plant will not produce food	nongold
+88	a human is a kind of animal	nongold
+89	if something contains something , then something is able to provide something	nongold
+90	to use means to utilize	nongold
+91	living things require respiration to use energy	nongold
+92	a  plant requires sunlight for photosynthesis	nongold
+93	to depend on; to rely on; to need means to require	nongold
+94	An example of  preparing is storing something for use later	nongold
+95	human is a kind of organism	nongold
+96	developing means growing	nongold
+97	to help; to benefit means to be of use	nongold
+98	if something is made of something; a material then that something contains that something; that material	nongold
+99	food is a source of energy for animals; plants	nongold

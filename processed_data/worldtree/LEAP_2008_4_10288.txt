@@ -1,0 +1,102 @@
+Question	How does too much fishing in an area affect its ecosystem?	question
+Answer	Organisms that eat the fish could become endangered due to starvation.	answer
+0	fishing has a negative impact on ecosystems	gold
+1	if an organism dies then the population of that organism will decrease	nongold
+2	lack of food causes starvation	gold
+3	endangered means low in population	gold
+4	fishing is when a human kills; catches fish for food	gold
+5	too much is similar to increase	nongold
+6	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+7	an environment means an area	nongold
+8	killing means harming something causing death	gold
+9	a fish is a kind of aquatic animal	nongold
+10	a fish is a kind of animal	gold
+11	harming an organism can cause that organism to die	nongold
+12	due to means caused by	nongold
+13	to impact means to affect	nongold
+14	a fish is a kind of predator	nongold
+15	predators eat prey	gold
+16	threatening the existence of an organism has a negative impact on that organism	nongold
+17	an aquatic animal is a kind of animal	nongold
+18	become prey means get eaten	nongold
+19	impact means effect	gold
+20	protecting something means preventing harm to that something	nongold
+21	if an organism eats something then that something is a source of frood to that organism	nongold
+22	an animal; living thing requires nutrients for survival	gold
+23	negative impact is the opposite of positive impact	nongold
+24	harming something has a  negative impact on; effect on that something	nongold
+25	protecting nature has a positive impact on the environment	nongold
+26	death means to die	gold
+27	an ecosystem is a kind of habitat	nongold
+28	a predator eats other animals for food	nongold
+29	eating something decreases the amount of that something	nongold
+30	an animal needs to eat food for nutrients	gold
+31	an animal is a kind of living thing	nongold
+32	to prey on an animal means to eat that animal	nongold
+33	to eat means to consume food	nongold
+34	prey is a kind of food for predators	nongold
+35	an animal is a kind of organism	gold
+36	harming an animal species causes that animal's population to decrease	gold
+37	if a living thing dies then that living thing is dead	nongold
+38	food is what an animal eats	nongold
+39	a body of water is a kind of environment	nongold
+40	lack is similar to low; little	gold
+41	an environment is similar to an ecosystem	nongold
+42	survive means live	gold
+43	survive means live	nongold
+44	a region is similar to an environment	nongold
+45	survival means to survive	gold
+46	negative impacts on a species will decrease populations of a species	nongold
+47	aquatic animal means water animal	nongold
+48	if a source of food is unhealthy then the organism consuming that food will be unhealthy	nongold
+49	a predator usually kills its prey to eat it	nongold
+50	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+51	fish eat insects	nongold
+52	helping something has a  positive impact on that something	nongold
+53	adverse effect means negative impact	nongold
+54	dying is the opposite of living; surviving	nongold
+55	animals; living things require water for survival	nongold
+56	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+57	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+58	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+59	humans sometimes eat fish	nongold
+60	if something affects a part of something else then that something affects that something else	nongold
+61	an environment is a kind of place	nongold
+62	die out means become extinct	nongold
+63	an ecosystem contains a large community of; large numbers of living organisms	gold
+64	fish is a kind of meat	nongold
+65	organisms are a part of an environment	nongold
+66	decreasing something positive has a negative impact on a thing	nongold
+67	habitat is similar to environment	nongold
+68	to reduce means to decrease	nongold
+69	to change means to have an effect	nongold
+70	prey  is a kind of animal	nongold
+71	to cause means to have an effect	nongold
+72	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+73	an organism is a living thing	nongold
+74	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+75	an animal requires a habitat for survival	nongold
+76	affected means changed	nongold
+77	diet means what an animal eats	nongold
+78	a plant; living thing requires food for survival	nongold
+79	influence means effect	nongold
+80	causing is a kind of affecting	nongold
+81	a predator is a kind of animal	gold
+82	an animal requires enough nutrients to maintain good health; survive	nongold
+83	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+84	as  population of prey decreases , the population of predators will  decrease	gold
+85	if a living thing requires something then that something has a positive impact on that living thing	nongold
+86	eating an animal; a plant means killing that animal; that plant	nongold
+87	something harmful can cause harm	nongold
+88	too much water has a  negative impact on the growth of a plant	nongold
+89	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+90	decreasing something negative has a positive impact on a thing	nongold
+91	harming an animal species has a  negative impact on the population size of that species	nongold
+92	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+93	change is a kind of impact	nongold
+94	meat means dead animal for eating	nongold
+95	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+96	positively impacting an organism's survival increases the likelihood of survival of that organism	nongold
+97	to lower means to decrease	gold
+98	a fish lives in water	nongold
+99	eating prey requires catching prey	nongold

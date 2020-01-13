@@ -1,0 +1,101 @@
+0	an organism's environment affects that organism's acquired characteristics	nongold
+1	what an object is made of is a kind of characteristic	nongold
+2	an animal needs to eat food for nutrients	nongold
+3	a part of something means a characteristic of something	nongold
+4	to reproduce means to have; to produce offspring	nongold
+5	conditioned behavior is a kind of learned behavior	nongold
+6	to eat means to consume food	nongold
+7	species is an inherited characteristic	nongold
+8	a mammal is a kind of animal	nongold
+9	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+10	preferences are generally learned characteristics	gold
+11	favorite food	answer
+12	human is similar to individual	nongold
+13	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+14	a human is a kind of mammal	nongold
+15	trait means property	nongold
+16	children; young is synonymous with offspring	nongold
+17	senses are an inherited characteristic	nongold
+18	aspect of something is similar to part of something	nongold
+19	trait is synonymous with characteristic	gold
+20	a plant is a kind of living thing	nongold
+21	if an organism passes on its traits then future generations will have those traits	nongold
+22	if a trait is chosen , then the trait is desirable	nongold
+23	a kind of something is an example of that something	nongold
+24	food is what an animal eats	nongold
+25	the  diet of an animal is an inherited characteristic	nongold
+26	food is a kind of object	nongold
+27	animal instinct means instinctive behavior	nongold
+28	a learned characteristic is a kind of acquired characteristic	nongold
+29	characteristic means property	nongold
+30	animals taste flavors	nongold
+31	typically means usually	nongold
+32	eating certain foods is a kind of habit	nongold
+33	a father is a kind of male parent	nongold
+34	feature is synonymous with characteristic	nongold
+35	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+36	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+37	a producer is a kind of living thing	nongold
+38	an animal; living thing requires nutrients for survival	nongold
+39	a cat is a kind of mammal	nongold
+40	personality is an acquired characteristic	nongold
+41	an animal is a kind of living thing	nongold
+42	inherited characteristics can change over several generations	nongold
+43	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+44	sweet is a kind of flavor	nongold
+45	selective breeding is when an organism receives selective genetic traits from its parents by human design	nongold
+46	human is a kind of organism	nongold
+47	favorite means highest preference	gold
+48	affected means changed	nongold
+49	a plant; living thing requires food for survival	nongold
+50	the type of seed of a plant is an inherited characteristic	nongold
+51	phenotype of an organism means the visible traits of  an organism	nongold
+52	trait is a kind of genetic information	nongold
+53	animals learn some behaviors from watching their parents	nongold
+54	inherited characteristics are a kind of hereditary information	nongold
+55	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+56	the condition of parts of an organism are acquired characteristics	nongold
+57	traits can be determined by one pair; many pairs of genes in an organism	nongold
+58	meat is a kind of food	nongold
+59	the colors of parts of an organism are inherited characteristics	nongold
+60	following orders is a learned characteristic	nongold
+61	reproductive behavior is an inherited characteristic	nongold
+62	the number of body parts of an organism is an inherited characteristic	nongold
+63	a human is a kind of animal	nongold
+64	the color of; coloration of fur is an inherited characteristic	nongold
+65	a cat is a kind of animal	nongold
+66	a food contains nutrients for living things	nongold
+67	diet means what an animal eats	nongold
+68	causing is a kind of affecting	nongold
+69	a person is a kind of animal	nongold
+70	an inherited characteristic is a kind of characteristic	nongold
+71	a food preference is a kind of preference	gold
+72	an egg is a kind of food	nongold
+73	a vegetable is a kind of food	nongold
+74	a behavior is a kind of characteristic	nongold
+75	not is similar to the opposite of	nongold
+76	social behavior is a kind of learned behavior	nongold
+77	genes are able to determine the inherited characteristics of a living thing	nongold
+78	a type is synonymous with a kind	nongold
+79	adaptation is when an organism develops a trait over time for survival	nongold
+80	blood type is an inherited characteristic	nongold
+81	when an animal eats or drinks something , that animal tastes that something	nongold
+82	a plant is a kind of organism	nongold
+83	an adaptation is a kind of characteristic	nongold
+84	a dog is a kind of animal	nongold
+85	food is a kind of substance	nongold
+86	an organism is a living thing	nongold
+87	a vegetable is a kind of plant	nongold
+88	an animal is a kind of consumer	nongold
+89	an animal is a kind of organism	nongold
+90	a living thing is a kind of object	nongold
+91	Which of the following is not an inherited trait of humans?	question
+92	an object is an item	nongold
+93	form means kind	nongold
+94	organisms are a part of an environment	nongold
+95	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+96	a component means a part of	nongold
+97	intelligence is an acquired characteristic	nongold
+98	taste is a kind of property	nongold
+99	person is synonymous with human	nongold
+100	unique  is the opposite of diverse	nongold

@@ -1,0 +1,58 @@
+0	100°C	answer
+1	What is the highest temperature that water can reach in a pot on a stove?	question
+2	boiling point is the highest temperature a liquid can reach	gold
+3	pot;pan;frying pan is made of metal for cooking	nongold
+4	low means down	nongold
+5	heating elements are usually a part of an oven	nongold
+6	water is a kind of liquid at room temperature	gold
+7	heat energy  can be used to heat up  an object	nongold
+8	metal is a thermal; thermal energy conductor	nongold
+9	boiling point is the highest temperature a liquid can reach	gold
+10	heating means adding heat	nongold
+11	metal is a kind of material	nongold
+12	increase means more	nongold
+13	What is the highest temperature that water can reach in a pot on a stove?	question
+14	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+15	water is an thermal; thermal energy conductor	nongold
+16	higher means greater; above in value; amount; number	gold
+17	heat is a kind of energy	nongold
+18	the boiling point of water is 212F; 100C; 373K	gold
+19	material means substance	nongold
+20	solar energy is a kind of heat energy	nongold
+21	a pot is a kind of container	nongold
+22	a source of heat can be used to heat something	nongold
+23	a burner is made of metal	nongold
+24	higher means greater; above in value; amount; number	gold
+25	heat means temperature increases	nongold
+26	high is similar to increase	nongold
+27	a source of something emits; produces; generates; provides that something	nongold
+28	water is a kind of substance	nongold
+29	the boiling point of water is 212F; 100C; 373K	gold
+30	100°C	answer
+31	boiling point is the highest temperature a liquid can reach	gold
+32	higher means greater; above in value; amount; number	gold
+33	water is a kind of liquid at room temperature	gold
+34	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+35	100°C	answer
+36	the boiling point of water is 212F; 100C; 373K	gold
+37	a hot plate is a source of heat	nongold
+38	wood is a kind of object	nongold
+39	What is the highest temperature that water can reach in a pot on a stove?	question
+40	an oven is a source of heat	nongold
+41	furthest; farthest means greatest; most; highest in distance	nongold
+42	warmer means greater; higher in temperature; warmth	nongold
+43	What is the highest temperature that water can reach in a pot on a stove?	question
+44	water is a kind of object	nongold
+45	a thermal conductor is made of materials that conduct thermal energy	nongold
+46	cooking oil is a kind of oil	nongold
+47	if a value decreases then that value may become; may reach zero; 0	nongold
+48	100°C	answer
+49	low is the opposite of high	nongold
+50	the bottom is the lowest part of something	nongold
+51	heat means heat energy	nongold
+52	water is a kind of liquid at room temperature	gold
+53	food is a kind of substance	nongold
+54	a container is a kind of object	nongold
+55	if a container contains something then that container touches that something	nongold
+56	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+57	a surface is a part of a material	nongold

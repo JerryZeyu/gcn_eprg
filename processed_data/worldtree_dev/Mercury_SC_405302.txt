@@ -1,0 +1,102 @@
+Question	Which type of precipitation consists of frozen rain drops?	question
+Answer	sleet	answer
+0	sleet is a kind of precipitation	gold
+1	sleet is when raindrops freeze as they fall	nongold
+2	sleet is a kind of ice	nongold
+3	a type is synonymous with a kind	gold
+4	sleet is made of ice	gold
+5	form means kind	nongold
+6	rain is a kind of precipitation	nongold
+7	rain; snow falls	nongold
+8	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+9	to be made of means to consist of	gold
+10	hail is a kind of precipitation; ice	nongold
+11	precipitation is a kind of weather	nongold
+12	snow is a kind of precipitation	nongold
+13	to drop means to fall	nongold
+14	precipitation is when water falls from the sky	nongold
+15	rain is a kind of water	gold
+16	cycles of freezing and thawing water cause ice wedging	nongold
+17	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+18	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+19	frozen means solid	gold
+20	ice is a kind of solid	nongold
+21	rainstorm means rain storm	nongold
+22	ice is a kind of object	nongold
+23	water is a kind of liquid at room temperature	nongold
+24	precipitation is a property of weather	nongold
+25	water is a kind of substance	nongold
+26	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+27	icy means made of ice	nongold
+28	composed of means made of	nongold
+29	made up of means contains; made of	nongold
+30	freezing means cold temperatures	nongold
+31	drop means decrease	nongold
+32	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+33	temperature is a measure of heat energy	nongold
+34	a drop is a kind of liquid small amount	nongold
+35	a drop is a small amount of liquid	nongold
+36	counter means reduce; stop; resist	nongold
+37	snow is a kind of ice	nongold
+38	storm is a kind of weather; weather event	nongold
+39	objects are made of materials; substances; matter	nongold
+40	dropping something causes that something to fall	nongold
+41	a type of something is a kind of property of that something	nongold
+42	water is a kind of object	nongold
+43	a storm is a source of precipitation	nongold
+44	ice wedging is a kind of mechanical weathering	nongold
+45	substances are made of matter	nongold
+46	rainwater is a kind of water	nongold
+47	clouds are made of water vapor; rain droplets	nongold
+48	An example of stormy weather is rain	nongold
+49	water is a kind of matter	nongold
+50	liquid is a kind of state of matter	nongold
+51	solid is a kind of state of matter	nongold
+52	rainfall means precipitation	nongold
+53	a liquid is a kind of substance	nongold
+54	to reduce means to decrease	nongold
+55	a motion is a kind of event; action	nongold
+56	ice is cold in temperature	nongold
+57	motion; movement means moving; to move	nongold
+58	a solid is a kind of substance	nongold
+59	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+60	classifying is when one sorts something by kind; type	nongold
+61	ice is colder than water in temperature	nongold
+62	storms;rain cause bodies of water to increase amount of water they contain	nongold
+63	motion is when moves an object; something to a direction	nongold
+64	cold is a kind of weather	nongold
+65	an object is made of its parts	nongold
+66	a surface is a part of an object	nongold
+67	a glacier is a kind of body of water	nongold
+68	snowfall means the amount of precipitation in snow form	nongold
+69	a surface is a kind of object	nongold
+70	an area receiving rain means rain falling in that area	nongold
+71	rainfall means the amount of precipitation	nongold
+72	a process is a kind of event	nongold
+73	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+74	made of is similar to contains	nongold
+75	to lower means to decrease	nongold
+76	temperature is a property of weather	nongold
+77	materials are made of matter	nongold
+78	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+79	a stream is a kind of body of water	nongold
+80	snowstorm is a kind of weather	nongold
+81	separate is similar to break down	nongold
+82	snow is a kind of object	nongold
+83	freezing causes a solid to form	nongold
+84	can be means able to be	nongold
+85	a body of water is a kind of environment	nongold
+86	an event is a kind of action	nongold
+87	shaking is a kind of motion	nongold
+88	water expanding when it freezes is a physical property of water	nongold
+89	a component means a part of	nongold
+90	surface type is a kind of characteristic	nongold
+91	material means substance	nongold
+92	a thunderstorm is a kind of storm	nongold
+93	a surface is a part of a material	nongold
+94	a blizzard is a kind of storm	nongold
+95	formation of a state of matter is a kind of process	nongold
+96	a body of water contains water	nongold
+97	rainfall is the amount of rain an area receives	nongold
+98	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+99	deflection is when something changes its moving direction	nongold

@@ -1,0 +1,102 @@
+Question	The primary function of a doorbell circuit is to convert electrical energy into	question
+Answer	sound.	answer
+0	a doorbell converts electrical energy; electricity into sound energy	gold
+1	ringing is a kind of function of a doorbell	nongold
+2	a doorbell is a kind of bell	nongold
+3	a doorbell is a kind of electric device	gold
+4	converting is a kind of function	gold
+5	the function of something is what that something  is used to do	nongold
+6	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+7	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+8	a door is a kind of object	nongold
+9	a circuit is a kind of electrical component	nongold
+10	to be a vehicle for is a kind of function	nongold
+11	sound means sound energy	nongold
+12	sound is a kind of sound energy	nongold
+13	electric devices require electrical energy to function	nongold
+14	if something performs a task then that task is that something's function	nongold
+15	electrical energy is a kind of energy	nongold
+16	a complete electrical circuit is a source of  electrical energy	nongold
+17	sound is a kind of energy	nongold
+18	causing is a kind of function	nongold
+19	vibrations are a source of sound	nongold
+20	electricity means electrical energy	nongold
+21	producing is a kind of function	nongold
+22	function is similar to purpose	nongold
+23	sound is produced when mechanical energy is transformed into sound energy	nongold
+24	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	gold
+25	closing an electric circuit causes an electrical device to function	nongold
+26	electrical signals are made of electrical energy	nongold
+27	role means function	nongold
+28	providing is a kind of function	nongold
+29	converting is similar to producing	nongold
+30	a bell ringing is a source of sound	nongold
+31	to be used for something means to be required by that something	nongold
+32	to turn means to convert	nongold
+33	to work means to function	nongold
+34	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+35	a source of something emits; produces; generates; provides that something	nongold
+36	electricity is used as an energy source by electrical devices	nongold
+37	conversion is a kind of process	nongold
+38	to produce means to provide	nongold
+39	electrical devices are used for industrial purposes; household purposes by humans	nongold
+40	a function is an activity	nongold
+41	matter; molecules vibrating can cause sound	nongold
+42	to convert means to change	nongold
+43	convert is similar to transfer	nongold
+44	a mechanism is a kind of system that performs a function	nongold
+45	something is used for that something's purpose	nongold
+46	to provide something means to be the source of that something	nongold
+47	forming is similar to converting	nongold
+48	can be means able to be	nongold
+49	the encoders in the telephone convert sound energy into electrical energy	nongold
+50	transporting is a kind of function	nongold
+51	a device is a kind of object	nongold
+52	ringing is a kind of action	nongold
+53	a doorknob is a kind of object	nongold
+54	conducting is a kind of function	nongold
+55	household appliances are a kind of electrical device	nongold
+56	sound is a kind of air vibration	nongold
+57	a function is a kind of characteristic	nongold
+58	form means kind	nongold
+59	answering questions requires information	nongold
+60	to give off means to be the source of	nongold
+61	to serve as means to be used as	nongold
+62	noise means sound	nongold
+63	intense sound energy can move objects	nongold
+64	vibration is a kind of motion	nongold
+65	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+66	converting is similar to generating	nongold
+67	vibrating matter can produce sound	nongold
+68	mechanical energy is a kind of energy	nongold
+69	human voice is a kind of sound	nongold
+70	a human is a kind of animal	nongold
+71	regulating is a kind of function	nongold
+72	air is a vehicle for sound	nongold
+73	emit means produce	nongold
+74	to transform means to convert	nongold
+75	a hum is a kind of sound	nongold
+76	energy transformation means one kind of energy changes into another kind of energy	nongold
+77	energy conversion is similar to energy transformation	nongold
+78	to conduct is similar to to transfer	nongold
+79	sound can be used for communication by animals	nongold
+80	converting is similar to turning into	nongold
+81	wave motion is transferred from the source to matter to produce sound	nongold
+82	to be formed by is similar to being produced by	nongold
+83	electrical impulses are a kind of electrical energy	nongold
+84	flipping a switch completes an electrical circuit	nongold
+85	when two objects are touched; are contacted; move against each other , sound is produced	nongold
+86	loud means high in sound energy;sound intensity	nongold
+87	a component means a part of	nongold
+88	sound energy is transferred by vibrational waves	nongold
+89	metal is an  electrical; electrical energy conductor	nongold
+90	make means produce	nongold
+91	composed of means made of	nongold
+92	material means substance	nongold
+93	electromagnetic energy is a kind of energy	nongold
+94	hearing is used for sensing sound by animals	nongold
+95	a musical instrument is a kind of object	nongold
+96	absorbing is a kind of function	nongold
+97	if something causes a process then that something is required for that process	nongold
+98	a machine is a kind of  device	nongold
+99	providing structure is a kind of function	nongold

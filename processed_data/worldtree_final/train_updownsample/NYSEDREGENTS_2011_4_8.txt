@@ -1,0 +1,63 @@
+0	the senses are used for making observations	gold
+1	surface area is a property of shape	nongold
+2	a piece of something is a kind of object	nongold
+3	a part of a living thing is a natural structure	nongold
+4	shape is a property of an object	nongold
+5	to touch means to contact	nongold
+6	a human is a kind of animal	nongold
+7	feeling is when an living thing senses through touch	gold
+8	an object is an item	nongold
+9	structure is a property of an object; a material; a substance	nongold
+10	feeling is when an living thing senses through touch	gold
+11	touching something means feeling that something	gold
+12	the senses are used for making observations	gold
+13	if an animal's skin looks like something then that animal looks like that something	nongold
+14	feeling is when an living thing senses through touch	gold
+15	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+16	touch	answer
+17	Which sense is used to determine an object's texture?	question
+18	a wall is a kind of surface	nongold
+19	can be means able to be	nongold
+20	an object is made of its parts	nongold
+21	a structure of something is synonymous with a part of that something	nongold
+22	determining is similar to learning	nongold
+23	determining the type of an organism requires having information about that organism	nongold
+24	a sharp sense is an enhanced sense	nongold
+25	sharpness is a property of shape	nongold
+26	texture means how an object feels	gold
+27	Which sense is used to determine an object's texture?	question
+28	touch is a kind of sense	gold
+29	touching something means feeling that something	gold
+30	touch	answer
+31	eyes can sense;detect light energy for seeing	nongold
+32	measuring is used for describing an object	nongold
+33	touch is a kind of sense	gold
+34	Which sense is used to determine an object's texture?	question
+35	image means visual depiction of an object	nongold
+36	determining often requires measuring; observing	gold
+37	an animal is a kind of living thing	nongold
+38	texture means how an object feels	gold
+39	to look like means to have the visual properties of	nongold
+40	a kind of something is an example of that something	nongold
+41	the shape  of an object can be discovered through feeling that object; touching that object	nongold
+42	touching something means feeling that something	gold
+43	determining often requires measuring; observing	gold
+44	luster is a property of  an object; a material and includes ordered values of dull; shiny	nongold
+45	touch	answer
+46	a speck is a kind of solid object	nongold
+47	the senses are used for making observations	gold
+48	touch is a kind of sense	gold
+49	what an object is made of is a kind of characteristic	nongold
+50	surface type is a kind of characteristic	nongold
+51	touch	answer
+52	color is a kind of physical; visual property	nongold
+53	Which sense is used to determine an object's texture?	question
+54	composition is a property of an object; matter	nongold
+55	to rub; to rub together means to move against	nongold
+56	human skin is a kind of object	nongold
+57	determining often requires measuring; observing	gold
+58	felt is high in roughness	nongold
+59	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+60	smell is a kind of sense	nongold
+61	texture means how an object feels	gold
+62	color is a property of  an object; a material	nongold

@@ -1,0 +1,102 @@
+Question	A student places a sheet of black construction paper on her desk. What happens to most of the light that strikes the black construction paper?	question
+Answer	The light is absorbed by the paper.	answer
+0	a sheet of paper is a kind of object	nongold
+1	a paper is a kind of object	gold
+2	black objects absorbs the most sunlight	nongold
+3	if an object is black then that object absorbs all visible light; heat	gold
+4	paper is a kind of material	nongold
+5	paper burns	nongold
+6	most means over 50% of something	nongold
+7	a sheet of is similar to a piece of	nongold
+8	objects of other colors absorbs less amount of sunlight than black objects	nongold
+9	reflecting light; sound is the opposite of absorbing light; sound	nongold
+10	black is a kind of color	nongold
+11	a student is a kind of human	nongold
+12	construction means building	nongold
+13	when sunlight strikes something , that something receives sunlight	nongold
+14	light means light energy	nongold
+15	absorbing energy causes objects; materials; substances to heat	nongold
+16	sunlight is a kind of light	nongold
+17	to receive sunlight means to absorb sunlight	nongold
+18	to absorb means to capture	nongold
+19	objects are made of materials; substances; matter	nongold
+20	if something transfers energy to something else then that something else absorbs that energy	nongold
+21	to hit means to strike	nongold
+22	absorbing something harmful has a negative impact on a thing	nongold
+23	materials are made of matter	nongold
+24	color is a property of  an object; a material	nongold
+25	black is dark in color	nongold
+26	white objects absorbs the least sunlight	nongold
+27	usually means most of the time	nongold
+28	fire gives off light; heat; smoke	nongold
+29	fire transfers heat through waves	nongold
+30	light is a kind of wave	nongold
+31	a white object reflects all visible light	nongold
+32	a desk is a kind of table	nongold
+33	bright means a lot of light	nongold
+34	darker objects absorb more light than light colored objects	nongold
+35	paper is recyclable	nongold
+36	white light is made of all colors of visible light combined	nongold
+37	UV light is a kind of light	nongold
+38	shiny things; objects reflect light	nongold
+39	a desk is usually short in height; in width	nongold
+40	absorption is a kind of event	nongold
+41	to illuminate means to light up	nongold
+42	if an object is made of a material then that object has the properties of that material	nongold
+43	to reflect light means to scatter light	nongold
+44	absorbing sunlight causes objects to heat	nongold
+45	substances are made of matter	nongold
+46	striking is a kind of movement	nongold
+47	light pollution is made of light	nongold
+48	receiving sunlight  is synonymous with absorbing sunlight	nongold
+49	a source of something emits; produces; generates; provides that something	nongold
+50	light is a kind of energy	nongold
+51	light is a kind of energy	nongold
+52	to give off means to be the source of	nongold
+53	fire causes burning	nongold
+54	paper is flexible	nongold
+55	a living thing is a kind of object	nongold
+56	if something transfers something else then that something is a source of something else	nongold
+57	absorbance is when a wave absorbs at; stops at a surface	nongold
+58	if the energy is  reflected before being absorbed , then the energy will be lost	nongold
+59	conductivity is a property of a material; substance	nongold
+60	using a raw material sometimes requires absorbing that raw material	nongold
+61	radiation is when heat is transferred through waves; particles	nongold
+62	visible light is a kind of  light	nongold
+63	a desk usually has a length with values between 50.0 and 250 cm	nongold
+64	color is a kind of physical; visual property	nongold
+65	matter; materials; substances are made of atoms; particles	nongold
+66	if something strikes an object then that something may bounce off of that object	nongold
+67	hitting something causes harm to that something	nongold
+68	light rays means light	nongold
+69	if an object is blue , then that object absorbs all the lights except blue light	nongold
+70	a tool is a kind of object	nongold
+71	bright means bright; light in color	nongold
+72	to shine means to emit light	nongold
+73	to combust means to catch fire	nongold
+74	to add means to increase	nongold
+75	a sheet of copper is a kind of object	nongold
+76	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+77	greatest means largest; highest; most amount of something	nongold
+78	something that happens is a kind of event	nongold
+79	a classroom is a kind of a room	nongold
+80	material means substance	nongold
+81	form means kind	nongold
+82	if an object reflects a light of a certain color then the object appears to be that color	nongold
+83	mostly means being the most	nongold
+84	to emit means to release	nongold
+85	if an object is translucent , then some light will scatter	nongold
+86	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	gold
+87	a surface is a part of a material	nongold
+88	heat means heat energy	nongold
+89	metal is a kind of material	nongold
+90	light is made of photons	nongold
+91	an object is made of its parts	nongold
+92	heat is a kind of energy	nongold
+93	a human is a kind of animal	nongold
+94	absorption is a kind of process	nongold
+95	when light hits a reflective object , that light bounces off that object	nongold
+96	matter is made of molecules	nongold
+97	exploding fireworks is a kind of explosion	nongold
+98	dim means a small amount of light	nongold
+99	intensity of sunlight is similar to amount of sunlight	nongold

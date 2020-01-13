@@ -1,0 +1,102 @@
+Question	Homes that are built to be environmentally friendly because they use energy more efficiently than other homes are called "green" homes. "Green" homes often have reflective roofs and walls made of recycled materials. The windows in these energy-saving homes are double-paned, meaning each window has two pieces of glass. Double-paned windows have a layer of air between the window panes. This layer is a barrier against extreme temperatures and saves energy. A solar panel on a "green" home uses	question
+Answer	a renewable energy source	answer
+0	a solar panel converts sunlight; solar energy into electrical energy; electricity	gold
+1	a home is a kind of building	nongold
+2	sunlight is a kind of solar energy	gold
+3	sunlight means solar energy	nongold
+4	a solar panel is made of solar cells	nongold
+5	a house is a kind of home	nongold
+6	a renewable resource is a kind of natural resource	nongold
+7	an energy source is a kind of resource	gold
+8	temperature is a measure of heat energy	nongold
+9	extreme means very high in value	nongold
+10	a house is a kind of building	nongold
+11	solar energy is a kind of energy	nongold
+12	a panel is a kind of object	nongold
+13	a window is made of glass	nongold
+14	solar energy is a renewable; inexhaustible resource	gold
+15	a window is a part of a house	nongold
+16	solar energy is a source of electricity	nongold
+17	solar energy is a kind of heat energy	nongold
+18	solar power means solar energy	nongold
+19	double is a kind of increase	nongold
+20	a source of something emits; produces; generates; provides that something	nongold
+21	solar energy is a kind of light	nongold
+22	a window pane is a kind of surface	nongold
+23	the sun is the source of solar energy called sunlight	nongold
+24	air temperature is a kind of temperature	nongold
+25	recycling has a  positive impact on the environment	nongold
+26	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+27	the sun is a source of radiation; heat called sunlight	nongold
+28	solar radiation means solar energy	nongold
+29	a window is a kind of object	nongold
+30	resources sometimes are used for energy	gold
+31	single means one	nongold
+32	if something requires something else then that something requires a source of that something else	nongold
+33	a piece of something is a kind of object	nongold
+34	heat is a kind of energy	nongold
+35	sunlight is a kind of light	nongold
+36	recycling means reusing	nongold
+37	heat means temperature increases	nongold
+38	sunlight produces heat	nongold
+39	solar panels are a kind of power supplies	nongold
+40	to provide something means to be the source of that something	nongold
+41	air is a part of the environment	nongold
+42	to be used for something means to be required by that something	nongold
+43	heat means heat energy	nongold
+44	a source of something increases the amount of that something	nongold
+45	solar energy rarely causes pollution	nongold
+46	glass is a kind of solid at room temperature	nongold
+47	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+48	if something is powered by something else then that something requires a source of that something else	nongold
+49	an object; material; substance comes from that object or material's source	nongold
+50	recyclable means a material can be recycled	nongold
+51	renewable resources are often available for many years	nongold
+52	saving money has a positive impact on a person; a company	nongold
+53	to depend on; to rely on; to need means to require	nongold
+54	glass is a kind of material	nongold
+55	a living thing is a kind of object	nongold
+56	the function of something is what that something  is used to do	nongold
+57	the sun is a source of light; light energy called sunlight	nongold
+58	where something  comes from is a source of that something	nongold
+59	objects are made of materials; substances; matter	nongold
+60	air is a kind of matter	nongold
+61	glass is a kind of object	nongold
+62	increase means more	nongold
+63	to add means to increase	nongold
+64	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+65	if something comes from something else then that something else is a source of that something	nongold
+66	a producer is a source of energy for consumers	nongold
+67	the air is a kind of substance	nongold
+68	high is similar to increase	nongold
+69	air is a kind of gas	nongold
+70	recycling is similar to reusing	nongold
+71	solar energy can warm up  the air	nongold
+72	to lower means to decrease	nongold
+73	an increase is the opposite of a decrease	nongold
+74	extreme temperatures cause an organism's energy levels to decrease	nongold
+75	recycling means using over again	nongold
+76	metal is reflective	nongold
+77	to reduce means to decrease	nongold
+78	a piece is a part of a whole	nongold
+79	the solar system is a kind of system	nongold
+80	to run on means to use as an energy source	nongold
+81	intense means extreme	nongold
+82	recycling reduces the resources needed to make something	nongold
+83	if a living thing requires something then that something has a positive impact on that living thing	nongold
+84	a human is a kind of animal	nongold
+85	fossil fuels are a kind of energy resource	nongold
+86	absorbing sunlight causes objects to heat	nongold
+87	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+88	an inexhaustible resource is a kind of renewable resource	nongold
+89	a renewable resource is a kind of naturally replaced resource	nongold
+90	temperature is an intensive property	nongold
+91	consumption means use	nongold
+92	a source of something supplies that something	nongold
+93	light is a kind of energy	nongold
+94	light is a kind of energy	nongold
+95	an environment means an area	nongold
+96	heating means adding heat	nongold
+97	if an object is made of a material then that object has the properties of that material	nongold
+98	air is a kind of medium for light	nongold
+99	if something transfers something else then that something is a source of something else	nongold

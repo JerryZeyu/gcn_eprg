@@ -1,0 +1,61 @@
+0	nitrogen is a kind of gas	nongold
+1	the body is a part of an organism	nongold
+2	oxygen  is a kind of element	nongold
+3	cells are a part of the body	gold
+4	to bring means to transport	nongold
+5	blood is a vehicle for carrying oxygen from the lungs to the cells; rest of the body	nongold
+6	to transfer is similar to transport	gold
+7	to transfer is similar to transport	gold
+8	to transfer is similar to transport	gold
+9	capillaries  are a part of the circulatory system	nongold
+10	the circulatory system is a kind of human; organ; body system	gold
+11	the respiratory system transfers oxygen to the circulatory system	gold
+12	Which two body systems work together to transport oxygen to the cells?	question
+13	a plant cell is a kind of cell	nongold
+14	the function of something is what that something  is used to do	nongold
+15	transporting is a kind of function	nongold
+16	if something causes a process then that something is required for that process	nongold
+17	the lungs are a part of the body of an animal used for breathing air	nongold
+18	answering questions requires information	nongold
+19	the respiratory system is a kind of human; organ; body system	gold
+20	the circulatory system is a kind of human; organ; body system	gold
+21	the respiratory system is a kind of human; organ; body system	gold
+22	respiratory and circulatory	answer
+23	death means to die	nongold
+24	a human is a kind of animal	nongold
+25	Which two body systems work together to transport oxygen to the cells?	question
+26	red blood cells carry oxygen throughout the body	nongold
+27	life means living things	nongold
+28	an animal is a kind of living thing	nongold
+29	a human cell is a kind of cell	nongold
+30	gas is a kind of material	nongold
+31	both means two	nongold
+32	form is similar to body	nongold
+33	bringing substances to the body is a kind of function	nongold
+34	if two things perform the same function then those two things are similar	nongold
+35	Which two body systems work together to transport oxygen to the cells?	question
+36	organ system means body system	nongold
+37	respiratory and circulatory	answer
+38	atmosphere means  air	nongold
+39	an organ system is made of different parts of the body working together	nongold
+40	an animal requires air for survival	nongold
+41	to breathe in means to absorb air	nongold
+42	the diaphragm is a part of the respiratory system	nongold
+43	Which two body systems work together to transport oxygen to the cells?	question
+44	blood is a part of the circulatory system	nongold
+45	a body system is a part of the body; an animal	nongold
+46	breathing in is when animals inhale air into their lungs	nongold
+47	oxygen is more common than hydrogen on Earth	nongold
+48	cells are a part of the body	gold
+49	breathing  is when a lung converts from oxygen in air into oxygen in blood	nongold
+50	breathing is a kind of process	nongold
+51	cells are a part of the body	gold
+52	the respiratory system is a kind of human; organ; body system	gold
+53	breathing is when animals convert oxygen into carbon dioxide	nongold
+54	a body cell means a somatic cell	nongold
+55	the respiratory system transfers oxygen to the circulatory system	gold
+56	the respiratory system transfers oxygen to the circulatory system	gold
+57	respiratory and circulatory	answer
+58	the circulatory system absorbs; carries food; substances from the digestive system to the rest of the body	nongold
+59	the circulatory system is a kind of human; organ; body system	gold
+60	respiratory and circulatory	answer

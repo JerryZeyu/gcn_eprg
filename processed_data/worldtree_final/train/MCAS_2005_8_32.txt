@@ -1,0 +1,102 @@
+0	In order for a glider to fly, its weight must be opposed by	question
+1	lift.	answer
+2	flying an object requires lift to oppose the object's weight	gold
+3	a glider is a kind of object	gold
+4	a weight is a kind of object	nongold
+5	weight means the force of gravity acting on an object	nongold
+6	Weight is  the  force of gravity acting on an object	nongold
+7	An example of exerting force on an object is lifting an object	nongold
+8	flying is a kind of motion through air; space	nongold
+9	mass; weight is a property of matter; objects; materials	nongold
+10	weight is a property of objects; matter	nongold
+11	an airplane is a kind of vehicle	nongold
+12	motion; movement means moving; to move	nongold
+13	gravity is a kind of force	nongold
+14	a living thing is a kind of object	nongold
+15	weight is a measure of the force of the gravity on the mass of an object	nongold
+16	low means down	nongold
+17	a surface is a part of a material	nongold
+18	an animal is a kind of living thing	nongold
+19	flying is a kind of locomotion	nongold
+20	a surface is a part of an object	nongold
+21	lowering is a kind of motion	nongold
+22	must have means require	gold
+23	light means low  in weight	nongold
+24	low is the opposite of high	nongold
+25	if an object is made of a material then that object has the properties of that material	nongold
+26	material means substance	nongold
+27	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+28	objects are made of materials; substances; matter	nongold
+29	strength is a property of an object; a material	nongold
+30	counter means reduce; stop; resist	nongold
+31	an increase is the opposite of a decrease	nongold
+32	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+33	to lift means to move up	nongold
+34	force causes the speed of an object to increase; to decrease	nongold
+35	a type is synonymous with a kind	nongold
+36	a bird is a kind of living thing	nongold
+37	producing thrust causes something; an animal; an object to move	nongold
+38	strong means high in strength	nongold
+39	a bird is a kind of animal	nongold
+40	extreme means very high in value	nongold
+41	heavy means a large amount of weight	nongold
+42	lighter means lower; less in weight	nongold
+43	flight is similar to a movement in the air made by an airplane	nongold
+44	as the force of gravity increases , the weight of objects will increase	nongold
+45	raising is a kind of motion	nongold
+46	vibration is a kind of motion	nongold
+47	high is similar to increase	nongold
+48	wings are a part of a bird	nongold
+49	weak means low in strength	nongold
+50	as the force  of gravity changes , the weight of the object will change	nongold
+51	a pull is a kind of force	nongold
+52	pulling is a kind of motion	nongold
+53	mass is a property of objects; matter	nongold
+54	as the mass of an object increases , the force of gravity on that object will increase	nongold
+55	structure is a property of an object; a material; a substance	nongold
+56	mechanical force is a kind of mechanical energy	nongold
+57	a lever is used for lifting;moving heavy objects	nongold
+58	resistances are a property of living things	nongold
+59	motion is when moves an object; something to a direction	nongold
+60	an arm is a kind of limb	nongold
+61	gravity accelerates an object while that object falls by pulling on it	nongold
+62	a motion is a kind of event; action	nongold
+63	to add means to increase	nongold
+64	an part of an object is smaller than the entire object	nongold
+65	form means kind	nongold
+66	low is similar to decrease	nongold
+67	length is a part of size	nongold
+68	to lower means to decrease	nongold
+69	a roll is a kind of movement	nongold
+70	definite is the opposite of variable	nongold
+71	weight is a kind of property	nongold
+72	a landform is a kind of object	nongold
+73	height is a property of the size of an object	nongold
+74	to hover means to stay in place in the air	nongold
+75	a surface is a kind of object	nongold
+76	downward means down	nongold
+77	an animal is a kind of organism	nongold
+78	jumping off is a kind of  moving down	nongold
+79	as the force  of gravity decreases , the weight of the object will decrease	nongold
+80	an organism is a living thing	nongold
+81	height is a kind of position	nongold
+82	a machine is a kind of object	nongold
+83	to slow; to slow down decreases speed	nongold
+84	down feathers are a kind of material	nongold
+85	setting is a kind of motion	nongold
+86	as the mass of an object increases ,  the weight of that object will increase	nongold
+87	height is a measure of length from the top of an object to the bottom of an object	nongold
+88	high means great in altitude	nongold
+89	an object is an item	nongold
+90	can be means able to be	nongold
+91	a structure of something is synonymous with a part of that something	nongold
+92	an object is made of its parts	nongold
+93	speed is a measure of how fast an object is moving	nongold
+94	affected means changed	nongold
+95	a human is a kind of animal	nongold
+96	to reduce means to decrease	nongold
+97	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+98	unbalanced is the opposite of balanced	nongold
+99	high means a lot of something	nongold
+100	an object has properties	nongold
+101	density is a measure of mass of an object over volume; divided by volume	nongold

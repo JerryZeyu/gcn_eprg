@@ -1,0 +1,65 @@
+0	a body of water contains water	nongold
+1	a compass is a kind of object	gold
+2	metal is sometimes magnetic	nongold
+3	fishing is when a human kills; catches fish for food	nongold
+4	a needle is a kind of object	nongold
+5	if a person is lost at sea then that person may not know the direction of land	gold
+6	when the needle of a compass lines up with Earth's magnetic poles , the needle points north	nongold
+7	a vehicle is used for travel	nongold
+8	away is a kind of direction	nongold
+9	a needle floating in water is a kind of compass	nongold
+10	An example of navigation is directing a boat	gold
+11	to help; to benefit means to be of use	nongold
+12	a coast is a kind of environment	nongold
+13	maritime means close to the ocean	nongold
+14	if a person is lost at sea then that person may not know the direction of land	gold
+15	distance moved; distance travelled is a measure of how far an object moves	nongold
+16	an event is a kind of action	nongold
+17	instrument means tool	nongold
+18	a compass is used for determining direction	gold
+19	a shore is the land found at the edge of a body of water	gold
+20	a compass is used to navigate oceans; seas	gold
+21	navigation requires knowing direction	gold
+22	a compass is used for determining direction	gold
+23	toward is a kind of direction	nongold
+24	an aquatic animal is a kind of animal	nongold
+25	Magnetic compass	answer
+26	a compass is used to navigate oceans; seas	gold
+27	navigation requires knowing direction	gold
+28	An example of navigation is directing a boat	gold
+29	While a sailor was out fishing, he got lost at sea. Which object would help him direct the boat back to shore?	question
+30	the floating arrow on a compass always points towards the north	nongold
+31	a coast is where land meets the edge of a body of water	nongold
+32	a compass's needle lines up with Earth's magnetic poles	nongold
+33	a shore is the land found at the edge of a body of water	gold
+34	a compass is a kind of tool for determining direction by pointing north	nongold
+35	Magnetic compass	answer
+36	a compass is used for determining direction	gold
+37	seeking something means trying to find; searching for something	nongold
+38	locating means determining	nongold
+39	While a sailor was out fishing, he got lost at sea. Which object would help him direct the boat back to shore?	question
+40	an animal is a kind of organism	nongold
+41	While a sailor was out fishing, he got lost at sea. Which object would help him direct the boat back to shore?	question
+42	distant means great in distance	nongold
+43	if a person is lost at sea then that person may not know the direction of land	gold
+44	An example of navigation is directing a boat	gold
+45	aquatic animal means water animal	nongold
+46	a shore is the land found at the edge of a body of water	gold
+47	Earth's magnetic field causes compasses to point North	nongold
+48	a compass is a kind of object	gold
+49	a compass is a kind of object	gold
+50	Magnetic compass	answer
+51	to reach somewhere requires traveling	nongold
+52	helping something has a  positive impact on that something	nongold
+53	an anchor is a kind of object	nongold
+54	While a sailor was out fishing, he got lost at sea. Which object would help him direct the boat back to shore?	question
+55	a motion is a kind of event; action	nongold
+56	a compass is used to navigate oceans; seas	gold
+57	marine is similar to water	nongold
+58	Magnetic compass	answer
+59	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+60	bodies of water are located on Earth's surface	nongold
+61	an instrument is a piece of equipment	nongold
+62	natural magnetism is used for pointing north by a compass	nongold
+63	a vehicle is a kind of tool for travel; transport	nongold
+64	navigation requires knowing direction	gold

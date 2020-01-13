@@ -1,0 +1,102 @@
+0	Runoff from farms that use fertilizers is entering a small lake. This will most directly affect the lake by causing	question
+1	algae to grow in the lake.	answer
+2	fertilizers have a positive impact on algae growth	gold
+3	fertilizers have a negative impact on the environment; natural resources	nongold
+4	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	gold
+5	to cause means to have an effect	nongold
+6	to impact means to affect	nongold
+7	fertilizers are a source of pollution	nongold
+8	algae is found in bodies of water	gold
+9	harming something has a  negative impact on; effect on that something	nongold
+10	causing is a kind of affecting	nongold
+11	a lake is a kind of body of water	gold
+12	algae is a kind of living thing	nongold
+13	algae is a kind of plant	nongold
+14	if something is required for a process then that something positively impacts that process	nongold
+15	impact means effect	gold
+16	runoff is a kind of water	nongold
+17	runoff is when cropland water enters; runs off into bodies of water	gold
+18	an algae is a kind of organism	nongold
+19	to change means to have an effect	nongold
+20	if something affects a part of something else then that something affects that something else	nongold
+21	if something enters something else then that something is in that something else	nongold
+22	influence means impact	nongold
+23	influence means effect	nongold
+24	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+25	a plant; living thing requires nutrients to grow	nongold
+26	aquatic animals; plants live in bodies of water	nongold
+27	negative impact is the opposite of positive impact	nongold
+28	fertilizer contains chemicals	nongold
+29	a plants; living things require water for survival; to grow	nongold
+30	farming changes the environment	nongold
+31	lakes are formed by precipitation and runoff	nongold
+32	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+33	a plant requires water to grow	nongold
+34	a body of water is a kind of environment	nongold
+35	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+36	freshwater is a kind of water	nongold
+37	fertilizers contain nitrogen	nongold
+38	a negative impact is a kind of consequence; risk	nongold
+39	farming happens on a farm	nongold
+40	adverse effect means negative impact	nongold
+41	a factor impacts something	nongold
+42	water is a part of an environment	nongold
+43	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+44	rich nutrients can cause algae and phytoplankton to increase	nongold
+45	farming is a kind of process	nongold
+46	if a living thing requires something then that something has a positive impact on that living thing	nongold
+47	a plant is a kind of living thing	nongold
+48	a body of water is a source of water	nongold
+49	solution is similar to a positive impact	nongold
+50	affected means changed	nongold
+51	a pond is a kind of body of water	nongold
+52	to reduce means to decrease	nongold
+53	decreasing something negative has a positive impact on a thing	nongold
+54	a body of water contains water	nongold
+55	a pond is a kind of environment	nongold
+56	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+57	green marine algae are a kind of producer	nongold
+58	decreasing something positive has a negative impact on a thing	nongold
+59	organisms are a part of an environment	nongold
+60	to pass into means to enter	nongold
+61	a pond is smaller; shallower than a lake	nongold
+62	if something is made by something else then that something is affected by that something else	nongold
+63	green algae are a source of food for fungi in a lichen	nongold
+64	helping something has a  positive impact on that something	nongold
+65	a farmer is a kind of human	nongold
+66	change is a kind of impact	nongold
+67	an increase is the opposite of a decrease	nongold
+68	organisms mean life	nongold
+69	plants are a part of the environment	nongold
+70	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+71	too much water has a  negative impact on the growth of a plant	nongold
+72	plankton live in bodies of water	nongold
+73	crops; farming cause nutrients in the soil to decrease	nongold
+74	a plant is a kind of organism	nongold
+75	an environment is similar to an ecosystem	nongold
+76	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+77	small is the opposite of large	nongold
+78	to lower means to decrease	nongold
+79	a positive impact is  a benefit	nongold
+80	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+81	cause is similar to influence	nongold
+82	low is similar to decrease	nongold
+83	positive impacts on a species will increase populations of a species	nongold
+84	if something causes a process then that something is required for that process	nongold
+85	having an impact on something means altering that something	nongold
+86	fresh water means freshwater	nongold
+87	a farmer farms crops; plants for  food	nongold
+88	a positive impact is a helpful effect	nongold
+89	an ecosystem contains a large community of; large numbers of living organisms	nongold
+90	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+91	an environment means an area	nongold
+92	farming is a source of food	nongold
+93	all living things grow	nongold
+94	high is similar to increase	nongold
+95	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+96	a plant requires soil for survival; to grow	nongold
+97	a plankton is a kind of animal	nongold
+98	aquatic animal means water animal	nongold
+99	as the use of something decreases , the use of the source of that something will decrease	nongold
+100	runoff is a stage in the water cycle process	nongold
+101	negative impacts on a species will decrease populations of a species	nongold

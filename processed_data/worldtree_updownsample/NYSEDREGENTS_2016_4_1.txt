@@ -1,0 +1,58 @@
+0	dead means not alive	nongold
+1	sunlight is a kind of light	gold
+2	water, rocks, sunlight	answer
+3	organisms mean life	nongold
+4	light is a kind of nonliving thing	gold
+5	death means to die	nongold
+6	rock is a kind of nonliving thing	gold
+7	survive means live	nongold
+8	solar energy is a kind of light	nongold
+9	rock is a kind of nonliving thing	gold
+10	light is a kind of nonliving thing	gold
+11	dying is the opposite of living; surviving	nongold
+12	a plant is a kind of organism	nongold
+13	live means to be alive	nongold
+14	an ocean is a kind of body of water	nongold
+15	the sun is a source of light; light energy called sunlight	nongold
+16	an object is an item	nongold
+17	an animal; bacterium requires oxygen for survival; to breathe	nongold
+18	made up of means contains; made of	nongold
+19	Which list contains only nonliving things?	question
+20	a plant is a kind of living thing	nongold
+21	heat means heat energy	nongold
+22	Which list contains only nonliving things?	question
+23	soil is a kind of nonliving thing	nongold
+24	Which list contains only nonliving things?	question
+25	life means living things	nongold
+26	water, rocks, sunlight	answer
+27	daylight means sunlight	nongold
+28	water is a kind of nonliving thing	gold
+29	to receive sunlight means to absorb sunlight	nongold
+30	sunlight is a kind of solar energy	nongold
+31	nonliving; non-living; die is the opposite of living; alive; live	nongold
+32	water, rocks, sunlight	answer
+33	water is a kind of nonliving thing	gold
+34	sunshine means sunlight	nongold
+35	water is a kind of nonliving thing	gold
+36	water is a part of an environment	nongold
+37	Which list contains only nonliving things?	question
+38	light is a kind of nonliving thing	gold
+39	a rock is usually a solid	nongold
+40	organisms; living things live in their habitat; their home	nongold
+41	rock is a kind of nonliving thing	gold
+42	the sun is the source of solar energy called sunlight	nongold
+43	Earth is made of rock	nongold
+44	a human is a kind of animal	nongold
+45	sunlight is a kind of light	gold
+46	sunlight produces heat	nongold
+47	if something is made of something; a material then that something contains that something; that material	nongold
+48	contains means located in	nongold
+49	water, rocks, sunlight	answer
+50	lowest means least in value; amount; number	nongold
+51	sunlight is a kind of light	gold
+52	animals; living things require water for survival	nongold
+53	water is a kind of matter	nongold
+54	if something is a part of something else then that something else contains that something	nongold
+55	including means containing	nongold
+56	a bird is a kind of living thing	nongold
+57	animals; living things live and feed in their habitats; near their habitats	nongold

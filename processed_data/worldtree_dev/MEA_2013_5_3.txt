@@ -1,0 +1,102 @@
+Question	The Sun is classified as a star. Which characteristic identifies the Sun as a star?	question
+Answer	The Sun produces light and energy in a nuclear reaction.	answer
+0	nuclear reactions in stars causes stars to produce light; energy; nuclear energy	gold
+1	a star is a source of light; light energy through nuclear reactions	gold
+2	a kind of something is classified as that something	nongold
+3	light means light energy	nongold
+4	nuclear energy is a kind of energy	nongold
+5	characteristic means property	nongold
+6	stars can be classified by temperature; color; chemical composition; brightness	nongold
+7	feature is synonymous with characteristic	nongold
+8	light is a kind of energy	nongold
+9	light is a kind of energy	nongold
+10	the Sun is a kind of star	gold
+11	generate means produce	nongold
+12	to belong to a group means to be classified in that group	nongold
+13	the sun is a source of light; light energy called sunlight	nongold
+14	a part of something means a characteristic of something	nongold
+15	make means produce	nongold
+16	sunlight is a kind of light	nongold
+17	classify is similar to characterize	nongold
+18	a reaction is a kind of process	nongold
+19	classification is a kind of process	nongold
+20	stars make their own light	nongold
+21	classifying means grouping objects; materials by their properties	nongold
+22	producing is similar to causing	nongold
+23	a star produces light and heat	nongold
+24	to categorize means to classify	nongold
+25	classifying is when one sorts something by kind; type	nongold
+26	a source of something emits; produces; generates; provides that something	gold
+27	to produce means to create	nongold
+28	a star requires energy	nongold
+29	to belong to a class means to be a kind of something	nongold
+30	a chemical reaction is a kind of process	nongold
+31	producing is a kind of process	nongold
+32	the sun is a kind of yellow dwarf	nongold
+33	to produce means to result in	nongold
+34	products are formed; are produced; are created	nongold
+35	nuclear fusion is a kind of nuclear reaction	nongold
+36	nuclear fusion in a star's core generates energy for the star to (burn, shine)	nongold
+37	to produce means to provide	nongold
+38	converting is similar to producing	nongold
+39	the sun is a source of radiation; heat called sunlight	nongold
+40	to be formed by is similar to being produced by	nongold
+41	a star is a kind of celestial object; celestial body	nongold
+42	reaction to light is a kind of chemical property	nongold
+43	to contribute is similar to produce	nongold
+44	chemical change is a kind of chemical reaction	nongold
+45	if something causes an increase in something else then that something produces that something else	nongold
+46	a type is synonymous with a kind	nongold
+47	solar energy is a kind of light	nongold
+48	category means kind	nongold
+49	a producer is a kind of living thing	nongold
+50	a planet is a kind of celestial object; body	nongold
+51	photosynthesis is a kind of chemical reaction	nongold
+52	to generate means to form	nongold
+53	if something generates energy for something else then that something powers that something else	nongold
+54	to generate means to create	nongold
+55	to classify means to decide what class something belongs to	nongold
+56	classifying is a kind of science process	nongold
+57	fire is a kind of chemical reaction	nongold
+58	a white dwarf is a kind of star	nongold
+59	producing is similar to releasing	nongold
+60	a physical reaction is a kind of process	nongold
+61	emit means produce	nongold
+62	to tell the difference between things means to classify those things	nongold
+63	the sun is the source of solar energy called sunlight	nongold
+64	solar energy is a kind of energy	nongold
+65	a process is a kind of event	nongold
+66	orbit is a kind of characteristic	nongold
+67	a yellow dwarf is a kind of main-sequence star	nongold
+68	development is similar to production	nongold
+69	producing is a kind of function	nongold
+70	to provide something means to be the source of that something	nongold
+71	a type of something is a kind of property of that something	nongold
+72	production is similar to making	nongold
+73	Earth is a kind of planet	nongold
+74	an event is a kind of action	nongold
+75	to be a source of something means to cause that something	nongold
+76	a property of something is a feature of that something	nongold
+77	can be means able to be	nongold
+78	nuclear reaction is a kind of exothermic reaction	nongold
+79	to belong to a group means to be a kind of something	nongold
+80	causing is similar to generating	nongold
+81	something's function can be used to describe; identify that something	nongold
+82	astronomy is the study of celestial (objects, bodies)	nongold
+83	main-sequences stars are a kind of star	nongold
+84	sunlight is a kind of solar energy	nongold
+85	form means kind	nongold
+86	if something causes a process then that something is required for that process	nongold
+87	yellow dwarf is a kind of small star	nongold
+88	Jupiter is a kind of planet	nongold
+89	if something releases something else then that something is the source of that something else	nongold
+90	state means form	nongold
+91	a star's type is determined by the star's mass	nongold
+92	what an object is made of is a kind of characteristic	nongold
+93	a cluster of stars is made of stars	nongold
+94	produce is similar to release	nongold
+95	a chemical reaction producing a lot of gas and heat in a short time causes an explosion	nongold
+96	if something gains something from something else then that something else is a source of that something	nongold
+97	a domain is the broadest group into which organisms can be classified	nongold
+98	a component of something means a part of that something	nongold
+99	events occur at a specific place; at a specific time; with a specific frequency	nongold

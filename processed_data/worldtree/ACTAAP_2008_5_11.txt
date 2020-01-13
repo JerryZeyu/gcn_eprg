@@ -1,0 +1,102 @@
+Question	With a microscope, you see that an object has a cell wall, a chloroplast, and a nucleus. What is being observed?	question
+Answer	a plant cell	answer
+0	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	gold
+1	a chloroplast is a kind of plant cell structure	nongold
+2	a cell wall is the outermost structure of a plant cell	nongold
+3	a plant cell contains chloroplasts	nongold
+4	chloroplast is a part of a plant cell	gold
+5	a plant cell is a kind of cell	gold
+6	a  cell wall provides support; protection; shape; structure for  a plant cell	nongold
+7	a wall is a kind of object	nongold
+8	a plant is made of plant cells	nongold
+9	a plant is a kind of living thing	nongold
+10	a chloroplast contains chlorophyll	nongold
+11	room contains walls	nongold
+12	a living thing is made of cells	nongold
+13	an animal cell is a kind of cell	nongold
+14	a cell nucleus is a part of a cell	gold
+15	a plant is a kind of organism	nongold
+16	most chloroplasts are found in the leaves of a plant	nongold
+17	a cell is a kind of object	gold
+18	a microscope is a kind of tool for observing small things	nongold
+19	nucleus is synonymous with core; center	nongold
+20	a plant cell is box-like in shape	nongold
+21	a living thing is a kind of object	nongold
+22	a wall is a kind of surface	nongold
+23	look at means observe	nongold
+24	the cell wall causes the plant cell to be  more rigid than the animal cell	nongold
+25	observe means see	gold
+26	the nucleus is a kind of cell organelle	nongold
+27	a prokaryotic cell does not contain a nucleus	nongold
+28	microscope is used to see small things; microscopic things; specimens by biologists by making them appear bigger	gold
+29	objects are made of materials; substances; matter	nongold
+30	plant parts are made of plants	nongold
+31	detecting is similar to observing	nongold
+32	plant and animal matter means organic matter	nongold
+33	a cell membrane is a kind of cell structure	nongold
+34	a unicellular organism has one cell	nongold
+35	plant cells can perform photosynthesis	nongold
+36	both means two	nongold
+37	an animal is a kind of living thing	nongold
+38	an organism is a living thing	nongold
+39	a human cell is a kind of cell	nongold
+40	a cell is very small	nongold
+41	if something is visible , then that something can be observed	nongold
+42	the cell membrane is a part of a cell	nongold
+43	the cell membrane is the membrane around the cell of all living things	nongold
+44	microscopic means very small in size	nongold
+45	the function of something is what that something  is used to do	nongold
+46	to see means to look	nongold
+47	an object is made of its parts	nongold
+48	an object has properties	nongold
+49	an electron microscope is used for seeing very small objects by making them appear bigger	nongold
+50	answering questions requires information	nongold
+51	measuring is a kind of observing	nongold
+52	material means substance	nongold
+53	an animal is a kind of organism	nongold
+54	can be means able to be	nongold
+55	an part of an object is smaller than the entire object	nongold
+56	a source of something emits; produces; generates; provides that something	nongold
+57	the cell membrane allows materials to enter and leave the cell	nongold
+58	if something is made of something; a material then that something contains that something; that material	nongold
+59	the cell nucleus controls many of the functions of the cell	nongold
+60	to contain means to have inside	nongold
+61	a room is a kind of object	nongold
+62	studying  something usually requires seeing that something	nongold
+63	a structure of something is synonymous with a part of that something	nongold
+64	matter; materials; substances are made of atoms; particles	nongold
+65	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+66	chlorophyll is used for absorbing light energy by plants	nongold
+67	all living things are made of cells according to the cell theory	nongold
+68	a cell absorbs nutrients	nongold
+69	contains means located in	nongold
+70	structure is a property of an object; a material; a substance	nongold
+71	organisms are made of carbon	nongold
+72	all cells perform cellular respiration	nongold
+73	emit means produce	nongold
+74	composed of means made of	nongold
+75	an object; material; substance comes from that object or material's source	nongold
+76	form means kind	nongold
+77	if two things perform the same function then those two things are similar	nongold
+78	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+79	if an object is made of a material then that object has the properties of that material	nongold
+80	high is similar to increase	nongold
+81	a component of something means a part of that something	nongold
+82	a component means a part of	nongold
+83	if something required by something else is in a place then that something else may be in that place	nongold
+84	a mitochondrion is a kind of cellular organelle	nongold
+85	determining often requires measuring; observing	nongold
+86	vegetation means plants	nongold
+87	particles in objects are a kind of matter	nongold
+88	a type is synonymous with a kind	nongold
+89	materials are made of matter	nongold
+90	a structure is a kind of feature	nongold
+91	cells are a smaller level of organization than tissues in living things	nongold
+92	a part of a living thing is a natural structure	nongold
+93	if an object is made of something then the parts of that object are made of that something	nongold
+94	a part of a process means a stage in a process	nongold
+95	a body cell means a somatic cell	nongold
+96	substances are made of matter	nongold
+97	green plants are a kind of producer	nongold
+98	to be used for something means to be required by that something	nongold
+99	something's function can be used to describe; identify that something	nongold

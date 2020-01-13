@@ -1,0 +1,102 @@
+Question	A student describes a substance as lacking a definite shape. The description also states that the particles of matter are close to each other but still able to flow past each other. Which type of substance is the student most likely describing?	question
+Answer	liquid	answer
+0	Matter in the solid phase has definite shape	nongold
+1	particles in a liquid flows past each other	gold
+2	a type is synonymous with a kind	nongold
+3	if something is definite in shape then that something will not change shape easily	nongold
+4	particles in a liquid are close to each other	gold
+5	a particle is a kind of object	nongold
+6	matter; materials; substances are made of atoms; particles	gold
+7	a molecule is a kind of particle	nongold
+8	Matter in the liquid phase has variable shape	gold
+9	particles in a solid are closer together than particles in a liquid	nongold
+10	the properties of something are used for describing that something	nongold
+11	a student is a kind of human	nongold
+12	a liquid is a kind of substance	gold
+13	particles in a liquid are closer together than particles in a gas	nongold
+14	particles in objects are a kind of matter	nongold
+15	liquid is a kind of state of matter	nongold
+16	definite shape means the shape of an object stays the same when moved to different spot	nongold
+17	shape is a kind of physical property	nongold
+18	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+19	substances are made of matter	gold
+20	shape is a property of an object	nongold
+21	definite is the opposite of variable	gold
+22	form means kind	nongold
+23	atoms are made of particles	nongold
+24	structure is similar to shape	nongold
+25	matter is made of molecules	nongold
+26	a liquid is a kind of fluid	nongold
+27	particles in a solid are slower than particles in a liquid	nongold
+28	substances are made of molecules	nongold
+29	particles in a liquid are slower than particles in a gas	nongold
+30	a molecule is a kind of object	nongold
+31	solid is a kind of state of matter	nongold
+32	a type of something is a kind of property of that something	nongold
+33	Matter in the gas phase has variable shape	nongold
+34	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+35	objects are made of materials; substances; matter	nongold
+36	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+37	can be means able to be	nongold
+38	molecules; atoms are constantly; always moving; vibrating in substance;matter	nongold
+39	particles in a liquid have more kinetic energy than particles in a solid	nongold
+40	a kind of something is an example of that something	nongold
+41	state of matter means physical state	nongold
+42	Matter in the liquid phase has definite volume	nongold
+43	materials are made of matter	nongold
+44	Matter in the solid phase has definite volume	nongold
+45	a human is a kind of animal	nongold
+46	the shape  of an object can be discovered through feeling that object; touching that object	nongold
+47	matter with variable shape changes shape in different container	nongold
+48	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+49	measuring is used for describing an object	nongold
+50	a solid is a kind of substance	nongold
+51	euglena has definite shape	nongold
+52	a description sometimes provides information	nongold
+53	shape of the parts of something is a property of that something	nongold
+54	physical state means state of matter	nongold
+55	classifying is when one sorts something by kind; type	nongold
+56	shape is a kind of characteristic	nongold
+57	water is a kind of matter	nongold
+58	gas is a kind of state of matter	nongold
+59	charged particles are a kind of high-energy particles	nongold
+60	flowing is a kind of motion	nongold
+61	particles in a gas have more kinetic energy than particles in a liquid	nongold
+62	a photon is a kind of  particles	nongold
+63	water is a kind of liquid at room temperature	nongold
+64	heat means heat energy	nongold
+65	a molecule is made of atoms chemically combined; bonded	nongold
+66	shape is an extensive property	nongold
+67	variability of shape; variability of volume is a kind of physical property	nongold
+68	water is a kind of substance	nongold
+69	variable means able to change	nongold
+70	the properties of something can be used to identify; used to describe that something	nongold
+71	an increase is a kind of change	nongold
+72	phase means state	nongold
+73	to add means to increase	nongold
+74	state means form	nongold
+75	to flow is similar to to transfer	nongold
+76	close means low in distance	nongold
+77	closer means lower; less; a decrease in distance	nongold
+78	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+79	state of matter at room temperature is a kind of physical property	nongold
+80	fixed is similar to definite	nongold
+81	an atom is a kind of object	nongold
+82	a container contains objects; material; substances	nongold
+83	temperature is a measure of kinetic energy of molecules	nongold
+84	a source of something emits; produces; generates; provides that something	nongold
+85	ability to undergo a phase change is a property of a substance; material	nongold
+86	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+87	particles in a solid have an orderly fixed position	nongold
+88	often is similar to likely	nongold
+89	a container is a kind of object	nongold
+90	temperature is a measure of heat energy	nongold
+91	state of matter is a kind of physical property	nongold
+92	a phase change is a kind of physical change	nongold
+93	high is similar to increase	nongold
+94	material means substance	nongold
+95	structure is a property of an object; a material; a substance	nongold
+96	answering questions requires information	nongold
+97	a pure substance is made of only one kind of atom; molecule	nongold
+98	near means close	nongold
+99	composition is a property of an object; matter	nongold

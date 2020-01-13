@@ -1,0 +1,102 @@
+0	an animal requires shelter	nongold
+1	a plants; living things require water for survival; to grow	nongold
+2	helping something has a  positive impact on that something	nongold
+3	a human is a kind of animal	nongold
+4	warm means warm temperature	nongold
+5	if a living thing dies then that living thing is dead	nongold
+6	an animal is a kind of organism	nongold
+7	a concern; a problem is a possible negative impact	nongold
+8	a plant is a member of a plant species	nongold
+9	requiring is similar to needing help	nongold
+10	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+11	to make means to build	nongold
+12	Massachusetts is a state located in the United States of America	nongold
+13	life means living things	nongold
+14	temperature is a kind of condition	nongold
+15	intense heat has a negative impact on an organism	nongold
+16	if something required by something else is in a place then that something else may be in that place	nongold
+17	solution is similar to a positive impact	gold
+18	a plant; living thing requires food for survival	nongold
+19	best means most positive	nongold
+20	a student is a kind of human	nongold
+21	to reduce means to decrease	nongold
+22	a plant is a kind of organism	nongold
+23	hot means high in heat energy; temperature	nongold
+24	temperature is a property of weather	nongold
+25	winter has cold temperatures;weather	nongold
+26	cold means low in temperature	gold
+27	construction means building	nongold
+28	cold temperatures usually have a negative impact on organisms	nongold
+29	a lemon tree is a kind of plant	gold
+30	shelter is a kind of place;building;structure for protection	nongold
+31	freezing means cold temperatures	nongold
+32	killing a living thing decreases the number; population size of that living thing	nongold
+33	decreasing something negative has a positive impact on a thing	nongold
+34	address a problem means reduce a problem	nongold
+35	a leaf is a part of a tree	nongold
+36	an animal is a member of an animal species	nongold
+37	temperature is a measure of heat energy	nongold
+38	solution is a kind of liquid	nongold
+39	an animal needs to move to find shelter	nongold
+40	plants are a part of the environment	nongold
+41	an organism's shelter is a part of that organism's environment	nongold
+42	a lemon is a kind of fruit	nongold
+43	eating an animal; a plant means killing that animal; that plant	nongold
+44	a lemon has strong odor	nongold
+45	winter means environmental; outdoor temperature decreases	gold
+46	good means positive	nongold
+47	a problem has a negative impact on a thing	nongold
+48	to be used for something means to be required by that something	nongold
+49	an increase is the opposite of a decrease	nongold
+50	a tree is a kind of habitat	nongold
+51	a greenhouse is used to protect  plants by keeping them warm	gold
+52	killing means changing a living thing from alive to dead by harming	nongold
+53	low is similar to decrease	nongold
+54	a tree is a kind of plant	nongold
+55	shelter can protect animals;humans from weather	nongold
+56	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+57	an animal is a kind of living thing	nongold
+58	cold is a kind of weather	nongold
+59	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	gold
+60	a shelter is used for living in by animals	nongold
+61	summer has hot temperatures; weather	nongold
+62	Massachusetts is not located in an arctic environment	nongold
+63	shelter is used for protection by animals against weather	nongold
+64	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+65	killing means harming something causing death	gold
+66	if a living thing requires something then that something has a positive impact on that living thing	nongold
+67	causing problems is a kind of negative impact	nongold
+68	problem is similar to issue	nongold
+69	lemon juice is a kind of substance	nongold
+70	shelter is a kind of protective covering	nongold
+71	an organism is a living thing	nongold
+72	a tree is a kind of living thing	nongold
+73	Students want to plant a lemon tree at their school, but the cold winter temperatures in Massachusetts would kill the tree. Which of the following is the best solution to this problem?	question
+74	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	gold
+75	heat means heat energy	nongold
+76	a  solution  is a kind of object	nongold
+77	building a greenhouse to shelter the lemon tree	answer
+78	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+79	person is synonymous with human	nongold
+80	if a living thing becomes too cold then that living thing will die	gold
+81	a tree is a kind of matter	nongold
+82	warm means medium heat energy; temperature	nongold
+83	decreasing something positive has a negative impact on a thing	nongold
+84	negative impact is the opposite of positive impact	nongold
+85	if an organism becomes too hot then that organism may die	nongold
+86	better means good	nongold
+87	harming an organism can cause that organism to die	nongold
+88	an animal; living thing requires nutrients for survival	nongold
+89	death means to die	gold
+90	Massachusetts is not located on the boundary of two tectonic plates	nongold
+91	warmer means greater; higher in temperature; warmth	nongold
+92	to lower means to decrease	nongold
+93	a living thing is a kind of object	nongold
+94	something in a cold place becomes cold	nongold
+95	colder; cooler means lower in temperature	nongold
+96	harming something has a  negative impact on; effect on that something	nongold
+97	nonliving; non-living; die is the opposite of living; alive; live	nongold
+98	a plant is a kind of living thing	gold
+99	a greenhouse is used to protect plants from the cold	gold
+100	a greenhouse is a kind of shelter for plants	gold
+101	organisms are a part of an environment	nongold

@@ -1,0 +1,102 @@
+Question	Which of these behaviors does a dolphin learn?	question
+Answer	balancing a ball on its nose	answer
+0	balancing a ball on one's nose is a kind of trick	gold
+1	a nose is a part of a body	nongold
+2	a ball is a kind of object	nongold
+3	a balance is a kind of instrument for measuring mass; measuring weight	nongold
+4	a behavior is a kind of characteristic	nongold
+5	rolling is a kind of motion	nongold
+6	a balance is used for measuring mass;weight of an object; of a substance	nongold
+7	motion; movement means moving; to move	nongold
+8	a living thing is a kind of object	nongold
+9	an animal is a kind of living thing	nongold
+10	a learned characteristic is a kind of acquired characteristic	nongold
+11	raising is a kind of motion	nongold
+12	an organism is a living thing	nongold
+13	unbalanced is the opposite of balanced	nongold
+14	weight is a property of objects; matter	nongold
+15	a roll is a kind of movement	nongold
+16	an object exerts an upward force objects that sit on that object	nongold
+17	to lift means to move up	nongold
+18	if an animal is trained to do something then that something is a learned behavior	nongold
+19	an animal is a kind of organism	nongold
+20	lowering is a kind of motion	nongold
+21	sitting is a kind of action	nongold
+22	to carry means to move something	nongold
+23	if one is holding an object then one is touching that object	nongold
+24	round objects roll	nongold
+25	friction is a kind of force	nongold
+26	a human is a kind of animal	nongold
+27	an aquatic animal is a kind of animal	nongold
+28	a human is a kind of mammal	nongold
+29	if two balanced forces act on an object in opposite directions then that object will remain stationary	nongold
+30	motion is when moves an object; something to a direction	nongold
+31	mass; weight is a property of matter; objects; materials	nongold
+32	a mammal is a kind of animal	nongold
+33	actions mean behavior	nongold
+34	a stick is a kind of object	nongold
+35	playing with toys is a learned characteristic	nongold
+36	to bump means to hit	nongold
+37	using tools is a learned characteristic	nongold
+38	low means down	nongold
+39	An example of hitting something is dropping an object onto that something	nongold
+40	a body part is a kind of object	nongold
+41	hitting is a kind of motion	nongold
+42	a weight is a kind of object	nongold
+43	the head is a part of an animal	nongold
+44	friction exerts force on moving objects	nongold
+45	learned behaviors are learned over the  lifetime of the animal	nongold
+46	pushing is a kind of motion	nongold
+47	instrument means tool	nongold
+48	Weight is  the  force of gravity acting on an object	nongold
+49	placing is a kind of action	nongold
+50	weight means the force of gravity acting on an object	nongold
+51	pushing an object requires force	nongold
+52	a handle is used for holding an object	nongold
+53	downward means down	nongold
+54	a surface is a part of an object	nongold
+55	friction occurs when two object's surfaces move against each other	nongold
+56	a handle is a part of an object for holding that object	nongold
+57	conditioned behavior is a kind of learned behavior	nongold
+58	to impact means to affect	nongold
+59	rubbing  is a kind of motion	nongold
+60	setting is a kind of motion	nongold
+61	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+62	a lever is used for lifting;moving heavy objects	nongold
+63	a hand is a kind of object	nongold
+64	being  on something; placed in something; placed over something means touching  that something	nongold
+65	a hand is a part of the body	nongold
+66	rotate means turn	nongold
+67	height is a kind of position	nongold
+68	down is part of a young bird	nongold
+69	eyes are usually part of an animal for seeing	nongold
+70	a scale is a part of a fish	nongold
+71	pushing something can cause that something  to move	nongold
+72	a board is a kind of object	nongold
+73	a pulley is used for lifting; lowering objects	nongold
+74	down is soft	nongold
+75	an ear is a kind of body part	nongold
+76	riding is a kind of motion	nongold
+77	rolling over is a kind of action	nongold
+78	producing thrust causes something; an animal; an object to move	nongold
+79	carrying something means moving that something	nongold
+80	the bottom is the lowest part of something	nongold
+81	a lever can be used to hit an object	nongold
+82	a motion is a kind of event; action	nongold
+83	following orders is a learned characteristic	nongold
+84	a rotation is a kind of movement	nongold
+85	to land on the ground means to hit the ground	nongold
+86	an part of an object is smaller than the entire object	nongold
+87	moving something is a kind of function	nongold
+88	sliding is a kind of motion	nongold
+89	a person is a kind of animal	nongold
+90	rotating is similar to moving	nongold
+91	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+92	a tool is a kind of object	nongold
+93	impact means effect	nongold
+94	a utensil is a kind of tool for eating	nongold
+95	rolling in mud is a learned behavior	nongold
+96	tossing  a ball in the air cannot form a source of vibration	nongold
+97	settling is a kind of action	nongold
+98	friction causes speed to decrease	nongold
+99	push is a kind of force; application of force	nongold

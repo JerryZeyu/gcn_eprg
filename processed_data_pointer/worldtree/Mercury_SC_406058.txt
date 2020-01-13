@@ -1,0 +1,102 @@
+Question	A car has a small gasoline engine combined with a battery-powered electric motor. When the car stops at a red light, the gasoline engine stops running and the electric motor begins working. How does this type of car most likely benefit people?	question
+Answer	uses less gasoline	answer
+0	a person is a kind of animal	nongold
+1	person is synonymous with human	gold
+2	to help; to benefit means to be of use	nongold
+3	a positive impact is  a benefit	gold
+4	a car is a kind of vehicle	nongold
+5	an electric car uses less gasoline than a regular car	gold
+6	a car is a kind of automobile	nongold
+7	using a gasoline engine requires burning  gasoline	gold
+8	a type is synonymous with a kind	nongold
+9	a human is a kind of animal	gold
+10	vehicles usually require gasoline to operate	nongold
+11	an automobile is a kind of vehicle	nongold
+12	electricity causes less pollution than gasoline	nongold
+13	an electric car contains an electric motor	gold
+14	less means a reduced amount	nongold
+15	saving money has a positive impact on a person; a company	nongold
+16	gasoline is a kind of fuel	nongold
+17	an animal is a kind of organism	gold
+18	fuel efficient means uses less fuel	nongold
+19	an animal is a kind of living thing	nongold
+20	negative impact is the opposite of positive impact	gold
+21	less is similar to decrease	nongold
+22	a battery is a source of electrical energy; electricity	nongold
+23	battery-powered is similar to battery-operated	nongold
+24	a car is a kind of object	nongold
+25	less is the opposite of more	nongold
+26	helping something has a  positive impact on that something	nongold
+27	if a living thing requires something then that something has a positive impact on that living thing	nongold
+28	decreasing something negative has a positive impact on a thing	nongold
+29	to depend on; to rely on; to need means to require	nongold
+30	gas-efficient engines use less gas	nongold
+31	an animal is a kind of consumer	nongold
+32	consumption means use	nongold
+33	using a car causes pollution	nongold
+34	a car engine is a part of a car	nongold
+35	decreasing something positive has a negative impact on a thing	nongold
+36	electricity means electrical energy	nongold
+37	an engine is a part of an automobile	nongold
+38	a vehicle is used for transportation	nongold
+39	a living thing is a kind of object	nongold
+40	human is a kind of organism	nongold
+41	a source of something emits; produces; generates; provides that something	nongold
+42	a vehicle is a kind of object	nongold
+43	using less of a resource means conserving that resource	nongold
+44	an electric motor is a kind of electrical device	nongold
+45	harming something has a  negative impact on; effect on that something	nongold
+46	increase means more	nongold
+47	a  battery  is a kind of electrical power source	nongold
+48	humans ride vehicles	nongold
+49	stop; stopped means zero; 0; no speed	nongold
+50	to be used for something means to be required by that something	nongold
+51	good means positive	nongold
+52	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+53	a vehicle is a kind of tool for travel; transport	nongold
+54	a negative impact is a kind of consequence; risk	nongold
+55	using gasoline is a source of carbon dioxide	nongold
+56	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+57	a battery-operated device is a kind of electrical device	nongold
+58	to be good for means to have a positive impact on	nongold
+59	a type of something is a kind of property of that something	nongold
+60	a car moves on a road	nongold
+61	adverse effect means negative impact	nongold
+62	burning gasoline is a source of  heat energy	nongold
+63	an organism is a living thing	nongold
+64	if something is powered by something else then that something requires a source of that something else	nongold
+65	an electric car is a kind of invention	nongold
+66	an increase is the opposite of a decrease	nongold
+67	a source of something increases the amount of that something	nongold
+68	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+69	a battery is a kind of object	nongold
+70	an electric motor converts electrical energy into mechanical energy	nongold
+71	if something is required for a process then that something positively impacts that process	nongold
+72	a combustion engine requires fuel to operate	nongold
+73	batteries can be used to power electrical devices	nongold
+74	electric devices require electrical energy to function	nongold
+75	a car engine is a source of heat	nongold
+76	parking is a kind of  stopping	nongold
+77	a kind of something is an example of that something	nongold
+78	electrical energy is a kind of energy	nongold
+79	if something with the same function as something else is being used then the use of that something else decreases	nongold
+80	lower means less	nongold
+81	using less resources usually causes money to be saved	nongold
+82	to slow; to slow down decreases speed	nongold
+83	money usually has a positive impact on a person's life	nongold
+84	requiring something means needing that something	nongold
+85	stop means not move	nongold
+86	counter means reduce; stop; resist	nongold
+87	best means most positive	nongold
+88	if an organism undertakes an action with a negative effect , then that organism will learn to do that action less	nongold
+89	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+90	burning gasoline; oil is a source of air pollution	gold
+91	if something requires something else then that something requires a source of that something else	nongold
+92	high-efficiency device uses less energy	nongold
+93	fuel is a kind of energy source	nongold
+94	the function of something is what that something  is used to do	nongold
+95	using less of a resource increases the availability of that resource	nongold
+96	a vehicle is used for travel	nongold
+97	electricity is used as an energy source by electrical devices	nongold
+98	something harmful can cause harm	nongold
+99	damage has a negative impact on a thing	nongold

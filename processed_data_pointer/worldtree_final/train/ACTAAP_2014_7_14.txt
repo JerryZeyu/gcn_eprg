@@ -1,0 +1,101 @@
+0	a seed is a part of a plant	nongold
+1	to be formed by is similar to being produced by	nongold
+2	conduction is a kind of process	nongold
+3	if something causes a process then that something is required for that process	nongold
+4	a flower is a part of a plant for attracting pollinators; producing seeds	nongold
+5	a flower is a kind of plant	nongold
+6	a component means a part of	nongold
+7	a part of a process means a stage in a process	nongold
+8	An insect is a pollinating animal	nongold
+9	cross-pollination is a stage in the plant reproduction process	gold
+10	cross-pollination increases genetic diversity	gold
+11	pollinator means pollinating animal	nongold
+12	growing is a kind of process	nongold
+13	producing is similar to causing	nongold
+14	a seed is a kind of young plant	nongold
+15	crossing; breeding a homozygous dominant living thing with another living thing causes their offspring to have that dominant trait	nongold
+16	an animal is a kind of living thing	nongold
+17	to reproduce means to have; to produce offspring	nongold
+18	In the flowering plant life cycle , pollination is part of reproduction	nongold
+19	gamete development is a stage in the sexual reproduction process	nongold
+20	plant reproduction often requires pollen	nongold
+21	an animal is a kind of organism	nongold
+22	if something is required for a process then that something positively impacts that process	nongold
+23	to cause means to result in	nongold
+24	a flower contains pollen for sexual reproduction	nongold
+25	a reaction is a kind of process	nongold
+26	a plant is a kind of organism	nongold
+27	seed dispersal is a kind of method of sexual reproduction	nongold
+28	growth is a kind of process	nongold
+29	a motion is a kind of event; action	nongold
+30	to cause an event is similar to being involved in that event	nongold
+31	answering questions requires information	nongold
+32	to be used for something means to be required by that something	nongold
+33	a plant is a kind of living thing	nongold
+34	to cross is similar to to reproduce	nongold
+35	a step in a process means a stage in a process	nongold
+36	an organism is a living thing	nongold
+37	an animal is a member of an animal species	nongold
+38	similar means in common	nongold
+39	most insects reproduce by sexual reproduction	nongold
+40	carnivores; omnivores; herbivores are a kind of animal	nongold
+41	a source of something emits; produces; generates; provides that something	nongold
+42	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	nongold
+43	opposite is a kind of different	nongold
+44	sexual reproduction produces offspring with genetic material from both parents; cells with genetic material from both parent cells	nongold
+45	fertilization is a stage in the sexual reproduction process	nongold
+46	something that happens is a kind of event	nongold
+47	if an event is required for a process then that event must occur before that process can occur	nongold
+48	animals reproduce sexually	nongold
+49	plant reproduction; seed production requires pollination	nongold
+50	vegetation means plants	nongold
+51	life means living things	nongold
+52	to cross means to pass	nongold
+53	fertilization is a kind of process	nongold
+54	conversion is a kind of process	nongold
+55	Which process in plants is most similar to sexual reproduction in vertebrates?	question
+56	pollination is a kind of process for plant reproduction	nongold
+57	a mammal is a kind of animal	nongold
+58	producing is a kind of process	nongold
+59	pollination requires pollinators; pollinating animals	nongold
+60	a process is a kind of event	nongold
+61	plant requires seed dispersal for reproduction	nongold
+62	a tree is a kind of living thing	nongold
+63	increase means more	nongold
+64	to give is similar to to cause	nongold
+65	gamete means sex cell	nongold
+66	reproduction increases the number; population of a living thing	nongold
+67	volvox reproduces sexually	nongold
+68	pollinating is a kind of function	nongold
+69	can be means able to be	nongold
+70	emit means produce	nongold
+71	a flower produces pollen and seeds	nongold
+72	if a living thing requires something then that something has a positive impact on that living thing	nongold
+73	sexual reproduction is a source of genetic variation; naturally occurring variation in offspring; in a species	nongold
+74	a component of something means a part of that something	nongold
+75	sexual reproduction in animals is when egg; sperm join together	nongold
+76	pollinated means after pollination	nongold
+77	cross-pollination	answer
+78	an animal is a kind of eukaryote	nongold
+79	nectar is used for attracting pollinators by plants	nongold
+80	a plant; living thing requires food for survival	nongold
+81	a plant is a member of a plant species	nongold
+82	a living thing is a kind of object	nongold
+83	evolution is a kind of process	nongold
+84	a backbone is a part of a vertebrate animal	nongold
+85	a process usually requires all of the stages in that process	nongold
+86	a cycle is a kind of process	nongold
+87	reproduction produces; produce offspring	nongold
+88	change is a kind of process	nongold
+89	a reptile is a kind of vertebrate	nongold
+90	sexual reproduction is a kind of reproduction	nongold
+91	a tree is a kind of plant	nongold
+92	an event is a kind of action	nongold
+93	pollen is part of a flower for reproduction	nongold
+94	living things can all reproduce	nongold
+95	to produce means to result in	nongold
+96	high is similar to increase	nongold
+97	a type is synonymous with a kind	nongold
+98	reproduction is a kind of process	nongold
+99	process is similar to method	nongold
+100	animals require fertilization to reproduce	nongold

@@ -1,0 +1,102 @@
+Question	A student examines a new watch design. The watch has a small solar cell on its face. The main function of the solar cell is to	question
+Answer	provide an energy source for the watch.	answer
+0	a watch requires electrical energy to operate	nongold
+1	sunlight is a kind of solar energy	nongold
+2	sunlight means solar energy	nongold
+3	a source of something emits; produces; generates; provides that something	nongold
+4	to provide something means to be the source of that something	nongold
+5	a watch;clock;stopwatch is used for measuring time	nongold
+6	a student is a kind of human	nongold
+7	solar energy is a kind of energy	gold
+8	solar cells convert solar energy into electrical energy	gold
+9	solar energy is a kind of light	nongold
+10	the function of something is what that something  is used to do	nongold
+11	solar power means solar energy	nongold
+12	providing is a kind of function	gold
+13	a cell is a kind of object	nongold
+14	solar energy is a source of electricity	nongold
+15	to power means to provide energy for	nongold
+16	an energy source is a kind of resource	nongold
+17	solar energy is a kind of heat energy	nongold
+18	a cell is very small	nongold
+19	sunlight is a kind of light	nongold
+20	function is similar to purpose	nongold
+21	solar radiation means solar energy	nongold
+22	provide is similar to give; make	nongold
+23	if something is required then that something must be provided	nongold
+24	the sun is the source of solar energy called sunlight	nongold
+25	a living thing is a kind of object	nongold
+26	electrical energy is a kind of energy	nongold
+27	something is used for that something's purpose	nongold
+28	a device requires energy to operate	nongold
+29	to be used for something means to be required by that something	nongold
+30	a device is a kind of object	nongold
+31	being used for is similar to providing	nongold
+32	if something is powered by something else then that something requires a source of that something else	nongold
+33	to be a vehicle for is a kind of function	nongold
+34	if something requires something else then that something requires a source of that something else	nongold
+35	solar energy is a renewable; inexhaustible resource	nongold
+36	the sun is a source of radiation; heat called sunlight	nongold
+37	instrument means device	nongold
+38	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+39	providing structure is a kind of function	nongold
+40	if something contains something , then something is able to provide something	nongold
+41	solar cell is similar to photovoltaic cell	nongold
+42	to provide means to supply	nongold
+43	a source of something supplies that something	nongold
+44	a living thing is made of cells	nongold
+45	resources sometimes are used for energy	nongold
+46	a human is a kind of animal	nongold
+47	a plant cell is a kind of cell	nongold
+48	a function is an activity	nongold
+49	a function is a kind of characteristic	nongold
+50	an object; material; substance comes from that object or material's source	nongold
+51	to depend on; to rely on; to need means to require	nongold
+52	if two things perform the same function then those two things are similar	nongold
+53	an part of an object is smaller than the entire object	nongold
+54	where something  comes from is a source of that something	nongold
+55	electricity is used as an energy source by electrical devices	nongold
+56	objects are made of materials; substances; matter	nongold
+57	all cells require energy	nongold
+58	light is a kind of energy	nongold
+59	light is a kind of energy	nongold
+60	an animal cell is a kind of cell	nongold
+61	to work means to function	nongold
+62	electricity means electrical energy	nongold
+63	a solar panel converts sunlight; solar energy into electrical energy; electricity	nongold
+64	to produce means to provide	nongold
+65	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+66	an instrument is a piece of equipment	nongold
+67	the sun is a source of light; light energy called sunlight	nongold
+68	answering questions requires information	nongold
+69	inspect; observe means examine	nongold
+70	if something comes from something else then that something else is a source of that something	nongold
+71	the solar system is a kind of system	nongold
+72	solar energy is an inexhaustible resource	nongold
+73	new means different from the former one	nongold
+74	to run on means to use as an energy source	nongold
+75	light means light energy	nongold
+76	if something generates energy for something else then that something powers that something else	nongold
+77	providing support is a kind of function	nongold
+78	causing is a kind of function	nongold
+79	device means tool	nongold
+80	a supply of something is a source of that something	nongold
+81	containing something is similar to providing that something	nongold
+82	electric devices require electrical energy to function	nongold
+83	requiring something means needing that something	nongold
+84	if something transfers something else then that something is a source of something else	gold
+85	the sun  is the source of energy for physical cycles on Earth	nongold
+86	a source of something increases the amount of that something	nongold
+87	solar cells often are made of silicon	nongold
+88	instrument means tool	nongold
+89	a human cell is a kind of cell	nongold
+90	a solar panel is made of solar cells	nongold
+91	to have a function is similar to to be responsible for	nongold
+92	if something performs a task then that task is that something's function	nongold
+93	a producer is a source of energy for consumers	nongold
+94	if an object is made of a material then that object has the properties of that material	nongold
+95	if something causes a process then that something is required for that process	nongold
+96	role means function	nongold
+97	a machine is a kind of  device	nongold
+98	examining is a kind of process	nongold
+99	to watch means to look at	nongold

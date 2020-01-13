@@ -1,0 +1,100 @@
+0	Which of these locations in the solar system contains the most asteroids?	question
+1	between Mars and Jupiter	answer
+2	Jupiter is a kind of planet	gold
+3	Jupiter is a kind of outer planet	nongold
+4	Mars is a kind of planet	gold
+5	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+6	Mars is a kind of inner planet	nongold
+7	the asteroid belt is located between Mars and Jupiter	gold
+8	Jupiter is the planet that is fifth closest to the Sun	nongold
+9	the solar system contains asteroids	nongold
+10	Mars is the planet that is fourth closest to the  Sun	nongold
+11	an asteroid is a kind of celestial object	nongold
+12	contains means located in	nongold
+13	most means over 50% of something	nongold
+14	Earth is greater in mass than Mars	nongold
+15	Mars contains ice	nongold
+16	the Mars Rover is a kind of vehicle	nongold
+17	a planet is a kind of location	nongold
+18	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+19	the asteroid belt contains asteroids	nongold
+20	place is synonymous with location	nongold
+21	the asteroid belt contains the largest concentration of asteroids in the solar system	gold
+22	made of is similar to contains	nongold
+23	place means space	nongold
+24	the solar system contains the moon	nongold
+25	the solar system is a kind of system	nongold
+26	system means a set of objects	nongold
+27	located means situated	nongold
+28	Neptune is a kind of planet in the solar system	nongold
+29	the solar system contains eight planets	gold
+30	to be found in means to be contained in	nongold
+31	largest amount means most	gold
+32	made up of means contains; made of	nongold
+33	how many means what number	nongold
+34	greatest means largest; highest; most amount of something	nongold
+35	a type is synonymous with a kind	nongold
+36	answering questions requires information	nongold
+37	place means area	nongold
+38	a planet is a kind of place	nongold
+39	celestial bodies; celestial objects are found in space	nongold
+40	area is similar to location	nongold
+41	amount is similar to number	nongold
+42	a planet is a kind of celestial object; body	nongold
+43	Malta is located in the northern hemisphere	nongold
+44	a region is a kind of location	nongold
+45	Mali is located in the southern hemisphere	nongold
+46	if something is located  in somewhere , then something can be found in somewhere	nongold
+47	moons; comets; planets are part of the solar system	nongold
+48	to tell the difference between things means to classify those things	nongold
+49	celestial objects are located in outer space	nongold
+50	Maldives is located in the northern hemisphere	nongold
+51	to contain something means to have that something	nongold
+52	the Sun is a kind of star	nongold
+53	if something is located in some place , then the presence of that something can be found in that location	nongold
+54	furthest; farthest means greatest; most; highest in distance	nongold
+55	distance is a property of space and includes ordered values of close; far	nongold
+56	if something is a part of something else then that something else contains that something	nongold
+57	location is a kind of information	nongold
+58	place; location is synonymous with position	nongold
+59	an asteroid is made of rock and metal	nongold
+60	a landform is a kind of place	nongold
+61	a landform is a kind of place	nongold
+62	planets in the solar system orbit the Sun	nongold
+63	to contain means to have inside	nongold
+64	a body system is a kind of object	nongold
+65	the number of parts of something is a property of that something	nongold
+66	if two objects are apart from each other then matter is between those two objects	nongold
+67	many means high in number	nongold
+68	classifying is when one sorts something by kind; type	nongold
+69	including means containing	nongold
+70	if something is made of something; a material then that something contains that something; that material	nongold
+71	Venus is a kind of planet	nongold
+72	all the other means the rest of	nongold
+73	June is a kind of month	nongold
+74	one is a kind of number	nongold
+75	Earth is a kind of planet	nongold
+76	usually means most of the time	nongold
+77	mostly means being the most	nongold
+78	the Kuiper Belt contains orbiting comets and asteroids	nongold
+79	inner planets are located on the opposite side of the asteroid belt from outer planets	nongold
+80	Jordan is located in the northern hemisphere	nongold
+81	a planet contains environments	nongold
+82	events occur at a specific place; at a specific time; with a specific frequency	nongold
+83	the asteroid belt orbits the sun	nongold
+84	if something does not move then that something can be found in the same location	nongold
+85	to be made of means to consist of	nongold
+86	setting is a kind of motion	nongold
+87	location is a kind of relationship	nongold
+88	four is a kind of number	nongold
+89	Saturn is a kind of planet	nongold
+90	if something does not contain something else then that something lacks that something else	nongold
+91	fewer means lower; less in number	nongold
+92	a state is a kind of place	nongold
+93	less is the opposite of more	nongold
+94	one in  two means half; 50%	nongold
+95	high is similar to increase	nongold
+96	an event is a kind of action	nongold
+97	a living thing is a kind of object	nongold
+98	if something required by something else is in a place then that something else may be in that place	nongold
+99	both means two	nongold

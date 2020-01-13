@@ -1,0 +1,102 @@
+0	producing is a kind of function	nongold
+1	maintain is similar to control	nongold
+2	a computer controlling a robot is similar to a brain controlling a human body	nongold
+3	a cell nucleus is a part of a cell	gold
+4	a neuron is a kind of nervous system cell	nongold
+5	resource management means managing the use of resources	nongold
+6	unit is similar to part	nongold
+7	a nerve cell is a kind of cell	nongold
+8	if something performs a task then that task is that something's function	nongold
+9	causing is a kind of affecting	nongold
+10	role is similar to importance	nongold
+11	causing is a kind of function	nongold
+12	to regulate means to maintain the speed of a process	nongold
+13	a cell is very small	nongold
+14	regulation is when an organism maintains a stable internal environment	nongold
+15	a plant is a kind of living thing	nongold
+16	what something is made of is a property of the organization or that something	nongold
+17	an animal's brain controls that animal	nongold
+18	the function of something is what that something  is used to do	nongold
+19	controlling is a kind of function	nongold
+20	cell activity means cell process	nongold
+21	a process is a kind of event	nongold
+22	revolving is a kind of action	nongold
+23	mixing is a kind of activity	nongold
+24	limiting something is a kind of activity	nongold
+25	creating is a kind of activity	nongold
+26	the nucleus is a kind of cell organelle	nongold
+27	a brain is a kind of internal organ	nongold
+28	something is used for that something's purpose	nongold
+29	a single-cell organism cannot specialize	nongold
+30	a component means a part of	nongold
+31	living things perform biological processes	nongold
+32	a plant is a kind of organism	nongold
+33	rest is a kind of activity	nongold
+34	role means function	nongold
+35	part means role	nongold
+36	dissolving is a kind of action	nongold
+37	action means activity	nongold
+38	a source of something emits; produces; generates; provides that something	nongold
+39	a motion is a kind of event; action	nongold
+40	function is similar to purpose	nongold
+41	a human cell is a kind of cell	nongold
+42	a prokaryotic cell does not contain a nucleus	nongold
+43	DNA are found in the nucleus of the cell	nongold
+44	a plant is made of plant cells	nongold
+45	a body cell means a somatic cell	nongold
+46	allowing is a kind of controlling	nongold
+47	the cell is the most basic structural unit of life	nongold
+48	a component of something means a part of that something	nongold
+49	plants are a kind of resource	nongold
+50	reading is a kind of activity	nongold
+51	an animal is a kind of organism	nongold
+52	a plant cell is box-like in shape	nongold
+53	aspect of something is similar to part of something	nongold
+54	the nervous system is used for controlling the body	nongold
+55	the nervous system is the vehicle for controlling the body	nongold
+56	a function is an activity	gold
+57	nucleus is synonymous with core; center	nongold
+58	can be means able to be	nongold
+59	determining is similar to controlling	nongold
+60	a whole is formed by its parts	nongold
+61	a brain is a part of an animal	nongold
+62	an animal cell is a kind of cell	nongold
+63	an animal is a kind of living thing	nongold
+64	coordinate is similar to control	nongold
+65	to work means to function	nongold
+66	Nucleus	answer
+67	reproducing is a kind of activity	nongold
+68	purpose means role	nongold
+69	the nucleus contains genetic material for reproduction	nongold
+70	causing means influencing	nongold
+71	an organism is a living thing	nongold
+72	attracting is a kind of function; activity	nongold
+73	controlling a population is similar to decreasing a population	nongold
+74	to have a function is similar to to be responsible for	gold
+75	cells are a smaller level of organization than tissues in living things	nongold
+76	actions mean behavior	nongold
+77	Which part of a plant cell is responsible for controlling the activities of the other parts of the cell?	question
+78	regulating is a kind of function	nongold
+79	plant parts are made of plants	nongold
+80	a living thing is made of cells	nongold
+81	to cause means to be responsible for	nongold
+82	polluting is a kind of activity	nongold
+83	An example of biological regulation is insulin being released to control the amount of sugar in blood	nongold
+84	commuting is a kind of activity	nongold
+85	a mechanism is a kind of system that performs a function	nongold
+86	affected means changed	nongold
+87	sensory organs are used for sensing	nongold
+88	adding is a kind of activity	nongold
+89	the brain can control animal body through the nervous system	nongold
+90	becoming is a kind of action	nongold
+91	action can cause change	nongold
+92	an event is a kind of action	nongold
+93	a plant cell is a kind of cell	gold
+94	a cell is a kind of object	nongold
+95	the cell nucleus controls many of the functions of the cell	gold
+96	forming is a kind of action	nongold
+97	to be involved in something means to have a role in something	nongold
+98	to be a vehicle for is a kind of function	nongold
+99	growing is a kind of activity	nongold
+100	RNA are found in the nucleus of the cell	nongold
+101	if two things perform the same function then those two things are similar	nongold

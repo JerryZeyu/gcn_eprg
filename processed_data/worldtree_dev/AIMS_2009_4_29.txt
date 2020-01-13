@@ -1,0 +1,102 @@
+Question	A refrigerator uses electricity to create a cold place to store food. What negative impact does refrigerator use have on the environment?	question
+Answer	Old refrigerators contain chemicals and take up space in landfills.	answer
+0	landfills have a negative impact on the environment; communities	gold
+1	refrigerators contain harmful chemicals	gold
+2	humans move waste to a  landfill for disposal;storage	gold
+3	an landfill is a source of pollution	nongold
+4	place means space	nongold
+5	a freezer; refrigerator is cool; cold in temperature	nongold
+6	a refrigerator is a kind of appliance	gold
+7	recycling reduces; decreases the amount of waste sent to landfills	nongold
+8	if a substance has volume , then the substance takes up space	nongold
+9	chemicals means substances	nongold
+10	contain is similar to store	nongold
+11	negative impact is the opposite of positive impact	nongold
+12	place is synonymous with location	nongold
+13	harming something has a  negative impact on; effect on that something	nongold
+14	cold temperatures usually have a negative impact on organisms	nongold
+15	to impact means to affect	nongold
+16	waste has a  negative impact on the environment	nongold
+17	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+18	impact means effect	nongold
+19	electricity means electrical energy	nongold
+20	place means area	nongold
+21	to contain something means to have that something	nongold
+22	something in a cold place becomes cold	nongold
+23	a refrigerator is used for keeping food fresh for a long period of time	nongold
+24	human waste often causes harm to an environment	nongold
+25	an environment is a kind of place	nongold
+26	decreasing something negative has a positive impact on a thing	nongold
+27	if something is required for a process then that something positively impacts that process	nongold
+28	space is a kind of resource	nongold
+29	electricity sometimes is used for heating buildings; substances	nongold
+30	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+31	old is the opposite of new	nongold
+32	a container contains objects; material; substances	nongold
+33	to cause means to have an effect	nongold
+34	if something is made of something; a material then that something contains that something; that material	nongold
+35	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+36	decreasing something positive has a negative impact on a thing	nongold
+37	food is a kind of substance	nongold
+38	absorbing something harmful has a negative impact on a thing	nongold
+39	to contain means to have inside	nongold
+40	recycling has a  positive impact on the environment	nongold
+41	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+42	to be used for something means to be required by that something	nongold
+43	temperature is a measure of heat energy	nongold
+44	cold means low in temperature	nongold
+45	if something absorbs something else then that something will contain that something else	nongold
+46	to create means to make	nongold
+47	area; space is a kind of resource	nongold
+48	take away means decreasing	nongold
+49	to change means to have an effect	nongold
+50	if something is a part of something else then that something else contains that something	nongold
+51	cold environments usually have little food for animals	nongold
+52	substances have chemical properties	nongold
+53	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+54	if a living thing requires something then that something has a positive impact on that living thing	nongold
+55	something harmful can cause harm	nongold
+56	if something is a source of something else then that something usually contains that something else	nongold
+57	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+58	change is a kind of impact	nongold
+59	a warm environment usually has more food than a cold environment	nongold
+60	made of is similar to contains	nongold
+61	room contains walls	nongold
+62	to produce means to create	nongold
+63	degrading is similar to having a negative impact	nongold
+64	processes sometimes produce waste products	nongold
+65	to store means to hold	nongold
+66	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+67	to place in is similar to to move to	nongold
+68	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+69	humans discarding waste in an environment causes harm to that environment	nongold
+70	creating is similar to causing	nongold
+71	a source of something emits; produces; generates; provides that something	nongold
+72	to increase is similar to to create	nongold
+73	organisms are a part of an environment	nongold
+74	a concern; a problem is a possible negative impact	nongold
+75	heat means heat energy	nongold
+76	food is a kind of object	nongold
+77	take in means absorb	nongold
+78	An example of a container is room	nongold
+79	cold environments contain few organisms	nongold
+80	objects are made of materials; substances; matter	nongold
+81	to reduce means to decrease	nongold
+82	objects in an environment are a part of that environment	nongold
+83	An example of recycling is using an object to make a new object	nongold
+84	a room is a kind of container	nongold
+85	creating means making	nongold
+86	chemicals can be pollutants	nongold
+87	to lower means to decrease	nongold
+88	if something no longer exists; ceases to exist then the space occupied by that something is free now	nongold
+89	if something required by something else is in a place then that something else may be in that place	nongold
+90	objects contain chemical energy	nongold
+91	contains means located in	nongold
+92	to generate means to create	nongold
+93	if something exists on a surface then that surface contains that something	nongold
+94	colder; cooler means lower in temperature	nongold
+95	to use means to utilize	nongold
+96	electrical devices are used for industrial purposes; household purposes by humans	nongold
+97	pollutants have a negative impact on the environment; air quality	nongold
+98	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+99	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold

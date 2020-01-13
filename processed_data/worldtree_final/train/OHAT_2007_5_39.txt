@@ -1,0 +1,102 @@
+0	The weather forecast says a heavy snowstorm is coming later today. Which weather observation is likely just before the snow?	question
+1	thick grey clouds	answer
+2	weather forecast means weather prediction	nongold
+3	grey clouds appear before precipitation	gold
+4	grey clouds are a source of precipitation	gold
+5	a cloud is a kind of weather	gold
+6	snowstorm is a kind of weather	nongold
+7	storm is a kind of weather; weather event	nongold
+8	rain; snow falls	nongold
+9	a thunderstorm is a kind of storm	nongold
+10	snow is a kind of precipitation	gold
+11	a blizzard is a kind of storm	nongold
+12	precipitation is a kind of weather	nongold
+13	cold fronts cause thunderstorms as they pass by	nongold
+14	cloudy means the presence  of clouds in the sky	nongold
+15	snowing is when snow fall from clouds to the Earth;ground	gold
+16	cloudy is a kind of  weather	nongold
+17	a weather report describes weather	nongold
+18	a blizzard is a source of heavy snow	nongold
+19	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	gold
+20	snowfall means the amount of precipitation in snow form	nongold
+21	clouds are usually found in the sky	nongold
+22	a storm is a source of precipitation	nongold
+23	snow is cold	nongold
+24	thunder occurs during thunderstorms	nongold
+25	preparing for a storm requires predicting the occurrence of that storm	nongold
+26	an increase is a kind of change	nongold
+27	high is similar to increase	nongold
+28	rain is a kind of precipitation	nongold
+29	cold is a kind of weather	nongold
+30	clouds are made of water vapor; rain droplets	nongold
+31	rainstorm means rain storm	nongold
+32	clouds produce precipitation	nongold
+33	the day time is part of one day	nongold
+34	days are a kind of unit for measuring time	nongold
+35	a cloud is a kind of object	nongold
+36	a storm is usually a source of strong winds	nongold
+37	snowy means a large amount of snow	nongold
+38	hail is a kind of precipitation; ice	nongold
+39	a cloudy day has little sunlight	nongold
+40	predicting weather requires studying weater	nongold
+41	satellite technology is used for predicting the weather	nongold
+42	to lower means to decrease	nongold
+43	how long something takes is a kind of measurement of time	nongold
+44	lightning occurs during lightning storms; thunderstorms	nongold
+45	increase means more	nongold
+46	weather  usually happens in troposphere	nongold
+47	weather is  a measure of the condition of the air in a place at a certain time	nongold
+48	measuring is a kind of observing	nongold
+49	a change is a kind of event	nongold
+50	thickness is  a measure of how thick an object  is	nongold
+51	snow is a kind of ice	nongold
+52	clouds produce rain	nongold
+53	to happen means to occur	nongold
+54	precipitation is when water falls from the sky	nongold
+55	winter is a part of the year	nongold
+56	cloudy is a kind of sky condition	nongold
+57	greatest means largest; highest; most amount of something	nongold
+58	answering questions requires information	nongold
+59	an event is a kind of action	nongold
+60	extreme means very high in value	nongold
+61	to change means to cause a change	nongold
+62	frozen means solid	nongold
+63	winter has cold temperatures;weather	nongold
+64	a measure of time is a length of time	nongold
+65	to cause an event means to make that event more likely	nongold
+66	when clouds become cold , those clouds will condense	nongold
+67	tornado is a kind of weather	nongold
+68	a motion is a kind of event; action	nongold
+69	sky conditions are a property of weather	nongold
+70	freezing means cold temperatures	nongold
+71	a decrease is a kind of change	nongold
+72	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+73	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+74	a warm front causes cloudy and rainy weather	nongold
+75	wind means moving air	nongold
+76	snow falls during the winter in some environments	nongold
+77	a type is synonymous with a kind	nongold
+78	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+79	temperature is a property of weather	nongold
+80	to reduce means to decrease	nongold
+81	low is similar to decrease	nongold
+82	precipitation is a property of weather	nongold
+83	month is a kind of period of time	nongold
+84	to create means to make	nongold
+85	weather changes from seasons to seasons	nongold
+86	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+87	winter is a kind of season	nongold
+88	clear weather means sunny; not cloudy; not rainy weather	nongold
+89	weather is a source of wind and water for the weathering process	nongold
+90	as the size of a cloud increases , the amount  of precipitation contained in that cloud will increase	nongold
+91	an increase is the opposite of a decrease	nongold
+92	cloudy conditions cause a low-pressure weather system	nongold
+93	Tuesday is a kind of  time	nongold
+94	something that happens is a kind of event	nongold
+95	types of clouds can be used to predict the possibility of tornadoes developing in a location	nongold
+96	months are a kind of unit for measuring time	nongold
+97	if weather is stormy then there is a greater chance of rain	nongold
+98	storms;rain cause bodies of water to increase amount of water they contain	nongold
+99	the afternoon is  a part of the day	nongold
+100	clouds are formed by water vapor rising into colder regions of the atmosphere and condensing	nongold
+101	distant means great in distance	nongold

@@ -1,0 +1,101 @@
+0	Sleet and hail are forms of	question
+1	precipitation	answer
+2	sleet is a kind of precipitation	gold
+3	hail is a kind of precipitation; ice	gold
+4	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+5	sleet is when raindrops freeze as they fall	nongold
+6	sleet is a kind of ice	nongold
+7	rain is a kind of precipitation	nongold
+8	sleet is made of ice	nongold
+9	precipitation is when water falls from the sky	nongold
+10	precipitation is a kind of weather	nongold
+11	hailing is when hail fall from clouds to the Earth;ground	nongold
+12	precipitation is a property of weather	nongold
+13	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+14	snow is a kind of precipitation	nongold
+15	rain is a kind of water	nongold
+16	precipitation is a kind of natural occurrence; cause	nongold
+17	form means kind	gold
+18	rain; snow falls	nongold
+19	snowfall means the amount of precipitation in snow form	nongold
+20	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+21	a storm is a source of precipitation	nongold
+22	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+23	rainfall means precipitation	nongold
+24	storm is a kind of weather; weather event	nongold
+25	rainfall means the amount of precipitation	nongold
+26	snow is a kind of ice	nongold
+27	to be made of something means to be formed of that something	nongold
+28	rain is a source of water	nongold
+29	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+30	ice is a kind of solid	nongold
+31	snowing is when snow fall from clouds to the Earth;ground	nongold
+32	state means form	nongold
+33	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+34	ice is a kind of object	nongold
+35	both means two	nongold
+36	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+37	precipitation is a kind of  natural process	nongold
+38	snow is a kind of object	nongold
+39	rainfall is the amount of rain an area receives	nongold
+40	water is a kind of substance	nongold
+41	water is a kind of liquid at room temperature	nongold
+42	a blizzard is a kind of storm	nongold
+43	to add means to increase	nongold
+44	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+45	high is similar to increase	nongold
+46	rainstorm means rain storm	nongold
+47	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+48	a type is synonymous with a kind	nongold
+49	freezing causes a solid to form	nongold
+50	frozen means solid	nongold
+51	low pressure systems cause precipitation	nongold
+52	storms;rain cause bodies of water to increase amount of water they contain	nongold
+53	water is a kind of matter	nongold
+54	icy means made of ice	nongold
+55	a blizzard is a source of heavy snow	nongold
+56	sinkholes; caves are formed by precipitation; infiltration	nongold
+57	snowstorm is a kind of weather	nongold
+58	an increase is the opposite of a decrease	nongold
+59	an area receiving rain means rain falling in that area	nongold
+60	an event is a kind of action	nongold
+61	freezing means cold temperatures	nongold
+62	to reduce means to decrease	nongold
+63	winter has cold temperatures;weather	nongold
+64	precipitation is a stage in the water cycle process	nongold
+65	frost is a kind of solid water	nongold
+66	temperature is a property of weather	nongold
+67	freezing is a kind of phase change	nongold
+68	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+69	a source of something emits; produces; generates; provides that something	nongold
+70	a change is a kind of event	nongold
+71	temperature is a measure of heat energy	nongold
+72	ice is a kind of water phase	nongold
+73	a solid is a kind of substance	nongold
+74	an increase is a kind of change	nongold
+75	greatest means largest; highest; most amount of something	nongold
+76	furthest; farthest means greatest; most; highest in distance	nongold
+77	to give is similar to to cause	nongold
+78	In the water cycle , collection as snow; collection as ice can follow precipitation	nongold
+79	winter is a part of the year	nongold
+80	ground water is a kind of water	nongold
+81	rainwater is a kind of water	nongold
+82	lakes are formed by precipitation and runoff	nongold
+83	weather is a property of a environment	nongold
+84	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+85	cycles of freezing and thawing water cause ice wedging	nongold
+86	low is similar to decrease	nongold
+87	weather changes from seasons to seasons	nongold
+88	water is a kind of object	nongold
+89	moisture means liquid; liquid water	nongold
+90	ice is cold in temperature	nongold
+91	snowy means a large amount of snow	nongold
+92	a body of water contains water	nongold
+93	to lower means to decrease	nongold
+94	objects are made of materials; substances; matter	nongold
+95	affected means changed	nongold
+96	Earth contains water; ice; (steam, water vapor)	nongold
+97	a liquid is a kind of substance	nongold
+98	something that happens is a kind of event	nongold
+99	an object; material; substance comes from that object or material's source	nongold
+100	colder; cooler means lower in temperature	nongold

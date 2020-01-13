@@ -1,0 +1,102 @@
+Question	A negative effect of the invention and use of paper is the	question
+Answer	increased number of trees cut down.	answer
+0	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+1	an invention is a kind of tool	nongold
+2	trees are a source of paper	nongold
+3	a paper is a kind of object	nongold
+4	creating paper requires cutting down trees	gold
+5	paper is a kind of material	nongold
+6	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+7	impact means effect	gold
+8	a tree is a kind of living thing	nongold
+9	creating wood-free paper does not require cutting down trees	nongold
+10	a tree is a kind of plant	nongold
+11	if a tree is cut down then that tree will die	nongold
+12	inventing a tool allows; enables that tool to be used	nongold
+13	paper is recyclable	nongold
+14	cutting down a forest means cutting down the trees in that forest	nongold
+15	adverse effect means negative impact	nongold
+16	negative impact is the opposite of positive impact	nongold
+17	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	gold
+18	an increase is the opposite of a decrease	nongold
+19	harming something has a  negative impact on; effect on that something	nongold
+20	planting trees is the opposite of cutting down trees	nongold
+21	roots are a part of a plant; tree	nongold
+22	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+23	amount is similar to number	gold
+24	removing a forest means cutting down a forest	nongold
+25	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+26	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+27	high is similar to increase	nongold
+28	removing a forest means cutting down the trees in that forest	nongold
+29	an increase is a kind of change	nongold
+30	a decrease is a kind of change	nongold
+31	timber companies cut down trees	nongold
+32	many means high in number	nongold
+33	a source of something increases the amount of that something	nongold
+34	clearing a forest means humans cutting down the trees	nongold
+35	how many means what number	nongold
+36	a negative impact is a kind of consequence; risk	nongold
+37	a plant is a kind of living thing	nongold
+38	the number of parts of something is a property of that something	nongold
+39	developing means creating; inventing	nongold
+40	a sheet of paper is a kind of object	nongold
+41	decreasing something positive has a negative impact on a thing	nongold
+42	one is a kind of number	nongold
+43	to impact means to affect	nongold
+44	if something emits something else then that something increases the amount of that something else	nongold
+45	helping something has a  positive impact on that something	nongold
+46	decreasing something negative has a positive impact on a thing	nongold
+47	to cause means to have an effect	nongold
+48	building usually requires cutting down trees	nongold
+49	to add means to increase	nongold
+50	increase means more	nongold
+51	humans usually develop inventions that they require	nongold
+52	to change means to have an effect	nongold
+53	less is similar to decrease	nongold
+54	to reduce means to decrease	nongold
+55	deforestation is the process of cutting down trees	nongold
+56	logging is when humans cut down trees; forests for wood	nongold
+57	deforested area means an area where trees have been cut down	nongold
+58	to lower means to decrease	nongold
+59	low is similar to decrease	nongold
+60	if something is required for a process then that something positively impacts that process	nongold
+61	to make means to invent	nongold
+62	something harmful can cause harm	nongold
+63	solution is similar to a positive impact	nongold
+64	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+65	a forest contains  lots of plants; trees	nongold
+66	growth means size;number;value;strength increases	nongold
+67	getting something increases the amount of that something	nongold
+68	destroying a forest means cutting down the trees in that forest	nongold
+69	a plant is a kind of organism	nongold
+70	if a living thing requires something then that something has a positive impact on that living thing	nongold
+71	fewer means lower; less in number	nongold
+72	green plants are a kind of producer	nongold
+73	damage means harm	nongold
+74	person is synonymous with human	nongold
+75	higher means greater; above in value; amount; number	nongold
+76	to be used for something means to be required by that something	nongold
+77	cutting means changing the object from a whole into smaller pieces	nongold
+78	lowest means least in value; amount; number	nongold
+79	paper is not durable	nongold
+80	clearing a forest is similar to deforestation	nongold
+81	a tree is a kind of matter	nongold
+82	greatest means largest; highest; most amount of something	nongold
+83	fire causes harm to trees; to forests; to living things	nongold
+84	some species of tree are deciduous	nongold
+85	a leaf is a part of a tree	nongold
+86	a positive impact is a helpful effect	nongold
+87	using an object often requires creating that object	gold
+88	change is a kind of impact	nongold
+89	the assembly line is a kind of invention	nongold
+90	paper is flexible	nongold
+91	largest amount means most	nongold
+92	to help; to benefit means to be of use	nongold
+93	best means most positive	nongold
+94	trees are a renewable resource	nongold
+95	a branch is a part of a tree	nongold
+96	a type is synonymous with a kind	nongold
+97	trees are a kind of natural resource	nongold
+98	as the cause of something decreases , that something will decrease	nongold
+99	good means positive	nongold

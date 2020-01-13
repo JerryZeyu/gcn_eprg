@@ -1,0 +1,101 @@
+0	Rocks that contain fragments of bones, shells, and plant remains are most likely	question
+1	sedimentary.	answer
+2	sedimentary is a kind of rock	gold
+3	bones can be fossilized	gold
+4	nearly all fossils are found in sedimentary rock	gold
+5	sedimentary rocks are made of small particles	nongold
+6	sedimentary rocks are formed by deposition; cementation	nongold
+7	fossils are formed when layers of sediment cover the remains of organisms over time	nongold
+8	sedimentary rocks are formed by sediment; materials that settle compacting; cementing together	nongold
+9	An example of a fossil is the bones of an extinct animal	nongold
+10	shells can be fossilized	nongold
+11	a shell is a kind of fossil	gold
+12	made up of means contains; made of	nongold
+13	a bone is a part of some animals	gold
+14	sediment is formed from rock	nongold
+15	a shell is a part of some animals	gold
+16	only fossils formed from organisms that lived in the sea are found in the oldest layers of sedimentary rock	nongold
+17	including means containing	nongold
+18	organisms can be preserved in sedimentary rock	nongold
+19	a rock is usually a solid	nongold
+20	remains mean parts of a dead organism	nongold
+21	remains is similar to dead organisms	nongold
+22	rock is a kind of material	nongold
+23	class is a property of a rock and includes values of sedimentary; metamorphic; igneous	nongold
+24	if something is a part of something else then that something else contains that something	nongold
+25	plants can be fossilized	gold
+26	sediment is a kind of matter	nongold
+27	sediment is formed by weathering	nongold
+28	fossil means preserved remains of ancient organisms	gold
+29	contains means located in	nongold
+30	made of is similar to contains	nongold
+31	to contain something means to have that something	nongold
+32	to be filled with means to contain	nongold
+33	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	nongold
+34	to be found in means to be contained in	gold
+35	an object is made of its parts	nongold
+36	a plant is a kind of organism	nongold
+37	a rock is a kind of object	nongold
+38	to contain means to have inside	nongold
+39	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	nongold
+40	if something is a source of something else then that something usually contains that something else	nongold
+41	to break down means to break into smaller pieces	nongold
+42	bone is hard	nongold
+43	if something is made of something; a material then that something contains that something; that material	nongold
+44	a mollusk is a kind of animal	nongold
+45	a bone is a part of a body	nongold
+46	to be made of means to consist of	nongold
+47	plant parts are made of plants	nongold
+48	a dinosaur is a kind of extinct animal	nongold
+49	rock is made of minerals	nongold
+50	landform means surface feature; physical feature; land feature	nongold
+51	composed of means made of	nongold
+52	rock means stone	nongold
+53	sediment falls to the bottom of bodies of water	nongold
+54	rocks often contain large amounts of metal	nongold
+55	an animal is a kind of living thing	gold
+56	if something is made of something else then that something can be broken down into that something else	nongold
+57	sedimentary rocks are often light brown in color	nongold
+58	if something does not contain something else then that something lacks that something else	nongold
+59	a plant is a kind of living thing	gold
+60	sedimentary rocks often have different colored layers	nongold
+61	a structure of something is synonymous with a part of that something	nongold
+62	most means over 50% of something	nongold
+63	metamorphosed rock is a kind of rock	nongold
+64	a component means a part of	nongold
+65	a landform is a kind of natural formation	nongold
+66	containing something is similar to holding something	nongold
+67	if something absorbs something else then that something will contain that something else	nongold
+68	the parts of something make up that something	nongold
+69	a trilobite is a kind of water animal	nongold
+70	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+71	prehistoric means before 300000000 years ago	nongold
+72	preserved means from the past; from long ago	nongold
+73	break down means change from a whole into pieces	nongold
+74	class is a measure of how a rock is formed	nongold
+75	a type is synonymous with a kind	nongold
+76	if something is a part of something then that something can be found in that something	nongold
+77	rock is a kind of nonliving thing	nongold
+78	no longer means used to be	nongold
+79	shale is a kind of sedimentary rock	nongold
+80	a component of something means a part of that something	nongold
+81	if an object is made of something then the parts of that object are made of that something	nongold
+82	rocks sometimes contain aluminum	nongold
+83	an animal is a kind of organism	nongold
+84	a living thing is a kind of object	nongold
+85	environments changing can cause layers of rock that are near each other or on top of each other to have different amounts of fossils; different kinds of rock	nongold
+86	weathering; mechanical weathering means breaking down rocks; surface materials from a larger whole  into smaller pieces by weather	nongold
+87	classifying is when one sorts something by kind; type	nongold
+88	piles of rock are a kind of landform	nongold
+89	sediment is similar to soil	nongold
+90	contain is similar to store	nongold
+91	rocks sometimes contain iron	nongold
+92	different classes of rocks are formed by different methods	nongold
+93	objects are made of materials; substances; matter	nongold
+94	to create means to make	nongold
+95	dead plants means dead plant material	nongold
+96	a piece of something is a kind of object	nongold
+97	weathering; erosion usually occurs over a period of many years	nongold
+98	limestone is a kind of sedimentary rock	nongold
+99	a pebble is a kind of small rock	nongold
+100	a source of something emits; produces; generates; provides that something	nongold

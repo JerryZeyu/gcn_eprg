@@ -1,0 +1,102 @@
+Question	In an electric motor, electrical energy is converted into	question
+Answer	mechanical energy.	answer
+0	an electric motor converts electrical energy into mechanical energy	gold
+1	an electric motor is a kind of electrical device	nongold
+2	mechanical energy is a kind of energy	nongold
+3	an electric car contains an electric motor	nongold
+4	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+5	electricity means electrical energy	nongold
+6	kinetic energy is a kind of mechanical energy	nongold
+7	a simple machine requires mechanical energy to function	nongold
+8	electric devices require electrical energy to function	nongold
+9	to turn means to convert	nongold
+10	to transform means to convert	nongold
+11	electrical energy is a kind of energy	nongold
+12	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+13	a machine is a kind of  device	nongold
+14	when an animal moves , chemical energy is converted to mechanical energy	nongold
+15	mechanical energy of a system includes the sum of kinetic energy and potential energy  in the system	nongold
+16	conversion is a kind of process	nongold
+17	a machine is a kind of object	nongold
+18	convert is similar to transfer	nongold
+19	An example of mechanical energy is an object in motion	nongold
+20	an electric car is a kind of invention	nongold
+21	to convert means to change	nongold
+22	mechanical energy is used to move something by animals	nongold
+23	converting is similar to producing	nongold
+24	active transport converts chemical energy into mechanical energy	nongold
+25	a device requires energy to operate	nongold
+26	an automobile is a kind of vehicle	nongold
+27	a device is a kind of object	nongold
+28	a fan converts electrical energy into mechanical energy; heat energy; sound energy	nongold
+29	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+30	electrical devices are used for industrial purposes; household purposes by humans	nongold
+31	an electric motor is  a part of an electric fan for rotating the vanes in the fan	nongold
+32	sound is produced when mechanical energy is transformed into sound energy	nongold
+33	electricity is used as an energy source by electrical devices	nongold
+34	mechanical energy can  cause objects to move	nongold
+35	a vehicle is a kind of object	nongold
+36	converting is a kind of function	nongold
+37	converting is similar to generating	nongold
+38	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+39	to power means to provide energy for	nongold
+40	a car is a kind of vehicle	nongold
+41	a source of something emits; produces; generates; provides that something	nongold
+42	an electrical device requires electricity to turn on	nongold
+43	if something transfers something else then that something is a source of something else	nongold
+44	the formation of lightning converts mechanical energy into electrical energy	nongold
+45	to provide something means to be the source of that something	nongold
+46	forming is similar to converting	nongold
+47	converting is similar to turning into	nongold
+48	a heat engine converts heat energy into mechanical energy	nongold
+49	an electromagnet is a kind of electric magnet	nongold
+50	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+51	a complex machine is made of more than one simple machine	nongold
+52	generate means produce	nongold
+53	device means tool	nongold
+54	electrical impulses are a kind of electrical energy	nongold
+55	a simple machine is a kind of tool	nongold
+56	energy transformation means one kind of energy changes into another kind of energy	nongold
+57	an electromagnet is a kind of device	nongold
+58	a car is a kind of automobile	nongold
+59	if something is powered by something else then that something requires a source of that something else	nongold
+60	electromagnets can be powered by electricity	nongold
+61	mechanical force is a kind of mechanical energy	nongold
+62	converting is similar to releasing	nongold
+63	a car engine is a part of a car	nongold
+64	waves contain mechanical energy	nongold
+65	transfer is a kind of process	nongold
+66	to drive means to cause	nongold
+67	objects are made of materials; substances; matter	nongold
+68	can be means able to be	nongold
+69	if something generates energy for something else then that something powers that something else	nongold
+70	energy conversion is similar to energy transformation	nongold
+71	to be used for something means to be required by that something	nongold
+72	a car is a kind of object	nongold
+73	a generator converts kinetic energy into electrical energy; electricity	nongold
+74	motion is a source of kinetic energy in an object	nongold
+75	friction converts mechanical energy into heat energy	nongold
+76	if something releases something else then that something is the source of that something else	nongold
+77	An electrical conductor is a vehicle for the flow of electricity	nongold
+78	a part of a process means a stage in a process	nongold
+79	if something causes a process then that something is required for that process	nongold
+80	magnetism is a kind of energy	nongold
+81	a rocket is a kind of mechanical system	nongold
+82	to conduct is similar to to transfer	nongold
+83	solid is a kind of state of matter	nongold
+84	instrument means device	nongold
+85	a vehicle transmits something	nongold
+86	if something gains something from something else then that something else is a source of that something	nongold
+87	a bicycle contains levers; wheels and axles; pulleys; screws	nongold
+88	conductivity is a property of a material; substance	nongold
+89	a wheel and axle is a kind of simple machine	nongold
+90	the function of something is what that something  is used to do	nongold
+91	a process is a kind of event	nongold
+92	emit means produce	nongold
+93	wheels are a part of a car	nongold
+94	if something requires something else then that something requires a source of that something else	nongold
+95	to be made of something means to be formed of that something	nongold
+96	if the amount of electricity converted from the potential energy of an object is less than the amount of potential energy in the object , then the  potential energy is converted into other energy other than electricity	nongold
+97	thermal energy is a kind of energy	nongold
+98	a tool is a kind of object	nongold
+99	a doorbell converts electrical energy; electricity into sound energy	nongold

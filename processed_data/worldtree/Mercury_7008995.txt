@@ -1,0 +1,102 @@
+Question	Sonar equipment sends waves into deep water and measures the	question
+Answer	time delay of the reflected waves.	answer
+0	sound wave can be used to measure distance by measuring the time delay of the reflected wave	gold
+1	sonar equipment is a source of sound waves	gold
+2	sonar usually is used for  locating objects underwater	nongold
+3	ocean wave is a kind of wave	nongold
+4	waves are made of moving water	nongold
+5	shallow means low  in  depth	nongold
+6	reflecting light; sound is the opposite of absorbing light; sound	nongold
+7	sonar is used to find the location of an object by sound waves	nongold
+8	an ocean is a kind of body of water	nongold
+9	an instrument is a piece of equipment	nongold
+10	deeper means greater in depth	nongold
+11	an ocean contains waves	nongold
+12	a wave is a kind of object	nongold
+13	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+14	to bounce back means to reflect	nongold
+15	seconds are used to measure time	nongold
+16	instrument means device	nongold
+17	water is a kind of substance	nongold
+18	water is a kind of object	nongold
+19	instrument means tool	nongold
+20	sound wave is a kind of wave	nongold
+21	a deep sea animal is a kind of marine organism	nongold
+22	underwater means below water	nongold
+23	a body of water is a source of water	nongold
+24	electromagnetic wave is a kind of  wave	nongold
+25	to reflect light means to scatter light	nongold
+26	how long something takes is a kind of measurement of time	nongold
+27	as the distance decreases ,  the period  of time a reflected wave uses to return will decrease	nongold
+28	deepest means greatest in depth	nongold
+29	the ability to reflect is a property of sound wave	nongold
+30	emit means send out	nongold
+31	Rossby wave is a kind of ocean wave	nongold
+32	device means tool	nongold
+33	instantaneously means short in time	nongold
+34	a device is a kind of object	nongold
+35	seconds are a kind of unit for measuring time	nongold
+36	a body of water is a kind of environment	nongold
+37	frequency is a property of a wave; a particel of light; an event	nongold
+38	a body of water contains water	nongold
+39	sound wave is similar to sound	nongold
+40	sound wave is a kind of mechanical wave	nongold
+41	water is a kind of matter	nongold
+42	events occur at a specific place; at a specific time; with a specific frequency	nongold
+43	an event is a kind of action	nongold
+44	a wave is formed by the vibration of the source spreading around from the source	nongold
+45	reflection is when particles bounce off a surface	nongold
+46	to send means to transfer	nongold
+47	radiation is when electromagnetic waves transfers heat and light energy	nongold
+48	electromagnetic wave is not a mechanical wave	nongold
+49	acoustic signal is a kind of sound wave	nongold
+50	waves can travel through matter	nongold
+51	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+52	reflection is a kind of process	nongold
+53	a measure of time is a length of time	nongold
+54	water is a kind of liquid at room temperature	nongold
+55	a motion is a kind of event; action	nongold
+56	sea means ocean	nongold
+57	a measurement is a kind of data	nongold
+58	a tool is a kind of object	nongold
+59	the function of something is what that something  is used to do	nongold
+60	material means substance	nongold
+61	a short wavelength has low; little distance before it repeats	nongold
+62	an object; material; substance comes from that object or material's source	nongold
+63	waves travel outward from the source	nongold
+64	light is a kind of wave	nongold
+65	length of time means period of time	nongold
+66	marine is similar to water	nongold
+67	wavelength is a property of wave	nongold
+68	a reflecting telescope is a kind of telescope	nongold
+69	can be means able to be	nongold
+70	water is a part of an environment	nongold
+71	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+72	all waves transfer; transmit energy from one place to another	nongold
+73	a unit for measuring time is a kind of time interval	nongold
+74	a process is a kind of event	nongold
+75	variable means able to change	nongold
+76	high is similar to increase	nongold
+77	water causes refraction of light	nongold
+78	rate is similar to speed	nongold
+79	speed is  a measure of how fast the wave passes the medium	nongold
+80	a component of something means a part of that something	nongold
+81	a component means a part of	nongold
+82	electromagnetic energy travels as electromagnetic waves	nongold
+83	light is a kind of electromagnetic radiation	nongold
+84	a surface is a part of an object	nongold
+85	echo is when sound reflects off of a surface	nongold
+86	bodies of water are located on Earth's surface	nongold
+87	faster means increased rate	nongold
+88	a surface is a part of a material	nongold
+89	radio wave is a kind of electromagnetic wave	nongold
+90	a living thing is a kind of object	nongold
+91	a reflector is used to reflect light especially on vehicles	nongold
+92	water is a kind of medium for light	nongold
+93	a type is synonymous with a kind	nongold
+94	a part of a process means a stage in a process	nongold
+95	answering questions requires information	nongold
+96	the bottom of a body of water is the deepest	nongold
+97	faster means an increase; higher in speed	nongold
+98	bouncing something back means reflecting that something	nongold
+99	all electromagnetic waves have the same speed of 300000 km/s	nongold

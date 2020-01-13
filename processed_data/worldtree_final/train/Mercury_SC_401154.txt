@@ -1,0 +1,100 @@
+0	Pollen is necessary for a flowering plant to	question
+1	reproduce.	answer
+2	pollen is part of a flower for reproduction	gold
+3	plant reproduction; seed production requires pollination	gold
+4	plant reproduction often requires pollen	nongold
+5	a flower contains pollen for sexual reproduction	nongold
+6	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+7	In the flowering plant life cycle , pollination is part of reproduction	nongold
+8	In the flowering plant life cycle , flowering is part of reproduction	nongold
+9	a flower is a kind of plant	nongold
+10	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	gold
+11	to depend on; to rely on; to need means to require	nongold
+12	a flower produces pollen and seeds	nongold
+13	requiring something means needing that something	nongold
+14	to be required means to be necessary	gold
+15	a flower is a kind of object	nongold
+16	pollination is a kind of process for plant reproduction	nongold
+17	pollination requires pollinators; pollinating animals	nongold
+18	a flower's purpose is to produce seeds	nongold
+19	essential means required	nongold
+20	a flower is a source of nectar	nongold
+21	reproduction increases the number; population of a living thing	nongold
+22	In the flowering plant life cycle , pollination can follow flowering	nongold
+23	a plant is a kind of living thing	nongold
+24	a plant is a kind of organism	nongold
+25	reproduction is a kind of process	nongold
+26	cross-pollination is a stage in the plant reproduction process	nongold
+27	if something causes a process then that something is required for that process	nongold
+28	reproduction produces; produce offspring	nongold
+29	living things can all reproduce	nongold
+30	seed dispersal has a positive impact on a plant; a plant's reproduction	nongold
+31	as the number of pollinators attracted to a flower; a plant increases , the ability of that flower; of that plant to reproduce will increase	nongold
+32	plant requires seed dispersal for reproduction	nongold
+33	green plants are a kind of producer	nongold
+34	to be used for something means to be required by that something	nongold
+35	pollinator means pollinating animal	nongold
+36	a leaf is a kind of object	nongold
+37	a source of something emits; produces; generates; provides that something	nongold
+38	to produce means to provide	nongold
+39	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+40	a living thing is a kind of object	nongold
+41	a wildflower is a kind of flower	nongold
+42	reproduction is a stage in the life cycle process	nongold
+43	to reproduce means to have; to produce offspring	nongold
+44	pollinated means after pollination	nongold
+45	a leaf is a part of a  green plant	nongold
+46	a leaf is a kind of plant	nongold
+47	In the flowering plant life cycle , reproduction can follow growth	nongold
+48	pollinating is a kind of function	nongold
+49	a producer is a kind of living thing	nongold
+50	if something is required then that something must be provided	nongold
+51	a stem is often a part of plant	nongold
+52	In the flowering plant life cycle , fruiting is part of reproduction	nongold
+53	a leaf performs photosynthesis; gas exchange	nongold
+54	answering questions requires information	nongold
+55	if something requires something else then that something requires a source of that something else	nongold
+56	a plant is a member of a plant species	nongold
+57	In the flowering plant life cycle , fruiting can follow pollination	nongold
+58	a plant; living thing requires food for survival	nongold
+59	requiring is similar to needing help	nongold
+60	if something is required for a process then that something positively impacts that process	nongold
+61	reproduction ensures the continuation of a plant or animal species	nongold
+62	must have means require	nongold
+63	to provide something means to be the source of that something	nongold
+64	an organism is a living thing	nongold
+65	an animal; living thing requires nutrients for survival	nongold
+66	if a living thing requires something then that something has a positive impact on that living thing	nongold
+67	a food contains nutrients for living things	nongold
+68	nectar is used for attracting pollinators by plants	nongold
+69	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+70	reproduction is when an organism passes genetic information from itself to its offspring	nongold
+71	emit means produce	nongold
+72	a plant requires photosynthesis to grow; survive	nongold
+73	a process usually requires all of the stages in that process	nongold
+74	a plant; living thing requires nutrients to grow	nongold
+75	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+76	a leaf is a kind of plant organ	nongold
+77	In the flowering plant life cycle , seed	nongold
+78	In the flowering plant life cycle , flowering can follow growth	nongold
+79	if something is required for something else then that something allows that something else	nongold
+80	if an event occurs by adding something then that event requires that something	nongold
+81	if something requires something else then that something else is important to that something	nongold
+82	a tree is a kind of living thing	nongold
+83	a tree is a kind of plant	nongold
+84	producing is similar to causing	nongold
+85	converting is similar to producing	nongold
+86	an animal is a kind of living thing	nongold
+87	some flowers become fruits	nongold
+88	high is similar to increase	nongold
+89	In the flowering plant life cycle , growth can follow germination	nongold
+90	producer is a kind of role in the food chain process; in an ecosystem	nongold
+91	producing is a kind of process	nongold
+92	a leaf is a part of a tree	nongold
+93	a requirement is a kind of limitation	nongold
+94	In the food chain process a  green plant has the role of  producer	nongold
+95	bees convert nectar into honey for food	nongold
+96	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+97	a legume is a kind of plant	nongold
+98	bees eat pollen	nongold
+99	to input means to add	nongold

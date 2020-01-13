@@ -1,0 +1,57 @@
+0	all living things grow	nongold
+1	soil is a kind of material	nongold
+2	a handle is a kind of object	nongold
+3	an object is an item	gold
+4	a human is a kind of animal	nongold
+5	nature is the source of natural resources	nongold
+6	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	nongold
+7	a spoon is a kind of object	gold
+8	to be made of means to consist of	nongold
+9	if a container contains something then that container touches that something	nongold
+10	conductivity is a property of a material; substance	nongold
+11	materials are used for making products by manufacturers	nongold
+12	made of is similar to contains	nongold
+13	a plastic spoon	answer
+14	a bowl is a kind of container	nongold
+15	vegetation means plants	nongold
+16	plants are a part of the environment	nongold
+17	an object is an item	gold
+18	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+19	an environment is a kind of place	nongold
+20	if something is a raw material then that something comes directly from a source	nongold
+21	plastic is a kind of material made by humans	gold
+22	a container contains objects; material; substances	nongold
+23	metal is a kind of material	nongold
+24	a spoon is a kind of object	gold
+25	metal is a thermal; thermal energy conductor	nongold
+26	plastic is a kind of material made by humans	gold
+27	answering questions requires information	nongold
+28	a liquid is a kind of substance	nongold
+29	a plastic spoon	answer
+30	a device is a kind of object	nongold
+31	a plant; living thing requires nutrients to grow	nongold
+32	a plastic spoon is made of plastic	gold
+33	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+34	plastic is a kind of material made by humans	gold
+35	a plastic spoon is made of plastic	gold
+36	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+37	natural resources are found in nature	nongold
+38	instrument means tool	nongold
+39	a plant is a kind of living thing	nongold
+40	In the food chain process a  green plant has the role of  producer	nongold
+41	the atmosphere is a part of nature; the environment	nongold
+42	Which item below is NOT made from a material grown in nature?	question
+43	an environment means an area	nongold
+44	an object is made of its parts	nongold
+45	a plastic spoon	answer
+46	a plastic spoon	answer
+47	a fungus is a kind of organism	nongold
+48	a plastic spoon is made of plastic	gold
+49	food is a kind of substance	nongold
+50	an object is an item	gold
+51	a natural ecosystem contains native living things only	nongold
+52	Which item below is NOT made from a material grown in nature?	question
+53	Which item below is NOT made from a material grown in nature?	question
+54	a spoon is a kind of object	gold
+55	Which item below is NOT made from a material grown in nature?	question
+56	growing means a plant's height;mass;size increase	nongold

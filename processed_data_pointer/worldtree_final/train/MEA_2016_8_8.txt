@@ -1,0 +1,102 @@
+0	a drought is a kind of natural disaster	nongold
+1	a drought occurs over a period of months; years	nongold
+2	fewer means lower; less in number	nongold
+3	some animals live in forests	nongold
+4	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+5	looking like is similar to camouflaging as	nongold
+6	coloration means a thing's color	nongold
+7	less is similar to decrease	nongold
+8	light is a kind of nonliving thing	nongold
+9	an animal is a kind of living thing	gold
+10	green plants are a kind of producer	nongold
+11	to lower means to decrease	nongold
+12	harming an organism can cause that organism to die	nongold
+13	coloration is a kind of adaptation for hiding;camouflage	nongold
+14	a forest contains  lots of plants; trees	nongold
+15	a plant is a kind of organism	nongold
+16	a plant is a kind of living thing	nongold
+17	a dense forest environment often is dark in color	nongold
+18	a drought is a kind of slow environmental change	nongold
+19	a plant requires a habitat for survival	nongold
+20	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+21	an animal is a member of an animal species	nongold
+22	dark is the opposite of light	nongold
+23	drying means amount of water; amount of liquid; wetness decreases	nongold
+24	an animal; living thing requires nutrients for survival	nongold
+25	color is a property of  an object; a material	gold
+26	low is similar to decrease	nongold
+27	to reduce means to decrease	nongold
+28	a beetle is a kind of insect	gold
+29	mostly means being the most	nongold
+30	drought is when amount of precipitation decreases	nongold
+31	animals; living things live and feed in their habitats; near their habitats	nongold
+32	a tree is a kind of plant	nongold
+33	coloration means a pattern of colors	nongold
+34	small is the opposite of large	nongold
+35	an insect is a kind of animal	gold
+36	a drought can change the color of an environment from green to brown	gold
+37	drought may cause wildfires	nongold
+38	dry means low in amount of water; wetness; moisture	nongold
+39	high is similar to increase	nongold
+40	an insect is a kind of prey	nongold
+41	an part of an object is smaller than the entire object	nongold
+42	dark means dark in color	nongold
+43	dark means a low amount of light	nongold
+44	forest is synonymous with wooded area	nongold
+45	a forest environment usually is green in color	nongold
+46	a tree is a kind of living thing	nongold
+47	if an organism dies then the population of that organism will decrease	nongold
+48	fewest means lowest; least in number	nongold
+49	a drought is a kind of natural event	nongold
+50	an organism is a living thing	gold
+51	killing means harming something causing death	nongold
+52	death means to die	nongold
+53	a plants; living things require water for survival; to grow	nongold
+54	a dry environment is low in availability of water	nongold
+55	as dryness increases in an environment , the available water in that environment will decrease	nongold
+56	a population is made of one type of organism in an area	nongold
+57	if a plant; crop requires less water then that plant; crop will survive in a drought	nongold
+58	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+59	killing a living thing decreases the number; population size of that living thing	nongold
+60	A population of small, plant-eating beetles lives in a forest. About half of the beetles are light brown and the others are dark green. If years of drought cause the area to become dry with few trees, what would the beetle population most likely look like after several generations?	question
+61	a part of something means a characteristic of something	nongold
+62	a forest is a kind of ecosystem	nongold
+63	organisms; living things live in their habitat; their home	nongold
+64	little is similar to decrease	nongold
+65	negative impacts on a species will decrease populations of a species	nongold
+66	An insect is a pollinating animal	nongold
+67	drought means available water decreases in an environment	nongold
+68	lack is similar to low; little	nongold
+69	habitat is similar to environment	nongold
+70	animals; living things require water for survival	nongold
+71	nonliving; non-living; die is the opposite of living; alive; live	nongold
+72	an environment is a kind of place	nongold
+73	sometimes nonnative species have no natural predators	nongold
+74	colorless means no color	nongold
+75	a living thing is a kind of object	gold
+76	living things can all reproduce	nongold
+77	most predators live in; live near the same environment as their prey	nongold
+78	harming an animal species has a  negative impact on the population size of that species	nongold
+79	brown is dark in color	nongold
+80	brown is a kind of color	gold
+81	a tree is a kind of habitat	nongold
+82	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+83	a forest is a kind of environment	gold
+84	an environment means an area	nongold
+85	killing means changing a living thing from alive to dead by harming	nongold
+86	plants are a part of the environment	nongold
+87	harming something has a  negative impact on; effect on that something	nongold
+88	green is a kind of color	gold
+89	if a living thing dies then that living thing is dead	nongold
+90	changes in an environment cause animals; plants to adapt to survive	nongold
+91	predators eat prey	nongold
+92	eating an animal; a plant means killing that animal; that plant	nongold
+93	the color of an environment means the color of the things that environment contains	nongold
+94	a plant; living thing requires food for survival	nongold
+95	organisms are a part of an environment	nongold
+96	life means living things	nongold
+97	harming an animal species causes that animal's population to decrease	nongold
+98	wet is the opposite of dry	nongold
+99	an insect usually has a small size	nongold
+100	It would be mostly light brown beetles.	answer
+101	an increase is the opposite of a decrease	nongold

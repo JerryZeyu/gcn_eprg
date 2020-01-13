@@ -1,0 +1,102 @@
+Question	Alex looked at an electric toothbrush that had a plug with three metal prongs. Why are these prongs made out of metal?	question
+Answer	Metal is a conductor and completes a circuit when you plug it into the outlet.	answer
+0	when an electrical conductor is plugged into an outlet , a circuit is completed	gold
+1	an electric toothbrush is a kind of electric device	gold
+2	a prong is a kind of object	gold
+3	metal is an  electrical; electrical energy conductor	gold
+4	completing a circuit causes electricity; electric current to flow  through that circuit	gold
+5	metal is a thermal; thermal energy conductor	nongold
+6	a complete electrical circuit is a source of  electrical energy	gold
+7	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+8	closing an electric circuit causes an electrical device to function	nongold
+9	pushing a button sometimes completes a circuit	nongold
+10	a thermal conductor is made of materials that conduct thermal energy	nongold
+11	flipping a switch completes an electrical circuit	nongold
+12	metals are made of metal	nongold
+13	plastic is usually an electrical insulator	nongold
+14	an insulator is the opposite of a conductor	nongold
+15	plugging many appliances into one outlet is dangerous	nongold
+16	plastic is a kind of electrical insulator	nongold
+17	if an object is made of a material then that object has the properties of that material	gold
+18	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+19	the function of something is what that something  is used to do	nongold
+20	to be used for something means to be required by that something	nongold
+21	a good conductor is a conductor	nongold
+22	an electric outlet is a source of electricity	nongold
+23	wiring requires an electrical conductor	nongold
+24	a circuit is a kind of electrical component	nongold
+25	metal is a kind of material	gold
+26	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+27	metal is a kind of substance	nongold
+28	a device is a kind of object	nongold
+29	if an object is made of something then the parts of that object are made of that something	nongold
+30	incomplete is the opposite of complete	nongold
+31	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+32	objects are made of materials; substances; matter	nongold
+33	an electrical device requires electricity to turn on	nongold
+34	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+35	a machine is a kind of  device	nongold
+36	an insulator is a kind of material	nongold
+37	wood is an thermal; thermal energy insulator	nongold
+38	a tool is a kind of object	nongold
+39	wood is a thermal; thermal energy insulator	nongold
+40	tool is similar to appliance	nongold
+41	being  on something; placed in something; placed over something means touching  that something	nongold
+42	steel is a kind of metal	nongold
+43	device means tool	nongold
+44	a machine is a kind of object	nongold
+45	electric devices require electrical energy to function	gold
+46	person is synonymous with human	nongold
+47	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+48	closing is similar to completing	nongold
+49	electrical devices are used for industrial purposes; household purposes by humans	nongold
+50	metal is usually flexible	nongold
+51	electricity means electrical energy	nongold
+52	material means substance	nongold
+53	electrocution causes harm to an organism	nongold
+54	a product is a kind of object	nongold
+55	water is an thermal; thermal energy conductor	nongold
+56	an electromagnet is a kind of electric magnet	nongold
+57	an object is made of its parts	nongold
+58	a container contains objects; material; substances	nongold
+59	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+60	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+61	a source of something emits; produces; generates; provides that something	nongold
+62	conductivity is a property of a material; substance	gold
+63	An electrical conductor is a vehicle for the flow of electricity	gold
+64	rubber is thermal;thermal energy insulator	nongold
+65	dental is similar to tooth	nongold
+66	when a switch in a simple series circuit is closed , electricity will flow through the circuit	nongold
+67	an object has properties	nongold
+68	a living thing is a kind of object	nongold
+69	creating a simple circuit requires a wire; battery	nongold
+70	a tooth is a kind of bone	nongold
+71	plastic is a kind of material made by humans	nongold
+72	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+73	if one electrical conductor contacts another electrical conductor then electricity will flow through both conductors	nongold
+74	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+75	a resistor is used to control the amount of current in the electric circuit	nongold
+76	rubbing different materials can cause electrical charge	nongold
+77	materials are made of matter	nongold
+78	can be means able to be	nongold
+79	if something has the ability to do something else , then that something can do that something else	nongold
+80	a surface is a part of a material	nongold
+81	nervous system is an electrical; electric conductor	nongold
+82	counter means reduce; stop; resist	nongold
+83	a battery-operated device is a kind of electrical device	nongold
+84	if something performs a task then that task is that something's function	nongold
+85	if one is holding an object then one is touching that object	nongold
+86	if something is made of something; a material then that something contains that something; that material	nongold
+87	when an electrical circuit is working properly , electrical current runs through that circuit; the wires in that circuit	nongold
+88	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+89	helping means something can be done; completed more easily; better	nongold
+90	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+91	an electromagnet is a kind of device	nongold
+92	flipping; pushing a switch means using; activating that switch	nongold
+93	if something is powered by something else then that something requires a source of that something else	nongold
+94	substances are made of matter	nongold
+95	matter; materials; substances are made of atoms; particles	nongold
+96	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+97	conductivity is a measure of how easily electricity travels through a material	nongold
+98	a type is synonymous with a kind	nongold
+99	a container is a kind of object	nongold

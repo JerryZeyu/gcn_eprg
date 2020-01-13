@@ -1,0 +1,55 @@
+0	fossil fuels are a nonrenewable resource	gold
+1	oil is a kind of fossil fuel	gold
+2	oil	answer
+3	all elements are a kind of pure substance	nongold
+4	a fossil fuel is a kind of natural resource	nongold
+5	oil is a kind of energy resource	gold
+6	oil	answer
+7	green plants are a kind of producer	nongold
+8	carbon dioxide is a kind of gas	nongold
+9	a producer is a source of energy for consumers	nongold
+10	if something is powered by something else then that something requires a source of that something else	nongold
+11	fossil fuels are a nonrenewable resource	gold
+12	plants are a kind of resource	nongold
+13	a component means a part of	nongold
+14	sulfur dioxide is formed by the combustion of fossil fuels	nongold
+15	oil is a kind of pollutant	nongold
+16	to be used for something means to be required by that something	nongold
+17	resources sometimes are used for energy	nongold
+18	if something gains something from something else then that something else is a source of that something	nongold
+19	producing renewable electric energy requires renewable resources	nongold
+20	oil is a kind of fossil fuel	gold
+21	products are formed; are produced; are created	nongold
+22	fossil fuel contains chemical energy	nongold
+23	coal is a kind of fossil fuel	nongold
+24	a change is a kind of event	nongold
+25	coal is a nonrenewable resource	nongold
+26	if something causes a process then that something is required for that process	nongold
+27	oil is  insoluble in water	nongold
+28	renewable is the opposite of nonrenewable	nongold
+29	oil is a kind of energy resource	gold
+30	Which energy resource is non-renewable?	question
+31	fossil fuels are a nonrenewable resource	gold
+32	oil is a kind of fossil fuel	gold
+33	if something comes from something else then that something else is a source of that something	nongold
+34	a material is a kind of resource	nongold
+35	Which energy resource is non-renewable?	question
+36	renewable resources are often available for many years	nongold
+37	oil is a kind of liquid	nongold
+38	a biofuel is a kind of alternative energy resource	nongold
+39	fuel is a kind of energy source	nongold
+40	animals are a renewable resource	nongold
+41	Which energy resource is non-renewable?	question
+42	where something  comes from is a source of that something	nongold
+43	oil	answer
+44	oil	answer
+45	a renewable resource is a kind of natural resource	nongold
+46	if something is a raw material then that something comes directly from a source	nongold
+47	Which energy resource is non-renewable?	question
+48	wave energy is a renewable resource	nongold
+49	if something is a raw material in a process then that something is required for that process	nongold
+50	an event is a kind of action	nongold
+51	oil is a kind of energy resource	gold
+52	oil is used for producing electricity	nongold
+53	if something requires something else then that something requires a source of that something else	nongold
+54	An example of conservation is not using fossil fuel	nongold

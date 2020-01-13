@@ -1,0 +1,102 @@
+Question	A scientific guess about the cause and effect of an event is called	question
+Answer	a hypothesis.	answer
+0	hypothesis means scientific guess about the cause and effect of an event	gold
+1	a hypothesis is a kind of scientific term	nongold
+2	to cause means to have an effect	nongold
+3	an event is a kind of action	nongold
+4	impact means effect	nongold
+5	something that happens is a kind of event	nongold
+6	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+7	to be a source of something means to cause that something	nongold
+8	a cause of something is a reason for that something	nongold
+9	events occur at a specific place; at a specific time; with a specific frequency	nongold
+10	a motion is a kind of event; action	nongold
+11	determine is similar to cause	nongold
+12	experiment is synonymous with test	nongold
+13	a process is a kind of event	nongold
+14	to change means to have an effect	nongold
+15	an asteroid impact is a kind of event	nongold
+16	event is similar to occurrence	nongold
+17	a theory is more accepted; tested than a hypothesis	nongold
+18	An example of evidence for a scientific theory is observations	nongold
+19	a change is a kind of event	nongold
+20	to happen means to occur	nongold
+21	to cause means to result in	nongold
+22	form means kind	nongold
+23	to discover means to make a discovery	nongold
+24	if something is caused by something else , then that something can be explained by that something else	nongold
+25	a theory is a kind of scientific term	nongold
+26	to cause an event is similar to being involved in that event	nongold
+27	scientists make observations	nongold
+28	to conclude means to make a conclusion	nongold
+29	causing means influencing	nongold
+30	to lead to means to cause	nongold
+31	an animal is a kind of organism	nongold
+32	classifying is when one sorts something by kind; type	nongold
+33	to give is similar to to cause	nongold
+34	producing is similar to causing	nongold
+35	experimentation requires measuring	nongold
+36	result means outcome	nongold
+37	to cause means to make	nongold
+38	observations; data are a part of the results of an experiment	nongold
+39	to change means to cause a change	nongold
+40	chance means likelihood	nongold
+41	determining often requires measuring; observing	nongold
+42	can be means able to be	nongold
+43	a scientist is a kind of human	nongold
+44	identifying is similar to determining	nongold
+45	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+46	boiling is a kind of event	nongold
+47	to impact means to affect	nongold
+48	a type is synonymous with a kind	nongold
+49	classifying is a kind of science process	nongold
+50	change is a kind of impact	nongold
+51	a human is a kind of animal	nongold
+52	state means form	nongold
+53	a result of something is evidence of that something	nongold
+54	a source of something emits; produces; generates; provides that something	nongold
+55	the Moon is Earth's moon	nongold
+56	to cause something means to contribute to that something happening	nongold
+57	an earthquake is a kind of natural; geological event	nongold
+58	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+59	affected means changed	nongold
+60	approximately means about	nongold
+61	an organism is a living thing	nongold
+62	the effects of something is a property of that something	nongold
+63	to enable is similar to cause	nongold
+64	United States is located in the northern hemisphere	nongold
+65	to cause an event means to make that event more likely	nongold
+66	to produce means to result in	nongold
+67	due to means caused by	nongold
+68	to be used for something means to be required by that something	nongold
+69	action can cause change	nongold
+70	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+71	a forest fire is a kind of event	nongold
+72	definite is the opposite of variable	nongold
+73	classifying means grouping objects; materials by their properties	nongold
+74	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+75	Earth is a kind of planet	nongold
+76	an animal is a kind of living thing	nongold
+77	plants appearing on Earth is a kind of event	nongold
+78	influence means effect	nongold
+79	causing is a kind of affecting	nongold
+80	concluding is a kind of action	nongold
+81	determining the type of an organism requires having information about that organism	nongold
+82	a comet is a kind of celestial body	nongold
+83	to keep a process or event happening is similar to causing that process or event to happen	nongold
+84	a moon is a kind of celestial object; body	nongold
+85	a volcano is a kind of geological event	nongold
+86	warning  people of something requires knowing about; predicting that something	nongold
+87	a law is a kind of scientific term	nongold
+88	matter; materials; substances are made of atoms; particles	nongold
+89	movements of celestial bodies are a kind of event	nongold
+90	a component of something means a part of that something	nongold
+91	astronomy is the study of celestial (objects, bodies)	nongold
+92	a planet is a kind of celestial object; body	nongold
+93	a comet is a kind of celestial object	nongold
+94	if something used to be in the past then that something  has changed	nongold
+95	a component means a part of	nongold
+96	a fungus is a kind of organism	nongold
+97	absorption is a kind of event	nongold
+98	a living thing is a kind of object	nongold
+99	action means activity	nongold

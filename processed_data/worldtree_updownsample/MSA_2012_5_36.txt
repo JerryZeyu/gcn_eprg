@@ -1,0 +1,68 @@
+0	if something is places over a heat source then that something is exposed to that heat source	nongold
+1	copper is a kind of metal	gold
+2	an element is a kind of material	nongold
+3	rubber is thermal;thermal energy insulator	gold
+4	copper is a kind of transition metal	nongold
+5	plastic is usually an electrical insulator	gold
+6	a thermal insulator slows; prevents the transfer of heat	nongold
+7	copper is always nonmagnetic	nongold
+8	rubber is a kind of material	nongold
+9	a good conductor is a conductor	nongold
+10	Some materials are electrical conductors. Which material best conducts electricity?	question
+11	electricity is used as an energy source by electrical devices	nongold
+12	a thermal conductor is made of materials that conduct thermal energy	nongold
+13	metal is a kind of material	gold
+14	electricity sometimes is used for heating buildings; substances	nongold
+15	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+16	nonmetal means not metal	nongold
+17	electricity means electrical energy	gold
+18	heat is a kind of energy	nongold
+19	aluminum is a kind of element	nongold
+20	wood is an thermal; thermal energy insulator	gold
+21	metal is a kind of material	gold
+22	material means substance	nongold
+23	metal is an  electrical; electrical energy conductor	gold
+24	an insulator is a kind of material	nongold
+25	Some materials are electrical conductors. Which material best conducts electricity?	question
+26	metal is an  electrical; electrical energy conductor	gold
+27	soft iron; iron is always ferromagnetic; magnetic	nongold
+28	An electrical conductor is a vehicle for the flow of electricity	nongold
+29	copper is a kind of metal	gold
+30	rubber is thermal;thermal energy insulator	gold
+31	plastic is usually an electrical insulator	gold
+32	copper is a kind of element	nongold
+33	copper	answer
+34	rubber is a kind of nonmetal	nongold
+35	electrical signals are made of electrical energy	nongold
+36	plastic is usually an electrical insulator	gold
+37	a metal is a kind of element	nongold
+38	an object; material; substance comes from that object or material's source	nongold
+39	helping something has a  positive impact on that something	nongold
+40	metal is a kind of material	gold
+41	an insulator is the opposite of a conductor	gold
+42	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+43	zinc is a kind of metal	nongold
+44	an insulator is the opposite of a conductor	gold
+45	metal is an  electrical; electrical energy conductor	gold
+46	rubber is thermal;thermal energy insulator	gold
+47	copper	answer
+48	wood is an thermal; thermal energy insulator	gold
+49	wood is an thermal; thermal energy insulator	gold
+50	Some materials are electrical conductors. Which material best conducts electricity?	question
+51	copper	answer
+52	brick is an electrical; electrical energy insulator	nongold
+53	conductivity is a property of a material; substance	nongold
+54	conduction is a kind of process	nongold
+55	ceramic is a kind of material	nongold
+56	to give off means to be the source of	nongold
+57	steel is a kind of metal	nongold
+58	electricity means electrical energy	gold
+59	copper	answer
+60	a device is a kind of object	nongold
+61	an insulator is the opposite of a conductor	gold
+62	iron is a kind of metal	nongold
+63	metal is a thermal; thermal energy conductor	nongold
+64	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+65	copper is a kind of metal	gold
+66	Some materials are electrical conductors. Which material best conducts electricity?	question
+67	electricity means electrical energy	gold

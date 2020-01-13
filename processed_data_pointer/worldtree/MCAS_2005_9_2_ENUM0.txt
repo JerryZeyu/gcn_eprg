@@ -1,0 +1,102 @@
+Question	Foam weather stripping is often placed in the frames of doors and windows in a home. What is the purpose of this weather stripping?	question
+Answer	The weather stripping reduces heat loss due to convection.	answer
+0	weather stripping is used for reducing heat loss by convection	gold
+1	convection is a kind of process	nongold
+2	the function of something is what that something  is used to do	nongold
+3	a strip is a kind of object	nongold
+4	something is used for that something's purpose	gold
+5	being  on something; placed in something; placed over something means touching  that something	nongold
+6	convection is when the heated part of gas rises	nongold
+7	a home is a kind of building	nongold
+8	function is similar to purpose	nongold
+9	to reduce means to decrease	nongold
+10	convection is when a liquid is heated by hotter material rising to the top of the liquid	nongold
+11	due to means caused by	nongold
+12	foam; bubble is made of pockets of gas trapped in a liquid or solid	nongold
+13	temperature is a measure of heat energy	nongold
+14	purpose means role	nongold
+15	heat means heat energy	nongold
+16	heat energy is synonymous with thermal energy	nongold
+17	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+18	heating means adding heat	nongold
+19	convection causes uneven heating	nongold
+20	a door is a kind of object	nongold
+21	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+22	heat has a great impact on weather	nongold
+23	a window is a part of a house	nongold
+24	a window is a kind of object	nongold
+25	to be used for something means to be required by that something	nongold
+26	to lower means to decrease	nongold
+27	absorbing energy causes objects; materials; substances to heat	nongold
+28	loss means reduction	nongold
+29	thermal conduction is when heat flows from warmer object to cooler object	nongold
+30	an increase is the opposite of a decrease	nongold
+31	as the cause of something decreases , that something will decrease	nongold
+32	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+33	heat means temperature increases	nongold
+34	adding heat means increasing temperature	nongold
+35	to slow; to slow down decreases speed	nongold
+36	if there is a loss of something then that something decreases	nongold
+37	a house is a kind of home	nongold
+38	if something performs a task then that task is that something's function	nongold
+39	less is similar to decrease	nongold
+40	water is an thermal; thermal energy conductor	nongold
+41	helping something has a  positive impact on that something	nongold
+42	placing is a kind of action	nongold
+43	to be a vehicle for is a kind of function	nongold
+44	high is similar to increase	nongold
+45	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+46	if too much heat is transferred to an object then that object may burn	nongold
+47	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+48	low is similar to decrease	nongold
+49	if an object is made of a material then that object has the properties of that material	nongold
+50	intense heat has a negative impact on an organism	nongold
+51	to serve as means to be used as	nongold
+52	metal is a thermal; thermal energy conductor	nongold
+53	a decrease is a kind of change	nongold
+54	causing is a kind of function	nongold
+55	if something causes a process then that something is required for that process	nongold
+56	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+57	temperature is a property of weather	nongold
+58	friction causes the temperature of an object to increase	nongold
+59	if something is places over a heat source then that something is exposed to that heat source	nongold
+60	to give off means to be the source of	nongold
+61	a surface is a part of a material	nongold
+62	a thermal conductor is made of materials that conduct thermal energy	nongold
+63	to add means to increase	nongold
+64	reducing is a kind of change	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	solar energy is a kind of heat energy	nongold
+67	An example of heat transfer by convection is  heat rises in a chimney	nongold
+68	decreasing something negative has a positive impact on a thing	nongold
+69	to cause means to have an effect	nongold
+70	rubber is thermal;thermal energy insulator	nongold
+71	remove means decrease	nongold
+72	counter means reduce; stop; resist	nongold
+73	conductivity is a property of a material; substance	nongold
+74	the heat energy in the cooler object increases in thermal conduction	nongold
+75	a house is a kind of building	nongold
+76	a surface is a part of an object	nongold
+77	if something with the same function as something else is being used then the use of that something else decreases	nongold
+78	to change means to have an effect	nongold
+79	a hot; warm something is a source of heat	nongold
+80	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+81	friction occurs when two object's surfaces move against each other	nongold
+82	gas is a kind of material	nongold
+83	air is usually a thermal; thermal energy insulator	nongold
+84	heat means the transfer of thermal energy	nongold
+85	an part of an object is smaller than the entire object	nongold
+86	an increase is a kind of change	nongold
+87	providing is a kind of function	nongold
+88	weather is a property of a environment	nongold
+89	a source of something increases the amount of that something	nongold
+90	metal is a kind of material	nongold
+91	decreasing something positive has a negative impact on a thing	nongold
+92	material means substance	nongold
+93	a window is made of glass	nongold
+94	to help; to benefit means to be of use	nongold
+95	if heat is added to a substance then that substance absorbs that heat	nongold
+96	can be means able to be	nongold
+97	requiring is similar to needing help	nongold
+98	to work means to function	nongold
+99	increasing heat causes thermal expansion	nongold

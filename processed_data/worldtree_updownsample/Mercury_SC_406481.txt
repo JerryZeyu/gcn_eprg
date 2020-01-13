@@ -1,0 +1,74 @@
+0	if an organism can live in an environment then that organism can withstand the conditions of that environment	nongold
+1	low is similar to decrease	nongold
+2	lack is similar to low; little	gold
+3	a plant requires a habitat for survival	nongold
+4	a desert environment is dry	gold
+5	as the cause of something decreases , that something will decrease	nongold
+6	survive means live	nongold
+7	a lack of something that a living thing requires prevents the survival of that living thing	gold
+8	Which environmental factor would most likely prevent an orange tree from surviving in the desert?	question
+9	lack is similar to low; little	gold
+10	positively impacting an organism's survival increases the likelihood of survival of that organism	nongold
+11	moist means high in moisture	nongold
+12	a desert environment is dry	gold
+13	a plants; living things require water for survival; to grow	gold
+14	dry means low in amount of water; wetness; moisture	gold
+15	a desert environment is dry	gold
+16	a plant is a kind of living thing	gold
+17	a tree is a kind of plant	gold
+18	a lack of something that a living thing requires prevents the survival of that living thing	gold
+19	the lack of moisture	answer
+20	an animal requires enough nutrients to maintain good health; survive	nongold
+21	Which environmental factor would most likely prevent an orange tree from surviving in the desert?	question
+22	an orange tree is a kind of tree	gold
+23	Which environmental factor would most likely prevent an orange tree from surviving in the desert?	question
+24	negative impact is the opposite of positive impact	nongold
+25	to reduce means to decrease	nongold
+26	a tree is a kind of plant	gold
+27	something harmful can cause harm	nongold
+28	changes in an environment cause animals; plants to adapt to survive	nongold
+29	a tree is a kind of living thing	nongold
+30	a tree is a kind of plant	gold
+31	a plants; living things require water for survival; to grow	gold
+32	moisture is a kind of environmental factor	gold
+33	plants are a part of the environment	nongold
+34	an orange tree is a kind of tree	gold
+35	a factor impacts something	nongold
+36	a plant requires soil for survival; to grow	nongold
+37	dry means low in amount of water; wetness; moisture	gold
+38	the lack of moisture	answer
+39	an orange is a kind of fruit	nongold
+40	the lack of moisture	answer
+41	an increase is the opposite of a decrease	nongold
+42	to lack means to not have	nongold
+43	a desert environment receives low rainfall	nongold
+44	an animal; living thing requires nutrients for survival	nongold
+45	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+46	a dry environment is low in availability of water	gold
+47	decreasing something positive has a negative impact on a thing	nongold
+48	survival means to survive	nongold
+49	a living thing is a kind of object	nongold
+50	a natural resource is a kind of environmental factor	nongold
+51	a dry environment is low in availability of water	gold
+52	a desert is a kind of land feature	nongold
+53	a lack of something that a living thing requires prevents the survival of that living thing	gold
+54	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+55	moisture is a kind of environmental factor	gold
+56	a plant is a kind of organism	nongold
+57	the lack of moisture	answer
+58	if a plant; crop requires less water then that plant; crop will survive in a drought	nongold
+59	burning a living thing usually causes harm to that living thing	nongold
+60	an orange tree is a kind of tree	gold
+61	a plant is a kind of living thing	gold
+62	lack is similar to low; little	gold
+63	a plants; living things require water for survival; to grow	gold
+64	if a living thing requires something then that something has a positive impact on that living thing	nongold
+65	a desert environment usually has a lot of sunlight	nongold
+66	moisture is a kind of environmental factor	gold
+67	a plant; living thing requires food for survival	nongold
+68	dry means low in amount of water; wetness; moisture	gold
+69	a dry environment is low in availability of water	gold
+70	survive means live	nongold
+71	adverse effect means negative impact	nongold
+72	Which environmental factor would most likely prevent an orange tree from surviving in the desert?	question
+73	a plant is a kind of living thing	gold

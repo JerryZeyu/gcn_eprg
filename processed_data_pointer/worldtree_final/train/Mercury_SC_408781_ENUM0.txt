@@ -1,0 +1,99 @@
+0	making something requires resources	nongold
+1	an inexhaustible resource is a kind of renewable resource	nongold
+2	natural gas is a kind of fossil fuel	nongold
+3	if something is powered by something else then that something requires a source of that something else	nongold
+4	a renewable resource is a kind of naturally replaced resource	nongold
+5	renewable is the opposite of nonrenewable	nongold
+6	oil is a nonrenewable resource	nongold
+7	a process is a kind of event	nongold
+8	if something releases something else then that something is the source of that something else	nongold
+9	if something is a raw material in a process then that something is required for that process	nongold
+10	a generator is a kind of  device	nongold
+11	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+12	if a resource is limited in supply then that resource needs to be replaced	nongold
+13	a source of something increases the amount of that something	nongold
+14	a wind turbine is a kind of windmill	nongold
+15	fossil fuels have high potential energy	nongold
+16	renewable resources are replenished more quickly than they are used	nongold
+17	to be used for something means to be required by that something	nongold
+18	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+19	fossil fuels are a nonrenewable resource	nongold
+20	solar energy is a renewable; inexhaustible resource	nongold
+21	if something transfers something else then that something is a source of something else	nongold
+22	where something  comes from is a source of that something	nongold
+23	if something generates energy for something else then that something powers that something else	nongold
+24	if something is a raw material then that something comes directly from a source	nongold
+25	inexhaustible means always available	nongold
+26	an increase is a kind of change	nongold
+27	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+28	windy means high wind speeds	nongold
+29	an event is a kind of action	nongold
+30	to depend on; to rely on; to need means to require	nongold
+31	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+32	a source of something emits; produces; generates; provides that something	nongold
+33	wind speed is a property of weather	nongold
+34	wind is a source of energy	gold
+35	resources becoming available has a positive impact on the things that need those resources	nongold
+36	a component of something means a part of that something	nongold
+37	renewable resources can be used over again	nongold
+38	a device requires energy to operate	nongold
+39	wind	answer
+40	if something causes an increase in something else then that something produces that something else	nongold
+41	wind is used for producing electricity	nongold
+42	developing means growing	nongold
+43	if something causes a process then that something is required for that process	nongold
+44	to be formed by is similar to being produced by	nongold
+45	if something emits something else then that something increases the amount of that something else	nongold
+46	if a resource is limited in supply then that resource should be recycled	nongold
+47	an increase is the opposite of a decrease	nongold
+48	if something is required for a process then that something positively impacts that process	nongold
+49	a part of a process means a stage in a process	nongold
+50	less means a reduced amount	nongold
+51	oil is a kind of fossil fuel	nongold
+52	less is the opposite of more	nongold
+53	an energy source is a kind of resource	gold
+54	the amount of something is similar to the availability of something	nongold
+55	fuel supply is a kind of resource	nongold
+56	a producer is a source of energy for consumers	nongold
+57	the supply of an inexhaustible resource does not change over a long period of time	nongold
+58	a renewable resource is a kind of natural resource	nongold
+59	fuel is a kind of energy source	nongold
+60	emit means produce	nongold
+61	less is similar to decrease	nongold
+62	a source of something supplies that something	nongold
+63	natural gas is a nonrenewable resource	nongold
+64	wind is a renewable; inexhaustible resource	gold
+65	petroleum is a kind of fossil fuel	nongold
+66	fossil fuels are a kind of energy resource	nongold
+67	to provide means to supply	nongold
+68	answering questions requires information	nongold
+69	to provide something means to be the source of that something	nongold
+70	resources sometimes are used for energy	nongold
+71	Nonrenewable sources of energy have limited supplies. Researchers are developing devices that will make renewable energy more available. Which is a source of renewable energy?	question
+72	a machine is a kind of  device	nongold
+73	to power means to provide energy for	nongold
+74	device means tool	nongold
+75	high is similar to increase	nongold
+76	requiring something means needing that something	nongold
+77	if a resource is limited in supply then that resource will run out	nongold
+78	a fossil fuel is a kind of natural resource	nongold
+79	a nonrenewable resource is limited in supply	nongold
+80	oil is a kind of energy resource	nongold
+81	generate means produce	nongold
+82	increase means more	nongold
+83	as a system; a device grows old , that system; device will use more energy	nongold
+84	developing means creating; inventing	nongold
+85	make means produce	nongold
+86	renewable resources are often available for many years	nongold
+87	wind means moving air	nongold
+88	developing means making	nongold
+89	a scientist is a kind of human	nongold
+90	producing renewable electric energy requires renewable resources	nongold
+91	instrument means device	nongold
+92	if something requires something else then that something requires a source of that something else	nongold
+93	if something comes from something else then that something else is a source of that something	nongold
+94	to cause means to make	nongold
+95	oil is a source of energy	nongold
+96	researcher is a kind of scientist	nongold
+97	a component means a part of	nongold
+98	a supply of something is a source of that something	nongold

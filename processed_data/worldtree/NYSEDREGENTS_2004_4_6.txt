@@ -1,0 +1,102 @@
+Question	Which object is the best conductor of electricity?	question
+Answer	an iron nail	answer
+0	a nail is a kind of object	nongold
+1	iron nails are made of iron	gold
+2	nails are often made of iron	nongold
+3	metal is an  electrical; electrical energy conductor	gold
+4	a good conductor is a conductor	nongold
+5	metal is a thermal; thermal energy conductor	nongold
+6	electricity means electrical energy	nongold
+7	conductivity is a property of a material; substance	gold
+8	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+9	best means most positive	nongold
+10	iron is a kind of metal	gold
+11	conductivity is a measure of how easily electricity travels through a material	nongold
+12	metal is a kind of material	nongold
+13	electric devices require electrical energy to function	nongold
+14	an insulator is the opposite of a conductor	gold
+15	electricity is used as an energy source by electrical devices	nongold
+16	wood is an thermal; thermal energy insulator	nongold
+17	electricity sometimes is used for heating buildings; substances	nongold
+18	wood is a thermal; thermal energy insulator	nongold
+19	a device is a kind of object	nongold
+20	if an object is made of a material then that object has the properties of that material	gold
+21	insulator means good insulator	nongold
+22	plastic is usually an electrical insulator	gold
+23	metal is a kind of substance	nongold
+24	better means good	nongold
+25	electrical devices are used for industrial purposes; household purposes by humans	nongold
+26	electrocution causes harm to an organism	nongold
+27	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+28	a tool is a kind of object	nongold
+29	plastic is a kind of electrical insulator	nongold
+30	an electrical device requires electricity to turn on	nongold
+31	wax is an electrical; electrical energy insulator	gold
+32	wiring requires an electrical conductor	nongold
+33	good means positive	nongold
+34	an insulator is a kind of material	nongold
+35	rubber is thermal;thermal energy insulator	gold
+36	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold
+37	An electrical conductor is a vehicle for the flow of electricity	gold
+38	a thermal conductor is made of materials that conduct thermal energy	nongold
+39	to be used for something means to be required by that something	nongold
+40	an object has properties	nongold
+41	electrical insulation requires wrapping a conductor in an insulator	nongold
+42	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+43	operating electrical appliances requires electricity	nongold
+44	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+45	brick is an electrical; electrical energy insulator	nongold
+46	steel is a kind of metal	nongold
+47	copper is a kind of metal	nongold
+48	electrical energy is a kind of energy	nongold
+49	a machine is a kind of  device	nongold
+50	conductivity is a kind of physical property	nongold
+51	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	to be good for means to have a positive impact on	nongold
+54	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+55	rubbing different materials can cause electrical charge	nongold
+56	material means substance	nongold
+57	closing an electric circuit causes an electrical device to function	nongold
+58	soft iron; iron is always ferromagnetic; magnetic	nongold
+59	metals usually have greater; higher conductivity than nonmetals	nongold
+60	a machine is a kind of object	nongold
+61	to conduct is similar to to transfer	nongold
+62	a type is synonymous with a kind	nongold
+63	conduction is a kind of process	nongold
+64	iron is a kind of solid	nongold
+65	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+66	can be means able to be	nongold
+67	damage means harm	nongold
+68	device means tool	nongold
+69	household appliances are a kind of electrical device	nongold
+70	metals are made of metal	nongold
+71	wood is a kind of object	nongold
+72	an electrical charge can attract objects to other objects	nongold
+73	an electric toothbrush is a kind of electric device	nongold
+74	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+75	high is similar to increase	nongold
+76	a complete electrical circuit is a source of  electrical energy	nongold
+77	form means kind	nongold
+78	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+79	if something is powered by something else then that something requires a source of that something else	nongold
+80	metal is a kind of natural resource	nongold
+81	objects are made of materials; substances; matter	gold
+82	iron filings are made of small pieces of iron	nongold
+83	a circuit is a kind of electrical component	nongold
+84	person is synonymous with human	nongold
+85	something hard; something strong can be used for protection	nongold
+86	an iron chain is made of iron	nongold
+87	a living thing is a kind of object	nongold
+88	harm means injury	nongold
+89	a wire is a part of an electrical circuit for conducting electricity	nongold
+90	a surface is a part of a material	nongold
+91	structure is a property of an object; a material; a substance	nongold
+92	something dangerous can cause harm	nongold
+93	the function of something is what that something  is used to do	nongold
+94	harming something has a  negative impact on; effect on that something	nongold
+95	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+96	to provide something means to be the source of that something	nongold
+97	a piece of something is a kind of object	nongold
+98	an object; material; substance comes from that object or material's source	nongold
+99	high-quality means positive	nongold

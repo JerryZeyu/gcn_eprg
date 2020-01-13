@@ -1,0 +1,102 @@
+0	both means two	nongold
+1	an animal; living thing requires nutrients for survival	nongold
+2	an animal is a kind of living thing	nongold
+3	moving something is a kind of function	nongold
+4	transporting is a kind of function	nongold
+5	a body part is a kind of object	nongold
+6	to gain means to obtain	nongold
+7	function means job	nongold
+8	protecting is a kind of function	nongold
+9	nutrients are a kind of matter	nongold
+10	a plant is a kind of living thing	nongold
+11	an insect is a kind of animal	nongold
+12	absorbing is similar to obtaining	nongold
+13	converting is a kind of function	nongold
+14	claws for obtaining food	answer
+15	the head is a part of an animal	nongold
+16	a reptile is a kind of animal	nongold
+17	living things eat their food source	nongold
+18	a part of a living thing is a natural structure	nongold
+19	pair is a kind of combination	nongold
+20	pair means two	nongold
+21	if something performs a task then that task is that something's function	nongold
+22	a bird is a kind of animal	nongold
+23	limbs are part of an animal	nongold
+24	sensing food has a positive impact on finding food	nongold
+25	attracting is a kind of function; activity	nongold
+26	a role in the ecosystem is a role in the food chain process	nongold
+27	answering questions requires information	nongold
+28	a mammal is a kind of animal	nongold
+29	a plant; living thing requires food for survival	nongold
+30	a beak is a part of a bird	nongold
+31	birds sometimes eat insects	nongold
+32	to obtain means to get	nongold
+33	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+34	producer is a kind of role in the food chain process; in an ecosystem	nongold
+35	producing is a kind of function	nongold
+36	taking in something means acquiring that something	nongold
+37	a structure of something is synonymous with a part of that something	gold
+38	destroying is a kind of function	nongold
+39	catching something is synonymous with obtaining that something	gold
+40	if two things perform the same function then those two things are similar	nongold
+41	purpose means role	nongold
+42	affected means changed	nongold
+43	providing is a kind of function	nongold
+44	a living thing is a kind of object	nongold
+45	to eat means to consume food	nongold
+46	a bird is a kind of living thing	nongold
+47	high is similar to increase	nongold
+48	part means role	nongold
+49	an object is an item	nongold
+50	an insect usually has a small size	nongold
+51	legs are usually a part of an animal	nongold
+52	a claw is often part of a bird	gold
+53	a claw sometimes is a part of a predator	gold
+54	food is a kind of substance	nongold
+55	food is a kind of object	nongold
+56	an object is made of its parts	nongold
+57	causing is a kind of function	nongold
+58	a food contains nutrients for living things	nongold
+59	an animal is a member of an animal species	nongold
+60	the function of something is what that something  is used to do	gold
+61	if an object is a source of something for something else then that something else can obtain that something from that object	nongold
+62	absorbing is a kind of function	nongold
+63	a function is an activity	nongold
+64	to have a function is similar to to be responsible for	nongold
+65	taking in something means receiving; absorbing; getting something	nongold
+66	structure is similar to shape	nongold
+67	obtain is similar to receive	nongold
+68	an animal needs to eat food for nutrients	nongold
+69	role means function	nongold
+70	function is similar to purpose	nongold
+71	a plant is a kind of organism	nongold
+72	an arm is a kind of limb	nongold
+73	an animal is a kind of consumer	nongold
+74	an insect is a kind of prey	nongold
+75	system is similar to structure	nongold
+76	Which structure of a bird is correctly paired with its function?	question
+77	a function is a kind of characteristic	nongold
+78	to be a vehicle for is a kind of function	nongold
+79	opposite is a kind of different	nongold
+80	an animal is a kind of organism	nongold
+81	a source of something emits; produces; generates; provides that something	nongold
+82	an animal's scales are small in size	nongold
+83	something is used for that something's purpose	nongold
+84	if an object is made of something then the parts of that object are made of that something	nongold
+85	to be used for something means to be required by that something	nongold
+86	role is similar to importance	nongold
+87	to serve as means to be used as	nongold
+88	claws are used to catch prey by some predators	gold
+89	providing structure is a kind of function	nongold
+90	the skeletal system gives structure to the body in animals	nongold
+91	an insect has three body parts	nongold
+92	birds with beaks of different shapes eat different foods	nongold
+93	something's function can be used to describe; identify that something	nongold
+94	prey is a kind of food for predators	gold
+95	an part of an object is smaller than the entire object	nongold
+96	a human is a kind of animal	nongold
+97	structure is a property of an object; a material; a substance	nongold
+98	food is what an animal eats	nongold
+99	an organism is a living thing	nongold
+100	a skinny beak is used for obtaining food by a bird from small spaces	nongold
+101	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold

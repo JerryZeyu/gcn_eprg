@@ -1,0 +1,61 @@
+0	snow is a kind of precipitation	gold
+1	freezing causes a solid to form	nongold
+2	sleet is a kind of precipitation	gold
+3	Sleet, rain, snow, and hail are forms of	question
+4	to reduce means to decrease	nongold
+5	water is a kind of object	nongold
+6	rainfall means precipitation	nongold
+7	hail is a kind of precipitation; ice	gold
+8	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+9	precipitation	answer
+10	precipitation is a kind of weather	nongold
+11	the effects of something is a property of that something	nongold
+12	precipitation	answer
+13	storms;rain cause bodies of water to increase amount of water they contain	nongold
+14	Sleet, rain, snow, and hail are forms of	question
+15	to cause the formation of means to form	nongold
+16	Sleet, rain, snow, and hail are forms of	question
+17	sleet is made of ice	nongold
+18	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+19	rainfall is the amount of rain an area receives	nongold
+20	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+21	a liquid is a kind of substance	nongold
+22	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+23	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+24	a change is a kind of event	nongold
+25	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+26	precipitation	answer
+27	Sleet, rain, snow, and hail are forms of	question
+28	rain is a kind of precipitation	gold
+29	low pressure systems cause precipitation	nongold
+30	form means kind	gold
+31	rain is a kind of precipitation	gold
+32	sleet is a kind of precipitation	gold
+33	a landform is a kind of object	nongold
+34	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+35	rain is a kind of precipitation	gold
+36	snow is a kind of precipitation	gold
+37	sleet is a kind of ice	nongold
+38	temperature is a property of weather	nongold
+39	ice is cold in temperature	nongold
+40	both means two	nongold
+41	an event is a kind of action	nongold
+42	snow is a kind of object	nongold
+43	snow is a kind of precipitation	gold
+44	sleet is a kind of precipitation	gold
+45	a thunderstorm is a kind of storm	nongold
+46	form means kind	gold
+47	ice is a kind of object	nongold
+48	solid is a kind of state of matter	nongold
+49	frozen means solid	nongold
+50	to be made of something means to be formed of that something	nongold
+51	form means kind	gold
+52	hail is a kind of precipitation; ice	gold
+53	liquid is a kind of state of matter	nongold
+54	precipitation	answer
+55	precipitation is when water falls from the sky	nongold
+56	water is a kind of substance	nongold
+57	precipitation is a kind of  natural process	nongold
+58	hail is a kind of precipitation; ice	gold
+59	freezing means cold temperatures	nongold
+60	a solid is a kind of substance	nongold

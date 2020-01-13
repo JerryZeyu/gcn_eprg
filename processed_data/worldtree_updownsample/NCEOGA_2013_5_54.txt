@@ -1,0 +1,61 @@
+0	if the population of an organism increases then the ecosystem may become overpopulated with that organism	nongold
+1	a person is a kind of animal	nongold
+2	coastline means coast	nongold
+3	often is similar to likely	nongold
+4	less is similar to decrease	nongold
+5	As more people have moved to the beach, the sea turtle population has decreased. Which is most likely the cause of this decrease?	question
+6	a beach is a kind of habitat; environment	gold
+7	humans moving in an environment usually causes native species to lose their habitats	gold
+8	harming an animal species causes that animal's population to decrease	gold
+9	a turtle is a kind of reptile	nongold
+10	habitat loss	answer
+11	a sea turtle is a kind of animal	gold
+12	ocean animal is similar to water animal	nongold
+13	a coast is a kind of environment	nongold
+14	water is a part of an environment	nongold
+15	as the cause of something decreases , that something will decrease	nongold
+16	As more people have moved to the beach, the sea turtle population has decreased. Which is most likely the cause of this decrease?	question
+17	as water increases in an environment , the population of aquatic animals will increase	nongold
+18	a sea turtle is a kind of animal	gold
+19	if an amount of objects decreases then those objects are fewer in number	nongold
+20	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	gold
+21	an ecosystem contains a large community of; large numbers of living organisms	nongold
+22	As more people have moved to the beach, the sea turtle population has decreased. Which is most likely the cause of this decrease?	question
+23	if a habitat is removed then that habitat is destroyed	nongold
+24	humans moving in an environment usually causes native species to lose their habitats	gold
+25	an ocean is a kind of body of water	nongold
+26	marine is similar to water	nongold
+27	destruction means loss	nongold
+28	to lower means to decrease	nongold
+29	habitat loss	answer
+30	sand dunes are made of sand	nongold
+31	harming an animal species causes that animal's population to decrease	gold
+32	a beach is a kind of habitat; environment	gold
+33	loss is a kind of change	nongold
+34	high is similar to increase	nongold
+35	an increase is a kind of change	nongold
+36	an ecosystem is a kind of habitat	nongold
+37	harming an animal species causes that animal's population to decrease	gold
+38	an island is a kind of landform	nongold
+39	destroying animal habitats changes an ecosystem	nongold
+40	As more people have moved to the beach, the sea turtle population has decreased. Which is most likely the cause of this decrease?	question
+41	a crab is a kind of water animal	nongold
+42	a body of water is a kind of environment	nongold
+43	a body of water meets land at a beach	nongold
+44	a beach is a kind of habitat; environment	gold
+45	an animal is a kind of organism	nongold
+46	habitat loss	answer
+47	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	gold
+48	sea means ocean	nongold
+49	a sea turtle lives in the ocean	nongold
+50	a beach is a kind of location	nongold
+51	coral is a kind of aquatic animal	nongold
+52	humans moving in an environment usually causes native species to lose their habitats	gold
+53	ocean is a source of wild fish for human populations	nongold
+54	a coral reef is a kind of ecosystem	nongold
+55	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+56	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	gold
+57	an animal; living thing requires nutrients for survival	nongold
+58	a population is made of one type of organism in an area	nongold
+59	a sea turtle is a kind of animal	gold
+60	habitat loss	answer

@@ -1,0 +1,68 @@
+0	reduce electricity use	answer
+1	reduce electricity use	answer
+2	if a resource is limited in supply then that resource needs to be replaced	nongold
+3	fossil fuels are a kind of energy resource	nongold
+4	fossil fuels are a nonrenewable resource	nongold
+5	oil is used for producing electricity	gold
+6	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+7	a source of something emits; produces; generates; provides that something	gold
+8	a nonrenewable resource is limited in supply	nongold
+9	renewable resources are often available for many years	nongold
+10	reduce electricity use	answer
+11	oil is used for producing electricity	gold
+12	to cause means to make	nongold
+13	oil is a kind of fossil fuel	gold
+14	Which is the best plan to make the fossil fuel supply last longer?	question
+15	a supply of something is a source of that something	nongold
+16	oil is a kind of fossil fuel	gold
+17	how long something takes is a kind of measurement of time	gold
+18	Which is the best plan to make the fossil fuel supply last longer?	question
+19	how long something takes is a kind of measurement of time	gold
+20	an increase is a kind of change	nongold
+21	a fossil fuel is a kind of natural resource	nongold
+22	reduce electricity use	answer
+23	to reduce means to decrease	gold
+24	decreasing something negative has a positive impact on a thing	nongold
+25	to last longer means to be available longer	gold
+26	a source of something supplies that something	nongold
+27	if something lasts longer then that something will not have to be replaced for a long time	nongold
+28	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+29	as the use of a resource decreases , the length of time that resource will be available increases	gold
+30	fuel supply is a kind of resource	nongold
+31	to last longer means to be available longer	gold
+32	as the use of something decreases , the use of the source of that something will decrease	gold
+33	a source of something emits; produces; generates; provides that something	gold
+34	to last longer means to be available longer	gold
+35	long means great in length	nongold
+36	loss means reduction	nongold
+37	oil is a kind of energy resource	nongold
+38	if there is a loss of something then that something decreases	nongold
+39	as the use of something decreases , the use of the source of that something will decrease	gold
+40	oil is a kind of fossil fuel	gold
+41	to reduce means to decrease	gold
+42	renewable is the opposite of nonrenewable	nongold
+43	decreasing something positive has a negative impact on a thing	nongold
+44	if something emits something else then that something increases the amount of that something else	nongold
+45	reducing is a kind of change	nongold
+46	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+47	as the use of a resource decreases , the length of time that resource will be available increases	gold
+48	if something is a raw material in a process then that something is required for that process	nongold
+49	a renewable resource is a kind of natural resource	nongold
+50	producing electricity sometimes requires burning oil	nongold
+51	Which is the best plan to make the fossil fuel supply last longer?	question
+52	reducing is similar to slowing	nongold
+53	if something causes an increase in something else then that something produces that something else	nongold
+54	a source of something emits; produces; generates; provides that something	gold
+55	using less of a resource increases the availability of that resource	nongold
+56	as the use of something decreases , the use of the source of that something will decrease	gold
+57	oil is used for producing electricity	gold
+58	to reduce means to decrease	gold
+59	as the use of a resource decreases , the length of time that resource will be available increases	gold
+60	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+61	shorter means decreased length	nongold
+62	as distance from a source of something increases , that something will decrease	nongold
+63	how long something takes is a kind of measurement of time	gold
+64	faster means increased rate	nongold
+65	to slow; to slow down decreases speed	nongold
+66	Which is the best plan to make the fossil fuel supply last longer?	question
+67	fuel is a kind of energy source	nongold

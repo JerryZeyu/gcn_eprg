@@ -1,0 +1,59 @@
+0	color	answer
+1	color is a property of  an object; a material	gold
+2	color is an intensive property	gold
+3	material composition is a kind of chemical property	nongold
+4	zinc is a kind of mineral	nongold
+5	a rock is a kind of object	gold
+6	rock is made of minerals	gold
+7	the color of an environment means the color of the things that environment contains	nongold
+8	color is an intensive property	gold
+9	color is a kind of physical; visual property	nongold
+10	coloration means a pattern of colors	nongold
+11	identical means copy	nongold
+12	if something is made of something; a material then that something contains that something; that material	nongold
+13	a rock is a kind of object	gold
+14	to be made of means to consist of	nongold
+15	color	answer
+16	objects are made of materials; substances; matter	gold
+17	rock is made of minerals	gold
+18	trait means property	nongold
+19	if the color of a substance changes then a chemical change may have occurred	nongold
+20	white is a kind of color	nongold
+21	pair means two	nongold
+22	Gavin has two rocks. Both rocks are made up entirely of the same mineral. What other property of his two rocks is most likely to be the same?	question
+23	color	answer
+24	substances are made of elements	nongold
+25	if two objects are apart from each other then matter is between those two objects	nongold
+26	color is an intensive property	gold
+27	red is a kind of color	nongold
+28	materials are made of matter	nongold
+29	a rock is a kind of object	gold
+30	another means different	nongold
+31	gypsum is a kind of mineral	nongold
+32	all elements are a kind of pure substance	nongold
+33	made of is similar to contains	nongold
+34	if an object is made of something then the parts of that object are made of that something	nongold
+35	color is a property of  an object; a material	gold
+36	rock is made of minerals	gold
+37	blue is a kind of color	nongold
+38	made up of means contains; made of	nongold
+39	all the other means the rest of	nongold
+40	objects are made of materials; substances; matter	gold
+41	different types of matter have different chemical properties	nongold
+42	colorless means no color	nongold
+43	Gavin has two rocks. Both rocks are made up entirely of the same mineral. What other property of his two rocks is most likely to be the same?	question
+44	stay the same means not changing	nongold
+45	temperature changing does not cause color to change	nongold
+46	painting an object a color causes that object to be that color	nongold
+47	if two things have the same features then those two things are alike	nongold
+48	identical is the opposite of different	nongold
+49	a property of something is a feature of that something	nongold
+50	not is similar to the opposite of	nongold
+51	an object is made of its parts	nongold
+52	Gavin has two rocks. Both rocks are made up entirely of the same mineral. What other property of his two rocks is most likely to be the same?	question
+53	Gavin has two rocks. Both rocks are made up entirely of the same mineral. What other property of his two rocks is most likely to be the same?	question
+54	the color of an object can be discovered by looking at that object	nongold
+55	color	answer
+56	color is a property of  an object; a material	gold
+57	objects are made of materials; substances; matter	gold
+58	a mineral is a kind of object	nongold

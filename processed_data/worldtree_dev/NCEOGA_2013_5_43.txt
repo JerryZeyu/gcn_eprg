@@ -1,0 +1,102 @@
+Question	What must occur before clouds can form?	question
+Answer	Water vapor must lose heat energy.	answer
+0	if an event is required for a process then that event must occur before that process can occur	nongold
+1	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	gold
+2	clouds are formed by water vapor rising into colder regions of the atmosphere and condensing	gold
+3	water vapor;steam cooling causes that water vapor;steam to condense	gold
+4	water is a kind of liquid at room temperature	nongold
+5	to happen means to occur	nongold
+6	heat means heat energy	gold
+7	steam;water vapor is a kind of water above 100 degrees celsius	nongold
+8	temperature is a measure of heat energy	nongold
+9	clouds are made of water vapor; rain droplets	nongold
+10	water is a kind of substance	nongold
+11	water is a kind of matter	nongold
+12	vapor is synonymous with gas	nongold
+13	steam; water vapor is a kind of water phase	nongold
+14	to cause the formation of means to form	nongold
+15	to lower means to decrease	nongold
+16	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+17	heat is a kind of energy	nongold
+18	to reduce means to decrease	gold
+19	loss is a kind of change	nongold
+20	a process is a kind of event	nongold
+21	something that happens is a kind of event	nongold
+22	losing something decreases the amount of that something	gold
+23	an event is a kind of action	nongold
+24	adding heat means increasing temperature	nongold
+25	take place means happen	nongold
+26	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+27	forming is a kind of action	nongold
+28	a decrease is a kind of change	nongold
+29	gas is a kind of substance	nongold
+30	state means form	nongold
+31	loss means reduction	nongold
+32	Earth contains water; ice; (steam, water vapor)	nongold
+33	condensing means matter; a substance changes from a gas into a liquid by decreasing heat energy	gold
+34	a motion is a kind of event; action	nongold
+35	a cloud is a kind of object	nongold
+36	gas is a kind of state of matter	nongold
+37	troposphere contains almost all the water vapor	nongold
+38	must have means require	nongold
+39	an increase is a kind of change	nongold
+40	if there is a loss of something then that something decreases	nongold
+41	to add means to increase	nongold
+42	events occur at a specific place; at a specific time; with a specific frequency	nongold
+43	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+44	to lose means to have less of	nongold
+45	a change is a kind of event	nongold
+46	breaking down is a kind of forming	nongold
+47	liquid is a kind of state of matter	nongold
+48	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+49	an increase is the opposite of a decrease	nongold
+50	cooling;colder means removing;reducing;decreasing heat;temperature	gold
+51	to change into means to form	nongold
+52	water is a kind of object	nongold
+53	formation of a state of matter is a kind of process	nongold
+54	water vapor is found in the atmosphere	nongold
+55	a liquid is a kind of substance	nongold
+56	heat energy can change the state of matter	nongold
+57	solar energy is a kind of heat energy	nongold
+58	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+59	to keep something occurring means to cause that something to occur	nongold
+60	to cause means to result in	nongold
+61	heat means temperature increases	nongold
+62	increase means more	nongold
+63	forming something is a kind of change	nongold
+64	if something is made of something else then the formation of that something requires that something else	nongold
+65	if something causes a process then that something is required for that process	nongold
+66	air is a kind of gas	nongold
+67	less is similar to decrease	nongold
+68	to turn means to change	nongold
+69	air is a kind of matter	nongold
+70	boiling is a kind of event	nongold
+71	to give off means to be the source of	nongold
+72	if an event occurs by adding something then that event requires that something	nongold
+73	the Earth's atmosphere is made of 0 to 4 percent hydrogen; water vapor by volume	nongold
+74	the formation of something is a kind of process	nongold
+75	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+76	the Earth absorbs more energy than it loses	nongold
+77	when clouds become cold , those clouds will condense	nongold
+78	heating means adding heat	nongold
+79	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+80	condensation is when matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+81	solid is a kind of state of matter	nongold
+82	forming is a kind of replenishing	nongold
+83	a vehicle for something allows; enables that something to occur	nongold
+84	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+85	water vapor is a kind of greenhouse gas	nongold
+86	desublimation; deposition means matter; a substance changes from a gas into a solid by decreasing heat energy	nongold
+87	condensing causes a liquid to form	nongold
+88	atmosphere means  air	nongold
+89	low is similar to decrease	nongold
+90	An example of interaction between hydrosphere and atmosphere is water vapor rising from oceans to form clouds	nongold
+91	gas is a kind of object	nongold
+92	too much is similar to increase	nongold
+93	high is similar to increase	nongold
+94	the atmosphere contains gases; liquids; solids	nongold
+95	if a body of water loses all water then that body of water does not exist any more	nongold
+96	to keep a process or event happening is similar to causing that process or event to happen	nongold
+97	to generate means to form	nongold
+98	evaporation causes amount of water to decrease	nongold
+99	to conserve means to not change	nongold

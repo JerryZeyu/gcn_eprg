@@ -1,0 +1,100 @@
+0	All of the following contain metric units of measurement except	question
+1	ft, yd, mi	answer
+2	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+3	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	gold
+4	made of is similar to contains	nongold
+5	made up of means contains; made of	nongold
+6	except means not	nongold
+7	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+8	if something is a part of something else then that something else contains that something	nongold
+9	a meter is a kind of unit for measuring distance; measuring length	nongold
+10	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+11	all the other means the rest of	nongold
+12	contains means located in	nongold
+13	answering questions requires information	nongold
+14	including means containing	nongold
+15	to be found in means to be contained in	nongold
+16	if something is made of something; a material then that something contains that something; that material	nongold
+17	contain is similar to store	nongold
+18	to contain means to have inside	nongold
+19	property is similar to measurement	nongold
+20	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+21	a centimeter is a kind of unit of measurement	nongold
+22	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+23	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+24	to contain something means to have that something	nongold
+25	seconds are a kind of unit for measuring time	nongold
+26	if something is a source of something else then that something usually contains that something else	nongold
+27	miles are a kind of unit for measuring distance	nongold
+28	distance is a property of space and includes ordered values of close; far	nongold
+29	a living thing is a kind of object	nongold
+30	composed of means made of	nongold
+31	length is a part of size	nongold
+32	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+33	to carry something means to contain something	nongold
+34	all elements are a kind of pure substance	nongold
+35	an animal is a kind of living thing	nongold
+36	a human is a kind of animal	nongold
+37	a component of something means a part of that something	nongold
+38	measuring requires reading a measurement	nongold
+39	material means substance	nongold
+40	measuring is used for describing an object	nongold
+41	unit is similar to part	nongold
+42	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+43	objects are made of materials; substances; matter	nongold
+44	length is a measure of distance from one end of an object to the other end of that object	nongold
+45	an object is made of its parts	nongold
+46	something that contains water is similar to a body of water	nongold
+47	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+48	a component means a part of	nongold
+49	substances are made of matter	nongold
+50	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+51	a unit for measuring time is a kind of time interval	nongold
+52	quantity means amount	nongold
+53	classifying is when one sorts something by kind; type	nongold
+54	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+55	if something does not contain something else then that something lacks that something else	nongold
+56	a container contains objects; material; substances	nongold
+57	can be means able to be	nongold
+58	a measurement is a kind of data	nongold
+59	to be filled with means to contain	nongold
+60	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+61	containing is similar to holding	nongold
+62	a type is synonymous with a kind	nongold
+63	particles in objects are a kind of matter	nongold
+64	height is a measure of length from the top of an object to the bottom of an object	nongold
+65	a structure of something is synonymous with a part of that something	nongold
+66	to be made of something means to be formed of that something	nongold
+67	if something absorbs something else then that something will contain that something else	nongold
+68	seconds are used to measure time	nongold
+69	usually means most of the time	nongold
+70	if something is a part of something then that something can be found in that something	nongold
+71	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+72	form means kind	nongold
+73	a kind of something is classified as that something	nongold
+74	a landform is a kind of object	nongold
+75	knowing the properties of something means knowing information about that something	nongold
+76	a body of water contains water	nongold
+77	a vehicle is a kind of object	nongold
+78	milliliters ( mL ) is a metric unit used for measuring volume generally used for values between 1.0 and 1000.0	nongold
+79	an animal is a kind of organism	nongold
+80	length is a property of the shape of an object	nongold
+81	a property is a kind of information	nongold
+82	a particle is a kind of object	nongold
+83	an part of an object is smaller than the entire object	nongold
+84	a pound is a kind of unit for measuring mass	nongold
+85	an event is a kind of action	nongold
+86	system means a set of objects	nongold
+87	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+88	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+89	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+90	a type of something is a kind of property of that something	nongold
+91	calculation means measurement	nongold
+92	a measure of time is a length of time	nongold
+93	Earth contains water; ice; (steam, water vapor)	nongold
+94	to be used for something means to be required by that something	nongold
+95	length of time means period of time	nongold
+96	a tree is a kind of matter	nongold
+97	an object; material; substance comes from that object or material's source	nongold
+98	state means form	nongold
+99	a description sometimes provides information	nongold

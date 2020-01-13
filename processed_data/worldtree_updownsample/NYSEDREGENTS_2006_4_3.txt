@@ -1,0 +1,55 @@
+0	precipitation	answer
+1	Sleet and hail are forms of	question
+2	snow is a kind of ice	nongold
+3	Sleet and hail are forms of	question
+4	precipitation	answer
+5	a blizzard is a source of heavy snow	nongold
+6	objects are made of materials; substances; matter	nongold
+7	a storm is a source of precipitation	nongold
+8	hailing is when hail fall from clouds to the Earth;ground	nongold
+9	something that happens is a kind of event	nongold
+10	cycles of freezing and thawing water cause ice wedging	nongold
+11	freezing causes a solid to form	nongold
+12	a solid is a kind of substance	nongold
+13	form means kind	gold
+14	form means kind	gold
+15	sleet is a kind of precipitation	gold
+16	frozen means solid	nongold
+17	hail is a kind of precipitation; ice	gold
+18	form means kind	gold
+19	state means form	nongold
+20	snow is a kind of object	nongold
+21	winter is a part of the year	nongold
+22	Earth contains water; ice; (steam, water vapor)	nongold
+23	a body of water contains water	nongold
+24	Sleet and hail are forms of	question
+25	snowy means a large amount of snow	nongold
+26	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+27	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+28	precipitation	answer
+29	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+30	an event is a kind of action	nongold
+31	ice is a kind of water phase	nongold
+32	precipitation	answer
+33	rain is a source of water	nongold
+34	Sleet and hail are forms of	question
+35	rainstorm means rain storm	nongold
+36	ice is cold in temperature	nongold
+37	precipitation is when water falls from the sky	nongold
+38	to be made of something means to be formed of that something	nongold
+39	a change is a kind of event	nongold
+40	rain; snow falls	nongold
+41	sleet is a kind of ice	nongold
+42	snowfall means the amount of precipitation in snow form	nongold
+43	hail is a kind of precipitation; ice	gold
+44	rain is a kind of water	nongold
+45	greatest means largest; highest; most amount of something	nongold
+46	sleet is a kind of precipitation	gold
+47	a blizzard is a kind of storm	nongold
+48	an area receiving rain means rain falling in that area	nongold
+49	low is similar to decrease	nongold
+50	sleet is a kind of precipitation	gold
+51	precipitation is a kind of  natural process	nongold
+52	colder; cooler means lower in temperature	nongold
+53	hail is a kind of precipitation; ice	gold
+54	to lower means to decrease	nongold

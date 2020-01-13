@@ -1,0 +1,61 @@
+0	an event is a kind of action	gold
+1	concluding is a kind of action	gold
+2	Scientists conduct investigations to answer questions. Before making a valid conclusion, scientists must	question
+3	can be means able to be	nongold
+4	to conclude means to make a conclusion	gold
+5	if an event is required for a process then that event must occur before that process can occur	gold
+6	good means positive	nongold
+7	impact means effect	nongold
+8	a space probe is used for collecting;analyzing materials; samples; information	nongold
+9	investigating a stage of something means investigating that something	nongold
+10	an animal is a kind of organism	nongold
+11	requiring something means needing that something	nongold
+12	if an event is required for a process then that event must occur before that process can occur	gold
+13	negative impact is the opposite of positive impact	nongold
+14	to be made of is similar to collection	nongold
+15	investigating requires gathering information	nongold
+16	making a valid conclusion in an investigation requires collecting relevant evidence	gold
+17	concluding is a kind of action	gold
+18	collect relevant evidence	answer
+19	if an event is required for a process then that event must occur before that process can occur	gold
+20	incomplete is the opposite of complete	nongold
+21	making discoveries requires observing	nongold
+22	best means most positive	nongold
+23	helping something has a  positive impact on that something	nongold
+24	make means produce	nongold
+25	to conclude means to make a conclusion	gold
+26	a process usually requires all of the stages in that process	nongold
+27	concluding is a kind of action	gold
+28	a type is synonymous with a kind	nongold
+29	An example of evidence for a scientific theory is observations	nongold
+30	to cause means to make	nongold
+31	Scientists conduct investigations to answer questions. Before making a valid conclusion, scientists must	question
+32	Scientists conduct investigations to answer questions. Before making a valid conclusion, scientists must	question
+33	to make means to form	nongold
+34	researcher is a kind of scientist	nongold
+35	investigating is a kind of process	gold
+36	something that happens is a kind of event	nongold
+37	collect relevant evidence	answer
+38	scientists make observations	nongold
+39	investigating sometimes requires measuring	nongold
+40	making a valid conclusion in an investigation requires collecting relevant evidence	gold
+41	investigating is a kind of process	gold
+42	a theory is a kind of scientific term	nongold
+43	a scientist is a kind of human	nongold
+44	analyzing all results has a  positive impact on the effort to remain objective during experiments	nongold
+45	collect relevant evidence	answer
+46	emit means produce	nongold
+47	to conclude means to make a conclusion	gold
+48	to observe means to gather information	nongold
+49	a component means a part of	nongold
+50	an event is a kind of action	gold
+51	answering questions requires information	nongold
+52	an event is a kind of action	gold
+53	investigation sometimes requires experimentation	nongold
+54	conducting is similar to exchanging	nongold
+55	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+56	to be used for something means to be required by that something	nongold
+57	collect relevant evidence	answer
+58	Scientists conduct investigations to answer questions. Before making a valid conclusion, scientists must	question
+59	making a valid conclusion in an investigation requires collecting relevant evidence	gold
+60	investigating is a kind of process	gold

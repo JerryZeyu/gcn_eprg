@@ -1,0 +1,102 @@
+Question	Which is a chemical compound?	question
+Answer	sodium chloride	answer
+0	sodium chloride is a kind of chemical compound	gold
+1	sodium chloride is a kind of substance	nongold
+2	sodium chloride means salt	nongold
+3	sodium chloride is always made of chemically combined chlorine and sodium	nongold
+4	hydrogen chloride is made of hydrogen and chlorine	nongold
+5	sodium is a kind of element	nongold
+6	table salt means sodium chloride	nongold
+7	sodium is a kind of metal	nongold
+8	zinc chloride is a kind of compound	nongold
+9	potassium is a kind of element	nongold
+10	hydrochloric acid is made of hydrogen chloride dissolved in water	nongold
+11	compound is a kind of chemical	nongold
+12	chlorine is a kind of element	nongold
+13	lithium; sodium; potassium; rubidium; caesium; francium is located in alkali metals; group 1 on the periodic table	nongold
+14	sodium chloride dissolves in water when they are combined	nongold
+15	sodium chloride is a kind of molecule	nongold
+16	a compound is a kind of substance	nongold
+17	organic compounds do not contain potassium	nongold
+18	a chemical compound is a kind of compound	nongold
+19	hydrochloric acid is a kind of acid	nongold
+20	NaCl means sodium chloride	nongold
+21	chemicals means substances	nongold
+22	chlorine is a kind of green, poisonous gas	nongold
+23	a nonmetal is a kind of element	nongold
+24	a compound is made of two or more elements that have been chemically combined	nongold
+25	if a substance is made of one element , then the substance is called an element	nongold
+26	sodium carbonate is a kind of  compound	nongold
+27	a compound can be chemically separated into the elements that it is made of	nongold
+28	hydrogen is a kind of element	nongold
+29	an alkaline earth metal is a kind of element	nongold
+30	an element is a kind of  substance	nongold
+31	sodium carbonate is made of sodium, carbon, oxygen	nongold
+32	nonmetal means nonmetals	nongold
+33	all elements are a kind of pure substance	nongold
+34	salt is a kind of solid	nongold
+35	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+36	table salt is a kind of salt	nongold
+37	ammonia is a kind of substance	nongold
+38	K means potassium	nongold
+39	substances are made of elements	nongold
+40	nonmetal means not metal	nongold
+41	mercury is a kind of element	nongold
+42	zinc is a kind of metal	nongold
+43	a compound is a kind of material	nongold
+44	water is a kind of compound	nongold
+45	An example of a chemical property is the elements a compound is made of	nongold
+46	Calcium; Beryllium; Strontium; Radium; Barium; Magnesium is located in alkaline earth metal family; group 2 on the periodic table	nongold
+47	oxygen  is a kind of element	nongold
+48	combining; mixing two substances chemically causes chemical reactions	nongold
+49	iron sulfide is made of iron and sulfur	nongold
+50	chromium is a kind of metal	nongold
+51	salt is a kind of pure substance	nongold
+52	a liquid is a kind of substance	nongold
+53	alkaline earth metals are highly reactive	nongold
+54	if something is dissolved , then that something is the solute	nongold
+55	oxygen; selenium; sulfur; tellurium; polonium is located in group 16; oxygen family on the periodic table	nongold
+56	an element is a kind of material	nongold
+57	magnesium is a kind of alkaline earth metal	nongold
+58	a halogen is a kind of element	nongold
+59	ammonia is a kind of base	nongold
+60	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+61	a metal is a kind of element	nongold
+62	argon is a kind of element	nongold
+63	iron sulfide can be formed by heating a mixture of powdered iron and sulfur	nongold
+64	Na means sodium	nongold
+65	magnesium oxide is a kind of compound	nongold
+66	nitrogen; arsenic; phosphorus; antimony is found in the nitrogen family on the periodic table	nongold
+67	to be made of something means to be formed of that something	nongold
+68	composed of means made of	nongold
+69	mercury  is a kind of metal	nongold
+70	can be means able to be	nongold
+71	substances have chemical properties	nongold
+72	mercury is liquid at room temperature	nongold
+73	the Earth's atmosphere is made of 1.288 percent argon by mass	nongold
+74	made up of means contains; made of	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	sodium bicarbonate is a kind of compound	nongold
+77	In the solution salt water , the solute is salt	nongold
+78	Fluorine(F); Chlorine(Cl); Bromine(Br); Iodine(I); Astatine(At) is located in halogens family; group 17 on the periodic table	nongold
+79	chemical reactions cause new substances; different substances to form	nongold
+80	answering questions requires information	nongold
+81	material means substance	nongold
+82	metal is a kind of substance	nongold
+83	a solid is a kind of substance	nongold
+84	if the elements have similar chemical reactivity , then the elements will react with other elements in a similar way	nongold
+85	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+86	elements in the same group on the Periodic Table of Elements have similar chemical reactivity	nongold
+87	acidity is a property of chemicals; substances and includes ordered values of basic; neutral; acidic	nongold
+88	conductivity is a property of a material; substance	nongold
+89	made of is similar to contains	nongold
+90	a metal is usually a solid at room temperature	nongold
+91	if something is made of something; a material then that something contains that something; that material	nongold
+92	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+93	an object; material; substance comes from that object or material's source	nongold
+94	a physical property is a kind of property	nongold
+95	Beryllium is located in alkaline earth metal family; group 2 on the periodic table	nongold
+96	a  chemical property is a kind of  property	nongold
+97	non-reactive means unreactive	nongold
+98	the chemistry of something is similar to what that something is made of	nongold
+99	elements in alkaline earth metals family reacts with water actively	nongold

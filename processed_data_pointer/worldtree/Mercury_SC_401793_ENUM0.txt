@@ -1,0 +1,102 @@
+Question	Which object is powered by an electrical circuit?	question
+Answer	a flashlight	answer
+0	a flashlight is a kind of electrical device	gold
+1	a flashlight requires a source of electricity to produce light	nongold
+2	a flashlight is a kind of battery-operated device	nongold
+3	a flashlight converts electrical energy; electricity into light energy	nongold
+4	a battery is a source of electrical energy; electricity	nongold
+5	a flashlight is a kind of tool	nongold
+6	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+7	a flashlight emits light	gold
+8	a  battery  is a kind of electrical power source	nongold
+9	a complete electrical circuit is a source of  electrical energy	gold
+10	a battery is a kind of object	nongold
+11	a battery-operated device is a kind of electrical device	nongold
+12	closing an electric circuit causes an electrical device to function	nongold
+13	electric devices require electrical energy to function	gold
+14	electricity means electrical energy	nongold
+15	a circuit is a kind of electrical component	nongold
+16	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+17	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+18	a device is a kind of object	nongold
+19	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+20	electricity is used as an energy source by electrical devices	nongold
+21	an electrical device requires electricity to turn on	nongold
+22	electrical devices are used for industrial purposes; household purposes by humans	nongold
+23	if something is powered by something else then that something requires a source of that something else	gold
+24	battery-powered is similar to battery-operated	nongold
+25	a tool is a kind of object	gold
+26	device means tool	gold
+27	a light bulb is a kind of electrical device	nongold
+28	electrical energy is a kind of energy	nongold
+29	batteries can be used to power electrical devices	nongold
+30	creating a simple circuit requires a wire; battery	nongold
+31	a machine is a kind of  device	nongold
+32	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+33	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+34	a light bulb is a kind of tool for seeing in the dark	nongold
+35	to be used for something means to be required by that something	nongold
+36	the function of something is what that something  is used to do	nongold
+37	electricity sometimes is used for heating buildings; substances	nongold
+38	flipping a switch completes an electrical circuit	nongold
+39	a light bulb is used for seeing in the dark	nongold
+40	a machine is a kind of object	nongold
+41	an electric motor is a kind of electrical device	nongold
+42	a light bulb is a part of a  lamp	nongold
+43	electrical current means electrical energy	nongold
+44	operating electrical appliances requires electricity	nongold
+45	an electric outlet is a source of electricity	nongold
+46	electrical signals are made of electrical energy	nongold
+47	when an electrical circuit is working properly , electrical current runs through that circuit; the wires in that circuit	nongold
+48	can be means able to be	nongold
+49	An electrical conductor is a vehicle for the flow of electricity	nongold
+50	when an electrical conductor is plugged into an outlet , a circuit is completed	nongold
+51	if the electrical  devices are connected in parallel circuit , then turning on or off any devices will not affect other devices	nongold
+52	a generator is a kind of  device	nongold
+53	to power means to provide energy for	nongold
+54	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+55	metal is an  electrical; electrical energy conductor	nongold
+56	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+57	to illuminate means to light up	nongold
+58	electromagnets can be powered by electricity	nongold
+59	a wire is a part of an electrical circuit for conducting electricity	nongold
+60	a source of something emits; produces; generates; provides that something	nongold
+61	electricity can  not flow through an open circuit	nongold
+62	a mechanism is a kind of system that performs a function	nongold
+63	a human is a kind of animal	nongold
+64	light means light energy	nongold
+65	technology is similar to tool	nongold
+66	if something performs a task then that task is that something's function	nongold
+67	to provide something means to be the source of that something	nongold
+68	a type is synonymous with a kind	nongold
+69	electrocution causes harm to an organism	nongold
+70	an electromagnet is a kind of device	nongold
+71	household appliances are a kind of electrical device	nongold
+72	an object; material; substance comes from that object or material's source	nongold
+73	answering questions requires information	nongold
+74	current means electric current	nongold
+75	a closed circuit has continuous path	nongold
+76	form means kind	nongold
+77	an object is an item	nongold
+78	person is synonymous with human	nongold
+79	instrument means tool	nongold
+80	something is used for that something's purpose	nongold
+81	pushing a button sometimes completes a circuit	nongold
+82	a light bulb requires electrical energy to produce light	nongold
+83	an instrument is a piece of equipment	nongold
+84	instrument means device	nongold
+85	light is a kind of energy	nongold
+86	light is a kind of energy	nongold
+87	an animal is a kind of living thing	nongold
+88	an animal is a kind of organism	nongold
+89	a device requires energy to operate	nongold
+90	wiring requires an electrical conductor	nongold
+91	an object has properties	nongold
+92	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+93	an electric toothbrush is a kind of electric device	nongold
+94	a vehicle is a kind of object	nongold
+95	emit means produce	nongold
+96	UV light is a kind of light	nongold
+97	to be a vehicle for is a kind of function	nongold
+98	affected means changed	nongold
+99	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	nongold

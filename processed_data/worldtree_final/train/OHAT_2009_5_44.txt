@@ -1,0 +1,102 @@
+0	What causes a blue block to appear blue in the sunlight?	question
+1	all blue light.	answer
+2	blue is a kind of color	gold
+3	a block is a kind of object	gold
+4	a blue object reflects only blue light	nongold
+5	if an object is blue then that object reflects only blue light	gold
+6	if an object is blue , then that object absorbs all the lights except blue light	nongold
+7	green is a kind of color	nongold
+8	daylight means sunlight	nongold
+9	sunlight is a kind of light	gold
+10	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+11	color is a kind of physical; visual property	nongold
+12	visible light is made of lights of different colors including violet, blue, green, yellow, orange, red light	nongold
+13	white light is made of all colors of visible light combined	nongold
+14	bright means bright; light in color	nongold
+15	if an object is white then that object reflects all visible light	nongold
+16	color is a property of  an object; a material	nongold
+17	appearing is similar to seeming	nongold
+18	the sun is a source of light; light energy called sunlight	nongold
+19	if an object reflects a light of a certain color then the object appears to be that color	gold
+20	sunshine means sunlight	nongold
+21	a white object reflects all visible light	nongold
+22	the sky is blue in color	nongold
+23	how something  appears is how that something  looks	nongold
+24	an object blocking light causes a shadow	nongold
+25	occur is similar to appear	nongold
+26	refracting sunlight; light causes sunlight; light to split into different colors	nongold
+27	red is a kind of color	nongold
+28	appear is similar to apparent	nongold
+29	light means light energy	nongold
+30	shade means low sunlight	nongold
+31	the sun is a source of radiation; heat called sunlight	nongold
+32	to be in the sun means to be in the sunlight	nongold
+33	sunlight means solar energy	nongold
+34	sunlight is made of all colors in the rainbow	nongold
+35	light is a kind of wave	nongold
+36	the Sun is a kind of star	nongold
+37	if an object is black then that object absorbs all visible light; heat	nongold
+38	objects are made of materials; substances; matter	nongold
+39	yellow is a kind of color	nongold
+40	when object is in direct light then that object is not shaded	nongold
+41	bright means a lot of light	nongold
+42	the sun is a kind of yellow dwarf	nongold
+43	visible light is a kind of  light	nongold
+44	being in the sun is synonymous with being in the sunlight	nongold
+45	sunlight is a kind of solar energy	nongold
+46	if an object is in the light then that object is blocking the light	nongold
+47	the sunlight occurs during the day	nongold
+48	intensity of sunlight is similar to amount of sunlight	nongold
+49	red light has the longest wavelength	nongold
+50	refraction causes something to appear; to look different	nongold
+51	blue eyes are similar to light eyes	nongold
+52	solar radiation means solar energy	nongold
+53	a wall is a kind of object	nongold
+54	darker objects absorb more light than light colored objects	nongold
+55	UV light is a kind of light	nongold
+56	An example of camouflage is when something is; has the same color as its environment	nongold
+57	to illuminate means to light up	nongold
+58	materials are made of matter	nongold
+59	appearance is a property of objects; materials	nongold
+60	the atmosphere contains matter that reflects blue light	nongold
+61	daylight is when the sun shines on a location	nongold
+62	the sun is not a star in the night sky	nongold
+63	the color of an object can be discovered by looking at that object	nongold
+64	white objects absorbs the least sunlight	nongold
+65	as the size of a source of light increases , that source of light will appear brighter	nongold
+66	purple;violet;magenta is a kind of color	nongold
+67	to look like means to have the visual properties of	nongold
+68	light reflecting off of an object causes that object to be visible to the observer	nongold
+69	a wall is a kind of surface	nongold
+70	reflecting light; sound is the opposite of absorbing light; sound	nongold
+71	color is an intensive property	nongold
+72	daylight occurs during the day	nongold
+73	visible lights can be divided into smaller ranges of light waves by the range of colors	nongold
+74	seeing requires light	nongold
+75	solar energy is a kind of light	nongold
+76	a plant light is used for help plants by mimicking sunlight	nongold
+77	white is a kind of color	nongold
+78	a star's surface temperature causes the star's  color	nongold
+79	eyes are a part of a human for seeing	nongold
+80	substances are made of matter	nongold
+81	clouds and dust block visible light	nongold
+82	coloration means a thing's color	nongold
+83	Camouflage is synonymous with visual disguise	nongold
+84	sunlight produces heat	nongold
+85	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+86	can be means able to be	nongold
+87	the sun is the source of solar energy called sunlight	nongold
+88	to receive sunlight means to absorb sunlight	nongold
+89	to be a source of something means to cause that something	nongold
+90	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+91	as the state  of matter changes , the color of the object will stay the same	nongold
+92	matter; materials; substances are made of atoms; particles	nongold
+93	as a source of light becomes closer , that source will appear brighter	nongold
+94	a source of something emits; produces; generates; provides that something	nongold
+95	brightness means amount of light	nongold
+96	an increase is a kind of change	nongold
+97	to cause means to have an effect	nongold
+98	painting an object a color causes that object to be that color	nongold
+99	dark means dark in color	nongold
+100	brighter means higher; greater in brightness	nongold
+101	black objects absorbs the most sunlight	nongold

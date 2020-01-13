@@ -1,0 +1,102 @@
+Question	In the process of photosynthesis, sunlight is converted into	question
+Answer	chemical energy.	answer
+0	photosynthesis is a kind of chemical  process	nongold
+1	sunlight is a kind of solar energy	nongold
+2	chemical energy is a kind of energy	nongold
+3	photosynthesis is a kind of chemical reaction	nongold
+4	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+5	conversion is a kind of process	nongold
+6	sunlight means solar energy	gold
+7	sunshine means sunlight	nongold
+8	solar energy is a kind of energy	nongold
+9	solar energy is a kind of light	nongold
+10	energy conversion is similar to energy transformation	nongold
+11	sunlight is a kind of light	nongold
+12	food is a kind of chemical energy	gold
+13	photosynthesis stores; captures energy	nongold
+14	the sun is a source of light; light energy called sunlight	nongold
+15	daylight means sunlight	nongold
+16	light is a kind of energy	nongold
+17	light is a kind of energy	nongold
+18	energy transformation means one kind of energy changes into another kind of energy	nongold
+19	solar energy is a kind of heat energy	nongold
+20	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	gold
+21	chemical reactions cause chemical change	nongold
+22	sunlight produces heat	nongold
+23	the sun is the source of solar energy called sunlight	nongold
+24	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+25	to transform means to convert	nongold
+26	heat is a kind of energy	nongold
+27	photosynthesizing means performing photosynthesis	nongold
+28	a chemical reaction is a kind of process	nongold
+29	converting is similar to producing	nongold
+30	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+31	a reaction is a kind of process	nongold
+32	light means light energy	nongold
+33	to turn means to convert	nongold
+34	chemical reactions cause new substances; different substances to form	nongold
+35	the photosynthetic life performs photosynthesis	nongold
+36	photosynthesis is a source of oxygen	nongold
+37	forming is similar to converting	nongold
+38	a  plant requires sunlight for photosynthesis	nongold
+39	to convert means to change	nongold
+40	a source of something emits; produces; generates; provides that something	nongold
+41	carbohydrates store chemical energy	nongold
+42	convert is similar to transfer	nongold
+43	to give off means to be the source of	nongold
+44	to be formed by is similar to being produced by	nongold
+45	chemicals means substances	nongold
+46	substances have chemical properties	nongold
+47	hydrogen contains chemical energy	nongold
+48	synthesize means to make	nongold
+49	chemical change is a kind of chemical reaction	nongold
+50	most chemical reactions release or absorb heat energy	nongold
+51	to provide something means to be the source of that something	nongold
+52	compound is a kind of chemical	nongold
+53	reaction to light is a kind of chemical property	nongold
+54	producing is a kind of process	nongold
+55	chemical energy is a kind of potential energy	nongold
+56	converting is similar to turning into	nongold
+57	to add means to increase	nongold
+58	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+59	form means kind	nongold
+60	food contains carbohydrates	nongold
+61	can be means able to be	nongold
+62	objects contain chemical energy	nongold
+63	heat means heat energy	nongold
+64	if something transfers something else then that something is a source of something else	nongold
+65	cellular energy is a kind of chemical energy	nongold
+66	thermal energy is a kind of energy	nongold
+67	converting is similar to releasing	nongold
+68	products are formed; are produced; are created	nongold
+69	a part of a process means a stage in a process	nongold
+70	a nutrient is a kind of chemical compound	nongold
+71	a leaf absorbs sunlight to perform photosynthesis	nongold
+72	to give is similar to to cause	nongold
+73	if something causes a process then that something is required for that process	nongold
+74	converting is a kind of function	nongold
+75	temperature is a measure of heat energy	nongold
+76	transferring is similar to giving	nongold
+77	to be made of something means to be formed of that something	nongold
+78	the sunlight occurs during the day	nongold
+79	a cycle is a kind of process	nongold
+80	change is a kind of process	nongold
+81	converting is similar to generating	nongold
+82	substances contain chemical bond energy	nongold
+83	high is similar to increase	nongold
+84	a process usually requires all of the stages in that process	nongold
+85	chemical reaction means chemical bonds change	nongold
+86	In the photosynthesis process oxygen has the role of  waste product	nongold
+87	acid can cause chemical change	nongold
+88	exergonic chemical reactions only release energy	nongold
+89	the chemistry of something is similar to what that something is made of	nongold
+90	to receive sunlight means to absorb sunlight	nongold
+91	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+92	a producer is a kind of living thing	nongold
+93	a leaf performs photosynthesis; gas exchange	nongold
+94	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+95	emit means produce	nongold
+96	if something gains something from something else then that something else is a source of that something	nongold
+97	UV light is a kind of light	nongold
+98	if something releases something else then that something is the source of that something else	nongold
+99	composed of means made of	nongold

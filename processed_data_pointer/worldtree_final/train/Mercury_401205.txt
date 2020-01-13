@@ -1,0 +1,102 @@
+0	nonliving; non-living; die is the opposite of living; alive; live	nongold
+1	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+2	a hawk is a kind of bird	nongold
+3	eating something decreases the amount of that something	nongold
+4	a mouse is a kind of mammal	nongold
+5	habitat is similar to environment	nongold
+6	an organism is a living thing	nongold
+7	a deer is a kind of animal	nongold
+8	negative impacts on a species will decrease populations of a species	nongold
+9	reproduction increases the number; population of a living thing	nongold
+10	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+11	a mouse is a kind of herbivore	nongold
+12	as population of predators increases , the population of prey will decrease in an environment	gold
+13	an environment means an area	nongold
+14	result means outcome	nongold
+15	killing means harming something causing death	nongold
+16	animals; living things live and feed in their habitats; near their habitats	nongold
+17	a rabbit is a kind of mammal	nongold
+18	a rabbit is a kind of animal	nongold
+19	an ecosystem contains a large community of; large numbers of living organisms	nongold
+20	an ecosystem is a kind of habitat	nongold
+21	if something emits something else then that something increases the amount of that something else	nongold
+22	a mouse is a kind of animal	nongold
+23	a deer lives in a forest	nongold
+24	high is similar to increase	nongold
+25	harming something has a  negative impact on; effect on that something	nongold
+26	impact means effect	nongold
+27	mice live in in holes in the ground in fields; in forests	nongold
+28	as population of predators decreases , the population of prey will increase in an environment	nongold
+29	if an organism eats something then that something is a source of frood to that organism	nongold
+30	an animal; living thing requires nutrients for survival	nongold
+31	a deer mouse is a kind of mouse	nongold
+32	a predator eats other animals for food	nongold
+33	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+34	death means to die	nongold
+35	a bird is a kind of living thing	nongold
+36	less is similar to decrease	nongold
+37	a decrease is a kind of change	nongold
+38	a living thing is a kind of object	nongold
+39	a mammal is a kind of animal	nongold
+40	positively impacting an organism's survival increases the likelihood of survival of that organism	nongold
+41	trait is synonymous with characteristic	nongold
+42	As the hawk population increases in an ecosystem, the deer mouse population will most likely decrease as a result of	question
+43	predators eat prey	gold
+44	harming an organism can cause that organism to die	nongold
+45	hunting requires seeing; sensing prey	nongold
+46	a cat is a kind of mammal	nongold
+47	as the cause of something decreases , that something will decrease	nongold
+48	a plant; living thing requires food for survival	nongold
+49	an animal requires a habitat for survival	nongold
+50	organisms are a part of an environment	nongold
+51	an environment is similar to an ecosystem	gold
+52	a source of something increases the amount of that something	nongold
+53	an eagle is a kind of bird	nongold
+54	if a new predator begins eating prey then the population of that prey will decrease	nongold
+55	wolves eat elk; deer	nongold
+56	an animal is a kind of organism	nongold
+57	increase in predators.	answer
+58	an increase is a kind of change	nongold
+59	to produce means to result in	nongold
+60	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+61	as the supply of food in an environment decreases , the population of animals in that environment will decrease	nongold
+62	harming an animal species causes that animal's population to decrease	nongold
+63	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+64	eating prey requires catching prey	nongold
+65	hawks;eagles eat snakes;lizards; rats; rabbits; mice	gold
+66	to cause means to result in	nongold
+67	an increase is the opposite of a decrease	nongold
+68	to prey on an animal means to eat that animal	nongold
+69	an animal is a kind of living thing	nongold
+70	whitetail deer is a kind of deer	nongold
+71	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+72	a hawk is a kind of animal	nongold
+73	a predator is a kind of animal	nongold
+74	to lower means to decrease	nongold
+75	prey is a kind of food for predators	nongold
+76	a predator usually kills its prey to eat it	nongold
+77	if the population of an organism increases then the ecosystem may become overpopulated with that organism	nongold
+78	a rabbit is a kind of prey	nongold
+79	low is similar to decrease	nongold
+80	killing a living thing decreases the number; population size of that living thing	nongold
+81	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+82	most predators live in; live near the same environment as their prey	nongold
+83	prey  is a kind of animal	nongold
+84	positive impacts on a species will increase populations of a species	nongold
+85	a bird is a kind of animal	nongold
+86	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+87	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+88	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+89	a deer is a kind of prey	nongold
+90	as the rate of  reproduction decreases , the population will decrease	nongold
+91	as  population of prey decreases , the population of predators will  decrease	nongold
+92	an animal is a member of an animal species	nongold
+93	harming an animal species has a  negative impact on the population size of that species	nongold
+94	diet means what an animal eats	nongold
+95	an eagle is a kind of predator	nongold
+96	to reduce means to decrease	nongold
+97	an hawk is a kind of predator	nongold
+98	an ecosystem contains nonliving things	nongold
+99	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+100	killing means changing a living thing from alive to dead by harming	nongold
+101	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold

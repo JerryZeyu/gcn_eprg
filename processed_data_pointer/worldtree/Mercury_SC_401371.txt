@@ -1,0 +1,102 @@
+Question	Which event occurs on a daily cycle?	question
+Answer	The Sun rises and sets.	answer
+0	the sun rising; setting occurs once per day	nongold
+1	a cycle happens; occurs repeatedly	nongold
+2	the sun rising is a kind of event	nongold
+3	daily means every day; once per day	gold
+4	the sun setting is a kind of event	nongold
+5	the moon rising occurs once per day	nongold
+6	events occur at a specific place; at a specific time; with a specific frequency	nongold
+7	the sunlight occurs during the day	nongold
+8	the sun rising and setting causes cycles of day and night	gold
+9	everyday means daily	nongold
+10	to happen means to occur	nongold
+11	the sun rises in the east	nongold
+12	rising means height; altitude increases	nongold
+13	monthly means once per month	nongold
+14	the day time is part of one day	nongold
+15	the Sun is a kind of star	gold
+16	days are a kind of unit for measuring time	nongold
+17	something that happens is a kind of event	nongold
+18	cycles of day and night occur once per day	gold
+19	a cycle is a kind of process	nongold
+20	sunlight is a kind of solar energy	nongold
+21	a star is a kind of celestial object; celestial body	gold
+22	the sun sets in the west	nongold
+23	sunrise occurs at the beginning of the day	nongold
+24	rising is a kind of motion	gold
+25	an event is a kind of action	nongold
+26	sunlight is a kind of light	nongold
+27	sunshine means sunlight	nongold
+28	a celestial body travelling around another celestial body means that celestial body completes a cycle around that other celestial body	nongold
+29	annual means once per year	nongold
+30	the sun is a source of light; light energy called sunlight	nongold
+31	sunlight means solar energy	nongold
+32	the last stage of a life cycle occurs at the end of a life cycle	nongold
+33	each of the moon's phases occurs once per month	nongold
+34	Earth is a kind of planet	nongold
+35	a process is a kind of event	nongold
+36	a moon is a kind of celestial object; body	nongold
+37	each season occurs once per year	nongold
+38	month is a kind of period of time	nongold
+39	a planet is a kind of celestial object; body	nongold
+40	yearly means every year	nongold
+41	length of time means period of time	nongold
+42	rising means elevation	nongold
+43	plants appearing on Earth is a kind of event	nongold
+44	high is similar to increase	nongold
+45	setting is a kind of motion	gold
+46	to travel up means to rise	nongold
+47	the Moon completes a lunar cycle over a period of 29 days	nongold
+48	the sun is the source of solar energy called sunlight	nongold
+49	period is similar to amount of time	nongold
+50	once per means every	nongold
+51	the Moon is Earth's moon	nongold
+52	rising means moving upward	nongold
+53	months are a kind of unit for measuring time	nongold
+54	noon is a kind of time of day	nongold
+55	a unit for measuring time is a kind of time interval	nongold
+56	movements of celestial bodies are a kind of event	nongold
+57	solar energy is a kind of energy	nongold
+58	Earth's revolution is a kind of cycle	nongold
+59	daytime means day	nongold
+60	the Earth revolves around the sun	nongold
+61	the Earth revolving around the Sun causes the seasons to change; to occur on its axis	nongold
+62	years are a kind of unit for measuring time	nongold
+63	to ascend means to rise	nongold
+64	solar energy is a kind of light	nongold
+65	a measure of time is a length of time	nongold
+66	Tuesday is a kind of  time	nongold
+67	a change is a kind of event	nongold
+68	to add means to increase	nongold
+69	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+70	a motion is a kind of event; action	gold
+71	the water cycle occurs on Earth	nongold
+72	answering questions requires information	nongold
+73	hours are a kind of unit for measuring time	nongold
+74	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+75	the sun  is the source of energy for physical cycles on Earth	nongold
+76	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+77	an increase is a kind of change	nongold
+78	all the time means at day and at night	nongold
+79	the moon orbiting the Earth occurs once per month	nongold
+80	solar energy is a kind of heat energy	nongold
+81	a moon phase is a kind of natural event	nongold
+82	the sun is the source of energy for life on Earth	nongold
+83	event is similar to occurrence	nongold
+84	a planet rotating causes cycles of day and night on that planet	nongold
+85	lifetime is similar to life cycle	nongold
+86	sunlight produces heat	nongold
+87	astronomy is the study of celestial (objects, bodies)	nongold
+88	to pass means to occur	nongold
+89	a moon phase occurs 28 days after the last time it occurred	nongold
+90	to be in the sun means to be in the sunlight	nongold
+91	being in the sun is synonymous with being in the sunlight	nongold
+92	red giant is a kind of stage in the life cycle of a star	nongold
+93	take place means happen	nongold
+94	daylight is when the sun shines on a location	nongold
+95	afternoon is a part of day time	nongold
+96	the afternoon is  a part of the day	nongold
+97	the new moon is when the lighted half of the moon faces the Sun	nongold
+98	a new moon is a kind of phase of the moon	nongold
+99	affected means changed	nongold

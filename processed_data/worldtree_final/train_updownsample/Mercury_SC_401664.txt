@@ -1,0 +1,61 @@
+0	human waste often causes harm to an environment	nongold
+1	metal is a kind of material	gold
+2	copper is a kind of metal	nongold
+3	aluminum is a kind of element	nongold
+4	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	gold
+5	negative impact is the opposite of positive impact	nongold
+6	aluminum is recyclable	gold
+7	if an object is made of a material then that object has the properties of that material	gold
+8	aluminum is recyclable	gold
+9	An example of avoiding waste is using an object; a material more than once	nongold
+10	an aluminum can	answer
+11	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	gold
+12	metal is a kind of natural resource	nongold
+13	a product is a kind of object	nongold
+14	recyclable means a material can be recycled	gold
+15	Which object used in an experiment can safely be recycled?	question
+16	a solid is a kind of substance	nongold
+17	recycling means reusing	nongold
+18	a piece of something is a kind of object	nongold
+19	to be used for something means to be required by that something	nongold
+20	recycling means using over again	nongold
+21	aluminum is a kind of metal	gold
+22	Which object used in an experiment can safely be recycled?	question
+23	an aluminum can	answer
+24	instrument means tool	nongold
+25	metal is a kind of material	gold
+26	metal is a kind of material	gold
+27	harming something has a  negative impact on; effect on that something	nongold
+28	if an object is made of a material then that object has the properties of that material	gold
+29	trash is synonymous with waste	nongold
+30	a container is a kind of object	nongold
+31	a  solution  is a kind of object	nongold
+32	recycling reduces; decreases the amount of waste sent to landfills	nongold
+33	a garbage can is made of metal	nongold
+34	aluminum is a kind of matter	nongold
+35	aluminum is a kind of metal	gold
+36	an object; material; substance comes from that object or material's source	nongold
+37	cannot is the opposite of  can	nongold
+38	recyclable means a material can be recycled	gold
+39	aluminum is recyclable	gold
+40	metal is a kind of substance	nongold
+41	an insulator is the opposite of a conductor	nongold
+42	aluminum is a nonrenewable resource	nongold
+43	a can is a kind of object	nongold
+44	a metal is usually a solid at room temperature	nongold
+45	experiment is synonymous with test	nongold
+46	if an object is made of a material then that object has the properties of that material	gold
+47	metal is a nonrenewable resource	nongold
+48	tool is similar to appliance	nongold
+49	recyclable means a material can be recycled	gold
+50	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	gold
+51	material means substance	nongold
+52	an aluminum can	answer
+53	aluminum is a kind of metal	gold
+54	Which object used in an experiment can safely be recycled?	question
+55	technology is similar to tool	nongold
+56	device means tool	nongold
+57	an insulator is a kind of material	nongold
+58	Which object used in an experiment can safely be recycled?	question
+59	an aluminum can	answer
+60	answering questions requires information	nongold

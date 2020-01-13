@@ -1,0 +1,102 @@
+Question	Tides, such as those along the coast of Massachusetts, are caused by gravitational attractions acting on Earth. Why is the gravitational attraction of the Moon a greater factor in determining tides than the gravitational attraction of the much larger Sun?	question
+Answer	Earth is much closer to the Moon than to the Sun.	answer
+0	the Moon is closer to the Earth than the Sun	nongold
+1	the Sun is the  star that is closest to Earth	nongold
+2	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+3	Earth is a kind of planet	gold
+4	the moon is the celestial object that is closest to the  Earth	gold
+5	Earth is the planet that is third closest to the  Sun	nongold
+6	far means great in distance	nongold
+7	as the gravitational pull of the moon on the Earth decreases , the size of the tides on Earth decrease	nongold
+8	closer means lower; less; a decrease in distance	nongold
+9	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+10	far is the opposite of close	nongold
+11	determine is similar to cause	nongold
+12	close means low in distance	gold
+13	the gravitational pull of the Sun on Earth's oceans causes the tides	nongold
+14	a coast is where land meets the edge of a body of water	nongold
+15	a planet's  moon is smaller than that planet	nongold
+16	attract means move closer	nongold
+17	the gravitational pull of the Moon on Earth's oceans causes the tides	gold
+18	attracting something to a location causes that something  to be near that location	nongold
+19	distant means great in distance	nongold
+20	near means close	nongold
+21	larger means greater; higher; more; increase in size	nongold
+22	Massachusetts is a state located in the United States of America	nongold
+23	the Moon is Earth's moon	nongold
+24	greater means higher; more in value	gold
+25	high is similar to increase	nongold
+26	determining often requires measuring; observing	nongold
+27	less is similar to decrease	nongold
+28	Massachusetts is not located on the boundary of two tectonic plates	nongold
+29	the Sun is a kind of star	gold
+30	gravity causes orbits	nongold
+31	low is similar to decrease	gold
+32	the moon orbits the Earth	nongold
+33	furthest; farthest means greatest; most; highest in distance	nongold
+34	an increase is the opposite of a decrease	nongold
+35	proximity means distance	nongold
+36	increase means more	gold
+37	distant means far away	nongold
+38	a planet is a kind of celestial object; body	gold
+39	smaller means less; lower in size	nongold
+40	larger; bigger is the opposite of smaller	nongold
+41	near; close is the opposite of far; away	nongold
+42	a star is usually larger than a planet	nongold
+43	to lower means to decrease	nongold
+44	a factor impacts something	nongold
+45	an increase is a kind of change	nongold
+46	ocean tides are a kind of phenomenon	nongold
+47	greatest means largest; highest; most amount of something	nongold
+48	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+49	coastline means coast	nongold
+50	a decrease is a kind of change	nongold
+51	a moon is a kind of celestial object; body	nongold
+52	as distance from an object decreases , the the pull of gravity on that object increases	gold
+53	pull is similar to attract	nongold
+54	tidal means related to tides	nongold
+55	distance is a property of space and includes ordered values of close; far	nongold
+56	as distance from a source of something increases , that something will decrease	nongold
+57	the Earth revolves around the sun	nongold
+58	small is the opposite of large	nongold
+59	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+60	identifying is similar to determining	nongold
+61	motion is when moves an object; something to a direction	nongold
+62	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+63	to be a source of something means to cause that something	nongold
+64	as gravitational pull of the moon decreases , the ocean tides will be lower	nongold
+65	lower means less	nongold
+66	massive is similar to large	nongold
+67	a star is a kind of celestial object; celestial body	gold
+68	gravity is a kind of force	nongold
+69	towards means closer to something	nongold
+70	little is similar to decrease	nongold
+71	a coast is a kind of environment	nongold
+72	higher means greater; above in value; amount; number	nongold
+73	a property is similar to a factor	nongold
+74	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	nongold
+75	the mass of a planet causes the pull of gravity on that planet	nongold
+76	the earth has more mass than the moon	nongold
+77	larger is a kind of difference	nongold
+78	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+79	a motion is a kind of event; action	nongold
+80	orbiting is a kind of action	nongold
+81	producing is similar to causing	nongold
+82	astronomical unit is a measure of distance between Earth and the Sun	nongold
+83	moving away from the source increases the distance	nongold
+84	to change means to cause a change	nongold
+85	to move away means to increase distance	nongold
+86	Jupiter is the planet that is fifth closest to the Sun	nongold
+87	a planet is a kind of location	nongold
+88	to move toward means to move nearer	nongold
+89	the four planets farthest from the sun are made of gas	nongold
+90	extreme means very high in value	nongold
+91	an part of an object is smaller than the entire object	nongold
+92	the four planets closest to the sun are made of rock	nongold
+93	causing means influencing	nongold
+94	can be means able to be	nongold
+95	a tide is a kind of natural event	nongold
+96	astronomy is the study of celestial (objects, bodies)	nongold
+97	too much is similar to increase	nongold
+98	place means space	nongold
+99	to act on means to affect	nongold

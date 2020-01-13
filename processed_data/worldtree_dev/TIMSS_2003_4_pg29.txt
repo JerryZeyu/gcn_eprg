@@ -1,0 +1,102 @@
+Question	Immediately before and after running a 50 metre race, your pulse and breathing rates are taken. What changes would you expect to find?	question
+Answer	an increase in pulse and breathing rate	answer
+0	an increase is a kind of change	gold
+1	a decrease is a kind of change	nongold
+2	an increase is the opposite of a decrease	nongold
+3	running is a kind of movement	nongold
+4	race is when vehicles; humans compete	nongold
+5	a meter is a kind of unit for measuring distance; measuring length	nongold
+6	high is similar to increase	nongold
+7	to lower means to decrease	nongold
+8	take in means absorb	nongold
+9	low is similar to decrease	nongold
+10	as energy required for an activity increases , pulse; breathing rate will increase	gold
+11	a human is a kind of animal	nongold
+12	breathing is a kind of process	nongold
+13	to turn means to change	nongold
+14	an animal is a kind of organism	nongold
+15	to discover means to find	nongold
+16	take place means happen	nongold
+17	taking in something means receiving; absorbing; getting something	nongold
+18	a source of something increases the amount of that something	nongold
+19	affected means changed	nongold
+20	a heart is a part of the body	nongold
+21	taking is the opposite of giving; leaving	nongold
+22	take in oxygen means get oxygen into the blood	nongold
+23	if something used to be in the past then that something  has changed	nongold
+24	increase means more	nongold
+25	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+26	take away means decreasing	nongold
+27	breathing is a kind of  function	nongold
+28	as the rate at which the heart beats increases , the rate at which blood travels to the rest of the body will increase	nongold
+29	variable means able to change	nongold
+30	an animal is a kind of living thing	nongold
+31	breathing  is when a lung converts from oxygen in air into oxygen in blood	nongold
+32	little is similar to decrease	nongold
+33	to change means to cause a change	nongold
+34	the lungs are a part of the body of an animal used for breathing air	nongold
+35	a change is a kind of event	nongold
+36	all animals breathe	nongold
+37	rate is similar to speed	nongold
+38	to detect means to find	nongold
+39	less is similar to decrease	nongold
+40	to reduce means to decrease	nongold
+41	start of a race is located at the beginning of a track	nongold
+42	a person is a kind of animal	nongold
+43	movement is a kind of change	nongold
+44	if something emits something else then that something increases the amount of that something else	nongold
+45	can be means able to be	nongold
+46	faster means an increase; higher in speed	nongold
+47	greater means higher; more in value	nongold
+48	greatest means largest; highest; most amount of something	nongold
+49	if something releases something else then that something else decreases in that something	nongold
+50	events occur at a specific place; at a specific time; with a specific frequency	nongold
+51	the body is a part of an organism	nongold
+52	a motion is a kind of event; action	nongold
+53	a source of something emits; produces; generates; provides that something	nongold
+54	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+55	if the component of something changed , then the whole thing will change	nongold
+56	an event is a kind of action	nongold
+57	to change means to become different	nongold
+58	a phase change is a kind of physical change	nongold
+59	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+60	faster means increased rate	nongold
+61	breathing out is when animals exhale carbon dioxide from their lungs into the air	nongold
+62	a solid is a kind of substance	nongold
+63	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+64	change is a kind of process	nongold
+65	too much is similar to increase	nongold
+66	phase means state	nongold
+67	to slow; to slow down decreases speed	nongold
+68	finding something requires sensing that something	nongold
+69	an organism is a living thing	nongold
+70	extreme means very high in value	nongold
+71	motion is when moves an object; something to a direction	nongold
+72	higher means greater; above in value; amount; number	nongold
+73	person is synonymous with human	nongold
+74	if there is a loss of something then that something decreases	nongold
+75	running requires a lot of energy	gold
+76	an animal; bacterium requires oxygen for survival; to breathe	nongold
+77	seconds are a kind of unit for measuring time	nongold
+78	gas is a kind of state of matter	nongold
+79	m/s means meters per second	nongold
+80	a process is a kind of event	nongold
+81	solid is a kind of state of matter	nongold
+82	exhaling  is when an animal expels air from the lungs	nongold
+83	action can cause change	nongold
+84	something that happens is a kind of event	nongold
+85	changed is the opposite of unchanged	nongold
+86	air is a kind of matter	nongold
+87	a living thing is a kind of object	nongold
+88	atmosphere means  air	nongold
+89	if something causes an increase in something else then that something produces that something else	nongold
+90	the blood vessels are a part of the body	nongold
+91	speed is a measure of how fast an object is moving	nongold
+92	speed up means increase	nongold
+93	breathing in is when animals inhale air into their lungs	nongold
+94	air is a kind of gas	nongold
+95	to happen means to occur	nongold
+96	an part of an object is smaller than the entire object	nongold
+97	motion; movement means moving; to move	nongold
+98	evaporating is a kind of phase change	nongold
+99	speed is a property of an object and includes values of slow; fast	nongold

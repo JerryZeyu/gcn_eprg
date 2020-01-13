@@ -1,0 +1,102 @@
+0	transferring is similar to giving	nongold
+1	a living thing is a kind of object	nongold
+2	a plant is a kind of living thing	nongold
+3	an animal requires energy to move	gold
+4	a producer is a kind of living thing	nongold
+5	if something is a raw material in a process then that something is required for that process	nongold
+6	food is a kind of substance	nongold
+7	a human is a kind of animal	nongold
+8	a plant; living thing requires food for survival	nongold
+9	taking in something means receiving; absorbing; getting something	nongold
+10	prey is a kind of food for predators	nongold
+11	a producer is a source of sugar; food energy in an ecosystem	nongold
+12	a predator eats other animals for food	nongold
+13	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+14	a mammal is a kind of animal	nongold
+15	if something requires something else then that something requires a source of that something else	nongold
+16	an animal is a kind of organism	nongold
+17	an organism is a living thing	nongold
+18	walking is a kind of motion	nongold
+19	a vegetable is a kind of food	nongold
+20	good means positive	nongold
+21	an object; material; substance comes from that object or material's source	nongold
+22	a supply of something is a source of that something	nongold
+23	to run on means to use as an energy source	nongold
+24	sound is a kind of energy	nongold
+25	food is a kind of resource	nongold
+26	animal instinct means instinctive behavior	nongold
+27	receive means get	nongold
+28	A dog gets the energy it needs to run from ___.	question
+29	to eat means to consume food	nongold
+30	a person is a kind of animal	nongold
+31	producer is a kind of role in the food chain process; in an ecosystem	nongold
+32	requiring is similar to needing help	nongold
+33	if something is passed down to something else then that something else receives that something	nongold
+34	running is a kind of movement	gold
+35	an animal is a kind of living thing	nongold
+36	mechanical energy is a kind of energy	nongold
+37	an animal; living thing requires nutrients for survival	nongold
+38	a human is a kind of mammal	nongold
+39	getting something increases the amount of that something	nongold
+40	to obtain means to get	nongold
+41	provide is similar to give; make	nongold
+42	if something generates energy for something else then that something powers that something else	nongold
+43	a producer produces its own food	nongold
+44	a source of something emits; produces; generates; provides that something	nongold
+45	a dog is a kind of animal	gold
+46	one can get something from a source	gold
+47	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+48	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+49	a puppy is a young; baby dog	nongold
+50	a material is a kind of resource	nongold
+51	an energy source is a kind of resource	nongold
+52	an event is a kind of action	nongold
+53	resources sometimes are used for energy	nongold
+54	heat is a kind of energy	nongold
+55	if something is a raw material then that something comes directly from a source	nongold
+56	a vegetable is a kind of plant	nongold
+57	living things all require energy for survival	nongold
+58	a food contains nutrients for living things	nongold
+59	nutrients are a kind of resource	nongold
+60	fast means quickly	nongold
+61	nutrients are a source of energy for living things	nongold
+62	needing something means depending on that something	nongold
+63	food	answer
+64	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+65	food is a kind of object	nongold
+66	requiring something means needing that something	nongold
+67	running requires a lot of energy	nongold
+68	if something comes from something else then that something else is a source of that something	nongold
+69	a producer is a source of energy for consumers	nongold
+70	a consumer is a kind of organism	nongold
+71	food is a kind of chemical energy	nongold
+72	an animal is a kind of consumer	nongold
+73	a cat is a kind of animal	nongold
+74	if a living thing requires something then that something has a positive impact on that living thing	nongold
+75	if something causes a process then that something is required for that process	nongold
+76	an organism requires energy for growth; repair	nongold
+77	an animal needs to eat food for nutrients	nongold
+78	obtain is similar to receive	nongold
+79	resources becoming available has a positive impact on the things that need those resources	nongold
+80	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+81	food is what an animal eats	nongold
+82	a cat is a kind of mammal	nongold
+83	to be used for something means to be required by that something	nongold
+84	fastest means greatest in  speed	nongold
+85	diet means what an animal eats	nongold
+86	where something  comes from is a source of that something	nongold
+87	green plants are a kind of producer	nongold
+88	person is synonymous with human	nongold
+89	to depend on; to rely on; to need means to require	gold
+90	fast is the opposite of slow	nongold
+91	if something gains something from something else then that something else is a source of that something	nongold
+92	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+93	food is a source of energy for animals; plants	gold
+94	animals are a renewable resource	nongold
+95	an organism eating is a kind of action	nongold
+96	what something needs is a property of that something	nongold
+97	nutrients are a kind of substance	nongold
+98	living things eat their food source	nongold
+99	a plant is a kind of organism	nongold
+100	if an organism eats something then that something is a source of frood to that organism	nongold
+101	a process is a kind of event	nongold

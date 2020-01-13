@@ -1,0 +1,102 @@
+Question	In which environment would a white rabbit be best protected from predators?	question
+Answer	a snowy field	answer
+0	a field is a kind of environment	gold
+1	camouflage is used for protection; hiding by prey; animals against predators; from predators	gold
+2	a field is a kind of habitat	nongold
+3	snowy means a large amount of snow	gold
+4	a rabbit is a kind of prey	nongold
+5	a rabbit is a kind of animal	gold
+6	hiding is a kind of protection against predators; from predators	gold
+7	the arctic environment is white in color from being covered in snow	nongold
+8	when snow falls in an environment in an environment , that environment will become white	nongold
+9	snow is white in color	gold
+10	cold environments sometimes are white in color from being covered in snow	nongold
+11	camouflage is a kind of protection against predators; from predators; against consumers	gold
+12	protecting something means preventing harm to that something	nongold
+13	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+14	to protect means to defend	nongold
+15	snowing is when snow fall from clouds to the Earth;ground	nongold
+16	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+17	white is a kind of color	nongold
+18	a rabbit is a kind of mammal	gold
+19	if a living thing becomes too cold then that living thing will die	nongold
+20	snow is a kind of object	nongold
+21	an environment means an area	nongold
+22	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+23	covering something is a kind of protection	nongold
+24	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+25	a predator is a kind of animal	nongold
+26	snow falls during the winter in some environments	nongold
+27	the arctic environment covered in snow	nongold
+28	harming something has a  negative impact on; effect on that something	nongold
+29	snow is a covering found on the surface of an arctic environment	nongold
+30	to protect means to make safe	nongold
+31	a snowshoe hare is a kind of animal	nongold
+32	winter means environmental; outdoor temperature decreases	nongold
+33	killing means harming something causing death	nongold
+34	snow is a kind of precipitation	nongold
+35	camouflage is a kind of adaptation for hiding in an environment	gold
+36	harm means danger	nongold
+37	snow falls during the winter in the arctic environment	nongold
+38	something in a cold place becomes cold	nongold
+39	snow is cold	nongold
+40	a rabbit cannot fly; climb	nongold
+41	best means most positive	nongold
+42	hiding means visibility; ability to be seen decreases for camouflage	nongold
+43	ice is cold in temperature	nongold
+44	snow is a kind of ice	nongold
+45	ice is colder than water in temperature	nongold
+46	danger has a negative impact on a thing	nongold
+47	hiding can be used for avoiding predators	nongold
+48	something hard; something strong can be used for protection	nongold
+49	some hares live in  fields	nongold
+50	habitat is similar to environment	nongold
+51	an animal is a kind of living thing	nongold
+52	safe is the opposite of unsafe; harm; danger	nongold
+53	the arctic is a kind of environment	nongold
+54	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+55	most predators live in; live near the same environment as their prey	nongold
+56	An example of camouflage is when something is; has the same color as its environment	gold
+57	freezing means cold temperatures	nongold
+58	camouflage can be used for hunting for prey; food	nongold
+59	harming an animal species has a  negative impact on the population size of that species	nongold
+60	protection means resistance to damage increases	nongold
+61	rain; snow falls	nongold
+62	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+63	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+64	some rabbits live in forests	nongold
+65	surroundings means environment	nongold
+66	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+67	a danger is dangerous	nongold
+68	protecting nature has a positive impact on the environment	nongold
+69	an animal is a kind of organism	nongold
+70	colder; cooler means lower in temperature	nongold
+71	cold means low in temperature	nongold
+72	winter has cold temperatures;weather	nongold
+73	staying warm has a positive impact on an animal's survival; health	nongold
+74	a living thing is a kind of object	nongold
+75	to be in danger means to be around; to be near something dangerous	nongold
+76	an organism is a living thing	nongold
+77	white fur is white in color	gold
+78	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+79	an environment is a kind of place	nongold
+80	an animal requires a habitat for survival	nongold
+81	ice is a kind of object	nongold
+82	white objects absorbs the least sunlight	nongold
+83	ice is found in arctic environments	nongold
+84	an animal is a member of an animal species	nongold
+85	avoiding  predators is synonymous with avoiding being eaten	nongold
+86	icy means made of ice	nongold
+87	harming an animal species causes that animal's population to decrease	nongold
+88	snowstorm is a kind of weather	nongold
+89	killing means changing a living thing from alive to dead by harming	nongold
+90	cooler means colder	nongold
+91	avoiding is a kind of defense	nongold
+92	shelter can protect animals;humans from weather	nongold
+93	prey  is a kind of animal	nongold
+94	an animal usually requires a warm body temperature for survival	nongold
+95	An example of camouflage is when an organism looks like its environment	nongold
+96	snowfall means the amount of precipitation in snow form	nongold
+97	cold temperatures; cool temperatures cause animals to shiver	nongold
+98	winter is a kind of season	nongold
+99	the arctic  environment usually is cold in  temperature from being at a northern lattitude	nongold

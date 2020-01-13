@@ -1,0 +1,102 @@
+Question	Scientists have monitored the amount of acid rainfall in Frederick County, Maryland, since 1982. Humans in Frederick County are affected by acid rain because acid rain alters	question
+Answer	the quality of water	answer
+0	acid rain has a  negative impact on  water quality	gold
+1	acid rain is acidic	nongold
+2	rainfall means the amount of precipitation	nongold
+3	rainfall is the amount of rain an area receives	nongold
+4	Maryland is a state located in the United States of America	nongold
+5	Maryland is a kind of region	nongold
+6	the emission of sulfur dioxide causes acid rain	nongold
+7	rainfall means precipitation	nongold
+8	rain is a kind of precipitation	nongold
+9	acidic rainwater contains acid	nongold
+10	causing is a kind of affecting	nongold
+11	rain is a kind of water	nongold
+12	an area receiving rain means rain falling in that area	nongold
+13	acid rain will increase the  acidity of the ocean	nongold
+14	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+15	an increase is the opposite of a decrease	nongold
+16	a human is a kind of animal	gold
+17	an acid is acidic	nongold
+18	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+19	to impact means to affect	nongold
+20	harming something has a  negative impact on; effect on that something	nongold
+21	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+22	human is a kind of organism	nongold
+23	affected means changed	nongold
+24	precipitation is when water falls from the sky	nongold
+25	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+26	to reduce means to decrease	nongold
+27	impact means effect	gold
+28	alteration means change	nongold
+29	to lower means to decrease	nongold
+30	precipitation is a kind of weather	nongold
+31	rain is a source of water	nongold
+32	a body of water is a kind of environment	nongold
+33	a decrease is a kind of change	nongold
+34	negative impact is the opposite of positive impact	nongold
+35	an animal is a kind of organism	nongold
+36	change is a kind of impact	nongold
+37	precipitation is a kind of natural occurrence; cause	nongold
+38	water is a part of an environment	nongold
+39	an environment means an area	nongold
+40	gases from burning coal and oil dissolving in water in the atmosphere causes acid rain	nongold
+41	storms;rain cause bodies of water to increase amount of water they contain	nongold
+42	humans cause pollution	nongold
+43	precipitation is a property of weather	nongold
+44	animals; living things require water for survival	gold
+45	a state is a kind of place	nongold
+46	erosion of soil has a  negative impact on the environment; soil quality	nongold
+47	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+48	rainy means often raining	nongold
+49	an increase is a kind of change	nongold
+50	low is similar to decrease	nongold
+51	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+52	an environment is a kind of place	nongold
+53	if something affects a part of something else then that something affects that something else	nongold
+54	place is synonymous with location	nongold
+55	an organism is a living thing	nongold
+56	average amount of precipitation is a property of climate	nongold
+57	water is a kind of substance	nongold
+58	a body of water contains water	nongold
+59	rainwater is a kind of water	nongold
+60	organisms are a part of an environment	nongold
+61	rainy is a kind of weather	nongold
+62	person is synonymous with human	nongold
+63	a body of water is a source of water	nongold
+64	a climate is synonymous with an environment	nongold
+65	a person is a kind of animal	nongold
+66	scientists make observations	nongold
+67	high is similar to increase	nongold
+68	less is similar to decrease	nongold
+69	place means area	nongold
+70	an animal is a kind of living thing	nongold
+71	a concern; a problem is a possible negative impact	nongold
+72	lack of moisture in the air causes low amounts of rainfall	nongold
+73	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+74	to cause means to have an effect	nongold
+75	to change means to have an effect	nongold
+76	rainstorm means rain storm	nongold
+77	the temperature; pH of water has an impact on the health of that water	nongold
+78	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+79	air pollution; rain can cause the pH of soil to decrease	nongold
+80	humans changing animal habitats usually causes harm to those animals	nongold
+81	death means to die	nongold
+82	to turn means to change	nongold
+83	to change means to cause a change	nongold
+84	climate is the usual kind of weather in a location over a period of time	nongold
+85	greatest means largest; highest; most amount of something	nongold
+86	killing means harming something causing death	nongold
+87	a desert environment receives low rainfall	nongold
+88	as the cause of something decreases , that something will decrease	nongold
+89	flooding is a kind of change	nongold
+90	something harmful can cause harm	nongold
+91	having an impact on something means altering that something	gold
+92	a city is a kind of location	nongold
+93	if something is required for a process then that something positively impacts that process	nongold
+94	taking samples of water is used for studying the quality of water	nongold
+95	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+96	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+97	as the amount of sulfur gas in the atmosphere increases , the pH of rain will decrease	nongold
+98	water is a kind of liquid at room temperature	nongold
+99	humans changing an environment causes animal populations to decrease in that environment	nongold

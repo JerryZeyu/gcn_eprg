@@ -1,0 +1,102 @@
+Question	Which invention has technology that helps people keep food fresh for a long period of time?	question
+Answer	refrigerator	answer
+0	a refrigerator is used for keeping food fresh for a long period of time	gold
+1	person is synonymous with human	nongold
+2	a person is a kind of animal	nongold
+3	keeping food cold is used for keeping food fresh	nongold
+4	to preserve food means to keep fresh food from spoiling	nongold
+5	helping something has a  positive impact on that something	nongold
+6	an invention is a kind of tool	nongold
+7	a refrigerator is a kind of appliance	gold
+8	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+9	a human is a kind of animal	nongold
+10	keeping means staying	nongold
+11	to keep something occurring means to cause that something to occur	nongold
+12	to be used  for something means to help to do that something	nongold
+13	to help; to benefit means to be of use	gold
+14	fresh food is usually safe to eat	nongold
+15	an animal is a kind of organism	nongold
+16	an animal is a kind of living thing	nongold
+17	to keep a process or event happening is similar to causing that process or event to happen	nongold
+18	inventing a tool allows; enables that tool to be used	nongold
+19	food is what an animal eats	nongold
+20	an animal needs to eat food for nutrients	nongold
+21	the invention of the refrigerator occurred in 1923	nongold
+22	human is a kind of organism	nongold
+23	appliance is similar to technology	gold
+24	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+25	humans usually develop inventions that they require	nongold
+26	technology is similar to tool	nongold
+27	a food contains nutrients for living things	nongold
+28	keeping is similar to storing	nongold
+29	helping means to assist in a change	nongold
+30	requiring is similar to needing help	nongold
+31	a freezer; refrigerator is cool; cold in temperature	nongold
+32	an animal is a kind of consumer	nongold
+33	an organism is a living thing	nongold
+34	a living thing is a kind of object	nongold
+35	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+36	answering questions requires information	nongold
+37	to depend on; to rely on; to need means to require	nongold
+38	to enable is to help	nongold
+39	heating means adding heat	nongold
+40	if a living thing requires something then that something has a positive impact on that living thing	nongold
+41	a plant; living thing requires food for survival	nongold
+42	high is similar to increase	nongold
+43	the function of something is what that something  is used to do	nongold
+44	a machine is a kind of  device	nongold
+45	refrigerators contain harmful chemicals	nongold
+46	having food has a positive impact on an organism's health	nongold
+47	food is a kind of substance	nongold
+48	device means tool	nongold
+49	good means positive	nongold
+50	to be used for something means to be required by that something	nongold
+51	staying warm means keeping warm	nongold
+52	having a variety of foods available has a positive impact on people's lives	nongold
+53	to eat means to consume food	nongold
+54	tool is similar to appliance	nongold
+55	an increase is the opposite of a decrease	nongold
+56	an animal; living thing requires nutrients for survival	nongold
+57	requiring something means needing that something	nongold
+58	a source of something emits; produces; generates; provides that something	nongold
+59	life means living things	nongold
+60	can be means able to be	nongold
+61	increase means more	nongold
+62	negative impact is the opposite of positive impact	nongold
+63	developing means creating; inventing	nongold
+64	to be good for means to have a positive impact on	nongold
+65	decreasing something negative has a positive impact on a thing	nongold
+66	to make something easier means to help	nongold
+67	decreasing something positive has a negative impact on a thing	nongold
+68	better means good	nongold
+69	best means most positive	nongold
+70	human is similar to individual	nongold
+71	if something is required for a process then that something positively impacts that process	nongold
+72	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+73	a device is a kind of object	nongold
+74	period is similar to amount of time	nongold
+75	heat means heat energy	nongold
+76	how long something takes is a kind of measurement of time	nongold
+77	help means advantage	nongold
+78	a plant is a kind of organism	nongold
+79	made by humans; artificial is the opposite of natural	nongold
+80	if something is made of something; a material then that something contains that something; that material	nongold
+81	if something causes a process then that something is required for that process	nongold
+82	material means substance	nongold
+83	to help means to aid	nongold
+84	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+85	length of time means period of time	nongold
+86	if something has the ability to do something else , then that something can do that something else	nongold
+87	if something lasts longer then that something will not have to be replaced for a long time	nongold
+88	quickly means in a short period of time	nongold
+89	if an organism can do something , then that organism is able to do that something	nongold
+90	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+91	an event is a kind of action	nongold
+92	staying means not changing	nongold
+93	a food processor is a kind of household appliances	nongold
+94	staying warm has a positive impact on an animal's survival; health	nongold
+95	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+96	keeping warm is the opposite of becoming  cold	nongold
+97	helping means something can be done; completed more easily; better	nongold
+98	food is a kind of object	nongold
+99	a component of something means a part of that something	nongold

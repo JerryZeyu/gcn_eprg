@@ -1,0 +1,57 @@
+0	needing something means depending on that something	nongold
+1	to eat means to consume food	gold
+2	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+3	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+4	pollen is part of a flower for reproduction	gold
+5	requiring something means needing that something	nongold
+6	a living thing is a kind of object	nongold
+7	a butterfly is a kind of animal	nongold
+8	From which part of the plant does a bee get food?	question
+9	an animal is a member of an animal species	nongold
+10	From which part of the plant does a bee get food?	question
+11	flower	answer
+12	food is a kind of substance	nongold
+13	food is what an animal eats	nongold
+14	From which part of the plant does a bee get food?	question
+15	bees eat pollen	gold
+16	if something comes from something else then that something else is a source of that something	nongold
+17	an part of an object is smaller than the entire object	nongold
+18	pollen is part of a flower for reproduction	gold
+19	an animal is a kind of organism	nongold
+20	flower	answer
+21	a food contains nutrients for living things	nongold
+22	a vegetable is a kind of food	nongold
+23	eating an animal; a plant means killing that animal; that plant	nongold
+24	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+25	one can get something from a source	nongold
+26	an animal; living thing requires nutrients for survival	nongold
+27	a flower's petals often are bright in color to attract pollinators	nongold
+28	bees eat pollen	gold
+29	insects eat crops	nongold
+30	pollen is part of a flower for reproduction	gold
+31	an insect is a kind of prey	nongold
+32	pollinator means pollinating animal	nongold
+33	a carrion flower has a carrion-like smell	nongold
+34	a producer produces its own food	nongold
+35	flowers are a source of fruit	nongold
+36	to transfer means to bring; to get something to	nongold
+37	A bird is a pollinating animal	nongold
+38	flowers often have a sweet smell to attract pollinators	nongold
+39	a flower is a kind of object	nongold
+40	to eat means to consume food	gold
+41	a stinger is used for defense; stinging by a wasp; a bee	nongold
+42	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+43	green plants are a kind of producer	nongold
+44	to eat means to consume food	gold
+45	flower	answer
+46	bees eat honey	nongold
+47	a plant is a member of a plant species	nongold
+48	an animal is a kind of living thing	nongold
+49	getting something increases the amount of that something	nongold
+50	flower	answer
+51	bees eat pollen	gold
+52	provide is similar to give; make	nongold
+53	living things eat their food source	nongold
+54	a plant; living thing requires food for survival	nongold
+55	From which part of the plant does a bee get food?	question
+56	taking in something means receiving; absorbing; getting something	nongold

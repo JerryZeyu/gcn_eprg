@@ -1,0 +1,63 @@
+0	higher means greater; above in value; amount; number	nongold
+1	faster means increased rate	nongold
+2	causing is a kind of affecting	gold
+3	How does the tilt of Earth’s axis and its rotation affect the weather?	question
+4	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+5	heating means adding heat	gold
+6	causing is a kind of affecting	gold
+7	influence means impact	nongold
+8	north is the opposite of south	nongold
+9	rotating is similar to moving	nongold
+10	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+11	temperature is a property of weather	gold
+12	heat means heat energy	gold
+13	causing is similar to allowing	nongold
+14	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+15	as the cause of something decreases , that something will decrease	nongold
+16	sunlight produces heat	nongold
+17	to depend on; to rely on; to need means to require	nongold
+18	hot means high in heat energy; temperature	nongold
+19	the tilt of Earth's axis causes certain latitudes of Earth to be heated at a greater rate	gold
+20	to reduce means to decrease	nongold
+21	to enable means to allow	nongold
+22	weather changes from seasons to seasons	nongold
+23	warm means medium heat energy; temperature	nongold
+24	The tilt allows certain latitudes of Earth to be heated at a greater rate while Earth rotates.	answer
+25	heat means heat energy	gold
+26	a revolution occurs when something revolves around something else	nongold
+27	to enable is similar to cause	nongold
+28	temperature is a measure of heat energy	gold
+29	climate is the usual kind of weather in a location over a period of time	nongold
+30	high is similar to increase	nongold
+31	temperature is a property of weather	gold
+32	temperature is a property of weather	gold
+33	the tilt of Earth's axis causes certain latitudes of Earth to be heated at a greater rate	gold
+34	Earth rotating on its axis occurs once per day	nongold
+35	The tilt allows certain latitudes of Earth to be heated at a greater rate while Earth rotates.	answer
+36	temperature is a measure of heat energy	gold
+37	to add means to increase	nongold
+38	How does the tilt of Earth’s axis and its rotation affect the weather?	question
+39	if something is made by something else then that something is affected by that something else	nongold
+40	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+41	heat has a great impact on weather	nongold
+42	the Earth revolves around the sun	nongold
+43	wind speed is a property of weather	nongold
+44	heat means heat energy	gold
+45	movement is a kind of change	nongold
+46	temperature is a measure of heat energy	gold
+47	change is a kind of impact	nongold
+48	a source of heat can be used to heat something	nongold
+49	the tilt of Earth's axis causes certain latitudes of Earth to be heated at a greater rate	gold
+50	heating means adding heat	gold
+51	causing is a kind of affecting	gold
+52	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+53	the Earth being tilted on its axis causes one side of the Earth; one hemisphere to receive less energy from the Sun than the other side	nongold
+54	The tilt allows certain latitudes of Earth to be heated at a greater rate while Earth rotates.	answer
+55	heating means adding heat	gold
+56	influence means effect	nongold
+57	adding heat means increasing temperature	nongold
+58	rainy is a kind of weather	nongold
+59	How does the tilt of Earth’s axis and its rotation affect the weather?	question
+60	How does the tilt of Earth’s axis and its rotation affect the weather?	question
+61	storm is a kind of weather; weather event	nongold
+62	The tilt allows certain latitudes of Earth to be heated at a greater rate while Earth rotates.	answer

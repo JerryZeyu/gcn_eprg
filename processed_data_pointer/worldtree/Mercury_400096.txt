@@ -1,0 +1,102 @@
+Question	How far from Earth is an object that is 10 light years from Earth?	question
+Answer	the distance light can travel in 10 years	answer
+0	light year is a measure of the distance light travels in one year	gold
+1	Earth is a kind of planet	gold
+2	sunlight is a kind of light	nongold
+3	a star is a kind of celestial object; celestial body	nongold
+4	years are a kind of unit for measuring time	nongold
+5	the Sun is the  star that is closest to Earth	nongold
+6	a light-year is used for describing long distances	nongold
+7	furthest; farthest means greatest; most; highest in distance	nongold
+8	astronomy is the study of celestial (objects, bodies)	gold
+9	distance moved; distance travelled is a measure of how far an object moves	nongold
+10	sunlight is a kind of solar energy	nongold
+11	the sun is a source of light; light energy called sunlight	nongold
+12	light is made of photons	nongold
+13	the Sun is a kind of star	nongold
+14	far means great in distance	nongold
+15	the stars in the night sky are very far away from the Earth	nongold
+16	a planet is a kind of celestial object; body	gold
+17	far is the opposite of close	nongold
+18	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+19	altitude is the distance from the ground to an object in the sky	nongold
+20	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	gold
+21	as distance from a source of something increases , that something will decrease	nongold
+22	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+23	distant means far away	nongold
+24	a measure of time is a length of time	nongold
+25	galaxies are located  millions of light years from Earth	nongold
+26	closer means lower; less; a decrease in distance	nongold
+27	near; close is the opposite of far; away	nongold
+28	high is similar to increase	nongold
+29	travel means to move	nongold
+30	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+31	distant means great in distance	nongold
+32	astronomy is a kind of branch of science	nongold
+33	light is a kind of wave	nongold
+34	the sun is a kind of yellow dwarf	nongold
+35	can be means able to be	nongold
+36	an increase is the opposite of a decrease	nongold
+37	Earth is the planet that is third closest to the  Sun	nongold
+38	the sun is a source of radiation; heat called sunlight	nongold
+39	an increase is a kind of change	nongold
+40	light means light energy	nongold
+41	length of time means period of time	nongold
+42	astronomical unit is a measure of distance between Earth and the Sun	nongold
+43	solar energy is a kind of light	nongold
+44	the moon is the celestial object that is closest to the  Earth	nongold
+45	to pass means to travel	nongold
+46	a planet is a kind of location	nongold
+47	a moon is a kind of celestial object; body	nongold
+48	to reach somewhere requires traveling	nongold
+49	the sun is the source of solar energy called sunlight	nongold
+50	answering questions requires information	nongold
+51	to a human a time period of 1000 years or more years is considered very long	nongold
+52	objects are made of materials; substances; matter	nongold
+53	period is similar to amount of time	nongold
+54	stars are located light years apart from each other	nongold
+55	close means low in distance	nongold
+56	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+57	light is a kind of electromagnetic radiation	nongold
+58	astronomical body means celestial body	nongold
+59	distance is a property of space and includes ordered values of close; far	nongold
+60	a planet is a kind of place	nongold
+61	Neptune is the furthest planet from the sun in the solar system	nongold
+62	low is similar to decrease	nongold
+63	to add means to increase	nongold
+64	light is a kind of energy	nongold
+65	light is a kind of energy	nongold
+66	the sunlight occurs during the day	nongold
+67	a photon is a kind of  particles	nongold
+68	sunlight means solar energy	nongold
+69	the Sun transmits light to earth through space	nongold
+70	length is a measure of distance from one end of an object to the other end of that object	nongold
+71	light can travel through a vacuum	nongold
+72	a source of something emits; produces; generates; provides that something	nongold
+73	the location of an object can be used to describe that object	nongold
+74	visible light is a kind of  light	nongold
+75	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+76	how long something takes is a kind of measurement of time	nongold
+77	a galaxy is a kind of celestial body; celestial object	nongold
+78	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+79	being in the sun is synonymous with being in the sunlight	nongold
+80	Earth is made of rock	nongold
+81	an object; material; substance comes from that object or material's source	nongold
+82	affected means changed	nongold
+83	motion is when moves an object; something to a direction	nongold
+84	refraction is when light passes from one medium to another medium	nongold
+85	a celestial body travelling around another celestial body means that celestial body completes a cycle around that other celestial body	nongold
+86	events occur at a specific place; at a specific time; with a specific frequency	nongold
+87	light travels fastest through a vacuum	nongold
+88	measuring is used for describing an object	nongold
+89	intensity of sunlight is similar to amount of sunlight	nongold
+90	dark means a low amount of light	nongold
+91	to lower means to decrease	nongold
+92	matter; materials; substances are made of atoms; particles	nongold
+93	Earth's surface is made of rock	nongold
+94	days are a kind of unit for measuring time	nongold
+95	decades are a kind of unit for measuring time	nongold
+96	as a person in the northern hemisphere moves south , distance from the equator will decrease	nongold
+97	yellow dwarf is a kind of small star	nongold
+98	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+99	the Earth revolves around the sun	nongold

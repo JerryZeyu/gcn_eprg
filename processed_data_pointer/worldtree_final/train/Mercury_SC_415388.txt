@@ -1,0 +1,102 @@
+0	heating means adding heat	nongold
+1	radiant energy  is a kind of energy	nongold
+2	the sun setting is a kind of event	nongold
+3	evaporation causes amount of water to decrease	nongold
+4	an object; material; substance comes from that object or material's source	nongold
+5	evaporation is a stage in the water cycle process	gold
+6	water is a kind of liquid at room temperature	nongold
+7	provide is similar to give; make	nongold
+8	if something generates energy for something else then that something powers that something else	nongold
+9	water is an thermal; thermal energy conductor	nongold
+10	to power means to provide energy for	nongold
+11	precipitation is a stage in the water cycle process	nongold
+12	a process usually requires all of the stages in that process	nongold
+13	if something comes from something else then that something else is a source of that something	nongold
+14	chemical energy is a kind of energy	nongold
+15	conductivity is a property of a material; substance	nongold
+16	material means substance	nongold
+17	the sun is a source of light; light energy called sunlight	nongold
+18	where something  comes from is a source of that something	nongold
+19	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+20	solar energy is a kind of light	nongold
+21	An example of a physical cycle is the water cycle	nongold
+22	a source of something increases the amount of that something	nongold
+23	sunlight produces heat	nongold
+24	the Sun is a kind of star	nongold
+25	cycles of day and night occur once per day	nongold
+26	water is a kind of water phase	nongold
+27	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+28	water absorbs solar energy in the water cycle	nongold
+29	photosynthesis stores; captures energy	nongold
+30	the sun is a source of radiation; heat called sunlight	nongold
+31	heating salt water causes the water to evaporate while the salt remains	nongold
+32	a planet is a kind of celestial object; body	nongold
+33	water is a kind of substance	nongold
+34	to add means to increase	nongold
+35	the sun causes water to evaporate more quickly by adding heat	nongold
+36	decomposition is a stage in the carbon cycle process	nongold
+37	In the water cycle , condensation always follows evaporation	nongold
+38	the sunlight occurs during the day	nongold
+39	intensity of sunlight is similar to amount of sunlight	nongold
+40	absorbing sunlight causes objects to heat	nongold
+41	evaporation can be used for separating a mixture of a liquid and a solid	nongold
+42	sunlight means solar energy	nongold
+43	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+44	a part of a process means a stage in a process	nongold
+45	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+46	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+47	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+48	evaporating is a kind of phase change	nongold
+49	to receive sunlight means to absorb sunlight	nongold
+50	the sun rising and setting causes cycles of day and night	nongold
+51	oxygen is a stage in the carbon dioxide-oxygen cycle process	nongold
+52	if something emits something else then that something increases the amount of that something else	nongold
+53	to give off means to be the source of	gold
+54	The first step in the water cycle is evaporation. What gives water the energy to evaporate?	question
+55	the sun rising; setting occurs once per day	nongold
+56	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+57	heat is a kind of energy	gold
+58	solar power means solar energy	nongold
+59	if something is a raw material in a process then that something is required for that process	nongold
+60	solar energy is a kind of heat energy	nongold
+61	a cycle is a kind of process	nongold
+62	can be means able to be	nongold
+63	evaporation is when water is drawn back up into the air in the water cycle	nongold
+64	In the water cycle , evaporation always follows collection in bodies of water	nongold
+65	condensation is a stage in the water cycle process	nongold
+66	high is similar to increase	nongold
+67	the sun is the source of energy for life on Earth	nongold
+68	sunlight is a kind of solar energy	nongold
+69	if something causes a process then that something is required for that process	nongold
+70	a source of heat can be used to heat something	nongold
+71	solar energy is a renewable; inexhaustible resource	nongold
+72	transferring is similar to giving	nongold
+73	if something requires something else then that something requires a source of that something else	nongold
+74	evaporation; boiling can be used for separating a solution by allowing the solvent to evaporate	nongold
+75	heat means heat energy	nongold
+76	Earth's revolution is a kind of cycle	nongold
+77	temperature is a measure of heat energy	nongold
+78	all elements are a kind of pure substance	nongold
+79	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+80	a source of heat can be used to heat something	nongold
+81	adding heat means increasing temperature	nongold
+82	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+83	a liquid is a kind of substance	nongold
+84	solar radiation means solar energy	nongold
+85	evaporation is a kind of process	nongold
+86	Sun	answer
+87	a cycle happens; occurs repeatedly	nongold
+88	a step in a process means a stage in a process	gold
+89	the water cycle occurs on Earth	nongold
+90	sunshine means sunlight	nongold
+91	the sun is the source of solar energy called sunlight	nongold
+92	a  plant requires sunlight for photosynthesis	nongold
+93	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+94	solar energy is a kind of energy	nongold
+95	a source of something emits; produces; generates; provides that something	nongold
+96	if something transfers something else then that something is a source of something else	nongold
+97	the sun  is the source of energy for physical cycles on Earth	gold
+98	sunlight is a kind of light	nongold
+99	a star is a kind of celestial object; celestial body	nongold
+100	to depend on; to rely on; to need means to require	nongold
+101	energy transformation means one kind of energy changes into another kind of energy	nongold

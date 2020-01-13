@@ -1,0 +1,101 @@
+0	solar energy is a kind of energy	nongold
+1	if something comes from something else then that something else is a source of that something	nongold
+2	all cells require energy	nongold
+3	food contains carbohydrates	nongold
+4	the ability to grow is a kind of trait	nongold
+5	to depend on; to rely on; to need means to require	gold
+6	to produce means to provide	nongold
+7	growing is a kind of replenishing	nongold
+8	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+9	growth is a kind of process	nongold
+10	if something is required for a process then that something positively impacts that process	nongold
+11	a source of something supplies that something	nongold
+12	a living thing is a kind of object	nongold
+13	nutrients are a kind of substance	nongold
+14	growing is a kind of activity	nongold
+15	an animal is a kind of organism	gold
+16	transferring is similar to giving	nongold
+17	a cell absorbs nutrients	nongold
+18	a supply of something is a source of that something	nongold
+19	providing something means making;delivering something	nongold
+20	to be required means to be necessary	nongold
+21	one can get something from a source	gold
+22	a living thing is made of cells	nongold
+23	to obtain means to get	nongold
+24	cellular respiration is when cells break down; extract energy from food to produce energy	nongold
+25	An example of growth is an organism developing a new part	nongold
+26	humans usually develop inventions that they require	nongold
+27	an organism eating is a kind of action	nongold
+28	an animal; living thing requires nutrients for survival	nongold
+29	developing means growing	nongold
+30	nutrients are a source of energy for living things	nongold
+31	being used for is similar to providing	nongold
+32	if a living thing requires something then that something has a positive impact on that living thing	nongold
+33	to repair means to heal	nongold
+34	an organism is a living thing	nongold
+35	food is a kind of resource	nongold
+36	living things eat their food source	nongold
+37	an organism requires energy for growth; repair	gold
+38	an object; material; substance comes from that object or material's source	nongold
+39	repairing an organism requires cells working together	nongold
+40	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+41	a plant; living thing requires food for survival	nongold
+42	the body of an animal contains arteries; veins	nongold
+43	an animal requires nutrients to grow and heal	nongold
+44	living things all require energy for survival	nongold
+45	the body is a part of an organism	nongold
+46	to transfer means to bring; to get something to	nongold
+47	if something is a raw material in a process then that something is required for that process	nongold
+48	a plant; living thing requires nutrients to grow	nongold
+49	an animal is a kind of consumer	nongold
+50	a part of a process means a stage in a process	nongold
+51	to provide something means to be the source of that something	nongold
+52	provide is similar to give; make	nongold
+53	needing something means depending on that something	nongold
+54	helping something has a  positive impact on that something	nongold
+55	taking in something means receiving; absorbing; getting something	nongold
+56	food is what an animal eats	nongold
+57	a source of something emits; produces; generates; provides that something	nongold
+58	if something is a raw material then that something comes directly from a source	nongold
+59	all living things grow	nongold
+60	requiring something means needing that something	nongold
+61	to repair means to fix damage	nongold
+62	a plant is a kind of organism	nongold
+63	if something is required then that something must be provided	nongold
+64	human is a kind of organism	nongold
+65	food is a source of energy for animals; plants	gold
+66	requiring is similar to needing help	nongold
+67	resources sometimes are used for energy	nongold
+68	if something gains something from something else then that something else is a source of that something	nongold
+69	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+70	to eat means to consume food	nongold
+71	getting something increases the amount of that something	nongold
+72	a food contains nutrients for living things	nongold
+73	The human body gets the energy it needs for growth and repair directly from	question
+74	an animal requires enough nutrients to maintain good health; survive	nongold
+75	a process is a kind of event	nongold
+76	cells are a part of the body	nongold
+77	if something requires something else then that something requires a source of that something else	nongold
+78	green plants are a kind of producer	nongold
+79	growing is a kind of process	nongold
+80	a body system is a part of the body; an animal	nongold
+81	receive means get	nongold
+82	what something needs is a property of that something	nongold
+83	living things require respiration to use energy	nongold
+84	food	answer
+85	breaking food into nutrients means preparing food for cells	nongold
+86	a nutrient is a kind of object	nongold
+87	a human is a kind of animal	gold
+88	a human cell is a kind of cell	nongold
+89	an animal is a kind of living thing	nongold
+90	cellular respiration is a kind of process	nongold
+91	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+92	an animal needs to eat food for nutrients	nongold
+93	to be used for something means to be required by that something	nongold
+94	nutrients are a kind of matter	nongold
+95	nutrients are a kind of resource	nongold
+96	if something transfers something else then that something is a source of something else	nongold
+97	if something causes a process then that something is required for that process	nongold
+98	where something  comes from is a source of that something	nongold
+99	a process usually requires all of the stages in that process	nongold
+100	protein is used to repair  cells by the human body	nongold

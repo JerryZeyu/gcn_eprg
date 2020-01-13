@@ -1,0 +1,101 @@
+0	A student conducts an investigation. In order to make a valid conclusion, she must	question
+1	have a testable hypothesis.	answer
+2	making a valid conclusion in an investigation requires a testable hypothesis	gold
+3	making a valid conclusion in an investigation requires collecting relevant evidence	nongold
+4	studying is similar to investigating	nongold
+5	to conclude means to make a conclusion	nongold
+6	investigating a stage of something means investigating that something	nongold
+7	a student is a kind of human	nongold
+8	investigation sometimes requires experimentation	nongold
+9	experiment is synonymous with test	nongold
+10	must have means require	nongold
+11	investigating is a kind of process	nongold
+12	a hypothesis is a kind of scientific term	nongold
+13	investigating sometimes requires measuring	nongold
+14	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+15	to cause means to make	nongold
+16	a theory is more accepted; tested than a hypothesis	nongold
+17	concluding is a kind of action	nongold
+18	investigating requires gathering information	nongold
+19	hypothesis means scientific guess about the cause and effect of an event	nongold
+20	examining is a kind of process	nongold
+21	a human is a kind of animal	nongold
+22	trial is synonymous with test	nongold
+23	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+24	an animal is a kind of organism	nongold
+25	investigating the life cycle of a living thing requires that living thing to be alive	nongold
+26	examining sometimes requires measuring	nongold
+27	to study means to examine	nongold
+28	result means outcome	nongold
+29	testing often requires measuring	nongold
+30	experimentation requires measuring	nongold
+31	person is synonymous with human	nongold
+32	to discover means to make a discovery	nongold
+33	an animal is a kind of living thing	nongold
+34	to make possible means to be required	nongold
+35	an event is a kind of action	nongold
+36	An example of evidence for a scientific theory is observations	nongold
+37	human is a kind of organism	nongold
+38	to cause means to result in	nongold
+39	a theory is a kind of scientific term	nongold
+40	an organism is a living thing	nongold
+41	matter; materials; substances are made of atoms; particles	nongold
+42	studying is similar to observing	nongold
+43	inspect; observe means examine	nongold
+44	to produce means to result in	nongold
+45	answering questions requires information	nongold
+46	if an event is required for a process then that event must occur before that process can occur	nongold
+47	observations; data are a part of the results of an experiment	nongold
+48	a living thing is a kind of object	nongold
+49	events occur at a specific place; at a specific time; with a specific frequency	nongold
+50	to be used for something means to be required by that something	nongold
+51	a person is a kind of animal	nongold
+52	definite is the opposite of variable	nongold
+53	to cause means to have an effect	nongold
+54	a result of something is evidence of that something	nongold
+55	can be means able to be	nongold
+56	a source of something emits; produces; generates; provides that something	nongold
+57	to cause an event means to make that event more likely	nongold
+58	to cause an event is similar to being involved in that event	nongold
+59	something that happens is a kind of event	nongold
+60	a child is a kind of young human	nongold
+61	a particle is a kind of object	nongold
+62	event is similar to occurrence	nongold
+63	a process is a kind of event	nongold
+64	conducting is a kind of function	nongold
+65	affected means changed	nongold
+66	to happen means to occur	nongold
+67	a scientist is a kind of human	nongold
+68	a plant is a kind of organism	nongold
+69	a star is a kind of celestial object; celestial body	nongold
+70	to create means to make	nongold
+71	to give is similar to to cause	nongold
+72	a motion is a kind of event; action	nongold
+73	making discoveries requires observing	nongold
+74	determine is similar to cause	nongold
+75	provide is similar to give; make	nongold
+76	best means most positive	nongold
+77	a girl is a kind of organism	nongold
+78	a  solution  is a kind of object	nongold
+79	not is similar to the opposite of	nongold
+80	a law is more accepted; tested than a theory	nongold
+81	a classroom is a kind of a room	nongold
+82	impact means effect	nongold
+83	objects are made of materials; substances; matter	nongold
+84	particles in objects are a kind of matter	nongold
+85	high is similar to increase	nongold
+86	researcher is a kind of scientist	nongold
+87	make means produce	nongold
+88	an atom is a kind of object	nongold
+89	to make means to form	nongold
+90	to conduct is similar to to transfer	nongold
+91	if something is made of something; a material then that something contains that something; that material	nongold
+92	extreme means very high in value	nongold
+93	a brain is a part of an animal	nongold
+94	human is similar to individual	nongold
+95	a type is synonymous with a kind	nongold
+96	scientists make observations	nongold
+97	a plant is a kind of living thing	nongold
+98	Earth is a kind of planet	nongold
+99	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+100	a moon is a kind of celestial object; body	nongold

@@ -1,0 +1,62 @@
+0	a dog is a kind of animal	gold
+1	food is a kind of object	nongold
+2	food	answer
+3	a producer produces its own food	nongold
+4	food	answer
+5	if an organism eats something then that something is a source of frood to that organism	nongold
+6	food is a source of energy for animals; plants	gold
+7	a living thing is a kind of object	nongold
+8	an animal is a kind of living thing	nongold
+9	running is a kind of movement	gold
+10	a supply of something is a source of that something	nongold
+11	if something is a raw material in a process then that something is required for that process	nongold
+12	A dog gets the energy it needs to run from ___.	question
+13	running requires a lot of energy	nongold
+14	a vegetable is a kind of food	nongold
+15	an animal; living thing requires nutrients for survival	nongold
+16	an animal requires energy to move	gold
+17	good means positive	nongold
+18	getting something increases the amount of that something	nongold
+19	a predator eats other animals for food	nongold
+20	heat is a kind of energy	nongold
+21	A dog gets the energy it needs to run from ___.	question
+22	food is a source of energy for animals; plants	gold
+23	one can get something from a source	gold
+24	mechanical energy is a kind of energy	nongold
+25	requiring is similar to needing help	nongold
+26	a vegetable is a kind of plant	nongold
+27	A dog gets the energy it needs to run from ___.	question
+28	food	answer
+29	food	answer
+30	one can get something from a source	gold
+31	diet means what an animal eats	nongold
+32	a source of something emits; produces; generates; provides that something	nongold
+33	A dog gets the energy it needs to run from ___.	question
+34	food is a source of energy for animals; plants	gold
+35	a producer is a source of energy for consumers	nongold
+36	one can get something from a source	gold
+37	to depend on; to rely on; to need means to require	gold
+38	an animal requires energy to move	gold
+39	a human is a kind of mammal	nongold
+40	an animal is a kind of consumer	nongold
+41	what something needs is a property of that something	nongold
+42	food is a kind of resource	nongold
+43	if something generates energy for something else then that something powers that something else	nongold
+44	a consumer is a kind of organism	nongold
+45	walking is a kind of motion	nongold
+46	nutrients are a kind of resource	nongold
+47	a person is a kind of animal	nongold
+48	animals are a renewable resource	nongold
+49	if something causes a process then that something is required for that process	nongold
+50	an organism requires energy for growth; repair	nongold
+51	running is a kind of movement	gold
+52	a dog is a kind of animal	gold
+53	a dog is a kind of animal	gold
+54	running is a kind of movement	gold
+55	to be used for something means to be required by that something	nongold
+56	to depend on; to rely on; to need means to require	gold
+57	taking in something means receiving; absorbing; getting something	nongold
+58	an animal requires energy to move	gold
+59	nutrients are a source of energy for living things	nongold
+60	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+61	to depend on; to rely on; to need means to require	gold

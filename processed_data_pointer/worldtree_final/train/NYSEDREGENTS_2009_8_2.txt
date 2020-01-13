@@ -1,0 +1,102 @@
+0	a planet is a kind of location	nongold
+1	rising is a kind of motion	nongold
+2	a process is a kind of event	nongold
+3	if a human is on a rotating planet then other celestial bodies will appear to move from that human's perspective due to  the rotation of that planet	nongold
+4	the equator is a kind of location	nongold
+5	to change means to become different	nongold
+6	an increase is a kind of change	nongold
+7	events occur at a specific place; at a specific time; with a specific frequency	nongold
+8	determine is similar to cause	nongold
+9	rotate means turn	nongold
+10	rotating is similar to moving	nongold
+11	something that happens is a kind of event	nongold
+12	different is the opposite of the same	nongold
+13	the moon rotates on its axis	nongold
+14	Celestial bodies move in orbits in space around other celestial bodies	nongold
+15	once means one time	nongold
+16	opposite is a kind of different	nongold
+17	to cause means to result in	gold
+18	result means outcome	nongold
+19	the Earth rotates on its axis	nongold
+20	place is synonymous with location	nongold
+21	the Sun is a kind of star	nongold
+22	if something required by something else is in a place then that something else may be in that place	nongold
+23	another means different	nongold
+24	some celestial bodies rotate in space	nongold
+25	distance is a property of space and includes ordered values of close; far	nongold
+26	a state is a kind of place	nongold
+27	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+28	to cause is similar to bring	nongold
+29	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+30	setting is a kind of motion	nongold
+31	area is similar to location	nongold
+32	to give is similar to to cause	nongold
+33	to cause means to have an effect	nongold
+34	a region is a kind of location	nongold
+35	latitude is a property of a location; place on Earth	nongold
+36	located means situated	nongold
+37	north; northward is a kind of direction	nongold
+38	to be formed by is to be the result of	nongold
+39	high is similar to increase	nongold
+40	rotation  is  the  circular movement of an object around a center; axis	nongold
+41	days are a kind of unit for measuring time	nongold
+42	The longitude of a location determines which time zone it is in. Different time zones are the result of	question
+43	seconds are a kind of unit for measuring time	nongold
+44	Earth's rotation causes time zones	gold
+45	variable means able to change	nongold
+46	according to is similar to be determined by	nongold
+47	length of time means period of time	nongold
+48	a planet is a kind of celestial object; body	nongold
+49	revolving is a kind of action	nongold
+50	rotation is a kind of motion	nongold
+51	to produce means to result in	nongold
+52	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+53	revolving is a kind of motion	nongold
+54	a component means a part of	nongold
+55	period is similar to amount of time	nongold
+56	a change is a kind of event	nongold
+57	Earth is a kind of planet	nongold
+58	rotate is similar to revolve	nongold
+59	a motion is a kind of event; action	nongold
+60	determining often requires measuring; observing	nongold
+61	a planet is a kind of place	nongold
+62	revolving  around something means orbiting that something	nongold
+63	a continent is a kind of location	nongold
+64	shift means move	nongold
+65	astronomy is the study of celestial (objects, bodies)	nongold
+66	to rotate means to complete a rotation	nongold
+67	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+68	north is the opposite of south	nongold
+69	the sun rises in the east	nongold
+70	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+71	an event is a kind of action	nongold
+72	a unit for measuring time is a kind of time interval	nongold
+73	to be affected by something is similar to depending on something	nongold
+74	all the time means at day and at night	nongold
+75	a rotation is a kind of movement	nongold
+76	Earth's rotation	answer
+77	Earth rotating on its axis occurs once per day	nongold
+78	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+79	location is a kind of information	nongold
+80	the sun setting is a kind of event	nongold
+81	hours are a kind of unit for measuring time	nongold
+82	to place in is similar to to move to	nongold
+83	if something moves then that something is in a different location	nongold
+84	turning is a kind of motion	nongold
+85	the Earth revolves around the sun	nongold
+86	a result of something is evidence of that something	nongold
+87	a planet rotating causes cycles of day and night on that planet	nongold
+88	to change means to have an effect	nongold
+89	place; location is synonymous with position	nongold
+90	movement is a kind of change	nongold
+91	different celestial body has different gravity	nongold
+92	movements of celestial bodies are a kind of event	nongold
+93	identifying is similar to determining	nongold
+94	place means space	nongold
+95	Tuesday is a kind of  time	nongold
+96	motion is when moves an object; something to a direction	nongold
+97	a city is a kind of location	nongold
+98	seconds are used to measure time	nongold
+99	answering questions requires information	nongold
+100	the sun sets in the west	nongold
+101	place means area	nongold

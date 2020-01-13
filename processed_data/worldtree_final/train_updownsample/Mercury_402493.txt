@@ -1,0 +1,61 @@
+0	a telescope is a kind of optical instrument for observing celestial objects; observing the sky	gold
+1	telescope with camera attachment and camera	answer
+2	a telescope is a kind of optical instrument for observing celestial objects; observing the sky	gold
+3	a camera is a kind of tool for recording images	gold
+4	a camera is used for recording images	gold
+5	a camera is used for recording images	gold
+6	a camera is a kind of tool for recording images	gold
+7	useful means able to be used	gold
+8	a comet is a kind of celestial object	gold
+9	a comet is a kind of celestial object	gold
+10	useful means good to use	nongold
+11	scientists make observations	nongold
+12	a comet is a kind of celestial object	gold
+13	a moon is a kind of celestial object; body	nongold
+14	an instrument is a piece of equipment	nongold
+15	requiring is similar to needing help	nongold
+16	optical tools are used for observing materials up close; in greater detail	nongold
+17	a telescope is a kind of optical instrument for observing celestial objects; observing the sky	gold
+18	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	gold
+19	telescope with camera attachment and camera	answer
+20	astronomy is the study of celestial (objects, bodies)	nongold
+21	to pass means to travel	nongold
+22	a planet is a kind of celestial object; body	nongold
+23	passage is passing	nongold
+24	to depend on; to rely on; to need means to require	nongold
+25	observe means see	nongold
+26	essential means required	nongold
+27	binoculars are a kind of instrument for observing distant objects	nongold
+28	telescope with camera attachment and camera	answer
+29	In order to record the passing of a distant comet, which instruments would be the most useful?	question
+30	to pass through means to move through	nongold
+31	a machine is a kind of object	nongold
+32	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	gold
+33	a satellite is a kind of instrument for observing Earth's surface	nongold
+34	a camera is used for recording images	gold
+35	astronomical body means celestial body	nongold
+36	binoculars are used for observing distant objects	nongold
+37	a convex lens causes light to refract and concentrate to magnify distant objects	nongold
+38	studying  something usually requires seeing that something	nongold
+39	magnifying glass is used to see  small things by making objects appear bigger	nongold
+40	distant means far away	nongold
+41	In order to record the passing of a distant comet, which instruments would be the most useful?	question
+42	an animal is a kind of organism	nongold
+43	answering questions requires information	nongold
+44	better means good	nongold
+45	recording an observation sometimes requires measuring	nongold
+46	a tool is a kind of object	nongold
+47	a camera is a kind of tool for recording images	gold
+48	telescope with camera attachment and camera	answer
+49	the moon orbits the Earth	nongold
+50	a type is synonymous with a kind	nongold
+51	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	gold
+52	a comet orbit occurs usually once per 1000.0 years	nongold
+53	looking is similar to observing	nongold
+54	a magnifying glass is a kind of tool for observing small things	nongold
+55	a device is a kind of object	nongold
+56	useful means able to be used	gold
+57	In order to record the passing of a distant comet, which instruments would be the most useful?	question
+58	an animal is a kind of living thing	nongold
+59	In order to record the passing of a distant comet, which instruments would be the most useful?	question
+60	useful means able to be used	gold

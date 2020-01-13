@@ -1,0 +1,102 @@
+0	Which of these animals is most likely to be found living and feeding on the forest floors of Virginia?	question
+1	Deer mouse	answer
+2	a deer mouse is a kind of mouse	gold
+3	a mouse is a kind of animal	gold
+4	a mouse is a kind of mammal	nongold
+5	a mouse is a kind of herbivore	nongold
+6	mice live in in holes in the ground in fields; in forests	gold
+7	a deer lives in a forest	nongold
+8	a deer is a kind of animal	nongold
+9	if something is a part of something then that something can be found in that something	nongold
+10	animals; living things live and feed in their habitats; near their habitats	gold
+11	a deer is a kind of herbivore	nongold
+12	an animal is a kind of living thing	nongold
+13	a deer is a kind of prey	nongold
+14	a forest is a kind of environment	gold
+15	a forest contains  lots of plants; trees	nongold
+16	some animals live in forests	nongold
+17	Virginia is a state located in the United States of America	nongold
+18	Virginia contains rivers	nongold
+19	most predators live in; live near the same environment as their prey	nongold
+20	a mammal is a kind of animal	nongold
+21	organisms can be found in their habitats	nongold
+22	a mouse births; gives birth to live young	nongold
+23	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+24	if a living thing dies then that living thing is dead	nongold
+25	fur is a part of a mouse	nongold
+26	life means living things	nongold
+27	some rabbits live in forests	nongold
+28	a forest is a kind of ecosystem	nongold
+29	an animal is a kind of organism	nongold
+30	an animal requires a habitat for survival	nongold
+31	an environment means an area	nongold
+32	a rabbit is a kind of mammal	nongold
+33	eating an animal; a plant means killing that animal; that plant	nongold
+34	West Virginia is a state located in the United States of America	nongold
+35	a living thing is a kind of object	nongold
+36	a fox is a kind of animal	nongold
+37	woodland means forest	nongold
+38	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+39	if something is located  in somewhere , then something can be found in somewhere	nongold
+40	if something is located in some place , then the presence of that something can be found in that location	nongold
+41	if a living thing requires something then that something has a positive impact on that living thing	nongold
+42	if something does not move then that something can be found in the same location	nongold
+43	a human is a kind of animal	nongold
+44	an environment is a kind of place	nongold
+45	a rabbit is a kind of animal	nongold
+46	habitat is similar to environment	gold
+47	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+48	an animal; living thing requires nutrients for survival	nongold
+49	a plant is a kind of living thing	nongold
+50	to be found in means to be contained in	nongold
+51	when a habitat can support living things , living things can live in that habitat	nongold
+52	killing means changing a living thing from alive to dead by harming	nongold
+53	if something required by something else is in a place then that something else may be in that place	nongold
+54	vegetation means plants	nongold
+55	a rabbit is a kind of herbivore	nongold
+56	organisms; living things live in their habitat; their home	nongold
+57	an organism is a living thing	nongold
+58	a rabbit is a kind of prey	nongold
+59	harming something has a  negative impact on; effect on that something	nongold
+60	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+61	forest is synonymous with wooded area	nongold
+62	a plant requires a habitat for survival	nongold
+63	a plant is a kind of organism	nongold
+64	a squirrel is a kind of herbivore	nongold
+65	killing means harming something causing death	nongold
+66	a plant; living thing requires food for survival	nongold
+67	a tree is a kind of habitat	nongold
+68	usually something can be found  near a source in greater concentrations	nongold
+69	squirrels live in forests	nongold
+70	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+71	an ecosystem contains a large community of; large numbers of living organisms	nongold
+72	the floor is a kind of object	nongold
+73	many animals are herbivores	nongold
+74	organisms are a part of an environment	nongold
+75	an animal is a member of an animal species	nongold
+76	killing a living thing decreases the number; population size of that living thing	nongold
+77	rabbits eat plants	nongold
+78	humans changing animal habitats usually causes harm to those animals	nongold
+79	a tree is a kind of living thing	nongold
+80	to prey on an animal means to eat that animal	nongold
+81	an ecosystem is a kind of habitat	nongold
+82	survive means live	nongold
+83	survive means live	nongold
+84	herbivores only eat plants	nongold
+85	an environment is similar to an ecosystem	nongold
+86	a fungus is a kind of living thing	nongold
+87	live means to be alive	nongold
+88	ground means floor	gold
+89	an ecosystem contains nonliving things	nongold
+90	plants are a part of the environment	nongold
+91	found in means existing in	nongold
+92	living things eat their food source	nongold
+93	objects in an environment are a part of that environment	nongold
+94	a population is made of one type of organism in an area	nongold
+95	a natural ecosystem contains native living things only	nongold
+96	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+97	harming an animal species has a  negative impact on the population size of that species	nongold
+98	a predator eats other animals for food	nongold
+99	living underground can be used for hiding from predators	nongold
+100	death means to die	nongold
+101	a squirrel is a kind of animal	nongold

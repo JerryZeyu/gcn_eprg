@@ -1,0 +1,102 @@
+Question	Which kind of bridge uses cables for support?	question
+Answer	a suspension bridge	answer
+0	cables are used for support by suspension bridges	gold
+1	form means kind	nongold
+2	to anchor means to provide support	nongold
+3	tension causes the support cables of a suspension bridge to be  stressed	nongold
+4	a cable is similar to a wire	nongold
+5	footing is used for supporting the foundation of a building	nongold
+6	a pulley is used for lifting; lowering objects	nongold
+7	providing support is a kind of function	nongold
+8	an anchor is a kind of object	nongold
+9	a device is a kind of object	nongold
+10	to be used for something means to be required by that something	nongold
+11	metal is usually flexible	nongold
+12	a structure of something is synonymous with a part of that something	nongold
+13	a vehicle is a kind of object	nongold
+14	a tool is a kind of object	nongold
+15	strength is a property of an object; a material	nongold
+16	a stem is a source of support for a plant	nongold
+17	a type is synonymous with a kind	nongold
+18	to help means to aid	nongold
+19	if an object is made of a material then that object has the properties of that material	nongold
+20	system is similar to structure	nongold
+21	metal is a kind of material	nongold
+22	to carry means to move something	nongold
+23	a kind of something is an example of that something	nongold
+24	a motion is a kind of event; action	nongold
+25	fiber is a kind of material	nongold
+26	length is a measure of distance from one end of an object to the other end of that object	nongold
+27	a wire is a kind of object	nongold
+28	a component means a part of	nongold
+29	objects are made of materials; substances; matter	nongold
+30	a trunk is a part of a tree for supporting the tree	nongold
+31	a load is a kind of object	nongold
+32	something is used for that something's purpose	nongold
+33	device means tool	nongold
+34	a vehicle is used for transportation	nongold
+35	structure is a property of an object; a material; a substance	nongold
+36	can be means able to be	nongold
+37	a ramp is a kind of object	nongold
+38	An example of using water is a construction crew building an iron bridge	nongold
+39	to help; to benefit means to be of use	nongold
+40	motion is when moves an object; something to a direction	nongold
+41	a piece of something is a kind of object	nongold
+42	a surface is a part of a material	nongold
+43	rubber is usually flexible	nongold
+44	steel is a kind of metal	nongold
+45	being used for is similar to providing	nongold
+46	a trunk is a source of support for a tree	nongold
+47	to carry means to transport	nongold
+48	transport means to move; to make travel	nongold
+49	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold
+50	a living thing is a kind of object	nongold
+51	a vehicle is a kind of tool for travel; transport	nongold
+52	to lift means to move up	nongold
+53	transportation technology is used for moving people; products	nongold
+54	a wire is usually made of metal	nongold
+55	person is synonymous with human	nongold
+56	abrasion is a kind of weathering	nongold
+57	motion; movement means moving; to move	nongold
+58	to serve as means to be used as	nongold
+59	travel means to move	nongold
+60	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+61	flexibility is a property of a material	nongold
+62	a component of something means a part of that something	nongold
+63	to enable means to allow	nongold
+64	to enable is similar to cause	nongold
+65	an event is a kind of action	nongold
+66	an object is made of its parts	nongold
+67	if something is malleable , then that something can bend	nongold
+68	a surface is a part of an object	nongold
+69	to use means to utilize	nongold
+70	a pulley is a kind of simple machine	nongold
+71	strong means high in strength	nongold
+72	requiring is similar to needing help	nongold
+73	a tripe in a vehicle requires using that vehicle	nongold
+74	counter means reduce; stop; resist	nongold
+75	resistances are a property of living things	nongold
+76	a process is a kind of event	nongold
+77	a human is a kind of animal	nongold
+78	an arm is a kind of limb	nongold
+79	to enable is to help	nongold
+80	a type of something is a kind of property of that something	nongold
+81	the function of something is what that something  is used to do	nongold
+82	providing structure is a kind of function	nongold
+83	a vehicle is used for travel	nongold
+84	transporting is a kind of function	nongold
+85	a source of something emits; produces; generates; provides that something	nongold
+86	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+87	a wheel and axle is a kind of simple machine	nongold
+88	rubber is a kind of material	nongold
+89	to provide something means to be the source of that something	nongold
+90	construction means building	nongold
+91	height is a measure of length from the top of an object to the bottom of an object	nongold
+92	to be used  for something means to help to do that something	nongold
+93	category means kind	nongold
+94	if something causes a process then that something is required for that process	nongold
+95	damage means harm	nongold
+96	to transfer is similar to transport	nongold
+97	instrument means tool	nongold
+98	the ground is part of the Earth	nongold
+99	moving something is a kind of function	nongold

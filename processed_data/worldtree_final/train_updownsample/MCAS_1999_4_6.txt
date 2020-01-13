@@ -1,0 +1,53 @@
+0	an object has properties	nongold
+1	a magnifying glass is a kind of tool for observing small things	gold
+2	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+3	You wish to closely observe a small insect. Which tool is the best to use?	question
+4	a machine is a kind of  device	nongold
+5	an insect usually has a small size	gold
+6	magnifying glass is used to see  small things by making objects appear bigger	gold
+7	seeing is used for sensing visual things	nongold
+8	binoculars are a kind of instrument for observing distant objects	nongold
+9	You wish to closely observe a small insect. Which tool is the best to use?	question
+10	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+11	identifying sometimes requires examining	nongold
+12	an insect usually has a small size	gold
+13	You wish to closely observe a small insect. Which tool is the best to use?	question
+14	a magnifying glass	answer
+15	casting an image of an object through a pinhole onto a screen does not require looking directly at the object	nongold
+16	looking is similar to observing	nongold
+17	a camera is a kind of tool for recording images	nongold
+18	to see means to look	nongold
+19	capturing an animal can be used for studying that animal	nongold
+20	magnifying glass is used to see  small things by making objects appear bigger	gold
+21	useful means good to use	nongold
+22	An insect is a pollinating animal	nongold
+23	carnivores; omnivores; herbivores are a kind of animal	nongold
+24	instrument means device	nongold
+25	glass is a kind of object	nongold
+26	look at means observe	nongold
+27	microscopic means very small in size	nongold
+28	glass; objects made of glass cause refraction of light	nongold
+29	instrument means tool	nongold
+30	a magnifying glass	answer
+31	a magnifying glass is a kind of tool for observing small things	gold
+32	binoculars are used for observing distant objects	nongold
+33	device means tool	nongold
+34	a magnifying glass	answer
+35	a magnifying glass is a kind of tool for observing small things	gold
+36	an animal is a member of an animal species	nongold
+37	to observe means to gather information	nongold
+38	a magnifying glass	answer
+39	to look like means to have the visual properties of	nongold
+40	an insect is a kind of prey	nongold
+41	recording an observation sometimes requires measuring	nongold
+42	an animal is a kind of organism	nongold
+43	can be means able to be	nongold
+44	an insect usually has a small size	gold
+45	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+46	an insect has six legs	nongold
+47	little means small	nongold
+48	a glass contains water	nongold
+49	if something is visible , then that something can be observed	nongold
+50	You wish to closely observe a small insect. Which tool is the best to use?	question
+51	magnifying glass is used to see  small things by making objects appear bigger	gold
+52	an eyeglass lens is often made of glass	nongold

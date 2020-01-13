@@ -1,0 +1,102 @@
+Question	When the first American astronauts were planning to walk on the Moon, they knew that the gravity on the Moon was less than the gravity on Earth. With this information, what did the astronauts expect to be most different on the Moon?	question
+Answer	their weight	answer
+0	an astronaut is a kind of human	gold
+1	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+2	mass; weight are the same on Earth	nongold
+3	a moon is a kind of celestial object; body	nongold
+4	the earth has more mass than the moon	nongold
+5	less means a reduced amount	nongold
+6	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+7	different is the opposite of the same	nongold
+8	weight means the force of gravity acting on an object	nongold
+9	less is similar to decrease	gold
+10	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+11	if there is no gravitational pull , then the weight of an object will be equal to zero	nongold
+12	an increase is the opposite of a decrease	gold
+13	gravity causes orbits	nongold
+14	less is the opposite of more	nongold
+15	astronauts live on a space station while in outer space	nongold
+16	Earth is a kind of planet	nongold
+17	as the force of gravity increases , the weight of objects will increase	gold
+18	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	nongold
+19	different celestial body has different gravity	nongold
+20	increase means more	nongold
+21	walking is a kind of motion	nongold
+22	Weight is  the  force of gravity acting on an object	nongold
+23	closer means lower; less; a decrease in distance	nongold
+24	weight is a measure of the force of the gravity on the mass of an object	nongold
+25	a weight is a kind of object	nongold
+26	a human is a kind of animal	gold
+27	light means low  in weight	nongold
+28	weight is a property of objects; matter	nongold
+29	the mass of a planet causes the pull of gravity on that planet	nongold
+30	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+31	lower means less	nongold
+32	low is similar to decrease	nongold
+33	an animal is a kind of living thing	gold
+34	opposite is a kind of different	nongold
+35	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+36	answering questions requires information	nongold
+37	the moon orbits the Earth	nongold
+38	heavy means a large amount of weight	nongold
+39	an animal is a kind of organism	nongold
+40	lighter means lower; less in weight	nongold
+41	to change means to become different	gold
+42	as the force  of gravity decreases , the weight of the object will decrease	nongold
+43	mass; weight is a property of matter; objects; materials	nongold
+44	as the force  of gravity changes , the weight of the object will change	nongold
+45	a living thing is a kind of object	gold
+46	high is similar to increase	nongold
+47	as the mass of an object increases ,  the weight of that object will increase	nongold
+48	a planet is a kind of celestial object; body	nongold
+49	as the altitude increases , the gravity will decrease	nongold
+50	as the mass of an object increases , the force of gravity on that object will increase	nongold
+51	as the mass of an object decreases , the weight of that object will decrease	nongold
+52	the Moon has less water; air than Earth	nongold
+53	the Moon is Earth's moon	nongold
+54	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+55	heaviest means greatest mass; weight	nongold
+56	low is the opposite of high	nongold
+57	as the force  of gravity changes , the mass of the object will stay the same	nongold
+58	mass is a measure of the amount of matter in an object	nongold
+59	furthest; farthest means greatest; most; highest in distance	nongold
+60	an increase is a kind of change	nongold
+61	same means identical; equal in value; amount; number; quantity	nongold
+62	if something is not the same as something else then that something is different from that something else	nongold
+63	identical is the opposite of different	nongold
+64	to lower means to decrease	nongold
+65	a decrease is a kind of change	gold
+66	as the amount of food an animal eats increases , the weight of that animal will increase	nongold
+67	greatest means largest; highest; most amount of something	nongold
+68	stay the same means not changing	nongold
+69	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+70	fewer means lower; less in number	nongold
+71	most means over 50% of something	nongold
+72	higher means greater; above in value; amount; number	nongold
+73	mass is a kind of information	nongold
+74	another means different	nongold
+75	astronauts wear spacesuits in space	nongold
+76	mass is a property of objects; matter	nongold
+77	a planet's  moon is smaller than that planet	nongold
+78	data means information	nongold
+79	not is similar to the opposite of	nongold
+80	weight is a kind of property	nongold
+81	an part of an object is smaller than the entire object	nongold
+82	to vary means to change	nongold
+83	smaller means less; lower in size	nongold
+84	far is the opposite of close	nongold
+85	to vary means to differ	nongold
+86	the mass of an object causes the gravitational force exerted by that object	nongold
+87	an event is a kind of action	nongold
+88	gravity is a kind of force	nongold
+89	the Moon is closer to the Earth than the Sun	nongold
+90	to be affected by something is similar to depending on something	nongold
+91	greater means higher; more in value	nongold
+92	low means down	nongold
+93	new means different from the former one	nongold
+94	walking is a kind of behavior	nongold
+95	a motion is a kind of event; action	nongold
+96	moving is similar to travelling	nongold
+97	variable means able to change	nongold
+98	as the heat  of an object increases , the mass of the object will stay the same	nongold
+99	if something changes , then that something is not the same	nongold

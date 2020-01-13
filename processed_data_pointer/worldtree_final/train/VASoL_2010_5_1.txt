@@ -1,0 +1,102 @@
+0	a plant; living thing requires food for survival	nongold
+1	if a living thing requires something then that something has a positive impact on that living thing	nongold
+2	farming is a kind of process	gold
+3	greater means higher; more in value	nongold
+4	using resources decreases those resources	nongold
+5	a plant; living thing requires nutrients to grow	gold
+6	planting crops is a kind of activity	nongold
+7	to depend on; to rely on; to need means to require	gold
+8	soil fertility means the ability of soil to sustain plant growth	nongold
+9	all living things grow	nongold
+10	soil is usually part of an environment	nongold
+11	action means activity	gold
+12	as the use of a crop increases , the amount of  crops planted will increase	nongold
+13	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	gold
+14	crop rotation is when different crops are planted on a field in different years	nongold
+15	a function is an activity	nongold
+16	a source of something increases the amount of that something	nongold
+17	crop rotation renews; protects soil	nongold
+18	soil is a renewable resource for growing plants	nongold
+19	plants absorb nutrients; water; oxygen from soil into themselves through their roots	gold
+20	producing crops requires using farm land	nongold
+21	crops growing well has a positive impact on a farmer's livelihood	nongold
+22	farming changes the environment	nongold
+23	low is similar to decrease	nongold
+24	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+25	a crop is a kind of food	nongold
+26	low quality soil has a small; a low number of nutrients	nongold
+27	to be affected by something is similar to depending on something	nongold
+28	Growing crops	answer
+29	fertile soil is high in quality	nongold
+30	if something causes a process then that something is required for that process	nongold
+31	if something is required for a process then that something positively impacts that process	nongold
+32	a material is a kind of resource	nongold
+33	increase means more	nongold
+34	planting crops requires growing crops	gold
+35	a plant is a kind of organism	nongold
+36	an animal is a kind of organism	nongold
+37	planting crops is synonymous with growing crops	nongold
+38	a human is a kind of animal	nongold
+39	to be dependent on something means to depend on that something	nongold
+40	green plants are a kind of producer	nongold
+41	needing something means depending on that something	nongold
+42	a plant is a kind of living thing	nongold
+43	to be used for something means to be required by that something	nongold
+44	creating is a kind of activity	nongold
+45	erosion of soil has a  negative impact on the environment; soil quality	nongold
+46	planting trees is sometimes a human activity	nongold
+47	farming is when a human plants crops for food	gold
+48	most means over 50% of something	nongold
+49	a source of something emits; produces; generates; provides that something	nongold
+50	crops; farming cause nutrients in the soil to decrease	nongold
+51	soil contains nutrients for plants	gold
+52	human is a kind of organism	nongold
+53	if something causes something else then that something else depends on that something	nongold
+54	reproducing is a kind of activity	nongold
+55	roots anchor plants into the soil	nongold
+56	to provide something means to be the source of that something	nongold
+57	resources becoming available has a positive impact on the things that need those resources	nongold
+58	requiring something means needing that something	nongold
+59	if something requires something else then that something requires a source of that something else	nongold
+60	an animal; living thing requires nutrients for survival	nongold
+61	a plant requires soil for survival; to grow	nongold
+62	humans eat crops	nongold
+63	answering questions requires information	nongold
+64	high is similar to increase	nongold
+65	adding is a kind of activity	nongold
+66	high-quality means positive	nongold
+67	an animal is a kind of living thing	nongold
+68	crop rotation has a  positive impact on soil quality	nongold
+69	soil is a kind of material	nongold
+70	a field contains soil	nongold
+71	a plant requires photosynthesis to grow; survive	nongold
+72	plants are a kind of resource	nongold
+73	growing is a kind of process	nongold
+74	making something requires resources	nongold
+75	nutrient poor soil means low quality soil	nongold
+76	helping something has a  positive impact on that something	nongold
+77	high means a lot of something	nongold
+78	Which of these human activities most relies on high-quality soil?	question
+79	planting is a kind of human action	nongold
+80	irrigation depletes nutrients in the soil	nongold
+81	farming is a source of food	nongold
+82	an organism requires energy for growth; repair	nongold
+83	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+84	soil is a part of the ground outside	nongold
+85	farming happens on a farm	nongold
+86	higher means greater; above in value; amount; number	nongold
+87	nutrients are a kind of resource	nongold
+88	roots are a part of a plant; tree	nongold
+89	greatest means largest; highest; most amount of something	nongold
+90	if something is a raw material in a process then that something is required for that process	nongold
+91	developing means growing	nongold
+92	cropland is used for farming by humans	nongold
+93	crops grow in soil	nongold
+94	harvesting is a kind of using	nongold
+95	a farmer is a kind of human	nongold
+96	land is a kind of resource	nongold
+97	An example of growth is an organism developing a new part	nongold
+98	growing is a kind of activity	nongold
+99	no-till farming reduces soil erosion	nongold
+100	crops are a kind of edible plant for eating	gold
+101	a farmer farms crops; plants for  food	nongold

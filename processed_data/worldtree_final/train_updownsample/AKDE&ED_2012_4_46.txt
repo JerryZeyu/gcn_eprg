@@ -1,0 +1,63 @@
+0	tornado is a kind of weather	nongold
+1	low is similar to decrease	nongold
+2	erosion is a kind of change	nongold
+3	lightning is a kind of weather phenomenon	nongold
+4	when a body of water receives more water than it can hold , a flood occurs	gold
+5	a storm is a source of precipitation	nongold
+6	storms;rain cause bodies of water to increase amount of water they contain	gold
+7	a decrease is a kind of change	nongold
+8	Which change is most likely caused by a thunderstorm?	question
+9	a stream flooding	answer
+10	a drought is a kind of natural disaster	nongold
+11	to add means to increase	nongold
+12	lakes are formed by precipitation and runoff	nongold
+13	lightning occurs during lightning storms; thunderstorms	nongold
+14	a thunderstorm is a kind of storm	gold
+15	snowstorm is a kind of weather	nongold
+16	a change is a kind of event	nongold
+17	to turn means to change	nongold
+18	precipitation is a kind of natural occurrence; cause	nongold
+19	flooding is a kind of change	gold
+20	an increase is a kind of change	nongold
+21	if a body of water loses all water then that body of water does not exist any more	nongold
+22	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	gold
+23	a stream flooding	answer
+24	rain; snow falls	nongold
+25	flooding is a kind of change	gold
+26	a drought occurs over a period of months; years	nongold
+27	Which change is most likely caused by a thunderstorm?	question
+28	precipitation is a property of weather	nongold
+29	if there is a loss of something then that something decreases	nongold
+30	an event is a kind of action	nongold
+31	when a body of water receives more water than it can hold , a flood occurs	gold
+32	wind and rain; storms cause erosion	nongold
+33	Which change is most likely caused by a thunderstorm?	question
+34	a body of water is a source of water	nongold
+35	to cause means to have an effect	nongold
+36	a body of water contains water	nongold
+37	damming a river can cause a lake to form	nongold
+38	storms;rain cause bodies of water to increase amount of water they contain	gold
+39	a stream is a kind of body of water	gold
+40	a riverbed is a part of a river	nongold
+41	weathering; erosion usually occurs over a period of many years	nongold
+42	a river is a kind of flowing body of water	nongold
+43	hail is a kind of precipitation; ice	nongold
+44	a thunderstorm is a kind of storm	gold
+45	a thunderstorm is a kind of storm	gold
+46	a stream is a kind of body of water	gold
+47	flooding is a kind of change	gold
+48	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	gold
+49	Which change is most likely caused by a thunderstorm?	question
+50	thunder is a kind of sound	nongold
+51	a stream flooding	answer
+52	when a body of water receives more water than it can hold , a flood occurs	gold
+53	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	gold
+54	increase means more	nongold
+55	when a river floods , that river deposits soil; sediment in flood plains	nongold
+56	if an animal cannot fly; climb then that animal will be more affected by a flood	nongold
+57	storms;rain cause bodies of water to increase amount of water they contain	gold
+58	a stream flooding	answer
+59	lightning is the source of thunder	nongold
+60	rainstorm means rain storm	nongold
+61	a stream is a kind of body of water	gold
+62	water is a kind of matter	nongold

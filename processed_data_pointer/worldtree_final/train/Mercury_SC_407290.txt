@@ -1,0 +1,102 @@
+0	high-quality means positive	nongold
+1	growing legumes provides nitrogen for other plants	nongold
+2	requiring is similar to needing help	nongold
+3	plants are a kind of resource	nongold
+4	if something causes a process then that something is required for that process	nongold
+5	to be good for means to have a positive impact on	nongold
+6	to breathe in means to absorb air	nongold
+7	an organism is a living thing	nongold
+8	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+9	producing is similar to releasing	nongold
+10	to be used for something means to be required by that something	nongold
+11	oxygen is a kind of gas at room temperature	nongold
+12	to produce means to create	nongold
+13	if a living thing requires something then that something has a positive impact on that living thing	nongold
+14	people can plant trees	nongold
+15	a process is a kind of event	nongold
+16	air is a part of the environment	nongold
+17	to produce means to provide	nongold
+18	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+19	if something is required for a process then that something positively impacts that process	nongold
+20	if technology used for a process is improved then the product produced by that process will increase	nongold
+21	emit means produce	nongold
+22	processes sometimes produce waste products	nongold
+23	a leaf performs photosynthesis; gas exchange	nongold
+24	producing is a kind of process	nongold
+25	best means most positive	nongold
+26	to depend on; to rely on; to need means to require	nongold
+27	better means good	nongold
+28	oxygen is a kind of resource	nongold
+29	to be formed by is similar to being produced by	nongold
+30	an animal requires air for survival	nongold
+31	air is a kind of gas	nongold
+32	by producing oxygen	answer
+33	In the photosynthesis process oxygen has the role of  waste product	nongold
+34	helping something has a  positive impact on that something	nongold
+35	a source of something emits; produces; generates; provides that something	gold
+36	a plant is a kind of living thing	nongold
+37	solution is similar to a positive impact	nongold
+38	converting is similar to generating	nongold
+39	producing is a kind of function	nongold
+40	a leaf is a part of a  green plant	nongold
+41	roots are a part of a plant; tree	nongold
+42	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+43	requiring something means needing that something	nongold
+44	products are formed; are produced; are created	nongold
+45	a leaf is a part of a tree	nongold
+46	oxygen is a stage in the carbon dioxide-oxygen cycle process	nongold
+47	good means positive	nongold
+48	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+49	producing is similar to causing	nongold
+50	producing is similar to discharging	nongold
+51	to contribute is similar to produce	nongold
+52	atmosphere means  air	nongold
+53	a plant is a member of a plant species	nongold
+54	a tree is a kind of plant	nongold
+55	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+56	air is a kind of matter	nongold
+57	plants are a source of oxygen through photosynthesis	gold
+58	as the population of plants decreases , carbon in the atmosphere will increase	nongold
+59	to improve means to have a positive impact	gold
+60	generate means produce	nongold
+61	pollution is a kind of environmental problem	nongold
+62	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+63	producer is a kind of role in the food chain process; in an ecosystem	nongold
+64	a  plant requires sunlight for photosynthesis	nongold
+65	an animal; bacterium requires oxygen for survival; to breathe	nongold
+66	if something is a raw material in a process then that something is required for that process	nongold
+67	breathing is when animals convert oxygen into carbon dioxide	nongold
+68	breathing is a kind of process	nongold
+69	when carbon dioxide in the atmosphere is absorbed by plants , the amount of carbon dioxide in the atmosphere is reduced in the atmosphere	nongold
+70	a process usually requires all of the stages in that process	nongold
+71	if a plant dies then that plant will not produce food	nongold
+72	the atmosphere is a part of nature; the environment	nongold
+73	the respiratory system takes in oxygen from the air	nongold
+74	atmospheric means of the atmosphere	nongold
+75	make means produce	nongold
+76	the Earth's atmosphere is made of 78 percent nitrogen by mass	nongold
+77	photosynthesis is a source of oxygen	nongold
+78	a part of a process means a stage in a process	nongold
+79	plants are a source of biofuel	nongold
+80	a source of something increases the amount of that something	nongold
+81	vegetation means plants	nongold
+82	a producer is a kind of living thing	nongold
+83	negative impact is the opposite of positive impact	nongold
+84	How can plants most likely improve air quality?	question
+85	plant cells can perform photosynthesis	nongold
+86	a tree is a kind of living thing	nongold
+87	oxygen has a positive impact on air quality	gold
+88	green plants are a kind of producer	nongold
+89	a producer produces its own food	nongold
+90	causing is similar to generating	nongold
+91	if something emits something else then that something increases the amount of that something else	nongold
+92	In the food chain process a  green plant has the role of  producer	nongold
+93	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+94	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+95	if something causes an increase in something else then that something produces that something else	nongold
+96	breathing in is when animals inhale air into their lungs	nongold
+97	a plant is a kind of organism	nongold
+98	oxygen  is a kind of element	nongold
+99	converting is similar to producing	nongold
+100	plants are a part of the environment	nongold
+101	to provide something means to be the source of that something	nongold

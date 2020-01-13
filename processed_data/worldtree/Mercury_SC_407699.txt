@@ -1,0 +1,102 @@
+Question	A company that makes fences started using a new material instead of wood. The new material will last longer than wood. What is the most likely benefit of the new material?	question
+Answer	The new material can save money on replacements.	answer
+0	if something does not have to be replaced for a long time then that something will save money	gold
+1	if something lasts longer then that something will not have to be replaced for a long time	gold
+2	replacement means something that is replaced	gold
+3	a fence is a kind of object	nongold
+4	to help; to benefit means to be of use	nongold
+5	a positive impact is  a benefit	gold
+6	saving money has a positive impact on a person; a company	gold
+7	using less resources usually causes money to be saved	nongold
+8	to last longer means to be available longer	nongold
+9	long means great in length	nongold
+10	to depend on; to rely on; to need means to require	nongold
+11	decreasing something negative has a positive impact on a thing	nongold
+12	to shorten means to make shorter	nongold
+13	wood is a kind of natural material	nongold
+14	how long something takes is a kind of measurement of time	nongold
+15	replacing something causes that something to decrease	nongold
+16	increase means more	nongold
+17	shorter means decreased length	nongold
+18	longest means greatest in length	nongold
+19	decreasing something positive has a negative impact on a thing	nongold
+20	less means a reduced amount	nongold
+21	new means different from the former one	nongold
+22	an increase is the opposite of a decrease	nongold
+23	less is similar to decrease	nongold
+24	wood is a strong material	nongold
+25	helping something has a  positive impact on that something	nongold
+26	wood is a kind of resource	nongold
+27	good means positive	nongold
+28	replace means change from one thing into  another	nongold
+29	to reduce means to decrease	nongold
+30	to be used for something means to be required by that something	nongold
+31	money usually has a positive impact on a person's life	nongold
+32	wood is a kind of object	nongold
+33	to add means to increase	nongold
+34	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+35	requiring something means needing that something	nongold
+36	high is similar to increase	nongold
+37	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+38	to improve means to have a positive impact	nongold
+39	negative impact is the opposite of positive impact	nongold
+40	less is the opposite of more	nongold
+41	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+42	if something with the same function as something else is being used then the use of that something else decreases	nongold
+43	to lower means to decrease	nongold
+44	a source of something increases the amount of that something	nongold
+45	something reusable can be used more than once	nongold
+46	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+47	if something is required for a process then that something positively impacts that process	nongold
+48	to be good for means to have a positive impact on	nongold
+49	greatest means largest; highest; most amount of something	nongold
+50	to slow; to slow down decreases speed	nongold
+51	if an object is made of a material then that object has the properties of that material	nongold
+52	old is the opposite of new	nongold
+53	wood is a renewable resource	nongold
+54	a measure of time is a length of time	nongold
+55	if something causes a process then that something is required for that process	nongold
+56	if there is a loss of something then that something decreases	nongold
+57	a material is a kind of resource	nongold
+58	a renewable resource can be replaced	nongold
+59	materials are used for making products by manufacturers	nongold
+60	better means good	nongold
+61	replanting  a plant means replacing that plant	nongold
+62	building housing developments; dams; roads usually requires replacing; destroying animal habitats	nongold
+63	to cause means to make	nongold
+64	using resources decreases those resources	nongold
+65	if a living thing requires something then that something has a positive impact on that living thing	nongold
+66	making products for cheaper has a positive impact on manufacturing	nongold
+67	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+68	best means most positive	nongold
+69	if a resource is limited in supply then that resource needs to be replaced	nongold
+70	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+71	to be dependent on something means to depend on that something	nongold
+72	metal is a kind of material	nongold
+73	wood is a kind of energy resource	nongold
+74	low is similar to decrease	nongold
+75	a decrease is a kind of change	nongold
+76	material means substance	nongold
+77	cheaper means lower in cost	nongold
+78	as the use of something decreases , the use of the source of that something will decrease	nongold
+79	if an amount of objects decreases then those objects are fewer in number	nongold
+80	loss means reduction	nongold
+81	fewer means lower; less in number	nongold
+82	replenish is similar to replace	nongold
+83	faster means an increase; higher in speed	nongold
+84	an increase is a kind of change	nongold
+85	as the cause of something decreases , that something will decrease	nongold
+86	if a resource is not replaced then the resource has low availability	nongold
+87	as the time a tool lasts increases , the number of tools discarded will decrease	nongold
+88	often is similar to likely	nongold
+89	to enhance means to increase	nongold
+90	length of time means period of time	nongold
+91	if technology used for a process is improved then the product produced by that process will increase	nongold
+92	metal is a kind of natural resource	nongold
+93	making something requires resources	nongold
+94	a living thing is a kind of object	nongold
+95	cheap means low in cost	nongold
+96	solution is similar to a positive impact	nongold
+97	a tree can be replaced by planting a new tree each time one is cut down	nongold
+98	a source of something emits; produces; generates; provides that something	nongold
+99	can be means able to be	nongold

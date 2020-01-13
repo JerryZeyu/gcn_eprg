@@ -1,0 +1,101 @@
+0	sunlight is a kind of light	nongold
+1	light is made of photons	nongold
+2	sunlight is a kind of solar energy	nongold
+3	absorbing something from the air decreases the  amount of  that something in the air	nongold
+4	light is a kind of energy	nongold
+5	ozone absorbs harmful ultraviolet rays from the Sun	gold
+6	if something transfers something else then that something is a source of something else	nongold
+7	solar energy is a kind of light	nongold
+8	sunlight is made of ultraviolet, infrared, and visible light	nongold
+9	to provide something means to be the source of that something	nongold
+10	ultraviolet light causes sunburn	nongold
+11	gas is a kind of substance	nongold
+12	ionizing radiation is a kind of electromagnetic wave	nongold
+13	solar energy is a kind of energy	nongold
+14	absorbance is when a wave absorbs at; stops at a surface	nongold
+15	if an object is blue , then that object absorbs all the lights except blue light	nongold
+16	protecting something means preventing harm to that something	nongold
+17	harming something has a  negative impact on; effect on that something	nongold
+18	the sun is a source of light; light energy called sunlight	nongold
+19	if something is made of something; a material then that something contains that something; that material	nongold
+20	mostly means being the most	nongold
+21	emit means send out	nongold
+22	infrared wave is a kind of  electromagnetic wave	nongold
+23	to give off means to be the source of	nongold
+24	where something  comes from is a source of that something	nongold
+25	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+26	gas is a kind of material	nongold
+27	an object; material; substance comes from that object or material's source	nongold
+28	if something comes from something else then that something else is a source of that something	nongold
+29	ozone molecules are a kind of substance	nongold
+30	ultraviolet light has very short wavelength	nongold
+31	the sun is the source of solar energy called sunlight	nongold
+32	rays of the sun means sunlight	nongold
+33	radiation is when electromagnetic waves transfers heat and light energy	nongold
+34	light is a kind of wave	nongold
+35	to absorb means to capture	nongold
+36	decreasing something negative has a positive impact on a thing	nongold
+37	if something is a raw material then that something comes directly from a source	nongold
+38	if something releases something else then that something is the source of that something else	nongold
+39	light means light energy	nongold
+40	if something is a source of something else then that something usually contains that something else	nongold
+41	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+42	absorbing something from the air means removing that something from Earth's atmosphere	nongold
+43	ultraviolet radiation is ionizing	nongold
+44	visible light is a part of the electromagnetic spectrum	nongold
+45	if something gains something from something else then that something else is a source of that something	nongold
+46	light is a kind of electromagnetic radiation	nongold
+47	if something transfers energy to something else then that something else absorbs that energy	nongold
+48	light is a kind of energy	nongold
+49	Earth is a kind of planet	nongold
+50	damage has a negative impact on a thing	nongold
+51	burning a living thing usually causes harm to that living thing	nongold
+52	a positive impact is  a benefit	nongold
+53	killing means harming something causing death	nongold
+54	if something requires something else then that something requires a source of that something else	nongold
+55	the sun is a source of radiation; heat called sunlight	nongold
+56	if something absorbs something else then that something will contain that something else	nongold
+57	the sun is the source of energy for life on Earth	nongold
+58	to be used for something means to be required by that something	nongold
+59	UV mean ultraviolet	nongold
+60	negative impact is the opposite of positive impact	nongold
+61	damage means harm	nongold
+62	ultraviolet light is a kind of electromagnetic energy	nongold
+63	absorbing something harmful has a negative impact on a thing	nongold
+64	emit means produce	nongold
+65	radiation is a kind of process	nongold
+66	to emit means to release	nongold
+67	absorbing is a kind of function	nongold
+68	harm means danger	nongold
+69	to hurt means to harm	nongold
+70	being exposed to the ultraviolet light has a negative  impact on living organisms	nongold
+71	something harmful can cause harm	nongold
+72	the sun  is the source of energy for physical cycles on Earth	nongold
+73	ozone absorbing sunlight causes the temperature of stratosphere to increase with altitude	nongold
+74	light rays means light	nongold
+75	something dangerous can cause harm	nongold
+76	Harmful ultraviolet rays from the Sun are primarily absorbed by	question
+77	ozone is located in stratosphere in the atmosphere	nongold
+78	a negative impact is a kind of consequence; risk	nongold
+79	ultraviolet light is a kind of light	nongold
+80	absorption is a kind of event	nongold
+81	decreasing something positive has a negative impact on a thing	nongold
+82	sunlight contains infrared light	nongold
+83	visible light is a kind of  light	nongold
+84	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+85	absorption is a kind of process	nongold
+86	ozone.	answer
+87	ultraviolet rays means ultraviolet light	nongold
+88	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+89	electromagnetic radiation means electromagnetic energy	nongold
+90	to be a source of something means to cause that something	nongold
+91	solar radiation means solar energy	nongold
+92	danger has a negative impact on a thing	nongold
+93	sunlight contains ultraviolet light	nongold
+94	adverse effect means negative impact	nongold
+95	the Sun is a kind of star	nongold
+96	impact means effect	nongold
+97	a source of something emits; produces; generates; provides that something	nongold
+98	destroying something causes harm to that something	nongold
+99	receiving sunlight  is synonymous with absorbing sunlight	nongold
+100	absorbing ultraviolet light by ozone cause the breakdown of ozone into oxygen	nongold

@@ -1,0 +1,102 @@
+Question	How does the appearance of a constellation change during the night?	question
+Answer	Its position appears to shift relative to the horizon.	answer
+0	stars appear to move relative to the horizon during the night	gold
+1	a constellation contains stars	gold
+2	how something  appears is how that something  looks	nongold
+3	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	nongold
+4	a star is a kind of celestial object; celestial body	nongold
+5	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+6	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+7	appearance is a property of objects; materials	nongold
+8	the Sun is a kind of star	nongold
+9	the sun is not a star in the night sky	nongold
+10	appearing is similar to seeming	nongold
+11	the stars in the night sky are very far away from the Earth	nongold
+12	shift means move	gold
+13	occur is similar to appear	nongold
+14	refraction causes something to appear; to look different	nongold
+15	motion is when moves an object; something to a direction	nongold
+16	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	nongold
+17	astronomy is the study of celestial (objects, bodies)	nongold
+18	to change means to become different	nongold
+19	night is low in light; in visibility	nongold
+20	if it is night then the sun has set	nongold
+21	to change means to cause a change	nongold
+22	Leo is a kind of constellation	nongold
+23	Scorpio is a kind of constellation	nongold
+24	place; location is synonymous with position	nongold
+25	affected means changed	nongold
+26	the sky is similar to space	nongold
+27	moving changes position	gold
+28	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+29	appear is similar to apparent	nongold
+30	stay the same means not changing	nongold
+31	an increase is a kind of change	nongold
+32	the Sun is the  star that is closest to Earth	nongold
+33	distance is a property of space and includes ordered values of close; far	nongold
+34	shape is a property of the appearance of an object	nongold
+35	north is the opposite of south	nongold
+36	to convert means to change	nongold
+37	phase means state	nongold
+38	form means kind	nongold
+39	to turn means to change	nongold
+40	variable means able to change	nongold
+41	darkness occurs at night	nongold
+42	if the component of something changed , then the whole thing will change	nongold
+43	high is similar to increase	nongold
+44	near; close is the opposite of far; away	nongold
+45	the Earth revolves around the sun	nongold
+46	to add means to increase	nongold
+47	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+48	the North Star does not move in the sky in the Northern Hemisphere each night	nongold
+49	causing means influencing	nongold
+50	a star produces light and heat	nongold
+51	appearance  is a kind of physical property	nongold
+52	appearance is sometimes a physical property	nongold
+53	close means low in distance	nongold
+54	the sun is a source of light; light energy called sunlight	nongold
+55	if an object is close then that object will appear large	nongold
+56	closer means lower; less; a decrease in distance	nongold
+57	a decrease is a kind of change	nongold
+58	a galaxy is a kind of celestial body; celestial object	nongold
+59	stars are located light years apart from each other	nongold
+60	towards means closer to something	nongold
+61	low is similar to decrease	nongold
+62	daytime means day	nongold
+63	to remain means to not change	nongold
+64	to transform means to convert	nongold
+65	located means situated	nongold
+66	a change is a kind of event	nongold
+67	near means close	nongold
+68	if something moves then that something is in a different location	nongold
+69	can be means able to be	nongold
+70	if something used to be in the past then that something  has changed	nongold
+71	low means down	nongold
+72	changed is the opposite of unchanged	nongold
+73	to remain means to stay where it is	nongold
+74	constant means not changing	nongold
+75	the sunlight occurs during the day	nongold
+76	a type is synonymous with a kind	nongold
+77	dark is the opposite of light	nongold
+78	far is the opposite of close	nongold
+79	the phases of the Moon change the appearance of the Moon	nongold
+80	to be formed by is similar to being produced by	nongold
+81	toward is a kind of direction	nongold
+82	setting is a kind of motion	nongold
+83	the sun rising and setting causes cycles of day and night	nongold
+84	to slow; to slow down decreases speed	nongold
+85	state means form	nongold
+86	light is a kind of wave	nongold
+87	events occur at a specific place; at a specific time; with a specific frequency	nongold
+88	toward is the opposite of away	nongold
+89	not is similar to the opposite of	nongold
+90	extreme means very high in value	nongold
+91	sunlight is a kind of light	nongold
+92	becoming is similar to changing	nongold
+93	a planet is a kind of celestial object; body	nongold
+94	approximately means about	nongold
+95	no longer means used to be	nongold
+96	revolving  around something means orbiting that something	nongold
+97	to see means to look	nongold
+98	to lower means to decrease	nongold
+99	alteration means change	nongold

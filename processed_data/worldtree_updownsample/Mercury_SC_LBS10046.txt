@@ -1,0 +1,68 @@
+0	an animal needs to eat food for nutrients	nongold
+1	if a living thing requires something then that something has a positive impact on that living thing	nongold
+2	a squirrel is a kind of herbivore	nongold
+3	food is a source of energy for animals; plants	nongold
+4	helping something has a  positive impact on that something	gold
+5	reproduce.	answer
+6	plant reproduction; seed production requires pollination	nongold
+7	seed dispersal has a positive impact on a plant; a plant's reproduction	gold
+8	In the tree reproduction process a squirrel has the role of  seed disperser	nongold
+9	helping something has a  positive impact on that something	gold
+10	to help means to aid	nongold
+11	a tree is a kind of plant	gold
+12	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	gold
+13	reproduce.	answer
+14	plants are the source of fruit	nongold
+15	A squirrel gathering nuts helps trees	question
+16	an animal; living thing requires nutrients for survival	nongold
+17	fruit contains seeds	gold
+18	seed dispersal has a positive impact on a plant; a plant's reproduction	gold
+19	life means living things	nongold
+20	trees are a kind of resource	nongold
+21	plant requires seed dispersal for reproduction	gold
+22	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+23	eating an animal; a plant means killing that animal; that plant	nongold
+24	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	gold
+25	fruit is a part of a plant; tree	nongold
+26	a consumer is a kind of organism	nongold
+27	a plant is a member of a plant species	nongold
+28	animals require fertilization to reproduce	nongold
+29	fruit is a kind of food	nongold
+30	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	gold
+31	sexual reproduction is a kind of reproduction	nongold
+32	planting trees has a  positive impact on an ecosystem	nongold
+33	to eat means to consume food	nongold
+34	a squirrel is a kind of animal	gold
+35	taking is the opposite of giving; leaving	nongold
+36	A squirrel gathering nuts helps trees	question
+37	a tree is a kind of plant	gold
+38	reproduce.	answer
+39	reproduce.	answer
+40	green plants are a kind of producer	nongold
+41	fruit contains seeds	gold
+42	having a positive impact on reproduction increases the chance of reproduction	nongold
+43	nuts are a kind of fruit	gold
+44	to help; to benefit means to be of use	nongold
+45	fruit contains seeds	gold
+46	A squirrel gathering nuts helps trees	question
+47	A squirrel gathering nuts helps trees	question
+48	a tree is a kind of habitat	nongold
+49	helping something has a  positive impact on that something	gold
+50	nuts are a kind of fruit	gold
+51	reproduction is a stage in the life cycle process	nongold
+52	nut is a kind of  food	nongold
+53	answering questions requires information	nongold
+54	harming something has a  negative impact on; effect on that something	nongold
+55	plant requires seed dispersal for reproduction	gold
+56	seed dispersal has a positive impact on a plant; a plant's reproduction	gold
+57	a plant is a kind of organism	nongold
+58	a pecan tree is a kind of tree	nongold
+59	to collect means to gather	nongold
+60	a living thing is a kind of object	nongold
+61	an animal is a member of an animal species	nongold
+62	a squirrel is a kind of animal	gold
+63	plant requires seed dispersal for reproduction	gold
+64	a squirrel is a kind of animal	gold
+65	a tree is a kind of plant	gold
+66	nuts are a kind of fruit	gold
+67	negative impact is the opposite of positive impact	nongold

@@ -1,0 +1,102 @@
+Question	Jeremiah noticed a plant had many missing leaves and large holes in other leaves. Why do missing leaves hurt the plant?	question
+Answer	The plant makes less food.	answer
+0	missing is similar to less	gold
+1	a plant; living thing requires food for survival	gold
+2	less is similar to decrease	nongold
+3	harming something has a  negative impact on; effect on that something	gold
+4	if a living thing requires something then that something has a positive impact on that living thing	nongold
+5	damage means harm	nongold
+6	a leaf is a kind of plant	nongold
+7	a leaf is a part of a  green plant	nongold
+8	less is the opposite of more	nongold
+9	to cause means to make	nongold
+10	to hurt means to harm	gold
+11	harm means injury	nongold
+12	an increase is the opposite of a decrease	nongold
+13	provide is similar to give; make	nongold
+14	a plant is a kind of living thing	nongold
+15	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+16	a food contains nutrients for living things	nongold
+17	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+18	fewer means lower; less in number	nongold
+19	a leaf is a part of a tree	nongold
+20	green plants are a kind of producer	nongold
+21	if a plant dies then that plant will not produce food	nongold
+22	make means produce	nongold
+23	an organism is a living thing	nongold
+24	an animal; living thing requires nutrients for survival	nongold
+25	less means a reduced amount	nongold
+26	low is similar to decrease	nongold
+27	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+28	a leaf is small in size	nongold
+29	if something is given , then that something is not missing	nongold
+30	a leaf is a kind of object	nongold
+31	requiring is similar to needing help	nongold
+32	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+33	deplete is similar to decrease	nongold
+34	helping something has a  positive impact on that something	nongold
+35	little is similar to decrease	nongold
+36	something harmful can cause harm	nongold
+37	to reduce means to decrease	nongold
+38	living things eat their food source	nongold
+39	food is what an animal eats	nongold
+40	a living thing is a kind of object	nongold
+41	decreasing something negative has a positive impact on a thing	nongold
+42	an animal needs to eat food for nutrients	nongold
+43	a plant; living thing requires nutrients to grow	nongold
+44	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	gold
+45	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+46	damage has a negative impact on a thing	nongold
+47	a leaf performs photosynthesis; gas exchange	gold
+48	decreasing something positive has a negative impact on a thing	nongold
+49	negative impact is the opposite of positive impact	gold
+50	an animal is a kind of living thing	nongold
+51	a plant is a kind of organism	gold
+52	burning a living thing usually causes harm to that living thing	nongold
+53	dying is the opposite of living; surviving	nongold
+54	increase means more	nongold
+55	to lower means to decrease	nongold
+56	nonliving; non-living; die is the opposite of living; alive; live	nongold
+57	requiring something means needing that something	nongold
+58	to eat means to consume food	nongold
+59	a vegetable is a kind of food	nongold
+60	a stem is often a part of plant	nongold
+61	eating something decreases the amount of that something	nongold
+62	killing a living thing decreases the number; population size of that living thing	nongold
+63	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+64	lack is similar to low; little	nongold
+65	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+66	lower means less	nongold
+67	lack of food causes starvation	nongold
+68	if an amount of objects decreases then those objects are fewer in number	nongold
+69	too much is similar to increase	nongold
+70	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+71	life means living things	nongold
+72	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+73	a plant is a member of a plant species	nongold
+74	a tree is a kind of living thing	nongold
+75	a vegetable is a kind of plant	nongold
+76	food is a kind of object	nongold
+77	food spoiling has a negative impact on the health of the animal that eats that food	nongold
+78	nutrients are a kind of matter	nongold
+79	little means low in amount	nongold
+80	to digest means to break down food	nongold
+81	high is similar to increase	nongold
+82	as the cause of something decreases , that something will decrease	nongold
+83	food is a source of energy for animals; plants	nongold
+84	destroying something causes harm to that something	nongold
+85	a tree is a kind of plant	nongold
+86	a leaf is often green in color	nongold
+87	an animal is a kind of organism	nongold
+88	harming an organism can cause that organism to die	nongold
+89	vegetation means plants	nongold
+90	small is the opposite of large	nongold
+91	to depend on; to rely on; to need means to require	nongold
+92	to impact means to affect	nongold
+93	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+94	give off is similar to make	nongold
+95	killing means harming something causing death	nongold
+96	In the food chain process a  green plant has the role of  producer	nongold
+97	smaller means less; lower in size	nongold
+98	survive means live	nongold
+99	survive means live	nongold

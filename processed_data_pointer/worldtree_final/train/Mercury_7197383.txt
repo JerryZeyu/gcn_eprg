@@ -1,0 +1,102 @@
+0	the solar system contains the moon	nongold
+1	if an event is required for a process then that event must occur before that process can occur	nongold
+2	once means one time	nongold
+3	event is similar to occurrence	nongold
+4	all the time means at day and at night	nongold
+5	a new moon occurs 14 days after a full moon	nongold
+6	the moon orbiting the Earth occurs once per month	nongold
+7	annual means once per year	nongold
+8	a solar eclipse is when the Moon blocks the Earth from the sun	nongold
+9	something that happens is a kind of event	nongold
+10	revolving  around something means orbiting that something	nongold
+11	a full moon is a kind of phase of the moon	nongold
+12	each of the moon's phases occurs once per month	nongold
+13	phase means state	nongold
+14	a waning crescent is a kind of phase of the moon	nongold
+15	length of time means period of time	nongold
+16	once per means every	nongold
+17	The moon goes through phases as it revolves around Earth. During which phase of the moon would it be possible for a solar eclipse to occur?	question
+18	a last quarter is a kind of phase of the moon	nongold
+19	a revolution occurs when something revolves around something else	nongold
+20	if it is night then the sun has set	nongold
+21	the moon orbits the Earth	nongold
+22	a revolution of the moon around the Earth takes 1; one month	nongold
+23	the new moon is when the lighted half of the moon faces the Sun	nongold
+24	to add means to increase	nongold
+25	a first quarter is a kind of phase of the moon	nongold
+26	a component of something means a part of that something	nongold
+27	to cause an event is similar to being involved in that event	nongold
+28	to happen means to occur	gold
+29	old is the opposite of new	nongold
+30	the night time is part of one day	nongold
+31	movements of celestial bodies are a kind of event	nongold
+32	a lunar eclipse could only occur during a full moon	nongold
+33	to undergo is similar to to pass through	nongold
+34	period is similar to amount of time	nongold
+35	the Moon completes a lunar cycle over a period of 29 days	nongold
+36	to keep something occurring means to cause that something to occur	nongold
+37	a change is a kind of event	nongold
+38	the sun setting is a kind of event	nongold
+39	a motion is a kind of event; action	nongold
+40	to make possible means to be required	nongold
+41	new moon	answer
+42	both means two	nongold
+43	setting is a kind of motion	nongold
+44	a process usually requires all of the stages in that process	nongold
+45	a moon is a kind of satellite	nongold
+46	a part of a process means a stage in a process	nongold
+47	cycles of day and night occur once per day	nongold
+48	lunar phase is synonymous with moon phase	nongold
+49	yearly means every year	nongold
+50	a phase of the moon is a kind of state	nongold
+51	monthly means once per month	nongold
+52	a new moon is a kind of phase of the moon	gold
+53	the new moon is when the dark half of the moon faces the Earth	nongold
+54	high is similar to increase	nongold
+55	a planet is a kind of celestial object; body	nongold
+56	an event is a kind of action	nongold
+57	to be used for something means to be required by that something	nongold
+58	a type is synonymous with a kind	nongold
+59	the moon rising occurs once per day	nongold
+60	the Earth revolves around the sun	nongold
+61	the sun sets in the west	nongold
+62	throughout means over	nongold
+63	revolving is a kind of motion	nongold
+64	a waxing gibbous is a kind of phase of the moon	nongold
+65	a different moon phase occurs once per week	nongold
+66	a cycle is a kind of process	nongold
+67	events occur at a specific place; at a specific time; with a specific frequency	nongold
+68	if an event occurs by adding something then that event requires that something	nongold
+69	a process is a kind of event	nongold
+70	to pass means to occur	nongold
+71	a cycle happens; occurs repeatedly	nongold
+72	the Sun is a kind of star	nongold
+73	take place means happen	nongold
+74	can be means able to be	nongold
+75	a solar eclipse could only happen during the new moon	gold
+76	a full moon occurs after a waxing gibbous moon	nongold
+77	type of moon; kind of moon means moon phase	nongold
+78	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+79	a step in a process means a stage in a process	nongold
+80	days are a kind of unit for measuring time	nongold
+81	a moon phase occurs 28 days after the last time it occurred	nongold
+82	an increase is a kind of change	nongold
+83	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+84	a component means a part of	nongold
+85	a waning gibbous is a kind of phase of the moon	nongold
+86	the sun rising is a kind of event	nongold
+87	a lunar eclipse is when the Earth blocks the Moon from the sun	nongold
+88	answering questions requires information	nongold
+89	Earth is a kind of planet	nongold
+90	if something causes a process then that something is required for that process	nongold
+91	revolving is a kind of action	nongold
+92	new means different from the former one	nongold
+93	Earth's shadow falling on the moon causes a lunar eclipse	nongold
+94	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+95	the first quarter phase of the moon occurs after the new moon	nongold
+96	a moon is a kind of celestial object; body	nongold
+97	increase means more	nongold
+98	the day time is part of one day	nongold
+99	occur is similar to appear	nongold
+100	a moon phase is a kind of natural event	nongold
+101	the Moon is Earth's moon	nongold

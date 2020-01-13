@@ -1,0 +1,101 @@
+0	Why do astronauts need oxygen in the backpacks of their spacesuits?	question
+1	to help astronauts breathe in outer space	answer
+2	spacesuit backpacks contain oxygen	gold
+3	astronauts wear spacesuits in space	gold
+4	requiring is similar to needing help	nongold
+5	requiring something means needing that something	nongold
+6	to help means to aid	nongold
+7	astronauts live on a space station while in outer space	nongold
+8	helping something has a  positive impact on that something	nongold
+9	an astronaut is a kind of human	gold
+10	an animal; bacterium requires oxygen for survival; to breathe	gold
+11	to help; to benefit means to be of use	nongold
+12	to depend on; to rely on; to need means to require	gold
+13	an animal requires air for survival	nongold
+14	to be used  for something means to help to do that something	nongold
+15	breathing is a kind of process	nongold
+16	oxygen is a kind of gas at room temperature	nongold
+17	a human is a kind of animal	gold
+18	breathing is a kind of  function	nongold
+19	an animal is a kind of organism	nongold
+20	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+21	breathing out is when animals exhale carbon dioxide from their lungs into the air	nongold
+22	to breathe in means to absorb air	nongold
+23	a person is a kind of animal	nongold
+24	an animal is a kind of living thing	nongold
+25	breathing in is when animals inhale air into their lungs	nongold
+26	needing something means depending on that something	nongold
+27	to be used for something means to be required by that something	nongold
+28	oxygenated means having oxygen	nongold
+29	helping means to assist in a change	nongold
+30	place means space	nongold
+31	person is synonymous with human	nongold
+32	if a living thing requires something then that something has a positive impact on that living thing	nongold
+33	the lungs are a part of the body of an animal used for breathing air	nongold
+34	atmosphere means  air	nongold
+35	breathing  is when a lung converts from oxygen in air into oxygen in blood	nongold
+36	air is a kind of gas	nongold
+37	Earth has air	nongold
+38	breathing is when animals convert oxygen into carbon dioxide	nongold
+39	an organism is a living thing	nongold
+40	all animals breathe	nongold
+41	exhaling  is when an animal expels air from the lungs	nongold
+42	life means living things	nongold
+43	astronauts require preserved food for extended flights	nongold
+44	oxygen has a positive impact on air quality	nongold
+45	human is a kind of organism	nongold
+46	a vehicle is a kind of object	nongold
+47	gas is a kind of material	nongold
+48	to be helpful means to help to do	nongold
+49	if something causes a process then that something is required for that process	nongold
+50	helping means something can be done; completed more easily; better	nongold
+51	a vehicle is a kind of tool for travel; transport	nongold
+52	a container is a kind of object	nongold
+53	if something is required for a process then that something positively impacts that process	nongold
+54	a planet contains environments	nongold
+55	a living thing is a kind of object	nongold
+56	animals are a source of carbon dioxide by exhaling	nongold
+57	Earth is a kind of planet	nongold
+58	a container contains objects; material; substances	nongold
+59	harming something has a  negative impact on; effect on that something	nongold
+60	air is a part of the environment	nongold
+61	space is a kind of resource	nongold
+62	carbon dioxide is a kind of gas	nongold
+63	negative impact is the opposite of positive impact	nongold
+64	air holes in a container are often used for providing oxygen to an animal in that container	nongold
+65	survive means live	nongold
+66	survive means live	nongold
+67	a vehicle is used for transportation	nongold
+68	if something requires something else then that something requires a source of that something else	nongold
+69	air is a kind of matter	nongold
+70	lungs are used for breathing air by land animals; birds	nongold
+71	to be required means to be necessary	nongold
+72	the body is a part of an organism	nongold
+73	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	a planet is a kind of celestial object; body	nongold
+76	if something required by something else is in a place then that something else may be in that place	nongold
+77	the respiratory system takes in oxygen from the air	nongold
+78	a source of something supplies that something	nongold
+79	what something needs is a property of that something	nongold
+80	breath contains water vapor	nongold
+81	live means to be alive	nongold
+82	to provide something means to be the source of that something	nongold
+83	if something is required then that something must be provided	nongold
+84	bringing oxygen to the body is a kind of function	nongold
+85	the Earth's atmosphere is made of 23.133 percent oxygen by mass	nongold
+86	the atmosphere contains gases; liquids; solids	nongold
+87	oxygen is a kind of resource	nongold
+88	the respiratory system is a kind of human; organ; body system	nongold
+89	airtight is when air cannot pass through something	nongold
+90	animals; living things require water for survival	nongold
+91	good means positive	nongold
+92	gas is a kind of object	nongold
+93	the moon does not contain air; water	nongold
+94	a supply of something is a source of that something	nongold
+95	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+96	the air is a kind of substance	nongold
+97	greatest means largest; highest; most amount of something	nongold
+98	if something is a raw material in a process then that something is required for that process	nongold
+99	objects are made of materials; substances; matter	nongold
+100	dying is the opposite of living; surviving	nongold

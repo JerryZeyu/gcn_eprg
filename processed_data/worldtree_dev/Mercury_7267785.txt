@@ -1,0 +1,102 @@
+Question	Which planet has characteristics that make it the most likely planet for the discovery of extra-terrestrial life?	question
+Answer	Mars	answer
+0	Mars is a kind of planet	gold
+1	Mars is a kind of inner planet	nongold
+2	characteristic means property	nongold
+3	to discover means to find	nongold
+4	feature is synonymous with characteristic	nongold
+5	to discover means to make a discovery	nongold
+6	Mars is the planet that is fourth closest to the  Sun	nongold
+7	life means living things	gold
+8	often is similar to likely	nongold
+9	a part of something means a characteristic of something	nongold
+10	orbit is a kind of characteristic	nongold
+11	a planet is a kind of celestial object; body	nongold
+12	Earth is a kind of planet	nongold
+13	to identify means to discover	nongold
+14	a planet is a kind of place	nongold
+15	a property of something is a feature of that something	nongold
+16	an organism is a living thing	nongold
+17	a planet is a kind of location	nongold
+18	Earth is greater in mass than Mars	nongold
+19	organisms mean life	nongold
+20	the asteroid belt is located between Mars and Jupiter	nongold
+21	astronomy is the study of celestial (objects, bodies)	nongold
+22	a living thing is a kind of object	nongold
+23	classify is similar to characterize	nongold
+24	a moon is a kind of celestial object; body	nongold
+25	making discoveries requires observing	nongold
+26	discovering something usually requires seeing that something	nongold
+27	Jupiter is a kind of planet	nongold
+28	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+29	an object has properties	nongold
+30	place means space	nongold
+31	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+32	a type is synonymous with a kind	nongold
+33	a type of something is a kind of property of that something	nongold
+34	orbiting is a kind of action	nongold
+35	Jupiter is a kind of outer planet	nongold
+36	once-living means dead	nongold
+37	to cause an event means to make that event more likely	nongold
+38	a part of something is a property of that something	nongold
+39	planets in the solar system orbit the Sun	nongold
+40	an event is a kind of action	nongold
+41	nonliving; non-living; die is the opposite of living; alive; live	nongold
+42	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+43	to detect means to find	nongold
+44	a star is a kind of celestial object; celestial body	nongold
+45	an animal is a kind of living thing	nongold
+46	Venus is a kind of planet	nongold
+47	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+48	trait is synonymous with characteristic	nongold
+49	can be means able to be	nongold
+50	classifying is when one sorts something by kind; type	nongold
+51	live means to be alive	nongold
+52	the Moon is Earth's moon	nongold
+53	a structure is a kind of feature	nongold
+54	remains mean parts of a dead organism	nongold
+55	finding something means locating that something	nongold
+56	similarity means the same property	nongold
+57	the properties of something can be used to identify; used to describe that something	nongold
+58	events occur at a specific place; at a specific time; with a specific frequency	nongold
+59	classifying means grouping objects; materials by their properties	nongold
+60	to belong to a class means to be a kind of something	nongold
+61	a physical property is a kind of property	nongold
+62	form means kind	nongold
+63	species means a group of like organisms	nongold
+64	Uranus is a kind of planet	nongold
+65	if something is a part of something then that something can be found in that something	nongold
+66	greatest means largest; highest; most amount of something	nongold
+67	all living things have life cycles	nongold
+68	moons; comets; planets are part of the solar system	nongold
+69	the Sun is a kind of star	nongold
+70	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+71	if two objects are similar , then the two objects share properties	nongold
+72	aspect of something is similar to part of something	nongold
+73	a dwarf planet is usually much smaller in size; in mass than other planets	nongold
+74	a planet's  moon is smaller than that planet	nongold
+75	a planet contains environments	nongold
+76	trait means property	nongold
+77	planets are found in space	nongold
+78	the moon orbits the Earth	nongold
+79	a hypothesis is a kind of scientific term	nongold
+80	resemble means similar characteristics	nongold
+81	an animal is a kind of organism	nongold
+82	the properties of something are used for describing that something	nongold
+83	fossil means preserved remains of ancient organisms	nongold
+84	a satellite orbits a planet	nongold
+85	if two things have the same features then those two things are alike	nongold
+86	furthest; farthest means greatest; most; highest in distance	nongold
+87	survive means live	nongold
+88	survive means live	nongold
+89	a structure of something is synonymous with a part of that something	nongold
+90	unique  is the opposite of diverse	nongold
+91	unit is similar to part	nongold
+92	a component means a part of	nongold
+93	revolving  around something means orbiting that something	nongold
+94	planets have cleared their orbits	nongold
+95	made up of means contains; made of	nongold
+96	an asteroid is a kind of celestial object	nongold
+97	if something is not the same as something else then that something is different from that something else	nongold
+98	if something required by something else is in a place then that something else may be in that place	nongold
+99	a motion is a kind of event; action	nongold

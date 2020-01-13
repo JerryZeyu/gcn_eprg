@@ -1,0 +1,101 @@
+0	quantity means amount	nongold
+1	to give off means to be the source of	nongold
+2	a source of something increases the amount of that something	nongold
+3	the body is a part of an organism	nongold
+4	hormones regulate body functions	nongold
+5	produce is similar to release	nongold
+6	producing is similar to causing	nongold
+7	glucose is a kind of substance	nongold
+8	an animal is a kind of organism	gold
+9	sugar is a kind of solid	nongold
+10	greatest means largest; highest; most amount of something	nongold
+11	if something is made by something else then that something is affected by that something else	nongold
+12	to emit means to release	nongold
+13	human is a kind of organism	nongold
+14	if something releases something else then that something is the source of that something else	nongold
+15	regulating is a kind of function	nongold
+16	sugar is a kind of food	nongold
+17	to regulate means to maintain the speed of a process	nongold
+18	table sugar is a kind of sugar	nongold
+19	causing is a kind of function	nongold
+20	change is a kind of process	nongold
+21	to happen means to occur	nongold
+22	impact means effect	nongold
+23	converting is similar to releasing	nongold
+24	producing is similar to releasing	nongold
+25	a reaction is a kind of process	nongold
+26	action means activity	nongold
+27	the formation of something is a kind of process	nongold
+28	concentration means amount	nongold
+29	the brain can control animal body through the nervous system	nongold
+30	if something emits something else then that something increases the amount of that something else	nongold
+31	a type is synonymous with a kind	nongold
+32	if something is required for a process then that something positively impacts that process	nongold
+33	to be used for something means to be required by that something	nongold
+34	low is similar to decrease	nongold
+35	a cycle is a kind of process	nongold
+36	the amount of sugar in blood is a part of an animal's internal environment	gold
+37	maintain is similar to control	gold
+38	producing is a kind of process	nongold
+39	must have means require	nongold
+40	a source of something emits; produces; generates; provides that something	nongold
+41	releasing energy is a kind of function	nongold
+42	an animal's brain controls that animal	nongold
+43	form means kind	nongold
+44	an increase is a kind of change	nongold
+45	human is similar to individual	nongold
+46	sugar is a kind of pure substance	nongold
+47	a decrease is a kind of change	nongold
+48	to slow; to slow down decreases speed	nongold
+49	if something releases something else then that something else decreases in that something	nongold
+50	an organism is a living thing	nongold
+51	to lower means to decrease	nongold
+52	regulation is when an organism maintains a stable internal environment	gold
+53	if something causes a process then that something is required for that process	nongold
+54	an increase is the opposite of a decrease	nongold
+55	having an impact on something means altering that something	nongold
+56	cell activity means cell process	nongold
+57	sugary means high in sugar	nongold
+58	a producer is a source of sugar; food energy in an ecosystem	nongold
+59	affected means changed	nongold
+60	determining is similar to controlling	nongold
+61	can be means able to be	nongold
+62	variable means able to change	nongold
+63	regulation	answer
+64	a kind of something is an example of that something	nongold
+65	causing means influencing	nongold
+66	carbohydrates are made of sugars	nongold
+67	causing is a kind of affecting	nongold
+68	sugar is a kind of  simple carbohydrate	nongold
+69	In humans, the amount of sugar in blood is controlled by the release of a hormone called insulin. This process is an example of	question
+70	some hormones regulate growth	nongold
+71	the nervous system is the vehicle for controlling the body	nongold
+72	to add means to increase	nongold
+73	to modify means to change	nongold
+74	answering questions requires information	nongold
+75	controlling is a kind of function	nongold
+76	the function of something is what that something  is used to do	nongold
+77	faster means increased rate	nongold
+78	emit means produce	nongold
+79	to provide something means to be the source of that something	nongold
+80	if an organism produces a substance then that organism has a gene that controls the production of that substance	nongold
+81	a step in a process means a stage in a process	nongold
+82	converting is similar to producing	nongold
+83	An example of biological regulation is insulin being released to control the amount of sugar in blood	gold
+84	level is similar to amount; quantity	nongold
+85	a process is a kind of event	nongold
+86	a human is a kind of mammal	nongold
+87	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+88	ATP is formed by the breakdown of molecules of glucose	nongold
+89	an organism breaks down sugar to release energy	nongold
+90	coordinate is similar to control	nongold
+91	an animal is a kind of living thing	nongold
+92	to change means to have an effect	nongold
+93	to cause means to have an effect	nongold
+94	a human is a kind of animal	gold
+95	a part of a process means a stage in a process	nongold
+96	if something causes an increase in something else then that something produces that something else	nongold
+97	a process usually requires all of the stages in that process	nongold
+98	high is similar to increase	nongold
+99	allowing is a kind of controlling	nongold
+100	increase means more	nongold

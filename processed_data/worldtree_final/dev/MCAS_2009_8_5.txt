@@ -1,0 +1,102 @@
+0	Which of the following would be most effective in reducing air traffic congestion at a busy airport?	question
+1	increasing the number of runways at the airport	answer
+2	to reduce means to decrease	gold
+3	to lower means to decrease	nongold
+4	increase means more	nongold
+5	high is similar to increase	nongold
+6	an increase is the opposite of a decrease	nongold
+7	reducing is a kind of change	nongold
+8	an airport is a kind of port for airplanes	gold
+9	a decrease is a kind of change	nongold
+10	an increase is a kind of change	nongold
+11	a runway is a kind of pathway for airplanes	gold
+12	low is similar to decrease	nongold
+13	reducing is similar to slowing	nongold
+14	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+15	as the number of pathways increases , the traffic congestion in that area usually decreases	gold
+16	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+17	amount is similar to number	nongold
+18	less is similar to decrease	nongold
+19	if an amount of objects decreases then those objects are fewer in number	nongold
+20	greatest means largest; highest; most amount of something	nongold
+21	a source of something increases the amount of that something	nongold
+22	to slow; to slow down decreases speed	nongold
+23	harming something has a  negative impact on; effect on that something	nongold
+24	negative impact is the opposite of positive impact	nongold
+25	fewer means lower; less in number	nongold
+26	higher means greater; above in value; amount; number	nongold
+27	if something is required for a process then that something positively impacts that process	nongold
+28	greater means higher; more in value	nongold
+29	solution is similar to a positive impact	nongold
+30	counter means reduce; stop; resist	nongold
+31	many means high in number	nongold
+32	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+33	causing problems is a kind of negative impact	nongold
+34	less means a reduced amount	nongold
+35	how many means what number	nongold
+36	little is similar to decrease	nongold
+37	An example of managing; maintaining the number; the use of something is replacing that something	nongold
+38	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+39	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+40	too much is similar to increase	nongold
+41	address a problem means reduce a problem	nongold
+42	a positive impact is a helpful effect	nongold
+43	helping something has a  positive impact on that something	nongold
+44	lower means less	nongold
+45	decreasing something negative has a positive impact on a thing	nongold
+46	to limit means to decrease	nongold
+47	most means over 50% of something	nongold
+48	doubling is similar to increasing	nongold
+49	faster means an increase; higher in speed	nongold
+50	if something causes a process then that something is required for that process	nongold
+51	decreasing something positive has a negative impact on a thing	nongold
+52	as the cause of something decreases , that something will decrease	nongold
+53	an event is a kind of action	nongold
+54	can be means able to be	nongold
+55	to impact means to affect	nongold
+56	affected means changed	nongold
+57	impact means effect	nongold
+58	an airplane is a kind of vehicle	nongold
+59	to be used for something means to be required by that something	nongold
+60	a concern; a problem is a possible negative impact	nongold
+61	applying is similar to increasing	nongold
+62	as distance from a source of something increases , that something will decrease	nongold
+63	decreasing is similar to becoming smaller	nongold
+64	furthest; farthest means greatest; most; highest in distance	nongold
+65	many vehicles emit pollution into the air	nongold
+66	change is a kind of impact	nongold
+67	the number of parts of something is a property of that something	nongold
+68	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+69	faster means increased rate	nongold
+70	inhibitor means something that prevents something from happening	nongold
+71	a process is a kind of event	nongold
+72	a problem has a negative impact on a thing	nongold
+73	motion is when moves an object; something to a direction	nongold
+74	to help; to benefit means to be of use	nongold
+75	if something emits something else then that something increases the amount of that something else	nongold
+76	lowest means least in value; amount; number	nongold
+77	speed is a property of an object and includes values of slow; fast	nongold
+78	a motion is a kind of event; action	nongold
+79	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+80	growth means size;number;value;strength increases	nongold
+81	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+82	to be required means to be necessary	nongold
+83	as the resistance to something increases , how easilty that something can  be done will decrease	nongold
+84	as use of public transportation increases , the use of automobiles decreases	nongold
+85	a vehicle is a kind of tool for travel; transport	nongold
+86	flying is a kind of motion through air; space	nongold
+87	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+88	a process usually requires all of the stages in that process	nongold
+89	rate is similar to speed	nongold
+90	low means low in elevation; height; altitude	nongold
+91	a vehicle is used for travel	nongold
+92	a source of something emits; produces; generates; provides that something	nongold
+93	an airplane is fast in speed	nongold
+94	a factor impacts something	nongold
+95	if something performs a task then that task is that something's function	nongold
+96	an automobile is a kind of vehicle	nongold
+97	fewest means lowest; least in number	nongold
+98	weather is  a measure of the condition of the air in a place at a certain time	nongold
+99	speed is a measure of how fast an object is moving	nongold
+100	loss means reduction	nongold
+101	if something with the same function as something else is being used then the use of that something else decreases	nongold

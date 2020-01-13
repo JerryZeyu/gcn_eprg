@@ -1,0 +1,102 @@
+0	fishing has a negative impact on ecosystems	nongold
+1	a fish lives in water	nongold
+2	leave the land alone	answer
+3	humans changing an environment causes animal populations to decrease in that environment	nongold
+4	an ecosystem contains a large community of; large numbers of living organisms	nongold
+5	requiring something means needing that something	nongold
+6	a bird is a kind of animal	gold
+7	if a living thing dies then that living thing is dead	nongold
+8	a wetland is a kind of ecosystem	nongold
+9	providing support is a kind of function	nongold
+10	an environment means an area	nongold
+11	an animal is a kind of living thing	gold
+12	water is a kind of natural resource	nongold
+13	helping something has a  positive impact on that something	nongold
+14	good means positive	nongold
+15	low is similar to decrease	nongold
+16	a person is a kind of animal	nongold
+17	to depend on; to rely on; to need means to require	nongold
+18	animals; living things live and feed in their habitats; near their habitats	nongold
+19	a native; indigenous plant lives in a place because of nature, not human change	nongold
+20	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+21	an aquatic animal is a kind of animal	gold
+22	if a habitat can no longer support animals then those animals will move to another area	nongold
+23	organisms are a part of an environment	nongold
+24	a bird is a kind of living thing	nongold
+25	a fish is a kind of animal	nongold
+26	national parks have a positive impact on ecosystems	nongold
+27	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	gold
+28	if a habitat is removed then that habitat is destroyed	nongold
+29	an animal; living thing requires nutrients for survival	nongold
+30	organisms; living things live in their habitat; their home	nongold
+31	loss of land has a negative impact on the residents in an environment	nongold
+32	decreasing something negative has a positive impact on a thing	nongold
+33	to lower means to decrease	nongold
+34	a body of water is a kind of environment	nongold
+35	ocean is a source of wild fish for human populations	nongold
+36	a human is a kind of animal	nongold
+37	to anchor means to provide support	nongold
+38	life means living things	nongold
+39	animals usually distance themselves from humans	nongold
+40	to remain means to not change	nongold
+41	an ecosystem is a kind of habitat	nongold
+42	land is a kind of landform	nongold
+43	A wetland habitat can continue to support the birds and fish that live there if people ___.	question
+44	habitat is similar to environment	gold
+45	person is synonymous with human	gold
+46	helping means something can be done; completed more easily; better	nongold
+47	a body of water contains water	nongold
+48	landscape is similar to land	nongold
+49	leaving something undisturbed means not changing that something	nongold
+50	humans live on land	nongold
+51	a marsh is a kind of body of water	nongold
+52	a body of water is a kind of land feature	nongold
+53	harming an animal species has a  negative impact on the population size of that species	nongold
+54	humans moving in an environment usually causes native species to lose their habitats	nongold
+55	a pond is a kind of habitat	nongold
+56	humans changing animal habitats usually causes harm to those animals	gold
+57	an animal is a kind of organism	nongold
+58	if there is none of a thing then that thing does not exist	nongold
+59	an environment is similar to an ecosystem	nongold
+60	land is a kind of resource	nongold
+61	live is similar to stay	nongold
+62	negative impact is the opposite of positive impact	nongold
+63	a resident is a kind of person	nongold
+64	destroying animal habitats has a negative  impact on an ecosystem	nongold
+65	if a habitat is destroyed then that habitat can not support animals	gold
+66	protecting nature has a positive impact on the environment	nongold
+67	an environment is a kind of place	nongold
+68	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+69	land is a kind of environment	nongold
+70	aquatic animal means water animal	nongold
+71	natural disasters can cause animals to leave an environment	nongold
+72	a wetland is a kind of habitat	nongold
+73	a plant requires a habitat for survival	nongold
+74	humans changing an environment sometimes causes that environment to be destroyed	gold
+75	to remain means to stay where it is	nongold
+76	less is similar to decrease	nongold
+77	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+78	if something required by something else is in a place then that something else may be in that place	nongold
+79	a shore is the land found at the edge of a body of water	nongold
+80	damage has a negative impact on a thing	nongold
+81	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+82	a fish is a kind of aquatic animal	gold
+83	best means most positive	nongold
+84	aquatic animals; plants live in bodies of water	nongold
+85	requiring is similar to needing help	nongold
+86	if the amount of available food and water decreases in an environment then animals may leave that environment to find food and water	nongold
+87	decreasing something positive has a negative impact on a thing	nongold
+88	leave alone means not change	gold
+89	water is a part of an environment	nongold
+90	to help means to aid	nongold
+91	to stay means to continue to exist	nongold
+92	harming something has a  negative impact on; effect on that something	gold
+93	helping means to assist in a change	nongold
+94	to help; to benefit means to be of use	nongold
+95	when a habitat can support living things , living things can live in that habitat	gold
+96	a community is made of many types of organisms in an area	nongold
+97	if a living thing requires something then that something has a positive impact on that living thing	nongold
+98	animals; living things require water for survival	nongold
+99	a nature preserve is a kind of habitat	nongold
+100	an animal requires a habitat for survival	nongold
+101	leaving is a kind of movement	nongold

@@ -1,0 +1,102 @@
+0	Which dog trait is a learned behavior?	question
+1	jumping to catch a ball	answer
+2	a dog is a kind of animal	nongold
+3	skills are learned characteristics; behaviors	nongold
+4	a behavior is a kind of characteristic	gold
+5	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+6	trait is synonymous with characteristic	gold
+7	An example of playing with toys is jumping to catch a ball	gold
+8	a learned characteristic is a kind of acquired characteristic	nongold
+9	a ball is a kind of object	nongold
+10	if an animal is trained to do something then that something is a learned behavior	nongold
+11	conditioned behavior is a kind of learned behavior	nongold
+12	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+13	actions mean behavior	nongold
+14	trait means property	nongold
+15	an animal is a kind of living thing	nongold
+16	an animal is a kind of organism	nongold
+17	animal instinct means instinctive behavior	nongold
+18	a living thing is a kind of object	nongold
+19	an inherited characteristic is a kind of characteristic	nongold
+20	an animal knows how to do  instinctive behaviors when it is born	nongold
+21	communication is a learned behavior	nongold
+22	rolling in mud is a learned behavior	nongold
+23	An example of an organism responding to its external environment is an animal jumping when startled	nongold
+24	ability is a kind of characteristic	nongold
+25	an adaptation is a kind of characteristic	nongold
+26	a prairie dog is a kind of animal	nongold
+27	social behavior is a kind of learned behavior	nongold
+28	the color of; coloration of fur is an inherited characteristic	nongold
+29	a predator avoiding some types of prey is a learned behavior	nongold
+30	a human is a kind of animal	nongold
+31	following orders is a learned characteristic	nongold
+32	animals learn some behaviors from watching their parents	nongold
+33	intelligence is an acquired characteristic	nongold
+34	characteristic means property	nongold
+35	action means activity	nongold
+36	jumping off is a kind of  moving down	nongold
+37	doing something more is a kind of conditioned behavior	nongold
+38	an organism is a living thing	nongold
+39	locomotion is a generally learned behavior	nongold
+40	a part of something means a characteristic of something	nongold
+41	what an object is made of is a kind of characteristic	nongold
+42	a dog weighs, on average 32 kg	nongold
+43	a motion is a kind of event; action	nongold
+44	using tools is a learned characteristic	nongold
+45	answering questions requires information	nongold
+46	flying is a kind of motion through air; space	nongold
+47	fur is often part of an animal	nongold
+48	adaptation is when an organism develops a trait over time for survival	nongold
+49	motion is when moves an object; something to a direction	nongold
+50	catching something is synonymous with obtaining that something	nongold
+51	a trick is a learned behavior	nongold
+52	sense is a kind of characteristic of an animal	nongold
+53	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+54	feature is synonymous with characteristic	nongold
+55	motion; movement means moving; to move	nongold
+56	trait is a kind of genetic information	nongold
+57	an animal requires energy to move	nongold
+58	howling is a kind of behavior	nongold
+59	to land on the ground means to hit the ground	nongold
+60	an event is a kind of action	nongold
+61	preferences are generally learned characteristics	nongold
+62	a cat is a kind of animal	nongold
+63	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+64	human is a kind of organism	nongold
+65	high is similar to increase	nongold
+66	playing with toys is a learned characteristic	gold
+67	some predators move  quickly to  catch prey	nongold
+68	instruction is a kind of information	nongold
+69	senses are an inherited characteristic	nongold
+70	determining is similar to learning	nongold
+71	fast means quickly	nongold
+72	moving is similar to travelling	nongold
+73	a type is synonymous with a kind	nongold
+74	fur is usually part of a mammal	nongold
+75	a plant is a kind of organism	nongold
+76	a puppy is a young; baby dog	nongold
+77	hitting is a kind of motion	nongold
+78	some dogs are trained to bark; to scratch at the door when they want to go outside	nongold
+79	to act on means to affect	nongold
+80	walking is a kind of behavior	nongold
+81	performance is similar to ability	nongold
+82	can be means able to be	nongold
+83	running is a kind of movement	nongold
+84	a structure of something is synonymous with a part of that something	nongold
+85	a predator is a kind of animal	nongold
+86	food is a kind of object	nongold
+87	learning; studying information causes one to know that information	nongold
+88	personality is an acquired characteristic	nongold
+89	a component of something means a part of that something	nongold
+90	Behavioral adaptation is a behavioral change in a population over successive generations that  helps individual organisms in that population to  survive; reproduce	nongold
+91	speed is a measure of how fast an object is moving	nongold
+92	high speed means fast	nongold
+93	to bump means to hit	nongold
+94	the ability to do means be able to do	nongold
+95	a plant is a kind of living thing	nongold
+96	avoiding is a kind of conditioned behavior	nongold
+97	species is an inherited characteristic	nongold
+98	human is similar to individual	nongold
+99	learned behaviors are learned over the  lifetime of the animal	nongold
+100	rolling is a kind of motion	nongold
+101	speed is a property of an object and includes values of slow; fast	nongold

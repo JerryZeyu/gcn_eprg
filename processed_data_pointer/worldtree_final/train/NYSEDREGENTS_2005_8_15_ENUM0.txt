@@ -1,0 +1,102 @@
+0	natural gas is a nonrenewable resource	nongold
+1	hydropower is a kind of alternative energy resource	nongold
+2	food is a kind of resource	nongold
+3	oil is a kind of energy resource	nongold
+4	water is a kind of natural resource	nongold
+5	coal is a nonrenewable resource	nongold
+6	solar energy is a kind of heat energy	nongold
+7	wind is a source of energy	nongold
+8	water is a renewable resource	nongold
+9	a fossil fuel is a kind of natural resource	nongold
+10	wind   is a kind of airflow	nongold
+11	a biofuel is a kind of alternative energy resource	nongold
+12	water is a kind of natural resource	nongold
+13	answering questions requires information	nongold
+14	land is a kind of resource	nongold
+15	tidal energy is a renewable resource	nongold
+16	a source of something emits; produces; generates; provides that something	nongold
+17	a windmill converts wind energy into electrical energy; electricity primarily by using mechanical energy	nongold
+18	a process is a kind of event	nongold
+19	wind is used for producing electricity	nongold
+20	a component means a part of	nongold
+21	a part of a process means a stage in a process	nongold
+22	alternative fuel is usually a renewable resource	nongold
+23	metal is a nonrenewable resource	nongold
+24	burning fossil fuels increases the carbon in the atmosphere	nongold
+25	natural gas is a kind of fossil fuel	nongold
+26	renewable resources are replenished more quickly than they are used	nongold
+27	an energy source is a kind of resource	nongold
+28	nuclear energy is a kind of energy	nongold
+29	wood is a kind of energy resource	nongold
+30	a wind turbine is a kind of windmill	nongold
+31	fossil fuels release carbon dioxide into the atmosphere	nongold
+32	flying a kite requires wind	nongold
+33	producing renewable electric energy requires renewable resources	nongold
+34	An example of conservation is not using fossil fuel	nongold
+35	fuel is a kind of energy source	nongold
+36	if something causes a process then that something is required for that process	nongold
+37	trees are a renewable resource	nongold
+38	solar energy is an inexhaustible resource	nongold
+39	fossil fuels are a kind of energy resource	nongold
+40	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+41	tidal energy is a kind of alternative energy resource	nongold
+42	operating an automobile usually requires fossil fuels	nongold
+43	if something is a raw material in a process then that something is required for that process	nongold
+44	fuel is a source of energy	nongold
+45	if something is powered by something else then that something requires a source of that something else	nongold
+46	vegetable oil is a renewable resource	nongold
+47	renewable resources can be used over again	nongold
+48	sunlight means solar energy	nongold
+49	plants are a kind of resource	nongold
+50	a component of something means a part of that something	nongold
+51	Which energy resource is renewable?	question
+52	fossil fuels have high potential energy	nongold
+53	solar energy is a kind of energy	nongold
+54	generate means produce	nongold
+55	if something requires something else then that something requires a source of that something else	nongold
+56	resources sometimes are used for energy	nongold
+57	a renewable resource is a kind of natural resource	nongold
+58	to power means to provide energy for	nongold
+59	solar power means solar energy	nongold
+60	renewable resources are often available for many years	nongold
+61	geothermal energy is a renewable resource	nongold
+62	potential energy is a kind of energy	nongold
+63	a source of something increases the amount of that something	nongold
+64	fossil fuel contains chemical energy	nongold
+65	renewable is the opposite of nonrenewable	nongold
+66	to provide something means to be the source of that something	nongold
+67	biomass is a renewable resource	nongold
+68	coal is a kind of fossil fuel	nongold
+69	animals are a renewable resource	nongold
+70	using renewable resources to generate power reduces greenhouse gases	nongold
+71	an inexhaustible resource is a kind of renewable resource	nongold
+72	nature is the source of natural resources	nongold
+73	fossil fuels are a nonrenewable resource	nongold
+74	to be formed by is similar to being produced by	nongold
+75	a natural resource is a kind of environmental factor	nongold
+76	wind means moving air	nongold
+77	wood is a renewable resource	nongold
+78	electricity means electrical energy	nongold
+79	an ocean is a kind of body of water	nongold
+80	energy transformation means one kind of energy changes into another kind of energy	nongold
+81	emit means produce	nongold
+82	sunlight is a kind of solar energy	nongold
+83	potential energy means stored energy	nongold
+84	wind is a renewable; inexhaustible resource	gold
+85	a renewable resource can be replaced	nongold
+86	chemical energy is a kind of energy	nongold
+87	oil is a kind of fossil fuel	nongold
+88	if something generates energy for something else then that something powers that something else	nongold
+89	oil is a source of energy	nongold
+90	petroleum is a kind of fossil fuel	nongold
+91	wind	answer
+92	solar energy is a renewable; inexhaustible resource	nongold
+93	a renewable resource is a kind of naturally replaced resource	nongold
+94	to be used for something means to be required by that something	nongold
+95	a renewable resource can be renewed	nongold
+96	wave energy is a renewable resource	nongold
+97	oil is a nonrenewable resource	nongold
+98	an event is a kind of action	nongold
+99	hydroelectric power is a renewable resource	nongold
+100	to depend on; to rely on; to need means to require	nongold
+101	windy means high wind speeds	nongold

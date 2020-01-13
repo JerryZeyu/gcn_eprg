@@ -1,0 +1,102 @@
+Question	In New York State, the shortest period of daylight occurs during which month?	question
+Answer	December	answer
+0	New York; New York State is a state located in the United States of America	nongold
+1	daylight occurs during the day	nongold
+2	December is a kind of month	gold
+3	December is during the winter in the northern hemisphere	gold
+4	December is during the summer in the southern hemisphere	nongold
+5	period of daylight is synonymous with amount of daylight	gold
+6	amount of daylight means length of daylight	gold
+7	month is a kind of period of time	nongold
+8	months are a kind of unit for measuring time	nongold
+9	daylight hours means time during which there is daylight	nongold
+10	the sunlight occurs during the day	nongold
+11	daylight means sunlight	nongold
+12	shortest means the least amount of time	nongold
+13	length of time means period of time	nongold
+14	1 month is equal to 28-31 days	nongold
+15	the winter solstice is on December 21st in the northern hemisphere	gold
+16	period is similar to amount of time	nongold
+17	days are a kind of unit for measuring time	nongold
+18	a measure of time is a length of time	nongold
+19	monthly means once per month	nongold
+20	daylight is when the sun shines on a location	nongold
+21	1 day is equal to 24 hours	nongold
+22	the amount of daylight is least on the winter solstice	gold
+23	daytime means day	nongold
+24	the amount of daylight is greatest on the summer solstice	nongold
+25	sunlight is a kind of light	nongold
+26	hours are a kind of unit for measuring time	nongold
+27	the day time is part of one day	nongold
+28	a new season occurs once per 3.0 months	nongold
+29	daily means every day; once per day	nongold
+30	longest means greatest in length	nongold
+31	instantaneously means short in time	nongold
+32	the amount of daylight is least in the winter	gold
+33	N means newton	nongold
+34	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+35	the night time is part of one day	nongold
+36	sunlight is a kind of solar energy	nongold
+37	long means great in length	nongold
+38	1 year is equal to 12 months	nongold
+39	how long something takes is a kind of measurement of time	nongold
+40	June is a kind of month	nongold
+41	August is a kind of month	nongold
+42	shortest means least; smallest in length	gold
+43	to happen means to occur	nongold
+44	when the season changes , the amount of daylight will change	nongold
+45	sunlight means solar energy	nongold
+46	all the time means at day and at night	nongold
+47	sunshine means sunlight	nongold
+48	the amount of daylight is greatest in the summer	nongold
+49	New York is closer to the North Pole than Florida	nongold
+50	high is similar to increase	nongold
+51	as the amount of daylight increases , sunset will occur later in the day	nongold
+52	new means different from the former one	nongold
+53	New Mexico is a state located in the United States of America	nongold
+54	a new moon is a kind of phase of the moon	nongold
+55	1 week is equal to 7 days	nongold
+56	cycles of day and night occur once per day	nongold
+57	old is the opposite of new	nongold
+58	1 year is equal to 365 days	nongold
+59	Monday is a kind of day of the week	nongold
+60	intensity of sunlight is similar to amount of sunlight	nongold
+61	a new season occurs four times per year	nongold
+62	years are a kind of unit for measuring time	nongold
+63	shorter means decreased length	nongold
+64	New Hampshire is a state located in the United States of America	nongold
+65	to a human a time period of 1000 years or more years is considered very long	nongold
+66	Yorkshire is a county located in England	nongold
+67	annual means once per year	nongold
+68	when the seasons change from the summer to the fall , the amount of daylight will decrease	nongold
+69	phase means state	nongold
+70	a unit for measuring time is a kind of time interval	nongold
+71	a new moon occurs 14 days after a full moon	nongold
+72	once per means every	nongold
+73	answering questions requires information	nongold
+74	each of the moon's phases occurs once per month	nongold
+75	Tuesday is a kind of  time	nongold
+76	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+77	person is synonymous with human	nongold
+78	to add means to increase	nongold
+79	events occur at a specific place; at a specific time; with a specific frequency	nongold
+80	the afternoon is  a part of the day	nongold
+81	yearly means every year	nongold
+82	the new moon is when the lighted half of the moon faces the Sun	nongold
+83	furthest; farthest means greatest; most; highest in distance	nongold
+84	to shorten means to make shorter	nongold
+85	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+86	everyday means daily	nongold
+87	state means form	nongold
+88	an event is a kind of action	nongold
+89	an increase is the opposite of a decrease	nongold
+90	the new moon is when the dark half of the moon faces the Earth	nongold
+91	to pass means to occur	nongold
+92	something that happens is a kind of event	nongold
+93	New South Wales is a state located in Australia	nongold
+94	quickly means in a short period of time	nongold
+95	receiving sunlight  is synonymous with absorbing sunlight	nongold
+96	to last longer means to be available longer	nongold
+97	affected means changed	nongold
+98	once means one time	nongold
+99	if something is outside during the day then that something will receive sunlight	nongold

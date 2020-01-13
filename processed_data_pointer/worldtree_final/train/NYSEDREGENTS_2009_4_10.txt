@@ -1,0 +1,102 @@
+0	motion is when moves an object; something to a direction	nongold
+1	a wall is a kind of object	nongold
+2	sliding is a kind of motion	nongold
+3	a wall is a kind of surface	nongold
+4	a human is a kind of animal	gold
+5	a pull is a kind of force	nongold
+6	contracting is a kind of movement	nongold
+7	vibration is a kind of motion	nongold
+8	wood is a light material	nongold
+9	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+10	a handle is a kind of object	nongold
+11	human is a kind of organism	nongold
+12	motion; movement means moving; to move	nongold
+13	friction occurs when two object's surfaces move against each other	nongold
+14	friction is a kind of force	nongold
+15	mechanical energy exerted by an object can be used to push or pull another object	nongold
+16	a block is a kind of object	gold
+17	pushing an object requires force	nongold
+18	rolling is a kind of motion	nongold
+19	a machine is a kind of  device	nongold
+20	a handle is a part of an object for holding that object	nongold
+21	a room is a kind of object	nongold
+22	form means kind	gold
+23	person is synonymous with human	gold
+24	state means form	nongold
+25	furniture often is made of wood	nongold
+26	a tool is a kind of object	nongold
+27	What form of energy is being used when a person pushes a wooden block across the floor?	question
+28	thermal energy is a kind of energy	nongold
+29	an part of an object is smaller than the entire object	nongold
+30	metal is a kind of material	nongold
+31	a simple machine is a kind of tool	nongold
+32	sliding is a kind of movement	nongold
+33	a living thing is a kind of object	nongold
+34	counter means reduce; stop; resist	nongold
+35	a simple machine requires mechanical energy to function	nongold
+36	an object being pushed across another object causes their surfaces to move against each other	nongold
+37	pulling is a kind of motion	nongold
+38	wood is an thermal; thermal energy insulator	nongold
+39	mechanical energy is a kind of energy	gold
+40	mechanical energy is used to move something by animals	gold
+41	push is a kind of force; application of force	nongold
+42	the function of something is what that something  is used to do	nongold
+43	a person is a kind of animal	nongold
+44	a type is synonymous with a kind	nongold
+45	an animal requires energy to move	nongold
+46	wood is a thermal; thermal energy insulator	nongold
+47	a force is a kind of push or pull on an object	nongold
+48	friction causes the speed of an object to decrease	nongold
+49	wood is a kind of object	nongold
+50	a kick is a kind of push	nongold
+51	mechanical	answer
+52	wood is a strong material	nongold
+53	a surface is a part of an object	nongold
+54	heat is a kind of energy	nongold
+55	friction causes speed to decrease	nongold
+56	raising is a kind of motion	nongold
+57	surfaces sometimes cause objects to break	nongold
+58	An example of mechanical energy is an object in motion	nongold
+59	speed is a measure of how fast an object is moving	nongold
+60	being  on something; placed in something; placed over something means touching  that something	nongold
+61	a room is a kind of container	nongold
+62	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+63	friction exerts force on moving objects	nongold
+64	mechanical force is a kind of mechanical energy	nongold
+65	a surface is a part of a material	nongold
+66	an animal is a kind of organism	nongold
+67	a surface is a kind of object	nongold
+68	an animal is a kind of living thing	nongold
+69	striking is a kind of movement	nongold
+70	if an object is made of a material then that object has the properties of that material	nongold
+71	wood is a kind of energy resource	nongold
+72	a wooden bench is a kind of object	nongold
+73	mechanical energy of a system includes the sum of kinetic energy and potential energy  in the system	nongold
+74	the floor is a kind of object	nongold
+75	moving something is a kind of function	nongold
+76	pushing is a kind of motion	nongold
+77	mechanical energy can  cause objects to move	nongold
+78	flipping; pushing a switch means using; activating that switch	nongold
+79	a machine is a kind of object	nongold
+80	friction causes the temperature of an object to increase	nongold
+81	flowing liquid can push objects	nongold
+82	pushing something can cause that something  to move	gold
+83	a table is a kind of object	nongold
+84	motion is a source of kinetic energy in an object	nongold
+85	a source of something emits; produces; generates; provides that something	nongold
+86	arms are a part of a person's body for manipulating objects	nongold
+87	to be used for something means to be required by that something	nongold
+88	An example of an object with kinetic energy is an object in motion	nongold
+89	objects are made of materials; substances; matter	nongold
+90	wood is a kind of natural material	nongold
+91	if an object slides across another object then those objects are touching	nongold
+92	friction converts mechanical energy into heat energy	nongold
+93	the floor is at the bottom of a room	nongold
+94	rubbing  is a kind of motion	nongold
+95	a lever is used for lifting;moving heavy objects	nongold
+96	material means substance	nongold
+97	kinetic energy is a kind of mechanical energy	nongold
+98	wood has a smooth surface	nongold
+99	structure is a property of an object; a material; a substance	nongold
+100	ground means floor	nongold
+101	a lever is a kind of simple machine	nongold

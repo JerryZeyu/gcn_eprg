@@ -1,0 +1,101 @@
+0	Astronauts weigh more on Earth than they do on the moon because	question
+1	the moon has less gravity than Earth.	answer
+2	weight is a measure of the force of the gravity on the mass of an object	nongold
+3	the earth has more mass than the moon	gold
+4	an astronaut is a kind of human	gold
+5	Earth is a kind of planet	gold
+6	less is similar to decrease	gold
+7	less is the opposite of more	nongold
+8	as the force of gravity increases , the weight of objects will increase	gold
+9	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	gold
+10	weight means the force of gravity acting on an object	nongold
+11	an increase is the opposite of a decrease	gold
+12	Weight is  the  force of gravity acting on an object	nongold
+13	as the force  of gravity decreases , the weight of the object will decrease	nongold
+14	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+15	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	nongold
+16	low is similar to decrease	nongold
+17	lower means less	nongold
+18	less means a reduced amount	nongold
+19	as the mass of an object increases ,  the weight of that object will increase	nongold
+20	high is similar to increase	nongold
+21	increase means more	gold
+22	greater means higher; more in value	nongold
+23	as the mass of an object decreases , the weight of that object will decrease	nongold
+24	the mass of a planet causes the pull of gravity on that planet	nongold
+25	a planet is a kind of celestial object; body	nongold
+26	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+27	to lower means to decrease	nongold
+28	the Moon is Earth's moon	nongold
+29	as the force  of gravity changes , the weight of the object will change	nongold
+30	if there is no gravitational pull , then the weight of an object will be equal to zero	nongold
+31	mass; weight are the same on Earth	nongold
+32	weak means low in strength	nongold
+33	as the mass of an object increases , the force of gravity on that object will increase	nongold
+34	weight is a property of objects; matter	nongold
+35	heavy means a large amount of weight	nongold
+36	a decrease is a kind of change	nongold
+37	a planet's  moon is smaller than that planet	nongold
+38	a weight is a kind of object	nongold
+39	strong means high in strength	nongold
+40	a human is a kind of animal	gold
+41	light means low  in weight	nongold
+42	an increase is a kind of change	nongold
+43	a moon is a kind of celestial object; body	gold
+44	mass; weight is a property of matter; objects; materials	nongold
+45	astronauts live on a space station while in outer space	nongold
+46	gravity causes orbits	nongold
+47	low is the opposite of high	nongold
+48	greatest means largest; highest; most amount of something	nongold
+49	heaviest means greatest mass; weight	nongold
+50	an animal is a kind of living thing	gold
+51	too much is similar to increase	nongold
+52	fewer means lower; less in number	nongold
+53	little is similar to decrease	nongold
+54	the moon orbits the Earth	nongold
+55	low means down	nongold
+56	an animal is a kind of organism	nongold
+57	mass is a measure of the amount of matter in an object	nongold
+58	to reduce means to decrease	nongold
+59	high means a lot of something	nongold
+60	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+61	higher means greater; above in value; amount; number	nongold
+62	as the mass of an oject decreases , the force of gravity on that object will decrease	nongold
+63	a living thing is a kind of object	gold
+64	the mass of an object causes the gravitational force exerted by that object	nongold
+65	gravity is a kind of force	nongold
+66	as the amount of food an animal eats increases , the weight of that animal will increase	nongold
+67	lowest means least in value; amount; number	nongold
+68	to lose means to have less of	nongold
+69	deplete is similar to decrease	nongold
+70	lighter means lower; less in weight	nongold
+71	gravitational potential energy is a measure of the product of weight and height	nongold
+72	as the mass of an object increases , the potential energy of that object will increase	nongold
+73	furthest; farthest means greatest; most; highest in distance	nongold
+74	smaller means less; lower in size	nongold
+75	an organism is a living thing	nongold
+76	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+77	most means over 50% of something	nongold
+78	mass is a property of objects; matter	nongold
+79	larger; bigger is the opposite of smaller	nongold
+80	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+81	a person is a kind of animal	nongold
+82	closer means lower; less; a decrease in distance	nongold
+83	a vehicle is a kind of object	nongold
+84	fewest means lowest; least in number	nongold
+85	astronauts wear spacesuits in space	nongold
+86	larger means greater; higher; more; increase in size	nongold
+87	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+88	if an  object has a larger mass than another object , then the  object has more inertia than the other object	nongold
+89	lack is similar to low; little	nongold
+90	an part of an object is smaller than the entire object	nongold
+91	the lowest gravitational pull is during a quarter moon	nongold
+92	the body is a part of an organism	nongold
+93	the Moon has less water; air than Earth	nongold
+94	small is the opposite of large	nongold
+95	one in  two means half; 50%	nongold
+96	distance is a property of space and includes ordered values of close; far	nongold
+97	weaker is the opposite of stronger	nongold
+98	extreme means very high in value	nongold
+99	as the force  of gravity changes , the mass of the object will stay the same	nongold
+100	the bottom is the lowest part of something	nongold

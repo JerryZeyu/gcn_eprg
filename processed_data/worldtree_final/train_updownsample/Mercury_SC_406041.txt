@@ -1,0 +1,55 @@
+0	an animal needs to eat food for nutrients	gold
+1	if a living thing dies then that living thing is dead	nongold
+2	remora fish eat food by attaching themselves to sharks and eating the food left behind	gold
+3	a fish is a kind of scaled animal	nongold
+4	an animal needs to eat food for nutrients	gold
+5	a predator usually kills its prey to eat it	nongold
+6	remora fish eat food by attaching themselves to sharks and eating the food left behind	gold
+7	a fish lives in water	nongold
+8	an amoeba is a kind of organism	nongold
+9	an animal; living thing requires nutrients for survival	nongold
+10	living things eat their food source	nongold
+11	a shark is a kind of fish	nongold
+12	a whale shark is a kind of shark	nongold
+13	fish eat insects	nongold
+14	By attaching to sharks, remora fish eat the scraps of food left behind when the sharks feed. If remoras were not able to attach to sharks, they would most likely	question
+15	low is similar to decrease	nongold
+16	a fish is a kind of animal	gold
+17	not be able to survive.	answer
+18	cannot means not be able to	nongold
+19	death means to die	nongold
+20	if a source of food for an animal decreases then the animal will have to find other types of food to survive	nongold
+21	harming an animal species causes that animal's population to decrease	nongold
+22	an animal needs to eat food for nutrients	gold
+23	harming something has a  negative impact on; effect on that something	nongold
+24	survive means live	nongold
+25	remora fish eat food by attaching themselves to sharks and eating the food left behind	gold
+26	a fish is a kind of animal	gold
+27	By attaching to sharks, remora fish eat the scraps of food left behind when the sharks feed. If remoras were not able to attach to sharks, they would most likely	question
+28	able is the opposite of unable	nongold
+29	dying is the opposite of living; surviving	nongold
+30	lack is similar to low; little	nongold
+31	sharks live in oceans	nongold
+32	nonliving; non-living; die is the opposite of living; alive; live	nongold
+33	harming an organism can cause that organism to die	nongold
+34	not be able to survive.	answer
+35	By attaching to sharks, remora fish eat the scraps of food left behind when the sharks feed. If remoras were not able to attach to sharks, they would most likely	question
+36	a fish is a kind of animal	gold
+37	if an organism dies then the population of that organism will decrease	nongold
+38	nutrients are a kind of material	nongold
+39	not be able to survive.	answer
+40	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+41	inability is the opposite of ability	nongold
+42	eating prey requires catching prey	nongold
+43	killing a living thing decreases the number; population size of that living thing	nongold
+44	deplete is similar to decrease	nongold
+45	survive means live	nongold
+46	carnivores only eat animals	nongold
+47	less is similar to decrease	nongold
+48	diet means what an animal eats	nongold
+49	to lack means to not have	nongold
+50	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+51	By attaching to sharks, remora fish eat the scraps of food left behind when the sharks feed. If remoras were not able to attach to sharks, they would most likely	question
+52	a food contains nutrients for living things	nongold
+53	an animal is a kind of living thing	nongold
+54	not be able to survive.	answer

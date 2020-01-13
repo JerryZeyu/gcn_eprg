@@ -1,0 +1,101 @@
+0	oxygen  is a kind of element	nongold
+1	water is a kind of liquid at room temperature	nongold
+2	acid can cause chemical change	nongold
+3	rain is a source of water	nongold
+4	a compound is a kind of material	nongold
+5	acidity is a property of chemicals; substances and includes ordered values of basic; neutral; acidic	nongold
+6	a fossil fuel is a kind of natural resource	nongold
+7	oxygen gas is made of only  oxygen element	nongold
+8	fossil fuels are a nonrenewable resource	nongold
+9	to add means to increase	nongold
+10	if something comes from something else then that something else is a source of that something	nongold
+11	a compound is a kind of substance	nongold
+12	a chemical compound is a kind of compound	nongold
+13	atmospheric means of the atmosphere	nongold
+14	the Earth's atmosphere is made of 23.133 percent oxygen by mass	nongold
+15	oxygen is a kind of gas at room temperature	nongold
+16	chemical reactions cause chemical change	nongold
+17	combustion of fossil fuels	answer
+18	combustion means fire converts chemical energy into light energy and heat energy	nongold
+19	propane;C_{3}H_{8} is a kind of gas at room temperature	nongold
+20	chemical reactions cause new substances; different substances to form	nongold
+21	forming is similar to converting	nongold
+22	air is a kind of gas	nongold
+23	combining; mixing two substances chemically causes chemical reactions	nongold
+24	to be formed by is similar to being produced by	nongold
+25	carbon is a kind of element	nongold
+26	to be used for something means to be required by that something	nongold
+27	a source of something supplies that something	nongold
+28	plus means to combine	nongold
+29	water is made of hydrogen and oxygen	nongold
+30	fossil fuels release carbon dioxide into the atmosphere	nongold
+31	to be made of something means to be formed of that something	nongold
+32	oil is a kind of fossil fuel	nongold
+33	a  gas is a kind of  element	nongold
+34	combustion is a kind of chemical change	nongold
+35	if something transfers something else then that something is a source of something else	nongold
+36	to fuse means to combine	nongold
+37	to make means to form	nongold
+38	rain is a kind of water	nongold
+39	gaseous means of gas	nongold
+40	acid rain is acidic	nongold
+41	the atmosphere contains gases; liquids; solids	nongold
+42	An example of a chemical property is the elements a compound is made of	nongold
+43	sulfur dioxide is formed by the combustion of fossil fuels	gold
+44	carbon dioxide is a kind of gas	nongold
+45	to provide something means to be the source of that something	nongold
+46	a carbohydrate is a kind of compound	nongold
+47	to combust means to catch fire	nongold
+48	compound is a kind of chemical	nongold
+49	if something releases something else then that something is the source of that something else	nongold
+50	the Earth's atmosphere is made of .036 percent carbon dioxide by volume	nongold
+51	form means kind	nongold
+52	the Earth's atmosphere is made of 0 to 4 percent hydrogen; water vapor by volume	nongold
+53	liquid; solid means nongaseous	nongold
+54	to give off means to be the source of	nongold
+55	gas is a kind of substance	nongold
+56	to convert means to change	nongold
+57	acidic rainwater contains acid	nongold
+58	products are formed; are produced; are created	nongold
+59	state means form	nongold
+60	the emission of sulfur dioxide causes acid rain	gold
+61	an acid is acidic	nongold
+62	atmosphere means  air	nongold
+63	burning fossil fuels increases the carbon in the atmosphere	nongold
+64	the Earth's atmosphere is made of 78 percent nitrogen by mass	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	hydrochloric acid is a kind of acid	nongold
+67	vapor is synonymous with gas	nongold
+68	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+69	nitrogen is a kind of gas	nongold
+70	water is a kind of substance	nongold
+71	methane is a kind of compound	nongold
+72	hydrogen is a kind of element	nongold
+73	petroleum is a kind of fossil fuel	nongold
+74	heat means heat energy	nongold
+75	water is a kind of compound	nongold
+76	a volatile substance gives off gas	nongold
+77	to change into means to form	nongold
+78	carbon dioxide can be found in the air	nongold
+79	where something  comes from is a source of that something	nongold
+80	fossil fuel contains chemical energy	nongold
+81	a compound can be chemically separated into the elements that it is made of	nongold
+82	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+83	a compound is made of two or more elements that have been chemically combined	nongold
+84	air is a kind of matter	nongold
+85	to add means to combine	nongold
+86	water contains dissolved oxygen	nongold
+87	sulfur is a kind of element	nongold
+88	Gaseous sulfur dioxide is a compound that combines with water in the atmosphere to form acid rain. What is the primary source of sulfur dioxide?	question
+89	fossil fuels burning causes pollution	nongold
+90	to exhale means to release	nongold
+91	substances are made of elements	nongold
+92	to form means to create	nongold
+93	if something requires something else then that something requires a source of that something else	nongold
+94	forming something is a kind of change	nongold
+95	hydrogen is a kind of gas at room temperature	nongold
+96	water is a kind of matter	nongold
+97	a hydrocarbon molecule is made of hydrogen and carbon by being chemically combined	nongold
+98	carbon; hydrogen; nitrogen; oxygen are the most common elements in organic compounds	nongold
+99	gases from burning coal and oil dissolving in water in the atmosphere causes acid rain	nongold
+100	chemical reactions can cause gas to be released into the atmosphere	nongold

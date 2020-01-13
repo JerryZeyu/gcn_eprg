@@ -1,0 +1,63 @@
+0	energy transformation means one kind of energy changes into another kind of energy	gold
+1	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+2	to transform means to convert	nongold
+3	electrical energy is a kind of energy	gold
+4	acid can cause chemical change	nongold
+5	a machine is a kind of  device	nongold
+6	chemical change is a kind of chemical reaction	nongold
+7	a flashlight is a kind of battery-operated device	gold
+8	fire is a kind of chemical reaction	nongold
+9	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+10	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+11	a battery-operated device is a kind of electrical device	gold
+12	when an animal moves , chemical energy is converted to mechanical energy	nongold
+13	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+14	a flashlight emits light	gold
+15	if an object undergoes chemical change then that object will have new chemical properties	nongold
+16	to happen means to occur	nongold
+17	a chemical reaction is a kind of process	nongold
+18	combustion means fire converts chemical energy into light energy and heat energy	nongold
+19	energy conversion is similar to energy transformation	nongold
+20	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+21	electrical energy is a kind of energy	gold
+22	instrument means device	nongold
+23	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+24	a battery contains chemical energy	nongold
+25	combining; mixing two substances chemically causes chemical reactions	nongold
+26	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+27	a  battery  is a kind of electrical power source	nongold
+28	a human is a kind of animal	nongold
+29	a flashlight emits light	gold
+30	chemical -> electrical -> light	answer
+31	electrical energy is a kind of energy	gold
+32	a flashlight emits light	gold
+33	events occur at a specific place; at a specific time; with a specific frequency	nongold
+34	a flashlight is a kind of battery-operated device	gold
+35	chemical -> electrical -> light	answer
+36	batteries can be used to power electrical devices	nongold
+37	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+38	a battery-operated device is a kind of electrical device	gold
+39	flipping a switch completes an electrical circuit	nongold
+40	energy transformation means one kind of energy changes into another kind of energy	gold
+41	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+42	a complete electrical circuit is a source of  electrical energy	nongold
+43	a battery-operated device is a kind of electrical device	gold
+44	turning is a kind of motion	nongold
+45	to turn means to change	nongold
+46	a flashlight is a kind of battery-operated device	gold
+47	chemical -> electrical -> light	answer
+48	energy transformation means one kind of energy changes into another kind of energy	gold
+49	chemical reactions cause new substances; different substances to form	nongold
+50	Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?	question
+51	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+52	battery-powered is similar to battery-operated	nongold
+53	different substances usually have different amount of chemical energy	nongold
+54	a  chemical property is a kind of  property	nongold
+55	electromagnetic energy is a kind of energy	nongold
+56	a device is a kind of object	nongold
+57	chemical energy is a kind of energy	nongold
+58	batteries convert chemical energy to electrical energy	nongold
+59	electricity is used as an energy source by electrical devices	nongold
+60	chemical -> electrical -> light	answer
+61	a process is a kind of event	nongold
+62	a battery is a source of electrical energy; electricity	nongold

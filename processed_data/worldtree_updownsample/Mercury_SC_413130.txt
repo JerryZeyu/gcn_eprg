@@ -1,0 +1,63 @@
+0	to make means to form	nongold
+1	Which natural material is best for making a table?	question
+2	tool is similar to appliance	nongold
+3	wood that is sturdy	answer
+4	a table is hard	nongold
+5	wood is a kind of natural material	gold
+6	a handle is a kind of object	nongold
+7	made by humans; artificial is the opposite of natural	nongold
+8	furniture often is made of wood	gold
+9	wood that is sturdy	answer
+10	a chair is a kind of object	nongold
+11	structure is a property of an object; a material; a substance	nongold
+12	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+13	best means most positive	gold
+14	Which natural material is best for making a table?	question
+15	wood is an thermal; thermal energy insulator	nongold
+16	a source of something emits; produces; generates; provides that something	nongold
+17	a piece of something is a kind of object	nongold
+18	texture means how an object feels	nongold
+19	an object is an item	nongold
+20	a table is a kind of furniture	gold
+21	a living thing is a kind of object	nongold
+22	a table is a kind of furniture	gold
+23	Which natural material is best for making a table?	question
+24	a structure is a kind of feature	nongold
+25	an object has properties	nongold
+26	sitting on something provides warmth to that something	nongold
+27	wood that is sturdy	answer
+28	wood is a light material	nongold
+29	best means most positive	gold
+30	furniture often is made of wood	gold
+31	objects are made of materials; substances; matter	nongold
+32	make means produce	nongold
+33	a table is a kind of furniture	gold
+34	wood is usually sturdy	gold
+35	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+36	furniture often is made of wood	gold
+37	a piece is a part of a whole	nongold
+38	wood is usually sturdy	gold
+39	using sturdy materials to build furniture has a positive impact on the use of that furniture	gold
+40	wood that is sturdy	answer
+41	if an object is made of a material then that object has the properties of that material	nongold
+42	best means most positive	gold
+43	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+44	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+45	Which natural material is best for making a table?	question
+46	wood is usually sturdy	gold
+47	composite materials are made of two more more materials	nongold
+48	a piece of an object is smaller in size than the whole object	nongold
+49	substances are made of matter	nongold
+50	heat means heat energy	nongold
+51	an animal is a kind of living thing	nongold
+52	a surface is a kind of object	nongold
+53	materials are used for making products by manufacturers	nongold
+54	wood is a strong material	nongold
+55	a surface is a part of a material	nongold
+56	using sturdy materials to build furniture has a positive impact on the use of that furniture	gold
+57	using sturdy materials to build furniture has a positive impact on the use of that furniture	gold
+58	wood is a kind of natural material	gold
+59	fiber is a kind of material	nongold
+60	wood is a kind of natural material	gold
+61	wood is a thermal; thermal energy insulator	nongold
+62	an object; material; substance comes from that object or material's source	nongold

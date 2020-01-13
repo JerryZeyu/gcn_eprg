@@ -1,0 +1,102 @@
+Question	Why is some food dehydrated for astronauts to eat in space?	question
+Answer	to preserve the food for extended flights	answer
+0	astronauts require preserved food for extended flights	gold
+1	dehydrating food is used for preserving food	gold
+2	an astronaut is a kind of human	nongold
+3	astronauts live on a space station while in outer space	nongold
+4	to preserve food means to keep fresh food from spoiling	nongold
+5	astronauts wear spacesuits in space	nongold
+6	food is what an animal eats	nongold
+7	to eat means to consume food	nongold
+8	an animal is a kind of living thing	nongold
+9	an organism is a living thing	nongold
+10	Earth is a kind of planet	nongold
+11	an animal is a kind of organism	nongold
+12	a food contains nutrients for living things	nongold
+13	an animal; living thing requires nutrients for survival	nongold
+14	a human is a kind of animal	nongold
+15	as ability to preserve food increases , the ability to transport food increases	nongold
+16	a planet is a kind of celestial object; body	nongold
+17	to keep a process or event happening is similar to causing that process or event to happen	nongold
+18	space shuttles require materials that can withstand heat	nongold
+19	harming something has a  negative impact on; effect on that something	nongold
+20	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+21	life means living things	nongold
+22	deplete is similar to decrease	nongold
+23	living things eat their food source	nongold
+24	a decomposer is a kind of living thing	nongold
+25	to conserve means to not change	nongold
+26	increase is similar to extend	nongold
+27	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+28	to keep something occurring means to cause that something to occur	nongold
+29	a living thing is a kind of object	nongold
+30	to be used for something means to be required by that something	nongold
+31	death means to die	nongold
+32	food is a kind of object	nongold
+33	diet means what an animal eats	nongold
+34	to digest means to break down food	nongold
+35	person is synonymous with human	nongold
+36	a space probe is a kind of spacecraft	nongold
+37	an animal needs to eat food for nutrients	nongold
+38	if something causes a process then that something is required for that process	nongold
+39	food contains carbohydrates	nongold
+40	an organism eating is a kind of action	nongold
+41	heat means heat energy	nongold
+42	food is a kind of substance	nongold
+43	dead organisms are the source of nutrients for decomposers	nongold
+44	meat means dead animal for eating	nongold
+45	requiring is similar to needing help	nongold
+46	celestial bodies; celestial objects are found in space	nongold
+47	meat is a kind of food	nongold
+48	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+49	organisms mean life	nongold
+50	nonliving; non-living; die is the opposite of living; alive; live	nongold
+51	human is a kind of organism	nongold
+52	survive means live	nongold
+53	survive means live	nongold
+54	if food is not immediately used by the body for energy then that food will be stored for future use	nongold
+55	nutrients are a kind of material	nongold
+56	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+57	to reduce means to decrease	nongold
+58	to slow; to slow down decreases speed	nongold
+59	preserved means from the past; from long ago	nongold
+60	flying is a kind of motion through air; space	nongold
+61	a plant; living thing requires food for survival	nongold
+62	an increase is the opposite of a decrease	nongold
+63	a worm is a kind of decomposer	nongold
+64	a moon is a kind of celestial object; body	nongold
+65	negative impact is the opposite of positive impact	nongold
+66	objects are made of materials; substances; matter	nongold
+67	nutrients are a kind of matter	nongold
+68	dying is the opposite of living; surviving	nongold
+69	gas is a kind of material	nongold
+70	low is similar to decrease	nongold
+71	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+72	a moon is located in space	nongold
+73	high is similar to increase	nongold
+74	decomposer is a kind of role in the food chain process; in an ecosystem	nongold
+75	survival means to survive	nongold
+76	a source of something emits; produces; generates; provides that something	nongold
+77	a bacterium is a kind of decomposer	nongold
+78	a process usually requires all of the stages in that process	nongold
+79	propulsion is used for flying by a spacecraft	nongold
+80	an event is a kind of action	nongold
+81	a part of a process means a stage in a process	nongold
+82	a vegetable is a kind of food	nongold
+83	a nutrient is a kind of object	nongold
+84	distance is a property of space and includes ordered values of close; far	nongold
+85	matter; materials; substances are made of atoms; particles	nongold
+86	if something is made of something; a material then that something contains that something; that material	nongold
+87	if an object is made of a material then that object has the properties of that material	nongold
+88	to lower means to decrease	nongold
+89	an earthworm is a kind of decomposer	nongold
+90	remains mean parts of a dead organism	nongold
+91	keeping means staying	nongold
+92	if food is cooked then heat energy is added to that food	nongold
+93	a plant is a kind of organism	nongold
+94	less is similar to decrease	nongold
+95	to add means to increase	nongold
+96	material means substance	nongold
+97	the body is a part of an organism	nongold
+98	flight is similar to a movement in the air made by an airplane	nongold
+99	a process is a kind of event	nongold

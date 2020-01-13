@@ -1,0 +1,102 @@
+0	to classify means to decide what class something belongs to	nongold
+1	the number of parts of something is a property of that something	gold
+2	chemical reactions do not cause the total number of atoms to change	nongold
+3	a part of something means a characteristic of something	nongold
+4	the Periodic Table is a table displays elements	nongold
+5	different types of matter have different chemical properties	nongold
+6	trait is a kind of genetic information	nongold
+7	characteristic means property	gold
+8	protons are found in the nucleus of an atom	nongold
+9	what an object is made of is a kind of characteristic	nongold
+10	elements in the same group on the Periodic Table of Elements have similar properties	nongold
+11	atomic number means proton number	nongold
+12	to change means to become different	nongold
+13	opposite is a kind of different	nongold
+14	electron configuration is a property of elements	nongold
+15	elements on the right side of the periodic table tends to form ions by gaining electrons	nongold
+16	fewest means lowest; least in number	nongold
+17	four is a kind of number	nongold
+18	hydrogen is located on the left side; first column on the periodic table	nongold
+19	elements on the left side of the periodic table tends to form ions by losing electrons	nongold
+20	protons and neutrons are formed during nuclear fusion	nongold
+21	to cause means to have an effect	nongold
+22	a table is a kind of object	nongold
+23	a molecule is made of atoms chemically combined; bonded	nongold
+24	an element is a kind of  substance	nongold
+25	the order of the elements in periodic table is determined by the atomic number of the elements	nongold
+26	nitrogen; arsenic; phosphorus; antimony is found in the nitrogen family on the periodic table	nongold
+27	a Periodic Table is a kind of scientific  model	nongold
+28	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+29	protons are a kind of subatomic particle	nongold
+30	knowing the properties of something means knowing information about that something	nongold
+31	data means information	nongold
+32	the structure  of an atom can be used for identifying the element	nongold
+33	an  element is a kind of atom	nongold
+34	largest amount means most	nongold
+35	the periodic table is arranged in rows and columns	nongold
+36	if a substance is made of one element , then the substance is called an element	nongold
+37	the periodic table is systematically organized according to the structure of the atoms of the elements	nongold
+38	composition is a kind of information	nongold
+39	molecules; atoms are constantly; always moving; vibrating in substance;matter	nongold
+40	identifying is similar to determining	gold
+41	an atom is made of protons; neutrons; electrons	nongold
+42	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+43	if two elements are next to each other  on the Periodic Table , then the two elements will have similar size of atoms	nongold
+44	elements in group 18 on the Periodic Table of Elements have full; complete outer electron shells	nongold
+45	interatomic means existing or acting between atoms	nongold
+46	to impact means to affect	nongold
+47	different is the opposite of the same	nongold
+48	an element is a kind of material	nongold
+49	determining is similar to learning	nongold
+50	helium; neon; argon; krypton; xenon; radon is located in noble gases family; group 18 on the periodic table	nongold
+51	the basic unit of matter is atom	nongold
+52	an electron is a kind of charged particle	nongold
+53	N means newton	nongold
+54	the effects of something is a property of that something	nongold
+55	electrons surround; orbit the nucleus of an atom	nongold
+56	indication is similar to a piece of information	nongold
+57	classifying means grouping objects; materials by their properties	nongold
+58	trait means property	nongold
+59	a halogen is a kind of element	nongold
+60	all elements are a kind of pure substance	nongold
+61	fewer means lower; less in number	nongold
+62	many means high in number	nongold
+63	elements in the same group on the Periodic Table of Elements have similar chemical properties	nongold
+64	if something is made by something else then that something is affected by that something else	nongold
+65	an element is identified by its number of protons	gold
+66	trait is synonymous with characteristic	nongold
+67	one is a kind of number	nongold
+68	proton is a kind of subatomic particles	nongold
+69	causing is a kind of affecting	nongold
+70	an atom is exceptionally small in size	nongold
+71	composed of means made of	nongold
+72	the nucleus of an atom is usually made of both protons and neutrons	nongold
+73	a source of something emits; produces; generates; provides that something	nongold
+74	hydrogen is a kind of element	nongold
+75	the atomic number of elements increases by 1 from left to right on a row on the periodic table	nongold
+76	to be made of something means to be formed of that something	nongold
+77	a property is a kind of information	nongold
+78	atomic number is a property of elements	nongold
+79	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+80	atoms are made of particles	nongold
+81	a proton is a part of an atom; an element	gold
+82	information is used to describe something	nongold
+83	a description sometimes provides information	nongold
+84	how many means what number	nongold
+85	if the  elements have similar electron configurations , then the  elements will be grouped into same family; group on the Periodic Table of Elements	nongold
+86	The periodic table provides information about the atoms of different elements. Which is a characteristic of an atom determines what element it is?	question
+87	substances are made of elements	nongold
+88	carbon is a kind of element	nongold
+89	if an object has a negative net charge then that object contains more electrons than protons	nongold
+90	determining often requires measuring; observing	nongold
+91	provide is similar to give; make	nongold
+92	number of protons	answer
+93	determine is similar to cause	nongold
+94	the number in chemical formula shows the number of atoms of each element in a molecule	nongold
+95	an atom is a kind of object	nongold
+96	answering questions requires information	nongold
+97	an element is made of one kind of atoms	nongold
+98	matter; materials; substances are made of atoms; particles	nongold
+99	an atom is the smallest particle; unit that has the properties of an element	gold
+100	amount is similar to number	nongold
+101	feature is synonymous with characteristic	nongold

@@ -1,0 +1,63 @@
+0	amount is similar to number	nongold
+1	answering questions requires information	nongold
+2	trait is synonymous with characteristic	nongold
+3	a proton is a part of an atom; an element	gold
+4	determining is similar to learning	nongold
+5	an element is identified by its number of protons	gold
+6	characteristic means property	gold
+7	carbon is a kind of element	nongold
+8	an element is a kind of material	nongold
+9	a property is a kind of information	nongold
+10	trait is a kind of genetic information	nongold
+11	indication is similar to a piece of information	nongold
+12	The periodic table provides information about the atoms of different elements. Which is a characteristic of an atom determines what element it is?	question
+13	The periodic table provides information about the atoms of different elements. Which is a characteristic of an atom determines what element it is?	question
+14	a source of something emits; produces; generates; provides that something	nongold
+15	a description sometimes provides information	nongold
+16	determine is similar to cause	nongold
+17	to impact means to affect	nongold
+18	an atom is the smallest particle; unit that has the properties of an element	gold
+19	identifying is similar to determining	gold
+20	number of protons	answer
+21	chemical reactions do not cause the total number of atoms to change	nongold
+22	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+23	The periodic table provides information about the atoms of different elements. Which is a characteristic of an atom determines what element it is?	question
+24	an atom is made of protons; neutrons; electrons	nongold
+25	causing is a kind of affecting	nongold
+26	if something is made by something else then that something is affected by that something else	nongold
+27	elements in the same group on the Periodic Table of Elements have similar chemical properties	nongold
+28	characteristic means property	gold
+29	an element is identified by its number of protons	gold
+30	a Periodic Table is a kind of scientific  model	nongold
+31	characteristic means property	gold
+32	how many means what number	nongold
+33	the number of parts of something is a property of that something	gold
+34	if two elements are next to each other  on the Periodic Table , then the two elements will have similar size of atoms	nongold
+35	an element is identified by its number of protons	gold
+36	the number of parts of something is a property of that something	gold
+37	a proton is a part of an atom; an element	gold
+38	to cause means to have an effect	nongold
+39	an atom is the smallest particle; unit that has the properties of an element	gold
+40	the number of parts of something is a property of that something	gold
+41	the structure  of an atom can be used for identifying the element	nongold
+42	The periodic table provides information about the atoms of different elements. Which is a characteristic of an atom determines what element it is?	question
+43	an atom is the smallest particle; unit that has the properties of an element	gold
+44	a proton is a part of an atom; an element	gold
+45	a molecule is made of atoms chemically combined; bonded	nongold
+46	elements on the left side of the periodic table tends to form ions by losing electrons	nongold
+47	number of protons	answer
+48	elements in group 18 on the Periodic Table of Elements have full; complete outer electron shells	nongold
+49	atoms are made of particles	nongold
+50	information is used to describe something	nongold
+51	number of protons	answer
+52	fewer means lower; less in number	nongold
+53	electron configuration is a property of elements	nongold
+54	largest amount means most	nongold
+55	identifying is similar to determining	gold
+56	protons are a kind of subatomic particle	nongold
+57	if an object has a negative net charge then that object contains more electrons than protons	nongold
+58	a halogen is a kind of element	nongold
+59	identifying is similar to determining	gold
+60	the effects of something is a property of that something	nongold
+61	a table is a kind of object	nongold
+62	number of protons	answer

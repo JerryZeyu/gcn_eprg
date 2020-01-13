@@ -1,0 +1,102 @@
+Question	When a dog performs a specific action on command, such as sitting, the action is an example of	question
+Answer	learned behavior.	answer
+0	following an order means performing an action on command	gold
+1	sitting is a kind of action	nongold
+2	a dog is a kind of animal	nongold
+3	actions mean behavior	nongold
+4	a kind of something is an example of that something	gold
+5	if an animal is trained to do something then that something is a learned behavior	nongold
+6	an animal is a kind of living thing	nongold
+7	a living thing is a kind of object	nongold
+8	following orders is a learned characteristic	gold
+9	skills are learned characteristics; behaviors	nongold
+10	action means activity	nongold
+11	a human is a kind of animal	nongold
+12	an animal is a kind of organism	nongold
+13	a behavior is a kind of characteristic	gold
+14	an event is a kind of action	nongold
+15	communication is a learned behavior	nongold
+16	an object exerts an upward force objects that sit on that object	nongold
+17	conditioned behavior is a kind of learned behavior	nongold
+18	motion; movement means moving; to move	nongold
+19	walking is a kind of behavior	nongold
+20	a puppy is a young; baby dog	nongold
+21	to act on means to affect	nongold
+22	sitting on something provides warmth to that something	nongold
+23	using tools is a learned characteristic	nongold
+24	a motion is a kind of event; action	nongold
+25	An example of following orders is coming when called	nongold
+26	placing is a kind of action	nongold
+27	doing something more is a kind of conditioned behavior	nongold
+28	answering questions requires information	nongold
+29	social behavior is a kind of learned behavior	nongold
+30	An example of an organism responding to its external environment is an animal jumping when startled	nongold
+31	rolling in mud is a learned behavior	nongold
+32	an organism is a living thing	nongold
+33	if something performs a task then that task is that something's function	nongold
+34	locomotion is a generally learned behavior	nongold
+35	a dog weighs, on average 32 kg	nongold
+36	a predator avoiding some types of prey is a learned behavior	nongold
+37	certain is similar to specific	nongold
+38	an animal requires energy to move	nongold
+39	instruction is a kind of information	nongold
+40	rolling over is a kind of action	nongold
+41	brushing is a kind of action	nongold
+42	fighting is a kind of action	nongold
+43	forming is a kind of action	nongold
+44	begging for food is a kind of conditioned behavior	nongold
+45	a source of something emits; produces; generates; provides that something	nongold
+46	cooking is a kind of action	nongold
+47	concluding is a kind of action	nongold
+48	a demonstration is similar to an example	nongold
+49	a prairie dog is a kind of animal	nongold
+50	the function of something is what that something  is used to do	nongold
+51	passing is a kind of action	nongold
+52	howling is a kind of behavior	nongold
+53	flowing is a kind of action	nongold
+54	a trick is a learned behavior	nongold
+55	food is a kind of object	nongold
+56	revolving is a kind of action	nongold
+57	laying down is a kind of action	nongold
+58	animals learn some behaviors from watching their parents	nongold
+59	some dogs are trained to bark; to scratch at the door when they want to go outside	nongold
+60	ringing is a kind of action	nongold
+61	animal instinct means instinctive behavior	nongold
+62	a process is a kind of event	nongold
+63	an organism eating is a kind of action	nongold
+64	counter means reduce; stop; resist	nongold
+65	impact means effect	nongold
+66	if an organism undertakes an action with a positive effect , then that organism will learn to do that action more	nongold
+67	a learned characteristic is a kind of acquired characteristic	nongold
+68	skills often require practice	nongold
+69	becoming is a kind of action	nongold
+70	person is synonymous with human	nongold
+71	bringing is a kind of action	nongold
+72	a tool is a kind of object	nongold
+73	undertaking is similar to doing	nongold
+74	playing with toys is a learned characteristic	nongold
+75	an increase is a kind of change	nongold
+76	movement is a kind of change	nongold
+77	doing chores is a learned characteristic	nongold
+78	sliding is a kind of movement	nongold
+79	the head is a part of an animal	nongold
+80	a reaction is a kind of process	nongold
+81	a cat is a kind of animal	nongold
+82	to produce means to create	nongold
+83	pulling is a kind of motion	nongold
+84	if a living thing requires something then that something has a positive impact on that living thing	nongold
+85	to create means to make	nongold
+86	high is similar to increase	nongold
+87	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+88	hunting is a kind of action	nongold
+89	an animal knows how to do  instinctive behaviors when it is born	nongold
+90	determining is similar to learning	nongold
+91	aspect of something is similar to part of something	nongold
+92	walking is a kind of motion	nongold
+93	performance is similar to ability	nongold
+94	An example of hitting something is dropping an object onto that something	nongold
+95	direction is similar to instruction	nongold
+96	curling is a kind of behavior	nongold
+97	a process usually requires all of the stages in that process	nongold
+98	an animal; living thing requires nutrients for survival	nongold
+99	running is a kind of movement	nongold

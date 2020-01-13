@@ -1,0 +1,102 @@
+Question	When a bowling ball is released from a bowler's hand, the energy in the ball is partially	question
+Answer	converted to heat and sound when it makes contact with the floor.	answer
+0	a bowling ball is a kind of object	gold
+1	the floor is a kind of object	gold
+2	touching is when a body part makes contact with the surface of an object	nongold
+3	when two objects are touched; are contacted; move against each other , sound is produced	gold
+4	to touch means to contact	nongold
+5	ground means floor	nongold
+6	converting is similar to releasing	nongold
+7	sound means sound energy	nongold
+8	sound is a kind of sound energy	nongold
+9	sound is a kind of energy	nongold
+10	to emit means to release	nongold
+11	a hand is a kind of object	nongold
+12	the floor is at the bottom of a room	nongold
+13	heat is a kind of energy	nongold
+14	producing is similar to releasing	nongold
+15	as the force with which an object is touched increases , the amount of  mechanical energy converted to sound energy will increase	nongold
+16	heat means heat energy	nongold
+17	produce is similar to release	nongold
+18	sound is produced when mechanical energy is transformed into sound energy	nongold
+19	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+20	a ball is a kind of object	nongold
+21	vibrations are a source of sound	nongold
+22	to convert means to change	nongold
+23	noise means sound	nongold
+24	a hand is a part of the body	nongold
+25	temperature is a measure of heat energy	nongold
+26	vibration is a kind of motion	nongold
+27	to turn means to convert	nongold
+28	being  on something; placed in something; placed over something means touching  that something	nongold
+29	being in something means touching that something	nongold
+30	converting is similar to producing	nongold
+31	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+32	convert is similar to transfer	nongold
+33	a surface is a part of an object	nongold
+34	if something releases something else then that something is the source of that something else	nongold
+35	a source of something emits; produces; generates; provides that something	nongold
+36	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+37	friction causes the temperature of an object to increase	nongold
+38	if one is holding an object then one is touching that object	nongold
+39	rubbing against something is a kind of contact	nongold
+40	conversion is a kind of process	nongold
+41	friction occurs when two object's surfaces move against each other	gold
+42	to conduct is similar to to transfer	nongold
+43	objects are made of materials; substances; matter	nongold
+44	motion; movement means moving; to move	nongold
+45	friction converts mechanical energy into heat energy	gold
+46	touching something means feeling that something	nongold
+47	to give off means to be the source of	nongold
+48	a surface is a kind of object	nongold
+49	friction is a kind of force	nongold
+50	energy transformation means one kind of energy changes into another kind of energy	nongold
+51	a surface is a part of a material	nongold
+52	if an object is held under a substance then that object is touching that substance	nongold
+53	heat energy is synonymous with thermal energy	nongold
+54	absorbing energy causes objects; materials; substances to heat	nongold
+55	energy conversion is similar to energy transformation	nongold
+56	a bat is a kind of animal	nongold
+57	proximity means distance	nongold
+58	if something transfers something else then that something is a source of something else	nongold
+59	forming is similar to converting	nongold
+60	mechanical energy is a kind of energy	nongold
+61	counter means reduce; stop; resist	nongold
+62	if a container contains something then that container touches that something	nongold
+63	solid is a kind of state of matter	nongold
+64	give off is similar to make	nongold
+65	to lower means to decrease	nongold
+66	can be means able to be	nongold
+67	an increase is a kind of change	nongold
+68	to add means to increase	nongold
+69	heating means adding heat	nongold
+70	to transform means to convert	nongold
+71	affected means changed	nongold
+72	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+73	substances are made of matter	nongold
+74	friction exerts force on moving objects	nongold
+75	a hot; warm something is a source of heat	nongold
+76	a decrease is a kind of change	nongold
+77	the kinetic energy of an object can change from kinetic energy to sound energy by hitting another object	nongold
+78	adding heat means increasing temperature	nongold
+79	to reduce means to decrease	nongold
+80	impact means effect	nongold
+81	thermal energy is a kind of energy	nongold
+82	an object being pushed across another object causes their surfaces to move against each other	nongold
+83	if an object is put inside; poured into another object , then two objects are touching	nongold
+84	heat energy can change the state of matter	nongold
+85	an increase is the opposite of a decrease	nongold
+86	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+87	high is similar to increase	nongold
+88	particles in objects are a kind of matter	nongold
+89	transfer is a kind of change	nongold
+90	motion is a source of kinetic energy in an object	nongold
+91	a container contains objects; material; substances	nongold
+92	if something releases something else then that something else decreases in that something	nongold
+93	conduction is a kind of process	nongold
+94	to turn means to change	nongold
+95	a wall is a kind of surface	nongold
+96	vibrating matter can produce sound	nongold
+97	colliding is a kind of touching	nongold
+98	heat energy  can be used to heat up  an object	nongold
+99	increase means more	nongold

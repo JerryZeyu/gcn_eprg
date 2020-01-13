@@ -1,0 +1,102 @@
+0	affected means changed	nongold
+1	extreme means very high in value	nongold
+2	weather is a property of a environment	nongold
+3	warm means medium heat energy; temperature	nongold
+4	a description sometimes provides information	nongold
+5	a thermometer is a kind of instrument for measuring temperature	nongold
+6	an increase is a kind of change	nongold
+7	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+8	a surface is a part of an object	nongold
+9	weather is a source of wind and water for the weathering process	nongold
+10	determining often requires measuring; observing	nongold
+11	events occur at a specific place; at a specific time; with a specific frequency	nongold
+12	worldwide temperature means atmospheric temperature	nongold
+13	weather  usually happens in troposphere	nongold
+14	storm is a kind of weather; weather event	nongold
+15	the location of an object can be used to describe that object	nongold
+16	an increase is the opposite of a decrease	nongold
+17	water is a kind of matter	nongold
+18	temperature is a measure of heat energy	nongold
+19	weather is  a measure of the condition of the air in a place at a certain time	nongold
+20	a planet is a kind of celestial object; body	nongold
+21	humidity is a property of  weather and include ordered values of dry; humid	nongold
+22	condition means the state of the property	nongold
+23	inspect; observe means examine	nongold
+24	summer has hot temperatures; weather	nongold
+25	cold is a kind of weather	nongold
+26	measuring is used for describing an object	nongold
+27	a measurement is a kind of data	nongold
+28	windy is a kind of weather	nongold
+29	to lower means to decrease	nongold
+30	cold means low in temperature	nongold
+31	temperature is a kind of condition	nongold
+32	gas is a kind of state of matter	nongold
+33	to be used for something means to be required by that something	nongold
+34	an event is a kind of action	nongold
+35	warm means warm temperature	nongold
+36	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+37	temperature is a property of weather	gold
+38	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+39	objects are made of materials; substances; matter	nongold
+40	measuring is a kind of observing	nongold
+41	condition is a property of an environment	nongold
+42	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+43	weather changes from seasons to seasons	nongold
+44	answering questions requires information	nongold
+45	a weather report describes weather	nongold
+46	the senses are used for making observations	nongold
+47	sky conditions are a property of weather	gold
+48	high is similar to increase	nongold
+49	precipitation is when water falls from the sky	nongold
+50	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+51	cloudy is a kind of  weather	nongold
+52	precipitation is a property of weather	nongold
+53	water is a kind of liquid at room temperature	nongold
+54	to reduce means to decrease	nongold
+55	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+56	can be means able to be	nongold
+57	a planet is a kind of location	nongold
+58	variable means able to change	nongold
+59	something's function can be used to describe; identify that something	nongold
+60	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+61	to change means to cause a change	nongold
+62	furthest; farthest means greatest; most; highest in distance	nongold
+63	both means two	nongold
+64	colder; cooler means lower in temperature	nongold
+65	cloudy is a kind of sky condition	nongold
+66	low is similar to decrease	nongold
+67	matter; materials; substances are made of atoms; particles	nongold
+68	a decrease is a kind of change	nongold
+69	phase means state	nongold
+70	temperature  is a property of air mass and includes ordered values of cold; warm	nongold
+71	to observe means to gather information	nongold
+72	Which two observations are both used to describe weather?	question
+73	clear weather means sunny; not cloudy; not rainy weather	nongold
+74	to add means to increase	nongold
+75	a climate is synonymous with an environment	nongold
+76	Earth is a kind of planet	nongold
+77	observe means see	nongold
+78	climate is the usual kind of weather in a location over a period of time	nongold
+79	wind speed is a property of weather	nongold
+80	information is used to describe something	nongold
+81	precipitation is a kind of weather	nongold
+82	observations; data are a part of the results of an experiment	nongold
+83	if something is caused by something else , then that something can be explained by that something else	nongold
+84	a source of something emits; produces; generates; provides that something	nongold
+85	a change is a kind of event	nongold
+86	heat means heat energy	nongold
+87	temperature and sky conditions	answer
+88	heat means temperature increases	nongold
+89	air temperature is a kind of temperature	nongold
+90	warmer means greater; higher in temperature; warmth	nongold
+91	wind direction is a property of weather	nongold
+92	to a  human a air; environment temperature of 21 C to 28 C is considered warm	nongold
+93	winter has cold temperatures;weather	nongold
+94	recording an observation sometimes requires measuring	nongold
+95	heat has a great impact on weather	nongold
+96	liquid is a kind of state of matter	nongold
+97	the properties of something can be used to identify; used to describe that something	nongold
+98	a thermometer is used to measure temperature	nongold
+99	hot means high in heat energy; temperature	nongold
+100	getting information sometimes requires observing; observation	nongold
+101	the properties of something are used for describing that something	gold

@@ -1,0 +1,102 @@
+Question	Which mineral has six-sided transparent crystals that will scratch glass?	question
+Answer	quartz	answer
+0	quartz scratches glass easily	gold
+1	a quartz is made of six-sided transparent crystals	gold
+2	if one mineral can scratch another mineral then that other mineral is softer than that one mineral	nongold
+3	if a mineral can be scratched by a fingernail then that mineral is soft	nongold
+4	quartz is a kind of mineral	gold
+5	measuring the hardness of minerals requires  scratching those materials	nongold
+6	to scrape means to scratch	nongold
+7	if a material scratches easily then that material has low hardness	nongold
+8	hardness is a measure of a mineral's ability to resist scratching	nongold
+9	clear glass is transparent	nongold
+10	a quartzite is a kind of metamorphic rock	nongold
+11	a mineral is a kind of object	nongold
+12	a mineral is a kind of solid; natural material	nongold
+13	a mineral usually has a crystal structure	nongold
+14	glass is a kind of object	nongold
+15	plastic is usually translucent	nongold
+16	sometimes rocks are formed by quartz; feldspar mixed together	nongold
+17	crystal is a kind of  solid	nongold
+18	being made of crystals is synonymous with having a crystal structure	nongold
+19	glass is a kind of material	nongold
+20	frosted glass is translucent	nongold
+21	glass is a kind of solid at room temperature	nongold
+22	a scratch is a kind of wound	nongold
+23	glass is a kind of medium	nongold
+24	glass is recyclable	nongold
+25	if an object is made of a material then that object has the properties of that material	nongold
+26	glass; objects made of glass cause refraction of light	nongold
+27	a glass contains water	nongold
+28	counter means reduce; stop; resist	nongold
+29	objects are made of materials; substances; matter	nongold
+30	glass is durable	nongold
+31	a rock is a kind of object	nongold
+32	to hurt means to harm	nongold
+33	diamond is a kind of mineral	nongold
+34	glass is a kind of product	nongold
+35	surfaces sometimes cause objects to break	nongold
+36	an object has properties	nongold
+37	scraping an object may cause small particles to break off of that object	nongold
+38	a physical property is a kind of property	nongold
+39	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+40	rock is made of minerals	nongold
+41	a surface is a part of an object	nongold
+42	something hard; something strong can be used for protection	nongold
+43	friction occurs when two object's surfaces move against each other	nongold
+44	person is synonymous with human	nongold
+45	rock is a kind of material	nongold
+46	glass is always nonmagnetic	nongold
+47	a surface is a part of a material	nongold
+48	thickness is  a measure of how thick an object  is	nongold
+49	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+50	weak means low in strength	nongold
+51	material means substance	nongold
+52	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+53	a human is a kind of animal	nongold
+54	remove means decrease	nongold
+55	harm means injury	nongold
+56	strong means high in strength	nongold
+57	strength is a property of an object; a material	nongold
+58	glass is made of sand	nongold
+59	a prism is made of glass	nongold
+60	materials are made of matter	nongold
+61	structure is a property of an object; a material; a substance	nongold
+62	form means kind	nongold
+63	can be means able to be	nongold
+64	glass is a kind of open container	nongold
+65	four is a kind of number	nongold
+66	conductivity is a kind of physical property	nongold
+67	felt is high in roughness	nongold
+68	affected means changed	nongold
+69	harming something has a  negative impact on; effect on that something	nongold
+70	friction acts to counter the motion of two objects when their surfaces are touching	nongold
+71	if a material dents easily then that material has low strength	nongold
+72	length is a part of size	nongold
+73	an event is a kind of action	nongold
+74	a surface is a kind of object	nongold
+75	if an object is translucent , then some light will scatter	nongold
+76	metal is reflective	nongold
+77	conductivity is a property of a material; substance	nongold
+78	an object is made of its parts	nongold
+79	opacity is a property of an object and includes ordered values of opaque; translucent; transparent	nongold
+80	a source of something emits; produces; generates; provides that something	nongold
+81	friction is a kind of force	nongold
+82	a liquid is a kind of substance	nongold
+83	a solid is a kind of substance	nongold
+84	texture means how an object feels	nongold
+85	damage means harm	nongold
+86	hardened means to become hard	nongold
+87	tearing is a kind of damage	nongold
+88	substances are made of matter	nongold
+89	if an object is translucent , then some light will shine through that object	nongold
+90	composed of means made of	nongold
+91	to repair means to heal	nongold
+92	thin means small in width	nongold
+93	to reduce means to decrease	nongold
+94	a structure of something is synonymous with a part of that something	nongold
+95	if something is made of something; a material then that something contains that something; that material	nongold
+96	requiring is similar to needing help	nongold
+97	hitting something causes harm to that something	nongold
+98	water-resistance is a property of objects; matter and includes ordered values of water-resistant; not water-resistant	nongold
+99	cracking something usually has a negative impact on that something	nongold

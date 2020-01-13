@@ -1,0 +1,102 @@
+Question	Fanning can make a wood fire burn hotter because the fanning	question
+Answer	adds more oxygen needed for burning	answer
+0	fanning a fire increases the oxygen near the fire	gold
+1	a fire requires  oxygen to burn	gold
+2	requiring is similar to needing help	nongold
+3	requiring something means needing that something	nongold
+4	more burning causes fire to be hotter	gold
+5	fire causes burning	nongold
+6	wood burns	nongold
+7	less is similar to decrease	nongold
+8	fire gives off light; heat; smoke	nongold
+9	increase means more	nongold
+10	burning wood is used to produce heat	nongold
+11	heat means heat energy	nongold
+12	a flame are a part of a fire	nongold
+13	to combust means to catch fire	nongold
+14	a fan converts electrical energy into mechanical energy; heat energy; sound energy	nongold
+15	to depend on; to rely on; to need means to require	gold
+16	to add means to increase	gold
+17	heating means adding heat	nongold
+18	give off is similar to make	nongold
+19	oxygen is a kind of gas at room temperature	nongold
+20	adding heat means increasing temperature	nongold
+21	less is the opposite of more	nongold
+22	a burner is a kind of object; surface	nongold
+23	oxygen can cause a glowing splint to burst into flame	nongold
+24	to reduce means to decrease	nongold
+25	to lower means to decrease	nongold
+26	combustion is a kind of chemical change	nongold
+27	to cause means to make	nongold
+28	combustion means fire converts chemical energy into light energy and heat energy	nongold
+29	an increase is the opposite of a decrease	nongold
+30	a burner is a part of a  stove	nongold
+31	an increase is a kind of change	nongold
+32	fire is a kind of chemical reaction	nongold
+33	as the oxygen a fire is exposed to increases the longer that fire will burn	nongold
+34	if something causes a process then that something is required for that process	nongold
+35	temperature is a measure of heat energy	nongold
+36	adding something is a kind of change	nongold
+37	a decrease is a kind of change	nongold
+38	hot means high in heat energy; temperature	nongold
+39	lower means less	nongold
+40	wood is a kind of object	nongold
+41	wood is a thermal; thermal energy insulator	nongold
+42	lighting a candle causes that candle to burn	nongold
+43	a source of something increases the amount of that something	nongold
+44	high is similar to increase	nongold
+45	wood is an thermal; thermal energy insulator	nongold
+46	heat energy is synonymous with thermal energy	nongold
+47	less means a reduced amount	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	transferring is similar to adding	nongold
+50	burning is a kind of action	nongold
+51	if something emits something else then that something increases the amount of that something else	nongold
+52	if too much heat is transferred to an object then that object may burn	nongold
+53	lighting a match causes that match to burn	nongold
+54	to be used for something means to be required by that something	nongold
+55	a candle is a source of light when it is burned	nongold
+56	to give off means to be the source of	nongold
+57	a firewood is a kind of object	nongold
+58	a hot; warm something is a source of heat	nongold
+59	needing something means depending on that something	nongold
+60	a burner is made of metal	nongold
+61	greater means higher; more in value	nongold
+62	a candle is a kind of object	nongold
+63	low is similar to decrease	nongold
+64	to contribute means to add	nongold
+65	objects are made of materials; substances; matter	nongold
+66	a stove generates heat for cooking usually	nongold
+67	an animal; bacterium requires oxygen for survival; to breathe	nongold
+68	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+69	if an event occurs by adding something then that event requires that something	nongold
+70	fire causes harm to trees; to forests; to living things	nongold
+71	to be required means to be necessary	nongold
+72	oxygenated means having oxygen	nongold
+73	if a body part was burned then that body part was exposed to a lot of heat energy	nongold
+74	what something needs is a property of that something	nongold
+75	a hot substance is a source of heat	nongold
+76	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+77	wood is a strong material	nongold
+78	wildfire is when a forest catches fire	nongold
+79	counter means reduce; stop; resist	nongold
+80	An example of combustion is explosion	nongold
+81	combustion is a kind of exergonic reaction	nongold
+82	if something is required for a process then that something positively impacts that process	nongold
+83	a wildfire occurs over a period of days	nongold
+84	little is similar to decrease	nongold
+85	burning gasoline is a source of  heat energy	nongold
+86	fire transfers heat through waves	nongold
+87	burning a living thing usually causes harm to that living thing	nongold
+88	combustibility means the ability of combustion	nongold
+89	can be means able to be	nongold
+90	heat energy can change the state of matter	nongold
+91	make means produce	nongold
+92	solar energy is a kind of heat energy	nongold
+93	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+94	a lit candle converts chemical energy into light energy; heat energy	nongold
+95	returning is similar to adding	nongold
+96	too much is similar to increase	nongold
+97	gas is a kind of object	nongold
+98	a source of heat can be used to heat something	nongold
+99	a source of heat can be used to heat something	nongold

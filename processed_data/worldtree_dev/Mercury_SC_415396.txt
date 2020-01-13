@@ -1,0 +1,102 @@
+Question	Which kind of events can form mountains?	question
+Answer	earthquakes and volcanoes	answer
+0	mountains are formed by earthquakes; volcanoes; plate tectonics	gold
+1	form means kind	nongold
+2	a motion is a kind of event; action	nongold
+3	a process is a kind of event	gold
+4	something that happens is a kind of event	nongold
+5	an event is a kind of action	nongold
+6	a volcano is a kind of geological event	nongold
+7	a mountain range contains mountains	nongold
+8	landslides often occur on mountains	nongold
+9	to cause the formation of means to form	nongold
+10	the movement of tectonic plates causes volcanic eruptions	nongold
+11	a change is a kind of event	nongold
+12	hills are a kind of small mountain	nongold
+13	a volcanic eruption is a kind of change	nongold
+14	forming is a kind of action	nongold
+15	breaking down is a kind of forming	nongold
+16	an earthquake is a kind of natural; geological event	gold
+17	a volcano is a source of magma; lava	nongold
+18	mountain area means mountain range	nongold
+19	a mountain; mountain range is a kind of environment	nongold
+20	to happen means to occur	nongold
+21	events occur at a specific place; at a specific time; with a specific frequency	nongold
+22	high mountains with well-rounded peaks can be formed by collision of crustal plates; erosion	nongold
+23	rising is a kind of motion	nongold
+24	a mountain is made of rocks; soil	nongold
+25	a landslide is a kind of natural event	nongold
+26	a mountain is a kind of landform	nongold
+27	event is similar to occurrence	nongold
+28	the Appalachian Mountains are a kind of mountain	nongold
+29	a mountain is high in altitude	nongold
+30	a volcanic eruption is a kind of quick process	gold
+31	to make means to form	nongold
+32	a mountain; hill is taller than the land around it	nongold
+33	volcanoes are most common along tectonic plate boundaries	nongold
+34	an earthquake usually occurs over a period of 10 to 30 seconds	nongold
+35	a volcano is a kind of landform	nongold
+36	take place means happen	nongold
+37	a type is synonymous with a kind	nongold
+38	the formation of something is a kind of process	nongold
+39	a mountain top is a part of a mountain	nongold
+40	new land can be formed by volcanoes erupting by lava cooling	nongold
+41	revolving is a kind of action	nongold
+42	earthquake causes seismic waves	nongold
+43	to cause means to result in	nongold
+44	the surface of the Earth contains mountains	nongold
+45	forming something is a kind of change	nongold
+46	movement is a kind of change	nongold
+47	a tectonic plate is a kind of object	nongold
+48	motion is when moves an object; something to a direction	nongold
+49	flowing is a kind of action	nongold
+50	to form means to create	nongold
+51	spreading is a kind of motion	nongold
+52	revolving is a kind of motion	nongold
+53	if something is made of something else then the formation of that something requires that something else	nongold
+54	valley is located between mountains; hills	nongold
+55	earthquake  is a kind of vibration  of the ground	nongold
+56	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+57	action can cause change	nongold
+58	mountain is a kind of geographic obstacles	nongold
+59	producing is similar to causing	nongold
+60	to be made of something means to be formed of that something	nongold
+61	to cause means to make	nongold
+62	action means activity	nongold
+63	to be a source of something means to cause that something	nongold
+64	an earthquake wave is a kind of wave	nongold
+65	a whole is formed by its parts	nongold
+66	a component means a part of	nongold
+67	extreme means very high in value	nongold
+68	flowing is a kind of motion	nongold
+69	greatest means largest; highest; most amount of something	nongold
+70	composed of means made of	nongold
+71	dissolving is a kind of action	nongold
+72	an erupting volcano releases sulfur gas and ash into the atmosphere	nongold
+73	state means form	nongold
+74	volcanic eruptions early on Earth maybe caused a large proportion of the matter in hydrosphere	nongold
+75	summit means the top of the mountain	nongold
+76	to cause an event is similar to being involved in that event	nongold
+77	a mountain is taller than a hill	nongold
+78	at the top of a place means at the highest point of the place	nongold
+79	to generate means to form	nongold
+80	tectonic plates being pushed together causes earthquakes	nongold
+81	movements of celestial bodies are a kind of event	nongold
+82	a rock is a kind of object	nongold
+83	if something causes a process then that something is required for that process	nongold
+84	separate is similar to break down	nongold
+85	made up of means contains; made of	nongold
+86	can be means able to be	nongold
+87	a landslide is when water; gravity rapidly moves rocks; soil downhill especially after a rain storm	nongold
+88	intense means extreme	nongold
+89	an object is made of its parts	nongold
+90	the ground is part of the Earth	nongold
+91	bringing is a kind of action	nongold
+92	storm is a kind of weather; weather event	nongold
+93	the formation of rock is a kind of process	nongold
+94	the Sierra Nevada is a kind of mountain range	nongold
+95	a land mass is a kind of object	nongold
+96	rising means elevation	nongold
+97	creating is similar to causing	nongold
+98	category means kind	nongold
+99	erosion; storms can cause a landslide	nongold

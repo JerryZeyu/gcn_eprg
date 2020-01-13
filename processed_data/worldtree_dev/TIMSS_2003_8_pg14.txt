@@ -1,0 +1,102 @@
+Question	Why would male insects be treated to prevent sperm production?	question
+Answer	To reduce the total population of insects	answer
+0	to inhibit means to prevent	nongold
+1	preventing something decreases the amount of that something	gold
+2	if something required for a process is not produced then that process is prevented from occurring; cannot occur	gold
+3	to prevent means to make it not happen	nongold
+4	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+5	preventing reproduction decreases the rate of reproduction	nongold
+6	male animals require sperm cells to reproduce	gold
+7	an insect is a kind of animal	gold
+8	to reduce means to decrease	gold
+9	sexual reproduction in animals is when egg; sperm join together	nongold
+10	inhibitor means something that prevents something from happening	nongold
+11	a sperm cell is a kind of  sex cell	nongold
+12	sexual reproduction is a kind of reproduction	nongold
+13	An insect is a pollinating animal	nongold
+14	producing is similar to causing	nongold
+15	animals reproduce sexually	nongold
+16	to keep something from happening means to prevent that something	nongold
+17	most insects reproduce by sexual reproduction	nongold
+18	development is similar to production	nongold
+19	to lower means to decrease	nongold
+20	the testes is a source of male gametes in animals	nongold
+21	an animal is a kind of organism	nongold
+22	if something causes an increase in something else then that something produces that something else	nongold
+23	avoiding is similar to preventing	nongold
+24	the reproductive system produces sperm; egg cells	nongold
+25	reproduction increases the number; population of a living thing	nongold
+26	gamete means sex cell	nongold
+27	pollination requires pollinators; pollinating animals	nongold
+28	a producer is a kind of living thing	nongold
+29	producing is a kind of process	nongold
+30	protecting something means preventing harm to that something	nongold
+31	an increase is the opposite of a decrease	nongold
+32	if an organism dies then the population of that organism will decrease	nongold
+33	a decrease is a kind of change	nongold
+34	an animal is a kind of living thing	nongold
+35	harming something has a  negative impact on; effect on that something	nongold
+36	gamete development is a stage in the sexual reproduction process	nongold
+37	to reproduce means to have; to produce offspring	nongold
+38	an organism is a living thing	nongold
+39	a father is a kind of male parent	nongold
+40	reproduction produces; produce offspring	nongold
+41	sexual reproduction is a source of genetic variation; naturally occurring variation in offspring; in a species	nongold
+42	a female insect lays eggs during the adult stage of an insect's life cycle	nongold
+43	negative impacts on a species will decrease populations of a species	nongold
+44	in sexual reproduction sperm is a vehicle for the genes from the father to the offspring	nongold
+45	pollinator means pollinating animal	nongold
+46	harming an animal species causes that animal's population to decrease	nongold
+47	reducing is a kind of change	nongold
+48	fertilization is a stage in the sexual reproduction process	nongold
+49	an egg cell is a kind of sex cell	nongold
+50	an increase is a kind of change	nongold
+51	sexual reproduction increases genetic diversity	nongold
+52	reproduction is a kind of process	gold
+53	some animals have offspring by laying eggs	nongold
+54	less is similar to decrease	nongold
+55	a tail is a part of a  sperm cell	nongold
+56	animals require fertilization to reproduce	nongold
+57	negative impact is the opposite of positive impact	nongold
+58	producing is similar to releasing	nongold
+59	sexual reproduction produces offspring with genetic material from both parents; cells with genetic material from both parent cells	nongold
+60	if something causes a process then that something is required for that process	nongold
+61	increase means more	nongold
+62	a mother is a kind of female parent	nongold
+63	a source of something emits; produces; generates; provides that something	nongold
+64	high is similar to increase	nongold
+65	low is similar to decrease	nongold
+66	an animal is a member of an animal species	nongold
+67	producing is a kind of function	nongold
+68	if something is required for a process then that something positively impacts that process	nongold
+69	to be used for something means to be required by that something	nongold
+70	a larva is a kind of young; baby insect	nongold
+71	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+72	a human sperm cell has 23; twenty-three chromosomes	nongold
+73	to produce means to result in	nongold
+74	living things can all reproduce	nongold
+75	a source of something increases the amount of that something	nongold
+76	converting is similar to producing	nongold
+77	harming an animal species has a  negative impact on the population size of that species	nongold
+78	if members of a species are born; survive then the population of that species increases	nongold
+79	a living thing is a kind of object	nongold
+80	as the rate of  reproduction decreases , the population will decrease	gold
+81	most means over 50% of something	nongold
+82	population is a measure of the number of a species in an environment	nongold
+83	as the cause of something decreases , that something will decrease	nongold
+84	positive impacts on a species will increase populations of a species	nongold
+85	too much is similar to increase	nongold
+86	little is similar to decrease	nongold
+87	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+88	impact means effect	nongold
+89	to contribute is similar to produce	nongold
+90	produce is similar to release	nongold
+91	an event is a kind of action	nongold
+92	the uterus is used in reproduction	nongold
+93	a process usually requires all of the stages in that process	nongold
+94	in sexual reproduction the egg is a vehicle for the genes from the mother to the offspring	nongold
+95	to attract females; males means to attract mates	nongold
+96	if two organisms produce fertile offspring together then those two organisms belong to the same species	nongold
+97	to happen means to occur	nongold
+98	each sex cell provides half the number of chromosomes in a fertilized egg through sexual reproduction	nongold
+99	an insect is a kind of prey	nongold

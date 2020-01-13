@@ -1,0 +1,102 @@
+Question	Which environmental factor would most likely prevent an orange tree from surviving in the desert?	question
+Answer	the lack of moisture	answer
+0	an orange tree is a kind of tree	gold
+1	a desert environment is low in availability of water; availability of food	nongold
+2	a desert is a kind of environment	nongold
+3	an orange is a kind of fruit	nongold
+4	moisture is a kind of environmental factor	gold
+5	a desert environment is dry	gold
+6	protecting something means preventing harm to that something	nongold
+7	a lack of something that a living thing requires prevents the survival of that living thing	gold
+8	a factor impacts something	nongold
+9	harming something has a  negative impact on; effect on that something	nongold
+10	to lack means to not have	nongold
+11	a plants; living things require water for survival; to grow	gold
+12	a desert environment receives low rainfall	nongold
+13	a tree is a kind of living thing	nongold
+14	a tree is a kind of plant	gold
+15	lack is similar to low; little	gold
+16	to keep something from happening means to prevent that something	nongold
+17	a desert environment usually is hot in temperature	nongold
+18	dry means low in amount of water; wetness; moisture	gold
+19	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+20	a desert environment usually has a lot of sunlight	nongold
+21	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+22	preventing something decreases the amount of that something	nongold
+23	dying is the opposite of living; surviving	nongold
+24	an environment means an area	nongold
+25	avoiding is similar to preventing	nongold
+26	a dry environment is low in availability of water	gold
+27	orange is a kind of color	nongold
+28	nonliving; non-living; die is the opposite of living; alive; live	nongold
+29	survival means to survive	nongold
+30	a plant requires soil for survival; to grow	nongold
+31	saving an organism's life means preventing the death of that organism	nongold
+32	requiring is similar to needing help	nongold
+33	a plant is a kind of organism	nongold
+34	a forest environment receives more rainfall than a desert	nongold
+35	to prevent means to make it not happen	nongold
+36	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+37	a natural resource is a kind of environmental factor	nongold
+38	an animal; living thing requires nutrients for survival	nongold
+39	animals; living things require water for survival	nongold
+40	survive means live	nongold
+41	survive means live	nongold
+42	staying warm has a positive impact on an animal's survival; health	nongold
+43	if a living thing becomes too cold then that living thing will die	nongold
+44	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+45	harming an organism can cause that organism to die	nongold
+46	if an organism can live in an environment then that organism can withstand the conditions of that environment	nongold
+47	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+48	adverse effect means negative impact	nongold
+49	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+50	plants are a part of the environment	nongold
+51	a plant requires a specific climate to grow and survive	nongold
+52	to lower means to decrease	nongold
+53	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+54	a grassland environment receives more rainfall than a desert	nongold
+55	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold
+56	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+57	a plant requires a habitat for survival	nongold
+58	less is similar to decrease	nongold
+59	negative impact is the opposite of positive impact	nongold
+60	a plant is a kind of living thing	gold
+61	changes in an environment cause animals; plants to adapt to survive	nongold
+62	eating oranges; lemons can prevent scurvy	nongold
+63	organisms are a part of an environment	nongold
+64	impact means effect	nongold
+65	burning a living thing usually causes harm to that living thing	nongold
+66	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+67	a negative impact is a kind of consequence; risk	nongold
+68	an increase is the opposite of a decrease	nongold
+69	low is similar to decrease	nongold
+70	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+71	an environment is a kind of place	nongold
+72	to reduce means to decrease	nongold
+73	a climate is synonymous with an environment	nongold
+74	death means to die	nongold
+75	helping something has a  positive impact on that something	nongold
+76	harming an animal species has a  negative impact on the population size of that species	nongold
+77	if a living thing dies then that living thing is dead	nongold
+78	as the cause of something decreases , that something will decrease	nongold
+79	if a living thing requires something then that something has a positive impact on that living thing	nongold
+80	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+81	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+82	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+83	an animal requires enough nutrients to maintain good health; survive	nongold
+84	moist means high in moisture	nongold
+85	a tree is a kind of habitat	nongold
+86	lack of moisture in the air causes low amounts of rainfall	nongold
+87	something harmful can cause harm	nongold
+88	destroying something causes harm to that something	nongold
+89	requiring something means needing that something	nongold
+90	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+91	if a plant; crop requires less water then that plant; crop will survive in a drought	nongold
+92	decreasing something positive has a negative impact on a thing	nongold
+93	a lemon tree is a kind of plant	nongold
+94	a desert is a kind of land feature	nongold
+95	a living thing is a kind of object	nongold
+96	a plant; living thing requires food for survival	nongold
+97	positively impacting an organism's survival increases the likelihood of survival of that organism	nongold
+98	decreasing something negative has a positive impact on a thing	nongold
+99	harming an animal species causes that animal's population to decrease	nongold

@@ -1,0 +1,102 @@
+0	weight is a measure of the force of the gravity on the mass of an object	nongold
+1	toward is a kind of direction	nongold
+2	upward is the opposite of downward	nongold
+3	affected means changed	nongold
+4	as the height of a dropped object increases , that object will fall for longer	nongold
+5	a classroom is a kind of a room	nongold
+6	an object exerts an upward force objects that sit on that object	nongold
+7	falling means moving downward	gold
+8	height is a measure of length from the top of an object to the bottom of an object	nongold
+9	towards means closer to something	nongold
+10	a wall is a kind of surface	nongold
+11	movement is a kind of change	nongold
+12	low means down	gold
+13	person is synonymous with human	nongold
+14	sliding is a kind of movement	nongold
+15	to move toward means to move nearer	nongold
+16	a paper is a kind of object	nongold
+17	the floor is at the bottom of a room	gold
+18	weight is a property of objects; matter	nongold
+19	a wall is a kind of object	nongold
+20	a pencil is a kind of object	gold
+21	a desk usually has a length with values between 50.0 and 250 cm	nongold
+22	rolling down is similar to falling	nongold
+23	to lift means to move up	nongold
+24	a surface is a part of an object	nongold
+25	a human is a kind of animal	nongold
+26	to travel up means to rise	nongold
+27	lowering is a kind of motion	nongold
+28	as the mass of an object increases , the force of gravity on that object will increase	nongold
+29	gravity accelerates an object while that object falls by pulling on it	nongold
+30	as an object is moving down , the speed of the object  will increase	nongold
+31	a surface is a kind of object	nongold
+32	sinking means moving down	nongold
+33	a motion is a kind of event; action	nongold
+34	distance moved; distance travelled is a measure of how far an object moves	nongold
+35	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	gold
+36	gravity	answer
+37	objects are made of materials; substances; matter	nongold
+38	an part of an object is smaller than the entire object	nongold
+39	the mass of an object causes the gravitational force exerted by that object	nongold
+40	weight means the force of gravity acting on an object	nongold
+41	slipping is a kind of motion	nongold
+42	can be means able to be	nongold
+43	a surface is a part of a material	nongold
+44	downward means down	gold
+45	sliding is a kind of motion	nongold
+46	rising is a kind of motion	nongold
+47	a living thing is a kind of object	nongold
+48	to lower means to decrease	nongold
+49	state of matter is a kind of physical property	nongold
+50	Weight is  the  force of gravity acting on an object	nongold
+51	solid is a kind of state of matter	nongold
+52	the ground is at the bottom of an area	nongold
+53	the ceiling is at the top of a room	nongold
+54	motion is when moves an object; something to a direction	gold
+55	a landform is a kind of object	nongold
+56	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+57	high is similar to increase	nongold
+58	vibration is a kind of motion	nongold
+59	below is the opposite of above	nongold
+60	state of matter means physical state	nongold
+61	dropping something causes that something to fall	nongold
+62	below means lower down	nongold
+63	downward is a kind of direction	nongold
+64	gravity is a kind of force	nongold
+65	beneath means below	nongold
+66	revolving is a kind of motion	nongold
+67	a physical property is a kind of property	nongold
+68	to reduce means to decrease	nongold
+69	to add means to increase	nongold
+70	particles in objects are a kind of matter	nongold
+71	jumping off is a kind of  moving down	nongold
+72	down is a kind of direction	nongold
+73	a desk is usually short in height; in width	nongold
+74	a particle is a kind of object	nongold
+75	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+76	toward is the opposite of away	nongold
+77	room contains walls	nongold
+78	rising means moving upward	nongold
+79	setting is a kind of motion	nongold
+80	drop means decrease	nongold
+81	travel means to move	nongold
+82	a desk is a kind of table	nongold
+83	ground means floor	nongold
+84	if something strikes an object then that something may bounce off of that object	nongold
+85	flat means level	nongold
+86	an event is a kind of action	nongold
+87	A pencil falls off of a desk. What moves the pencil toward the floor?	question
+88	low is the opposite of high	nongold
+89	motion; movement means moving; to move	nongold
+90	gravity causes orbits	nongold
+91	a room is a kind of object	nongold
+92	the floor is a kind of object	nongold
+93	the bottom is the lowest part of something	gold
+94	come down is similar to falling	nongold
+95	falling means height decreases	nongold
+96	raising is a kind of motion	nongold
+97	up means upward	nongold
+98	sinking is a kind of downward direction	nongold
+99	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+100	to drop means to fall	nongold
+101	an animal is a kind of living thing	nongold

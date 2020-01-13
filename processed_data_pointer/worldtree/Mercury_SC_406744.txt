@@ -1,0 +1,102 @@
+Question	What causes nighttime and daytime on Earth?	question
+Answer	Earth rotating on its axis	answer
+0	a planet rotating causes cycles of day and night on that planet	gold
+1	the Earth rotates on its axis	nongold
+2	Earth rotating on its axis occurs once per day	nongold
+3	nighttime means night	gold
+4	daytime means day	gold
+5	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+6	the moon rotates on its axis	nongold
+7	Earth's rotation causes time zones	nongold
+8	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+9	Earth is a kind of planet	gold
+10	rotation is a kind of motion	nongold
+11	daylight occurs during the day	nongold
+12	daylight means sunlight	nongold
+13	the night time is part of one day	nongold
+14	rotating is similar to moving	nongold
+15	the sun rising and setting causes cycles of day and night	nongold
+16	if a human is on a rotating planet then other celestial bodies will appear to move from that human's perspective due to  the rotation of that planet	nongold
+17	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	nongold
+18	daylight is when the sun shines on a location	nongold
+19	revolving is a kind of motion	nongold
+20	cycles of day and night occur once per day	nongold
+21	if it is night then the sun has set	nongold
+22	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+23	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+24	setting is a kind of motion	nongold
+25	the Earth being tilted on its axis causes one side of the Earth; one hemisphere to receive less energy from the Sun than the other side	nongold
+26	to be a source of something means to cause that something	nongold
+27	a motion is a kind of event; action	nongold
+28	afternoon is a part of day time	nongold
+29	the day time is part of one day	nongold
+30	the Earth revolves around the sun	nongold
+31	Earth's angle of tilt causes the length of day and night to vary	nongold
+32	to change means to cause a change	nongold
+33	a rotation is a kind of movement	nongold
+34	rising is a kind of motion	nongold
+35	rotate means turn	nongold
+36	an event is a kind of action	nongold
+37	a planet is a kind of location	nongold
+38	daylight hours means time during which there is daylight	nongold
+39	a full moon is a kind of phase of the moon	nongold
+40	causing is a kind of affecting	nongold
+41	darkness occurs at night	nongold
+42	a hemisphere is a part of Earth	nongold
+43	all the time means at day and at night	nongold
+44	as the rotation speed of a planet increases , the length of day and night will decrease on that planet	nongold
+45	when the season changes , the amount of daylight will change	nongold
+46	causing means influencing	nongold
+47	sunlight is a kind of light	nongold
+48	the amount of daylight is greatest on the summer solstice	nongold
+49	the afternoon is  a part of the day	nongold
+50	a phase of the moon is a kind of state	nongold
+51	period of daylight is synonymous with amount of daylight	nongold
+52	some celestial bodies rotate in space	nongold
+53	to rotate means to complete a rotation	nongold
+54	the sun sets in the west	nongold
+55	a moon is a kind of celestial object; body	nongold
+56	north is the opposite of south	nongold
+57	noon is a kind of time of day	nongold
+58	the moon orbits the Earth	nongold
+59	both means two	nongold
+60	the sunlight occurs during the day	nongold
+61	the Western Hemisphere is a kind of hemisphere of Earth	nongold
+62	to drive means to cause	nongold
+63	affected means changed	nongold
+64	the sun rises in the east	nongold
+65	a cycle happens; occurs repeatedly	nongold
+66	hours are a kind of unit for measuring time	nongold
+67	a source of something emits; produces; generates; provides that something	nongold
+68	the stars in the night sky are very far away from the Earth	nongold
+69	the sun is not a star in the night sky	nongold
+70	events occur at a specific place; at a specific time; with a specific frequency	nongold
+71	rotate is similar to revolve	nongold
+72	a change is a kind of event	nongold
+73	the sun rising; setting occurs once per day	nongold
+74	revolving  around something means orbiting that something	nongold
+75	a planet is a kind of celestial object; body	nongold
+76	daily means every day; once per day	nongold
+77	a human is a kind of animal	nongold
+78	producing is similar to causing	nongold
+79	due to means caused by	nongold
+80	the Moon is Earth's moon	nongold
+81	night is low in light; in visibility	nongold
+82	a half of Earth is a hemisphere of Earth	nongold
+83	something that happens is a kind of event	nongold
+84	if something is caused by something else , then that something can be explained by that something else	nongold
+85	the Sun is a kind of star	nongold
+86	can be means able to be	nongold
+87	to happen means to occur	nongold
+88	revolving is a kind of action	nongold
+89	an increase is a kind of change	nongold
+90	the Earth revolving around the Sun causes the seasons to change; to occur on its axis	nongold
+91	Tuesday is a kind of  time	nongold
+92	to cause means to have an effect	nongold
+93	the sun setting is a kind of event	nongold
+94	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+95	creating is similar to causing	nongold
+96	spreading is a kind of motion	nongold
+97	stars appear to move relative to the horizon during the night	nongold
+98	a cause of something is a reason for that something	nongold
+99	the amount of daylight is greatest in the summer	nongold

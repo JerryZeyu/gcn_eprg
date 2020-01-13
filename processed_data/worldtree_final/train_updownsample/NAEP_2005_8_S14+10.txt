@@ -1,0 +1,63 @@
+0	light reflecting off of an object causes that object to be visible to the observer	nongold
+1	a vegetable is a kind of plant	nongold
+2	if an object reflects a light of a certain color then the object appears to be that color	gold
+3	shade means low sunlight	nongold
+4	UV light is a kind of light	nongold
+5	green is a kind of color	gold
+6	a leaf is a part of a  green plant	gold
+7	grass is a kind of green plant	nongold
+8	yellow is a kind of color	nongold
+9	a leaf is a part of a  green plant	gold
+10	the sun is a source of light; light energy called sunlight	nongold
+11	if an object is white then that object reflects all visible light	nongold
+12	coloration means a thing's color	nongold
+13	chlorophyll is green in color	nongold
+14	a leaf is a kind of object	nongold
+15	how something  appears is how that something  looks	gold
+16	a type is synonymous with a kind	nongold
+17	affected means changed	nongold
+18	a plant is a kind of living thing	gold
+19	to bounce back means to reflect	nongold
+20	a leaf is a kind of plant	nongold
+21	Why does the leaf of a plant look green?	question
+22	green is a kind of color	gold
+23	Because it reflects green light	answer
+24	a stem is often a part of plant	nongold
+25	a leaf is a part of a  green plant	gold
+26	if something is outside during the day , then that something will reflect enough light to be seen	nongold
+27	Why does the leaf of a plant look green?	question
+28	to look like means to have the visual properties of	nongold
+29	if an object reflects more light then that object is more easily seen	nongold
+30	the leaves of a plant tilt in the direction of sunlight	nongold
+31	Why does the leaf of a plant look green?	question
+32	a tree is a kind of plant	nongold
+33	Because it reflects green light	answer
+34	a plant is a kind of living thing	gold
+35	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+36	low is similar to decrease	nongold
+37	a living thing is a kind of object	gold
+38	a blue object reflects only blue light	nongold
+39	color is a property of  an object; a material	nongold
+40	a white object reflects all visible light	nongold
+41	light is a kind of wave	nongold
+42	a leaf is often green in color	nongold
+43	the sun is the source of solar energy called sunlight	nongold
+44	if an object reflects a light of a certain color then the object appears to be that color	gold
+45	a tree is a kind of living thing	nongold
+46	a living thing is a kind of object	gold
+47	roots are a part of a plant; tree	nongold
+48	green is a kind of color	gold
+49	a producer is a kind of living thing	nongold
+50	if an object reflects a light of a certain color then the object appears to be that color	gold
+51	a plant is a kind of living thing	gold
+52	refracting sunlight; light causes sunlight; light to split into different colors	nongold
+53	solar energy is a kind of light	nongold
+54	to receive sunlight means to absorb sunlight	nongold
+55	a flower is a kind of plant	nongold
+56	Because it reflects green light	answer
+57	Because it reflects green light	answer
+58	how something  appears is how that something  looks	gold
+59	Why does the leaf of a plant look green?	question
+60	a living thing is a kind of object	gold
+61	how something  appears is how that something  looks	gold
+62	large leaves are a kind of adaptation for absorbing sunlight	nongold

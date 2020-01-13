@@ -1,0 +1,102 @@
+Question	Which organisms benefit in the relationship between bees and flowering plants?	question
+Answer	both the bees and the flowering plants	answer
+0	A bee is a pollinating animal	gold
+1	a bee is a kind of insect	gold
+2	pollination requires pollinators; pollinating animals	nongold
+3	An insect is a pollinating animal	nongold
+4	bees eat pollen	nongold
+5	bees eat honey	gold
+6	pollinator means pollinating animal	gold
+7	to help; to benefit means to be of use	gold
+8	if two or more things are in a relationship then those things impact each other	nongold
+9	an insect is a kind of animal	gold
+10	both means two	nongold
+11	a positive impact is  a benefit	nongold
+12	mutualism has a positive impact on both organisms in the relationship	nongold
+13	an organism is a living thing	nongold
+14	pollination is a kind of process for plant reproduction	nongold
+15	if a living thing requires something then that something has a positive impact on that living thing	nongold
+16	harming something has a  negative impact on; effect on that something	nongold
+17	an animal is a kind of organism	gold
+18	an animal is a kind of living thing	nongold
+19	a plant is a kind of organism	gold
+20	In the flowering plant life cycle , pollination is part of reproduction	nongold
+21	plant reproduction; seed production requires pollination	gold
+22	a plant is a kind of living thing	nongold
+23	reproduction ensures the continuation of a plant or animal species	nongold
+24	plant reproduction often requires pollen	nongold
+25	an animal; living thing requires nutrients for survival	nongold
+26	an animal is a member of an animal species	nongold
+27	organisms mean life	nongold
+28	a plant; living thing requires food for survival	nongold
+29	helping something has a  positive impact on that something	nongold
+30	bees convert nectar into honey for food	gold
+31	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+32	reproduction increases the number; population of a living thing	nongold
+33	reproduction is a kind of process	nongold
+34	a plant is a member of a plant species	nongold
+35	In the flowering plant life cycle , flowering is part of reproduction	nongold
+36	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	nongold
+37	green plants are a kind of producer	nongold
+38	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+39	a living thing is a kind of object	nongold
+40	a relationship occurs when two or more things interact with one another	nongold
+41	killing means harming something causing death	nongold
+42	species means a group of like organisms	nongold
+43	negative impact is the opposite of positive impact	nongold
+44	pollinating is a kind of function	nongold
+45	pollinated means after pollination	nongold
+46	life means living things	nongold
+47	reproduction produces; produce offspring	nongold
+48	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+49	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+50	an event is a kind of action	nongold
+51	Natural selection is when organisms with beneficial traits survive competition to  reproduce and pass their beneficial traits onto their offispring; the successive generation	nongold
+52	as the number of pollinators attracted to a flower; a plant increases , the ability of that flower; of that plant to reproduce will increase	nongold
+53	a plant; living thing requires nutrients to grow	nongold
+54	an animal being born; being hatched when food is available has a positive impact on that animal's survival; health	nongold
+55	to depend on; to rely on; to need means to require	gold
+56	an ant is a kind of insect	nongold
+57	a source of something emits; produces; generates; provides that something	nongold
+58	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+59	harming an animal species has a  negative impact on the population size of that species	nongold
+60	if something causes a process then that something is required for that process	nongold
+61	harming an animal species causes that animal's population to decrease	nongold
+62	a process is a kind of event	nongold
+63	a producer is a kind of living thing	nongold
+64	to impact means to affect	nongold
+65	impact means effect	nongold
+66	population is a measure of the number of a species in an environment	nongold
+67	living things can all reproduce	nongold
+68	a role in the ecosystem is a role in the food chain process	nongold
+69	organisms are a part of an environment	nongold
+70	killing means changing a living thing from alive to dead by harming	nongold
+71	an animal is a kind of consumer	nongold
+72	if something is required for a process then that something positively impacts that process	nongold
+73	a negative impact is a kind of consequence; risk	nongold
+74	if something causes something else then that something else depends on that something	nongold
+75	A bird is a pollinating animal	nongold
+76	an animal being born; being hatched when temperatures are warm has a positive impact on that animal's survival; health	nongold
+77	an animal needs to eat food for nutrients	gold
+78	insects eat crops	nongold
+79	to be used for something means to be required by that something	gold
+80	In the food chain process a  green plant has the role of  producer	nongold
+81	reproduction is when an organism passes genetic information from itself to its offspring	nongold
+82	a population is all of the interbreeding members  of a certain species in an ecosystem	nongold
+83	most insects reproduce by sexual reproduction	nongold
+84	a wasp is a kind of insect	nongold
+85	requiring something means needing that something	nongold
+86	continuation of a species means survival of that species	nongold
+87	best means most positive	nongold
+88	genetic variation in offspring has a positive impact on an organism's; offspring's survival; health; ability to reproduce	nongold
+89	answering questions requires information	nongold
+90	if something requires something else then that something requires a source of that something else	nongold
+91	if something affects a part of something else then that something affects that something else	nongold
+92	a stinger is used for defense; stinging by a wasp; a bee	nongold
+93	a factor impacts something	nongold
+94	solution is similar to a positive impact	nongold
+95	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+96	living things eat their food source	nongold
+97	a symbiotic organism is made of two or more organisms in a symbiotic relationship	nongold
+98	survive means live	nongold
+99	survive means live	nongold

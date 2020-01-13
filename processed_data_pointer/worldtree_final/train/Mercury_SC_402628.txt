@@ -1,0 +1,102 @@
+0	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+1	answering questions requires information	nongold
+2	measuring sometimes requires  recording; learning an amount	nongold
+3	a vehicle is a kind of object	nongold
+4	Which tool would a student use to measure wind speed?	question
+5	speed is  a measure of how fast the wave passes the medium	nongold
+6	an anemometer is used to measure wind speed	gold
+7	a velocity is a measure of a speed in a direction	nongold
+8	anemometer	answer
+9	air pressure affects wind speed	nongold
+10	a speedometer is a part of an automobile	nongold
+11	fastest means greatest in  speed	nongold
+12	windy means high wind speeds	nongold
+13	a living thing is a kind of object	nongold
+14	a vehicle is a kind of tool for travel; transport	nongold
+15	a source of something emits; produces; generates; provides that something	nongold
+16	wind   is a kind of airflow	nongold
+17	a centimeter is used for measuring short lengths; short distances	nongold
+18	instrument means device	nongold
+19	measuring is a kind of science skill	nongold
+20	wind means moving air	nongold
+21	speed is a property of an object and includes values of slow; fast	nongold
+22	speed up means increase	nongold
+23	storm is a kind of weather; weather event	nongold
+24	wind speed is a property of weather	nongold
+25	a human is a kind of animal	nongold
+26	increase means more	nongold
+27	instrument means tool	gold
+28	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+29	a device is a kind of object	nongold
+30	a speedometer is used for giving a driver feedback on the speed of their vehicle	nongold
+31	a meter is a kind of unit for measuring distance; measuring length	nongold
+32	length is a measure of distance from one end of an object to the other end of that object	nongold
+33	experimentation requires measuring	nongold
+34	wind chill is the temperature  felt on body due to wind speed	nongold
+35	faster means an increase; higher in speed	nongold
+36	windy is a kind of weather	nongold
+37	a barometer is used to measure air pressure	nongold
+38	setting is a kind of motion	nongold
+39	a storm is usually a source of strong winds	nongold
+40	measuring is a kind of observing	nongold
+41	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+42	a meter stick is a kind of tool for measuring length; measuring distance	nongold
+43	lab equipment is often used for measuring; observing	nongold
+44	force causes the speed of an object to increase; to decrease	nongold
+45	to slow; to slow down decreases speed	nongold
+46	a barometer is a kind of instrument for measuring air pressure	nongold
+47	astronomy is the study of celestial (objects, bodies)	nongold
+48	affected means changed	nongold
+49	a motion is a kind of event; action	nongold
+50	determining often requires measuring; observing	nongold
+51	a seismometer is used to measure the strength or magnitude of an earthquake	nongold
+52	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+53	a hurricane has high wind speeds	nongold
+54	a simple machine is a kind of tool	nongold
+55	an part of an object is smaller than the entire object	nongold
+56	an invention is a kind of tool	nongold
+57	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+58	a tornado has high wind speeds	nongold
+59	extreme means very high in value	nongold
+60	calculation means measurement	nongold
+61	femtometers ( fm ) are an  SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+62	a thermometer is used to measure temperature	nongold
+63	can be means able to be	nongold
+64	a student is a kind of human	nongold
+65	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+66	property is similar to measurement	nongold
+67	person is synonymous with human	nongold
+68	inventing a tool allows; enables that tool to be used	nongold
+69	a thermometer is a kind of instrument for measuring temperature	nongold
+70	seconds are used to measure time	nongold
+71	rising is a kind of motion	nongold
+72	a measure of time is a length of time	nongold
+73	wind is a source of energy	nongold
+74	an anemometer is a kind of instrument for measuring wind speed	gold
+75	a measurement is a kind of data	nongold
+76	to measure means to calculate	nongold
+77	wind direction is a property of weather	nongold
+78	high speed means fast	nongold
+79	a machine is a kind of  device	nongold
+80	as air pressure increases , the reading on a barometer will rise	nongold
+81	device means tool	nongold
+82	an instrument is a piece of equipment	nongold
+83	a machine is a kind of object	nongold
+84	seconds are a kind of unit for measuring time	nongold
+85	an event is a kind of action	nongold
+86	distance moved; distance travelled is a measure of how far an object moves	nongold
+87	high is similar to increase	nongold
+88	a centimeter is a kind of unit of measurement	nongold
+89	slowest means lowest in  speed	nongold
+90	measuring is used for describing an object	nongold
+91	to use means to utilize	nongold
+92	speed is a measure of how fast an object is moving	nongold
+93	useful means able to be used	nongold
+94	a tool is a kind of object	nongold
+95	wind is a renewable; inexhaustible resource	nongold
+96	length is a part of size	nongold
+97	calculating speed requires knowing distance travelled	nongold
+98	rate is similar to speed	nongold
+99	measuring requires reading a measurement	nongold
+100	furthest; farthest means greatest; most; highest in distance	nongold
+101	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold

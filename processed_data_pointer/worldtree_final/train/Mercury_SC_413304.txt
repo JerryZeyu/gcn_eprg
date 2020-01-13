@@ -1,0 +1,102 @@
+0	making products for cheaper has a positive impact on manufacturing	nongold
+1	manufacturing means making	nongold
+2	plastic is a nonrenewable resource	nongold
+3	water is a kind of natural resource	nongold
+4	cloth is a kind of material	nongold
+5	leather	answer
+6	plastic is a kind of material made by humans	nongold
+7	water is a kind of substance	nongold
+8	flexible means high flexibility	nongold
+9	a material is a kind of resource	nongold
+10	an animal is a kind of living thing	nongold
+11	covering something is a kind of protection	nongold
+12	requiring is similar to needing help	nongold
+13	if a material scratches easily then that material has low hardness	nongold
+14	nature is the source of natural resources	nongold
+15	better means good	nongold
+16	plastic is recyclable	nongold
+17	wood is a kind of natural material	nongold
+18	objects are made of materials; substances; matter	nongold
+19	to be used for something means to be required by that something	nongold
+20	leather is a kind of natural resource	gold
+21	a body of water is a kind of environment	nongold
+22	boots often are made of rubber	nongold
+23	water is when humans pollute the environment with pollutants	nongold
+24	plastic is durable	nongold
+25	conductivity is a property of a material; substance	nongold
+26	an object; material; substance comes from that object or material's source	nongold
+27	something hard; something strong can be used for protection	nongold
+28	if something is soft , then that something is malleable	nongold
+29	water is a kind of natural resource	nongold
+30	cheap means low in cost	nongold
+31	adverse effect means negative impact	nongold
+32	helping something has a  positive impact on that something	nongold
+33	metal is a kind of natural resource	nongold
+34	rubber is usually flexible	nongold
+35	thermal gloves are used for protecting the hand against heat	nongold
+36	a body of water contains water	nongold
+37	good means positive	nongold
+38	to hurt means to harm	nongold
+39	a glove is a covering around the hand for protection	nongold
+40	strong means high in strength	nongold
+41	rubber is thermal;thermal energy insulator	nongold
+42	gloves often are made of rubber	nongold
+43	water is a kind of liquid at room temperature	nongold
+44	best means most positive	nongold
+45	leather is a kind of material	gold
+46	make means produce	nongold
+47	metal is a kind of material	nongold
+48	person is synonymous with human	nongold
+49	water is a kind of object	nongold
+50	materials are used for making products by manufacturers	nongold
+51	production is similar to making	nongold
+52	to depend on; to rely on; to need means to require	nongold
+53	making something requires resources	nongold
+54	a living thing is a kind of object	nongold
+55	plastic is high in strength	nongold
+56	rubber is a kind of solid	nongold
+57	to be good for means to have a positive impact on	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	a surface is a part of a material	nongold
+60	as the resistance to something increases , how easilty that something can  be done will decrease	nongold
+61	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+62	texture means how an object feels	nongold
+63	water is a renewable resource	nongold
+64	washing clothes requires water use	nongold
+65	to use means to utilize	nongold
+66	a natural resource is a kind of environmental factor	nongold
+67	to protect means to make safe	nongold
+68	harm means injury	nongold
+69	manufacture means make	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	resistances are a property of living things	nongold
+72	an article of clothing is a kind of object	nongold
+73	to put on means to wear	nongold
+74	if something is required for a process then that something positively impacts that process	nongold
+75	thermal gloves are a kind of safety gear	nongold
+76	to make possible means to be required	nongold
+77	moisture means liquid; liquid water	nongold
+78	natural resources are found in nature	nongold
+79	fiber is a kind of material	nongold
+80	if an object is made of a material then that object has the properties of that material	gold
+81	shoes are a kind of object	gold
+82	leather is resistant to water	gold
+83	water-resistance is a property of objects; matter and includes ordered values of water-resistant; not water-resistant	gold
+84	if two things are made from the same objects; material then those two things are similar	nongold
+85	protection means resistance to damage increases	nongold
+86	rubber is a kind of material	nongold
+87	made by humans; artificial is the opposite of natural	nongold
+88	material means substance	nongold
+89	nature means a natural environment	nongold
+90	water is a part of an environment	nongold
+91	animals; living things require water for survival	nongold
+92	a renewable resource is a kind of natural resource	nongold
+93	a foot is a part of some animals for walking	nongold
+94	rubber is a kind of nonmetal	nongold
+95	rubber is durable	nongold
+96	useful means good to use	nongold
+97	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+98	plastic is cheap	nongold
+99	Which material is the best natural resource to use for making water-resistant shoes?	question
+100	a human is a kind of animal	nongold
+101	dry means low in amount of water; wetness; moisture	nongold

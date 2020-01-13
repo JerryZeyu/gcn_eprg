@@ -1,0 +1,66 @@
+0	oil is a nonrenewable resource	gold
+1	oil is a source of gasoline	gold
+2	an automobile is a kind of vehicle	nongold
+3	to use means to utilize	nongold
+4	oil is a source of gasoline	gold
+5	vehicles usually require gasoline to operate	gold
+6	operating an automobile usually requires fossil fuels	nongold
+7	if something is required for a process then that something positively impacts that process	nongold
+8	increase is similar to extend	gold
+9	a person is a kind of animal	nongold
+10	consumption means use	nongold
+11	as mileage per galon of gasoline increases , the amount of gasoline used will decrease	gold
+12	impact means effect	nongold
+13	length of time means period of time	nongold
+14	as available resources increases , the population of an organism that uses those resources will increase	nongold
+15	extending the time that oil will be available for people to use.	answer
+16	requiring something means needing that something	nongold
+17	a vehicle is used for transportation	nongold
+18	a car is a kind of vehicle	gold
+19	oil is a nonrenewable resource	gold
+20	oil is a nonrenewable resource	gold
+21	New engine technology has helped cars get more mileage per gallon of gas. Since gasoline comes from oil, this technology will affect the world supply of oil by	question
+22	increase means more	nongold
+23	if something comes from something else then that something else is a source of that something	nongold
+24	New engine technology has helped cars get more mileage per gallon of gas. Since gasoline comes from oil, this technology will affect the world supply of oil by	question
+25	change is a kind of impact	nongold
+26	increase is similar to extend	gold
+27	a car is a kind of automobile	nongold
+28	using a gasoline engine requires burning  gasoline	nongold
+29	as mileage per galon of gasoline increases , the amount of gasoline used will decrease	gold
+30	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+31	vehicles usually require gasoline to operate	gold
+32	if something is a raw material in a process then that something is required for that process	nongold
+33	extending the time that oil will be available for people to use.	answer
+34	vehicles usually require gasoline to operate	gold
+35	causing is a kind of affecting	nongold
+36	renewable is the opposite of nonrenewable	nongold
+37	an animal is a kind of living thing	nongold
+38	a car engine is a part of a car	nongold
+39	extending the time that oil will be available for people to use.	answer
+40	increase is similar to extend	gold
+41	extending the time that oil will be available for people to use.	answer
+42	where something  comes from is a source of that something	nongold
+43	miles are a kind of unit for measuring distance	nongold
+44	transportation technology is used for moving people; products	nongold
+45	resources becoming available has a positive impact on the things that need those resources	nongold
+46	requiring is similar to needing help	nongold
+47	a supply of something is a source of that something	nongold
+48	period is similar to amount of time	nongold
+49	New engine technology has helped cars get more mileage per gallon of gas. Since gasoline comes from oil, this technology will affect the world supply of oil by	question
+50	as the use of a resource decreases , the length of time that resource will be available increases	gold
+51	New engine technology has helped cars get more mileage per gallon of gas. Since gasoline comes from oil, this technology will affect the world supply of oil by	question
+52	oil is a kind of liquid	nongold
+53	a fossil fuel is a kind of natural resource	nongold
+54	if something is required then that something must be provided	nongold
+55	as the use of a resource decreases , the length of time that resource will be available increases	gold
+56	a car is a kind of vehicle	gold
+57	as mileage per galon of gasoline increases , the amount of gasoline used will decrease	gold
+58	a car is a kind of vehicle	gold
+59	to change means to have an effect	nongold
+60	oil is a source of gasoline	gold
+61	as the use of a resource decreases , the length of time that resource will be available increases	gold
+62	helping something has a  positive impact on that something	nongold
+63	to depend on; to rely on; to need means to require	nongold
+64	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+65	oil is a kind of substance; matter	nongold

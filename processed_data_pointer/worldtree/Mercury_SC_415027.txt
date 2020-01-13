@@ -1,0 +1,102 @@
+Question	How are droughts always different from floods?	question
+Answer	They have different amounts of water.	answer
+0	drought means available water decreases in an environment	gold
+1	a drought occurs over a period of months; years	nongold
+2	a drought is a kind of natural event	nongold
+3	drought is when amount of precipitation decreases	nongold
+4	when a body of water receives more water than it can hold , a flood occurs	gold
+5	a drought is a kind of slow environmental change	nongold
+6	a drought is a kind of natural disaster	nongold
+7	flooding is a kind of change	nongold
+8	flooding decreases the availability of food	nongold
+9	heavy rains cause flooding	nongold
+10	an increase is the opposite of a decrease	gold
+11	to change means to become different	nongold
+12	if something is not the same as something else then that something is different from that something else	nongold
+13	storms;rain cause bodies of water to increase amount of water they contain	nongold
+14	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+15	different is the opposite of the same	nongold
+16	a body of water contains water	nongold
+17	rain is a kind of water	nongold
+18	rain is a source of water	nongold
+19	rainwater is a kind of water	nongold
+20	when a river floods , that river deposits soil; sediment in flood plains	nongold
+21	if a plant; crop requires less water then that plant; crop will survive in a drought	nongold
+22	opposite is a kind of different	nongold
+23	to reduce means to decrease	nongold
+24	low is similar to decrease	nongold
+25	less is similar to decrease	nongold
+26	high is similar to increase	nongold
+27	an increase is a kind of change	nongold
+28	a body of water is a source of water	nongold
+29	dry means low in amount of water; wetness; moisture	nongold
+30	to lower means to decrease	nongold
+31	water is a part of an environment	nongold
+32	a dry environment is low in availability of water	nongold
+33	precipitation is when water falls from the sky	nongold
+34	a decrease is a kind of change	nongold
+35	to add means to increase	nongold
+36	drought may cause wildfires	nongold
+37	rain is a kind of precipitation	nongold
+38	less is the opposite of more	nongold
+39	rainfall is the amount of rain an area receives	nongold
+40	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+41	rainfall means the amount of precipitation	nongold
+42	negative impact is the opposite of positive impact	nongold
+43	a river is a kind of flowing body of water	nongold
+44	little is similar to decrease	nongold
+45	rainfall means precipitation	nongold
+46	if something has no impact on something else then that something else stays the same	nongold
+47	a drought can change the color of an environment from green to brown	nongold
+48	affected means changed	nongold
+49	quantity means amount	nongold
+50	animals; living things require water for survival	nongold
+51	stay the same means not changing	nongold
+52	less means a reduced amount	nongold
+53	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+54	increase means more	gold
+55	to lack means to not have	nongold
+56	a body of water is a kind of environment	nongold
+57	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	gold
+58	precipitation is a property of weather	nongold
+59	if an animal cannot fly; climb then that animal will be more affected by a flood	nongold
+60	precipitation is a kind of weather	nongold
+61	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+62	as the cause of something decreases , that something will decrease	nongold
+63	new means different from the former one	nongold
+64	water is a kind of substance	nongold
+65	deplete is similar to decrease	nongold
+66	greatest means largest; highest; most amount of something	nongold
+67	largest amount means most	nongold
+68	water is a kind of matter	nongold
+69	if a body of water loses all water then that body of water does not exist any more	nongold
+70	if something changes , then that something is not the same	nongold
+71	something that contains water is similar to a body of water	nongold
+72	as the amount of water in a body of water decreases , the water levels will decrease	nongold
+73	another means different	nongold
+74	harming something has a  negative impact on; effect on that something	nongold
+75	water is a kind of natural resource	nongold
+76	water is a kind of natural resource	nongold
+77	different seasons occur during different times of the year	nongold
+78	little means low in amount	nongold
+79	rainstorm means rain storm	nongold
+80	flood plains are located near rivers	nongold
+81	too much is similar to increase	nongold
+82	a stream is a kind of body of water	nongold
+83	staying means not changing	nongold
+84	as elevation of a place decreases , how much a flood will affect that place will increases	nongold
+85	variable means able to change	nongold
+86	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+87	an area receiving rain means rain falling in that area	nongold
+88	a source of something increases the amount of that something	nongold
+89	storing water increases the water available to organisms in a dry environment	nongold
+90	fewer means lower; less in number	nongold
+91	an event is a kind of action	nongold
+92	to impact means to affect	nongold
+93	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+94	to depend on; to rely on; to need means to require	nongold
+95	a source of something emits; produces; generates; provides that something	nongold
+96	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+97	not is similar to the opposite of	nongold
+98	wet is the opposite of dry	nongold
+99	both means two	nongold

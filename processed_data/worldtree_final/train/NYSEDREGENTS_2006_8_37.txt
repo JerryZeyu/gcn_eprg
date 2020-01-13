@@ -1,0 +1,102 @@
+0	Some microorganisms cause human disease. Other microorganisms are used in making cheese, yogurt, and bread. Based on this information, the relationship between humans and microorganisms can be	question
+1	beneficial or harmful	answer
+2	yogurt is a kind of food	gold
+3	a relationship occurs when two or more things interact with one another	nongold
+4	cheese is a kind of food	gold
+5	a human is a kind of animal	gold
+6	if a living thing requires something then that something has a positive impact on that living thing	gold
+7	microorganisms can cause infections	nongold
+8	beneficial means helpful	nongold
+9	an animal; living thing requires nutrients for survival	nongold
+10	bread is a kind of food	gold
+11	harming something has a  negative impact on; effect on that something	gold
+12	an animal is a kind of living thing	nongold
+13	microorganisms cause food to spoil	nongold
+14	if two or more things are in a relationship then those things impact each other	gold
+15	helping something has a  positive impact on that something	nongold
+16	a food contains nutrients for living things	nongold
+17	disease has a negative impact on an organism	gold
+18	human is a kind of organism	nongold
+19	an animal is a kind of organism	gold
+20	to be good for means to have a positive impact on	nongold
+21	negative impact is the opposite of positive impact	nongold
+22	an animal requires enough nutrients to maintain good health; survive	nongold
+23	to be used for something means to be required by that something	gold
+24	adverse effect means negative impact	nongold
+25	something harmful can cause harm	nongold
+26	mutualism has a positive impact on both organisms in the relationship	nongold
+27	an organism is a living thing	gold
+28	disease-causing microbes have a negative impact on the body	nongold
+29	protecting something means preventing harm to that something	nongold
+30	dairy is a kind of food	nongold
+31	good means positive	nongold
+32	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+33	disease means illness	nongold
+34	a microorganism is very small in size	nongold
+35	to impact means to affect	nongold
+36	answering questions requires information	nongold
+37	if something is required for a process then that something positively impacts that process	nongold
+38	bacteria; molds; yeast cause food to spoil	nongold
+39	impact means effect	nongold
+40	organisms are a part of an environment	nongold
+41	illness has a negative impact on an organism's health	nongold
+42	a negative impact is a kind of consequence; risk	nongold
+43	good bacteria have a positive impact on a living thing's survival; health	nongold
+44	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+45	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+46	pathogens can cause disease	nongold
+47	an animal; bacterium requires oxygen for survival; to breathe	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	to cause means to make	nongold
+50	bacteria; viruses cause food poisoning	nongold
+51	an animal needs to eat food for nutrients	nongold
+52	requiring is similar to needing help	nongold
+53	bacteria sometimes cause disease	nongold
+54	a bacterium is a kind of organism	nongold
+55	a positive impact is a helpful effect	nongold
+56	an animal is a kind of consumer	nongold
+57	if something is made by something else then that something is affected by that something else	nongold
+58	data means information	nongold
+59	to be a source of something means to cause that something	nongold
+60	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+61	a vegetable is a kind of food	nongold
+62	killing microorganisms in food can be used to extend the shelf life of that food	nongold
+63	best means most positive	nongold
+64	dough is a kind of food	nongold
+65	if something affects a part of something else then that something affects that something else	nongold
+66	to cause means to have an effect	nongold
+67	a vegetable is a kind of plant	nongold
+68	a microorganism is a kind of decomposer	nongold
+69	can be means able to be	nongold
+70	harming an organism can cause that organism to die	nongold
+71	a fungus is a kind of organism	nongold
+72	to help; to benefit means to be of use	nongold
+73	decreasing something negative has a positive impact on a thing	nongold
+74	bacteria is a kind of living thing	nongold
+75	nonliving; non-living; die is the opposite of living; alive; live	nongold
+76	mutualism is a kind of symbiotic relationship	nongold
+77	reducing bacteria in food prevents illness in people	nongold
+78	death means to die	nongold
+79	causing is a kind of affecting	nongold
+80	person is synonymous with human	nongold
+81	if something causes a process then that something is required for that process	nongold
+82	to be involved in something means to have a role in something	nongold
+83	decreasing something positive has a negative impact on a thing	nongold
+84	dying is the opposite of living; surviving	nongold
+85	food contains carbohydrates	nongold
+86	if a living thing dies then that living thing is dead	nongold
+87	to depend on; to rely on; to need means to require	nongold
+88	a producer is a kind of living thing	nongold
+89	absorbing something harmful has a negative impact on a thing	nongold
+90	a living thing is made of cells	nongold
+91	nutrients are a kind of matter	nongold
+92	better means good	nongold
+93	living things perform biological processes	nongold
+94	good bacteria grow on the skin; a human's skin	nongold
+95	producer is a kind of role in the food chain process; in an ecosystem	nongold
+96	meat is a kind of food	nongold
+97	make means produce	nongold
+98	solution is similar to a positive impact	nongold
+99	a symbiotic organism is made of two or more organisms in a symbiotic relationship	nongold
+100	food poisoning is a kind of illness	nongold
+101	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold

@@ -1,0 +1,101 @@
+0	A plant has yellow flowers. What best explains why the flowers are yellow?	question
+1	The flowers of the parent plants were yellow.	answer
+2	yellow is a kind of color	gold
+3	a flower is a kind of plant	nongold
+4	a plant is a kind of living thing	gold
+5	a flower is a kind of object	nongold
+6	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+7	if something is caused by something else , then that something can be explained by that something else	nongold
+8	a plant is a kind of organism	nongold
+9	green plants are a kind of producer	nongold
+10	a leaf is a part of a  green plant	nongold
+11	a living thing is a kind of object	nongold
+12	best means most positive	nongold
+13	a cause of something is a reason for that something	nongold
+14	a plant is a member of a plant species	nongold
+15	a leaf is a kind of plant	nongold
+16	color is a property of  an object; a material	nongold
+17	a leaf is a kind of object	nongold
+18	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+19	green is a kind of color	nongold
+20	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+21	a wildflower is a kind of flower	nongold
+22	a source of something emits; produces; generates; provides that something	nongold
+23	a leaf performs photosynthesis; gas exchange	nongold
+24	a flower is a source of nectar	nongold
+25	a leaf is often green in color	nongold
+26	a tree is a kind of living thing	nongold
+27	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	nongold
+28	a flower produces pollen and seeds	nongold
+29	a leaf is a part of a tree	nongold
+30	a tree is a kind of plant	nongold
+31	can be means able to be	nongold
+32	a type is synonymous with a kind	nongold
+33	high is similar to increase	nongold
+34	a  plant requires sunlight for photosynthesis	nongold
+35	to be a source of something means to cause that something	nongold
+36	living things can all reproduce	nongold
+37	to cause means to have an effect	nongold
+38	a producer is a kind of living thing	nongold
+39	not is similar to the opposite of	nongold
+40	a flower's purpose is to produce seeds	nongold
+41	a vegetable is a kind of plant	nongold
+42	affected means changed	nongold
+43	to be formed by is similar to being produced by	nongold
+44	a flower's petals often are bright in color to attract pollinators	nongold
+45	to contain something means to have that something	nongold
+46	to cause means to make	nongold
+47	a plant; living thing requires food for survival	nongold
+48	to turn means to change	nongold
+49	a stem is often a part of plant	nongold
+50	no longer means used to be	nongold
+51	to give is similar to to cause	nongold
+52	composed of means made of	nongold
+53	to change means to cause a change	nongold
+54	plant reproduction; seed production requires pollination	nongold
+55	harming something has a  negative impact on; effect on that something	nongold
+56	to slow; to slow down decreases speed	nongold
+57	make means produce	nongold
+58	to contain means to have inside	nongold
+59	to add means to increase	nongold
+60	an part of an object is smaller than the entire object	nongold
+61	form means kind	nongold
+62	an increase is the opposite of a decrease	nongold
+63	a father is a kind of male parent	nongold
+64	a kind of something is an example of that something	nongold
+65	In the food chain process a  green plant has the role of  producer	nongold
+66	to change means to have an effect	nongold
+67	a tree is a kind of matter	nongold
+68	a component of something means a part of that something	nongold
+69	a flower contains pollen for sexual reproduction	nongold
+70	flowers often have a sweet smell to attract pollinators	nongold
+71	parents are a part of a generation	nongold
+72	producing is similar to causing	nongold
+73	low is similar to decrease	nongold
+74	made of is similar to contains	nongold
+75	made up of means contains; made of	nongold
+76	an animal is a kind of living thing	nongold
+77	variable means able to change	nongold
+78	a component means a part of	nongold
+79	a plant requires photosynthesis to grow; survive	nongold
+80	pink is a kind of color	nongold
+81	usually means most of the time	nongold
+82	if something is made of something; a material then that something contains that something; that material	nongold
+83	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+84	color is an intensive property	nongold
+85	causing is a kind of affecting	nongold
+86	to change means to become different	nongold
+87	to be made of something means to be formed of that something	nongold
+88	objects are made of materials; substances; matter	nongold
+89	a structure of something is synonymous with a part of that something	nongold
+90	as the number of pollinators attracted to a flower; a plant increases , the ability of that flower; of that plant to reproduce will increase	nongold
+91	emit means produce	nongold
+92	trait is synonymous with characteristic	nongold
+93	an object is made of its parts	nongold
+94	definite is the opposite of variable	nongold
+95	to provide something means to be the source of that something	nongold
+96	pollination requires pollinators; pollinating animals	nongold
+97	if something transfers something else then that something is a source of something else	nongold
+98	to convert means to change	nongold
+99	life means living things	nongold
+100	a mother is a kind of female parent	nongold

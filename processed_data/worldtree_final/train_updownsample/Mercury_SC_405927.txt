@@ -1,0 +1,68 @@
+0	being used for is similar to providing	nongold
+1	an automobile is a kind of vehicle	gold
+2	oil is a nonrenewable resource	gold
+3	alternative fuel is usually a renewable resource	gold
+4	to depend on; to rely on; to need means to require	nongold
+5	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+6	petroleum is a source of raw material for the production of plastics	nongold
+7	fossil fuel contains chemical energy	nongold
+8	one can get something from a source	nongold
+9	food is a kind of resource	nongold
+10	coal is a kind of fossil fuel	nongold
+11	a producer is a source of energy for consumers	nongold
+12	if something causes a process then that something is required for that process	nongold
+13	to be used for something means to be required by that something	gold
+14	an object; material; substance comes from that object or material's source	gold
+15	ethanol is a kind of substance	nongold
+16	Why are alternative fuels being used in some automobiles?	question
+17	Gasoline comes from a limited resource.	answer
+18	oil is a source of gasoline	gold
+19	if a resource is limited in supply then that resource needs to be replaced	nongold
+20	an automobile is a kind of vehicle	gold
+21	vehicles usually require gasoline to operate	gold
+22	if something is a raw material then that something comes directly from a source	nongold
+23	requiring something means needing that something	nongold
+24	an object; material; substance comes from that object or material's source	gold
+25	a fuel is used to make energy	nongold
+26	Gasoline comes from a limited resource.	answer
+27	alternative fuel is usually a renewable resource	gold
+28	an automobile is a kind of vehicle	gold
+29	vehicles usually require gasoline to operate	gold
+30	fossil fuels are a kind of energy resource	nongold
+31	Why are alternative fuels being used in some automobiles?	question
+32	Why are alternative fuels being used in some automobiles?	question
+33	fuel supply is a kind of resource	nongold
+34	to be used for something means to be required by that something	gold
+35	oil is a source of gasoline	gold
+36	a nonrenewable resource is limited in supply	gold
+37	Why are alternative fuels being used in some automobiles?	question
+38	plants are a source of biofuel	nongold
+39	a biofuel is a kind of alternative energy resource	nongold
+40	vehicles usually require gasoline to operate	gold
+41	the automobile is a kind of technology	nongold
+42	using a car causes pollution	nongold
+43	oil is a source of gasoline	gold
+44	an object; material; substance comes from that object or material's source	gold
+45	gasoline is a kind of chemical power source	nongold
+46	Gasoline comes from a limited resource.	answer
+47	Gasoline comes from a limited resource.	answer
+48	alternative fuel is usually a renewable resource	gold
+49	oil is a nonrenewable resource	gold
+50	gasoline is a source of chemical energy	nongold
+51	to use means to utilize	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	oil is a nonrenewable resource	gold
+54	a producer produces its own food	nongold
+55	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+56	an engine is a part of an automobile	nongold
+57	vegetable oil is a kind of fuel	nongold
+58	to be used for something means to be required by that something	gold
+59	a renewable resource is a kind of natural resource	nongold
+60	a nonrenewable resource is limited in supply	gold
+61	fossil fuels burning causes pollution	nongold
+62	a source of something supplies that something	nongold
+63	using less resources usually causes money to be saved	nongold
+64	renewable resources are often available for many years	nongold
+65	oil is a kind of liquid	nongold
+66	burning gasoline; oil is a source of air pollution	nongold
+67	a nonrenewable resource is limited in supply	gold

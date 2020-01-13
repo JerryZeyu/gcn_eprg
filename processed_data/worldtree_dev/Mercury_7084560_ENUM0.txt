@@ -1,0 +1,102 @@
+Question	Tides on Earth are influenced more by the Moon than the Sun because the Moon is	question
+Answer	closer than the Sun.	answer
+0	the Moon is closer to the Earth than the Sun	nongold
+1	cause is similar to influence	gold
+2	influence means impact	nongold
+3	the gravitational pull of the Sun on Earth's oceans causes the tides	nongold
+4	influence means effect	nongold
+5	the gravitational pull of the Moon on Earth's oceans causes the tides	gold
+6	Earth is a kind of planet	nongold
+7	far is the opposite of close	nongold
+8	the Sun is the  star that is closest to Earth	nongold
+9	the moon is the celestial object that is closest to the  Earth	gold
+10	closer means lower; less; a decrease in distance	gold
+11	to be affected by something is similar to depending on something	nongold
+12	near means close	nongold
+13	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+14	a tide is a kind of natural event	nongold
+15	proximity means distance	nongold
+16	ocean tides are a kind of phenomenon	nongold
+17	to impact means to affect	nongold
+18	tidal means related to tides	nongold
+19	distant means great in distance	nongold
+20	the Sun is a kind of star	gold
+21	close means low in distance	nongold
+22	the Moon is Earth's moon	nongold
+23	far means great in distance	nongold
+24	as the gravitational pull of the moon on the Earth decreases , the size of the tides on Earth decrease	nongold
+25	causing means influencing	nongold
+26	near; close is the opposite of far; away	nongold
+27	affected means changed	nongold
+28	a planet is a kind of celestial object; body	nongold
+29	if something is made by something else then that something is affected by that something else	nongold
+30	Earth is the planet that is third closest to the  Sun	nongold
+31	an increase is the opposite of a decrease	nongold
+32	the sun is a source of light; light energy called sunlight	nongold
+33	a moon is a kind of celestial object; body	gold
+34	impact means effect	nongold
+35	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+36	towards means closer to something	nongold
+37	distant means far away	nongold
+38	an increase is a kind of change	nongold
+39	toward is the opposite of away	nongold
+40	as gravitational pull of the moon decreases , the ocean tides will be lower	nongold
+41	change is a kind of impact	nongold
+42	distance is a property of space and includes ordered values of close; far	nongold
+43	the moon orbits the Earth	nongold
+44	high is similar to increase	nongold
+45	less is similar to decrease	nongold
+46	increase means more	nongold
+47	astronomy is the study of celestial (objects, bodies)	nongold
+48	the tide cycle occurs regularly twice per day	nongold
+49	a star is a kind of celestial object; celestial body	gold
+50	spring tides occur during a new moon	nongold
+51	spring tides occur during a full moon	nongold
+52	causing is a kind of affecting	nongold
+53	sunlight is a kind of light	nongold
+54	motion is when moves an object; something to a direction	nongold
+55	the tide is when ocean levels periodically rise; fall	nongold
+56	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+57	an ocean is a kind of body of water	nongold
+58	apart is the opposite of together	nongold
+59	a source of something emits; produces; generates; provides that something	nongold
+60	attract means move closer	nongold
+61	lower means less	nongold
+62	low is similar to decrease	nongold
+63	greater means higher; more in value	nongold
+64	the moon is less bright than the sun	nongold
+65	less is the opposite of more	nongold
+66	to change means to have an effect	nongold
+67	spring tide is similar to high tide	nongold
+68	a motion is a kind of event; action	nongold
+69	furthest; farthest means greatest; most; highest in distance	nongold
+70	a decrease is a kind of change	nongold
+71	the Earth revolves around the sun	nongold
+72	the sun  is the source of energy for physical cycles on Earth	nongold
+73	to turn means to change	nongold
+74	high tide is a stage in the tide cycle process	nongold
+75	to cause means to have an effect	nongold
+76	apart means away	nongold
+77	as distance from an object decreases , the the pull of gravity on that object increases	gold
+78	to act on means to affect	nongold
+79	can be means able to be	nongold
+80	to lower means to decrease	nongold
+81	being in the sun is synonymous with being in the sunlight	nongold
+82	waves are made of moving water	nongold
+83	opposite is a kind of different	nongold
+84	a factor impacts something	nongold
+85	Venus is closer to the sun than Earth	nongold
+86	the sun rises in the east	nongold
+87	gravity causes orbits	nongold
+88	spring tide is when high tide is at its greatest distance from low tide	nongold
+89	the sun is the source of solar energy called sunlight	nongold
+90	to move toward means to move nearer	nongold
+91	astronomical unit is a measure of distance between Earth and the Sun	nongold
+92	variable means able to change	nongold
+93	low tide is a stage in the tide cycle process	nongold
+94	to be in the sun means to be in the sunlight	nongold
+95	pull is similar to attract	nongold
+96	a source of something increases the amount of that something	nongold
+97	to move away means to increase distance	nongold
+98	if two objects are apart from each other then matter is between those two objects	nongold
+99	greatest means largest; highest; most amount of something	nongold

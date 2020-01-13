@@ -1,0 +1,102 @@
+Question	Jonny climbed an apple tree. How are Jonny and the apple tree similar to each other?	question
+Answer	Both are made of cells.	answer
+0	an apple tree is a kind of plant	gold
+1	Jonny is a name for a human	gold
+2	a living thing is made of cells	gold
+3	a plant is made of plant cells	nongold
+4	a climber is a kind of human	nongold
+5	if two things are made from the same objects; material then those two things are similar	nongold
+6	an apple is a kind of fruit	nongold
+7	a tree is a kind of living thing	nongold
+8	an  apple is  round in shape	nongold
+9	a plant cell is a kind of cell	nongold
+10	a cell is a kind of object	nongold
+11	if something is copied then that something will be the same; similar; identical	nongold
+12	an  apple is  hard	nongold
+13	a tree is a kind of plant	nongold
+14	if two objects are similar , then the two objects share properties	nongold
+15	a tree is a kind of matter	nongold
+16	a cell is very small	nongold
+17	an animal is a kind of living thing	gold
+18	in common is similar to the same	nongold
+19	composed of means made of	nongold
+20	a plant cell is box-like in shape	nongold
+21	an animal cell is a kind of cell	nongold
+22	a living thing is a kind of object	nongold
+23	all living things are made of cells according to the cell theory	nongold
+24	different is the opposite of the same	nongold
+25	identical is the opposite of different	nongold
+26	if something changes , then that something is not the same	nongold
+27	a  cell wall provides support; protection; shape; structure for  a plant cell	nongold
+28	objects are made of materials; substances; matter	nongold
+29	similar means in common	nongold
+30	an object is made of its parts	nongold
+31	to be made of something means to be formed of that something	nongold
+32	cells are a part of the body	nongold
+33	a plant is a kind of living thing	gold
+34	both means two	nongold
+35	a human cell is a kind of cell	nongold
+36	the cell is the most basic structural unit of life	nongold
+37	same means identical; equal in value; amount; number; quantity	nongold
+38	a cell nucleus is a part of a cell	nongold
+39	a plant is a kind of organism	nongold
+40	a fruit is a kind of object	nongold
+41	a structure of something is synonymous with a part of that something	nongold
+42	a cell wall is the outermost structure of a plant cell	nongold
+43	to change means to become different	nongold
+44	made of is similar to contains	nongold
+45	an apple is smooth on the surface	nongold
+46	made up of means contains; made of	nongold
+47	matter; materials; substances are made of atoms; particles	nongold
+48	made of is similar to is built from	nongold
+49	an animal is a kind of organism	nongold
+50	not is similar to the opposite of	nongold
+51	opposite is a kind of different	nongold
+52	the parent cell is the original cell	nongold
+53	each is similar to individual	nongold
+54	similarity means the same property	nongold
+55	if an object is made of something then the parts of that object are made of that something	nongold
+56	an part of an object is smaller than the entire object	nongold
+57	to be made of means to consist of	nongold
+58	a human is a kind of animal	gold
+59	an organism is a living thing	nongold
+60	if something is not the same as something else then that something is different from that something else	nongold
+61	to be formed by is similar to being produced by	nongold
+62	if two things perform the same function then those two things are similar	nongold
+63	John is a name for a human	nongold
+64	the chemistry of something is similar to what that something is made of	nongold
+65	constant is similar to same	nongold
+66	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+67	two objects are usually different in size	nongold
+68	structure is a property of an object; a material; a substance	nongold
+69	the  property of something is the same for the things of same kind	nongold
+70	can be means able to be	nongold
+71	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	nongold
+72	if something is made of something else then that something can be broken down into that something else	nongold
+73	unit is similar to part	nongold
+74	a cell membrane is a kind of cell structure	nongold
+75	the cell membrane is a part of a cell	nongold
+76	identical means copy	nongold
+77	materials are made of matter	nongold
+78	high is similar to increase	nongold
+79	fruit is a part of a plant; tree	nongold
+80	apart is the opposite of together	nongold
+81	form means kind	nongold
+82	conjugation causes two genetically identical cells	nongold
+83	plant parts are made of plants	nongold
+84	cell division means cell reproduction	nongold
+85	if two things have the same features then those two things are alike	nongold
+86	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+87	an apple is red in color	nongold
+88	a body cell means a somatic cell	nongold
+89	affected means changed	nongold
+90	matter is made of molecules	nongold
+91	the cell membrane is the membrane around the cell of all living things	nongold
+92	classifying means grouping objects; materials by their properties	nongold
+93	according to is similar to be determined by	nongold
+94	to match means to be the same	nongold
+95	provide is similar to give; make	nongold
+96	cells copy DNA	nongold
+97	a single-celled organism is a kind of living thing	nongold
+98	a component means a part of	nongold
+99	human is similar to individual	nongold

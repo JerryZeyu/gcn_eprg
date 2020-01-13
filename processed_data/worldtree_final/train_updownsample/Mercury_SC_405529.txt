@@ -1,0 +1,49 @@
+0	to add means to increase	nongold
+1	treating water is used to remove harmful substances before drinking	gold
+2	an animal is a kind of living thing	nongold
+3	water is a kind of natural resource	nongold
+4	water is a kind of liquid at room temperature	nongold
+5	high-quality means positive	nongold
+6	a source of something emits; produces; generates; provides that something	nongold
+7	if something requires something else then that something requires a source of that something else	nongold
+8	a positive impact is a helpful effect	nongold
+9	solution is similar to a positive impact	nongold
+10	if something transfers something else then that something is a source of something else	nongold
+11	treating water is used to remove harmful substances before drinking	gold
+12	treating water is used to remove harmful substances before drinking	gold
+13	good means positive	nongold
+14	to remove harmful substances	answer
+15	a person is a kind of animal	nongold
+16	Water is often put through a treatment system before it is used in homes as drinking water. Which is the most likely reason water is treated before people drink it?	question
+17	humans cause pollution	nongold
+18	removing an inhibitor of a process causes that process	nongold
+19	the temperature; pH of water has an impact on the health of that water	nongold
+20	decreasing something positive has a negative impact on a thing	nongold
+21	to remove harmful substances	answer
+22	protecting something means preventing harm to that something	nongold
+23	an object; material; substance comes from that object or material's source	nongold
+24	a beverage is a kind of food	nongold
+25	death means to die	nongold
+26	to remove harmful substances	answer
+27	pathogen is similar to harmful substance	nongold
+28	a process is a kind of event	nongold
+29	a process usually requires all of the stages in that process	nongold
+30	to be used for something means to be required by that something	nongold
+31	typically means usually	nongold
+32	an animal is a kind of organism	nongold
+33	Water is often put through a treatment system before it is used in homes as drinking water. Which is the most likely reason water is treated before people drink it?	question
+34	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+35	to remove harmful substances	answer
+36	Water is often put through a treatment system before it is used in homes as drinking water. Which is the most likely reason water is treated before people drink it?	question
+37	damage has a negative impact on a thing	nongold
+38	human is a kind of organism	nongold
+39	to lower means to decrease	nongold
+40	helping something has a  positive impact on that something	nongold
+41	drinking is a kind of water use	nongold
+42	Water is often put through a treatment system before it is used in homes as drinking water. Which is the most likely reason water is treated before people drink it?	question
+43	if an event is required for a process then that event must occur before that process can occur	nongold
+44	if something transports something else then that something removes that something else from a place	nongold
+45	an environment means an area	nongold
+46	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+47	a supply of something is a source of that something	nongold
+48	cooling;colder means removing;reducing;decreasing heat;temperature	nongold

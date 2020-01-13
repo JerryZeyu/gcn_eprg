@@ -1,0 +1,102 @@
+Question	Planting legumes in order to add nitrogen to soil most likely causes	question
+Answer	an enrichment in the fertility of the soil.	answer
+0	growing legumes provides nitrogen for other plants	nongold
+1	legumes contain nitrogen	gold
+2	nitrogen is a kind of nutrient for plant growth	gold
+3	a legume is a kind of plant	nongold
+4	planting crops is synonymous with growing crops	nongold
+5	soil fertility means the ability of soil to sustain plant growth	gold
+6	planting crops requires growing crops	nongold
+7	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+8	soil contains nutrients for plants	nongold
+9	a plant; living thing requires nutrients to grow	gold
+10	crops are a kind of edible plant for eating	nongold
+11	a plant requires soil for survival; to grow	nongold
+12	crops; farming cause nutrients in the soil to decrease	nongold
+13	decomposition increases the  amount of nutrients; nitrogen in the soil	nongold
+14	soil is a renewable resource for growing plants	nongold
+15	a crop is a kind of food	nongold
+16	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+17	to add means to increase	nongold
+18	planting is a kind of human action	nongold
+19	green plants are a kind of producer	nongold
+20	fertile soil is high in quality	nongold
+21	crops grow in soil	nongold
+22	if something causes a process then that something is required for that process	nongold
+23	a source of something emits; produces; generates; provides that something	nongold
+24	to be used for something means to be required by that something	nongold
+25	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+26	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+27	a plant requires photosynthesis to grow; survive	nongold
+28	as the use of a crop increases , the amount of  crops planted will increase	nongold
+29	a plant is a kind of organism	nongold
+30	beans are a kind of legume	nongold
+31	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+32	a fungus is a kind of organism	nongold
+33	if an event occurs by adding something then that event requires that something	nongold
+34	In the food chain process a  green plant has the role of  producer	nongold
+35	requiring something means needing that something	nongold
+36	to depend on; to rely on; to need means to require	nongold
+37	adding something is a kind of change	nongold
+38	a food contains nutrients for living things	nongold
+39	planting crops is a kind of activity	nongold
+40	a tree is a kind of plant	nongold
+41	a vegetable is a kind of plant	nongold
+42	N means nitrogen	nongold
+43	planting trees has a  positive impact on an ecosystem	nongold
+44	a producer is a kind of living thing	nongold
+45	roots are a part of a plant; tree	nongold
+46	nitrogen is a kind of element	nongold
+47	an increase is a kind of change	nongold
+48	a mushroom is a kind of fungus	nongold
+49	to contribute means to add	nongold
+50	a plant is a kind of living thing	nongold
+51	if something emits something else then that something increases the amount of that something else	nongold
+52	to be a source of something means to cause that something	nongold
+53	a producer produces its own food	nongold
+54	a vegetable is a kind of food	nongold
+55	growing is a kind of process	nongold
+56	fruit trees are a kind of crop	nongold
+57	all living things grow	nongold
+58	a source of something increases the amount of that something	nongold
+59	a plant is a member of a plant species	nongold
+60	soybeans are a kind of legume	nongold
+61	if something gains something from something else then that something else is a source of that something	nongold
+62	growing is a kind of replenishing	nongold
+63	food contains carbohydrates	nongold
+64	planting trees is sometimes a human activity	nongold
+65	a process is a kind of event	nongold
+66	little is similar to decrease	nongold
+67	harvesting is a kind of using	nongold
+68	less is similar to decrease	nongold
+69	farming is when a human plants crops for food	nongold
+70	a process usually requires all of the stages in that process	nongold
+71	corn is a kind of seed	nongold
+72	a vine is a kind of plant	nongold
+73	increase means more	nongold
+74	planting native plants has a  positive impact on an ecosystem	nongold
+75	plant reproduction; seed production requires pollination	nongold
+76	to cause means to make	nongold
+77	a berry is a kind of fruit	nongold
+78	a leaf is a part of a  green plant	nongold
+79	if something causes an increase in something else then that something produces that something else	nongold
+80	fruit is a kind of food	nongold
+81	high is similar to increase	nongold
+82	if two organisms produce fertile offspring together then those two organisms belong to the same species	nongold
+83	a fungus is a kind of living thing	nongold
+84	vegetation means plants	nongold
+85	if some nutrients are in the soil then those nutrients are in the food chain	nongold
+86	plants are a source of oxygen through photosynthesis	nongold
+87	a berry contains seeds	nongold
+88	farming is a kind of process	nongold
+89	crop rotation renews; protects soil	nongold
+90	good means positive	nongold
+91	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+92	an event is a kind of action	nongold
+93	an animal; living thing requires nutrients for survival	nongold
+94	if a plant dies then that plant will not produce food	nongold
+95	helping something has a  positive impact on that something	nongold
+96	a  plant requires sunlight for photosynthesis	nongold
+97	corn is a kind of crop	nongold
+98	if something transfers something else then that something is a source of something else	nongold
+99	a farmer is a kind of human	nongold

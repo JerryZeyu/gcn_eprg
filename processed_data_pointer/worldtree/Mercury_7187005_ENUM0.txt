@@ -1,0 +1,102 @@
+Question	One effect of ocean pollution is that it can reduce populations of phytoplankton and algae. The reduction of these populations might have which impact on an ecosystem?	question
+Answer	decreasing the amount of oxygen being produced	answer
+0	phytoplankton is a kind of plant	gold
+1	harming something has a  negative impact on; effect on that something	nongold
+2	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+3	an animal; bacterium requires oxygen for survival; to breathe	nongold
+4	negative impacts on a species will decrease populations of a species	nongold
+5	phytoplanktons are found in bodies of water	nongold
+6	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+7	as the amount of a source of something decreases , the amount of that something will decrease	gold
+8	green marine algae are a kind of producer	nongold
+9	if something causes an increase in something else then that something produces that something else	nongold
+10	to reduce means to decrease	gold
+11	an increase is the opposite of a decrease	nongold
+12	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+13	to cause means to have an effect	nongold
+14	harming an animal species causes that animal's population to decrease	nongold
+15	an ocean is a kind of body of water	nongold
+16	if something is required for a process then that something positively impacts that process	nongold
+17	a source of something increases the amount of that something	nongold
+18	a source of something emits; produces; generates; provides that something	gold
+19	as water increases in an environment , the population of aquatic animals will increase	nongold
+20	rich nutrients can cause algae and phytoplankton to increase	nongold
+21	algae is a kind of plant	gold
+22	an algae is a kind of organism	nongold
+23	algae is a kind of living thing	nongold
+24	plants are a source of oxygen through photosynthesis	gold
+25	impact means effect	nongold
+26	less is similar to decrease	nongold
+27	oxygen is a kind of gas at room temperature	nongold
+28	if an organism dies then the population of that organism will decrease	nongold
+29	producing is similar to causing	nongold
+30	emit means produce	nongold
+31	decreasing something negative has a positive impact on a thing	nongold
+32	to impact means to affect	nongold
+33	if something emits something else then that something increases the amount of that something else	nongold
+34	water contains dissolved oxygen	nongold
+35	producing is similar to releasing	nongold
+36	as the cause of something decreases , that something will decrease	nongold
+37	as the use of something decreases , the use of the source of that something will decrease	nongold
+38	an environment is similar to an ecosystem	nongold
+39	deplete is similar to decrease	nongold
+40	positive impacts on a species will increase populations of a species	nongold
+41	as a population of organisms increases , the resources used by those organisms will decrease	nongold
+42	negative impact is the opposite of positive impact	nongold
+43	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+44	less means a reduced amount	nongold
+45	causing is a kind of affecting	nongold
+46	algae is found in bodies of water	nongold
+47	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+48	as the available water in an environment increases , the populations of organisms in that environment will increase	nongold
+49	low is similar to decrease	nongold
+50	an ecosystem is a kind of habitat	nongold
+51	oxygen is a kind of resource	nongold
+52	population is a measure of the number of a species in an environment	nongold
+53	an ecosystem contains a large community of; large numbers of living organisms	nongold
+54	an aquatic animal is a kind of animal	nongold
+55	oxygenated means having oxygen	nongold
+56	as available water decreases , the population of plants will decrease	nongold
+57	harming an animal species has a  negative impact on the population size of that species	nongold
+58	if a living thing requires something then that something has a positive impact on that living thing	nongold
+59	if there is a loss of something then that something decreases	nongold
+60	a producer is a kind of living thing	nongold
+61	as a population of organisms decreases , the resources used by those organisms will increase	nongold
+62	an ocean is a kind of habitat	nongold
+63	In the photosynthesis process oxygen has the role of  waste product	nongold
+64	producing is a kind of process	nongold
+65	aquatic animals; plants live in bodies of water	nongold
+66	if something causes a process then that something is required for that process	nongold
+67	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+68	photosynthesis is a source of oxygen	nongold
+69	produce is similar to release	nongold
+70	oxygen rich means a high amount of oxygen	nongold
+71	animals are a source of carbon dioxide by exhaling	nongold
+72	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+73	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+74	as available resources increases , the population of an organism that uses those resources will increase	nongold
+75	to contribute is similar to produce	nongold
+76	as available water in an environment decreases , the amount of available food in that environment will decrease	nongold
+77	to add means to increase	nongold
+78	to produce means to provide	nongold
+79	sea means ocean	nongold
+80	breathing is when animals convert oxygen into carbon dioxide	nongold
+81	organisms are a part of an environment	nongold
+82	to lower means to decrease	nongold
+83	if something releases something else then that something else decreases in that something	nongold
+84	converting is similar to producing	nongold
+85	if something releases something else then that something is the source of that something else	nongold
+86	loss of resources has a negative impact on  the organisms in an area	nongold
+87	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+88	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+89	waste has a  negative impact on the environment	nongold
+90	the amount of something is similar to the availability of something	nongold
+91	green plants are a kind of producer	nongold
+92	decreasing something positive has a negative impact on a thing	nongold
+93	to be used for something means to be required by that something	nongold
+94	a supply of something is a source of that something	nongold
+95	oxygen is a stage in the carbon dioxide-oxygen cycle process	nongold
+96	to change means to have an effect	nongold
+97	loss means reduction	nongold
+98	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+99	less is the opposite of more	nongold

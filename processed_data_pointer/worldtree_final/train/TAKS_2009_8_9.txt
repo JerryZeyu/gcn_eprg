@@ -1,0 +1,102 @@
+0	carpooling decreases the  amount of cars used to travel to a place	nongold
+1	an environment is a kind of place	nongold
+2	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+3	if an amount of objects decreases then those objects are fewer in number	nongold
+4	to advance means to improve	nongold
+5	a vehicle is used for transportation	nongold
+6	Which of these would most likely improve the air quality in large Texas cities?	question
+7	helping something has a  positive impact on that something	nongold
+8	a car is a kind of vehicle	gold
+9	the atmosphere is a part of nature; the environment	nongold
+10	a car is a kind of object	nongold
+11	as the cause of something decreases , that something will decrease	nongold
+12	lowest means least in value; amount; number	nongold
+13	a state is a kind of place	nongold
+14	person is synonymous with human	nongold
+15	affected means changed	nongold
+16	humans ride vehicles	nongold
+17	a vehicle is a kind of object	nongold
+18	pollution has a negative impact on the environment; air quality; water quality; society	gold
+19	a vehicle is a kind of tool for travel; transport	nongold
+20	an increase is a kind of change	nongold
+21	as use of public transportation increases , the use of automobiles decreases	nongold
+22	as distance to a city decreases , the amount of  light pollution will increase	nongold
+23	to improve means to have a positive impact	gold
+24	small is the opposite of large	nongold
+25	an environment means an area	nongold
+26	limiting something is a kind of activity	nongold
+27	improving the design of something helps that something  to do its function	nongold
+28	the number of parts of something is a property of that something	nongold
+29	a requirement is a kind of limitation	nongold
+30	high is similar to increase	nongold
+31	solution is similar to a positive impact	nongold
+32	to slow; to slow down decreases speed	nongold
+33	counter means reduce; stop; resist	nongold
+34	less is similar to decrease	nongold
+35	a car is a kind of automobile	nongold
+36	controlling the amount of pollution is similar to reducing the amount of pollution	nongold
+37	an automobile is a kind of vehicle	nongold
+38	low is similar to decrease	nongold
+39	many means high in number	nongold
+40	adverse effect means negative impact	nongold
+41	reducing is similar to slowing	nongold
+42	a lot means large in amount; quantity	nongold
+43	road is similar to ground	nongold
+44	weather is  a measure of the condition of the air in a place at a certain time	nongold
+45	often is similar to likely	nongold
+46	a restriction can be used to limit something; keep something low	nongold
+47	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+48	controlling a population is similar to decreasing a population	nongold
+49	to limit means to decrease	nongold
+50	negative impact is the opposite of positive impact	nongold
+51	a road is a kind of object	nongold
+52	Texas is a state located in the United States of America	nongold
+53	how many means what number	nongold
+54	a road is a kind of location	nongold
+55	using a car causes pollution	nongold
+56	more likely means increased likelihood	nongold
+57	less means a reduced amount	nongold
+58	automobiles; industrialization are a source of carbon dioxide	nongold
+59	best means most positive	nongold
+60	a human is a kind of animal	nongold
+61	as distance from a source of something increases , that something will decrease	nongold
+62	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	gold
+63	to change means to have an effect	nongold
+64	amount is similar to number	nongold
+65	requiring is similar to needing help	nongold
+66	to add means to increase	nongold
+67	the automobile is a kind of technology	nongold
+68	a decrease is a kind of change	nongold
+69	reducing is a kind of change	nongold
+70	high-quality means positive	nongold
+71	absorbing something from the air decreases the  amount of  that something in the air	nongold
+72	one is a kind of number	nongold
+73	an increase is the opposite of a decrease	nongold
+74	a vehicle is used for travel	nongold
+75	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+76	a car moves on a road	nongold
+77	to lower means to decrease	nongold
+78	humans cause pollution	nongold
+79	a type is synonymous with a kind	nongold
+80	fewer means lower; less in number	nongold
+81	good means positive	nongold
+82	a city is a part of a society	nongold
+83	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+84	greatest means largest; highest; most amount of something	nongold
+85	impact means effect	nongold
+86	change is a kind of impact	nongold
+87	An example of managing; maintaining the number; the use of something is replacing that something	nongold
+88	if something is required for a process then that something positively impacts that process	nongold
+89	to reduce means to decrease	nongold
+90	decreasing something positive has a negative impact on a thing	nongold
+91	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+92	a city is a kind of location	nongold
+93	to improve the chances means to increase the likelihood	nongold
+94	decreasing something negative has a positive impact on a thing	nongold
+95	Vatican City is located in the northern hemisphere	nongold
+96	harming something has a  negative impact on; effect on that something	nongold
+97	Limiting the number of cars on the roads	answer
+98	little is similar to decrease	nongold
+99	air is a part of the environment	nongold
+100	many vehicles emit pollution into the air	gold
+101	if a  car is being driven , then the car will be moving	nongold

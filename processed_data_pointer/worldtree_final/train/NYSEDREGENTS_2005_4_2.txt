@@ -1,0 +1,102 @@
+0	a living thing is a kind of object	nongold
+1	intelligence is an acquired characteristic	nongold
+2	having blue eyes	answer
+3	blue eyes is a recessive trait in humans	nongold
+4	what an object is made of is a kind of characteristic	nongold
+5	an animal is a kind of living thing	nongold
+6	learning about something sometimes requires observing that something	nongold
+7	a human is a kind of animal	nongold
+8	brown is a kind of color	nongold
+9	color is a property of  an object; a material	nongold
+10	a child is a kind of young human	nongold
+11	having an impact on something means altering that something	nongold
+12	eyes are usually part of an animal for seeing	gold
+13	blood type is an inherited characteristic	nongold
+14	feature is synonymous with characteristic	nongold
+15	animals learn some behaviors from watching their parents	nongold
+16	inability is the opposite of ability	nongold
+17	appearance is a property of objects; materials	nongold
+18	a girl is a kind of animal	nongold
+19	personality is an acquired characteristic	nongold
+20	inherited characteristics can change over several generations	nongold
+21	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+22	parents produce offspring	nongold
+23	a learned characteristic is a kind of acquired characteristic	nongold
+24	height is an inherited characteristic	nongold
+25	unique  is the opposite of diverse	nongold
+26	if an organism passes on its traits then future generations will have those traits	nongold
+27	eyes are a part of a human for seeing	nongold
+28	conditioned behavior is a kind of learned behavior	nongold
+29	an organism's environment affects that organism's acquired characteristics	nongold
+30	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+31	curly hair is an inherited characteristic	nongold
+32	a mother is a kind of female parent	nongold
+33	a son is a kind of male offspring	nongold
+34	a structure is a kind of feature	nongold
+35	an inherited characteristic is a kind of characteristic	nongold
+36	a property of something is a feature of that something	nongold
+37	identical twins have all of the same inherited characteristics	nongold
+38	species is an inherited characteristic	nongold
+39	trait is synonymous with characteristic	nongold
+40	answering questions requires information	nongold
+41	sepia eyes is a recessive trait in fruit flies	nongold
+42	offspring are a part of a generation	nongold
+43	the head is a part of an animal	nongold
+44	parents are a part of a generation	nongold
+45	to reproduce means to have; to produce offspring	nongold
+46	red eyes is a dominant trait in fruit flies	nongold
+47	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+48	a face is often a part of an animal	nongold
+49	Which characteristic is inherited rather than learned?	question
+50	blue is a kind of color	gold
+51	phenotype of an organism means the visible traits of  an organism	nongold
+52	a baby is the offspring of a parent	nongold
+53	dark eyes is a dominant trait in human	nongold
+54	a puppy is a young; baby dog	nongold
+55	the color of; coloration of fur is an inherited characteristic	nongold
+56	a girl is a kind of organism	nongold
+57	an organism is a living thing	nongold
+58	eye color is an inherited characteristic	gold
+59	a part of a living thing is a natural structure	nongold
+60	a type of something is a kind of property of that something	nongold
+61	a girl is a kind of young; female human	nongold
+62	trait means property	nongold
+63	skills are learned characteristics; behaviors	nongold
+64	a part of something means a characteristic of something	nongold
+65	freckles are an inherited characteristic	nongold
+66	a baby is the offspring of a parent	nongold
+67	if two things have the same features then those two things are alike	nongold
+68	person is synonymous with human	nongold
+69	a structure of something is synonymous with a part of that something	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	children; young is synonymous with offspring	nongold
+72	reproduction produces; produce offspring	nongold
+73	the shape of body parts is an inherited characteristic	nongold
+74	characteristic means property	nongold
+75	playing with toys is a learned characteristic	nongold
+76	the colors of parts of an organism are inherited characteristics	gold
+77	can means having the ability to	nongold
+78	human is a kind of organism	nongold
+79	determining is similar to learning	nongold
+80	blue eyes are similar to light eyes	nongold
+81	green is a kind of color	nongold
+82	to be characterized by  a property means to have that property	nongold
+83	the eyes are part of the head used for seeing	nongold
+84	identical is the opposite of different	nongold
+85	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+86	a student is a kind of human	nongold
+87	senses are an inherited characteristic	nongold
+88	learning; studying information causes one to know that information	nongold
+89	sight means to see	nongold
+90	a type is synonymous with a kind	nongold
+91	a blue jay is a kind of bird	nongold
+92	sister means one of the offspring	nongold
+93	genes are able to determine the inherited characteristics of a living thing	nongold
+94	preferences are generally learned characteristics	nongold
+95	causing is a kind of affecting	nongold
+96	a father is a kind of male parent	nongold
+97	an animal is a kind of organism	gold
+98	ability is a kind of characteristic	nongold
+99	a boy is a kind of young male human	nongold
+100	a person is a kind of animal	nongold
+101	different is the opposite of the same	nongold

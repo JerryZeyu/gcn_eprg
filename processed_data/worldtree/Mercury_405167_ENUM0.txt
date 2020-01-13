@@ -1,0 +1,102 @@
+Question	Which action is an example of good water management?	question
+Answer	turning off the faucet when brushing teeth	answer
+0	An example of using less water is turning off the faucet when brushing teeth	gold
+1	good means positive	nongold
+2	An example of conservation is turning off the water while brushing teeth	nongold
+3	brushing is a kind of action	gold
+4	to be good for means to have a positive impact on	nongold
+5	leaving a faucet on wastes water	nongold
+6	better means good	nongold
+7	resource management means managing the use of resources	gold
+8	turning on is a kind of process	nongold
+9	action means activity	nongold
+10	a kind of something is an example of that something	nongold
+11	a motion is a kind of event; action	nongold
+12	to turn means to change	nongold
+13	an event is a kind of action	nongold
+14	water is a kind of substance	nongold
+15	water is a kind of natural resource	nongold
+16	water is a kind of natural resource	gold
+17	actions mean behavior	nongold
+18	An example of managing the use of something is using less of that something	gold
+19	water is a kind of liquid at room temperature	nongold
+20	action can cause change	nongold
+21	water is a part of an environment	nongold
+22	to improve means to have a positive impact	nongold
+23	best means most positive	nongold
+24	to depend on; to rely on; to need means to require	nongold
+25	a liquid is a kind of substance	nongold
+26	turning is a kind of motion	nongold
+27	a human is a kind of animal	nongold
+28	a body of water is a source of water	nongold
+29	forming is a kind of action	nongold
+30	to reduce means to decrease	nongold
+31	turns is similar to changes	nongold
+32	if something is required for a process then that something positively impacts that process	nongold
+33	a positive impact is  a benefit	nongold
+34	a body of water is a kind of environment	nongold
+35	water is a kind of object	nongold
+36	a source of something emits; produces; generates; provides that something	nongold
+37	helping something has a  positive impact on that something	nongold
+38	high is similar to increase	nongold
+39	An example of managing; maintaining the number; the use of something is replacing that something	nongold
+40	affected means changed	nongold
+41	to turn means to convert	nongold
+42	to be used for something means to be required by that something	nongold
+43	revolving is a kind of action	nongold
+44	person is synonymous with human	nongold
+45	a source of something increases the amount of that something	nongold
+46	an increase is a kind of change	nongold
+47	a body of water contains water	nongold
+48	an animal is a kind of organism	nongold
+49	an electrical device requires electricity to turn on	nongold
+50	leaving something on is a kind of action	nongold
+51	water is a renewable resource	nongold
+52	conserving water is a kind of characteristic	nongold
+53	to limit means to decrease	nongold
+54	requiring is similar to needing help	nongold
+55	a process is a kind of event	nongold
+56	becoming is a kind of action	nongold
+57	negative impact is the opposite of positive impact	nongold
+58	if something causes a process then that something is required for that process	nongold
+59	a reservoir is a kind of body of water	nongold
+60	to lower means to decrease	nongold
+61	to change means to have an effect	nongold
+62	change is a kind of impact	nongold
+63	extreme means very high in value	nongold
+64	an increase is the opposite of a decrease	nongold
+65	to help; to benefit means to be of use	nongold
+66	impact means effect	nongold
+67	to slow; to slow down decreases speed	nongold
+68	a part of a process means a stage in a process	nongold
+69	concluding is a kind of action	nongold
+70	desirable result means positive impact	nongold
+71	controlling the amount of pollution is similar to reducing the amount of pollution	nongold
+72	to give off means to be the source of	nongold
+73	rotate means turn	nongold
+74	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+75	a decrease is a kind of change	nongold
+76	to impact means to affect	nongold
+77	using resources decreases those resources	nongold
+78	limiting a source of something tht has a negative impact on something else has a  positive impact on that something else	nongold
+79	decreasing something negative has a positive impact on a thing	nongold
+80	the function of something is what that something  is used to do	nongold
+81	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+82	the effects of something is a property of that something	nongold
+83	converting is similar to turning into	nongold
+84	flowing is a kind of action	nongold
+85	applying is similar to increasing	nongold
+86	a concern; a problem is a possible negative impact	nongold
+87	a wet object is a source of water	nongold
+88	the temperature; pH of water has an impact on the health of that water	nongold
+89	a factor impacts something	nongold
+90	a water reservoir contains; stores water	nongold
+91	adverse effect means negative impact	nongold
+92	a negative impact is a kind of consequence; risk	nongold
+93	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+94	moisture means liquid; liquid water	nongold
+95	insulator means good insulator	nongold
+96	an object; material; substance comes from that object or material's source	nongold
+97	a natural resource is a kind of environmental factor	nongold
+98	passing is a kind of action	nongold
+99	if something requires something else then that something requires a source of that something else	nongold

@@ -1,0 +1,74 @@
+0	coastline means coast	nongold
+1	loss of shore land	answer
+2	a shore is the land found at the edge of a body of water	gold
+3	loss is similar to removal	nongold
+4	an environment is a kind of place	nongold
+5	aquatic animals; plants live in bodies of water	nongold
+6	if there is a loss of something then that something decreases	gold
+7	to impact means to affect	gold
+8	a resident is a kind of person	nongold
+9	a coastal area is a kind of environment	gold
+10	a shore is the land found at the edge of a body of water	gold
+11	humans live on land	nongold
+12	loss of land has a negative impact on the residents in an environment	gold
+13	Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Which result of global warming will most negatively affect coastal residents in Maryland?	question
+14	worldwide temperature means atmospheric temperature	gold
+15	carbon dioxide is a kind of gas	nongold
+16	a shore is the land found at the edge of a body of water	gold
+17	loss of shore land	answer
+18	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+19	answering questions requires information	nongold
+20	global warming is when worldwide temperature increases	gold
+21	a coast is where land meets the edge of a body of water	gold
+22	organisms; living things live in their habitat; their home	nongold
+23	Maryland is a kind of region	nongold
+24	if an organism dies then the population of that organism will decrease	nongold
+25	a coast is where land meets the edge of a body of water	gold
+26	Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Which result of global warming will most negatively affect coastal residents in Maryland?	question
+27	impact means effect	nongold
+28	loss of shore land	answer
+29	as the  level of water rises , the amount of available land will decrease	gold
+30	as the  level of water rises , the amount of available land will decrease	gold
+31	a scientist is a kind of human	nongold
+32	loss of shore land	answer
+33	harming something has a  negative impact on; effect on that something	nongold
+34	Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Which result of global warming will most negatively affect coastal residents in Maryland?	question
+35	an increase is the opposite of a decrease	nongold
+36	a coast is where land meets the edge of a body of water	gold
+37	worldwide temperature means atmospheric temperature	gold
+38	an ocean is a kind of habitat	nongold
+39	a coastal area is a kind of environment	gold
+40	a coastal area is a kind of environment	gold
+41	if there is a loss of something then that something decreases	gold
+42	sea means ocean	nongold
+43	a decrease is a kind of change	nongold
+44	recording an observation sometimes requires measuring	nongold
+45	as the amount of carbon dioxide in the atmosphere increases , the temperature of the planet; the atmosphere will increase	nongold
+46	to cause means to have an effect	nongold
+47	as the  level of water rises , the amount of available land will decrease	gold
+48	destruction means loss	nongold
+49	burning fossil fuels increases the carbon in the atmosphere	nongold
+50	loss of land has a negative impact on the residents in an environment	gold
+51	Use the information to answer the question. Over the last 150 years, the use of fossil fuels has increased, resulting in more carbon dioxide and other greenhouse gases in the atmosphere. Some scientists think that these atmospheric gases will result in global warming. Scientists have recorded data on global temperature changes and have predicted possible changes in sea level that may affect Maryland residents. Which result of global warming will most negatively affect coastal residents in Maryland?	question
+52	if there is a loss of something then that something decreases	gold
+53	a coast is a coastal area	gold
+54	adverse effect means negative impact	nongold
+55	a body of water is a kind of environment	nongold
+56	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+57	loss means reduction	nongold
+58	to impact means to affect	gold
+59	to cause means to result in	nongold
+60	loss of land has a negative impact on the residents in an environment	gold
+61	a coast is a coastal area	gold
+62	to impact means to affect	gold
+63	global warming is when worldwide temperature increases	gold
+64	increase means more	nongold
+65	temperature is a measure of heat energy	nongold
+66	a coast is a coastal area	gold
+67	global warming is when worldwide temperature increases	gold
+68	an ocean is a kind of body of water	nongold
+69	greenhouse gases are a part of the atmosphere	nongold
+70	humans changing an environment sometimes causes that environment to be destroyed	nongold
+71	worldwide temperature means atmospheric temperature	gold
+72	if something is required for a process then that something positively impacts that process	nongold
+73	pollution has a negative impact on the environment; air quality; water quality; society	nongold

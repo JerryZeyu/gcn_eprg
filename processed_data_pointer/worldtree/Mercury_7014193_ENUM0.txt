@@ -1,0 +1,102 @@
+Question	In order to produce light, the atoms inside a light bulb transform electrical energy into	question
+Answer	electromagnetic radiation.	answer
+0	a light bulb requires electrical energy to produce light	nongold
+1	a light bulb is a kind of electrical device	gold
+2	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	gold
+3	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+4	a light bulb is a part of a  lamp	nongold
+5	light bulb means lightbulb	nongold
+6	an atom is a kind of object	nongold
+7	a light bulb generates visible light when it is turned on	nongold
+8	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+9	converting is similar to producing	gold
+10	light is a kind of electromagnetic radiation	gold
+11	generate means produce	nongold
+12	a source of something emits; produces; generates; provides that something	nongold
+13	electromagnetic radiation means electromagnetic energy	nongold
+14	to transform means to convert	gold
+15	matter; materials; substances are made of atoms; particles	nongold
+16	energy transformation means one kind of energy changes into another kind of energy	nongold
+17	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+18	an  element is a kind of atom	nongold
+19	emit means produce	nongold
+20	to produce means to provide	nongold
+21	electrical energy is a kind of energy	nongold
+22	electromagnetic energy is a kind of energy	nongold
+23	light means light energy	nongold
+24	a light bulb is a kind of tool for seeing in the dark	nongold
+25	a light bulb is used for seeing in the dark	nongold
+26	an atom is exceptionally small in size	nongold
+27	electricity means electrical energy	nongold
+28	the heat energy produced by the light bulb is not used	nongold
+29	light is a kind of energy	nongold
+30	light is a kind of energy	nongold
+31	light is made of photons	nongold
+32	an atom is the smallest particle; unit that has the properties of an element	nongold
+33	converting is similar to generating	nongold
+34	radiation is when electromagnetic waves transfers heat and light energy	nongold
+35	to convert means to change	nongold
+36	a pure substance is made of only one kind of atom; molecule	nongold
+37	make means produce	nongold
+38	producing is similar to causing	nongold
+39	energy conversion is similar to energy transformation	nongold
+40	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+41	a device is a kind of object	nongold
+42	to turn means to convert	nongold
+43	atoms are made of particles	nongold
+44	sunlight is a kind of light	nongold
+45	to be formed by is similar to being produced by	nongold
+46	molecules; atoms are constantly; always moving; vibrating in substance;matter	nongold
+47	producing is a kind of process	nongold
+48	to produce means to create	nongold
+49	light is a kind of wave	nongold
+50	light bulb filaments are made of tungsten usually	nongold
+51	convert is similar to transfer	nongold
+52	an element is made of one kind of atoms	nongold
+53	conversion is a kind of process	nongold
+54	a photon is a kind of  particles	nongold
+55	to produce means to result in	nongold
+56	materials are made of matter	nongold
+57	objects are made of materials; substances; matter	nongold
+58	electric devices require electrical energy to function	nongold
+59	substances are made of matter	nongold
+60	converting is a kind of function	nongold
+61	producing is a kind of function	nongold
+62	the basic unit of matter is atom	nongold
+63	particles in objects are a kind of matter	nongold
+64	radiation is a kind of process	nongold
+65	causing is similar to generating	nongold
+66	can be means able to be	nongold
+67	converting is similar to turning into	nongold
+68	the function of something is what that something  is used to do	nongold
+69	electricity is used as an energy source by electrical devices	nongold
+70	form means kind	nongold
+71	a laser is used for producing light	nongold
+72	a laser is a kind of device for producing light	nongold
+73	to give off means to be the source of	nongold
+74	products are formed; are produced; are created	nongold
+75	an atom is made of protons; neutrons; electrons	nongold
+76	to contribute is similar to produce	nongold
+77	interatomic means existing or acting between atoms	nongold
+78	a molecule is a kind of object	nongold
+79	electrical signals are made of electrical energy	nongold
+80	radiation is when heat is transferred through waves; particles	nongold
+81	electromagnetic wave is a kind of  wave	nongold
+82	forming is similar to converting	nongold
+83	to provide something means to be the source of that something	nongold
+84	substances are made of elements	nongold
+85	atom cannot be divided into smaller substances	nongold
+86	electromagnetic energy travels as electromagnetic waves	nongold
+87	matter is made of molecules	nongold
+88	produce is similar to release	nongold
+89	radiation means radiant energy	nongold
+90	electricity is made of moving charges; moving charged particles	nongold
+91	UV light is a kind of light	nongold
+92	a molecule is made of atoms chemically combined; bonded	nongold
+93	electrical devices are used for industrial purposes; household purposes by humans	nongold
+94	causing means influencing	nongold
+95	to be used for something means to be required by that something	nongold
+96	material means substance	nongold
+97	electromagnetic radiation is arranged in the electromagnetic spectrum by wavelength; frequency	nongold
+98	a container contains objects; material; substances	nongold
+99	producing is similar to releasing	nongold

@@ -1,0 +1,102 @@
+Question	The prairie grass ecosystem once had a deep layer of topsoil which was protected by the grasses that covered it. Removal of these grasses for farmland is causing the soil to be eroded mainly by	question
+Answer	wind and rain.	answer
+0	topsoil is a kind of soil	nongold
+1	remove means decrease	nongold
+2	soil erosion means soil loss through wind;water; animals	gold
+3	covering something is a kind of protection	nongold
+4	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+5	wind and rain; storms cause erosion	nongold
+6	erosion of soil has a  negative impact on the environment; soil quality	nongold
+7	wind causes erosion	nongold
+8	eliminate means remove	nongold
+9	grass is a kind of green plant	gold
+10	rain causes erosion	nongold
+11	soil usually has layers	nongold
+12	removing dead organisms from an ecosystem causes available nutrients to be removed from that ecosystem	nongold
+13	protecting something means preventing harm to that something	nongold
+14	erosion usually causes harm to the environment	nongold
+15	crops; farming cause nutrients in the soil to decrease	nongold
+16	grass roots reduce soil erosion	nongold
+17	loss is similar to removal	gold
+18	an ecosystem is a kind of habitat	nongold
+19	an ecosystem contains a large community of; large numbers of living organisms	nongold
+20	an environment is similar to an ecosystem	nongold
+21	when deforestation increases , soil erosion increases	nongold
+22	soil loss causes an area decrease in size	nongold
+23	soil is usually part of an environment	nongold
+24	overgrazing increases soil erosion	nongold
+25	weathering; erosion usually occurs over a period of many years	nongold
+26	erosion is a kind of change	nongold
+27	soil erosion is a kind of event	nongold
+28	erosion sometimes decreases the amount of nutrients in soil	nongold
+29	an environment means an area	nongold
+30	a grassland is a kind of environment	nongold
+31	weathering is a kind of erosion	nongold
+32	soil erosion is a kind of slow; natural process	nongold
+33	organisms are a part of an environment	nongold
+34	soil contains nutrients for plants	nongold
+35	no-till farming reduces soil erosion	nongold
+36	protecting nature has a positive impact on the environment	nongold
+37	harming something has a  negative impact on; effect on that something	nongold
+38	erosion is a kind of process	nongold
+39	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+40	plants are a part of the environment	nongold
+41	get rid of means eliminate; remove	nongold
+42	protection means resistance to damage increases	nongold
+43	vegetation means plants	nongold
+44	to protect means to defend	nongold
+45	the top layer of soil contains the most nutrients	nongold
+46	crop rotation renews; protects soil	nongold
+47	erosion causes deposition	nongold
+48	to lower means to decrease	nongold
+49	to reduce means to decrease	nongold
+50	a plant is a kind of organism	nongold
+51	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+52	an ecosystem contains nonliving things	nongold
+53	An example of protecting the environment is creating protected areas	nongold
+54	if a habitat is removed then that habitat is destroyed	nongold
+55	clearing is similar to removing	nongold
+56	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+57	farming changes the environment	nongold
+58	soil is formed by weathering	nongold
+59	high quality; rich; good soil has a high number of nutrients; amount of nitrogen	nongold
+60	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+61	weeds use up nutrients	nongold
+62	mostly means being the most	nongold
+63	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+64	something hard; something strong can be used for protection	nongold
+65	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+66	erosion is a kind of destructive force	nongold
+67	runoff is when cropland water enters; runs off into bodies of water	nongold
+68	a plant requires soil for survival; to grow	nongold
+69	destroying animal habitats has a negative  impact on an ecosystem	nongold
+70	cropland is used for farming by humans	nongold
+71	farming decreases animal habitats	nongold
+72	an organism is a living thing	nongold
+73	negative impact is the opposite of positive impact	nongold
+74	weathering; mechanical weathering means breaking down rocks; surface materials from a larger whole  into smaller pieces by weather	nongold
+75	roots are a part of a plant; tree	nongold
+76	soil is made of very small rocks; minerals	nongold
+77	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+78	destroying animal habitats changes an ecosystem	nongold
+79	to be a source of something means to cause that something	nongold
+80	a decrease is a kind of change	nongold
+81	erosion; storms can cause a landslide	nongold
+82	soil contains water; humus; weathered rocks; organic matter	nongold
+83	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+84	damage has a negative impact on a thing	nongold
+85	damage means harm	nongold
+86	farming is when a human plants crops for food	nongold
+87	no longer means used to be	nongold
+88	a plant's  roots slowly break down rocks as the roots grow	nongold
+89	crops grow in soil	nongold
+90	low is similar to decrease	nongold
+91	In the erosion process roots of plants are an inhibitor	gold
+92	an increase is a kind of change	nongold
+93	an environment is a kind of place	nongold
+94	rain is a kind of water	gold
+95	protecting is a kind of function	nongold
+96	a farmer is a kind of human	nongold
+97	to change means to cause a change	nongold
+98	soil is a kind of nonliving thing	nongold
+99	a farmer farms crops; plants for  food	nongold

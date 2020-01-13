@@ -1,0 +1,102 @@
+0	Scientists go to a lake once a month to take samples of water. They are most likely studying the	question
+1	quality of the water.	answer
+2	taking samples of water is used for studying the quality of water	gold
+3	a lake is a kind of body of water	nongold
+4	monthly means once per month	nongold
+5	scientists make observations	nongold
+6	month is a kind of period of time	nongold
+7	to study means to examine	nongold
+8	water is a kind of liquid at room temperature	nongold
+9	studying is similar to investigating	nongold
+10	a body of water is a kind of environment	nongold
+11	a scientist is a kind of human	nongold
+12	sample is similar to small amount of substance; matter	nongold
+13	studying is similar to observing	nongold
+14	examining sometimes requires measuring	nongold
+15	water is a kind of substance	nongold
+16	a body of water contains water	nongold
+17	months are a kind of unit for measuring time	nongold
+18	often is similar to likely	nongold
+19	a body of water is a source of water	nongold
+20	a pond is a kind of body of water	nongold
+21	experimentation requires measuring	nongold
+22	studying  something usually requires seeing that something	nongold
+23	observations; data are a part of the results of an experiment	nongold
+24	high-quality means positive	nongold
+25	water is a part of an environment	nongold
+26	water is a kind of matter	nongold
+27	a pond is a kind of environment	nongold
+28	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+29	to lower means to decrease	nongold
+30	an increase is the opposite of a decrease	nongold
+31	water is a kind of object	nongold
+32	a source of something emits; produces; generates; provides that something	nongold
+33	place is synonymous with location	nongold
+34	high is similar to increase	nongold
+35	examining is a kind of process	nongold
+36	a human is a kind of animal	nongold
+37	animals; living things require water for survival	nongold
+38	low is similar to decrease	nongold
+39	an animal is a kind of organism	nongold
+40	determining often requires measuring; observing	nongold
+41	once means one time	nongold
+42	An example of collecting data is measuring	nongold
+43	taking in something means receiving; absorbing; getting something	nongold
+44	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+45	investigating sometimes requires measuring	nongold
+46	researcher is a kind of scientist	nongold
+47	a stream is a kind of body of water	nongold
+48	aquatic animals; plants live in bodies of water	nongold
+49	a pond is smaller; shallower than a lake	nongold
+50	organisms are a part of an environment	nongold
+51	an increase is a kind of change	nongold
+52	annual means once per year	nongold
+53	greatest means largest; highest; most amount of something	nongold
+54	groundwater is a kind of water	nongold
+55	less is similar to decrease	nongold
+56	something that contains water is similar to a body of water	nongold
+57	a river is a kind of flowing body of water	nongold
+58	can be means able to be	nongold
+59	negative impact is the opposite of positive impact	nongold
+60	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+61	affected means changed	nongold
+62	impact means effect	nongold
+63	an organism is a living thing	nongold
+64	the temperature; pH of water has an impact on the health of that water	nongold
+65	to impact means to affect	nongold
+66	experiment is synonymous with test	nongold
+67	place means area	nongold
+68	curiosity is a kind of human quality	nongold
+69	bodies of water are located on Earth's surface	nongold
+70	inspect; observe means examine	nongold
+71	freshwater is a kind of water	nongold
+72	harming something has a  negative impact on; effect on that something	nongold
+73	June is a kind of month	nongold
+74	to be used for something means to be required by that something	nongold
+75	a research team is made of humans	nongold
+76	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+77	if something is required for a process then that something positively impacts that process	nongold
+78	measuring is a kind of observing	nongold
+79	usually a body of water is located outside	nongold
+80	usually means most of the time	nongold
+81	an animal is a kind of living thing	nongold
+82	person is synonymous with human	nongold
+83	a person is a kind of animal	nongold
+84	an event is a kind of action	nongold
+85	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+86	an environment is a kind of place	nongold
+87	a decrease is a kind of change	nongold
+88	if something required by something else is in a place then that something else may be in that place	nongold
+89	events occur at a specific place; at a specific time; with a specific frequency	nongold
+90	a surface is a part of an object	nongold
+91	the body is a part of an organism	nongold
+92	a state is a kind of place	nongold
+93	lower means less	nongold
+94	a concern; a problem is a possible negative impact	nongold
+95	quantity means amount	nongold
+96	an ocean is a kind of body of water	nongold
+97	edge of a pond is a kind of surface	nongold
+98	variable means able to change	nongold
+99	classifying is a kind of science process	nongold
+100	ground water is a kind of water	nongold
+101	to reduce means to decrease	nongold

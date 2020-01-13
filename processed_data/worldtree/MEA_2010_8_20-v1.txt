@@ -1,0 +1,102 @@
+Question	What is the most likely outcome of the Moon moving away from Earth?	question
+Answer	Earth's tides decrease in size.	answer
+0	as the gravitational pull of the moon on the Earth decreases , the size of the tides on Earth decrease	gold
+1	the gravitational pull of the Moon on Earth's oceans causes the tides	gold
+2	to move away means to increase distance	gold
+3	to reduce means to decrease	nongold
+4	the gravitational pull of the Sun on Earth's oceans causes the tides	nongold
+5	to cause means to result in	gold
+6	as distance from a source of something increases , that something will decrease	nongold
+7	an increase is the opposite of a decrease	gold
+8	result means outcome	gold
+9	moving away from the source increases the distance	nongold
+10	as gravitational pull of the moon decreases , the ocean tides will be lower	nongold
+11	Earth is a kind of planet	gold
+12	tidal means related to tides	nongold
+13	a moon is a kind of celestial object; body	nongold
+14	a tide is a kind of natural event	nongold
+15	to impact means to affect	nongold
+16	an increase is a kind of change	nongold
+17	as distance from an object decreases , the the pull of gravity on that object increases	gold
+18	a decrease is a kind of change	nongold
+19	less is similar to decrease	nongold
+20	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+21	larger means greater; higher; more; increase in size	nongold
+22	the moon orbits the Earth	nongold
+23	to lower means to decrease	nongold
+24	to slow; to slow down decreases speed	nongold
+25	low is similar to decrease	nongold
+26	a planet's  moon is smaller than that planet	nongold
+27	to add means to increase	nongold
+28	the Moon is Earth's moon	nongold
+29	the Moon is closer to the Earth than the Sun	nongold
+30	motion is when moves an object; something to a direction	nongold
+31	moving is similar to travelling	nongold
+32	a motion is a kind of event; action	nongold
+33	a negative impact is a kind of consequence; risk	nongold
+34	high is similar to increase	nongold
+35	negative impact is the opposite of positive impact	nongold
+36	the tide is when ocean levels periodically rise; fall	nongold
+37	increase means more	nongold
+38	moons are large; solid; spherical	nongold
+39	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+40	smaller means less; lower in size	nongold
+41	an event is a kind of action	nongold
+42	near; close is the opposite of far; away	nongold
+43	as the cause of something decreases , that something will decrease	nongold
+44	closer means lower; less; a decrease in distance	nongold
+45	motion; movement means moving; to move	nongold
+46	low tide is a stage in the tide cycle process	nongold
+47	impact means effect	nongold
+48	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+49	a planet is a kind of celestial object; body	gold
+50	harming something has a  negative impact on; effect on that something	nongold
+51	decreasing is similar to becoming smaller	nongold
+52	movements of celestial bodies are a kind of event	nongold
+53	something that happens is a kind of event	nongold
+54	change is a kind of impact	nongold
+55	spring tides occur during a new moon	nongold
+56	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+57	to cause means to have an effect	nongold
+58	ocean tides are a kind of phenomenon	nongold
+59	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+60	movement is a kind of change	nongold
+61	causing is a kind of affecting	nongold
+62	a factor impacts something	nongold
+63	high tide is a stage in the tide cycle process	nongold
+64	toward is the opposite of away	nongold
+65	as distance from an object decreases , that object will appear larger	nongold
+66	if something returns to a place then that something increases in that place	nongold
+67	to change means to have an effect	nongold
+68	away is a kind of direction	nongold
+69	as a person in the northern hemisphere moves south , distance from the equator will decrease	nongold
+70	Earth's surface is made of rock	nongold
+71	far is the opposite of close	nongold
+72	furthest; farthest means greatest; most; highest in distance	nongold
+73	a change is a kind of event	nongold
+74	spring tides occur during a full moon	nongold
+75	to change means to cause a change	nongold
+76	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+77	the Moon has less water; air than Earth	nongold
+78	travel means to move	nongold
+79	shrinking decreases size	nongold
+80	if something emits something else then that something increases the amount of that something else	nongold
+81	far means great in distance	nongold
+82	if something releases something else then that something else decreases in that something	nongold
+83	as force exerted on an object increases , distance travelled will increase	nongold
+84	ocean currents moves away most heat from Earth's equator	nongold
+85	if an object erodes , then the amount of matter in that object will decrease	nongold
+86	the moon is the celestial object that is closest to the  Earth	nongold
+87	if there is a loss of something then that something decreases	nongold
+88	Earth is a planet that is closer to the  Sun than Jupiter	nongold
+89	waves are made of moving water	nongold
+90	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+91	affected means changed	nongold
+92	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+93	the tide cycle occurs regularly twice per day	nongold
+94	to be formed by is to be the result of	nongold
+95	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+96	solution is similar to a positive impact	nongold
+97	heat means temperature increases	nongold
+98	an part of an object is smaller than the entire object	nongold
+99	growth means size;number;value;strength increases	nongold

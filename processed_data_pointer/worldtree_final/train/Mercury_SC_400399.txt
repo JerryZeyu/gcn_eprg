@@ -1,0 +1,102 @@
+0	texture is a kind of physical property	nongold
+1	an object is made of its parts	nongold
+2	thickness is  a measure of how thick an object  is	nongold
+3	conductivity is a property of a material; substance	nongold
+4	felt is high in roughness	nongold
+5	acoustic signal is a kind of sound wave	nongold
+6	inhibitor means something that prevents something from happening	nongold
+7	oscillation means physical vibration	nongold
+8	particles in objects are a kind of matter	nongold
+9	a structure of something is synonymous with a part of that something	nongold
+10	to keep something occurring means to cause that something to occur	nongold
+11	the floor is at the bottom of a room	nongold
+12	material means substance	nongold
+13	frequency is a property of a wave; a particel of light; an event	nongold
+14	echo is when sound reflects off of a surface	gold
+15	answering questions requires information	nongold
+16	loud means high in sound energy;sound intensity	nongold
+17	smooth is a kind of texture	nongold
+18	a human is a kind of animal	nongold
+19	a covering is a kind of object	nongold
+20	a source of something emits; produces; generates; provides that something	nongold
+21	hard objects can vibrate more than soft objects	nongold
+22	louder means higher; greater in volume	nongold
+23	if the frequency  of a sound wave is too high , then human cannot hear  the sound	nongold
+24	sound can be used for communication by animals	nongold
+25	sound travels fastest through solid	nongold
+26	reflecting light; sound is the opposite of absorbing light; sound	gold
+27	a surface is a kind of object	nongold
+28	sound waves means sound energy	nongold
+29	an part of an object is smaller than the entire object	nongold
+30	carpet	answer
+31	a person speaking is a source of sound	nongold
+32	reflection is when particles bounce off a surface	nongold
+33	distorting is a kind of affecting	nongold
+34	can be means able to be	nongold
+35	carpet has a rough surface	nongold
+36	to try means to make an effort	nongold
+37	a part of a living thing is a natural structure	nongold
+38	when two objects are touched; are contacted; move against each other , sound is produced	nongold
+39	objects are made of materials; substances; matter	nongold
+40	intense sound energy can move objects	nongold
+41	sound requires matter to travel	nongold
+42	materials are made of matter	nongold
+43	texture means how an object feels	nongold
+44	high is similar to increase	nongold
+45	sound is produced when mechanical energy is transformed into sound energy	nongold
+46	an object has properties	nongold
+47	speaker converts electrical energy; electricity into vibrations; sound energy	nongold
+48	the floor is a kind of object	nongold
+49	Which of these materials on the walls of a room would work best to keep sound from making an echo?	question
+50	a hum is a kind of sound	nongold
+51	matter; molecules vibrating can cause sound	nongold
+52	when sound reaches the ear , that sound can be heard	nongold
+53	when a sound is produced inside of a room , there is sometimes an echo after the sound	nongold
+54	sound wave is a kind of mechanical wave	nongold
+55	hearing is used for sensing sound by animals	nongold
+56	a room is a kind of container	nongold
+57	structure is a property of an object; a material; a substance	nongold
+58	volume means the loudness of a sound	nongold
+59	a wall is a kind of surface	nongold
+60	to keep something from happening means to prevent that something	nongold
+61	to cause means to make	nongold
+62	a living thing is a kind of object	nongold
+63	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+64	to keep a process or event happening is similar to causing that process or event to happen	nongold
+65	if an object is made of a material then that object has the properties of that material	nongold
+66	if sound is absorbed then that sound can not be heard	nongold
+67	amplitude is  a measure of the loudness of the sound wave	nongold
+68	carpet absorbs sound	gold
+69	carpet is a kind of material	gold
+70	a wall is a kind of object	nongold
+71	low means down	nongold
+72	high-frequency sound waves have low; short wavelengths	nongold
+73	sound is a kind of air vibration	nongold
+74	if something is required for a process then keeping that something from reaching that process can stop that process	nongold
+75	vibration is a kind of motion	nongold
+76	ground means floor	nongold
+77	sound means sound energy	nongold
+78	a vibration is similar to a wave	nongold
+79	substances are made of matter	nongold
+80	vibrating matter can produce sound	nongold
+81	a room is a kind of object	nongold
+82	echolocation is when some animals detect objects by hearing echoes by emitting sound	nongold
+83	a surface is a part of an object	nongold
+84	sound is a kind of sound energy	nongold
+85	hearing is a kind of sense	nongold
+86	a surface is a part of a material	gold
+87	best means most positive	nongold
+88	noise means sound	nongold
+89	a particle is a kind of object	nongold
+90	vibrations are a source of sound	nongold
+91	sound wave is similar to sound	nongold
+92	an echo is a kind of sound	nongold
+93	musical instruments make sound when they are played	nongold
+94	a door is a kind of object	nongold
+95	sound energy is transferred by vibrational waves	nongold
+96	a wave is formed by the vibration of the source spreading around from the source	nongold
+97	an animal is a kind of living thing	nongold
+98	a musical instrument is a kind of object	nongold
+99	room contains walls	nongold
+100	human voice is a kind of sound	nongold
+101	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold

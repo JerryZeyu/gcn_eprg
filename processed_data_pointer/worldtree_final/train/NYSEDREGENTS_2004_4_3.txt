@@ -1,0 +1,102 @@
+0	cooling;colder means removing;reducing;decreasing heat;temperature	gold
+1	state of matter means physical state	nongold
+2	a liquid is a kind of fluid	nongold
+3	a kind of something is an example of that something	nongold
+4	something in a cold place becomes cold	nongold
+5	thawing is similar to melting	nongold
+6	ice crystals means  ice	nongold
+7	ability to undergo a phase change is a property of a substance; material	nongold
+8	water is a kind of liquid at room temperature	gold
+9	water expanding when it freezes is a physical property of water	nongold
+10	mass has no impact on boiling; melting; freezing point	nongold
+11	water is a kind of substance	nongold
+12	water is a kind of matter	nongold
+13	a metal is usually a solid at room temperature	nongold
+14	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+15	solution is a kind of liquid	nongold
+16	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+17	substances are made of matter	nongold
+18	cooler means colder	nongold
+19	heat means temperature increases	nongold
+20	to change means to cause a change	nongold
+21	freezing is a kind of phase change	nongold
+22	frozen means solid	nongold
+23	freezing means cold temperatures	nongold
+24	state means form	nongold
+25	volume has no impact on boiling; melting; freezing point	nongold
+26	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+27	a body of water contains water	nongold
+28	Matter in the liquid phase has variable shape	nongold
+29	ice is cold in temperature	nongold
+30	liquid changing to a solid	answer
+31	if liquid is boiling then that liquid is hot	nongold
+32	materials are made of matter	nongold
+33	becoming is similar to changing	nongold
+34	boiling is when liquids are heated above their boiling point	nongold
+35	milk is a kind of liquid at room temperature	nongold
+36	evaporating is a kind of phase change	nongold
+37	ice is a kind of solid	nongold
+38	a phase change is a kind of physical change	nongold
+39	temperature is a measure of heat energy	nongold
+40	freezing point is similar to melting point	nongold
+41	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+42	heat means heat energy	nongold
+43	cooling means temperature decreases	nongold
+44	frost is a kind of solid water	nongold
+45	phase means state	nongold
+46	freezing causes a solid to form	nongold
+47	cool means cold	nongold
+48	melting point means temperature at which a solid melts; above which a solid melts	nongold
+49	adding salt to a solid decreases the freezing point of that solid	nongold
+50	adding heat means increasing temperature	nongold
+51	liquid water cooling causes that liquid water to freeze	nongold
+52	snow is a kind of ice	nongold
+53	to reduce means to decrease	nongold
+54	to convert means to change	nongold
+55	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+56	variable means able to change	nongold
+57	melting is when solids are heated above their melting point	nongold
+58	colder; cooler means lower in temperature	nongold
+59	an increase is a kind of change	nongold
+60	a solution is formed by one substance being dissolved in another substance	nongold
+61	melting is a kind of phase change	nongold
+62	temperature drop means become colder	nongold
+63	a decrease is a kind of change	nongold
+64	high is similar to increase	nongold
+65	vapor is synonymous with gas	nongold
+66	to turn means to change	nongold
+67	cold means low in temperature	nongold
+68	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+69	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+70	to change into means to form	nongold
+71	Water freezing is an example of a	question
+72	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+73	gas is a kind of state of matter	nongold
+74	gas is a kind of substance	nongold
+75	when water freezes , that water expands	nongold
+76	reducing is a kind of change	nongold
+77	moisture means liquid; liquid water	nongold
+78	boiling is a kind of phase change	nongold
+79	a change is a kind of event	nongold
+80	a solid is a kind of substance	nongold
+81	a solution is made of one substance dissolved in another substance	nongold
+82	Matter in the solid phase has definite shape	nongold
+83	ice is a kind of water phase	nongold
+84	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+85	boiling means the volume of a liquid decreases	nongold
+86	heat energy can change the state of matter	nongold
+87	solid is a kind of state of matter	nongold
+88	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold
+89	Matter in the solid phase has definite volume	nongold
+90	liquid is a kind of state of matter	nongold
+91	ice is colder than water in temperature	nongold
+92	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+93	to lower means to decrease	nongold
+94	An example of moisture is water vapor in the atmosphere	nongold
+95	glass is a kind of solid at room temperature	nongold
+96	state of matter at room temperature is a kind of physical property	nongold
+97	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+98	a liquid is a kind of substance	gold
+99	physical state means state of matter	nongold
+100	to add means to increase	nongold
+101	temperature changing can cause phase changes	nongold

@@ -1,0 +1,102 @@
+Question	When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?	question
+Answer	Closing an electric circuit has produced light.	answer
+0	a digital clock produces light to display the time	gold
+1	closing an electric circuit causes an electrical device to function	gold
+2	a battery-operated device is a kind of electrical device	gold
+3	pushing a button sometimes completes a circuit	nongold
+4	a watch;clock;stopwatch is used for measuring time	gold
+5	a button is similar to a switch	gold
+6	a source of something emits; produces; generates; provides that something	nongold
+7	producing is a kind of process	gold
+8	to illuminate means to light up	gold
+9	a light bulb generates visible light when it is turned on	nongold
+10	battery-powered is similar to battery-operated	nongold
+11	electricity means electrical energy	nongold
+12	emit means produce	nongold
+13	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+14	generate means produce	nongold
+15	a complete electrical circuit is a source of  electrical energy	nongold
+16	a battery is a source of electrical energy; electricity	nongold
+17	when a switch in a simple series circuit is closed , electricity will flow through the circuit	gold
+18	a light bulb requires electrical energy to produce light	nongold
+19	a circuit is a kind of electrical component	nongold
+20	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+21	light means light energy	nongold
+22	a  battery  is a kind of electrical power source	nongold
+23	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+24	converting is similar to producing	nongold
+25	make means produce	nongold
+26	a battery is a kind of object	nongold
+27	a part of a process means a stage in a process	nongold
+28	a device is a kind of object	nongold
+29	flipping a switch completes an electrical circuit	nongold
+30	electric devices require electrical energy to function	nongold
+31	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+32	visible light is a kind of  light	nongold
+33	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+34	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+35	a light bulb is a kind of electrical device	nongold
+36	flipping; pushing a switch means using; activating that switch	nongold
+37	the function of something is what that something  is used to do	gold
+38	to produce means to provide	nongold
+39	a machine is a kind of  device	nongold
+40	products are formed; are produced; are created	nongold
+41	a machine is a kind of object	nongold
+42	electricity is used as an energy source by electrical devices	nongold
+43	pushing is a kind of motion	nongold
+44	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+45	take place means happen	nongold
+46	batteries can be used to power electrical devices	nongold
+47	a cycle is a kind of process	nongold
+48	a process is a kind of event	nongold
+49	converting is similar to generating	nongold
+50	an event is a kind of action	nongold
+51	if something causes an increase in something else then that something produces that something else	nongold
+52	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+53	a step in a process means a stage in a process	nongold
+54	a producer is a kind of living thing	nongold
+55	a closed circuit has continuous path	nongold
+56	if something generates energy for something else then that something powers that something else	nongold
+57	a human is a kind of animal	nongold
+58	causing is similar to generating	nongold
+59	instrument means device	nongold
+60	to be formed by is similar to being produced by	nongold
+61	a laser is a kind of device for producing light	nongold
+62	can be means able to be	nongold
+63	a laser is used for producing light	nongold
+64	light is a kind of wave	nongold
+65	a motion is a kind of event; action	nongold
+66	producing is a kind of function	nongold
+67	if something is powered by something else then that something requires a source of that something else	nongold
+68	green plants are a kind of producer	nongold
+69	to shine means to emit light	nongold
+70	to produce means to create	nongold
+71	events occur at a specific place; at a specific time; with a specific frequency	nongold
+72	electricity can  not flow through an open circuit	nongold
+73	if something causes a process then that something is required for that process	nongold
+74	sunlight is a kind of light	nongold
+75	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+76	an electric motor converts electrical energy into mechanical energy	nongold
+77	electrical devices are used for industrial purposes; household purposes by humans	nongold
+78	a light bulb is a part of a  lamp	nongold
+79	producing is similar to causing	nongold
+80	an electric motor is a kind of electrical device	nongold
+81	creating a simple circuit requires a wire; battery	nongold
+82	operating electrical appliances requires electricity	nongold
+83	radiation is a kind of process	nongold
+84	device means tool	nongold
+85	UV light is a kind of light	nongold
+86	something is used for that something's purpose	nongold
+87	conduction is a kind of process	nongold
+88	to contribute is similar to produce	nongold
+89	a flashlight converts electrical energy; electricity into light energy	nongold
+90	change is a kind of process	nongold
+91	a cycle happens; occurs repeatedly	nongold
+92	closing is similar to completing	nongold
+93	objects are made of materials; substances; matter	nongold
+94	light is a kind of electromagnetic radiation	nongold
+95	refraction is a kind of process	nongold
+96	an object; material; substance comes from that object or material's source	nongold
+97	if something performs a task then that task is that something's function	nongold
+98	seconds are used to measure time	nongold
+99	Tuesday is a kind of  time	nongold

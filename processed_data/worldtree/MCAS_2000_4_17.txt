@@ -1,0 +1,102 @@
+Question	Which is an example of a human-made product?	question
+Answer	cake	answer
+0	a cake is a kind of baked product	gold
+1	a dessert is a kind of food	nongold
+2	a kind of something is an example of that something	gold
+3	baking is when a human makes food by adding heat	gold
+4	a human is a kind of animal	nongold
+5	a product is a kind of object	nongold
+6	make means produce	nongold
+7	provide is similar to give; make	nongold
+8	food is a kind of substance	nongold
+9	providing something means making;delivering something	nongold
+10	chocolate  is a kind of food	nongold
+11	human is a kind of organism	nongold
+12	a producer is a kind of living thing	nongold
+13	candy is a kind of dessert	nongold
+14	food is a kind of object	nongold
+15	products are formed; are produced; are created	nongold
+16	dough is a kind of food	nongold
+17	baking is similar to cooking	nongold
+18	bread is a kind of food	nongold
+19	if an object is made of a material then that object has the properties of that material	nongold
+20	material means substance	nongold
+21	production is similar to making	nongold
+22	to create means to make	nongold
+23	manufacture means make	nongold
+24	a piece is a part of a whole	nongold
+25	an animal is a kind of consumer	nongold
+26	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+27	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+28	person is synonymous with human	nongold
+29	an animal is a kind of organism	nongold
+30	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+31	answering questions requires information	nongold
+32	can be means able to be	nongold
+33	a source of something emits; produces; generates; provides that something	nongold
+34	to produce means to create	nongold
+35	a producer produces its own food	nongold
+36	yogurt is a kind of food	nongold
+37	creating means making	nongold
+38	a living thing is a kind of object	nongold
+39	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+40	materials are used for making products by manufacturers	nongold
+41	made by humans; artificial is the opposite of natural	nongold
+42	objects are made of materials; substances; matter	nongold
+43	to cause means to make	nongold
+44	to produce means to provide	nongold
+45	composed of means made of	nongold
+46	product means result	nongold
+47	a consumer is a kind of organism	nongold
+48	an animal is a kind of living thing	nongold
+49	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+50	flour is a kind of substance	nongold
+51	an object; material; substance comes from that object or material's source	nongold
+52	to be formed by is similar to being produced by	nongold
+53	if something is given off of something , then something is the product of something	nongold
+54	a part of a process means a stage in a process	nongold
+55	give off is similar to make	nongold
+56	a piece of something is a kind of object	nongold
+57	dough is a kind of mixture of sugar, butter, flour and salt	nongold
+58	a food contains nutrients for living things	nongold
+59	manufacturing means making	nongold
+60	made up of means contains; made of	nongold
+61	a beverage is a kind of food	nongold
+62	cooking is a kind of process	nongold
+63	developing means making	nongold
+64	producing is a kind of process	nongold
+65	a type is synonymous with a kind	nongold
+66	form means kind	nongold
+67	high-quality means positive	nongold
+68	to assemble means to make	nongold
+69	to eat means to consume food	nongold
+70	emit means produce	nongold
+71	greatest means largest; highest; most amount of something	nongold
+72	an object is made of its parts	nongold
+73	a component means a part of	nongold
+74	an part of an object is smaller than the entire object	nongold
+75	converting is similar to producing	nongold
+76	to be made of something means to be formed of that something	nongold
+77	chocolate is a kind of solid usually	nongold
+78	affected means changed	nongold
+79	ice cream is a kind of solid	nongold
+80	butter is a kind of substance	nongold
+81	if an object is made of something then the parts of that object are made of that something	nongold
+82	desserts usually have less  nutrients than other foods	nongold
+83	made of is similar to contains	nongold
+84	fruit is a kind of food	nongold
+85	an organism is a living thing	nongold
+86	milk is a kind of food	nongold
+87	milk is a kind of food	nongold
+88	high is similar to increase	nongold
+89	to be used for something means to be required by that something	nongold
+90	to make means to form	nongold
+91	to contain means to have inside	nongold
+92	Louis Pasteur created; invented pasteurization	nongold
+93	producer is a kind of role in the food chain process; in an ecosystem	nongold
+94	spice is a kind of  food	nongold
+95	a mixture is a kind of substance	nongold
+96	a container contains objects; material; substances	nongold
+97	plastic is a kind of material made by humans	nongold
+98	synthesis means to make	nongold
+99	food is what an animal eats	nongold

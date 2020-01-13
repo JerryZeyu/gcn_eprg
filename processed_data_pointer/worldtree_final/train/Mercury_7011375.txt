@@ -1,0 +1,102 @@
+0	greatest means largest; highest; most amount of something	nongold
+1	calculation means measurement	nongold
+2	intensity of sunlight is similar to amount of sunlight	nongold
+3	a measurement is a kind of data	nongold
+4	amount is similar to number	nongold
+5	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+6	a star is usually larger than a planet	nongold
+7	yellow dwarf is a kind of small star	nongold
+8	a source of something increases the amount of that something	nongold
+9	how long something takes is a kind of measurement of time	nongold
+10	astronomy is a kind of branch of science	nongold
+11	if something is transported to something else then that something else receives that something	nongold
+12	a source of something emits; produces; generates; provides that something	nongold
+13	if an object is a source of something for something else then that something else can obtain that something from that object	nongold
+14	to be used for something means to be required by that something	nongold
+15	an increase is the opposite of a decrease	nongold
+16	a yellow dwarf is a kind of main-sequence star	nongold
+17	a component of something means a part of that something	nongold
+18	Proxima Centauri is a kind of star	nongold
+19	property is similar to measurement	nongold
+20	one can get something from a source	nongold
+21	period is similar to amount of time	nongold
+22	answering questions requires information	nongold
+23	apparent magnitude is a measure of the brightness of a celestial object; celestial body as observed on Earth	gold
+24	light is a kind of energy	nongold
+25	a process is a kind of event	nongold
+26	light means light energy	nongold
+27	a component means a part of	nongold
+28	if something releases something else then that something is the source of that something else	nongold
+29	form means kind	nongold
+30	the Sun transmits light to earth through space	nongold
+31	if something gains something from something else then that something else is a source of that something	nongold
+32	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+33	a star produces light and heat	nongold
+34	appear is similar to apparent	nongold
+35	receive means get	nongold
+36	astronomical body means celestial body	nongold
+37	the sun is a source of radiation; heat called sunlight	nongold
+38	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+39	a star is made of gases	nongold
+40	an object; material; substance comes from that object or material's source	nongold
+41	seconds are used to measure time	nongold
+42	if something requires something else then that something requires a source of that something else	nongold
+43	less is similar to decrease	nongold
+44	events occur at a specific place; at a specific time; with a specific frequency	nongold
+45	a white dwarf is a kind of star	nongold
+46	a living thing is a kind of object	nongold
+47	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+48	apparent magnitude.	answer
+49	receiving sunlight  is synonymous with absorbing sunlight	nongold
+50	variable means able to change	nongold
+51	can be means able to be	nongold
+52	where something  comes from is a source of that something	nongold
+53	astronomy is the study of celestial (objects, bodies)	nongold
+54	a star is a source of light; light energy through nuclear reactions	nongold
+55	classifying is when one sorts something by kind; type	nongold
+56	the sun is a source of light; light energy called sunlight	nongold
+57	stars make their own light	nongold
+58	obtain is similar to receive	nongold
+59	a star requires energy	nongold
+60	to give is similar to to cause	nongold
+61	stars are located light years apart from each other	nongold
+62	less means a reduced amount	nongold
+63	if something emits something else then that something increases the amount of that something else	nongold
+64	an increase is a kind of change	nongold
+65	a star is a kind of celestial object; celestial body	gold
+66	a type is synonymous with a kind	nongold
+67	a star is very hot in temperature	nongold
+68	a measure of time is a length of time	nongold
+69	if something is passed down to something else then that something else receives that something	nongold
+70	to receive sunlight means to absorb sunlight	nongold
+71	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+72	to send means to transfer	nongold
+73	if something transfers something else then that something is a source of something else	nongold
+74	when sunlight strikes something , that something receives sunlight	nongold
+75	dim means a small amount of light	nongold
+76	light is a kind of electromagnetic radiation	nongold
+77	if something comes from something else then that something else is a source of that something	nongold
+78	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+79	the Sun is the  star that is closest to Earth	nongold
+80	high is similar to increase	nongold
+81	stars are some of the hottest objects	nongold
+82	to measure means to calculate	nongold
+83	Earth is a kind of planet	gold
+84	the Sun is a kind of star	nongold
+85	the sun is a kind of yellow dwarf	nongold
+86	light is a kind of energy	nongold
+87	sunlight is a kind of light	nongold
+88	a ratio is a measure of  one value divided by another value	nongold
+89	quantity means amount	nongold
+90	an event is a kind of action	nongold
+91	increase means more	nongold
+92	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+93	main-sequences stars are a kind of star	nongold
+94	a motion is a kind of event; action	nongold
+95	greater means higher; more in value	nongold
+96	a star is formed by collapsing clouds of gas and dust	nongold
+97	taking in something means receiving; absorbing; getting something	nongold
+98	The measure of the amount of light received on Earth from a star is known as	question
+99	higher means greater; above in value; amount; number	nongold
+100	seconds are a kind of unit for measuring time	nongold
+101	astronomical unit is a measure of distance between Earth and the Sun	nongold

@@ -1,0 +1,102 @@
+Question	Offshore oil platforms affect ocean habitats. An ocean environment is most likely damaged by an offshore oil platform because	question
+Answer	leaking oil from the oil platform might pollute the water	answer
+0	offshore oil platforms might cause oil to leak into the water	gold
+1	water is when humans pollute the environment with pollutants	gold
+2	an ocean is a kind of habitat	nongold
+3	an environment means an area	nongold
+4	an ocean is a kind of body of water	nongold
+5	an environment is similar to an ecosystem	nongold
+6	polluting gasses are a kind of pollution	nongold
+7	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+8	harming something has a  negative impact on; effect on that something	gold
+9	oil is a kind of pollutant	gold
+10	pollution has a negative impact on the environment; air quality; water quality; society	gold
+11	damage has a negative impact on a thing	nongold
+12	damage means harm	gold
+13	a body of water is a kind of environment	gold
+14	pollution is a source of pollutants	nongold
+15	pollutants have a negative impact on the environment; air quality	nongold
+16	water is a part of an environment	nongold
+17	contaminated means polluted	nongold
+18	polluting means something poisonous is added to an environment	nongold
+19	an ecosystem is a kind of habitat	nongold
+20	living things in a polluted environment often contain pollutants	nongold
+21	an environment is a kind of place	nongold
+22	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+23	humans cause pollution	nongold
+24	impact means effect	gold
+25	an aquatic animal is a kind of animal	nongold
+26	habitat is similar to environment	nongold
+27	to impact means to affect	nongold
+28	destroying animal habitats has a negative  impact on an ecosystem	nongold
+29	negative impact is the opposite of positive impact	nongold
+30	organisms are a part of an environment	nongold
+31	a pollutant is a kind of substance	nongold
+32	destroying something causes harm to that something	nongold
+33	to lower means to decrease	nongold
+34	polluting is a kind of activity	nongold
+35	pollution is a kind of environmental problem	nongold
+36	to hurt means to harm	nongold
+37	oil is a kind of liquid	nongold
+38	oil is a kind of liquid	nongold
+39	oil is a kind of substance; matter	nongold
+40	affected means changed	nongold
+41	destroying animal habitats changes an ecosystem	nongold
+42	cleaner means less; lower in pollutants	nongold
+43	aquatic animal means water animal	nongold
+44	chemicals can be pollutants	nongold
+45	to reduce means to decrease	nongold
+46	adverse effect means negative impact	nongold
+47	oil is  insoluble in water	nongold
+48	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+49	aquatic animals; plants live in bodies of water	nongold
+50	causing is a kind of affecting	nongold
+51	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+52	a body of water contains water	nongold
+53	death means to die	nongold
+54	moisture means liquid; liquid water	nongold
+55	killing means harming something causing death	nongold
+56	an ecosystem contains a large community of; large numbers of living organisms	nongold
+57	to cause means to have an effect	nongold
+58	change is a kind of impact	nongold
+59	humans changing an environment sometimes causes that environment to be destroyed	nongold
+60	a negative impact is a kind of consequence; risk	nongold
+61	low is similar to decrease	nongold
+62	humans changing animal habitats usually causes harm to those animals	nongold
+63	sea means ocean	nongold
+64	if a habitat is removed then that habitat is destroyed	nongold
+65	an increase is a kind of change	nongold
+66	where something  comes from is a source of that something	nongold
+67	an animal requires a habitat for survival	nongold
+68	an animal is a kind of living thing	nongold
+69	if something comes from something else then that something else is a source of that something	nongold
+70	to change means to have an effect	nongold
+71	water is a kind of natural resource	nongold
+72	water is a kind of natural resource	nongold
+73	a source of something emits; produces; generates; provides that something	nongold
+74	if a habitat is destroyed then that habitat can not support animals	nongold
+75	if something affects a part of something else then that something affects that something else	nongold
+76	an increase is the opposite of a decrease	nongold
+77	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+78	helping something has a  positive impact on that something	nongold
+79	destruction means loss	nongold
+80	a body of water is a source of water	nongold
+81	an object; material; substance comes from that object or material's source	nongold
+82	something harmful can cause harm	nongold
+83	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+84	an ocean contains waves	nongold
+85	water is a kind of matter	nongold
+86	a decrease is a kind of change	nongold
+87	high is similar to increase	nongold
+88	an organism is a living thing	nongold
+89	a human is a kind of animal	nongold
+90	decreasing something negative has a positive impact on a thing	nongold
+91	poisoning an environment means poisoning the organisms in that environment	nongold
+92	water is a kind of substance	nongold
+93	an animal is a kind of organism	nongold
+94	objects in an environment are a part of that environment	nongold
+95	harming an animal species has a  negative impact on the population size of that species	nongold
+96	if something is made by something else then that something is affected by that something else	nongold
+97	an event is a kind of action	nongold
+98	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+99	vegetation means plants	nongold

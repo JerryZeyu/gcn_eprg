@@ -1,0 +1,102 @@
+0	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+1	warm air is  usually low  in air pressure	nongold
+2	air temperature is a kind of temperature	nongold
+3	greater means higher; more in value	nongold
+4	oxygen is a kind of gas at room temperature	nongold
+5	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+6	drop means decrease	nongold
+7	a source of something increases the amount of that something	nongold
+8	faster means increased rate	nongold
+9	variable means able to change	nongold
+10	gas is a kind of state of matter	nongold
+11	speed up means increase	nongold
+12	air pressure affects wind speed	nongold
+13	intense means extreme	nongold
+14	particles in objects are a kind of matter	nongold
+15	a thermometer is a kind of instrument for measuring temperature	nongold
+16	to travel up means to rise	nongold
+17	a device is a kind of object	nongold
+18	temperature  rise means temperature increase	nongold
+19	air mass means a volume of air	nongold
+20	pressure is a kind of condition	nongold
+21	if something emits something else then that something increases the amount of that something else	nongold
+22	vapor is synonymous with gas	nongold
+23	seconds are a kind of unit for measuring time	nongold
+24	high is similar to increase	nongold
+25	an part of an object is smaller than the entire object	nongold
+26	a meter is a kind of unit for measuring distance; measuring length	nongold
+27	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+28	low means down	nongold
+29	pressure increases.	answer
+30	inertia is a measure of resistance of a change in motion	nongold
+31	a motion is a kind of event; action	nongold
+32	liquid is a kind of state of matter	nongold
+33	to give off means to be the source of	nongold
+34	if something releases something else then that something else decreases in that something	nongold
+35	The reading on a barometer rises when the air	question
+36	a barometer is used to measure air pressure	gold
+37	seconds are used to measure time	nongold
+38	less is similar to decrease	nongold
+39	an anemometer is a kind of instrument for measuring wind speed	nongold
+40	increase means more	nongold
+41	to limit means to decrease	nongold
+42	rising is a kind of motion	nongold
+43	as an object descends into water , the pressure on that object will increase	nongold
+44	air is a kind of gas	nongold
+45	when gas compresses , the temperature of the gas increases	nongold
+46	temperature is a measure of heat energy	nongold
+47	releasing something into the atmosphere increases the amount of that something in the atmosphere	nongold
+48	gas flows from high pressure area to low pressure area	nongold
+49	an instrument is a piece of equipment	nongold
+50	low is similar to decrease	nongold
+51	instrument means device	nongold
+52	to reduce means to decrease	nongold
+53	heat means temperature increases	nongold
+54	lowering is a kind of motion	nongold
+55	a source of something emits; produces; generates; provides that something	nongold
+56	moisture means liquid; liquid water	nongold
+57	rate is similar to speed	nongold
+58	an increase is a kind of change	nongold
+59	a liquid is a kind of substance	nongold
+60	milliliters is a kind of unit for measuring volume of liquids	nongold
+61	buildup means increase	nongold
+62	gas is a kind of substance	nongold
+63	a barometer is a kind of instrument for measuring air pressure	nongold
+64	to raise means to add	nongold
+65	a graduated cylinder is a kind of instrument for measuring volume of liquids or objects	nongold
+66	a decrease is a kind of change	nongold
+67	as temperature decreases , the air pressure will decrease	nongold
+68	heat means heat energy	nongold
+69	rising means moving upward	nongold
+70	measuring requires reading a measurement	nongold
+71	speed is a measure of how fast an object is moving	nongold
+72	closer means lower; less; a decrease in distance	nongold
+73	water pressure is a kind of pressure	nongold
+74	raising is a kind of motion	nongold
+75	rising means elevation	nongold
+76	solid is a kind of state of matter	nongold
+77	a thermometer is used to measure temperature	nongold
+78	air pressure is a property of air; the atmosphere	nongold
+79	to slow; to slow down decreases speed	nongold
+80	an increase is the opposite of a decrease	nongold
+81	faster means an increase; higher in speed	nongold
+82	atmosphere means  air	nongold
+83	counter means reduce; stop; resist	nongold
+84	boiling means the volume of a liquid decreases	nongold
+85	to add means to increase	nongold
+86	extreme means very high in value	nongold
+87	higher means greater; above in value; amount; number	nongold
+88	the air is a kind of substance	nongold
+89	rising means height; altitude increases	nongold
+90	if a value decreases then that value may become; may reach zero; 0	nongold
+91	low means low in elevation; height; altitude	nongold
+92	material means substance	nongold
+93	constant means not changing	nongold
+94	as air pressure increases , the reading on a barometer will rise	gold
+95	gas is a kind of object	nongold
+96	as altitude increases , air pressure will decrease	nongold
+97	the atmosphere contains gases; liquids; solids	nongold
+98	a bar is a kind of object	nongold
+99	greatest means largest; highest; most amount of something	nongold
+100	air is a kind of matter	nongold
+101	to lower means to decrease	nongold

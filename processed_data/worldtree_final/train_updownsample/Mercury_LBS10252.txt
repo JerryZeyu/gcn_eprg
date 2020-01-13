@@ -1,0 +1,51 @@
+0	answering questions requires information	nongold
+1	if something does not contain something else then that something lacks that something else	nongold
+2	a kind of something is classified as that something	nongold
+3	a particle is a kind of object	nongold
+4	made up of means contains; made of	nongold
+5	ft, yd, mi	answer
+6	contain is similar to store	nongold
+7	All of the following contain metric units of measurement except	question
+8	All of the following contain metric units of measurement except	question
+9	a landform is a kind of object	nongold
+10	a type of something is a kind of property of that something	nongold
+11	material means substance	nongold
+12	measuring is used for describing an object	nongold
+13	a vehicle is a kind of object	nongold
+14	contains means located in	nongold
+15	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+16	particles in objects are a kind of matter	nongold
+17	if something is made of something; a material then that something contains that something; that material	nongold
+18	unit is similar to part	nongold
+19	including means containing	nongold
+20	a component means a part of	nongold
+21	a tree is a kind of matter	nongold
+22	a type is synonymous with a kind	nongold
+23	to carry something means to contain something	nongold
+24	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	gold
+25	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	gold
+26	state means form	nongold
+27	Earth contains water; ice; (steam, water vapor)	nongold
+28	All of the following contain metric units of measurement except	question
+29	a measure of time is a length of time	nongold
+30	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	gold
+31	substances are made of matter	nongold
+32	a living thing is a kind of object	nongold
+33	ft, yd, mi	answer
+34	All of the following contain metric units of measurement except	question
+35	composed of means made of	nongold
+36	miles are a kind of unit for measuring distance	nongold
+37	all the other means the rest of	nongold
+38	a human is a kind of animal	nongold
+39	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+40	measuring requires reading a measurement	nongold
+41	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+42	containing is similar to holding	nongold
+43	to contain something means to have that something	nongold
+44	to be filled with means to contain	nongold
+45	to be made of something means to be formed of that something	nongold
+46	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+47	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	gold
+48	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+49	ft, yd, mi	answer
+50	ft, yd, mi	answer

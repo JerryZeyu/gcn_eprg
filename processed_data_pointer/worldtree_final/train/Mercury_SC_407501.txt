@@ -1,0 +1,102 @@
+0	a body of water is a kind of environment	nongold
+1	a body of water is a kind of land feature	nongold
+2	oceans cover 70% of the surface of the earth	nongold
+3	an ocean is a kind of body of water	nongold
+4	an environment means an area	nongold
+5	volcanoes are often found under oceans	nongold
+6	ground means floor	nongold
+7	sea means ocean	nongold
+8	the surface of the Earth is made of 70% ocean	nongold
+9	a volcano is a kind of landform	nongold
+10	to cause the formation of means to form	nongold
+11	a coast is where land meets the edge of a body of water	nongold
+12	an environment is a kind of place	nongold
+13	land is a kind of environment	nongold
+14	a continent is a kind of large land mass	nongold
+15	to change into means to form	nongold
+16	to give off means to be the source of	nongold
+17	below means lower down	nongold
+18	the ocean   stores more heat than the continent	nongold
+19	colder; cooler means lower in temperature	nongold
+20	oceans regulate the temperature of nearby land	nongold
+21	producing is similar to releasing	nongold
+22	Bouvet Island (Norway) is located in the southern hemisphere	nongold
+23	a process is a kind of event	nongold
+24	a land feature is a kind of physical characteristic	nongold
+25	weathering; erosion usually occurs over a period of many years	nongold
+26	land is a kind of landform	nongold
+27	to be formed by is similar to being produced by	nongold
+28	a volcano changes the environment around it by covering the environment in ash	nongold
+29	a volcano is a kind of geological event	nongold
+30	a structure is a kind of feature	nongold
+31	an island is formed by lava being released; cooling on the ocean floor over time	gold
+32	a decrease is a kind of change	nongold
+33	a volcano is a source of magma; lava	nongold
+34	Earth's surface is made of rock	nongold
+35	aquatic animals; plants live in bodies of water	nongold
+36	a planet is a kind of place	nongold
+37	Navassa Island (US) is located in the northern hemisphere	nongold
+38	an island is a kind of landform	gold
+39	underwater means below water	nongold
+40	an increase is a kind of change	nongold
+41	to be made of something means to be formed of that something	nongold
+42	A volcano under the ocean slowly releases lava over time. As the lava is released, it cools and hardens on the ocean floor. Which feature will most likely form from the release and cooling of the lava on the ocean floor over time?	question
+43	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+44	high is similar to increase	nongold
+45	lava is a kind of matter	nongold
+46	under water means covered by water; in water	nongold
+47	a body of water contains water	nongold
+48	if something comes from something else then that something else is a source of that something	nongold
+49	the ocean transfers more heat than the continent	nongold
+50	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+51	oceans are located on Earth	nongold
+52	converting is similar to releasing	nongold
+53	to make means to form	nongold
+54	heat means heat energy	nongold
+55	a shore is the land found at the edge of a body of water	nongold
+56	to lower means to decrease	nongold
+57	if something exists on a surface then that surface contains that something	nongold
+58	new land can be formed by volcanoes erupting by lava cooling	nongold
+59	to add means to increase	nongold
+60	to emit means to release	nongold
+61	if something transfers something else then that something is a source of something else	nongold
+62	if something releases something else then that something else decreases in that something	nongold
+63	a whole is formed by its parts	nongold
+64	volcanoes are most common along tectonic plate boundaries	nongold
+65	a landform is a kind of place	nongold
+66	temperature is a measure of heat energy	nongold
+67	oceans contains most of  earth's water	nongold
+68	to create means to make	nongold
+69	an island	answer
+70	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+71	to form means to create	nongold
+72	oceans are unevenly heated	nongold
+73	where something  comes from is a source of that something	nongold
+74	produce is similar to release	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	seafloor spreading causes cooled magma to form on the edges of tectonic plates on Earth	nongold
+77	a source of something increases the amount of that something	nongold
+78	to be formed by is to be the result of	nongold
+79	if something returns to a place then that something increases in that place	nongold
+80	to change means to cause a change	nongold
+81	water level is similar to ocean level	nongold
+82	forming something is a kind of change	nongold
+83	if lava is on Earth's surface then that lava will cool	nongold
+84	a volcanic eruption is a kind of change	nongold
+85	an ocean contains waves	nongold
+86	oceans are the source of most of water vapor in the atmosphere	nongold
+87	upwelling is when the water from deep ocean; the ocean floor rises to the ocean's surface	nongold
+88	cooling means temperature decreases	nongold
+89	a mountain is a kind of land feature	nongold
+90	a landform is a kind of place	nongold
+91	increase means more	nongold
+92	an ocean is a kind of habitat	nongold
+93	to reduce means to decrease	nongold
+94	the floor is a kind of object	nongold
+95	landform means surface feature; physical feature; land feature	gold
+96	lava is found above the ground	nongold
+97	bodies of water are located on Earth's surface	nongold
+98	if something releases something else then that something is the source of that something else	nongold
+99	if something emits something else then that something increases the amount of that something else	nongold
+100	form means kind	nongold
+101	a volcanic eruption is a kind of quick process	nongold

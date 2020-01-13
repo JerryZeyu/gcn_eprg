@@ -1,0 +1,102 @@
+Question	People can help keep a forest a good place for birds to live by	question
+Answer	preventing too many trees from being cut down	answer
+0	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+1	protecting something means preventing harm to that something	gold
+2	helping something has a  positive impact on that something	nongold
+3	cutting down a forest means cutting down the trees in that forest	gold
+4	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+5	to help; to benefit means to be of use	nongold
+6	a forest is a kind of environment	gold
+7	person is synonymous with human	gold
+8	to keep something from happening means to prevent that something	nongold
+9	a bird is a kind of living thing	nongold
+10	a forest contains  lots of plants; trees	gold
+11	if a tree is cut down then that tree will die	nongold
+12	to inhibit means to prevent	nongold
+13	destroying a forest means cutting down the trees in that forest	nongold
+14	a forest is a kind of ecosystem	nongold
+15	removing a forest means cutting down a forest	gold
+16	avoiding is similar to preventing	nongold
+17	removing a forest means cutting down the trees in that forest	nongold
+18	woodland means forest	nongold
+19	a person is a kind of animal	nongold
+20	preventing something decreases the amount of that something	nongold
+21	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+22	some birds live in forests	gold
+23	people can plant trees	nongold
+24	to prevent means to make it not happen	nongold
+25	a tree is a kind of living thing	nongold
+26	clearing a forest means humans cutting down the trees	nongold
+27	a bird is a kind of animal	nongold
+28	good means positive	gold
+29	harming something has a  negative impact on; effect on that something	gold
+30	killing means harming something causing death	nongold
+31	to be used  for something means to help to do that something	nongold
+32	an animal is a kind of living thing	nongold
+33	to keep something occurring means to cause that something to occur	nongold
+34	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+35	to help means to aid	nongold
+36	saving an organism's life means preventing the death of that organism	nongold
+37	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+38	fire causes harm to trees; to forests; to living things	nongold
+39	logging is when humans cut down trees; forests for wood	gold
+40	a tree is a kind of plant	nongold
+41	too much is similar to increase	nongold
+42	to be good for means to have a positive impact on	nongold
+43	keeping means staying	nongold
+44	place is synonymous with location	nongold
+45	to keep a process or event happening is similar to causing that process or event to happen	nongold
+46	some animals live in forests	nongold
+47	forest is synonymous with wooded area	nongold
+48	if a living thing requires something then that something has a positive impact on that living thing	nongold
+49	to make something easier means to help	nongold
+50	place means area	nongold
+51	negative impact is the opposite of positive impact	gold
+52	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+53	a human is a kind of animal	nongold
+54	to enable is to help	nongold
+55	inhibitor means something that prevents something from happening	nongold
+56	best means most positive	nongold
+57	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+58	requiring is similar to needing help	nongold
+59	an animal is a kind of organism	nongold
+60	some birds are predators	nongold
+61	decreasing something negative has a positive impact on a thing	nongold
+62	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+63	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+64	decreasing something positive has a negative impact on a thing	nongold
+65	life means living things	nongold
+66	better means good	nongold
+67	a plant; living thing requires food for survival	nongold
+68	damage has a negative impact on a thing	nongold
+69	an environment is a kind of place	gold
+70	killing means changing a living thing from alive to dead by harming	gold
+71	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+72	a plant is a kind of living thing	nongold
+73	protecting nature has a positive impact on the environment	nongold
+74	many means high in number	nongold
+75	a tree is a kind of habitat	nongold
+76	roots are a part of a plant; tree	nongold
+77	to protect means to make safe	nongold
+78	destroying something causes harm to that something	nongold
+79	if something is required for a process then keeping that something from reaching that process can stop that process	nongold
+80	deforested area means an area where trees have been cut down	nongold
+81	planting trees is the opposite of cutting down trees	nongold
+82	a plant is a kind of organism	nongold
+83	damage means harm	nongold
+84	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+85	an animal; living thing requires nutrients for survival	nongold
+86	helping means to assist in a change	nongold
+87	saving money has a positive impact on a person; a company	nongold
+88	death means to die	gold
+89	something harmful can cause harm	nongold
+90	a living thing is a kind of object	nongold
+91	place means space	nongold
+92	a problem has a negative impact on a thing	nongold
+93	an organism is a living thing	nongold
+94	threatening the existence of an organism has a negative impact on that organism	nongold
+95	harming an organism can cause that organism to die	nongold
+96	human is a kind of organism	nongold
+97	survive means live	nongold
+98	survive means live	nongold
+99	a tree contains wood	nongold

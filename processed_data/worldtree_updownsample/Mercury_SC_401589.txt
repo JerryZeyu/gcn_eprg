@@ -1,0 +1,63 @@
+0	salad  is a kind of mixture	gold
+1	to disperse means to separate	nongold
+2	to decompose means to separate	nongold
+3	made of is similar to contains	nongold
+4	salad  is a kind of mixture	gold
+5	including means containing	nongold
+6	filtration can be used for separating a mixture of a liquid and a solid	nongold
+7	fruit salad is a kind of salad	gold
+8	if something is a part of something else then that something else contains that something	nongold
+9	a solution is a kind of mixture	nongold
+10	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	gold
+11	a dessert is a kind of food	nongold
+12	composed of means made of	nongold
+13	flowers are a source of fruit	nongold
+14	fruit salad is a kind of salad	gold
+15	a mixture of solids can be easily separated	gold
+16	fruit salad	answer
+17	Which mixture contains ingredients that can be easily separated?	question
+18	transferring a section of something requires separating the section of something	nongold
+19	a component means a part of	nongold
+20	food is a kind of object	nongold
+21	fruit is  usually a solid	gold
+22	to be made of something means to be formed of that something	nongold
+23	when two substances together form a compound then those substances cannot be physically separated	nongold
+24	a product is a kind of object	nongold
+25	to group means to separate	nongold
+26	nutrients are a kind of substance	nongold
+27	salad  is a kind of mixture	gold
+28	to be found in means to be contained in	nongold
+29	fruit salad	answer
+30	fruit is a kind of food	nongold
+31	answering questions requires information	nongold
+32	if something absorbs something else then that something will contain that something else	nongold
+33	fruit is  usually a solid	gold
+34	if something contains something , then something is able to provide something	nongold
+35	fruit salad often is made of  fruit	gold
+36	to contain means to have inside	nongold
+37	a mixture of solids can be easily separated	gold
+38	Which mixture contains ingredients that can be easily separated?	question
+39	a sifter is a kind of tool for separating mixtures	nongold
+40	fruit salad	answer
+41	material means substance	nongold
+42	purity is a property of substance and includes ordered values of pure substance; mixture	nongold
+43	Which mixture contains ingredients that can be easily separated?	question
+44	fruit is  usually a solid	gold
+45	decomposing is similar to separating	nongold
+46	if something is insoluble in something , then they will remain separated	nongold
+47	fruit salad often is made of  fruit	gold
+48	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	gold
+49	to split means to break down	nongold
+50	an object is an item	nongold
+51	to serve as means to be used as	nongold
+52	a mixture of solids can be easily separated	gold
+53	a container contains objects; material; substances	nongold
+54	a mixture is a kind of substance	nongold
+55	separate is similar to break down	nongold
+56	fruit salad	answer
+57	an object; material; substance comes from that object or material's source	nongold
+58	fruit salad is a kind of salad	gold
+59	Which mixture contains ingredients that can be easily separated?	question
+60	fruit salad often is made of  fruit	gold
+61	a fruit is a kind of object	nongold
+62	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	gold

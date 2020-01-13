@@ -1,0 +1,102 @@
+Question	Charisma has a goldfish she keeps in a tank. She planted several underwater plants in the bottom of the tank. How are the goldfish and the plants in the tank similar?	question
+Answer	Both are made up of cells.	answer
+0	a goldfish is a kind of fish	gold
+1	a fish is a kind of animal	gold
+2	a living thing is made of cells	gold
+3	a plant is made of plant cells	nongold
+4	to be made of something means to be formed of that something	nongold
+5	a fish is a kind of aquatic animal	nongold
+6	a plant cell is a kind of cell	nongold
+7	underwater means below water	nongold
+8	an animal cell is a kind of cell	nongold
+9	an aquatic animal is a kind of animal	nongold
+10	made up of means contains; made of	nongold
+11	to be made of means to consist of	nongold
+12	if a plant is planted; growing somewhere then that plant is located there	nongold
+13	if two things are made from the same objects; material then those two things are similar	gold
+14	if two objects are similar , then the two objects share properties	nongold
+15	both means two	nongold
+16	a plant is a kind of living thing	gold
+17	an animal is a kind of living thing	gold
+18	a plant is a kind of organism	nongold
+19	plant parts are made of plants	nongold
+20	a cell wall is the outermost structure of a plant cell	nongold
+21	composed of means made of	nongold
+22	made of is similar to contains	nongold
+23	an animal is a kind of organism	nongold
+24	a human cell is a kind of cell	nongold
+25	an organism is a living thing	nongold
+26	a container contains objects; material; substances	nongold
+27	the bottom is the lowest part of something	nongold
+28	a living thing is a kind of object	nongold
+29	the parts of something make up that something	nongold
+30	organs are made of different types of  cellular tissues	nongold
+31	made of is similar to is built from	nongold
+32	a structure of something is synonymous with a part of that something	nongold
+33	aquatic animal means water animal	nongold
+34	a cell is very small	nongold
+35	a fish lives in water	nongold
+36	different is the opposite of the same	nongold
+37	a human is a kind of animal	nongold
+38	all living things are made of cells according to the cell theory	nongold
+39	identical is the opposite of different	nongold
+40	same means identical; equal in value; amount; number; quantity	nongold
+41	contains means located in	nongold
+42	a plant cell is box-like in shape	nongold
+43	gold is a kind of solid	nongold
+44	in common is similar to the same	nongold
+45	an aquarium is a kind of ecosystem	nongold
+46	a single-celled organism is a kind of living thing	nongold
+47	cell division means cell reproduction	nongold
+48	a part of a living thing is a natural structure	nongold
+49	a plant; living thing requires nutrients to grow	nongold
+50	if an object is made of something then the parts of that object are made of that something	nongold
+51	the parent cell is the original cell	nongold
+52	room contains walls	nongold
+53	if something is copied then that something will be the same; similar; identical	nongold
+54	a seed is a part of a plant	nongold
+55	a cell membrane is a kind of cell structure	nongold
+56	a mammal is a kind of animal	nongold
+57	a cell is a kind of object	gold
+58	the  property of something is the same for the things of same kind	nongold
+59	the cell is the most basic structural unit of life	nongold
+60	to be submerged means to be placed under	nongold
+61	an object is made of its parts	nongold
+62	a fish is a kind of predator	nongold
+63	similar means in common	nongold
+64	system is similar to structure	nongold
+65	vegetation means plants	nongold
+66	not is similar to the opposite of	nongold
+67	a single-celled organism is a kind of organism	nongold
+68	opposite is a kind of different	nongold
+69	to be a combination of means to be made of	nongold
+70	a plant; living thing requires food for survival	nongold
+71	classifying is when one sorts something by kind; type	nongold
+72	a cell absorbs nutrients	nongold
+73	a fish is a kind of scaled animal	nongold
+74	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	nongold
+75	to contain means to have inside	nongold
+76	a whole is formed by its parts	nongold
+77	if two things perform the same function then those two things are similar	nongold
+78	aquatic animals; plants live in bodies of water	nongold
+79	if something changes , then that something is not the same	nongold
+80	single-celled organism is made of only one cell	nongold
+81	basic life functions occur in the cells of organisms	nongold
+82	a container is a kind of object	nongold
+83	a plant requires photosynthesis to grow; survive	nongold
+84	if something is made of something else then that something can be broken down into that something else	nongold
+85	a  cell wall provides support; protection; shape; structure for  a plant cell	nongold
+86	if something is made of something; a material then that something contains that something; that material	nongold
+87	dense means high in density	nongold
+88	gold is a kind of element	nongold
+89	to change means to become different	nongold
+90	a single-cell organism cannot specialize	nongold
+91	structure is a property of an object; a material; a substance	nongold
+92	fish eat insects	nongold
+93	stay the same means not changing	nongold
+94	gold is soft	nongold
+95	gold is a kind of metal	nongold
+96	can be means able to be	nongold
+97	if something is made of something else , then that something else will be the component of that something	nongold
+98	the cell membrane is a part of a cell	nongold
+99	keeping is similar to storing	nongold

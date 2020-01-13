@@ -1,0 +1,71 @@
+0	a landform is a kind of object	nongold
+1	a rabbit is a kind of animal	nongold
+2	an aquatic animal is a kind of animal	nongold
+3	an animal is a kind of living thing	gold
+4	rolling in mud can be used to avoid insect bites by an animal	gold
+5	a pool is a kind of body of water	nongold
+6	protecting something means preventing harm to that something	gold
+7	How do moose use a learned behavior to protect themselves?	question
+8	a pool of muddy water contains mud	gold
+9	covering something is a kind of protection	nongold
+10	They roll in a pool of muddy water to avoid fly bites.	answer
+11	some birds are predators	nongold
+12	a bird is a kind of animal	nongold
+13	avoiding is similar to preventing	gold
+14	locomotion is a generally learned behavior	nongold
+15	a bird is a kind of living thing	nongold
+16	flying is a kind of motion through air; space	nongold
+17	person is synonymous with human	nongold
+18	insect bites cause harm to living things	gold
+19	if a living thing dies then that living thing is dead	nongold
+20	How do moose use a learned behavior to protect themselves?	question
+21	prey  is a kind of animal	nongold
+22	They roll in a pool of muddy water to avoid fly bites.	answer
+23	a pool of muddy water contains mud	gold
+24	a human is a kind of animal	nongold
+25	a fly is a kind of insect	gold
+26	threatening behavior causes a fight-or-flight response in animals	nongold
+27	a trick is a learned behavior	nongold
+28	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+29	actions mean behavior	nongold
+30	a long tail; thick tail can be used to move through water by an animal	nongold
+31	rolling in mud is a learned behavior	gold
+32	water is a kind of object	nongold
+33	protecting something means preventing harm to that something	gold
+34	an animal is a kind of living thing	gold
+35	An example of an adaptation for flight in birds is feathers; wings; hollow bones	nongold
+36	a moose is a kind of animal	gold
+37	a moose is a kind of animal	gold
+38	rolling over is a kind of action	nongold
+39	helping something has a  positive impact on that something	nongold
+40	danger has a negative impact on a thing	nongold
+41	dirt means soil	nongold
+42	animals; living things require water for survival	nongold
+43	insect bites cause harm to living things	gold
+44	water is a part of an environment	nongold
+45	rolling in mud is a learned behavior	gold
+46	insect bites cause harm to living things	gold
+47	How do moose use a learned behavior to protect themselves?	question
+48	a pool of muddy water contains mud	gold
+49	an animal is a kind of living thing	gold
+50	a predator avoiding some types of prey is a learned behavior	nongold
+51	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+52	skills are learned characteristics; behaviors	nongold
+53	motion; movement means moving; to move	nongold
+54	a body of water is a kind of environment	nongold
+55	They roll in a pool of muddy water to avoid fly bites.	answer
+56	rolling in mud can be used to avoid insect bites by an animal	gold
+57	avoiding is similar to preventing	gold
+58	protecting something means preventing harm to that something	gold
+59	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+60	if an animal is trained to do something then that something is a learned behavior	nongold
+61	rolling in mud can be used to avoid insect bites by an animal	gold
+62	They roll in a pool of muddy water to avoid fly bites.	answer
+63	using tools is a learned characteristic	nongold
+64	a moose is a kind of animal	gold
+65	rolling in mud is a learned behavior	gold
+66	a fly is a kind of insect	gold
+67	avoiding is similar to preventing	gold
+68	a fly is a kind of insect	gold
+69	How do moose use a learned behavior to protect themselves?	question
+70	a predator is a kind of animal	nongold

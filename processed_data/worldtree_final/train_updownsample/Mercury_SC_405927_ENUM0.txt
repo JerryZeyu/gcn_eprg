@@ -1,0 +1,68 @@
+0	cheap means low in cost	nongold
+1	a vehicle is used for transportation	nongold
+2	oil is a nonrenewable resource	gold
+3	an automobile is a kind of vehicle	gold
+4	Gasoline comes from a limited resource.	answer
+5	vehicles usually require gasoline to operate	gold
+6	one can get something from a source	nongold
+7	alternative fuel is usually a renewable resource	gold
+8	plants are a kind of resource	nongold
+9	an animal is a kind of consumer	nongold
+10	a fossil fuel is a kind of natural resource	nongold
+11	an object; material; substance comes from that object or material's source	gold
+12	to be used for something means to be required by that something	gold
+13	Why are alternative fuels being used in some automobiles?	question
+14	to be used for something means to be required by that something	gold
+15	to depend on; to rely on; to need means to require	nongold
+16	an automobile is a kind of vehicle	gold
+17	food is a kind of resource	nongold
+18	if something is a raw material in a process then that something is required for that process	nongold
+19	the automobile is a kind of technology	nongold
+20	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+21	Why are alternative fuels being used in some automobiles?	question
+22	Why are alternative fuels being used in some automobiles?	question
+23	an object; material; substance comes from that object or material's source	gold
+24	to provide something means to be the source of that something	nongold
+25	vehicles usually require gasoline to operate	gold
+26	alternative fuel is usually a renewable resource	gold
+27	fuel efficient means uses less fuel	nongold
+28	Gasoline comes from a limited resource.	answer
+29	alternative fuel is usually a renewable resource	gold
+30	all elements are a kind of pure substance	nongold
+31	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+32	requiring is similar to needing help	nongold
+33	oil is a nonrenewable resource	gold
+34	oil is a nonrenewable resource	gold
+35	an object; material; substance comes from that object or material's source	gold
+36	using less of a resource increases the availability of that resource	nongold
+37	the amount of something is similar to the availability of something	nongold
+38	Why are alternative fuels being used in some automobiles?	question
+39	gasoline is a kind of fuel	nongold
+40	using a resource requires acquiring that resource	nongold
+41	oil is a source of gasoline	gold
+42	if something is a raw material then that something comes directly from a source	nongold
+43	renewable resources are often available for many years	nongold
+44	automobiles; industrialization are a source of carbon dioxide	nongold
+45	a car engine is a part of a car	nongold
+46	if something is required for a process then that something positively impacts that process	nongold
+47	requiring something means needing that something	nongold
+48	oil is a source of gasoline	gold
+49	an engine is a part of an automobile	nongold
+50	a car is a kind of vehicle	nongold
+51	to be used for something means to be required by that something	gold
+52	an automobile is a kind of vehicle	gold
+53	oil is a source of gasoline	gold
+54	a vehicle is a kind of object	nongold
+55	if a resource is not replaced then the resource has low availability	nongold
+56	Gasoline comes from a limited resource.	answer
+57	fossil fuels are a nonrenewable resource	nongold
+58	a nonrenewable resource is limited in supply	gold
+59	oxygen is a kind of resource	nongold
+60	operating an automobile usually requires fossil fuels	nongold
+61	vehicles usually require gasoline to operate	gold
+62	green plants are a kind of producer	nongold
+63	Gasoline comes from a limited resource.	answer
+64	a nonrenewable resource is limited in supply	gold
+65	fuel supply is a kind of resource	nongold
+66	oil is a kind of energy resource	nongold
+67	a nonrenewable resource is limited in supply	gold

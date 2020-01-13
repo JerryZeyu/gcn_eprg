@@ -1,0 +1,102 @@
+Question	At a weightlifting competition, two competitors lifted the same weight to the same height. The second competitor accomplished the lift 2 seconds faster than the first competitor. This demonstrated that the second competitor had more	question
+Answer	power than the first.	answer
+0	faster means an increase; higher in speed	gold
+1	fastest means greatest in  speed	nongold
+2	faster means increased rate	nongold
+3	to lift means to move up	nongold
+4	less is similar to decrease	nongold
+5	fast is the opposite of slow	nongold
+6	high is similar to increase	nongold
+7	fast means quickly	nongold
+8	greater means higher; more in value	nongold
+9	increase means more	gold
+10	less is the opposite of more	nongold
+11	performance is similar to ability	nongold
+12	a weight is a kind of object	gold
+13	an increase is the opposite of a decrease	nongold
+14	same means identical; equal in value; amount; number; quantity	nongold
+15	highest means largest; greatest; most in height	nongold
+16	seconds are used to measure time	nongold
+17	a human is a kind of animal	nongold
+18	seconds are a kind of unit for measuring time	nongold
+19	different is the opposite of the same	nongold
+20	speed is a property of an object and includes values of slow; fast	nongold
+21	weight is a property of objects; matter	nongold
+22	gaining is similar to increasing	nongold
+23	height is a kind of position	nongold
+24	high speed means fast	nongold
+25	to change means to become different	nongold
+26	pair means two	nongold
+27	both means two	nongold
+28	strong means high in strength	nongold
+29	speed is a measure of how fast an object is moving	nongold
+30	low is similar to decrease	nongold
+31	tall means great in height	nongold
+32	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+33	a demonstration is similar to an example	nongold
+34	taller means greater in height; size	nongold
+35	lower means less	nongold
+36	higher means greater; above in value; amount; number	nongold
+37	person is synonymous with human	nongold
+38	height is a property of the size of an object	nongold
+39	height is a measure of length from the top of an object to the bottom of an object	nongold
+40	an increase is a kind of change	nongold
+41	low is the opposite of high	nongold
+42	lighter means lower; less in weight	nongold
+43	speed up means increase	nongold
+44	opposite is a kind of different	nongold
+45	to lower means to decrease	nongold
+46	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+47	as an object moves faster , the kinetic energy of that object will increase	nongold
+48	height is an inherited characteristic	nongold
+49	inability is the opposite of ability	nongold
+50	slowest means lowest in  speed	nongold
+51	identical is the opposite of different	nongold
+52	greatest means largest; highest; most amount of something	nongold
+53	strength is a property of an object; a material	nongold
+54	exercise increases a body's strength	nongold
+55	weaker is the opposite of stronger	nongold
+56	as the height of a dropped object increases , that object will fall for longer	nongold
+57	motion; movement means moving; to move	nongold
+58	mass; weight is a property of matter; objects; materials	nongold
+59	advantage has a positive impact on something	nongold
+60	affected means changed	nongold
+61	closer means lower; less; a decrease in distance	nongold
+62	an animal is a kind of living thing	nongold
+63	exercise has a  positive impact on a body's strength	nongold
+64	larger means greater; higher; more; increase in size	nongold
+65	unbalanced is the opposite of balanced	nongold
+66	as the mass of an object increases ,  the weight of that object will increase	nongold
+67	a living thing is a kind of object	nongold
+68	shorter means smaller; less in  height	nongold
+69	weight is a kind of property	nongold
+70	to lack means to not have	nongold
+71	to depend on; to rely on; to need means to require	nongold
+72	falling means height decreases	nongold
+73	a decrease is a kind of change	nongold
+74	weak means low in strength	nongold
+75	less means a reduced amount	nongold
+76	heaviest means greatest mass; weight	nongold
+77	to reduce means to decrease	nongold
+78	a ratio is a measure of  one value divided by another value	nongold
+79	a factor impacts something	nongold
+80	a person is a kind of animal	nongold
+81	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+82	exercise means physical fitness	nongold
+83	extreme means very high in value	nongold
+84	ability is a kind of characteristic	nongold
+85	weight means the force of gravity acting on an object	nongold
+86	to match means to be the same	nongold
+87	exercise is a kind of physical activity	nongold
+88	if an animal is trained to do something then that something is a learned behavior	nongold
+89	able is the opposite of unable	nongold
+90	not is similar to the opposite of	nongold
+91	to enhance means to increase	nongold
+92	low means down	nongold
+93	better means good	nongold
+94	a motion is a kind of event; action	nongold
+95	a source of something emits; produces; generates; provides that something	nongold
+96	two objects are usually different in size	nongold
+97	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+98	falling means moving downward	nongold
+99	definite is the opposite of variable	nongold

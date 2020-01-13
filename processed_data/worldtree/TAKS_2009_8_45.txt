@@ -1,0 +1,102 @@
+Question	When people exercise, they often feel thirsty and begin to sweat. It is important for people to feel thirsty when exercising because it makes them realize that they should	question
+Answer	consume liquids	answer
+0	exercising is a kind of habit	nongold
+1	exercising causes the body to become stronger	nongold
+2	sweat is a kind of liquid	nongold
+3	exercise has a positive impact on a human's health	nongold
+4	to sweat means the body discharges water	nongold
+5	person is synonymous with human	gold
+6	if something requires something else then that something else is important to that something	gold
+7	thirst is used to make an animal realize that it needs to replenish its bodily water by the body	gold
+8	if an animal sweats then that animal's bodily water decreases	gold
+9	if something has a positive impact on something else then that something is important to that something else	nongold
+10	to eat means to consume food	nongold
+11	consuming liquids is used to replenish bodily water by an animal	gold
+12	a human is a kind of animal	gold
+13	exercise is a kind of physical activity	nongold
+14	a person is a kind of animal	nongold
+15	an increase is the opposite of a decrease	nongold
+16	a liquid is a kind of substance	nongold
+17	low is similar to decrease	nongold
+18	requiring something means needing that something	nongold
+19	to reduce means to decrease	nongold
+20	to lower means to decrease	nongold
+21	to add means to increase	nongold
+22	an animal needs to eat food for nutrients	nongold
+23	if a living thing requires something then that something has a positive impact on that living thing	nongold
+24	an animal is a kind of living thing	nongold
+25	water is a kind of liquid at room temperature	nongold
+26	exercise has a  positive impact on a body's strength	nongold
+27	helping something has a  positive impact on that something	nongold
+28	a liquid is a kind of fluid	nongold
+29	high is similar to increase	nongold
+30	requiring is similar to needing help	nongold
+31	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+32	an animal; living thing requires nutrients for survival	nongold
+33	a source of something emits; produces; generates; provides that something	nongold
+34	an animal is a kind of organism	gold
+35	a food contains nutrients for living things	nongold
+36	to depend on; to rely on; to need means to require	gold
+37	food is what an animal eats	nongold
+38	to be used for something means to be required by that something	nongold
+39	consumption means use	nongold
+40	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+41	exercise means physical fitness	nongold
+42	harming something has a  negative impact on; effect on that something	nongold
+43	humans drink beverages	nongold
+44	an increase is a kind of change	nongold
+45	a decrease is a kind of change	nongold
+46	sweat cools; helps to cool a body	nongold
+47	food is a kind of substance	nongold
+48	the temperature; pH of water has an impact on the health of that water	nongold
+49	when an animal eats or drinks something , that animal tastes that something	nongold
+50	exercise increases a body's strength	nongold
+51	an animal requires enough nutrients to maintain good health; survive	nongold
+52	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+53	eating something decreases the amount of that something	nongold
+54	little is similar to decrease	nongold
+55	an organism is a living thing	nongold
+56	heat means heat energy	nongold
+57	a process usually requires all of the stages in that process	nongold
+58	temperature is a measure of heat energy	nongold
+59	provide is similar to give; make	nongold
+60	evaporation causes amount of water to decrease	nongold
+61	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+62	animals; living things require water for survival	gold
+63	a beverage is a kind of food	nongold
+64	digestion is a kind of bodily process	nongold
+65	a nutrient is a kind of object	nongold
+66	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+67	less is similar to decrease	nongold
+68	negative impact is the opposite of positive impact	nongold
+69	as the cause of something decreases , that something will decrease	nongold
+70	low is the opposite of high	nongold
+71	a beverage is a kind of liquid	nongold
+72	if an event occurs by adding something then that event requires that something	nongold
+73	an animal is a kind of consumer	nongold
+74	to impact means to affect	nongold
+75	little means low in amount	nongold
+76	the body is a part of an organism	nongold
+77	a source of something increases the amount of that something	nongold
+78	increase means more	nongold
+79	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+80	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+81	water is a kind of substance	nongold
+82	if something is required for a process then that something positively impacts that process	nongold
+83	a process is a kind of event	nongold
+84	living things eat their food source	nongold
+85	drop means decrease	nongold
+86	when the body is hot , sweat is produced to cool the body	nongold
+87	nutrients are a kind of substance	nongold
+88	human is a kind of organism	nongold
+89	diet means what an animal eats	nongold
+90	to change means to have an effect	nongold
+91	counter means reduce; stop; resist	nongold
+92	evaporation is a kind of process	nongold
+93	too much is similar to increase	nongold
+94	adding heat means increasing temperature	nongold
+95	a part of a process means a stage in a process	nongold
+96	sugary means high in sugar	nongold
+97	if something causes a process then that something is required for that process	nongold
+98	if something requires something else then that something requires a source of that something else	nongold
+99	a living thing is a kind of object	nongold

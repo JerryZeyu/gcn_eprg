@@ -1,0 +1,102 @@
+Question	Which object used in an experiment can safely be recycled?	question
+Answer	an aluminum can	answer
+0	a can is a kind of object	nongold
+1	a can is a kind of container	nongold
+2	recyclable means a material can be recycled	gold
+3	recycling means reusing	nongold
+4	recycling is similar to reusing	nongold
+5	recycling has a  positive impact on the environment	nongold
+6	An example of recycling is using an object to make a new object	nongold
+7	recycling means using over again	nongold
+8	replacing is similar to recycling	nongold
+9	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+10	aluminum is a kind of metal	gold
+11	discarding aluminum cans wastes aluminum	nongold
+12	aluminum is recyclable	gold
+13	recycling is a kind of method of disposal	nongold
+14	recycling reduces; decreases the amount of waste sent to landfills	nongold
+15	a soda can is made of aluminum	nongold
+16	aluminum is a kind of element	nongold
+17	a tool is a kind of object	nongold
+18	recycling is a kind of action	nongold
+19	recycling reduces the resources needed to make something	nongold
+20	if a human discards an object then that object will become waste	nongold
+21	if an object is made of a material then that object has the properties of that material	gold
+22	metal is a kind of material	gold
+23	an object; material; substance comes from that object or material's source	nongold
+24	a garbage can is made of metal	nongold
+25	plastic is recyclable	nongold
+26	a container is a kind of object	nongold
+27	aluminum is a nonrenewable resource	nongold
+28	objects are made of materials; substances; matter	nongold
+29	instrument means tool	nongold
+30	a product is a kind of object	nongold
+31	a device is a kind of object	nongold
+32	an object is an item	nongold
+33	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	gold
+34	metal is a kind of substance	nongold
+35	trash is synonymous with waste	nongold
+36	plastic is a nonrenewable resource	nongold
+37	aluminum is a kind of matter	nongold
+38	cannot is the opposite of  can	nongold
+39	waste has a  negative impact on the environment	nongold
+40	metal is a kind of natural resource	nongold
+41	something reusable can be used more than once	nongold
+42	device means tool	nongold
+43	a metal is usually a solid at room temperature	nongold
+44	plastic is microwave-safe	nongold
+45	a container contains objects; material; substances	nongold
+46	steel is a kind of metal	nongold
+47	chemical splashing sometimes occurs during experiments	nongold
+48	material means substance	nongold
+49	to be used for something means to be required by that something	nongold
+50	human waste often causes harm to an environment	nongold
+51	if a resource is limited in supply then that resource should be recycled	nongold
+52	a  solution  is a kind of object	nongold
+53	plastic is a kind of material made by humans	nongold
+54	an element is a kind of material	nongold
+55	solution is similar to a positive impact	nongold
+56	waste must be removed	nongold
+57	An example of avoiding waste is using an object; a material more than once	nongold
+58	an element is not an alloy	nongold
+59	instrument means device	nongold
+60	processes sometimes produce waste products	nongold
+61	an instrument is a piece of equipment	nongold
+62	an insulator is the opposite of a conductor	nongold
+63	experiment is synonymous with test	nongold
+64	using raw materials increases waste	nongold
+65	reusing is similar to using many times	nongold
+66	to recycle means return	nongold
+67	can means having the ability to	nongold
+68	a trashcan contains trash; garbage; waste	nongold
+69	an insulator is a kind of material	nongold
+70	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+71	harming something has a  negative impact on; effect on that something	nongold
+72	a solid is a kind of substance	nongold
+73	tool is similar to appliance	nongold
+74	copper is a kind of metal	nongold
+75	stainless steel is always magnetic; nonmagnetic	nongold
+76	an object is made of its parts	nongold
+77	a molecule is a kind of object	nongold
+78	the function of something is what that something  is used to do	nongold
+79	replace means change from one thing into  another	nongold
+80	materials are used for making products by manufacturers	nongold
+81	negative impact is the opposite of positive impact	nongold
+82	steel; carbon steel is always ferromagnetic; magnetic	nongold
+83	metal is a nonrenewable resource	nongold
+84	technology is similar to tool	nongold
+85	metal is an  electrical; electrical energy conductor	nongold
+86	fiber is a kind of material	nongold
+87	microwave-safe is when a material can be microwaved safely	nongold
+88	can be means able to be	nongold
+89	answering questions requires information	nongold
+90	rubber is a kind of material	nongold
+91	a piece of something is a kind of object	nongold
+92	a process is a kind of event	nongold
+93	observations; data are a part of the results of an experiment	nongold
+94	conductivity is a property of a material; substance	nongold
+95	a material is a kind of resource	nongold
+96	a machine is a kind of object	nongold
+97	materials are made of matter	nongold
+98	an event is a kind of action	nongold
+99	experimentation requires measuring	nongold

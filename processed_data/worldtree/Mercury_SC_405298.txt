@@ -1,0 +1,102 @@
+Question	Which invention will best help people travel quickly to far away places?	question
+Answer	airplane	answer
+0	a airplane is used for moving people; products across bodies of water; to far away places	gold
+1	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+2	travelling quickly has a positive impact on a person's life	nongold
+3	an invention is a kind of tool	nongold
+4	an airplane is a kind of vehicle	gold
+5	quickly means in a short period of time	nongold
+6	rapidly means quickly	nongold
+7	inventing a tool allows; enables that tool to be used	gold
+8	fast means quickly	gold
+9	an airplane is fast in speed	gold
+10	transport means to move; to make travel	nongold
+11	travel means to move	gold
+12	a vehicle is a kind of tool for travel; transport	gold
+13	the invention of the airplane occurred in 1903	nongold
+14	developing means creating; inventing	nongold
+15	helping means to assist in a change	nongold
+16	best means most positive	nongold
+17	to help means to aid	nongold
+18	helping means something can be done; completed more easily; better	nongold
+19	transportation technology is used for moving people; products	nongold
+20	person is synonymous with human	nongold
+21	place is synonymous with location	nongold
+22	a machine is a kind of  device	nongold
+23	travelling requires  navigation	nongold
+24	a plane travels through the atmosphere	nongold
+25	a vehicle is used for travel	nongold
+26	to be used  for something means to help to do that something	gold
+27	a person is a kind of animal	nongold
+28	to help; to benefit means to be of use	nongold
+29	helping something has a  positive impact on that something	nongold
+30	to reach somewhere requires traveling	nongold
+31	the automobile is a kind of technology	nongold
+32	a device is a kind of object	nongold
+33	a vehicle is used for transportation	nongold
+34	transportation technology is a kind of system for moving people and products	nongold
+35	far means great in distance	nongold
+36	a human is a kind of animal	nongold
+37	humans usually develop inventions that they require	nongold
+38	near; close is the opposite of far; away	nongold
+39	to bring means to transport	nongold
+40	distant means far away	nongold
+41	device means tool	nongold
+42	better means good	nongold
+43	place means area	nongold
+44	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+45	to carry means to transport	nongold
+46	a machine is a kind of object	nongold
+47	as ability to transport food increases around the world , the available types of food in distant locations will increase	nongold
+48	an automobile is a kind of vehicle	nongold
+49	away is a kind of direction	nongold
+50	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+51	to make means to invent	nongold
+52	to pass means to travel	nongold
+53	to be helpful means to help to do	nongold
+54	a medium carries something to someplace	nongold
+55	media; medium means the material something travel through	nongold
+56	requiring is similar to needing help	nongold
+57	an environment is a kind of place	nongold
+58	an airport is a kind of port for airplanes	nongold
+59	a continent is a kind of location	nongold
+60	good means positive	nongold
+61	high speed means fast	nongold
+62	a vehicle is a kind of object	nongold
+63	a human requires new information to invent things	nongold
+64	furthest; farthest means greatest; most; highest in distance	nongold
+65	proximity means distance	nongold
+66	humans ride vehicles	nongold
+67	motion is when moves an object; something to a direction	nongold
+68	a positive impact is a helpful effect	nongold
+69	public transportation is a kind of way of commuting	nongold
+70	flying is a kind of motion through air; space	nongold
+71	to transfer is similar to transport	nongold
+72	distance moved; distance travelled is a measure of how far an object moves	nongold
+73	to ship means to transport	nongold
+74	saving money has a positive impact on a person; a company	nongold
+75	to make something easier means to help	nongold
+76	carrying something means moving that something	nongold
+77	an electric car is a kind of invention	nongold
+78	to slow; to slow down decreases speed	nongold
+79	negative impact is the opposite of positive impact	nongold
+80	toward is the opposite of away	nongold
+81	to transfer means to bring; to get something to	nongold
+82	far is the opposite of close	nongold
+83	to enable is to help	nongold
+84	high is similar to increase	nongold
+85	if something required by something else is in a place then that something else may be in that place	nongold
+86	speed is a property of an object and includes values of slow; fast	nongold
+87	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+88	apart means away	nongold
+89	a ship is used for moving people; products across bodies of water	nongold
+90	answering questions requires information	nongold
+91	a type is synonymous with a kind	nongold
+92	solution is similar to a positive impact	nongold
+93	distant means great in distance	nongold
+94	a living thing is a kind of object	nongold
+95	place; location is synonymous with position	nongold
+96	location is a kind of information	nongold
+97	speed is a measure of how fast an object is moving	nongold
+98	to carry means to move something	nongold
+99	flight is similar to a movement in the air made by an airplane	nongold

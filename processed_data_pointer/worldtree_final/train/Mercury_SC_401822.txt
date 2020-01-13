@@ -1,0 +1,101 @@
+0	human is a kind of organism	nongold
+1	usually means most of the time	nongold
+2	a plant is a kind of organism	nongold
+3	humans discarding waste in an environment causes harm to that environment	nongold
+4	a component of something means a part of that something	nongold
+5	waste must be removed	nongold
+6	the reproductive system is a kind of body system	nongold
+7	internal organs are a part of the body	nongold
+8	if two things perform the same function then those two things are similar	nongold
+9	a cell produces carbon dioxide for waste	nongold
+10	organisms are a part of an environment	nongold
+11	excretion  is when  the excretory system removes waste from the body	gold
+12	producer is a kind of role in the food chain process; in an ecosystem	nongold
+13	trash is synonymous with waste	nongold
+14	most means over 50% of something	nongold
+15	role means function	nongold
+16	loss is similar to removal	nongold
+17	to depend on; to rely on; to need means to require	nongold
+18	removing dead organisms from an ecosystem causes available nutrients to be removed from that ecosystem	nongold
+19	the circulatory system is a kind of human; organ; body system	nongold
+20	wastewater treatment is used for recycling water for human use	nongold
+21	person is synonymous with human	nongold
+22	a process is a kind of event	nongold
+23	to be a vehicle for is a kind of function	nongold
+24	part means role	nongold
+25	the endocrine system is a kind of body; organ system	nongold
+26	Which body system is most responsible for the removal of waste?	question
+27	all living things eliminate waste	nongold
+28	bringing oxygen to the body is a kind of function	nongold
+29	the waste of an animal contains nitrogen	nongold
+30	a body system is a part of the body; an animal	nongold
+31	a source of something emits; produces; generates; provides that something	nongold
+32	an animal is a kind of organism	nongold
+33	the immune system is a kind of body; human body system	nongold
+34	a microorganism is a kind of decomposer	nongold
+35	if something performs a task then that task is that something's function	nongold
+36	the excretory system is a kind of body system	gold
+37	if something required by an organism is depleted then that organism must replenish that something	nongold
+38	an event is a kind of action	nongold
+39	recycling reduces; decreases the amount of waste sent to landfills	nongold
+40	a worm is a kind of animal	nongold
+41	consuming liquids is used to replenish bodily water by an animal	nongold
+42	a part of a process means a stage in a process	nongold
+43	human waste often causes harm to an environment	nongold
+44	humans move waste to a  landfill for disposal;storage	nongold
+45	the kidney removes; filters bodily waste; cell waste; byproducts from the blood	nongold
+46	food is a kind of substance	nongold
+47	to cause means to be responsible for	nongold
+48	a component means a part of	nongold
+49	an animal is a kind of living thing	nongold
+50	dead organisms are a kind of waste	nongold
+51	green plants are a kind of producer	nongold
+52	nutrients are a kind of substance	nongold
+53	removing waste is a kind of function	gold
+54	recycling means reusing	nongold
+55	get rid of means eliminate; remove	nongold
+56	a body system is a kind of object	nongold
+57	recycling is a kind of action	nongold
+58	a decomposer is a kind of living thing	nongold
+59	bringing substances to the body is a kind of function	nongold
+60	organ system means body system	nongold
+61	the blood is a vehicle for moving chemical waste and excess water from the body to the kidneys	nongold
+62	the digestive system is a kind of body; organ system	nongold
+63	recycling is a kind of method of disposal	nongold
+64	removing an inhibitor of a process causes that process	nongold
+65	a role in the ecosystem is a role in the food chain process	nongold
+66	an organism is a living thing	nongold
+67	the circulatory system absorbs; carries food; substances; oxygen from the digestive and respiratory systems to the rest of the body	nongold
+68	a mechanism is a kind of system that performs a function	nongold
+69	function is similar to purpose	nongold
+70	an organ system is made of different parts of the body working together	nongold
+71	In the cellular respiration; animal respiration process carbon dioxide is a waste product	nongold
+72	the respiratory system performs respiration	nongold
+73	if something causes a process then that something is required for that process	nongold
+74	the respiratory system is a kind of human; organ; body system	nongold
+75	digestion is a kind of bodily process	nongold
+76	to be used for something means to be required by that something	nongold
+77	the function of something is what that something  is used to do	nongold
+78	waste has a  negative impact on the environment	nongold
+79	something is used for that something's purpose	nongold
+80	the integumentary system is a kind of body; organ system	nongold
+81	producing is a kind of function	nongold
+82	causing is a kind of function	nongold
+83	if a human discards an object then that object will become waste	nongold
+84	remove means decrease	nongold
+85	garbage means waste	nongold
+86	the body is a part of an organism	nongold
+87	excretory system	answer
+88	processes sometimes produce waste products	nongold
+89	providing is a kind of function	nongold
+90	role is similar to importance	nongold
+91	if something is required for a process then that something positively impacts that process	nongold
+92	eliminate means remove	nongold
+93	decomposer is a kind of role in the food chain process; in an ecosystem	nongold
+94	a human is a kind of animal	nongold
+95	purpose means role	nongold
+96	the digestive system is a kind of body; human system	nongold
+97	the bladder is used for storing urine by animals until the body excretes it	nongold
+98	lysosomes process; eliminate cellular waste	nongold
+99	system means a set of objects	nongold
+100	to have a function is similar to to be responsible for	gold

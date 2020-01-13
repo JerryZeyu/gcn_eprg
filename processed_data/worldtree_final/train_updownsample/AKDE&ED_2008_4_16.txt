@@ -1,0 +1,65 @@
+0	emit means produce	nongold
+1	a photon is a kind of  particles	nongold
+2	a satellite is a kind of instrument for observing Earth's surface	nongold
+3	light is a kind of wave	nongold
+4	the Moon	answer
+5	sunlight is a kind of light	gold
+6	light is a kind of energy	nongold
+7	reflection is a property of light	nongold
+8	sunlight is a kind of light	gold
+9	a satellite orbits a planet	gold
+10	the solar system contains the moon	gold
+11	a satellite orbits a planet	gold
+12	planets reflect the light of the sun	nongold
+13	type of moon; kind of moon means moon phase	nongold
+14	a moon is a kind of celestial object; body	gold
+15	emit means send out	nongold
+16	the moon orbits the Earth	gold
+17	solar radiation means solar energy	nongold
+18	the sun is a source of radiation; heat called sunlight	nongold
+19	a moon is a kind of celestial object; body	gold
+20	Celestial bodies move in orbits in space around other celestial bodies	nongold
+21	the sun is a kind of yellow dwarf	nongold
+22	brightness is a property of a light source	nongold
+23	light is a kind of electromagnetic radiation	nongold
+24	the Moon	answer
+25	planets are found in space	nongold
+26	the moon orbits the Earth	gold
+27	the moon orbiting the Earth occurs once per month	nongold
+28	sunlight is a kind of light	gold
+29	the Moon	answer
+30	gas is a kind of object	nongold
+31	Which object in our solar system reflects light and is a satellite that orbits around one planet?	question
+32	the moon reflects sunlight towards the Earth	gold
+33	the Sun is a kind of star	nongold
+34	light is a kind of energy	nongold
+35	the solar system is a kind of system	nongold
+36	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+37	satellites are used to take images from space	nongold
+38	light is made of photons	nongold
+39	the sun  is the source of energy for physical cycles on Earth	nongold
+40	an orbit is a kind of regular path	nongold
+41	orbiting is a kind of action	nongold
+42	the Moon	answer
+43	Which object in our solar system reflects light and is a satellite that orbits around one planet?	question
+44	our Sun is located at the center of our solar system	nongold
+45	the solar system contains the moon	gold
+46	a planet completes one orbit around its star over a period of one planetary year	nongold
+47	a satellite orbits a planet	gold
+48	frequency is a property of a wave; a particel of light; an event	nongold
+49	a star is a kind of celestial object; celestial body	nongold
+50	the moon reflects sunlight towards the Earth	gold
+51	a moon is located in space	nongold
+52	can be means able to be	nongold
+53	a planet is a kind of place	nongold
+54	the moon reflects sunlight towards the Earth	gold
+55	events occur at a specific place; at a specific time; with a specific frequency	nongold
+56	the solar system contains the moon	gold
+57	a moon is a kind of satellite	gold
+58	the moon orbits the Earth	gold
+59	a moon is a kind of satellite	gold
+60	planets have cleared their orbits	nongold
+61	Which object in our solar system reflects light and is a satellite that orbits around one planet?	question
+62	a moon is a kind of celestial object; body	gold
+63	Which object in our solar system reflects light and is a satellite that orbits around one planet?	question
+64	a moon is a kind of satellite	gold

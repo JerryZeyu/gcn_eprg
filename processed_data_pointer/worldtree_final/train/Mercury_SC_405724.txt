@@ -1,0 +1,101 @@
+0	renewable is the opposite of nonrenewable	nongold
+1	a process is a kind of event	nongold
+2	waste must be removed	nongold
+3	replacing is similar to recycling	nongold
+4	answering questions requires information	nongold
+5	a garbage can is a kind of container	nongold
+6	recycling is a kind of action	nongold
+7	reusing is similar to using many times	nongold
+8	replenish is similar to replace	nongold
+9	a bottle is a kind of container	nongold
+10	a jar is a kind of container	nongold
+11	a soda can is made of aluminum	gold
+12	water is a kind of substance	nongold
+13	good means positive	nongold
+14	a material is a kind of resource	nongold
+15	greatest means largest; highest; most amount of something	nongold
+16	harming something has a  negative impact on; effect on that something	nongold
+17	to provide means to supply	nongold
+18	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	gold
+19	plastic is a nonrenewable resource	nongold
+20	a trashcan contains trash; garbage; waste	nongold
+21	to be used for something means to be required by that something	nongold
+22	to conserve means to not change	nongold
+23	discarding aluminum cans wastes aluminum	nongold
+24	minerals are a nonrenewable resource	nongold
+25	contents means the substance in a container	nongold
+26	recycling has a  positive impact on the environment	nongold
+27	a beverage is a kind of food	nongold
+28	aluminum is a kind of element	nongold
+29	aluminum is recyclable	nongold
+30	to recycle means return	nongold
+31	a garbage can is made of metal	nongold
+32	a bottle is a kind of object	nongold
+33	a can is a kind of object	nongold
+34	a can is a kind of container	nongold
+35	metal is a kind of material	nongold
+36	soda is a kind of carbonated beverage	nongold
+37	if a resource is limited in supply then that resource needs to be replaced	nongold
+38	requiring something means needing that something	nongold
+39	a source of something supplies that something	nongold
+40	negative impact is the opposite of positive impact	nongold
+41	the supply of an inexhaustible resource does not change over a long period of time	nongold
+42	recyclable means a material can be recycled	nongold
+43	temperature is a measure of heat energy	nongold
+44	metal is a nonrenewable resource	gold
+45	a supply of something is a source of that something	nongold
+46	soda bottles are a kind of manufactured product	nongold
+47	recycling means reusing	nongold
+48	if a resource is limited in supply then that resource should be recycled	nongold
+49	mixing baking soda; water causes an explosion	nongold
+50	an object; material; substance comes from that object or material's source	nongold
+51	if something is required then that something must be provided	nongold
+52	if an object is made of a material then that object has the properties of that material	nongold
+53	To conserve the supply of nonrenewable resources, it is best to recycle	question
+54	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+55	to create means to make	nongold
+56	an increase is a kind of change	nongold
+57	water is a kind of liquid at room temperature	nongold
+58	soft drink means soda	nongold
+59	soda cans.	answer
+60	trash is synonymous with waste	nongold
+61	recycling is similar to reusing	nongold
+62	a container contains objects; material; substances	nongold
+63	a nonrenewable resource is limited in supply	nongold
+64	nonrenewable resources will eventually be depleted	nongold
+65	a solid is a kind of substance	nongold
+66	if a human discards an object then that object will become waste	nongold
+67	aluminum is a kind of metal	gold
+68	renewable resources are replenished more quickly than they are used	nongold
+69	resources becoming available has a positive impact on the things that need those resources	nongold
+70	a beverage is a kind of liquid	nongold
+71	a cup is a kind of drinking container	nongold
+72	solution is similar to a positive impact	nongold
+73	less is similar to decrease	nongold
+74	soda water is a kind of carbonated beverage	nongold
+75	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+76	when available resources decrease in an environment , organisms have to conserve those resources	nongold
+77	aluminum is a nonrenewable resource	nongold
+78	objects are made of materials; substances; matter	nongold
+79	a container is a kind of object	nongold
+80	recycling reduces the resources needed to make something	nongold
+81	deplete is similar to decrease	nongold
+82	an event is a kind of action	nongold
+83	fossil fuels are a nonrenewable resource	nongold
+84	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+85	recycling means using over again	nongold
+86	recycling is a kind of method of disposal	nongold
+87	waste has a  negative impact on the environment	nongold
+88	recycling reduces; decreases the amount of waste sent to landfills	nongold
+89	an element is a kind of material	nongold
+90	An example of recycling is using an object to make a new object	nongold
+91	if a resource is limited in supply then that resource will run out	nongold
+92	to provide something means to be the source of that something	nongold
+93	a source of something emits; produces; generates; provides that something	nongold
+94	best means most positive	nongold
+95	a liquid is a kind of substance	nongold
+96	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+97	helping something has a  positive impact on that something	nongold
+98	transferring is similar to supplying	nongold
+99	a carbonated beverage contains dissolved carbon dioxide	nongold
+100	baking soda is a kind of solid	nongold

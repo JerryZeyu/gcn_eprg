@@ -1,0 +1,102 @@
+0	if a living thing dies then that living thing is dead	nongold
+1	an animal; living thing requires nutrients for survival	nongold
+2	requiring is similar to needing help	nongold
+3	an animal is a member of an animal species	gold
+4	a cheetah is a kind of animal	nongold
+5	less is the opposite of more	nongold
+6	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+7	a tiger is big in size	nongold
+8	to lower means to decrease	nongold
+9	reproduction increases the number; population of a living thing	nongold
+10	harming an organism can cause that organism to die	nongold
+11	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+12	dying is the opposite of living; surviving	nongold
+13	predators eat prey	nongold
+14	harming something has a  negative impact on; effect on that something	nongold
+15	reproduction produces; produce offspring	gold
+16	population increase means more survive	nongold
+17	able is the opposite of unable	nongold
+18	to prey on an animal means to eat that animal	nongold
+19	as  population of prey decreases , the population of predators will  decrease	nongold
+20	a living thing is a kind of object	nongold
+21	population is a measure of the number of a species in an environment	nongold
+22	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+23	Some animals are very rare. For example, there are very few Siberian tigers. If the only Siberian tigers left are female, what will most likely happen?	question
+24	negative impacts on a species will decrease populations of a species	nongold
+25	killing means harming something causing death	nongold
+26	an animal is a kind of organism	nongold
+27	survive means live	nongold
+28	to attract females; males means to attract mates	nongold
+29	a predator eats other animals for food	nongold
+30	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+31	most predators live in; live near the same environment as their prey	nongold
+32	if an organism eats something then that something is a source of frood to that organism	nongold
+33	more likely means increased likelihood	nongold
+34	living things can all reproduce	nongold
+35	negative impact is the opposite of positive impact	nongold
+36	a type is synonymous with a kind	nongold
+37	an animal needs to eat food for nutrients	nongold
+38	death means to die	nongold
+39	survival means to survive	nongold
+40	eating something decreases the amount of that something	nongold
+41	an animal is a kind of living thing	nongold
+42	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+43	a tiger is a kind of animal	gold
+44	eating an animal; a plant means killing that animal; that plant	nongold
+45	fewest means lowest; least in number	nongold
+46	prey  is a kind of animal	nongold
+47	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+48	an animal requires enough nutrients to maintain good health; survive	nongold
+49	killing a living thing decreases the number; population size of that living thing	nongold
+50	a lion is a kind of animal	nongold
+51	converting is similar to producing	nongold
+52	to reduce means to decrease	nongold
+53	prey is a kind of food for predators	nongold
+54	a predator is a kind of animal	nongold
+55	living things eat their food source	nongold
+56	to reproduce means to have; to produce offspring	nongold
+57	emit means produce	nongold
+58	killing means changing a living thing from alive to dead by harming	nongold
+59	high is similar to increase	nongold
+60	trait is synonymous with characteristic	nongold
+61	life means living things	nongold
+62	a predator usually kills its prey to eat it	nongold
+63	survive means live	nongold
+64	as the rate of  reproduction decreases , the population will decrease	nongold
+65	an increase is the opposite of a decrease	nongold
+66	producing is a kind of process	nongold
+67	to produce means to provide	nongold
+68	harming an animal species causes that animal's population to decrease	nongold
+69	a decrease is a kind of change	nongold
+70	if an organism dies then the population of that organism will decrease	nongold
+71	if a population decreases to zero then that organism is extinct	nongold
+72	producing is similar to causing	nongold
+73	species means a group of like organisms	nongold
+74	increase means more	nongold
+75	as population of predators increases , the population of prey will decrease in an environment	nongold
+76	to lack means to not have	nongold
+77	lack is similar to low; little	nongold
+78	make means produce	nongold
+79	an animal requires a habitat for survival	nongold
+80	lack of food causes starvation	nongold
+81	if an organism dies then that organism can not perform its function	nongold
+82	fewer means lower; less in number	nongold
+83	a plant; living thing requires food for survival	nongold
+84	The females will not be able to produce more Siberian tigers, and they will die out.	answer
+85	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold
+86	if a new predator begins eating prey then the population of that prey will decrease	nongold
+87	an organism is a living thing	nongold
+88	out is synonymous with outside	nongold
+89	harming an animal species has a  negative impact on the population size of that species	nongold
+90	if something causes an increase in something else then that something produces that something else	nongold
+91	as population of predators decreases , the population of prey will increase in an environment	nongold
+92	less is similar to decrease	nongold
+93	nonliving; non-living; die is the opposite of living; alive; live	nongold
+94	die out means become extinct	gold
+95	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+96	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+97	if all members of a species cannot produce offspring then that species will likely become extinct	gold
+98	In the mammal life cycle , death can follow reproduction	nongold
+99	to happen means to occur	nongold
+100	as the cause of something decreases , that something will decrease	nongold
+101	low is similar to decrease	nongold

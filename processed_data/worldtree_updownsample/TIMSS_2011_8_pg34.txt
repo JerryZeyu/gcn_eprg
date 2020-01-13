@@ -1,0 +1,61 @@
+0	to reduce means to decrease	nongold
+1	combustion means fire converts chemical energy into light energy and heat energy	nongold
+2	disrupting something from reaching something else decreases the availability of that something	nongold
+3	intense heat has a negative impact on an organism	nongold
+4	a firewood is a kind of object	nongold
+5	a wildfire occurs over a period of days	nongold
+6	hot means high in heat energy; temperature	nongold
+7	if something is required for a process then keeping that something from reaching that process can stop that process	gold
+8	photosynthesis is a source of oxygen	nongold
+9	placing a heavy blanket over a fire can be used to keep oxygen from reaching a fire	gold
+10	a hot; warm something is a source of heat	nongold
+11	fire destroys plants in an environment	nongold
+12	fanning a fire increases the oxygen near the fire	nongold
+13	Why can a small fire be put out by placing a heavy blanket over it?	question
+14	an animal; bacterium requires oxygen for survival; to breathe	nongold
+15	as the oxygen a fire is exposed to increases the longer that fire will burn	nongold
+16	shelter is a kind of protective covering	nongold
+17	fire is a kind of chemical reaction	gold
+18	This keeps oxygen from reaching the fire.	answer
+19	a fire requires  oxygen to burn	gold
+20	air is a kind of gas	nongold
+21	something harmful can cause harm	nongold
+22	an increase is the opposite of a decrease	nongold
+23	Why can a small fire be put out by placing a heavy blanket over it?	question
+24	a covering is a kind of object	nongold
+25	putting out a fire stops the burning of that fire	gold
+26	putting out a fire stops the burning of that fire	gold
+27	if something is required for a process then keeping that something from reaching that process can stop that process	gold
+28	placing a heavy blanket over a fire can be used to keep oxygen from reaching a fire	gold
+29	if something is places over a heat source then that something is exposed to that heat source	nongold
+30	something hard; something strong can be used for protection	nongold
+31	combustibility means the ability of combustion	nongold
+32	placing a heavy blanket over a fire can be used to keep oxygen from reaching a fire	gold
+33	This keeps oxygen from reaching the fire.	answer
+34	gas is a kind of material	nongold
+35	Why can a small fire be put out by placing a heavy blanket over it?	question
+36	out is synonymous with outside	nongold
+37	plants are a source of oxygen through photosynthesis	nongold
+38	to keep something from happening means to prevent that something	nongold
+39	oxygenated means having oxygen	nongold
+40	high is similar to increase	nongold
+41	fire is a kind of chemical reaction	gold
+42	an animal is a kind of living thing	nongold
+43	a fire requires  oxygen to burn	gold
+44	death means to die	nongold
+45	to be used for something means to be required by that something	nongold
+46	if something is required for a process then keeping that something from reaching that process can stop that process	gold
+47	Why can a small fire be put out by placing a heavy blanket over it?	question
+48	fire is a kind of chemical reaction	gold
+49	This keeps oxygen from reaching the fire.	answer
+50	negative impact is the opposite of positive impact	nongold
+51	keeping means staying	nongold
+52	gas is a kind of substance	nongold
+53	putting out a fire stops the burning of that fire	gold
+54	can be means able to be	nongold
+55	more burning causes fire to be hotter	nongold
+56	burning wood is used to produce heat	nongold
+57	a burner is made of metal	nongold
+58	This keeps oxygen from reaching the fire.	answer
+59	a source of something emits; produces; generates; provides that something	nongold
+60	a fire requires  oxygen to burn	gold

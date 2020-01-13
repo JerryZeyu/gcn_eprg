@@ -1,0 +1,102 @@
+Question	For a science activity, Mia had to draw a picture of the Moon each night. If Mia drew a new moon, what type of moon did Mia draw about one week later?	question
+Answer	first quarter	answer
+0	the first quarter phase of the moon occurs after the new moon	gold
+1	a first quarter is a kind of phase of the moon	gold
+2	a last quarter is a kind of phase of the moon	nongold
+3	type of moon; kind of moon means moon phase	gold
+4	a type is synonymous with a kind	nongold
+5	form means kind	nongold
+6	a new moon occurs 14 days after a full moon	nongold
+7	the lowest gravitational pull is during a quarter moon	nongold
+8	a type of something is a kind of property of that something	nongold
+9	1 week is equal to 7 days	nongold
+10	length of time means period of time	nongold
+11	classifying is when one sorts something by kind; type	nongold
+12	a new moon is a kind of phase of the moon	gold
+13	the Moon is Earth's moon	nongold
+14	a planet is a kind of celestial object; body	nongold
+15	a moon is a kind of celestial object; body	nongold
+16	action means activity	nongold
+17	the moon orbiting the Earth occurs once per month	nongold
+18	month is a kind of period of time	nongold
+19	astronomy is the study of celestial (objects, bodies)	nongold
+20	the new moon is when the dark half of the moon faces the Earth	nongold
+21	take a picture means create a picture	nongold
+22	each of the moon's phases occurs once per month	nongold
+23	a rotation of the moon takes 1; one month	nongold
+24	the moon orbits the Earth	nongold
+25	a different moon phase occurs once per week	gold
+26	a measure of time is a length of time	nongold
+27	the night time is part of one day	nongold
+28	the new moon is when the lighted half of the moon faces the Sun	nongold
+29	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+30	creating is a kind of activity	nongold
+31	monthly means once per month	nongold
+32	a revolution of the moon around the Earth takes 1; one month	nongold
+33	An example of observing things is taking a picture	nongold
+34	approximately means about	nongold
+35	period is similar to amount of time	nongold
+36	Earth is a kind of planet	nongold
+37	months are a kind of unit for measuring time	nongold
+38	category means kind	nongold
+39	years are a kind of unit for measuring time	nongold
+40	cycles of day and night occur once per day	nongold
+41	image means visual depiction of an object	nongold
+42	a full moon occurs after a waxing gibbous moon	nongold
+43	all the time means at day and at night	nongold
+44	the day time is part of one day	nongold
+45	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+46	a motion is a kind of event; action	nongold
+47	orbiting is a kind of action	nongold
+48	a full moon is a kind of phase of the moon	nongold
+49	scientists make observations	nongold
+50	1 year is equal to 12 months	nongold
+51	moons orbit planets	nongold
+52	reproducing is a kind of activity	nongold
+53	days are a kind of unit for measuring time	nongold
+54	events occur at a specific place; at a specific time; with a specific frequency	nongold
+55	adding is a kind of activity	nongold
+56	old is the opposite of new	nongold
+57	a new season occurs once per 3.0 months	nongold
+58	once per means every	nongold
+59	astronomy is a kind of branch of science	nongold
+60	new means different from the former one	nongold
+61	greatest means largest; highest; most amount of something	nongold
+62	how long something takes is a kind of measurement of time	nongold
+63	length is a part of size	nongold
+64	a process is a kind of event	nongold
+65	revolving  around something means orbiting that something	nongold
+66	classifying is a kind of science process	nongold
+67	a planet's  moon is smaller than that planet	nongold
+68	yearly means every year	nongold
+69	rest is a kind of activity	nongold
+70	motion is when moves an object; something to a direction	nongold
+71	hours are a kind of unit for measuring time	nongold
+72	can be means able to be	nongold
+73	affected means changed	nongold
+74	1 day is equal to 24 hours	nongold
+75	a moon phase occurs 28 days after the last time it occurred	nongold
+76	a planet rotating causes cycles of day and night on that planet	nongold
+77	to turn means to change	nongold
+78	setting is a kind of motion	nongold
+79	variety means different kinds; different types	nongold
+80	1 month is equal to 28-31 days	nongold
+81	rotation is a kind of motion	nongold
+82	a new season occurs four times per year	nongold
+83	an event is a kind of action	nongold
+84	August is a kind of month	nongold
+85	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+86	high is similar to increase	nongold
+87	to create means to make	nongold
+88	no longer means used to be	nongold
+89	a change is a kind of event	nongold
+90	recent means close to present time	nongold
+91	Jupiter is a kind of planet	nongold
+92	1 year is equal to 365 days	nongold
+93	furthest; farthest means greatest; most; highest in distance	nongold
+94	once means one time	nongold
+95	place means space	nongold
+96	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+97	distance is a property of space and includes ordered values of close; far	nongold
+98	a human is a kind of animal	nongold
+99	as the rotation speed of a planet increases , the length of day and night will decrease on that planet	nongold

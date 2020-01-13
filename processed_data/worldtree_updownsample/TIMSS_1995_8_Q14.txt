@@ -1,0 +1,61 @@
+0	lead is a kind of element	nongold
+1	iron sulfide is made of iron and sulfur	gold
+2	brass is made of copper and zinc	nongold
+3	strong means high in strength	nongold
+4	a nonmetal is a kind of element	nongold
+5	sulfur is a kind of element	gold
+6	compound is a kind of chemical	nongold
+7	an element is a kind of material	nongold
+8	a compound is made of two or more elements that have been chemically combined	gold
+9	to cause the formation of means to form	nongold
+10	a compound is made of two or more elements that have been chemically combined	gold
+11	to be made of something means to be formed of that something	nongold
+12	to make means to form	nongold
+13	tungsten is a kind of metal	nongold
+14	ferrous metals contain iron	nongold
+15	A mixture of powdered iron and sulfur is heated. What will be formed?	question
+16	a source of something emits; produces; generates; provides that something	nongold
+17	metals are made of metal	nongold
+18	steel is a kind of metal	nongold
+19	an alkaline earth metal is a kind of element	nongold
+20	an alloy	answer
+21	iron is a kind of element	gold
+22	a compound is made of two or more elements that have been chemically combined	gold
+23	sulfur is a kind of element	gold
+24	hot means high in heat energy; temperature	nongold
+25	iron sulfide is made of iron and sulfur	gold
+26	iron is a kind of element	gold
+27	a liquid is a kind of substance	nongold
+28	a solution is formed by one substance being dissolved in another substance	nongold
+29	a chemical compound is a kind of compound	nongold
+30	heat means heat energy	nongold
+31	an alloy	answer
+32	state means form	nongold
+33	iron is a kind of element	gold
+34	the chemical symbol for iron is Fe	nongold
+35	iron sulfide can be formed by heating a mixture of powdered iron and sulfur	gold
+36	iron sulfide is made of iron and sulfur	gold
+37	heating means adding heat	nongold
+38	sodium is a kind of metal	nongold
+39	sulfur is a kind of element	gold
+40	a solution is a kind of mixture	nongold
+41	substances have chemical properties	nongold
+42	to add means to increase	nongold
+43	A mixture of powdered iron and sulfur is heated. What will be formed?	question
+44	to change into means to form	nongold
+45	a solid is a kind of substance	nongold
+46	temperature is a measure of heat energy	nongold
+47	copper is a kind of element	nongold
+48	A mixture of powdered iron and sulfur is heated. What will be formed?	question
+49	copper is a kind of metal	nongold
+50	material composition is a kind of chemical property	nongold
+51	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+52	iron sulfide can be formed by heating a mixture of powdered iron and sulfur	gold
+53	an alloy	answer
+54	an alloy	answer
+55	A mixture of powdered iron and sulfur is heated. What will be formed?	question
+56	iron sulfide can be formed by heating a mixture of powdered iron and sulfur	gold
+57	if an object is made of a material then that object has the properties of that material	nongold
+58	products are formed; are produced; are created	nongold
+59	an alloy is made of two or more metals	nongold
+60	chemical reactions cause new substances; different substances to form	nongold

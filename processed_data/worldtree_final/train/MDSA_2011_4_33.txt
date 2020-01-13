@@ -1,0 +1,102 @@
+0	Some objects conduct electricity. Which object is the best conductor of electricity?	question
+1	a metal fork	answer
+2	a fork is a kind of object	gold
+3	a fork is a kind of utensil	nongold
+4	metal fork is made of metal for eating	nongold
+5	a good conductor is a conductor	nongold
+6	metal is an  electrical; electrical energy conductor	gold
+7	best means most positive	nongold
+8	metal is a thermal; thermal energy conductor	nongold
+9	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+10	conductivity is a property of a material; substance	gold
+11	an insulator is the opposite of a conductor	gold
+12	electricity means electrical energy	gold
+13	a thermal conductor is made of materials that conduct thermal energy	nongold
+14	good means positive	nongold
+15	a living thing is a kind of object	nongold
+16	better means good	nongold
+17	metal is a kind of material	gold
+18	insulator means good insulator	nongold
+19	if an object is made of a material then that object has the properties of that material	gold
+20	a device is a kind of object	nongold
+21	conductivity is a measure of how easily electricity travels through a material	nongold
+22	metal is a kind of substance	nongold
+23	An electrical conductor is a vehicle for the flow of electricity	nongold
+24	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+25	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+26	an insulator is a kind of material	nongold
+27	objects are made of materials; substances; matter	nongold
+28	to be good for means to have a positive impact on	nongold
+29	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+30	wood is an thermal; thermal energy insulator	gold
+31	instrument means device	nongold
+32	rubber is thermal;thermal energy insulator	gold
+33	wood is a thermal; thermal energy insulator	nongold
+34	plastic is usually an electrical insulator	gold
+35	plastic is a kind of electrical insulator	nongold
+36	a metal rod is a kind of object	nongold
+37	plastic is a kind of thermal insulator	nongold
+38	water is an thermal; thermal energy conductor	nongold
+39	a source of something emits; produces; generates; provides that something	nongold
+40	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+41	a handle is a kind of object	nongold
+42	a tool is a kind of object	nongold
+43	an animal is a kind of living thing	nongold
+44	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+45	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+46	conductivity is a kind of physical property	nongold
+47	material means substance	nongold
+48	an object; material; substance comes from that object or material's source	nongold
+49	a vehicle is a kind of object	nongold
+50	electrical energy is a kind of energy	nongold
+51	wiring requires an electrical conductor	nongold
+52	conducting is similar to exchanging	nongold
+53	an instrument is a piece of equipment	nongold
+54	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+55	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+56	if one electrical conductor contacts another electrical conductor then electricity will flow through both conductors	nongold
+57	a human is a kind of animal	nongold
+58	a conducting metal loop is a kind of electromagnet	nongold
+59	electricity is used as an energy source by electrical devices	nongold
+60	instrument means tool	nongold
+61	electrocution causes harm to an organism	nongold
+62	metal is a kind of natural resource	nongold
+63	electric devices require electrical energy to function	nongold
+64	to conduct is similar to to transfer	nongold
+65	thermal conduction is when heat flows from warmer object to cooler object	nongold
+66	a machine is a kind of  device	nongold
+67	electrical devices are used for industrial purposes; household purposes by humans	nongold
+68	wax is an electrical; electrical energy insulator	nongold
+69	device means tool	nongold
+70	conducting is a kind of function	nongold
+71	answering questions requires information	nongold
+72	an object has properties	nongold
+73	electricity is made of moving charges; moving charged particles	nongold
+74	an electrical charge can attract objects to other objects	nongold
+75	being  on something; placed in something; placed over something means touching  that something	nongold
+76	a spoon sometimes is made of metal	nongold
+77	conduction is a kind of process	nongold
+78	to depend on; to rely on; to need means to require	nongold
+79	a machine is a kind of object	nongold
+80	an electromagnet is a kind of device	nongold
+81	air is usually a thermal; thermal energy insulator	nongold
+82	heat means heat energy	nongold
+83	a metal is usually a solid at room temperature	nongold
+84	an animal is a kind of organism	nongold
+85	particles in objects are a kind of matter	nongold
+86	a thermal insulator slows; prevents the transfer of heat	nongold
+87	heating means adding heat	nongold
+88	brick is an electrical; electrical energy insulator	nongold
+89	an electromagnet is a kind of electric magnet	nongold
+90	a spoon is a kind of object	nongold
+91	heat is a kind of energy	nongold
+92	salt water is an electrical; electrical energy conductor	nongold
+93	the function of something is what that something  is used to do	nongold
+94	substances are made of matter	nongold
+95	if a container contains something then that container touches that something	nongold
+96	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	nongold
+97	rubbing different materials can cause electrical charge	nongold
+98	a hot plate is a kind of instrument	nongold
+99	to be used for something means to be required by that something	nongold
+100	helping something has a  positive impact on that something	nongold
+101	tool is similar to appliance	nongold

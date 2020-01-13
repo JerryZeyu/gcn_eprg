@@ -1,0 +1,102 @@
+Question	Frame construction predominates in the New England area due to the abundance of	question
+Answer	wood.	answer
+0	New England has an abundance of trees	gold
+1	if an industry requires a resource then that industry predominates in areas with an abundance of that resource	gold
+2	frame construction requires wood	gold
+3	frame construction is a kind of industry	gold
+4	amount is similar to abundance	nongold
+5	Rutland is a county located in England	nongold
+6	construction means building	nongold
+7	Durham is a county located in England	nongold
+8	Northumberland is a county located in England	nongold
+9	Kent is a county located in England	nongold
+10	Westmoreland is a county located in England	nongold
+11	Devon is a county located in England	nongold
+12	Somerset is a county located in England	nongold
+13	Suffolk is a county located in England	nongold
+14	Cornwall is a county located in England	nongold
+15	Cumbria (Cumberland) is a county located in England	nongold
+16	new means different from the former one	nongold
+17	Cheshire is a county located in England	nongold
+18	Lancashire is a county located in England	nongold
+19	Sussex is a county located in England	nongold
+20	Dorset is a county located in England	nongold
+21	Surrey is a county located in England	nongold
+22	Hampshire is a county located in England	nongold
+23	area is similar to location	nongold
+24	Yorkshire is a county located in England	nongold
+25	due to means caused by	nongold
+26	Berkshire is a county located in England	nongold
+27	Norfolk is a county located in England	nongold
+28	Essex is a county located in England	nongold
+29	Worcestershire is a county located in England	nongold
+30	old is the opposite of new	nongold
+31	an environment means an area	nongold
+32	Northamptonshire is a county located in England	nongold
+33	Shropshire is a county located in England	nongold
+34	Middlesex is a county located in England	nongold
+35	Buckinghamshire is a county located in England	nongold
+36	Lincolnshire is a county located in England	nongold
+37	Bedfordshire is a county located in England	nongold
+38	Gloucestershire is a county located in England	nongold
+39	a lot means large in amount; quantity	nongold
+40	wood is a renewable resource	nongold
+41	Oxfordshire is a county located in England	nongold
+42	wood is a kind of object	nongold
+43	Nottinghamshire is a county located in England	nongold
+44	less is similar to decrease	nongold
+45	wood is a strong material	nongold
+46	wood is a kind of resource	gold
+47	place means area	nongold
+48	Hertfordshire is a county located in England	nongold
+49	Warwickshire is a county located in England	nongold
+50	a tree contains wood	gold
+51	wood is usually sturdy	nongold
+52	Derbyshire is a county located in England	nongold
+53	construction of a building usually requires clearing the land as the first step; beforehand	nongold
+54	an increase is the opposite of a decrease	nongold
+55	Staffordshire is a county located in England	nongold
+56	Huntingdonshire is a county located in England	nongold
+57	to make means to build	nongold
+58	abundant means high in number	nongold
+59	low is similar to decrease	nongold
+60	to lower means to decrease	nongold
+61	Leicestershire is a county located in England	nongold
+62	Wiltshire is a county located in England	nongold
+63	building usually requires cutting down trees	nongold
+64	high is similar to increase	nongold
+65	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+66	building a tool requires knowing about the parts of that tool	nongold
+67	area; space is a kind of resource	nongold
+68	an increase is a kind of change	nongold
+69	an environment is a kind of place	nongold
+70	a decrease is a kind of change	nongold
+71	Cambridgeshire is a county located in England	nongold
+72	little is similar to decrease	nongold
+73	greatest means largest; highest; most amount of something	nongold
+74	answering questions requires information	nongold
+75	requiring something means needing that something	nongold
+76	most means over 50% of something	nongold
+77	increase means more	nongold
+78	objects are made of materials; substances; matter	nongold
+79	as the cause of something decreases , that something will decrease	nongold
+80	a tree is a kind of plant	nongold
+81	vegetation means plants	nongold
+82	to lack means to not have	nongold
+83	a region is a kind of location	nongold
+84	a type is synonymous with a kind	nongold
+85	building something often requires measuring the materials	nongold
+86	no longer means used to be	nongold
+87	a source of something emits; produces; generates; provides that something	nongold
+88	New Zealand is located in the southern hemisphere	nongold
+89	wood is a kind of natural material	nongold
+90	to depend on; to rely on; to need means to require	nongold
+91	a structure of something is synonymous with a part of that something	nongold
+92	wood is a light material	nongold
+93	quantity means amount	nongold
+94	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+95	to create means to make	nongold
+96	trees are a renewable resource	nongold
+97	to be used for something means to be required by that something	nongold
+98	to conserve means to not change	nongold
+99	if something required by something else is in a place then that something else may be in that place	nongold

@@ -1,0 +1,102 @@
+Question	The Sun appears to move across the sky each day, rising in the east and setting in the west. What causes this apparent motion?	question
+Answer	the rotation of Earth on its axis	answer
+0	the sun rises in the east	gold
+1	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	gold
+2	the sun rising and setting causes cycles of day and night	nongold
+3	the sun rising; setting occurs once per day	nongold
+4	the sun sets in the west	gold
+5	the Earth rotates on its axis	gold
+6	the Earth rotating on its axis causes  stars; the Moon to appear to move across the sky at night	nongold
+7	rising is a kind of motion	gold
+8	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+9	setting is a kind of motion	gold
+10	Earth is a kind of planet	gold
+11	rising means height; altitude increases	nongold
+12	rotation is a kind of motion	nongold
+13	if a human is on a rotating planet then other celestial bodies will appear to move from that human's perspective due to  the rotation of that planet	gold
+14	cycles of day and night occur once per day	nongold
+15	the Sun is a kind of star	gold
+16	revolving is a kind of motion	nongold
+17	apparent motion  is when  an object appears to move relative to another object's perspective; another object's position	nongold
+18	a rotation is a kind of movement	nongold
+19	the Earth revolves around the sun	nongold
+20	diurnal motion is when  objects in the sky appear  to move due to Earth's rotation on its axis	nongold
+21	appear is similar to apparent	nongold
+22	motion; movement means moving; to move	nongold
+23	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	nongold
+24	rising means moving upward	nongold
+25	Earth rotating on its axis occurs once per day	nongold
+26	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+27	a planet rotating causes cycles of day and night on that planet	nongold
+28	the day time is part of one day	nongold
+29	rotate means turn	nongold
+30	if it is night then the sun has set	nongold
+31	a motion is a kind of event; action	nongold
+32	days are a kind of unit for measuring time	nongold
+33	to rotate means to complete a rotation	nongold
+34	Earth's rotation causes time zones	nongold
+35	north; northward is a kind of direction	nongold
+36	a star is a kind of celestial object; celestial body	gold
+37	some celestial bodies rotate in space	nongold
+38	turning is a kind of motion	nongold
+39	north is the opposite of south	nongold
+40	rotation  is  the  circular movement of an object around a center; axis	nongold
+41	the sun is not a star in the night sky	nongold
+42	the sun is a source of light; light energy called sunlight	nongold
+43	the night time is part of one day	nongold
+44	sunlight is a kind of light	nongold
+45	raising is a kind of motion	nongold
+46	south; southward is a kind of direction	nongold
+47	motion is when moves an object; something to a direction	nongold
+48	movement is a kind of change	nongold
+49	all the time means at day and at night	nongold
+50	shift means move	nongold
+51	increase means more	nongold
+52	a planet is a kind of celestial object; body	nongold
+53	movements of celestial bodies are a kind of event	nongold
+54	revolving is a kind of action	nongold
+55	the sun rising is a kind of event	nongold
+56	apparent magnitude is a measure of the brightness of a celestial object; celestial body as observed on Earth	nongold
+57	latitude is a property of a location; place on Earth	nongold
+58	an increase is a kind of change	nongold
+59	the sun setting is a kind of event	nongold
+60	to travel up means to rise	nongold
+61	events occur at a specific place; at a specific time; with a specific frequency	nongold
+62	the sky is similar to space	nongold
+63	to be a source of something means to cause that something	nongold
+64	high is similar to increase	nongold
+65	sunlight is a kind of solar energy	nongold
+66	an event is a kind of action	nongold
+67	once per means every	nongold
+68	lowering is a kind of motion	nongold
+69	the Earth revolving around the Sun causes the seasons to change; to occur on its axis	nongold
+70	to turn means to change	nongold
+71	to cause is similar to bring	nongold
+72	spreading is a kind of motion	nongold
+73	the moon rising occurs once per day	nongold
+74	moving in a circle means moving in a circular motion	nongold
+75	length of time means period of time	nongold
+76	a process is a kind of event	nongold
+77	a component of something means a part of that something	nongold
+78	Earth's angle of tilt causes the length of day and night to vary	nongold
+79	to change means to cause a change	nongold
+80	flowing is a kind of motion	nongold
+81	pulling is a kind of motion	nongold
+82	causing means influencing	nongold
+83	to ascend means to rise	nongold
+84	distance is a property of space and includes ordered values of close; far	nongold
+85	upward is a kind of direction	nongold
+86	the Sun is the  star that is closest to Earth	nongold
+87	answering questions requires information	nongold
+88	due to means caused by	nongold
+89	the sunlight occurs during the day	nongold
+90	a component means a part of	nongold
+91	revolving  around something means orbiting that something	nongold
+92	rising means elevation	nongold
+93	to give is similar to to cause	nongold
+94	a measure of time is a length of time	nongold
+95	can be means able to be	nongold
+96	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+97	a source of something emits; produces; generates; provides that something	nongold
+98	to cause an event is similar to being involved in that event	nongold
+99	to cause means to have an effect	nongold

@@ -1,0 +1,102 @@
+Question	In New York State, the longest period of daylight occurs during which month?	question
+Answer	June	answer
+0	New York; New York State is a state located in the United States of America	gold
+1	June is a kind of month	gold
+2	month is a kind of period of time	nongold
+3	daylight occurs during the day	nongold
+4	months are a kind of unit for measuring time	nongold
+5	amount of daylight means length of daylight	gold
+6	daylight means sunlight	nongold
+7	shortest means least; smallest in length	nongold
+8	shortest means the least amount of time	nongold
+9	period of daylight is synonymous with amount of daylight	gold
+10	longest means greatest in length	gold
+11	1 month is equal to 28-31 days	nongold
+12	daylight hours means time during which there is daylight	nongold
+13	the sunlight occurs during the day	nongold
+14	June is during the winter in the southern hemisphere	nongold
+15	June is during the summer in the northern hemisphere	gold
+16	length of time means period of time	nongold
+17	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+18	monthly means once per month	nongold
+19	the amount of daylight is least on the winter solstice	nongold
+20	the amount of daylight is greatest on the summer solstice	gold
+21	New York is closer to the North Pole than Florida	nongold
+22	daytime means day	nongold
+23	daily means every day; once per day	nongold
+24	period is similar to amount of time	nongold
+25	daylight is when the sun shines on a location	nongold
+26	days are a kind of unit for measuring time	nongold
+27	a new season occurs once per 3.0 months	nongold
+28	the amount of daylight is least in the winter	nongold
+29	the winter solstice is on June 21st in the southern hemisphere	nongold
+30	August is a kind of month	nongold
+31	the summer solstice is on June 21st in the northern hemisphere	gold
+32	sunlight is a kind of light	nongold
+33	how long something takes is a kind of measurement of time	nongold
+34	once per means every	nongold
+35	each of the moon's phases occurs once per month	nongold
+36	the amount of daylight is greatest in the summer	gold
+37	hours are a kind of unit for measuring time	nongold
+38	long means great in length	nongold
+39	1 day is equal to 24 hours	nongold
+40	the night time is part of one day	nongold
+41	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+42	the sun is a source of light; light energy called sunlight	nongold
+43	annual means once per year	nongold
+44	Neptune has the longest solar year; planetary year in the solar system	nongold
+45	a cycle happens; occurs repeatedly	nongold
+46	the day time is part of one day	nongold
+47	sunshine means sunlight	nongold
+48	the sun rising; setting occurs once per day	nongold
+49	December is a kind of month	nongold
+50	John is a name for a human	nongold
+51	years are a kind of unit for measuring time	nongold
+52	sunlight means solar energy	nongold
+53	to happen means to occur	nongold
+54	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+55	a new season occurs four times per year	nongold
+56	1 year is equal to 12 months	nongold
+57	the new moon is when the lighted half of the moon faces the Sun	nongold
+58	state of matter means physical state	nongold
+59	a new moon is a kind of phase of the moon	nongold
+60	a new moon occurs 14 days after a full moon	nongold
+61	events occur at a specific place; at a specific time; with a specific frequency	nongold
+62	a rotation of the moon takes 1; one month	nongold
+63	1 year is equal to 365 days	nongold
+64	phase means state	nongold
+65	when the season changes , the amount of daylight will change	nongold
+66	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+67	new means different from the former one	nongold
+68	cycles of day and night occur once per day	nongold
+69	sunlight is a kind of solar energy	nongold
+70	state means form	nongold
+71	the new moon is when the dark half of the moon faces the Earth	nongold
+72	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+73	the afternoon is  a part of the day	nongold
+74	physical state means state of matter	nongold
+75	a human is a kind of animal	nongold
+76	Neptune is a kind of planet in the solar system	nongold
+77	a phase of the moon is a kind of state	nongold
+78	if something is outside during the day then that something will receive sunlight	nongold
+79	old is the opposite of new	nongold
+80	afternoon is a part of day time	nongold
+81	the moon orbiting the Earth occurs once per month	nongold
+82	as the amount of daylight increases , sunset will occur later in the day	nongold
+83	intensity of sunlight is similar to amount of sunlight	nongold
+84	Yorkshire is a county located in England	nongold
+85	high is similar to increase	nongold
+86	yogurt is a kind of food	nongold
+87	to add means to increase	nongold
+88	yearly means every year	nongold
+89	solid is a kind of state of matter	nongold
+90	to shorten means to make shorter	nongold
+91	Tuesday is a kind of  time	nongold
+92	to a human a time period of 1000 years or more years is considered very long	nongold
+93	all the time means at day and at night	nongold
+94	a measure of time is a length of time	nongold
+95	Jonny is a name for a human	nongold
+96	a revolution of the moon around the Earth takes 1; one month	nongold
+97	N means newton	nongold
+98	answering questions requires information	nongold
+99	something that happens is a kind of event	nongold

@@ -1,0 +1,100 @@
+0	Mars is a kind of inner planet	nongold
+1	a  gas is a kind of  element	nongold
+2	an part of an object is smaller than the entire object	nongold
+3	an organism is a living thing	nongold
+4	if something performs a task then that task is that something's function	nongold
+5	a space probe is a kind of unpiloted robotic vehicle that can orbit or land on other planets	gold
+6	a space probe is used for collecting;analyzing materials; samples; information	gold
+7	a vehicle is used for travel	nongold
+8	space probe.	answer
+9	soil is made of very small rocks; minerals	nongold
+10	the atmosphere is a part of nature; the environment	nongold
+11	a human is a kind of animal	nongold
+12	if a technology that is used to study something is still being developed then that something can not be discovered; studied	nongold
+13	data means information	nongold
+14	soil is usually part of an environment	nongold
+15	a volatile substance gives off gas	nongold
+16	a tool is a kind of object	nongold
+17	an object; material; substance comes from that object or material's source	nongold
+18	a vehicle is a kind of object	nongold
+19	an instrument is a piece of equipment	nongold
+20	the atmosphere contains gases; liquids; solids	nongold
+21	high is similar to increase	nongold
+22	an event is a kind of action	nongold
+23	atmosphere means  air	nongold
+24	an animal is a kind of organism	nongold
+25	a research team is made of humans	nongold
+26	the Viking I Lander is a kind of space probe	gold
+27	a field contains soil	nongold
+28	greenhouse gases are a part of the atmosphere	nongold
+29	a vehicle for something allows; enables that something to occur	nongold
+30	gas is a kind of substance	nongold
+31	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+32	In 1976, the Viking I Lander was sent to Mars to analyze atmospheric gases and soil samples. The Viking I Lander was most likely a	question
+33	low quality soil has a small; a low number of nutrients	nongold
+34	more likely means increased likelihood	nongold
+35	gases are usually low in density	nongold
+36	the Earth's atmosphere is made of .036 percent carbon dioxide by volume	nongold
+37	useful means able to be used	nongold
+38	soil is a kind of nonliving thing	nongold
+39	gas flows from high pressure area to low pressure area	nongold
+40	Mars is the planet that is fourth closest to the  Sun	nongold
+41	the Mars Rover is a kind of vehicle	nongold
+42	the atmosphere is a kind of area	nongold
+43	a process is a kind of event	nongold
+44	Mars is a kind of planet	gold
+45	emit means send out	nongold
+46	Earth is greater in mass than Mars	nongold
+47	soil is a part of the ground outside	nongold
+48	instrument means device	nongold
+49	to send means to transfer	nongold
+50	material means substance	gold
+51	examining is a kind of process	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	studying a soil sample means studying the microorganisms in that soil	nongold
+54	a person is a kind of animal	nongold
+55	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+56	part means role	nongold
+57	carbon dioxide is a kind of gas	nongold
+58	person is synonymous with human	nongold
+59	furthest; farthest means greatest; most; highest in distance	nongold
+60	if something is transported to something else then that something else receives that something	nongold
+61	soil is made of solid particles	nongold
+62	answering questions requires information	nongold
+63	a liquid is a kind of substance	nongold
+64	examining sometimes requires measuring	nongold
+65	a space probe is a kind of spacecraft	nongold
+66	often is similar to likely	nongold
+67	vapor is synonymous with gas	nongold
+68	a landform is a kind of object	nongold
+69	soil is permeable	nongold
+70	gas is a kind of material	gold
+71	an animal is a kind of living thing	nongold
+72	air is a kind of gas	nongold
+73	an astronaut is a kind of human	nongold
+74	a mammal is a kind of animal	nongold
+75	a vehicle is a kind of tool for travel; transport	nongold
+76	water vapor is found in the atmosphere	nongold
+77	the function of something is what that something  is used to do	nongold
+78	to be used for something means to be required by that something	nongold
+79	scientists make observations	nongold
+80	a scientist is a kind of human	nongold
+81	a living thing is a kind of object	nongold
+82	can be means able to be	nongold
+83	gas is a kind of object	nongold
+84	often soil is found in an environment	nongold
+85	a measurement is a kind of data	nongold
+86	instrument means tool	nongold
+87	atmospheric means of the atmosphere	nongold
+88	a robotic probe is a kind of object	nongold
+89	sample is similar to small amount of substance; matter	gold
+90	affected means changed	nongold
+91	soil is found on the surface of the Earth	nongold
+92	Mars contains ice	nongold
+93	soil contains water; humus; weathered rocks; organic matter	nongold
+94	observations; data are a part of the results of an experiment	nongold
+95	soil is a kind of material	gold
+96	a human is a kind of mammal	nongold
+97	a satellite is a kind of instrument for observing Earth's surface	nongold
+98	gaseous means of gas	nongold
+99	the air is a kind of substance	nongold

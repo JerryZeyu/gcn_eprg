@@ -1,0 +1,52 @@
+0	coastline means coast	nongold
+1	Texas is a state located in the United States of America	nongold
+2	an estuary is a kind of body of water	nongold
+3	spring tide is similar to high tide	gold
+4	a rotation of the moon takes 1; one month	nongold
+5	during a full moon	answer
+6	When would the highest tides occur along the Texas coast?	question
+7	When would the highest tides occur along the Texas coast?	question
+8	a coast is a coastal area	nongold
+9	an island is a kind of landform	nongold
+10	spring tides occur during a full moon	gold
+11	the moon reflects sunlight towards the Earth	nongold
+12	the lowest gravitational pull is during a quarter moon	nongold
+13	spring tide is similar to high tide	gold
+14	an aquatic animal is a kind of animal	nongold
+15	to happen means to occur	nongold
+16	the new moon is when the lighted half of the moon faces the Sun	nongold
+17	a change is a kind of event	nongold
+18	a coast is a kind of environment	nongold
+19	spring tides occur during a full moon	gold
+20	a moon phase is a kind of natural event	nongold
+21	a planet's  moon is smaller than that planet	nongold
+22	the moon is less bright than the sun	nongold
+23	spring tide is when high tide is at its greatest distance from low tide	nongold
+24	an ocean is a kind of body of water	nongold
+25	a tide is a kind of natural event	nongold
+26	the gravitational pull of the Sun on Earth's oceans causes the tides	nongold
+27	as gravitational pull of the moon decreases , the ocean tides will be lower	nongold
+28	the Moon is Earth's moon	nongold
+29	the Moon has less water; air than Earth	nongold
+30	a moon is a kind of celestial object; body	nongold
+31	during a full moon	answer
+32	spring tides occur during a full moon	gold
+33	When would the highest tides occur along the Texas coast?	question
+34	a coast is where land meets the edge of a body of water	nongold
+35	spring tide is similar to high tide	gold
+36	during a full moon	answer
+37	When would the highest tides occur along the Texas coast?	question
+38	a cycle happens; occurs repeatedly	nongold
+39	Atlantic Ocean is located in  the northwestern coast of Europe	nongold
+40	all the time means at day and at night	nongold
+41	low tide is a stage in the tide cycle process	nongold
+42	period is similar to amount of time	nongold
+43	during a full moon	answer
+44	a waning gibbous is a kind of phase of the moon	nongold
+45	highest means largest; greatest; most in height	nongold
+46	extreme means very high in value	nongold
+47	lowest means least in value; amount; number	nongold
+48	furthest; farthest means greatest; most; highest in distance	nongold
+49	an increase is a kind of change	nongold
+50	low is similar to decrease	nongold
+51	high is similar to increase	nongold

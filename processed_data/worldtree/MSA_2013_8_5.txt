@@ -1,0 +1,102 @@
+Question	Sheep Challenge Evolution A species of sheep lives on the Scottish island of Hirta. Hirta has plenty of grass for the sheep to eat, and no natural predators of the sheep live on the island. Some sheep have dark wool, and some have light wool. The sheep with dark wool tend to be much larger and stronger than the sheep with light wool. However, researchers have found that in the last 20 years, the sheep with light wool have increased in number. Usually, strength and size help animals survive and breed. On Hirta, sheep with light wool outnumber sheep with dark wool because sheep with light wool	question
+Answer	have a better chance of surviving and reproducing	answer
+0	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+1	a sheep is a kind of animal	gold
+2	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+3	having no natural predators increases population size	nongold
+4	an animal; living thing requires nutrients for survival	nongold
+5	dark means dark in color	nongold
+6	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+7	an animal is a kind of living thing	gold
+8	helping something has a  positive impact on that something	nongold
+9	typically means usually	nongold
+10	a plant; living thing requires food for survival	nongold
+11	if a living thing requires something then that something has a positive impact on that living thing	nongold
+12	killing a living thing decreases the number; population size of that living thing	nongold
+13	weak means low in strength	nongold
+14	to help means to aid	nongold
+15	strong means high in strength	nongold
+16	to help; to benefit means to be of use	nongold
+17	to be used  for something means to help to do that something	nongold
+18	growth means size;number;value;strength increases	nongold
+19	an animal is a kind of organism	nongold
+20	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+21	fur is often part of an animal	nongold
+22	requiring is similar to needing help	nongold
+23	an organism is a living thing	nongold
+24	killing means harming something causing death	nongold
+25	smaller means less; lower in size	nongold
+26	weaker is the opposite of stronger	nongold
+27	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+28	helping means to assist in a change	nongold
+29	predators eat prey	nongold
+30	survival means to survive	nongold
+31	eating an animal; a plant means killing that animal; that plant	nongold
+32	reproduction increases the number; population of a living thing	nongold
+33	lighter means lower; less in weight	nongold
+34	generally means usually	nongold
+35	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+36	dark is the opposite of light	nongold
+37	an animal requires enough nutrients to maintain good health; survive	nongold
+38	an increase is the opposite of a decrease	nongold
+39	population increase means more survive	nongold
+40	a predator eats other animals for food	nongold
+41	harming an animal species has a  negative impact on the population size of that species	nongold
+42	usually means most of the time	nongold
+43	larger means greater; higher; more; increase in size	nongold
+44	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+45	killing means changing a living thing from alive to dead by harming	nongold
+46	increase means more	nongold
+47	dark means a low amount of light	nongold
+48	an animal needs to eat food for nutrients	nongold
+49	an island is a kind of landform	nongold
+50	harming something has a  negative impact on; effect on that something	nongold
+51	a predator is a kind of animal	nongold
+52	survive means live	nongold
+53	survive means live	nongold
+54	a living thing is a kind of object	gold
+55	fewer means lower; less in number	nongold
+56	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+57	strength is a property of an object; a material	nongold
+58	high is similar to increase	nongold
+59	an adaptation  is  a change in a population over successive generations that  helps  individuals organisms in that population to  survive; reproduce	nongold
+60	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+61	trait is synonymous with characteristic	gold
+62	the size of an organism is an inherited characteristic	nongold
+63	light means low  in weight	nongold
+64	small is the opposite of large	nongold
+65	nonliving; non-living; die is the opposite of living; alive; live	nongold
+66	to enable is to help	nongold
+67	most predators live in; live near the same environment as their prey	nongold
+68	prey is a kind of food for predators	nongold
+69	sometimes nonnative species have no natural predators	nongold
+70	life means living things	nongold
+71	larger; bigger is the opposite of smaller	nongold
+72	fur is usually part of a mammal	nongold
+73	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+74	dying is the opposite of living; surviving	nongold
+75	death means to die	nongold
+76	an environment means an area	nongold
+77	low is similar to decrease	nongold
+78	population is a measure of the number of a species in an environment	nongold
+79	as population of predators decreases , the population of prey will increase in an environment	nongold
+80	less is similar to decrease	nongold
+81	strength is a kind of property	nongold
+82	harming an animal species causes that animal's population to decrease	nongold
+83	amount is similar to number	nongold
+84	if something weakens , then that something is weaker	nongold
+85	if a living thing dies then that living thing is dead	nongold
+86	growing larger is when size increases	nongold
+87	negative impact is the opposite of positive impact	nongold
+88	grass is a kind of green plant	nongold
+89	two objects are usually different in size	nongold
+90	a predator usually kills its prey to eat it	nongold
+91	a plant is a kind of organism	nongold
+92	a food contains nutrients for living things	nongold
+93	as population of predators increases , the population of prey will decrease in an environment	nongold
+94	length is a part of size	nongold
+95	harming an organism can cause that organism to die	nongold
+96	food is what an animal eats	nongold
+97	help means advantage	nongold
+98	a plant is a kind of living thing	nongold
+99	to depend on; to rely on; to need means to require	nongold

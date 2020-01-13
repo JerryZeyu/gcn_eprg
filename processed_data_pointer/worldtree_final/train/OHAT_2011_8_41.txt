@@ -1,0 +1,102 @@
+0	a motion is a kind of event; action	nongold
+1	a particle is a kind of object	nongold
+2	a reaction is a kind of process	nongold
+3	increase means more	nongold
+4	a component of something means a part of that something	nongold
+5	a cycle is a kind of process	nongold
+6	water is a kind of matter	nongold
+7	same means identical; equal in value; amount; number; quantity	nongold
+8	solid is a kind of state of matter	nongold
+9	a source of something increases the amount of that something	nongold
+10	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+11	thermal energy is a kind of energy	nongold
+12	composed of means made of	nongold
+13	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+14	electrical energy is a kind of energy	nongold
+15	a chemical reaction is a kind of process	nongold
+16	an atom is a kind of object	nongold
+17	air is a kind of matter	nongold
+18	an increase is a kind of change	nongold
+19	physical state means state of matter	nongold
+20	variable means able to change	nongold
+21	objects contain chemical energy	nongold
+22	chemical reactions do not cause the total number of atoms to change	nongold
+23	to conserve means to not change	nongold
+24	can be means able to be	nongold
+25	all the other means the rest of	nongold
+26	different substances usually have different amount of chemical energy	nongold
+27	to depend on; to rely on; to need means to require	nongold
+28	an element is made of one kind of atoms	nongold
+29	when one kind of energy changes into another kind of energy , the total amount of energy is constant	nongold
+30	energy transformation means one kind of energy changes into another kind of energy	nongold
+31	the effects of something is a property of that something	nongold
+32	all elements are a kind of pure substance	nongold
+33	matter; energy is always conserved in any physical or chemical process	gold
+34	chemical change is the opposite of physical change	nongold
+35	substances are made of elements	nongold
+36	answering questions requires information	nongold
+37	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+38	a decrease is a kind of change	nongold
+39	seconds are a kind of unit for measuring time	nongold
+40	phase means state	nongold
+41	stay the same means not changing	nongold
+42	a change is a kind of event	nongold
+43	state means form	nongold
+44	if something is made of something else , then that something else will be the component of that something	nongold
+45	a process is a kind of event	nongold
+46	refraction is a kind of process	nongold
+47	made up of means contains; made of	nongold
+48	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+49	if something undergoes physical change then the chemical properties of that something will remain unchanged	nongold
+50	to be used for something means to be required by that something	nongold
+51	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+52	a source of something emits; produces; generates; provides that something	nongold
+53	substances are made of matter	nongold
+54	material means substance	nongold
+55	both means two	nongold
+56	nuclear energy is a kind of energy	nongold
+57	an event is a kind of action	nongold
+58	a component means a part of	nongold
+59	100% probability means always	nongold
+60	if something gains something from something else then that something else is a source of that something	nongold
+61	replace means change from one thing into  another	nongold
+62	compressibility is a property of  matter and includes ordered values of compressible; not compressible	nongold
+63	food is a kind of chemical energy	nongold
+64	formation of a state of matter is a kind of process	nongold
+65	hydrogen contains chemical energy	nongold
+66	state of matter means physical state	nongold
+67	a process usually requires all of the stages in that process	nongold
+68	In any physical or chemical process, what two quantities are always conserved?	question
+69	a pure substance is made of only one kind of atom; molecule	nongold
+70	usually means most of the time	nongold
+71	a physical reaction is a kind of process	nongold
+72	matter and total energy	answer
+73	high is similar to increase	nongold
+74	gas is a kind of state of matter	nongold
+75	once per means every	nongold
+76	heat means heat energy	nongold
+77	chemical energy is a kind of energy	nongold
+78	not is similar to the opposite of	nongold
+79	something that happens is a kind of event	nongold
+80	an element is a kind of  substance	nongold
+81	mechanical energy is a kind of energy	nongold
+82	a living thing is a kind of object	nongold
+83	quantity means amount	nongold
+84	atoms are made of particles	nongold
+85	state of matter is a kind of physical property	nongold
+86	definite is the opposite of variable	nongold
+87	one in  two means half; 50%	nongold
+88	a molecule is a kind of particle	nongold
+89	if something causes a process then that something is required for that process	nongold
+90	an  element is a kind of atom	nongold
+91	matter; materials; substances are made of atoms; particles	nongold
+92	change is a kind of process	nongold
+93	matter is made of molecules	nongold
+94	chemical reactions cause new substances; different substances to form	nongold
+95	materials are made of matter	nongold
+96	objects are made of materials; substances; matter	nongold
+97	liquid is a kind of state of matter	nongold
+98	heat is a kind of energy	nongold
+99	chemicals means substances	nongold
+100	particles in objects are a kind of matter	nongold
+101	a part of a process means a stage in a process	nongold

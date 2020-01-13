@@ -1,0 +1,102 @@
+0	Stacey picks apples and puts them in a basket. When she puts her basket on a scale, the scale reads two kilograms	question
+1	height	answer
+2	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	gold
+3	a scale is used for measuring weight	gold
+4	height is a measure of length from the top of an object to the bottom of an object	nongold
+5	an apple is a kind of fruit	nongold
+6	kg means kilograms	nongold
+7	an  apple is  round in shape	nongold
+8	height is a property of the size of an object	nongold
+9	a weight is a kind of object	nongold
+10	being  on something; placed in something; placed over something means touching  that something	nongold
+11	weight is a property of objects; matter	nongold
+12	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+13	mass; weight is a property of matter; objects; materials	nongold
+14	height is a kind of position	nongold
+15	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+16	a meter is a kind of unit for measuring distance; measuring length	nongold
+17	both means two	nongold
+18	an  apple is  hard	nongold
+19	a fruit is a kind of object	nongold
+20	length is a part of size	nongold
+21	highest means largest; greatest; most in height	nongold
+22	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+23	measuring requires reading a measurement	nongold
+24	level is similar to amount; quantity	nongold
+25	quantity means amount	nongold
+26	tall means great in height	nongold
+27	taller means greater in height; size	nongold
+28	an ounce is a kind of unit for measuring mass	nongold
+29	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+30	size; amount of space means volume	nongold
+31	low is the opposite of high	nongold
+32	length is a measure of distance from one end of an object to the other end of that object	nongold
+33	density is a measure of mass of an object over volume; divided by volume	nongold
+34	low means down	nongold
+35	a container contains objects; material; substances	nongold
+36	greatest means largest; highest; most amount of something	nongold
+37	weight means the force of gravity acting on an object	nongold
+38	a balance is used for measuring mass;weight of an object; of a substance	nongold
+39	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+40	low means low in elevation; height; altitude	nongold
+41	a container is a kind of object	nongold
+42	if an object is made of a material then that object has the properties of that material	nongold
+43	a kilogram is a kind of unit for measuring mass	nongold
+44	an object is an item	nongold
+45	a scale is hard	nongold
+46	larger means greater; higher; more; increase in size	nongold
+47	higher means greater; above in value; amount; number	nongold
+48	weight is a measure of the force of the gravity on the mass of an object	nongold
+49	food is a kind of object	nongold
+50	a living thing is a kind of object	nongold
+51	heavy means a large amount of weight	nongold
+52	an animal is a kind of living thing	nongold
+53	Weight is  the  force of gravity acting on an object	nongold
+54	shorter means smaller; less in  height	nongold
+55	small is the opposite of large	nongold
+56	pounds ( lb ) are a  imperial unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+57	height is an inherited characteristic	nongold
+58	high means a lot of something	nongold
+59	growing is when an animal's height;mass;size increase	nongold
+60	an part of an object is smaller than the entire object	nongold
+61	a human is a kind of animal	nongold
+62	objects are made of materials; substances; matter	nongold
+63	motion; movement means moving; to move	nongold
+64	a tool is a kind of object	nongold
+65	an apple is smooth on the surface	nongold
+66	material means substance	nongold
+67	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+68	as amount; size of something increases , the intensive properties of that something will not change	nongold
+69	weight is a kind of property	gold
+70	a meter stick is used to measure distance; height; length	nongold
+71	a balance is a kind of instrument for measuring mass; measuring weight	nongold
+72	fruit is a kind of food	nongold
+73	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+74	a piece of something is a kind of object	nongold
+75	length is a property of the shape of an object	nongold
+76	a pound is a kind of unit for measuring mass	nongold
+77	smaller means less; lower in size	nongold
+78	growing means a plant's height;mass;size increase	nongold
+79	larger; bigger is the opposite of smaller	nongold
+80	lowest means least in value; amount; number	nongold
+81	calculation means measurement	nongold
+82	a piece is a part of a whole	nongold
+83	person is synonymous with human	nongold
+84	form means kind	nongold
+85	a piece of an object is smaller in size than the whole object	nongold
+86	pair means two	nongold
+87	instrument means tool	nongold
+88	light means low  in weight	nongold
+89	a box is a kind of object	nongold
+90	food is a kind of substance	nongold
+91	high is similar to increase	nongold
+92	largest means greatest in size	nongold
+93	a type is synonymous with a kind	nongold
+94	mass is a measure of the amount of matter in an object	nongold
+95	to add means to increase	nongold
+96	an animal is a kind of organism	nongold
+97	an apple tree is a kind of plant	nongold
+98	milliliters is a kind of unit for measuring volume of liquids	nongold
+99	the volume of an object can be used to describe  the size of that object	nongold
+100	greater means higher; more in value	nongold
+101	structure is a property of an object; a material; a substance	nongold

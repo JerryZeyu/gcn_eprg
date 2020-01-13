@@ -1,0 +1,102 @@
+Question	Which of these is a characteristic of the metal gold?	question
+Answer	malleable	answer
+0	if something is soft , then that something is malleable	gold
+1	characteristic means property	gold
+2	feature is synonymous with characteristic	nongold
+3	gold is a kind of metal	gold
+4	hardness is a property of a material; an object and includes ordered values of malleable; rigid	gold
+5	a part of something means a characteristic of something	nongold
+6	gold is a kind of element	nongold
+7	if something is malleable , then that something can bend	nongold
+8	gold is a kind of solid	nongold
+9	a property of something is a feature of that something	nongold
+10	silver is a kind of metal	nongold
+11	what an object is made of is a kind of characteristic	nongold
+12	gold is soft	gold
+13	a structure is a kind of feature	nongold
+14	zinc is a kind of metal	nongold
+15	copper is a kind of metal	nongold
+16	metal is a kind of material	gold
+17	gold can be used for making jewelry	nongold
+18	an object has properties	nongold
+19	a part of something is a property of that something	nongold
+20	objects are made of materials; substances; matter	nongold
+21	bronze is a kind of alloy	nongold
+22	a type of something is a kind of property of that something	nongold
+23	copper is a kind of element	nongold
+24	metal is a kind of substance	nongold
+25	a coin is a kind of object	nongold
+26	brass is made of copper and zinc	nongold
+27	metallic is similar to shiny	nongold
+28	metals are made of metal	nongold
+29	aluminum is a kind of metal	nongold
+30	aluminum is a kind of matter	nongold
+31	a physical property is a kind of property	nongold
+32	zinc is a kind of mineral	nongold
+33	if an object is made of a material then that object has the properties of that material	nongold
+34	Platinum is always magnetic	nongold
+35	a mineral is a kind of object	nongold
+36	mercury is a kind of element	nongold
+37	appearance is a property of objects; materials	nongold
+38	a metal is a kind of element	nongold
+39	nickel is a kind of metal	nongold
+40	diamond is a kind of mineral	nongold
+41	an element is a kind of material	nongold
+42	a goldfish is a kind of fish	nongold
+43	mercury  is a kind of metal	nongold
+44	a surface is a part of a material	nongold
+45	brass is a kind of alloy	nongold
+46	a surface is a part of an object	nongold
+47	form means kind	nongold
+48	a bar of copper is a kind of object	nongold
+49	a type is synonymous with a kind	nongold
+50	iron is a kind of metal	nongold
+51	steel is a kind of metal	nongold
+52	mass; weight is an extensive property	nongold
+53	shape is a kind of characteristic	nongold
+54	aluminum is a kind of element	nongold
+55	durability is a kind of property	nongold
+56	mass; weight is a property of matter; objects; materials	nongold
+57	shape is a property of the appearance of an object	nongold
+58	a mineral is a kind of solid; natural material	nongold
+59	an element is a kind of  substance	nongold
+60	material means substance	nongold
+61	trait is synonymous with characteristic	nongold
+62	all elements are a kind of pure substance	nongold
+63	appearance  is a kind of physical property	nongold
+64	structure is a property of an object; a material; a substance	nongold
+65	similarity means the same property	nongold
+66	appearance is sometimes a physical property	nongold
+67	a solid is a kind of substance	nongold
+68	sterling silver is a kind of metal	nongold
+69	classifying means grouping objects; materials by their properties	nongold
+70	the  property of something is the same for the things of same kind	nongold
+71	luster is a property of  an object; a material and includes ordered values of dull; shiny	nongold
+72	an element is not an alloy	nongold
+73	gold is always nonmagnetic	nongold
+74	a piece of something is a kind of object	nongold
+75	weight is a property of objects; matter	nongold
+76	an object is an item	nongold
+77	color is a property of  an object; a material	nongold
+78	coins are usually round	nongold
+79	aspect of something is similar to part of something	nongold
+80	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+81	composition is a property of an object; matter	nongold
+82	a device is a kind of object	nongold
+83	strength is a property of an object; a material	nongold
+84	polished metal has shiny surface	nongold
+85	if two things have the same features then those two things are alike	nongold
+86	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+87	the effects of something is a property of that something	nongold
+88	iron is a kind of solid	nongold
+89	materials are made of matter	nongold
+90	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	nongold
+91	resemble means similar characteristics	nongold
+92	nickel is always ferromagnetic; magnetic	nongold
+93	material composition is a kind of chemical property	nongold
+94	state of matter is a kind of physical property	nongold
+95	an alloy is made of two or more metals	nongold
+96	a product is a kind of object	nongold
+97	shape of the parts of something is a property of that something	nongold
+98	substances are made of elements	nongold
+99	shape is a property of an object	nongold

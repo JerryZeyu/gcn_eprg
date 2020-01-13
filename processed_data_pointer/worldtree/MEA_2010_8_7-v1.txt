@@ -1,0 +1,102 @@
+Question	Giant redwood trees change energy from one form to another. How is energy changed by the trees?	question
+Answer	They change solar energy into chemical energy.	answer
+0	a redwood tree is a kind of tree	nongold
+1	chemical energy is a kind of energy	gold
+2	solar energy is a kind of energy	gold
+3	energy transformation means one kind of energy changes into another kind of energy	nongold
+4	solar energy is a kind of heat energy	nongold
+5	sunlight is a kind of solar energy	nongold
+6	form means kind	gold
+7	a tree is a kind of plant	gold
+8	a tree is a kind of living thing	nongold
+9	sunlight means solar energy	nongold
+10	to convert means to change	gold
+11	chemical reactions cause chemical change	nongold
+12	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	gold
+13	a leaf is a part of a tree	nongold
+14	a plant is a kind of living thing	nongold
+15	food is a kind of chemical energy	gold
+16	an increase is a kind of change	nongold
+17	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+18	a leaf is a part of a  green plant	nongold
+19	a leaf performs photosynthesis; gas exchange	nongold
+20	heat is a kind of energy	nongold
+21	state means form	nongold
+22	chemical reactions cause new substances; different substances to form	nongold
+23	a tree is a kind of matter	nongold
+24	solar energy is a kind of light	nongold
+25	sunlight produces heat	nongold
+26	to change means to cause a change	nongold
+27	a leaf is a kind of object	nongold
+28	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+29	roots are a part of a plant; tree	nongold
+30	chemical change is a kind of chemical reaction	nongold
+31	to change means to have an effect	nongold
+32	heat means heat energy	nongold
+33	a plant is a kind of organism	nongold
+34	photosynthesis is a kind of chemical reaction	nongold
+35	photosynthesis is a kind of chemical  process	nongold
+36	the sun is the source of solar energy called sunlight	nongold
+37	a  plant requires sunlight for photosynthesis	nongold
+38	high is similar to increase	nongold
+39	objects contain chemical energy	nongold
+40	substances have chemical properties	nongold
+41	to add means to increase	nongold
+42	a forest contains  lots of plants; trees	nongold
+43	a leaf is a kind of plant	nongold
+44	a fir tree is a kind of tree	nongold
+45	temperature is a measure of heat energy	nongold
+46	affected means changed	nongold
+47	massive means giant	nongold
+48	a leaf absorbs sunlight to perform photosynthesis	nongold
+49	chemical energy is a kind of potential energy	nongold
+50	to transform means to convert	nongold
+51	green plants are a kind of producer	nongold
+52	to change into means to form	nongold
+53	forming is similar to converting	nongold
+54	solar power means solar energy	nongold
+55	chemical reaction means chemical bonds change	nongold
+56	a living thing is a kind of object	nongold
+57	sunlight is a kind of light	nongold
+58	to turn means to convert	nongold
+59	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+60	chemical change is the opposite of physical change	nongold
+61	if the component of something changed , then the whole thing will change	nongold
+62	forming something is a kind of change	nongold
+63	variable means able to change	nongold
+64	converting is similar to producing	nongold
+65	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+66	change is a kind of process	nongold
+67	hydrogen contains chemical energy	nongold
+68	to turn means to change	nongold
+69	a source of something emits; produces; generates; provides that something	nongold
+70	if an object undergoes chemical change then that object will have new chemical properties	nongold
+71	thermal energy is a kind of energy	nongold
+72	some species of tree are deciduous	nongold
+73	a decrease is a kind of change	nongold
+74	acid can cause chemical change	nongold
+75	photosynthesis stores; captures energy	nongold
+76	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+77	becoming is similar to changing	nongold
+78	to cause means to have an effect	nongold
+79	energy conversion is similar to energy transformation	nongold
+80	can be means able to be	nongold
+81	heat energy can change the state of matter	nongold
+82	most chemical reactions release or absorb heat energy	nongold
+83	an increase is the opposite of a decrease	nongold
+84	chemical bonds are formed by chemically combining elements; atoms; molecules	nongold
+85	convert is similar to transfer	nongold
+86	if something is made by something else then that something is affected by that something else	nongold
+87	wood is a kind of object	nongold
+88	heat energy is synonymous with thermal energy	nongold
+89	adding something is a kind of change	nongold
+90	to be formed by is similar to being produced by	nongold
+91	the sun is a source of light; light energy called sunlight	nongold
+92	substances contain chemical bond energy	nongold
+93	red is a kind of color	nongold
+94	sunshine means sunlight	nongold
+95	an oak is a kind of tree	nongold
+96	combustion is a kind of chemical change	nongold
+97	chemicals means substances	nongold
+98	converting is similar to turning into	nongold
+99	a pine tree is a kind of tree	nongold

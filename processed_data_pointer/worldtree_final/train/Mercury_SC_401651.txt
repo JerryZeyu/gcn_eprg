@@ -1,0 +1,102 @@
+0	coal is a kind of fuel	nongold
+1	a forest is a kind of ecosystem	nongold
+2	coal is a kind of object	nongold
+3	coal is used to produce electricity by burning in coal-fire power stations	nongold
+4	coal is a nonrenewable resource	nongold
+5	forming coal; fossil fuels requires decaying vegetation	nongold
+6	an object; material; substance comes from that object or material's source	nongold
+7	a swamp is a kind of land feature	nongold
+8	a coal mine is a source of coal under the ground	nongold
+9	organisms mean life	nongold
+10	something that contains water is similar to a body of water	nongold
+11	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+12	being buried under soil and mud changes peat into coal through extreme heat and pressure in a swamp over a long period of time	gold
+13	a source of something emits; produces; generates; provides that something	nongold
+14	ancient means a long time in the past	gold
+15	emit means produce	nongold
+16	production is similar to making	nongold
+17	being buried under soil and mud changes dead plant matter; dead animal matter into oil; natural gas through extreme heat and pressure at the bottom of the sea over a long period of time	nongold
+18	water is a part of an environment	nongold
+19	natural gas is formed by heat and pressure acting on the remains of prehistoric animals	nongold
+20	fossils are formed when layers of sediment cover the remains of organisms over time	nongold
+21	remains mean parts of a dead organism	gold
+22	if something comes from something else then that something else is a source of that something	nongold
+23	an animal is a kind of living thing	nongold
+24	to create means to make	nongold
+25	to be formed by is similar to being produced by	nongold
+26	Coal was made from the remains of which ancient ecosystem?	question
+27	the formation of something is a kind of process	nongold
+28	green swamps	answer
+29	an aquatic animal is a kind of animal	nongold
+30	a decomposer is a kind of living thing	nongold
+31	a microorganism is a kind of decomposer	nongold
+32	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	nongold
+33	burning coal is a source of air pollution	nongold
+34	coal is used for generating heat by burning	nongold
+35	dead organisms are the source of nutrients for decomposers	nongold
+36	being buried under soil and mud changes dead vegetation; dead plant matter into peat through extreme heat and pressure in a swamp over a long period of time	gold
+37	a plant is a kind of organism	gold
+38	make means produce	nongold
+39	vegetation means plants	gold
+40	manufacture means make	nongold
+41	an animal is a kind of organism	nongold
+42	freshwater is a kind of water	nongold
+43	mining changes an ecosystem	nongold
+44	a marsh is a kind of body of water	nongold
+45	composed of means made of	nongold
+46	an ecosystem contains a large community of; large numbers of living organisms	nongold
+47	petroleum is a kind of fossil fuel	nongold
+48	oil is a kind of fossil fuel	nongold
+49	aquatic animals; plants live in bodies of water	nongold
+50	a worm is a kind of decomposer	nongold
+51	an organism is a living thing	nongold
+52	aquatic animal means water animal	nongold
+53	remains is similar to dead organisms	nongold
+54	organisms are a part of an environment	nongold
+55	coal is a kind of rock	nongold
+56	a swamp is a kind of environment	gold
+57	coal is a kind of fossil fuel	nongold
+58	a plant is a kind of living thing	nongold
+59	the Earth contains many ecosystems	nongold
+60	to produce means to create	nongold
+61	coal is a kind of sedimentary rock	nongold
+62	using coal requires burning coal	nongold
+63	decomposer is a kind of role in the food chain process; in an ecosystem	nongold
+64	green plants are a kind of producer	nongold
+65	a body of water is a kind of environment	nongold
+66	coal; uranium is acquired by mining the lithosphere	nongold
+67	a fossil fuel is a kind of natural resource	nongold
+68	natural gas is a kind of fossil fuel	nongold
+69	fossil fuels; fossils are formed from dead organisms over time	nongold
+70	the formation of peat occurs at the bottom of swamps	gold
+71	an environment means an area	nongold
+72	a body of water contains water	nongold
+73	fossil fuels; fossils forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+74	soil is made of very small rocks; minerals	nongold
+75	to cause means to make	nongold
+76	burning coal is a kind of exothermic reaction	nongold
+77	to decompose means to decay	nongold
+78	if something is made of something; a material then that something contains that something; that material	nongold
+79	fossil means preserved remains of ancient organisms	nongold
+80	made up of means contains; made of	nongold
+81	dead organisms decay	gold
+82	soil is a kind of material	nongold
+83	where something  comes from is a source of that something	nongold
+84	preserved means from the past; from long ago	nongold
+85	an environment is similar to an ecosystem	gold
+86	dead plants means dead plant material	nongold
+87	coal is black in color	nongold
+88	to be made of something means to be formed of that something	nongold
+89	fossil fuel contains chemical energy	nongold
+90	products are formed; are produced; are created	nongold
+91	peat is made of decaying vegetation compacted by soil in a swamp over a long period of time	gold
+92	sinkholes; caves are formed by precipitation; infiltration	nongold
+93	made of is similar to is built from	nongold
+94	to contain means to have inside	nongold
+95	a wetland is a kind of ecosystem	nongold
+96	plants can be fossilized	nongold
+97	an ecosystem is a kind of habitat	nongold
+98	dead organisms are a kind of waste	nongold
+99	soil is usually part of an environment	nongold
+100	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	nongold
+101	soil contains water; humus; weathered rocks; organic matter	nongold

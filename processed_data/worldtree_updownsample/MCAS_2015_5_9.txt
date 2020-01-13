@@ -1,0 +1,68 @@
+0	rain changing to sleet	answer
+1	sleet is a kind of precipitation	gold
+2	a thunderstorm is a kind of storm	nongold
+3	rain is a kind of precipitation	gold
+4	rain changing to sleet	answer
+5	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+6	the night has cooler temperatures than the day	nongold
+7	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+8	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+9	rain is a kind of water	gold
+10	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+11	sleet is a kind of ice	gold
+12	the movement of an air mass over Earth's surface causes sudden local weather changes	nongold
+13	movement is a kind of change	nongold
+14	heat means temperature increases	nongold
+15	rain is a kind of precipitation	gold
+16	a decrease is a kind of change	gold
+17	sleet is a kind of precipitation	gold
+18	temperature is a property of weather	nongold
+19	clouds are usually found in the sky	nongold
+20	temperature is a measure of heat energy	gold
+21	to reduce means to decrease	gold
+22	sliding is a kind of motion	nongold
+23	skidding is a kind of motion	nongold
+24	Clouds and precipitation moved across western Massachusetts one evening. The temperature changed from 41°F to 28°F. Which of the following changes in precipitation most likely occurred on this evening?	question
+25	Clouds and precipitation moved across western Massachusetts one evening. The temperature changed from 41°F to 28°F. Which of the following changes in precipitation most likely occurred on this evening?	question
+26	precipitation is a property of weather	nongold
+27	warmer means greater; higher in temperature; warmth	nongold
+28	sleet is made of ice	nongold
+29	Clouds and precipitation moved across western Massachusetts one evening. The temperature changed from 41°F to 28°F. Which of the following changes in precipitation most likely occurred on this evening?	question
+30	clouds produce rain	nongold
+31	sleet is a kind of ice	gold
+32	to reduce means to decrease	gold
+33	to reduce means to decrease	gold
+34	rainstorm means rain storm	nongold
+35	storm is a kind of weather; weather event	nongold
+36	rain changing to sleet	answer
+37	rain changing to sleet	answer
+38	weather is  a measure of the condition of the air in a place at a certain time	nongold
+39	sky conditions are a property of weather	nongold
+40	Clouds and precipitation moved across western Massachusetts one evening. The temperature changed from 41°F to 28°F. Which of the following changes in precipitation most likely occurred on this evening?	question
+41	rain is a kind of precipitation	gold
+42	cloudy means the presence  of clouds in the sky	nongold
+43	rain is a kind of water	gold
+44	rainfall means the amount of precipitation	nongold
+45	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+46	precipitation is when water falls from the sky	nongold
+47	cooler means colder	nongold
+48	a decrease is a kind of change	gold
+49	falling means moving downward	nongold
+50	a motion is a kind of event; action	nongold
+51	cold fronts cause thunderstorms as they pass by	nongold
+52	an air mass has similar temperature and moisture throughout it	nongold
+53	a decrease is a kind of change	gold
+54	temperature is a measure of heat energy	gold
+55	temperature is a measure of heat energy	gold
+56	hail is a kind of precipitation; ice	nongold
+57	rain is a kind of water	gold
+58	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+59	Massachusetts is a state located in the United States of America	nongold
+60	sleet is a kind of ice	gold
+61	storms;rain cause bodies of water to increase amount of water they contain	nongold
+62	precipitation is a kind of weather	nongold
+63	sleet is a kind of precipitation	gold
+64	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+65	clouds are made of water vapor; rain droplets	nongold
+66	a cloud is a kind of object	nongold
+67	events occur at a specific place; at a specific time; with a specific frequency	nongold

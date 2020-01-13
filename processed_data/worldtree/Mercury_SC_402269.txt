@@ -1,0 +1,102 @@
+Question	What characteristic helps a rabbit survive in a winter environment?	question
+Answer	camouflage	answer
+0	a rabbit is a kind of animal	gold
+1	feature is synonymous with characteristic	nongold
+2	camouflage is a kind of adaptation for hiding in an environment	gold
+3	camouflage is used for protection; hiding by prey; animals against predators; from predators	gold
+4	a rabbit is a kind of mammal	nongold
+5	camouflage is a kind of protection against predators; from predators; against consumers	gold
+6	characteristic means property	gold
+7	trait is synonymous with characteristic	nongold
+8	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	gold
+9	helping something has a  positive impact on that something	gold
+10	a rabbit is a kind of herbivore	nongold
+11	coloration is a kind of adaptation for hiding;camouflage	nongold
+12	camouflage can be used for hunting for prey; food	nongold
+13	an adaptation is a kind of characteristic	nongold
+14	An example of camouflage is when an organism looks like its environment	nongold
+15	an animal is a kind of living thing	gold
+16	surroundings means environment	nongold
+17	helping means to assist in a change	nongold
+18	Camouflage is synonymous with visual disguise	nongold
+19	trait means property	nongold
+20	An example of camouflage is when something is; has the same color as its environment	gold
+21	an environment means an area	nongold
+22	hiding is a kind of protection against predators; from predators	nongold
+23	to help; to benefit means to be of use	nongold
+24	to help means to aid	nongold
+25	the color of; coloration of fur is an inherited characteristic	nongold
+26	to be used  for something means to help to do that something	nongold
+27	a part of something means a characteristic of something	nongold
+28	an animal is a kind of organism	nongold
+29	what an object is made of is a kind of characteristic	nongold
+30	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+31	if a living thing requires something then that something has a positive impact on that living thing	nongold
+32	An example of camouflage is when something changes color in order to have the same color as its environment	nongold
+33	a living thing is a kind of object	gold
+34	some rabbits live in forests	nongold
+35	a learned characteristic is a kind of acquired characteristic	nongold
+36	An example of camouflage is an organism looking like leaves	nongold
+37	hiding means visibility; ability to be seen decreases for camouflage	nongold
+38	fur is often part of an animal	nongold
+39	objects in an environment are a part of that environment	nongold
+40	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+41	fur is usually part of a mammal	nongold
+42	coat means fur coat	nongold
+43	habitat is similar to environment	nongold
+44	disguise means  changing appearance to hide	nongold
+45	rabbits eat plants	nongold
+46	winter is a kind of season	nongold
+47	an inherited characteristic is a kind of characteristic	nongold
+48	an organism is a living thing	nongold
+49	snow falls during the winter in some environments	nongold
+50	winter means environmental; outdoor temperature decreases	nongold
+51	a plant; living thing requires food for survival	nongold
+52	a behavior is a kind of characteristic	nongold
+53	survival means to survive	nongold
+54	a rabbit cannot fly; climb	nongold
+55	a rabbit is a kind of prey	nongold
+56	an organism's environment affects that organism's acquired characteristics	nongold
+57	color is a property of  an object; a material	gold
+58	an adaptation is an adaptive feature	nongold
+59	hair; fur is  a part of skin for protection; keeping warm	nongold
+60	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+61	if a living thing becomes too cold then that living thing will die	nongold
+62	requiring is similar to needing help	nongold
+63	ability is a kind of characteristic	nongold
+64	survive means live	nongold
+65	survive means live	nongold
+66	a plant is a kind of organism	nongold
+67	aspect of something is similar to part of something	nongold
+68	changes in an environment cause animals; plants to adapt to survive	nongold
+69	adaptations are used for survival	nongold
+70	cold environments sometimes are white in color from being covered in snow	nongold
+71	winter is the opposite of summer	nongold
+72	winter is a part of the year	nongold
+73	a property of something is a feature of that something	nongold
+74	something hard; something strong can be used for protection	nongold
+75	a structure is a kind of feature	nongold
+76	a plant is a kind of living thing	nongold
+77	adapting is when a living thing responds to a change in an environment	nongold
+78	to enable is to help	nongold
+79	snow is cold	nongold
+80	adaptation is when an organism develops a trait over time for survival	nongold
+81	harming something has a  negative impact on; effect on that something	nongold
+82	hiding can be used for avoiding predators	nongold
+83	species is an inherited characteristic	nongold
+84	a mammal is a kind of animal	nongold
+85	a forest is a kind of environment	nongold
+86	something in a cold place becomes cold	nongold
+87	living in an environment causes an organism to adapt to that environment	nongold
+88	an environment is a kind of place	nongold
+89	organisms are a part of an environment	nongold
+90	resemble means similar characteristics	nongold
+91	color is a kind of physical; visual property	nongold
+92	cold environments usually have little food for animals	nongold
+93	a function is a kind of characteristic	nongold
+94	winter has cold temperatures;weather	nongold
+95	fur is a covering around the body of an animal	nongold
+96	staying warm has a positive impact on an animal's survival; health	nongold
+97	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+98	shelter is a kind of protective covering	nongold
+99	a forest environment usually is green in color	nongold

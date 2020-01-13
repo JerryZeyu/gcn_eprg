@@ -1,0 +1,102 @@
+0	Which behavior of a dog is the best example of a learned behavior?	question
+1	coming when called	answer
+2	a dog is a kind of animal	nongold
+3	communication is a learned behavior	nongold
+4	conditioned behavior is a kind of learned behavior	nongold
+5	a behavior is a kind of characteristic	gold
+6	an animal is a kind of living thing	nongold
+7	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+8	An example of following orders is coming when called	gold
+9	if an animal is trained to do something then that something is a learned behavior	nongold
+10	actions mean behavior	nongold
+11	a kind of something is an example of that something	nongold
+12	an animal is a kind of organism	nongold
+13	skills are learned characteristics; behaviors	nongold
+14	a living thing is a kind of object	nongold
+15	a prairie dog is a kind of animal	nongold
+16	a learned characteristic is a kind of acquired characteristic	nongold
+17	answering questions requires information	nongold
+18	animal instinct means instinctive behavior	nongold
+19	social behavior is a kind of learned behavior	nongold
+20	an animal knows how to do  instinctive behaviors when it is born	nongold
+21	a human is a kind of animal	nongold
+22	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+23	a cat is a kind of animal	nongold
+24	trait is synonymous with characteristic	nongold
+25	following orders is a learned characteristic	gold
+26	dogs can hear  sounds with higher frequency  than human can	nongold
+27	trait means property	nongold
+28	intelligence is an acquired characteristic	nongold
+29	a puppy is a young; baby dog	nongold
+30	locomotion is a generally learned behavior	nongold
+31	animals learn some behaviors from watching their parents	nongold
+32	a dog weighs, on average 32 kg	nongold
+33	some dogs are trained to bark; to scratch at the door when they want to go outside	nongold
+34	doing something more is a kind of conditioned behavior	nongold
+35	arrival is a kind of movement	nongold
+36	an organism is a living thing	nongold
+37	best means most positive	nongold
+38	a cat is a kind of mammal	nongold
+39	learning; studying information causes one to know that information	nongold
+40	using tools is a learned characteristic	nongold
+41	instruction is a kind of information	nongold
+42	returning is similar to bringing	nongold
+43	an event is a kind of action	nongold
+44	howling is a kind of behavior	nongold
+45	rolling in mud is a learned behavior	nongold
+46	action means activity	nongold
+47	a trick is a learned behavior	nongold
+48	determining is similar to learning	nongold
+49	fur is often part of an animal	nongold
+50	fur is usually part of a mammal	nongold
+51	sense is a kind of characteristic of an animal	nongold
+52	can be means able to be	nongold
+53	aspect of something is similar to part of something	nongold
+54	ability is a kind of characteristic	nongold
+55	a cat is a kind of carnivore	nongold
+56	high is similar to increase	nongold
+57	bringing is a kind of action	nongold
+58	human is a kind of organism	nongold
+59	a motion is a kind of event; action	nongold
+60	curiosity is a kind of human quality	nongold
+61	learned behaviors are learned over the  lifetime of the animal	nongold
+62	a component of something means a part of that something	nongold
+63	speaking is a kind of communication	nongold
+64	a type is synonymous with a kind	nongold
+65	a structure of something is synonymous with a part of that something	nongold
+66	an inherited characteristic is a kind of characteristic	nongold
+67	food is a kind of object	nongold
+68	learning about something sometimes requires observing that something	nongold
+69	coat means fur coat	nongold
+70	a part of something means a characteristic of something	nongold
+71	begging for food is a kind of conditioned behavior	nongold
+72	where something  comes from is a source of that something	nongold
+73	a plant is a kind of organism	nongold
+74	personality is an acquired characteristic	nongold
+75	senses are an inherited characteristic	nongold
+76	to act on means to affect	nongold
+77	better means good	nongold
+78	a component means a part of	nongold
+79	motion is when moves an object; something to a direction	nongold
+80	form means kind	nongold
+81	characteristic means property	nongold
+82	the color of; coloration of fur is an inherited characteristic	nongold
+83	an ear is a kind of body part	nongold
+84	talking is when a human produces sound to communicate	nongold
+85	an object is made of its parts	nongold
+86	a demonstration is similar to an example	nongold
+87	a plant is a kind of living thing	nongold
+88	preferences are generally learned characteristics	nongold
+89	hearing is a kind of sense	nongold
+90	person is synonymous with human	nongold
+91	an adaptation is a kind of characteristic	nongold
+92	sound can be used for communication by animals	nongold
+93	to cause is similar to bring	nongold
+94	affected means changed	nongold
+95	a predator avoiding some types of prey is a learned behavior	nongold
+96	performance is similar to ability	nongold
+97	event is similar to occurrence	nongold
+98	to impact means to affect	nongold
+99	a process is a kind of event	nongold
+100	impact means effect	nongold
+101	knowing sometimes requires determing	nongold

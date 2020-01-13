@@ -1,0 +1,102 @@
+Question	Pesticides and fertilizers can help farmers to produce more crops. However, overuse of these chemicals can result in	question
+Answer	environmental pollution	answer
+0	pesticides can cause pollution	gold
+1	fertilizers are a source of pollution	gold
+2	overuse is similar to depletion	nongold
+3	fertilizers have a negative impact on the environment; natural resources	nongold
+4	a farmer farms crops; plants for  food	nongold
+5	fertilizer contains chemicals	nongold
+6	a farmer is a kind of human	nongold
+7	a pesticide is usually very poisonous to insects	nongold
+8	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+9	a pesticide is used for protecting plants by killing insects	nongold
+10	to produce means to result in	nongold
+11	farming is a kind of process	nongold
+12	harming something has a  negative impact on; effect on that something	nongold
+13	to cause means to result in	gold
+14	pollution is a kind of environmental problem	nongold
+15	farming is when a human plants crops for food	nongold
+16	producing crops requires using farm land	nongold
+17	farming is a source of food	nongold
+18	crops are a kind of edible plant for eating	nongold
+19	helping something has a  positive impact on that something	nongold
+20	using a pesticide usually requires spraying that pesticide on crops	nongold
+21	something harmful can cause harm	nongold
+22	chemicals means substances	nongold
+23	farming happens on a farm	nongold
+24	crops; farming cause nutrients in the soil to decrease	nongold
+25	a crop is a kind of food	nongold
+26	planting crops is synonymous with growing crops	nongold
+27	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+28	human waste often causes harm to an environment	nongold
+29	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+30	producing is similar to causing	nongold
+31	to help; to benefit means to be of use	nongold
+32	waste has a  negative impact on the environment	nongold
+33	processes sometimes produce waste products	nongold
+34	negative impact is the opposite of positive impact	nongold
+35	poison causes harm to living things; organisms	nongold
+36	producing is a kind of process	nongold
+37	to be used  for something means to help to do that something	nongold
+38	a pesticide is infrequently poisonous to humans	nongold
+39	insects can have a negative impact on crops	nongold
+40	to be a source of something means to cause that something	gold
+41	if something releases something else then that something is the source of that something else	nongold
+42	eating food that contains pesticides can have a negative impact on humans	nongold
+43	as the use of a crop increases , the amount of  crops planted will increase	nongold
+44	a source of something emits; produces; generates; provides that something	nongold
+45	something dangerous can cause harm	nongold
+46	if crops are sprayed with something then that something will be on the crop's surface	nongold
+47	planting crops requires growing crops	nongold
+48	poisoning an environment means poisoning the organisms in that environment	nongold
+49	destroying something causes harm to that something	nongold
+50	crops grow in soil	nongold
+51	decreasing something negative has a positive impact on a thing	nongold
+52	if something causes an increase in something else then that something produces that something else	nongold
+53	adverse effect means negative impact	nongold
+54	increase means more	nongold
+55	humans cause pollution	nongold
+56	to produce means to provide	nongold
+57	emit means produce	nongold
+58	farming changes the environment	nongold
+59	cropland is used for farming by humans	nongold
+60	if something causes a process then that something is required for that process	nongold
+61	removing an inhibitor of a process causes that process	nongold
+62	if something requires something else then that something requires a source of that something else	nongold
+63	if something is a raw material in a process then that something is required for that process	nongold
+64	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+65	toxic means poisonous	nongold
+66	a negative impact is a kind of consequence; risk	nongold
+67	decreasing something positive has a negative impact on a thing	nongold
+68	crops growing well has a positive impact on a farmer's livelihood	nongold
+69	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+70	farming decreases animal habitats	nongold
+71	to be used for something means to be required by that something	nongold
+72	burning a living thing usually causes harm to that living thing	nongold
+73	killing means harming something causing death	nongold
+74	controlling the amount of pollution is similar to reducing the amount of pollution	nongold
+75	as the use of something decreases , the use of the source of that something will decrease	nongold
+76	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+77	producing is similar to releasing	nongold
+78	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+79	if something is required for a process then that something positively impacts that process	nongold
+80	substances have chemical properties	nongold
+81	corn is a kind of crop	nongold
+82	green plants are a kind of producer	nongold
+83	all living things eliminate waste	nongold
+84	less is similar to decrease	nongold
+85	less is the opposite of more	nongold
+86	a plant is a kind of living thing	nongold
+87	a plant is a kind of organism	nongold
+88	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+89	absorbing something harmful has a negative impact on a thing	nongold
+90	fertilizers contain nitrogen	nongold
+91	get rid of means eliminate; remove	nongold
+92	if a plant dies then that plant will not produce food	nongold
+93	chemicals can be pollutants	nongold
+94	make means produce	nongold
+95	harming an organism can cause that organism to die	nongold
+96	dead organisms are a kind of waste	nongold
+97	a cause of something is a reason for that something	nongold
+98	organisms are a part of an environment	nongold
+99	humans eat crops	nongold

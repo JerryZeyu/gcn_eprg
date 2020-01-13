@@ -1,0 +1,61 @@
+0	form means kind	gold
+1	adding heat means increasing temperature	nongold
+2	a liquid is a kind of substance	nongold
+3	boiling point is the highest temperature a liquid can reach	nongold
+4	an increase is a kind of change	nongold
+5	thermal energy is a kind of energy	nongold
+6	heat energy  can be used to heat up  an object	nongold
+7	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	gold
+8	heat means heat energy	gold
+9	heat	answer
+10	material means substance	nongold
+11	melting point means temperature at which a solid melts; above which a solid melts	nongold
+12	heat is a kind of energy	gold
+13	heat	answer
+14	ice is cold in temperature	nongold
+15	heat is a kind of energy	gold
+16	conductivity is a property of a material; substance	nongold
+17	liquid water cooling causes that liquid water to freeze	nongold
+18	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+19	heat is a kind of energy	gold
+20	absorbing energy causes objects; materials; substances to heat	nongold
+21	state means form	nongold
+22	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	gold
+23	a decrease is a kind of change	nongold
+24	What form of energy causes an ice cube to melt?	question
+25	to lower means to decrease	nongold
+26	heat	answer
+27	an ice cube is a kind of solid	gold
+28	water is an thermal; thermal energy conductor	nongold
+29	to give off means to be the source of	nongold
+30	What form of energy causes an ice cube to melt?	question
+31	glass is a kind of solid at room temperature	nongold
+32	metal is a thermal; thermal energy conductor	nongold
+33	cooling means temperature decreases	nongold
+34	warm means medium heat energy; temperature	nongold
+35	solar energy is a kind of heat energy	nongold
+36	form means kind	gold
+37	to change means to cause a change	nongold
+38	an ice cube is a kind of solid	gold
+39	heat means heat energy	gold
+40	What form of energy causes an ice cube to melt?	question
+41	warm; becoming warm means heat is added	nongold
+42	physical state means state of matter	nongold
+43	heat	answer
+44	colder; cooler means lower in temperature	nongold
+45	an ice cube is a kind of object	nongold
+46	state of matter is a kind of physical property	nongold
+47	to be a source of something means to cause that something	nongold
+48	What form of energy causes an ice cube to melt?	question
+49	to reduce means to decrease	nongold
+50	affected means changed	nongold
+51	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	gold
+52	an ice cube is a kind of solid	gold
+53	warmer means greater; higher in temperature; warmth	nongold
+54	energy transformation means one kind of energy changes into another kind of energy	nongold
+55	absorbing sunlight causes objects to heat	nongold
+56	heat means heat energy	gold
+57	form means kind	gold
+58	mass has no impact on boiling; melting; freezing point	nongold
+59	as the specific heat of a material decreases , the temperature of the material will increase given the same amount of energy	nongold
+60	melting is when solids are heated above their melting point	nongold

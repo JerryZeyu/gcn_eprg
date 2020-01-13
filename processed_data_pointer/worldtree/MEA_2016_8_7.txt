@@ -1,0 +1,102 @@
+Question	What do all mammals have in common that distinguishes them from birds?	question
+Answer	fur	answer
+0	fur is usually part of a mammal	gold
+1	mammals is a kind of class	nongold
+2	a bird is a kind of living thing	nongold
+3	the color of; coloration of fur is an inherited characteristic	nongold
+4	fur is often part of an animal	nongold
+5	if an animal's fur is a color then that animal is that color	nongold
+6	a bird is a kind of animal	gold
+7	in common is similar to the same	nongold
+8	an animal is a kind of living thing	gold
+9	a mammal is a kind of animal	gold
+10	coloration means a thing's color	nongold
+11	an animal is a member of an animal species	nongold
+12	an organism is a living thing	nongold
+13	if two things have the same features then those two things are alike	nongold
+14	an animal is a kind of organism	nongold
+15	a living thing is a kind of object	gold
+16	a human is a kind of mammal	nongold
+17	similarity means the same property	nongold
+18	different is the opposite of the same	nongold
+19	unique  is the opposite of diverse	nongold
+20	trait is synonymous with characteristic	nongold
+21	if something is not the same as something else then that something is different from that something else	nongold
+22	color is a property of  an object; a material	nongold
+23	if two things are made from the same objects; material then those two things are similar	nongold
+24	coat means fur coat	nongold
+25	living things in the same class are  more closely related than living things in different classes	nongold
+26	the colors of parts of an organism are inherited characteristics	nongold
+27	a structure of something is synonymous with a part of that something	nongold
+28	living things can all reproduce	nongold
+29	species is an inherited characteristic	nongold
+30	characteristic means property	gold
+31	animals usually distance themselves from humans	nongold
+32	similar means in common	nongold
+33	if two objects are similar , then the two objects share properties	nongold
+34	what an object is made of is a kind of characteristic	nongold
+35	trait means property	nongold
+36	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+37	fur is usually soft in texture	nongold
+38	opposite is a kind of different	nongold
+39	a part of something means a characteristic of something	gold
+40	the  property of something is the same for the things of same kind	nongold
+41	to belong to a class means to be a kind of something	nongold
+42	if two organisms are more closely related , then the two  organisms will be classifed in a class	nongold
+43	to change means to become different	nongold
+44	fur is a covering around the body of an animal	nongold
+45	coloration means a pattern of colors	nongold
+46	mammals birth; give birth to live young	nongold
+47	if two or more organisms have similar characteristics then those organisms might share a common ancestor	nongold
+48	to distinguish means to tell the difference between	gold
+49	classifying is when one sorts something by kind; type	nongold
+50	an inherited characteristic is a kind of characteristic	nongold
+51	coloration is a kind of adaptation for hiding;camouflage	nongold
+52	hair; fur is  a part of skin for protection; keeping warm	nongold
+53	to be characterized by  a property means to have that property	nongold
+54	a mammal is warm-blooded	nongold
+55	the shape of body parts is an inherited characteristic	nongold
+56	the properties of something can be used to identify; used to describe that something	nongold
+57	a body part is a kind of object	nongold
+58	hair is similar to fur	nongold
+59	a type of something is a kind of property of that something	nongold
+60	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+61	identical is the opposite of different	nongold
+62	a structure is a kind of feature	nongold
+63	if something changes , then that something is not the same	nongold
+64	answering questions requires information	nongold
+65	if an animal's fur is a certain color then the skin of that animal is probably that same color	nongold
+66	a cat is a kind of mammal	nongold
+67	color is a kind of physical; visual property	nongold
+68	if two organisms are closely related to each other , then those two organisms will share similar DNA	nongold
+69	a mammal usually nurses  its young; its offspring	nongold
+70	a human is a kind of animal	nongold
+71	a beak is a part of a bird	nongold
+72	two objects are usually different in size	nongold
+73	species means a group of like organisms	nongold
+74	a type is synonymous with a kind	nongold
+75	to vary means to differ	nongold
+76	feature is synonymous with characteristic	nongold
+77	classifying means grouping objects; materials by their properties	gold
+78	the body is a part of an organism	nongold
+79	classifying requires comparing	nongold
+80	the length of body parts is an inherited characteristic	nongold
+81	if an object is made of something then the parts of that object are made of that something	nongold
+82	the properties of something are used for describing that something	nongold
+83	birds with beaks of different shapes eat different foods	nongold
+84	a part of a living thing is a natural structure	nongold
+85	a property of something is a feature of that something	nongold
+86	each is similar to individual	nongold
+87	if the feathers of a bird are a color then that bird is that color	nongold
+88	if two objects are apart from each other then matter is between those two objects	nongold
+89	not is similar to the opposite of	nongold
+90	white fur is white in color	nongold
+91	an object is made of its parts	nongold
+92	fur is a part of a mouse	nongold
+93	a reptile is a kind of animal	nongold
+94	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+95	same means identical; equal in value; amount; number; quantity	nongold
+96	genes are able to determine the inherited characteristics of a living thing	nongold
+97	the size of an organism is an inherited characteristic	nongold
+98	a plant is a kind of organism	nongold
+99	the head is a part of an animal	nongold

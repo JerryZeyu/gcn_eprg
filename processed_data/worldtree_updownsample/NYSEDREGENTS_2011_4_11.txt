@@ -1,0 +1,55 @@
+0	texture is a kind of physical property	nongold
+1	a sheet of is similar to a piece of	nongold
+2	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+3	A student crumples up a sheet of paper. Which property of the paper has changed?	question
+4	a sheet of paper is a kind of object	gold
+5	a piece of something is a kind of object	nongold
+6	a student is a kind of human	nongold
+7	a human is a kind of animal	nongold
+8	folding an object causes that object to change shape	nongold
+9	A student crumples up a sheet of paper. Which property of the paper has changed?	question
+10	squeezing an object can cause that object's shape to change	nongold
+11	shape	answer
+12	phase means state	nongold
+13	definite is the opposite of variable	nongold
+14	mass; weight is a property of matter; objects; materials	nongold
+15	A student crumples up a sheet of paper. Which property of the paper has changed?	question
+16	a newspaper is made of paper	nongold
+17	shape	answer
+18	sharpness is a property of shape	nongold
+19	shape is a property of an object	gold
+20	a surface is a kind of object	nongold
+21	breaking down into pieces is a kind of change in shape	nongold
+22	shape	answer
+23	to add means to increase	nongold
+24	affected means changed	nongold
+25	height is a property of the size of an object	nongold
+26	to convert means to change	nongold
+27	A student crumples up a sheet of paper. Which property of the paper has changed?	question
+28	color is a property of  an object; a material	nongold
+29	appearance is sometimes a physical property	nongold
+30	form means kind	nongold
+31	shape is a property of an object	gold
+32	a sheet of paper is a kind of object	gold
+33	to change means to cause a change	nongold
+34	shape is a property of an object	gold
+35	appearance is a property of objects; materials	nongold
+36	an increase is a kind of change	nongold
+37	person is synonymous with human	nongold
+38	an object is made of its parts	nongold
+39	Matter in the solid phase has definite shape	nongold
+40	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	gold
+41	shape is a kind of physical property	nongold
+42	matter with variable shape changes shape in different container	nongold
+43	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	gold
+44	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+45	form is similar to body	nongold
+46	length is a property of the shape of an object	nongold
+47	shape	answer
+48	a type of something is a kind of property of that something	nongold
+49	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	gold
+50	a sheet of paper is a kind of object	gold
+51	state means form	nongold
+52	unchanged means not changed	nongold
+53	crumble means break down	nongold
+54	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold

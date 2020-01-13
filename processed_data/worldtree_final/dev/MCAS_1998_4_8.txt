@@ -1,0 +1,102 @@
+0	Where would it be MOST dangerous to work with electric tools?	question
+1	beside a swimming pool	answer
+2	a swimming pool contains water	gold
+3	a pool is a kind of body of water	nongold
+4	swimming is when humans; animals can move in water	nongold
+5	electric devices require electrical energy to function	gold
+6	a danger is dangerous	nongold
+7	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	gold
+8	danger has a negative impact on a thing	nongold
+9	electrical devices are used for industrial purposes; household purposes by humans	nongold
+10	safe is the opposite of unsafe; harm; danger	nongold
+11	harm means danger	gold
+12	harming something has a  negative impact on; effect on that something	nongold
+13	device means tool	gold
+14	instrument means tool	nongold
+15	a body of water is a kind of environment	nongold
+16	something dangerous can cause harm	nongold
+17	electricity means electrical energy	nongold
+18	electrocution causes harm to an organism	gold
+19	a surface is a part of an object	nongold
+20	swimming is a kind of skill	nongold
+21	a tool is a kind of object	nongold
+22	operating electrical appliances requires electricity	nongold
+23	to be in danger means to be around; to be near something dangerous	nongold
+24	to work means to function	nongold
+25	electricity sometimes is used for heating buildings; substances	nongold
+26	an electrical device requires electricity to turn on	nongold
+27	killing means harming something causing death	nongold
+28	An electrical conductor is a vehicle for the flow of electricity	nongold
+29	negative impact is the opposite of positive impact	nongold
+30	a surface is a kind of object	nongold
+31	usually a body of water is located outside	nongold
+32	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+33	person is synonymous with human	nongold
+34	a surface is a part of a material	nongold
+35	a body of water contains water	nongold
+36	a human is a kind of animal	nongold
+37	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+38	a person should be careful about something dangerous	nongold
+39	a pool of muddy water contains mud	nongold
+40	objects are made of materials; substances; matter	nongold
+41	metal is an  electrical; electrical energy conductor	nongold
+42	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+43	to be used for something means to be required by that something	nongold
+44	something harmful can cause harm	nongold
+45	an insulator is the opposite of a conductor	nongold
+46	a pond is a kind of body of water	nongold
+47	bodies of water are located on Earth's surface	nongold
+48	a concern; a problem is a possible negative impact	nongold
+49	a person is a kind of animal	nongold
+50	to be submerged means to be placed under	nongold
+51	electricity is used as an energy source by electrical devices	nongold
+52	to help; to benefit means to be of use	nongold
+53	work is a kind of place	nongold
+54	an animal is a kind of organism	gold
+55	An example of being careful is avoiding danger	nongold
+56	if a body of water has high turbidity levels then it is unsafe to drink	nongold
+57	a device is a kind of object	nongold
+58	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+59	electric shock occurs when a person contacts a source of electrical energy	nongold
+60	tool is similar to appliance	nongold
+61	work is a measure of the product of force and distance	nongold
+62	wiring requires an electrical conductor	nongold
+63	place; location is synonymous with position	nongold
+64	electricity is made of moving charges; moving charged particles	nongold
+65	edge of a pond is a kind of surface	nongold
+66	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+67	technology is similar to tool	nongold
+68	if someone walks on a surface then that someone touches that surface	nongold
+69	to protect means to make safe	nongold
+70	damage means harm	nongold
+71	a pond is a kind of environment	nongold
+72	damage has a negative impact on a thing	nongold
+73	to do a job means to perform a job	nongold
+74	place is synonymous with location	nongold
+75	underwater means below water	nongold
+76	warning people of dangers has a positive impact on the safety of those people	nongold
+77	a problem has a negative impact on a thing	nongold
+78	under water means covered by water; in water	nongold
+79	to hurt means to harm	nongold
+80	instrument means device	nongold
+81	a negative impact is a kind of consequence; risk	nongold
+82	motion is when moves an object; something to a direction	nongold
+83	death means to die	nongold
+84	plastic is a kind of electrical insulator	nongold
+85	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+86	protecting something means preventing harm to that something	nongold
+87	a simple machine is a kind of tool	nongold
+88	something hard; something strong can be used for protection	nongold
+89	attracting something to a location causes that something  to be near that location	nongold
+90	plastic is usually an electrical insulator	nongold
+91	a good conductor is a conductor	nongold
+92	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+93	if an object is made of a material then that object has the properties of that material	nongold
+94	water is a part of an environment	nongold
+95	harm means injury	nongold
+96	function means job	nongold
+97	if something required by something else is in a place then that something else may be in that place	nongold
+98	place means area	nongold
+99	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+100	objects in an environment are a part of that environment	nongold
+101	a wall is a kind of surface	nongold

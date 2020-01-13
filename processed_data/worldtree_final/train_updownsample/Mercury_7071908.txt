@@ -1,0 +1,61 @@
+0	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+1	accumulation means increase	nongold
+2	irrigation is a kind of practice	gold
+3	causing is a kind of affecting	nongold
+4	to change means to have an effect	nongold
+5	if there is a loss of something then that something decreases	nongold
+6	crops are a kind of edible plant for eating	nongold
+7	farming is when a human plants crops for food	nongold
+8	as the use of something decreases , the use of the source of that something will decrease	nongold
+9	high is similar to increase	nongold
+10	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+11	It decreased the volume of the lake.	answer
+12	pollution is a kind of environmental problem	nongold
+13	to impact means to affect	nongold
+14	planting crops requires growing crops	nongold
+15	flooding is a kind of change	nongold
+16	damage has a negative impact on a thing	nongold
+17	water is a kind of natural resource	gold
+18	to lower means to decrease	nongold
+19	A lake has been used for more than a century to irrigate crops. How has this practice most likely affected this resource?	question
+20	irrigation is a kind of practice	gold
+21	freshwater is a kind of water	nongold
+22	a decrease is a kind of change	nongold
+23	A lake has been used for more than a century to irrigate crops. How has this practice most likely affected this resource?	question
+24	A lake has been used for more than a century to irrigate crops. How has this practice most likely affected this resource?	question
+25	a lake is a kind of body of water	gold
+26	impact means effect	nongold
+27	to limit means to decrease	nongold
+28	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+29	a natural resource is a kind of environmental factor	nongold
+30	irrigation causes water levels to decrease	gold
+31	lakes are formed by precipitation and runoff	nongold
+32	A lake has been used for more than a century to irrigate crops. How has this practice most likely affected this resource?	question
+33	adverse effect means negative impact	nongold
+34	a lake is a kind of body of water	gold
+35	to reduce means to decrease	nongold
+36	humans cause pollution	nongold
+37	crops growing well has a positive impact on a farmer's livelihood	nongold
+38	food is a kind of resource	nongold
+39	It decreased the volume of the lake.	answer
+40	an environment means an area	nongold
+41	to depend on; to rely on; to need means to require	nongold
+42	water is a kind of natural resource	gold
+43	It decreased the volume of the lake.	answer
+44	irrigation is a kind of practice	gold
+45	crops grow in soil	nongold
+46	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+47	irrigation requires water use	gold
+48	a body of water contains water	nongold
+49	irrigation causes water levels to decrease	gold
+50	a body of water is a source of water	nongold
+51	a lake is a kind of body of water	gold
+52	less means a reduced amount	nongold
+53	irrigation causes water levels to decrease	gold
+54	if something releases something else then that something else decreases in that something	nongold
+55	harming something has a  negative impact on; effect on that something	nongold
+56	water is a kind of natural resource	gold
+57	irrigation depletes nutrients in the soil	nongold
+58	irrigation requires water use	gold
+59	irrigation requires water use	gold
+60	It decreased the volume of the lake.	answer

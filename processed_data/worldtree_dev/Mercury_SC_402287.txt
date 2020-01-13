@@ -1,0 +1,102 @@
+Question	What evidence is there that the gravitational pull of the Moon has a direct effect on Earth?	question
+Answer	changes in tidal ranges	answer
+0	tidal range is a measure of the vertical distance from high tide to low tide	gold
+1	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+2	Earth is a kind of planet	nongold
+3	to change means to have an effect	nongold
+4	to cause means to have an effect	gold
+5	pulling is a kind of motion	nongold
+6	impact means effect	nongold
+7	tidal means related to tides	nongold
+8	the gravitational pull of the Moon on Earth's oceans causes the tides	gold
+9	the mass of a planet causes the pull of gravity on that planet	nongold
+10	as the gravitational pull of the moon on the Earth decreases , the size of the tides on Earth decrease	nongold
+11	as gravitational pull of the moon decreases , the ocean tides will be lower	nongold
+12	an increase is a kind of change	nongold
+13	a pull is a kind of force	nongold
+14	a decrease is a kind of change	nongold
+15	the moon orbits the Earth	nongold
+16	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	nongold
+17	gravity causes orbits	nongold
+18	if an object escapes the gravitational pull of a planet then that object is no longer affected by the gravitational pull of that planet	nongold
+19	change is a kind of impact	nongold
+20	the gravitational pull of the Sun on Earth's oceans causes the tides	nongold
+21	to lower means to decrease	nongold
+22	pull is similar to attract	nongold
+23	region is similar to range	nongold
+24	the Moon is Earth's moon	nongold
+25	to impact means to affect	nongold
+26	an increase is the opposite of a decrease	nongold
+27	increase means more	nongold
+28	high is similar to increase	nongold
+29	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+30	to turn means to change	nongold
+31	gravity is a kind of force	nongold
+32	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	nongold
+33	a planet is a kind of celestial object; body	nongold
+34	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+35	low is similar to decrease	nongold
+36	the lowest gravitational pull is during a quarter moon	nongold
+37	a moon is a kind of celestial object; body	nongold
+38	moons orbit planets	nongold
+39	affected means changed	nongold
+40	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+41	extreme means very high in value	nongold
+42	a factor impacts something	nongold
+43	a result of something is evidence of that something	nongold
+44	a source of something increases the amount of that something	nongold
+45	revolving  around something means orbiting that something	nongold
+46	to reduce means to decrease	nongold
+47	orbiting is a kind of action	nongold
+48	narrow band is similar to small range	nongold
+49	as the mass of an object increases , the force of gravity on that object will increase	nongold
+50	if something emits something else then that something increases the amount of that something else	nongold
+51	to change means to cause a change	nongold
+52	greater means higher; more in value	nongold
+53	if something affects a part of something else then that something affects that something else	nongold
+54	a planet's  moon is smaller than that planet	nongold
+55	variable means able to change	nongold
+56	less is similar to decrease	nongold
+57	causing means influencing	nongold
+58	greatest means largest; highest; most amount of something	nongold
+59	a change is a kind of event	nongold
+60	motion is when moves an object; something to a direction	nongold
+61	if something releases something else then that something else decreases in that something	nongold
+62	causing is a kind of affecting	nongold
+63	the mass of an object causes the gravitational force exerted by that object	nongold
+64	influence means effect	nongold
+65	to act on means to affect	nongold
+66	a motion is a kind of event; action	nongold
+67	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+68	pulling away is similar to separating	nongold
+69	the tide is when ocean levels periodically rise; fall	nongold
+70	as the cause of something decreases , that something will decrease	nongold
+71	if something used to be in the past then that something  has changed	nongold
+72	can be means able to be	nongold
+73	if something causes an increase in something else then that something produces that something else	nongold
+74	if something is made by something else then that something is affected by that something else	nongold
+75	the earth has more mass than the moon	nongold
+76	as the mass of an oject decreases , the force of gravity on that object will decrease	nongold
+77	astronomy is the study of celestial (objects, bodies)	nongold
+78	an event is a kind of action	nongold
+79	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+80	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+81	to limit means to decrease	nongold
+82	if the component of something changed , then the whole thing will change	nongold
+83	far means great in distance	nongold
+84	movement is a kind of change	nongold
+85	to be a source of something means to cause that something	nongold
+86	planets have cleared their orbits	nongold
+87	Jupiter is a kind of planet	nongold
+88	producing is similar to causing	nongold
+89	as distance from a source of something increases , that something will decrease	nongold
+90	too much is similar to increase	nongold
+91	little is similar to decrease	nongold
+92	closer means lower; less; a decrease in distance	nongold
+93	a source of something emits; produces; generates; provides that something	nongold
+94	gravity pulls objects towards planets	nongold
+95	harming something has a  negative impact on; effect on that something	nongold
+96	distance is a property of space and includes ordered values of close; far	nongold
+97	if something releases something else then that something is the source of that something else	nongold
+98	the effects of something is a property of that something	nongold
+99	a process is a kind of event	nongold

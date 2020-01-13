@@ -1,0 +1,58 @@
+0	a mirror is a kind of reflective object	gold
+1	human is a kind of organism	nongold
+2	light is a kind of energy	nongold
+3	room contains walls	nongold
+4	a kind of something is an example of that something	nongold
+5	a mirror has a shiny surface	nongold
+6	a mirror is a kind of reflective object	gold
+7	a mirror reflects light	gold
+8	Which is an example of light being reflected?	question
+9	reflection is a property of light	nongold
+10	Which is an example of light being reflected?	question
+11	if an object reflects more light then that object is more easily seen	nongold
+12	a component means a part of	nongold
+13	a mirror is a kind of reflective object	gold
+14	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+15	viewing means observing light	nongold
+16	Which is an example of light being reflected?	question
+17	a mirror reflects light	gold
+18	shiny things; objects reflect light	nongold
+19	to reflect light means to scatter light	nongold
+20	Which is an example of light being reflected?	question
+21	looking is a kind of activity	nongold
+22	if an object reflects light toward the eye then that object can be seen	gold
+23	a structure of something is synonymous with a part of that something	nongold
+24	eyes are usually part of an animal for seeing	nongold
+25	looking like is similar to camouflaging as	nongold
+26	to see means to look	gold
+27	a particle is a kind of object	nongold
+28	looking into a mirror	answer
+29	a surface is a part of an object	nongold
+30	looking into a mirror	answer
+31	reflection is when a wave bounces off a surface and travels in the  opposite direction relative to the angle of incidence	nongold
+32	a mirror reflects light	gold
+33	if an object reflects light toward the eye then that object can be seen	gold
+34	seeing requires light	nongold
+35	if something comes from something else then that something else is a source of that something	nongold
+36	to bounce back means to reflect	nongold
+37	to see means to look	gold
+38	to get a better look at means to see better	nongold
+39	a process is a kind of event	nongold
+40	an part of an object is smaller than the entire object	nongold
+41	reflecting light; sound is the opposite of absorbing light; sound	nongold
+42	aspect of something is similar to part of something	nongold
+43	looking into a mirror	answer
+44	a component of something means a part of that something	nongold
+45	UV light is a kind of light	nongold
+46	eyes are used for seeing by animals by sensing light	nongold
+47	visible light is a kind of  light	nongold
+48	looking into a mirror	answer
+49	a white object reflects all visible light	nongold
+50	light means light energy	nongold
+51	to see means to look	gold
+52	where something  comes from is a source of that something	nongold
+53	a mirror is used for reflecting light	nongold
+54	if an object reflects light toward the eye then that object can be seen	gold
+55	to be a source of something means to cause that something	nongold
+56	a living thing is a kind of object	nongold
+57	emit means produce	nongold

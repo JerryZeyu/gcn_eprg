@@ -1,0 +1,53 @@
+0	if too much heat is transferred to an object then that object may burn	nongold
+1	something is used for that something's purpose	gold
+2	a window is a part of a house	nongold
+3	something is used for that something's purpose	gold
+4	to give off means to be the source of	nongold
+5	to help; to benefit means to be of use	nongold
+6	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+7	to serve as means to be used as	nongold
+8	causing is a kind of function	nongold
+9	less is similar to decrease	nongold
+10	foam; bubble is made of pockets of gas trapped in a liquid or solid	nongold
+11	Foam weather stripping is often placed in the frames of doors and windows in a home. What is the purpose of this weather stripping?	question
+12	heat means temperature increases	nongold
+13	requiring is similar to needing help	nongold
+14	convection causes uneven heating	nongold
+15	temperature is a measure of heat energy	nongold
+16	Foam weather stripping is often placed in the frames of doors and windows in a home. What is the purpose of this weather stripping?	question
+17	a door is a kind of object	nongold
+18	heating means adding heat	nongold
+19	if something causes a process then that something is required for that process	nongold
+20	if something with the same function as something else is being used then the use of that something else decreases	nongold
+21	being  on something; placed in something; placed over something means touching  that something	nongold
+22	material means substance	nongold
+23	remove means decrease	nongold
+24	convection is when a liquid is heated by hotter material rising to the top of the liquid	nongold
+25	The weather stripping reduces heat loss due to convection.	answer
+26	purpose means role	nongold
+27	if something performs a task then that task is that something's function	nongold
+28	The weather stripping reduces heat loss due to convection.	answer
+29	Foam weather stripping is often placed in the frames of doors and windows in a home. What is the purpose of this weather stripping?	question
+30	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+31	if something is places over a heat source then that something is exposed to that heat source	nongold
+32	Foam weather stripping is often placed in the frames of doors and windows in a home. What is the purpose of this weather stripping?	question
+33	if there is a loss of something then that something decreases	nongold
+34	the function of something is what that something  is used to do	nongold
+35	weather stripping is used for reducing heat loss by convection	gold
+36	thermal conduction is when heat flows from warmer object to cooler object	nongold
+37	if heat is added to a substance then that substance absorbs that heat	nongold
+38	convection is when the heated part of gas rises	nongold
+39	a home is a kind of building	nongold
+40	absorbing energy causes objects; materials; substances to heat	nongold
+41	a thermal conductor is made of materials that conduct thermal energy	nongold
+42	weather stripping is used for reducing heat loss by convection	gold
+43	a decrease is a kind of change	nongold
+44	low is similar to decrease	nongold
+45	a source of something emits; produces; generates; provides that something	nongold
+46	something is used for that something's purpose	gold
+47	The weather stripping reduces heat loss due to convection.	answer
+48	a hot; warm something is a source of heat	nongold
+49	The weather stripping reduces heat loss due to convection.	answer
+50	function is similar to purpose	nongold
+51	weather stripping is used for reducing heat loss by convection	gold
+52	a house is a kind of home	nongold

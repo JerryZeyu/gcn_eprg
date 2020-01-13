@@ -1,0 +1,102 @@
+Question	The floating arrow on a compass always points towards the	question
+Answer	north.	answer
+0	the floating arrow on a compass always points towards the north	gold
+1	a compass is a kind of tool for determining direction by pointing north	nongold
+2	a compass is used for determining direction	nongold
+3	a compass is a kind of object	nongold
+4	towards means closer to something	nongold
+5	north; northward is a kind of direction	nongold
+6	a needle floating in water is a kind of compass	nongold
+7	toward is a kind of direction	nongold
+8	Earth's magnetic field causes compasses to point North	gold
+9	north is the opposite of south	nongold
+10	navigation requires knowing direction	nongold
+11	south; southward is a kind of direction	nongold
+12	when the needle of a compass lines up with Earth's magnetic poles , the needle points north	gold
+13	latitude is a property of a location; place on Earth	nongold
+14	to move toward means to move nearer	nongold
+15	a compass is used to navigate oceans; seas	nongold
+16	toward is the opposite of away	nongold
+17	natural magnetism is used for pointing north by a compass	nongold
+18	a compass's needle lines up with Earth's magnetic poles	gold
+19	motion is when moves an object; something to a direction	nongold
+20	miles are a kind of unit for measuring distance	nongold
+21	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+22	down is a kind of direction	nongold
+23	upward is a kind of direction	nongold
+24	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+25	downward is a kind of direction	nongold
+26	far means great in distance	nongold
+27	distant means great in distance	nongold
+28	the North Pole is a kind of location	nongold
+29	a meter is a kind of unit for measuring distance; measuring length	nongold
+30	away is a kind of direction	nongold
+31	distant means far away	nongold
+32	a motion is a kind of event; action	nongold
+33	direction is similar to instruction	nongold
+34	can be means able to be	nongold
+35	travelling requires  navigation	nongold
+36	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+37	the sun rises in the east	nongold
+38	travel means to move	nongold
+39	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+40	a velocity is a measure of a speed in a direction	nongold
+41	answering questions requires information	nongold
+42	motion; movement means moving; to move	nongold
+43	a circle is a kind of shape	nongold
+44	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+45	measuring is used for describing an object	nongold
+46	downhill is a kind of direction	nongold
+47	an event is a kind of action	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	to create means to make	nongold
+50	near; close is the opposite of far; away	nongold
+51	to pass means to travel	nongold
+52	astronomy is the study of celestial (objects, bodies)	nongold
+53	the sun sets in the west	nongold
+54	moving is similar to travelling	nongold
+55	as a person in the northern hemisphere moves south , distance from the equator will decrease	nongold
+56	pulling is a kind of motion	nongold
+57	to turn means to change	nongold
+58	downstream is a kind of direction in a river	nongold
+59	a human is a kind of animal	nongold
+60	a landform is a kind of object	nongold
+61	to cross means to pass	nongold
+62	seconds are used to measure time	nongold
+63	The North Pole is located in the northern hemisphere	nongold
+64	calculating speed requires knowing distance travelled	nongold
+65	setting is a kind of motion	nongold
+66	to produce means to create	nongold
+67	turning is a kind of motion	nongold
+68	wind direction is a property of weather	nongold
+69	an instrument is a piece of equipment	nongold
+70	a vehicle is a kind of tool for travel; transport	nongold
+71	creating means making	nongold
+72	a road is a kind of location	nongold
+73	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+74	the location of an object can be used to describe that object	nongold
+75	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+76	seconds are a kind of unit for measuring time	nongold
+77	to see means to look	nongold
+78	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+79	to form means to create	nongold
+80	South Sudan is located in the southern hemisphere	nongold
+81	a vehicle is a kind of object	nongold
+82	moving away from the source increases the distance	nongold
+83	to carry means to transport	nongold
+84	greatest means largest; highest; most amount of something	nongold
+85	fixed is similar to definite	nongold
+86	to carry means to move something	nongold
+87	a road is a kind of object	nongold
+88	to make means to form	nongold
+89	approximately means about	nongold
+90	instrument means tool	nongold
+91	up means upward	nongold
+92	a star is a kind of celestial object; celestial body	nongold
+93	a vehicle is used for travel	nongold
+94	a type is synonymous with a kind	nongold
+95	no longer means used to be	nongold
+96	an object is made of its parts	nongold
+97	objects are made of materials; substances; matter	nongold
+98	instrument means device	nongold
+99	South Africa is located in the southern hemisphere	nongold

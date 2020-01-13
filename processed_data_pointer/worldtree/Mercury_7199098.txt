@@ -1,0 +1,102 @@
+Question	Nuclear fusion is the source of energy for stars. Besides hydrogen, which other element is most likely also common in stars?	question
+Answer	helium	answer
+0	helium is a kind of element	gold
+1	helium is a kind of gas	nongold
+2	nuclear fusion converts hydrogen into helium	nongold
+3	hydrogen is the most common element in stars	nongold
+4	helium has a low atomic number	gold
+5	if something requires something else then that something else may be common in that something	gold
+6	nuclear fusion is a source of energy	nongold
+7	nuclear fusion in a star's core generates energy for the star to (burn, shine)	nongold
+8	the chemical symbol for helium is He	nongold
+9	nuclear energy is a kind of energy	nongold
+10	nuclear reactions in stars causes stars to produce light; energy; nuclear energy	nongold
+11	a star is a source of light; light energy through nuclear reactions	nongold
+12	hydrogen is a kind of element	nongold
+13	a star requires energy	gold
+14	nuclear fusion is a kind of nuclear reaction	nongold
+15	an  element is a kind of atom	nongold
+16	nuclear fusion causes star formation	nongold
+17	a star produces light and heat	nongold
+18	a star is made of gases	nongold
+19	nuclear fusion is when atomic nuclei of low atomic number fuse	gold
+20	an element is made of one kind of atoms	nongold
+21	nuclear fusion occurs in the sun's core	nongold
+22	if an event is more common then that event will occur more frequently	nongold
+23	helium; neon; argon; krypton; xenon; radon is located in noble gases family; group 18 on the periodic table	nongold
+24	oxygen  is a kind of element	nongold
+25	helium has lower; less density than air	nongold
+26	a source of something emits; produces; generates; provides that something	nongold
+27	hydrogen contains chemical energy	nongold
+28	chemical energy is a kind of energy	nongold
+29	in common is similar to the same	nongold
+30	oxygen is more common than hydrogen on Earth	nongold
+31	protons and neutrons are formed during nuclear fusion	nongold
+32	nuclear fusion is a kind of process	nongold
+33	nuclear fusion is a kind of process	nongold
+34	an atom is made of protons; neutrons; electrons	nongold
+35	where something  comes from is a source of that something	nongold
+36	light is a kind of energy	nongold
+37	light is a kind of energy	nongold
+38	if something comes from something else then that something else is a source of that something	nongold
+39	an element is a kind of  substance	nongold
+40	substances are made of elements	nongold
+41	to be used for something means to be required by that something	nongold
+42	if something transfers something else then that something is a source of something else	nongold
+43	stellar means related to stars	nongold
+44	hydrogen is a kind of gas at room temperature	nongold
+45	stars generally have the same chemical composition	nongold
+46	a star is formed by collapsing clouds of gas and dust	nongold
+47	often is similar to likely	nongold
+48	similar means in common	nongold
+49	if something is made of something else , then that something else will be the component of that something	nongold
+50	an element is a kind of material	nongold
+51	nitrogen is a kind of gas	nongold
+52	carbon; hydrogen; nitrogen; oxygen are the most common elements in organic compounds	nongold
+53	atom cannot be divided into smaller substances	nongold
+54	the sun is made of hydrogen and helium	nongold
+55	to be formed by is similar to being produced by	nongold
+56	classifying is when one sorts something by kind; type	nongold
+57	a cluster of stars is made of stars	nongold
+58	all elements are a kind of pure substance	nongold
+59	sulfur is a kind of element	nongold
+60	if something releases something else then that something is the source of that something else	nongold
+61	a  gas is a kind of  element	nongold
+62	heat is a kind of energy	nongold
+63	if something requires something else then that something requires a source of that something else	gold
+64	to produce means to create	nongold
+65	to create means to make	nongold
+66	nitrogen is a kind of element	nongold
+67	composed of means made of	nongold
+68	a type is synonymous with a kind	nongold
+69	a component means a part of	nongold
+70	a component of something means a part of that something	nongold
+71	small stars burn for billions of years	nongold
+72	different substances usually have different amount of chemical energy	nongold
+73	to be made of something means to be formed of that something	nongold
+74	to form means to create	nongold
+75	if something is made of something else then that something can be broken down into that something else	nongold
+76	oxygen; selenium; sulfur; tellurium; polonium is located in group 16; oxygen family on the periodic table	nongold
+77	if something gains something from something else then that something else is a source of that something	nongold
+78	to make means to form	nongold
+79	a white dwarf is a kind of star	nongold
+80	forming is similar to converting	nongold
+81	high is similar to increase	nongold
+82	converting is similar to producing	nongold
+83	the nucleus of an atom is usually made of both protons and neutrons	nongold
+84	a star's type is determined by the star's mass	nongold
+85	yellow dwarf is a kind of small star	nongold
+86	if something generates energy for something else then that something powers that something else	nongold
+87	products are formed; are produced; are created	nongold
+88	oxygen gas is made of only  oxygen element	nongold
+89	energy transformation means one kind of energy changes into another kind of energy	nongold
+90	carbon is a kind of element	nongold
+91	matter; materials; substances are made of atoms; particles	nongold
+92	substances are made of matter	nongold
+93	the Sun is a kind of star	nongold
+94	a supernova is formed by a star exploding	nongold
+95	to cause means to make	nongold
+96	to provide something means to be the source of that something	nongold
+97	a metal is a kind of element	nongold
+98	a star is a kind of celestial object; celestial body	nongold
+99	to belong to a class means to be a kind of something	nongold

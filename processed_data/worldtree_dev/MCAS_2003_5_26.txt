@@ -1,0 +1,102 @@
+Question	A bicycle is considered a complex machine because it is	question
+Answer	made up of more than one simple machine.	answer
+0	a complex machine is made of more than one simple machine	gold
+1	bike means bicycle	nongold
+2	a simple machine is a kind of tool	nongold
+3	a bicycle is a kind of object	nongold
+4	a bicycle is a kind of vehicle	nongold
+5	a bicycle is made of levers, wheels and axles, pulleys, and screws	nongold
+6	a motorcycle is a kind of automobile	nongold
+7	a bicycle contains levers; wheels and axles; pulleys; screws	gold
+8	made up of means contains; made of	nongold
+9	composed of means made of	nongold
+10	to be made of means to consist of	nongold
+11	if an object is made of something then the parts of that object are made of that something	nongold
+12	the parts of something make up that something	nongold
+13	a simple machine requires mechanical energy to function	nongold
+14	a machine is a kind of object	nongold
+15	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+16	a machine is a kind of  device	nongold
+17	an object is made of its parts	nongold
+18	to be made of something means to be formed of that something	nongold
+19	if something is made of something else then that something can be broken down into that something else	nongold
+20	objects are made of materials; substances; matter	nongold
+21	a wheel and axle is a kind of simple machine	gold
+22	if something is made of something; a material then that something contains that something; that material	nongold
+23	made of is similar to contains	nongold
+24	a bicycle is a kind of nonliving thing	nongold
+25	a living thing is a kind of object	nongold
+26	make means produce	nongold
+27	if something is made of something else then the formation of that something requires that something else	nongold
+28	what something is made of is a property of the organization or that something	nongold
+29	an automobile is a kind of vehicle	nongold
+30	to create means to make	nongold
+31	if something is made of something else , then that something else will be the component of that something	nongold
+32	products are formed; are produced; are created	nongold
+33	the automobile is a kind of technology	nongold
+34	a whole is formed by its parts	nongold
+35	a component of something means a part of that something	nongold
+36	a structure of something is synonymous with a part of that something	nongold
+37	to make means to form	nongold
+38	most means over 50% of something	nongold
+39	a producer is a kind of living thing	nongold
+40	made of is similar to is built from	nongold
+41	manufacture means make	nongold
+42	materials are made of matter	nongold
+43	if an object is made of a material then that object has the properties of that material	nongold
+44	a device is a kind of object	nongold
+45	a vehicle is a kind of object	nongold
+46	classifying means grouping objects; materials by their properties	nongold
+47	composite materials are made of two more more materials	nongold
+48	can be means able to be	nongold
+49	creating means making	nongold
+50	a component means a part of	nongold
+51	to produce means to create	nongold
+52	unit is similar to part	nongold
+53	to be a combination of means to be made of	nongold
+54	generate means produce	nongold
+55	less is the opposite of more	nongold
+56	production is similar to making	nongold
+57	to generate means to form	nongold
+58	to generate means to create	nongold
+59	a source of something emits; produces; generates; provides that something	nongold
+60	a car is a kind of automobile	nongold
+61	a human can pedal a bicycle	nongold
+62	humans usually develop inventions that they require	nongold
+63	a car is a kind of object	nongold
+64	to be formed by is similar to being produced by	nongold
+65	device means tool	nongold
+66	a tool is a kind of object	nongold
+67	to be used for something means to be required by that something	nongold
+68	matter; materials; substances are made of atoms; particles	nongold
+69	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+70	composition means the (materials, substances) of which something is composed	nongold
+71	a lever is a kind of simple machine	gold
+72	manufacturing means making	nongold
+73	automobiles; industrialization are a source of carbon dioxide	nongold
+74	a car is a kind of vehicle	nongold
+75	making something requires resources	nongold
+76	if two things are made from the same objects; material then those two things are similar	nongold
+77	a wheel is a kind of object	nongold
+78	classifying is when one sorts something by kind; type	nongold
+79	substances are made of matter	nongold
+80	to assemble means to make	nongold
+81	to form means to create	nongold
+82	to be made of is similar to collection	nongold
+83	an organism is a living thing	nongold
+84	to make means to invent	nongold
+85	all the other means the rest of	nongold
+86	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+87	producing is a kind of process	nongold
+88	to contain means to have inside	nongold
+89	if something is a part of something else then that something else contains that something	nongold
+90	wheels are a part of a car	nongold
+91	structure is a property of an object; a material; a substance	nongold
+92	the number of parts of something is a property of that something	nongold
+93	to group means to separate	nongold
+94	assembling means putting together	nongold
+95	to make possible means to be required	nongold
+96	materials are used for making products by manufacturers	nongold
+97	a product is a kind of object	nongold
+98	if something is a raw material in a process then that something is required for that process	nongold
+99	length is a part of size	nongold

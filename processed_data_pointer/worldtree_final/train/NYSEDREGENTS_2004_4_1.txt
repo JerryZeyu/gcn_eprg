@@ -1,0 +1,101 @@
+0	cycles of day and night occur once per day	nongold
+1	Neptune is a kind of planet in the solar system	nongold
+2	yearly means every year	nongold
+3	something that happens is a kind of event	nongold
+4	physical state means state of matter	nongold
+5	a human is a kind of animal	nongold
+6	December is a kind of month	nongold
+7	sunlight means solar energy	nongold
+8	August is a kind of month	nongold
+9	amount of daylight means length of daylight	gold
+10	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+11	Neptune has the longest solar year; planetary year in the solar system	nongold
+12	daily means every day; once per day	nongold
+13	intensity of sunlight is similar to amount of sunlight	nongold
+14	a cycle happens; occurs repeatedly	nongold
+15	the amount of daylight is least on the winter solstice	nongold
+16	state of matter means physical state	nongold
+17	daylight means sunlight	nongold
+18	1 year is equal to 365 days	nongold
+19	shortest means least; smallest in length	nongold
+20	days are a kind of unit for measuring time	nongold
+21	hours are a kind of unit for measuring time	nongold
+22	daylight hours means time during which there is daylight	nongold
+23	daylight occurs during the day	nongold
+24	if something is outside during the day then that something will receive sunlight	nongold
+25	to happen means to occur	nongold
+26	Yorkshire is a county located in England	nongold
+27	as the amount of daylight increases , sunset will occur later in the day	nongold
+28	events occur at a specific place; at a specific time; with a specific frequency	nongold
+29	1 day is equal to 24 hours	nongold
+30	the winter solstice is on June 21st in the southern hemisphere	nongold
+31	New York; New York State is a state located in the United States of America	gold
+32	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+33	high is similar to increase	nongold
+34	years are a kind of unit for measuring time	nongold
+35	the sun is a source of light; light energy called sunlight	nongold
+36	daytime means day	nongold
+37	length of time means period of time	nongold
+38	how long something takes is a kind of measurement of time	nongold
+39	a measure of time is a length of time	nongold
+40	Tuesday is a kind of  time	nongold
+41	phase means state	nongold
+42	shortest means the least amount of time	nongold
+43	the moon orbiting the Earth occurs once per month	nongold
+44	solid is a kind of state of matter	nongold
+45	all the time means at day and at night	nongold
+46	John is a name for a human	nongold
+47	New York is closer to the North Pole than Florida	nongold
+48	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+49	June	answer
+50	the sun rising; setting occurs once per day	nongold
+51	month is a kind of period of time	nongold
+52	the amount of daylight is greatest in the summer	gold
+53	afternoon is a part of day time	nongold
+54	In New York State, the longest period of daylight occurs during which month?	question
+55	to shorten means to make shorter	nongold
+56	long means great in length	nongold
+57	the day time is part of one day	nongold
+58	a new moon occurs 14 days after a full moon	nongold
+59	the new moon is when the lighted half of the moon faces the Sun	nongold
+60	old is the opposite of new	nongold
+61	Jonny is a name for a human	nongold
+62	annual means once per year	nongold
+63	a new season occurs four times per year	nongold
+64	a rotation of the moon takes 1; one month	nongold
+65	June is during the summer in the northern hemisphere	gold
+66	the night time is part of one day	nongold
+67	sunshine means sunlight	nongold
+68	a revolution of the moon around the Earth takes 1; one month	nongold
+69	N means newton	nongold
+70	state means form	nongold
+71	sunlight is a kind of light	nongold
+72	a phase of the moon is a kind of state	nongold
+73	June is a kind of month	gold
+74	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+75	monthly means once per month	nongold
+76	1 year is equal to 12 months	nongold
+77	sunlight is a kind of solar energy	nongold
+78	each of the moon's phases occurs once per month	nongold
+79	the sunlight occurs during the day	nongold
+80	period of daylight is synonymous with amount of daylight	gold
+81	yogurt is a kind of food	nongold
+82	a new moon is a kind of phase of the moon	nongold
+83	months are a kind of unit for measuring time	nongold
+84	to a human a time period of 1000 years or more years is considered very long	nongold
+85	when the season changes , the amount of daylight will change	nongold
+86	daylight is when the sun shines on a location	nongold
+87	the amount of daylight is greatest on the summer solstice	gold
+88	1 month is equal to 28-31 days	nongold
+89	once per means every	nongold
+90	a new season occurs once per 3.0 months	nongold
+91	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+92	period is similar to amount of time	nongold
+93	the new moon is when the dark half of the moon faces the Earth	nongold
+94	the afternoon is  a part of the day	nongold
+95	to add means to increase	nongold
+96	June is during the winter in the southern hemisphere	nongold
+97	new means different from the former one	nongold
+98	the summer solstice is on June 21st in the northern hemisphere	gold
+99	longest means greatest in length	gold
+100	the amount of daylight is least in the winter	nongold

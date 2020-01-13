@@ -1,0 +1,67 @@
+0	if a material dents easily then that material has low strength	nongold
+1	if something is strong then that something  does not break easily	gold
+2	if an object is made of a material then that object has the properties of that material	nongold
+3	to break down means to break into smaller pieces	nongold
+4	plastic is microwave-safe	gold
+5	if something is strong then that something  does not break easily	gold
+6	plastic is cheap	gold
+7	cheap is similar to inexpensive	gold
+8	food is a kind of object	nongold
+9	airtight is when air cannot pass through something	gold
+10	cheap is similar to inexpensive	gold
+11	good means positive	nongold
+12	to produce means to provide	nongold
+13	plastic is a kind of thermal insulator	nongold
+14	metal is a kind of material	nongold
+15	manufacturing means making	nongold
+16	A manufacturer wants to produce a container for food storage that does not break easily and is airtight, inexpensive, and microwave-safe. Which of the following is the best material to use to make the container?	question
+17	providing something means making;delivering something	nongold
+18	microwave-safe is when a material can be microwaved safely	gold
+19	making products for cheaper has a positive impact on manufacturing	nongold
+20	an oven is a source of heat	nongold
+21	plastic is cheap	gold
+22	cheaper means lower in cost	nongold
+23	plastic is cheap	gold
+24	airtight is when air cannot pass through something	gold
+25	person is synonymous with human	nongold
+26	if something is strong then that something  does not break easily	gold
+27	plastic is microwave-safe	gold
+28	plastic is high in strength	gold
+29	a source of something emits; produces; generates; provides that something	nongold
+30	plastic is microwave-safe	gold
+31	protecting something means preventing harm to that something	nongold
+32	to be formed by is similar to being produced by	nongold
+33	surfaces sometimes cause objects to break	nongold
+34	rubber is thermal;thermal energy insulator	nongold
+35	A manufacturer wants to produce a container for food storage that does not break easily and is airtight, inexpensive, and microwave-safe. Which of the following is the best material to use to make the container?	question
+36	to help; to benefit means to be of use	nongold
+37	A manufacturer wants to produce a container for food storage that does not break easily and is airtight, inexpensive, and microwave-safe. Which of the following is the best material to use to make the container?	question
+38	airtight is when air cannot pass through something	gold
+39	cheap is similar to inexpensive	gold
+40	keeping is similar to storing	nongold
+41	provide is similar to give; make	nongold
+42	plastic	answer
+43	microwave-safe is when a material can be microwaved safely	gold
+44	plastic	answer
+45	plastic is a kind of material made by humans	gold
+46	helping something has a  positive impact on that something	nongold
+47	microwave-safe is when a material can be microwaved safely	gold
+48	converting is similar to producing	nongold
+49	emit means produce	nongold
+50	plastic is a kind of material made by humans	gold
+51	high is similar to increase	nongold
+52	harming something has a  negative impact on; effect on that something	nongold
+53	materials are used for making products by manufacturers	nongold
+54	an object has properties	nongold
+55	plastic is high in strength	gold
+56	plastic is high in strength	gold
+57	microwaves harm people that have pacemakers	nongold
+58	adverse effect means negative impact	nongold
+59	high-quality means positive	nongold
+60	plastic	answer
+61	an insulator is a kind of material	nongold
+62	plastic	answer
+63	plastic is a kind of material made by humans	gold
+64	production is similar to making	nongold
+65	a product is a kind of object	nongold
+66	A manufacturer wants to produce a container for food storage that does not break easily and is airtight, inexpensive, and microwave-safe. Which of the following is the best material to use to make the container?	question

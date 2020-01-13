@@ -1,0 +1,63 @@
+0	an organism is a living thing	nongold
+1	transporting is a kind of function	nongold
+2	conducting is a kind of function	nongold
+3	speed is a measure of how fast an object is moving	nongold
+4	a function is a kind of characteristic	nongold
+5	an object is made of its parts	nongold
+6	can be means able to be	nongold
+7	a human is a kind of animal	gold
+8	vibration is a kind of motion	nongold
+9	function means job	nongold
+10	the body is a part of an organism	nongold
+11	something's function can be used to describe; identify that something	nongold
+12	an animal is a kind of organism	nongold
+13	matter; materials; substances are made of atoms; particles	nongold
+14	a human is a kind of animal	gold
+15	a box is a kind of object	nongold
+16	rotating is similar to moving	nongold
+17	a computer is a kind of tool	nongold
+18	the brain is a part of the body	nongold
+19	to be a vehicle for is a kind of function	nongold
+20	a body system is a part of the body; an animal	nongold
+21	a computer controls a robot	gold
+22	controlling is a kind of function	gold
+23	controlling is a kind of function	gold
+24	if two things perform the same function then those two things are similar	gold
+25	to place in is similar to to move to	nongold
+26	an animal's brain controls that animal	gold
+27	absorbing is a kind of function	nongold
+28	a brain is a part of an animal	gold
+29	regulating is a kind of function	nongold
+30	The students in an engineering class built a robot that stacks wooden blocks. A built-in computer controls the movement of the robot. The computer in the robot performs a function most similar to which part of the human body?	question
+31	a living thing is a kind of object	nongold
+32	the nervous system is a part of the body of an animal	nongold
+33	converting is a kind of function	nongold
+34	an animal's brain controls that animal	gold
+35	sensory organs are used for sensing	nongold
+36	motion; movement means moving; to move	nongold
+37	to have a function is similar to to be responsible for	nongold
+38	a computer controls a robot	gold
+39	function is similar to purpose	nongold
+40	brain	answer
+41	to be used for something means to be required by that something	nongold
+42	a brain is a part of an animal	gold
+43	the nervous system is the vehicle for controlling the body	nongold
+44	an part of an object is smaller than the entire object	nongold
+45	if two things perform the same function then those two things are similar	gold
+46	materials are made of matter	nongold
+47	frame construction requires wood	nongold
+48	The students in an engineering class built a robot that stacks wooden blocks. A built-in computer controls the movement of the robot. The computer in the robot performs a function most similar to which part of the human body?	question
+49	a human is a kind of animal	gold
+50	a brain is a part of an animal	gold
+51	if something performs a task then that task is that something's function	nongold
+52	if two things perform the same function then those two things are similar	gold
+53	brain	answer
+54	The students in an engineering class built a robot that stacks wooden blocks. A built-in computer controls the movement of the robot. The computer in the robot performs a function most similar to which part of the human body?	question
+55	brain	answer
+56	The students in an engineering class built a robot that stacks wooden blocks. A built-in computer controls the movement of the robot. The computer in the robot performs a function most similar to which part of the human body?	question
+57	a block is a kind of object	nongold
+58	wood is a strong material	nongold
+59	a computer controls a robot	gold
+60	brain	answer
+61	an animal's brain controls that animal	gold
+62	controlling is a kind of function	gold

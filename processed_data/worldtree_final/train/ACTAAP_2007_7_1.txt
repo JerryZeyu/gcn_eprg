@@ -1,0 +1,102 @@
+0	Which correctly arranges three scientific terms-theory, law, and hypothesis-from least to most accepted or tested?	question
+1	hypothesis, theory, law	answer
+2	a law is a kind of scientific term	gold
+3	a theory is a kind of scientific term	gold
+4	a hypothesis is a kind of scientific term	gold
+5	a law is more accepted; tested than a theory	gold
+6	a theory is more accepted; tested than a hypothesis	gold
+7	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+8	arrangement means how something is arranged	nongold
+9	least is the opposite of greatest	nongold
+10	least is the opposite of most	nongold
+11	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+12	experiment is synonymous with test	nongold
+13	hypothesis means scientific guess about the cause and effect of an event	nongold
+14	testing often requires measuring	nongold
+15	lowest means least in value; amount; number	nongold
+16	can be means able to be	nongold
+17	a type is synonymous with a kind	nongold
+18	to produce means to result in	nongold
+19	experimentation requires measuring	nongold
+20	form means kind	nongold
+21	organizing is sorting something by their properties in order	nongold
+22	to cause means to result in	nongold
+23	both means two	nongold
+24	result means outcome	nongold
+25	to be formed by is to be the result of	nongold
+26	best means most positive	nongold
+27	greatest means largest; highest; most amount of something	nongold
+28	affected means changed	nongold
+29	variable means able to change	nongold
+30	to add means to combine	nongold
+31	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+32	consistent means constant	nongold
+33	shortest means least; smallest in length	nongold
+34	trial is synonymous with test	nongold
+35	definite is the opposite of variable	nongold
+36	observations; data are a part of the results of an experiment	nongold
+37	a scientist is a kind of human	nongold
+38	An example of evidence for a scientific theory is observations	nongold
+39	mostly means being the most	nongold
+40	product means result	nongold
+41	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+42	material means substance	nongold
+43	a  solution  is a kind of object	nongold
+44	high is similar to increase	nongold
+45	a source of something emits; produces; generates; provides that something	nongold
+46	provide is similar to give; make	nongold
+47	must have means require	nongold
+48	the  arrangement of particles is different in different substances	nongold
+49	usually means most of the time	nongold
+50	according to is similar to be determined by	nongold
+51	no longer means used to be	nongold
+52	to conclude means to make a conclusion	nongold
+53	to be formed by is similar to being produced by	nongold
+54	composed of means made of	nongold
+55	to add means to increase	nongold
+56	furthest; farthest means greatest; most; highest in distance	nongold
+57	a kind of something is an example of that something	nongold
+58	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+59	to modify means to change	nongold
+60	classifying means grouping objects; materials by their properties	nongold
+61	to convert means to change	nongold
+62	largest amount means most	nongold
+63	to be made of something means to be formed of that something	nongold
+64	answering questions requires information	nongold
+65	made up of means contains; made of	nongold
+66	good means positive	nongold
+67	to turn means to change	nongold
+68	consistent means usual	nongold
+69	a motion is a kind of event; action	nongold
+70	to vary means to change	nongold
+71	fewest means lowest; least in number	nongold
+72	fixed is similar to definite	nongold
+73	if something is made of something else then that something can be broken down into that something else	nongold
+74	make means produce	nongold
+75	to assemble means to make	nongold
+76	events occur at a specific place; at a specific time; with a specific frequency	nongold
+77	indefinite means variable	nongold
+78	matter; materials; substances are made of atoms; particles	nongold
+79	to discover means to make a discovery	nongold
+80	particles in objects are a kind of matter	nongold
+81	to be used for something means to be required by that something	nongold
+82	the properties of something are used for describing that something	nongold
+83	better means good	nongold
+84	not is similar to the opposite of	nongold
+85	break down is the opposite of put together	nongold
+86	an animal is a kind of living thing	nongold
+87	objects are made of materials; substances; matter	nongold
+88	generally means usually	nongold
+89	phase changes change the arrangement of molecules in a substance; in a sample	nongold
+90	a component means a part of	nongold
+91	person is synonymous with human	nongold
+92	an object is made of its parts	nongold
+93	system means a set of objects	nongold
+94	certain is similar to specific	nongold
+95	an animal is a kind of organism	nongold
+96	higher means greater; above in value; amount; number	nongold
+97	typically means usually	nongold
+98	emit means produce	nongold
+99	to make means to invent	nongold
+100	determine is similar to cause	nongold
+101	to be made of means to consist of	nongold

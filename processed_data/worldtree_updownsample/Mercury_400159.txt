@@ -1,0 +1,61 @@
+0	skills are learned characteristics; behaviors	nongold
+1	a fork is a kind of utensil	gold
+2	a fork is a kind of utensil	gold
+3	a utensil is a kind of tool for eating	gold
+4	communication is a learned behavior	nongold
+5	cooking is a kind of skill for preparing food	nongold
+6	a utensil is used for eating	gold
+7	a person is a kind of animal	nongold
+8	inability is the opposite of ability	nongold
+9	using tools is a learned characteristic	gold
+10	breakfast is a kind of food	nongold
+11	using tools is a learned characteristic	gold
+12	rolling in mud is a learned behavior	nongold
+13	a human is a kind of animal	nongold
+14	a dessert is a kind of food	nongold
+15	a behavior is a kind of characteristic	gold
+16	a predator avoiding some types of prey is a learned behavior	nongold
+17	a spoon is a kind of object	nongold
+18	actions mean behavior	nongold
+19	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+20	a source of something emits; produces; generates; provides that something	nongold
+21	lizards eat insects	nongold
+22	a fork is a kind of utensil	gold
+23	preferences are generally learned characteristics	nongold
+24	a behavior is a kind of characteristic	gold
+25	to produce means to create	nongold
+26	eating with a fork	answer
+27	following orders is a learned characteristic	nongold
+28	Which behavior is a learned behavior?	question
+29	diet means what an animal eats	nongold
+30	a utensil is used for eating	gold
+31	human is a kind of organism	nongold
+32	an animal knows how to do  instinctive behaviors when it is born	nongold
+33	to eat means to consume food	nongold
+34	an animal is a kind of living thing	nongold
+35	a utensil is a kind of tool for eating	gold
+36	a behavior is a kind of characteristic	gold
+37	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+38	an animal is a kind of organism	nongold
+39	to impact means to affect	nongold
+40	a predator eats other animals for food	nongold
+41	a utensil is a kind of tool for eating	gold
+42	trait is synonymous with characteristic	nongold
+43	a process is a kind of event	nongold
+44	a fork is a kind of object	nongold
+45	Which behavior is a learned behavior?	question
+46	a utensil is used for eating	gold
+47	food is a kind of object	nongold
+48	food is a kind of substance	nongold
+49	Which behavior is a learned behavior?	question
+50	walking is a kind of behavior	nongold
+51	answering questions requires information	nongold
+52	using tools is a learned characteristic	gold
+53	animal instinct means instinctive behavior	nongold
+54	an insect is a kind of prey	nongold
+55	impact means effect	nongold
+56	Which behavior is a learned behavior?	question
+57	eating with a fork	answer
+58	eating with a fork	answer
+59	eating with a fork	answer
+60	become prey means get eaten	nongold

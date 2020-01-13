@@ -1,0 +1,102 @@
+Question	A radio station broadcasting across a large area is experiencing thunderstorms. How will the radio waves from the station be affected?	question
+Answer	frequency will be distorted	answer
+0	radio station broadcasting is a source of radio waves	gold
+1	thunder occurs during thunderstorms	nongold
+2	a thunderstorm is a kind of storm	nongold
+3	distorting is a kind of affecting	gold
+4	radio signal is a kind of radio wave	nongold
+5	to impact means to affect	nongold
+6	radio wave is a kind of electromagnetic wave	nongold
+7	causing is a kind of affecting	nongold
+8	the radio receives radio waves	nongold
+9	if something affects a part of something else then that something affects that something else	nongold
+10	radio transmitter emits radio waves	nongold
+11	affected means changed	nongold
+12	to cause means to have an effect	nongold
+13	impact means effect	nongold
+14	as the distance from the wave source increases ,  the frequency of the waves will decrease	nongold
+15	if something is made by something else then that something is affected by that something else	nongold
+16	electromagnetic radiation distorts the frequency of the radio waves	gold
+17	an object; material; substance comes from that object or material's source	nongold
+18	harming something has a  negative impact on; effect on that something	nongold
+19	storm is a kind of weather; weather event	nongold
+20	to change means to have an effect	nongold
+21	a storm is usually a source of strong winds	nongold
+22	thunder is a kind of sound	nongold
+23	influence means effect	nongold
+24	electromagnetic wave is a kind of  wave	nongold
+25	influence means impact	nongold
+26	cold fronts cause thunderstorms as they pass by	nongold
+27	as distance from a source of something increases , that something will decrease	nongold
+28	having an impact on something means altering that something	nongold
+29	negative impact is the opposite of positive impact	nongold
+30	a vibration is similar to a wave	nongold
+31	the  sound energy released by thunder is intense	nongold
+32	change is a kind of impact	nongold
+33	thunder is a source of sound energy	nongold
+34	a wave is a kind of object	nongold
+35	a radio is a kind of electrical device	nongold
+36	a radio is used for communication	nongold
+37	lightning occurs during lightning storms; thunderstorms	gold
+38	sound wave is a kind of wave	nongold
+39	Doppler Effect is when the  frequency of the waves changes when the distance from the wave source changes	nongold
+40	a factor impacts something	nongold
+41	rainstorm means rain storm	nongold
+42	as the wavelength of a wave increases ,  the frequency of the wave will decrease	nongold
+43	a radio converts electrical energy into vibrations; sound energy	nongold
+44	high-frequency sound waves have low; short wavelengths	nongold
+45	to reduce means to decrease	nongold
+46	cause is similar to influence	nongold
+47	radio waves spread in all directions	nongold
+48	a radio contains a speaker	nongold
+49	a wave is formed by the vibration of the source spreading around from the source	nongold
+50	sound wave is similar to sound	nongold
+51	an increase is the opposite of a decrease	nongold
+52	frequency is a property of a wave; a particel of light; an event	nongold
+53	thunder is loud	nongold
+54	wave motion is transferred from the source to matter to produce sound	nongold
+55	waves travel outward from the source	nongold
+56	lightning causes thunder	nongold
+57	if something comes from something else then that something else is a source of that something	nongold
+58	sound waves means sound energy	nongold
+59	events occur at a specific place; at a specific time; with a specific frequency	nongold
+60	all waves transfer; transmit energy from one place to another	nongold
+61	adverse effect means negative impact	nongold
+62	low is similar to decrease	nongold
+63	the ability to refract is a property of waves	nongold
+64	less is similar to decrease	nongold
+65	extreme means very high in value	nongold
+66	acoustic signal is a kind of sound wave	nongold
+67	high is similar to increase	nongold
+68	disrupting is similar to having a negative impact	nongold
+69	electromagnetic energy travels as electromagnetic waves	nongold
+70	answering questions requires information	nongold
+71	amplitude is a property of wave	nongold
+72	to lower means to decrease	nongold
+73	variable means able to change	nongold
+74	intense means extreme	nongold
+75	wavelength is a property of wave	nongold
+76	sound waves spread in all directions away from their source	nongold
+77	damage means harm	nongold
+78	as the cause of something decreases , that something will decrease	nongold
+79	emit means send out	nongold
+80	an environment means an area	nongold
+81	the effects of something is a property of that something	nongold
+82	the ability to reflect is a property of sound wave	nongold
+83	to act on means to affect	nongold
+84	lightning is the source of thunder	nongold
+85	intense means high in intensity	nongold
+86	to be affected by something is similar to depending on something	nongold
+87	little is similar to decrease	nongold
+88	causing means influencing	nongold
+89	as the  frequency of a sound increases , the wavelength of that sound decreases	nongold
+90	a concern; a problem is a possible negative impact	nongold
+91	In a communication system a radio station tower has the role of transmitter	nongold
+92	where something  comes from is a source of that something	nongold
+93	can be means able to be	nongold
+94	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+95	a negative impact is a kind of consequence; risk	nongold
+96	to change means to cause a change	nongold
+97	a source of something emits; produces; generates; provides that something	nongold
+98	to add means to increase	nongold
+99	media; medium means the material something travel through	nongold

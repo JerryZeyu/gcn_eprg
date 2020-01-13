@@ -1,0 +1,102 @@
+Question	To safely conduct an experiment using chemicals, what should students always do?	question
+Answer	Wear safety goggles.	answer
+0	safety goggles are used for protecting the eyes during experiments	gold
+1	safety goggles are a kind of safety gear	nongold
+2	wearing safety goggles is a kind of safe practice in a laboratory	gold
+3	goggles are a kind of object	nongold
+4	safe is the opposite of unsafe; harm; danger	gold
+5	a student is a kind of human	gold
+6	chemicals means substances	nongold
+7	to protect means to make safe	gold
+8	chemical splashing sometimes occurs during experiments	gold
+9	experiment is synonymous with test	nongold
+10	something dangerous can cause harm	nongold
+11	laboratory apron; laboratory coat is a kind of safety gear for protecting a person during an experiment	nongold
+12	chemical splashing can cause harm to humans; to the eyes	gold
+13	harming something has a  negative impact on; effect on that something	gold
+14	protecting something means preventing harm to that something	nongold
+15	a demonstration is similar to an example	nongold
+16	substances have chemical properties	nongold
+17	preparing for an experiment in a laboratory requires practicing safety	nongold
+18	harm means danger	nongold
+19	to be used for something means to be required by that something	nongold
+20	a danger is dangerous	nongold
+21	objects are made of materials; substances; matter	nongold
+22	a human is a kind of animal	nongold
+23	person is synonymous with human	nongold
+24	danger has a negative impact on a thing	nongold
+25	substances are made of matter	nongold
+26	experimentation requires measuring	nongold
+27	material means substance	nongold
+28	a person should be careful about something dangerous	nongold
+29	warning people of dangers has a positive impact on the safety of those people	nongold
+30	investigation sometimes requires experimentation	nongold
+31	to put on means to wear	nongold
+32	a device is a kind of object	nongold
+33	if an object is made of a material then that object has the properties of that material	nongold
+34	matter; materials; substances are made of atoms; particles	nongold
+35	electrocution causes harm to an organism	nongold
+36	a classroom is a kind of a room	nongold
+37	something hard; something strong can be used for protection	nongold
+38	something harmful can cause harm	nongold
+39	negative impact is the opposite of positive impact	nongold
+40	materials are made of matter	nongold
+41	metal is a kind of material	nongold
+42	the function of something is what that something  is used to do	nongold
+43	strong means high in strength	nongold
+44	best means most positive	nongold
+45	device means tool	nongold
+46	substances are made of elements	nongold
+47	combustibility is a kind of  chemical property	nongold
+48	non-reactive means unreactive	nongold
+49	an animal is a kind of organism	nongold
+50	extreme means very high in value	nongold
+51	knowing sometimes requires determing	nongold
+52	thermal gloves are a kind of safety gear	nongold
+53	an animal is a kind of living thing	nongold
+54	inspect; observe means examine	nongold
+55	the ability to do means be able to do	nongold
+56	a surface is a part of a material	nongold
+57	can be means able to be	nongold
+58	reactive is the opposite of unreactive	nongold
+59	not is similar to the opposite of	nongold
+60	an event is a kind of action	nongold
+61	good means positive	nongold
+62	to demonstrate means to exhibit	nongold
+63	high is similar to increase	nongold
+64	chemical reactions cause chemical change	nongold
+65	a living thing is a kind of object	nongold
+66	substances are made of molecules	nongold
+67	conductivity is a property of a material; substance	nongold
+68	a source of something emits; produces; generates; provides that something	nongold
+69	a surface is a part of an object	nongold
+70	a classroom is a kind of  area	nongold
+71	a human wears gear	nongold
+72	actions mean behavior	nongold
+73	weak means low in strength	nongold
+74	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+75	gas is a kind of material	nongold
+76	gas is a kind of substance	nongold
+77	if something has the ability to do something else , then that something can do that something else	nongold
+78	a room is a kind of object	nongold
+79	conductivity is a kind of physical property	nongold
+80	explosions can cause harm to an organism	nongold
+81	essential means required	nongold
+82	inhibitor means something that prevents something from happening	nongold
+83	to cause an event is similar to being involved in that event	nongold
+84	counter means reduce; stop; resist	nongold
+85	to slow; to slow down decreases speed	nongold
+86	to inhibit means to prevent	nongold
+87	avoiding is similar to preventing	nongold
+88	useful means good to use	nongold
+89	gas is a kind of object	nongold
+90	low is similar to decrease	nongold
+91	a tool is a kind of object	nongold
+92	useful means able to be used	nongold
+93	affected means changed	nongold
+94	hot means high in heat energy; temperature	nongold
+95	water is a kind of substance	nongold
+96	to lower means to decrease	nongold
+97	a magnifying glass is a kind of tool for observing small things	nongold
+98	observations; data are a part of the results of an experiment	nongold
+99	a chemical property is the opposite of a physical property	nongold

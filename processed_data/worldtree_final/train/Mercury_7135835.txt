@@ -1,0 +1,102 @@
+0	A Mars Rover has been sent to explore and relay data from Mars. Mars is less massive than Earth. When compared with Earth, which is the best comparison between the mass and the weight of the Rover on Mars?	question
+1	The weight is less on Mars and the mass is the same.	answer
+2	the Mars Rover is a kind of vehicle	gold
+3	Mars is a kind of planet	gold
+4	mass; weight are the same on Earth	nongold
+5	Earth is greater in mass than Mars	gold
+6	Mars is a kind of inner planet	nongold
+7	same means identical; equal in value; amount; number; quantity	nongold
+8	different is the opposite of the same	nongold
+9	if something changes , then that something is not the same	nongold
+10	an increase is the opposite of a decrease	gold
+11	a planet is a kind of celestial object; body	nongold
+12	if something is not the same as something else then that something is different from that something else	nongold
+13	less is similar to decrease	gold
+14	Earth is a kind of planet	gold
+15	less is the opposite of more	nongold
+16	if two things are made from the same objects; material then those two things are similar	nongold
+17	mass; weight is a property of matter; objects; materials	nongold
+18	comparing requires measuring	nongold
+19	opposite is a kind of different	nongold
+20	stay the same means not changing	gold
+21	Mars is the planet that is fourth closest to the  Sun	nongold
+22	to change means to become different	nongold
+23	to send means to transfer	nongold
+24	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	gold
+25	a weight is a kind of object	nongold
+26	low is similar to decrease	nongold
+27	as the mass of an object decreases , the weight of that object will decrease	nongold
+28	identical is the opposite of different	nongold
+29	comparing requires observing that something	nongold
+30	weight is a property of objects; matter	nongold
+31	the  property of something is the same for the things of same kind	nongold
+32	two objects are usually different in size	nongold
+33	data means information	nongold
+34	massive means great in mass	gold
+35	if something has no impact on something else then that something else stays the same	nongold
+36	as the mass of an object increases ,  the weight of that object will increase	nongold
+37	massive is similar to large	nongold
+38	an increase is a kind of change	nongold
+39	high is similar to increase	nongold
+40	a decrease is a kind of change	nongold
+41	mass is a property of objects; matter	nongold
+42	if two things have the same features then those two things are alike	nongold
+43	Earth is made of rock	nongold
+44	greater means higher; more in value	nongold
+45	to lower means to decrease	nongold
+46	smaller means less; lower in size	nongold
+47	weight is a kind of property	nongold
+48	fewer means lower; less in number	nongold
+49	mass is similar to size	nongold
+50	increase means more	nongold
+51	lower means less	nongold
+52	constant is similar to same	nongold
+53	closer means lower; less; a decrease in distance	nongold
+54	both means two	nongold
+55	to reduce means to decrease	nongold
+56	as the force  of gravity changes , the mass of the object will stay the same	nongold
+57	an part of an object is smaller than the entire object	nongold
+58	low is the opposite of high	nongold
+59	as the force  of gravity decreases , the weight of the object will decrease	nongold
+60	as the force of gravity increases , the weight of objects will increase	gold
+61	an animal is a kind of living thing	nongold
+62	better means good	nongold
+63	massive means giant	nongold
+64	a living thing is a kind of object	nongold
+65	objects are made of materials; substances; matter	nongold
+66	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	gold
+67	a planet's  moon is smaller than that planet	nongold
+68	larger means greater; higher; more; increase in size	nongold
+69	the earth has more mass than the moon	nongold
+70	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	gold
+71	weight is a measure of the force of the gravity on the mass of an object	nongold
+72	to remain means to stay the same	nongold
+73	as the shape of an object changes , the mass of that object will stay the same	nongold
+74	as the heat  of an object increases , the mass of the object will stay the same	nongold
+75	heavy means a large amount of weight	nongold
+76	mass is a measure of the amount of matter in an object	nongold
+77	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+78	to match means to be the same	nongold
+79	small is the opposite of large	nongold
+80	answering questions requires information	nongold
+81	as the class of a rock changes ,  the mass of the rock will stay the same	nongold
+82	affected means changed	nongold
+83	if two things perform the same function then those two things are similar	nongold
+84	little is similar to decrease	nongold
+85	as the mass of an oject decreases , the force of gravity on that object will decrease	nongold
+86	mass is a kind of information	nongold
+87	to add means to increase	nongold
+88	unchanged means not changed	nongold
+89	best means most positive	nongold
+90	a vehicle is a kind of object	gold
+91	weight means the force of gravity acting on an object	nongold
+92	a space probe is a kind of spacecraft	nongold
+93	larger; bigger is the opposite of smaller	nongold
+94	a space probe is used for collecting;analyzing materials; samples; information	nongold
+95	as the altitude increases , the gravity will decrease	nongold
+96	a dwarf planet is usually much smaller in size; in mass than other planets	nongold
+97	Weight is  the  force of gravity acting on an object	nongold
+98	emit means send out	nongold
+99	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+100	similarity means the same property	nongold
+101	variable means able to change	nongold

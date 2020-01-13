@@ -1,0 +1,71 @@
+0	aquatic animals; plants live in bodies of water	gold
+1	organism requires liquid water to survive	nongold
+2	a source of something increases the amount of that something	nongold
+3	an animal is a kind of organism	gold
+4	intense heat has a negative impact on an organism	nongold
+5	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+6	a body of water is a kind of environment	gold
+7	threatening the existence of an organism has a negative impact on that organism	gold
+8	threatens the existence of aquatic organisms.	answer
+9	organisms mean life	nongold
+10	threatening the existence of an organism has a negative impact on that organism	gold
+11	a body of water is a kind of environment	gold
+12	to emit means to release	nongold
+13	as the surface area of a body of water increases , evaporation of that body of water will increase	nongold
+14	adding is a kind of activity	nongold
+15	an animal is a kind of organism	gold
+16	if something releases something else then that something is the source of that something else	nongold
+17	heat energy is synonymous with thermal energy	nongold
+18	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+19	Some power plants release heated water into rivers. This practice adds thermal energy to the river that most likely	question
+20	to add means to increase	gold
+21	a body of water is a kind of environment	gold
+22	an environment is similar to an ecosystem	gold
+23	the thermal pollution of water bodies used for cooling is a controversial issue associated with the use of nuclear power	nongold
+24	an animal is a kind of organism	gold
+25	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+26	Some power plants release heated water into rivers. This practice adds thermal energy to the river that most likely	question
+27	an environment is similar to an ecosystem	gold
+28	water is an thermal; thermal energy conductor	nongold
+29	aquatic animals; plants live in bodies of water	gold
+30	a negative impact is a kind of consequence; risk	nongold
+31	an threat threatens	nongold
+32	a plant is a kind of living thing	nongold
+33	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+34	to add means to increase	gold
+35	Some power plants release heated water into rivers. This practice adds thermal energy to the river that most likely	question
+36	a plant is a kind of organism	gold
+37	threatens the existence of aquatic organisms.	answer
+38	to lower means to decrease	nongold
+39	to add means to increase	gold
+40	power station means power plant	nongold
+41	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+42	a plant is a kind of organism	gold
+43	hot means high in heat energy; temperature	nongold
+44	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+45	negative impact is the opposite of positive impact	nongold
+46	heat means temperature increases	nongold
+47	high is similar to increase	nongold
+48	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+49	a river is a kind of flowing body of water	gold
+50	threatening the existence of an organism has a negative impact on that organism	gold
+51	a source of something emits; produces; generates; provides that something	nongold
+52	aquatic animals; plants live in bodies of water	gold
+53	produce is similar to release	nongold
+54	water is a part of an environment	nongold
+55	heating means adding heat	nongold
+56	heat means heat energy	nongold
+57	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+58	a river is a kind of flowing body of water	gold
+59	threatens the existence of aquatic organisms.	answer
+60	an environment is similar to an ecosystem	gold
+61	aquatic animal means water animal	nongold
+62	a river is a kind of flowing body of water	gold
+63	if there is none of a thing then that thing does not exist	nongold
+64	threatens the existence of aquatic organisms.	answer
+65	Some power plants release heated water into rivers. This practice adds thermal energy to the river that most likely	question
+66	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+67	cold temperatures usually have a negative impact on organisms	nongold
+68	often is similar to likely	nongold
+69	a plant is a kind of organism	gold
+70	producing is similar to releasing	nongold

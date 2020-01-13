@@ -1,0 +1,102 @@
+Question	Which of these is a negative effect associated with some types of new technology?	question
+Answer	decreased physical activity	answer
+0	a type is synonymous with a kind	nongold
+1	some types of new technology cause physical activity to decrease	gold
+2	an increase is the opposite of a decrease	nongold
+3	harming something has a  negative impact on; effect on that something	nongold
+4	if something is a source of something else then that something is associated with that something else	nongold
+5	decreasing something negative has a positive impact on a thing	nongold
+6	decreasing something positive has a negative impact on a thing	gold
+7	exercise is a kind of physical activity	gold
+8	a decrease is a kind of change	nongold
+9	negative impact is the opposite of positive impact	nongold
+10	less is similar to decrease	nongold
+11	a negative impact is a kind of consequence; risk	nongold
+12	low is similar to decrease	nongold
+13	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+14	impact means effect	gold
+15	a type of something is a kind of property of that something	nongold
+16	to cause means to have an effect	nongold
+17	an increase is a kind of change	nongold
+18	exercise means physical fitness	nongold
+19	adverse effect means negative impact	nongold
+20	to change means to have an effect	nongold
+21	technology is similar to tool	nongold
+22	as the cause of something decreases , that something will decrease	nongold
+23	high is similar to increase	nongold
+24	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+25	exercise has a positive impact on a human's health	gold
+26	increase means more	nongold
+27	action means activity	nongold
+28	old is the opposite of new	nongold
+29	little is similar to decrease	nongold
+30	a human is a kind of animal	nongold
+31	to impact means to affect	nongold
+32	if something undergoes a physical change then the physical properties of that something will change	nongold
+33	a physical reaction is a kind of process	nongold
+34	to lower means to decrease	nongold
+35	to reduce means to decrease	nongold
+36	causing is a kind of affecting	nongold
+37	helping something has a  positive impact on that something	nongold
+38	change is a kind of impact	nongold
+39	low is the opposite of high	nongold
+40	exercise has a  positive impact on a body's strength	nongold
+41	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+42	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+43	physical fitness is similar to athletic ability	nongold
+44	physical fitness is an acquired characteristic	nongold
+45	Physical adaptation; structural adaptation is a physical  change in a population over successive generations that  helps individual organisms in that population to  survive; reproduce	nongold
+46	a source of something increases the amount of that something	nongold
+47	affected means changed	nongold
+48	physical state means state of matter	nongold
+49	a kind of something is an example of that something	nongold
+50	new means different from the former one	nongold
+51	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+52	if there is a loss of something then that something decreases	nongold
+53	good means positive	nongold
+54	exercise increases a body's strength	nongold
+55	if something emits something else then that something increases the amount of that something else	nongold
+56	solution is similar to a positive impact	nongold
+57	classifying is when one sorts something by kind; type	nongold
+58	reproducing is a kind of activity	nongold
+59	adding is a kind of activity	nongold
+60	best means most positive	nongold
+61	less means a reduced amount	nongold
+62	less is the opposite of more	nongold
+63	the effects of something is a property of that something	nongold
+64	if an organism undertakes an action with a negative effect , then that organism will learn to do that action less	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	an event is a kind of action	nongold
+67	to be good for means to have a positive impact on	nongold
+68	too much is similar to increase	nongold
+69	absorbing something harmful has a negative impact on a thing	nongold
+70	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+71	a factor impacts something	nongold
+72	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+73	to enhance means to increase	nongold
+74	a problem has a negative impact on a thing	nongold
+75	creating is a kind of activity	nongold
+76	answering questions requires information	nongold
+77	degrading is similar to having a negative impact	nongold
+78	technology is used for application of science	nongold
+79	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+80	appliance is similar to technology	nongold
+81	decay has a negative impact on a thing	nongold
+82	something harmful can cause harm	nongold
+83	state of matter means physical state	nongold
+84	if something causes an increase in something else then that something produces that something else	nongold
+85	dying is the opposite of living; surviving	nongold
+86	disrupting is similar to having a negative impact	nongold
+87	if something is required for a process then that something positively impacts that process	nongold
+88	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+89	if something affects a part of something else then that something affects that something else	nongold
+90	a student is a kind of human	nongold
+91	drop means decrease	nongold
+92	if a substance is mixed with another substance then those substances will undergo physical change	nongold
+93	greater means higher; more in value	nongold
+94	a positive impact is a helpful effect	nongold
+95	to be a source of something means to cause that something	nongold
+96	damage has a negative impact on a thing	nongold
+97	a body system is a kind of object	nongold
+98	to improve means to have a positive impact	nongold
+99	a process is a kind of event	nongold

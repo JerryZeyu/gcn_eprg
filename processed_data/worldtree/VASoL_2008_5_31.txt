@@ -1,0 +1,102 @@
+Question	Which of these is the main function of a cell wall?	question
+Answer	To provide support	answer
+0	providing support is a kind of function	gold
+1	providing is a kind of function	nongold
+2	providing structure is a kind of function	nongold
+3	a  cell wall provides support; protection; shape; structure for  a plant cell	gold
+4	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	gold
+5	being used for is similar to providing	nongold
+6	the function of something is what that something  is used to do	nongold
+7	role means function	nongold
+8	function is similar to purpose	nongold
+9	to anchor means to provide support	nongold
+10	to provide something means to be the source of that something	nongold
+11	the cell membrane provides support; protection for a cell	nongold
+12	a wall is a kind of object	nongold
+13	a cell wall is the outermost structure of a plant cell	nongold
+14	to be a vehicle for is a kind of function	nongold
+15	helping something has a  positive impact on that something	nongold
+16	if something performs a task then that task is that something's function	nongold
+17	a wall is a kind of surface	nongold
+18	to have a function is similar to to be responsible for	nongold
+19	if something is required then that something must be provided	nongold
+20	a function is an activity	nongold
+21	to provide means to supply	nongold
+22	requiring is similar to needing help	nongold
+23	room contains walls	nongold
+24	to work means to function	nongold
+25	a mechanism is a kind of system that performs a function	nongold
+26	a cell is a kind of object	nongold
+27	to serve as means to be used as	nongold
+28	to help; to benefit means to be of use	nongold
+29	to help means to aid	nongold
+30	moving something is a kind of function	nongold
+31	to be used for something means to be required by that something	nongold
+32	a cell is very small	nongold
+33	something is used for that something's purpose	nongold
+34	a source of something emits; produces; generates; provides that something	nongold
+35	purpose means role	nongold
+36	helping means something can be done; completed more easily; better	nongold
+37	to be used  for something means to help to do that something	nongold
+38	absorbing is a kind of function	nongold
+39	provide is similar to give; make	nongold
+40	part means role	nongold
+41	requiring something means needing that something	nongold
+42	protecting is a kind of function	nongold
+43	transporting nutrients, water, and minerals is a kind of function	nongold
+44	helping means to assist in a change	nongold
+45	role is similar to importance	nongold
+46	converting is a kind of function	nongold
+47	containing something is similar to providing that something	nongold
+48	tissue is a kind of group of cells with a common structure that work together to perform a similar function	nongold
+49	a stem is a source of support for a plant	nongold
+50	causing is a kind of function	nongold
+51	transporting is a kind of function	nongold
+52	role means niche	nongold
+53	a component means a part of	nongold
+54	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold
+55	a function is a kind of characteristic	nongold
+56	breaking down is a kind of function	nongold
+57	a role in the ecosystem is a role in the food chain process	nongold
+58	answering questions requires information	nongold
+59	conducting is a kind of function	nongold
+60	if something contains something , then something is able to provide something	nongold
+61	decomposer is a kind of role in the food chain process; in an ecosystem	nongold
+62	to enable is to help	nongold
+63	to produce means to provide	nongold
+64	a component of something means a part of that something	nongold
+65	producer is a kind of role in the food chain process; in an ecosystem	nongold
+66	producing is a kind of function	nongold
+67	an animal is a kind of living thing	nongold
+68	a human is a kind of animal	nongold
+69	unit is similar to part	nongold
+70	ensuring is a kind of function	nongold
+71	to contribute is similar to produce	nongold
+72	a structure of something is synonymous with a part of that something	nongold
+73	cells are a part of the body	nongold
+74	an organism is a living thing	nongold
+75	system is similar to structure	nongold
+76	destroying is a kind of function	nongold
+77	a plant cell is a kind of cell	gold
+78	a source of something supplies that something	nongold
+79	cells are a smaller level of organization than tissues in living things	nongold
+80	an event is a kind of action	nongold
+81	a process is a kind of event	nongold
+82	composed of means made of	nongold
+83	providing something means making;delivering something	nongold
+84	if something causes a process then that something is required for that process	nongold
+85	a type is synonymous with a kind	nongold
+86	a part of a process means a stage in a process	nongold
+87	to contribute means to add	nongold
+88	a structure is a kind of feature	nongold
+89	an instrument is a piece of equipment	nongold
+90	good means positive	nongold
+91	regulating is a kind of function	nongold
+92	a cell nucleus is a part of a cell	nongold
+93	a cell membrane is a kind of cell structure	nongold
+94	to create means to make	nongold
+95	can be means able to be	nongold
+96	the cell membrane is a part of a cell	nongold
+97	a cell absorbs nutrients	nongold
+98	a living thing is made of cells	nongold
+99	nutrients are a kind of material	nongold

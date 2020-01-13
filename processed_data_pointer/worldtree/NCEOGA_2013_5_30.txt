@@ -1,0 +1,102 @@
+Question	On a cold, cloudy day, the local weather forecaster predicts that a high-pressure system will be moving into the area in the next 24 hours. Which weather conditions will this system most likely bring to the area?	question
+Answer	sunny	answer
+0	cloudy conditions cause a low-pressure weather system	nongold
+1	clear weather means sunny; not cloudy; not rainy weather	gold
+2	weather forecast means weather prediction	nongold
+3	a sunny day has  lots of sunlight	nongold
+4	sunny is a kind of weather	nongold
+5	cloudy is a kind of  weather	nongold
+6	a cloudy day has little sunlight	nongold
+7	cloudy means the presence  of clouds in the sky	nongold
+8	cloudy is a kind of sky condition	nongold
+9	weather is  a measure of the condition of the air in a place at a certain time	nongold
+10	1 day is equal to 24 hours	nongold
+11	a warm front causes cloudy and rainy weather	nongold
+12	an environment means an area	gold
+13	high pressure systems cause clear weather	gold
+14	local means relating to a certain area	nongold
+15	climate is the usual kind of weather in a location over a period of time	nongold
+16	to cause is similar to bring	nongold
+17	a cloud is a kind of weather	nongold
+18	cold is a kind of weather	nongold
+19	storm is a kind of weather; weather event	nongold
+20	cold  air is usually high in air pressure	nongold
+21	high is similar to increase	nongold
+22	warm air is  usually low  in air pressure	nongold
+23	the atmosphere is a kind of area	nongold
+24	gas flows from high pressure area to low pressure area	nongold
+25	area is similar to location	nongold
+26	temperature is a property of weather	nongold
+27	heat has a great impact on weather	nongold
+28	windy is a kind of weather	nongold
+29	rainy is a kind of weather	nongold
+30	sunshine means sunlight	nongold
+31	an increase is a kind of change	nongold
+32	sky conditions are a property of weather	nongold
+33	a climate is synonymous with an environment	nongold
+34	an environment is a kind of place	nongold
+35	hours are a kind of unit for measuring time	nongold
+36	weather  usually happens in troposphere	nongold
+37	low pressure systems cause precipitation	nongold
+38	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+39	to lower means to decrease	nongold
+40	amount of sunlight causes changing weather patterns	nongold
+41	as temperature decreases , the air pressure will decrease	nongold
+42	extreme means very high in value	nongold
+43	greater means higher; more in value	nongold
+44	the sunlight occurs during the day	nongold
+45	precipitation is a kind of weather	nongold
+46	colder; cooler means lower in temperature	nongold
+47	low is similar to decrease	nongold
+48	if something returns to a place then that something increases in that place	nongold
+49	warmer means greater; higher in temperature; warmth	nongold
+50	if cumulus clouds appear in a location , then the weather of that day will be fair	nongold
+51	cold means low in temperature	nongold
+52	An example of stormy weather is rain	nongold
+53	air pressure is a property of air; the atmosphere	nongold
+54	weather is a property of a environment	gold
+55	bringing is a kind of action	nongold
+56	if weather is stormy then there is a greater chance of rain	nongold
+57	place means area	nongold
+58	types of clouds can be used to predict the possibility of tornadoes developing in a location	nongold
+59	returning is similar to bringing	nongold
+60	high means a lot of something	nongold
+61	increase means more	nongold
+62	sunlight means solar energy	nongold
+63	the sun is a source of light; light energy called sunlight	nongold
+64	if something required by something else is in a place then that something else may be in that place	nongold
+65	temperature is a kind of condition	nongold
+66	near means local	nongold
+67	satellite technology is used for predicting the weather	nongold
+68	an increase is the opposite of a decrease	nongold
+69	a decrease is a kind of change	nongold
+70	higher means greater; above in value; amount; number	nongold
+71	as the sun sets , the temperature will decrease	nongold
+72	low is the opposite of high	nongold
+73	snowstorm is a kind of weather	nongold
+74	when clouds become cold , those clouds will condense	nongold
+75	the day time is part of one day	nongold
+76	predicting weather requires studying weater	nongold
+77	air temperature is a kind of temperature	nongold
+78	distant means far away	nongold
+79	cold fronts cause thunderstorms as they pass by	nongold
+80	cooler means colder	nongold
+81	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+82	days are a kind of unit for measuring time	nongold
+83	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+84	as the cause of something decreases , that something will decrease	nongold
+85	helping something has a  positive impact on that something	nongold
+86	clouds produce rain	nongold
+87	sunlight is a kind of solar energy	nongold
+88	a change is a kind of event	nongold
+89	atmosphere means  air	nongold
+90	the sun rising; setting occurs once per day	nongold
+91	good means positive	nongold
+92	if a jet stream moves south of a location then that location will experience cold weather	nongold
+93	preparing for a storm requires predicting the occurrence of that storm	nongold
+94	clouds are made of water vapor; rain droplets	nongold
+95	the movement of an air mass over Earth's surface causes sudden local weather changes	nongold
+96	an area receiving rain means rain falling in that area	nongold
+97	distant means great in distance	nongold
+98	warm means medium heat energy; temperature	nongold
+99	warm means warm temperature	nongold

@@ -1,0 +1,101 @@
+0	A student crumples up a sheet of paper. Which property of the paper has changed?	question
+1	shape	answer
+2	crumple means change shape from smooth; flat into compacted;irregular by mechanical force; kinetic energy	gold
+3	a sheet of paper is a kind of object	gold
+4	a paper is a kind of object	nongold
+5	shape is a property of an object	gold
+6	a student is a kind of human	nongold
+7	paper is a kind of material	nongold
+8	shape is a kind of physical property	nongold
+9	shape is a property of the appearance of an object	nongold
+10	a sheet of is similar to a piece of	nongold
+11	shape of the parts of something is a property of that something	nongold
+12	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+13	structure is similar to shape	nongold
+14	a type of something is a kind of property of that something	nongold
+15	an object has properties	nongold
+16	structure is a property of an object; a material; a substance	nongold
+17	variability of shape; variability of volume is a kind of physical property	nongold
+18	color is a property of  an object; a material	nongold
+19	a property of something is a feature of that something	nongold
+20	color is a kind of physical; visual property	nongold
+21	objects are made of materials; substances; matter	nongold
+22	surface area is a property of shape	nongold
+23	unchanged means not changed	nongold
+24	materials are made of matter	nongold
+25	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+26	if an object is made of a material then that object has the properties of that material	nongold
+27	form means kind	nongold
+28	state of matter is a kind of physical property	nongold
+29	appearance is a property of objects; materials	nongold
+30	tearing an object changes that object's shape	nongold
+31	breaking down into pieces is a kind of change in shape	nongold
+32	the effects of something is a property of that something	nongold
+33	variable means able to change	nongold
+34	a physical property is a kind of property	nongold
+35	a human is a kind of animal	nongold
+36	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+37	a structure of something is synonymous with a part of that something	nongold
+38	person is synonymous with human	nongold
+39	characteristic means property	nongold
+40	a surface is a part of a material	nongold
+41	affected means changed	nongold
+42	appearance  is a kind of physical property	nongold
+43	changed is the opposite of unchanged	nongold
+44	form is similar to body	nongold
+45	Matter in the liquid phase has variable shape	nongold
+46	Matter in the gas phase has variable shape	nongold
+47	a surface is a part of an object	nongold
+48	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+49	state means form	nongold
+50	as amount; size of something increases , the intensive properties of that something will not change	nongold
+51	shape is a kind of characteristic	nongold
+52	state of matter at room temperature is a kind of physical property	nongold
+53	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+54	a living thing is a kind of object	nongold
+55	if something is definite in shape then that something will not change shape easily	nongold
+56	crumble means break down	nongold
+57	Matter in the solid phase has definite shape	nongold
+58	shape is an extensive property	nongold
+59	to change means to cause a change	nongold
+60	mass; weight is a property of matter; objects; materials	nongold
+61	to change into means to form	nongold
+62	a piece of something is a kind of object	nongold
+63	material means substance	nongold
+64	matter; materials; substances are made of atoms; particles	nongold
+65	matter with variable shape changes shape in different container	nongold
+66	appearance is sometimes a physical property	nongold
+67	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+68	a surface is a kind of object	nongold
+69	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+70	high is similar to increase	nongold
+71	length is a property of the shape of an object	nongold
+72	flatness is a property of a surface; the shape of an object and includes ordered values of uneven; flat	nongold
+73	texture is a kind of physical property	nongold
+74	a classroom is a kind of a room	nongold
+75	solid is a kind of state of matter	nongold
+76	an animal is a kind of living thing	nongold
+77	breaking down an object changes that object's shape and that object's mass	nongold
+78	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+79	a change is a kind of event	nongold
+80	height is a property of the size of an object	nongold
+81	sharpness is a property of shape	nongold
+82	definite is the opposite of variable	nongold
+83	an increase is a kind of change	nongold
+84	the properties of something are used for describing that something	nongold
+85	folding an object causes that object to change shape	nongold
+86	condition means the state of the property	nongold
+87	an object is made of its parts	nongold
+88	sharpening an object causes that object to change shape	nongold
+89	to convert means to change	nongold
+90	to add means to increase	nongold
+91	an part of an object is smaller than the entire object	nongold
+92	composition is a property of an object; matter	nongold
+93	a newspaper is made of paper	nongold
+94	to reduce means to decrease	nongold
+95	phase means state	nongold
+96	a room is a kind of object	nongold
+97	classifying means grouping objects; materials by their properties	nongold
+98	strong means high in strength	nongold
+99	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+100	squeezing an object can cause that object's shape to change	nongold

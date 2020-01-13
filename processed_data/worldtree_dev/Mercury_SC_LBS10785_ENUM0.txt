@@ -1,0 +1,102 @@
+Question	What energy change takes place when a piece of bread is toasted in a toaster?	question
+Answer	electrical energy to heat energy	answer
+0	toasting something requires adding heat energy	nongold
+1	a toaster is made of a heating element for toasting	nongold
+2	a toaster is a kind of electrical device	gold
+3	bread is a kind of food	gold
+4	toasting is a kind of cooking	gold
+5	electricity means electrical energy	gold
+6	electrical energy is a kind of energy	nongold
+7	heat means heat energy	gold
+8	take place means happen	nongold
+9	heat is a kind of energy	nongold
+10	temperature is a measure of heat energy	nongold
+11	heating means adding heat	nongold
+12	heat energy is synonymous with thermal energy	nongold
+13	dough is a kind of food	nongold
+14	to convert means to change	gold
+15	a toaster is a kind of household appliances	nongold
+16	an electric stove changes electrical energy into heat energy	nongold
+17	to add means to increase	nongold
+18	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+19	metal is an  electrical; electrical energy conductor	nongold
+20	food is a kind of substance	nongold
+21	a container contains objects; material; substances	nongold
+22	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+23	metal is a kind of material	nongold
+24	if an object is made of a material then that object has the properties of that material	nongold
+25	thermal energy is a kind of energy	nongold
+26	metal is a kind of substance	nongold
+27	heat energy can change the state of matter	nongold
+28	objects are made of materials; substances; matter	nongold
+29	food is a kind of chemical energy	nongold
+30	baking is when a human makes food by adding heat	nongold
+31	a heating element converts electrical energy; electricity into heat energy for heating	gold
+32	to turn means to change	nongold
+33	electrical devices convert from electrical energy; electricity into other forms of energy	gold
+34	a source of something emits; produces; generates; provides that something	nongold
+35	metal is a thermal; thermal energy conductor	nongold
+36	energy transformation means one kind of energy changes into another kind of energy	nongold
+37	liquid is a kind of state of matter	nongold
+38	solid is a kind of state of matter	nongold
+39	adding heat means increasing temperature	nongold
+40	an increase is a kind of change	nongold
+41	an oven is a kind of electrical device	nongold
+42	adding something is a kind of change	nongold
+43	a piece of something is a kind of object	nongold
+44	chemical energy is a kind of energy	nongold
+45	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+46	a liquid is a kind of substance	nongold
+47	a hot; warm something is a source of heat	nongold
+48	an insulator is a kind of material	nongold
+49	to turn means to convert	nongold
+50	a hot substance is a source of heat	nongold
+51	to give off means to be the source of	nongold
+52	conductivity is a property of a material; substance	nongold
+53	solar energy is a kind of heat energy	nongold
+54	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+55	substances are made of matter	nongold
+56	a decrease is a kind of change	nongold
+57	a metal is usually a solid at room temperature	nongold
+58	to lower means to decrease	nongold
+59	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+60	a container is a kind of object	nongold
+61	an oven is a source of heat	nongold
+62	dough is a kind of mixture of sugar, butter, flour and salt	nongold
+63	if an event occurs by adding something then that event requires that something	nongold
+64	a source of something increases the amount of that something	nongold
+65	if something transfers something else then that something is a source of something else	nongold
+66	transferring is similar to adding	nongold
+67	heat means the transfer of thermal energy	nongold
+68	affected means changed	nongold
+69	combustion is a kind of chemical change	nongold
+70	can be means able to be	nongold
+71	food is a kind of object	nongold
+72	heat energy  can be used to heat up  an object	nongold
+73	conversion is a kind of process	nongold
+74	convert is similar to transfer	nongold
+75	material means substance	nongold
+76	a solid is a kind of substance	nongold
+77	cooking food requires adding heat energy to the food	gold
+78	matter; materials; substances are made of atoms; particles	nongold
+79	make means produce	nongold
+80	a source of heat can be used to heat something	nongold
+81	a source of heat can be used to heat something	nongold
+82	melting is when solids are heated above their melting point	nongold
+83	a stove generates heat for cooking usually	nongold
+84	change is a kind of process	nongold
+85	converting is similar to producing	nongold
+86	an insulator is the opposite of a conductor	nongold
+87	an increase is the opposite of a decrease	nongold
+88	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+89	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+90	high is similar to increase	nongold
+91	if something releases something else then that something is the source of that something else	nongold
+92	a process is a kind of event	nongold
+93	absorbing energy causes objects; materials; substances to heat	nongold
+94	melting is a kind of process	nongold
+95	provide is similar to give; make	nongold
+96	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+97	an element is a kind of material	nongold
+98	transfer is a kind of change	nongold
+99	a piece is a part of a whole	nongold

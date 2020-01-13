@@ -1,0 +1,102 @@
+Question	Currently, Antarctica is the coldest and driest place on Earth. Paleontologists have found dinosaur fossils in rock layers below the ice. Based on this evidence, which is a reasonable conclusion about the climate of Antarctica in the past?	question
+Answer	At some time in the past, Antarctica was much warmer and wetter.	answer
+0	Antarctica is extremely cold in temperature	gold
+1	Antarctica is located in the southern hemisphere	nongold
+2	climate is the usual kind of weather in a location over a period of time	gold
+3	if something used to be in the past then that something  has changed	nongold
+4	a climate is synonymous with an environment	nongold
+5	colder; cooler means lower in temperature	nongold
+6	cooler means colder	nongold
+7	warmer means greater; higher in temperature; warmth	gold
+8	drier means lower in amount of water; wetness; moisture	nongold
+9	if evidence of glacial activity is found in an area that is not located in an arctic environment then the climate of that area must have gotten warmer over time	nongold
+10	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	nongold
+11	temperature is a property of weather	gold
+12	Antarctic polar ice contains ice; glaciers	nongold
+13	an environment is a kind of place	gold
+14	a dinosaur is a kind of extinct animal	gold
+15	cold means low in temperature	nongold
+16	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+17	Antarctica is a kind of desert	gold
+18	cold is a kind of weather	nongold
+19	ice is colder than water in temperature	nongold
+20	ice is cold in temperature	nongold
+21	an increase is the opposite of a decrease	nongold
+22	heat has a great impact on weather	nongold
+23	winter has cold temperatures;weather	nongold
+24	an increase is a kind of change	nongold
+25	weather is a property of a environment	nongold
+26	the arctic  environment usually is cold in  temperature from being at a northern lattitude	nongold
+27	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+28	to lower means to decrease	nongold
+29	dry means low in amount of water; wetness; moisture	gold
+30	a decrease is a kind of change	nongold
+31	something in a cold place becomes cold	nongold
+32	environments changing can cause layers of rock that are near each other or on top of each other to have different amounts of fossils; different kinds of rock	nongold
+33	warm-weather organisms live in warm climates	nongold
+34	Earth is a kind of planet	nongold
+35	weather changes from seasons to seasons	nongold
+36	to conclude means to make a conclusion	nongold
+37	global warming is when worldwide temperature increases	nongold
+38	increase means more	nongold
+39	as the cause of something decreases , that something will decrease	nongold
+40	low is similar to decrease	nongold
+41	warm is the opposite of cool	nongold
+42	fossil means preserved remains of ancient organisms	nongold
+43	high is similar to increase	nongold
+44	heat means temperature increases	nongold
+45	wet is the opposite of dry	gold
+46	a state is a kind of place	nongold
+47	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+48	weather is  a measure of the condition of the air in a place at a certain time	nongold
+49	a planet is a kind of place	nongold
+50	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+51	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+52	cold environments contain few organisms	nongold
+53	freezing means cold temperatures	nongold
+54	a glacier is a kind of body of water	nongold
+55	cool means cold	nongold
+56	as temperature during the day increases , the temperature in an environment will increase	nongold
+57	cooling means temperature decreases	nongold
+58	ice is found in arctic environments	nongold
+59	ice is a kind of solid	nongold
+60	cold and dry climate can slow down the process of weathering	nongold
+61	less is similar to decrease	nongold
+62	seasons cause change to the environment	nongold
+63	the arctic is a kind of environment	nongold
+64	warm means warm temperature	nongold
+65	temperature is a measure of heat energy	nongold
+66	a dinosaur is a kind of reptile	gold
+67	a body of water is a kind of environment	nongold
+68	greater means higher; more in value	nongold
+69	an environment means an area	nongold
+70	as dryness increases in an environment , the available water in that environment will decrease	nongold
+71	winter is a kind of season	nongold
+72	conclusions can be drawn about changes in organisms over time by determining the age of fossils of those organisms	nongold
+73	warm up means increase temperature	nongold
+74	Earth's tilt on its rotating axis causes seasons to change; to occur	nongold
+75	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+76	ocean currents change the world climate by transferring heat to and from various regions	nongold
+77	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+78	a warm environment usually has more food than a cold environment	nongold
+79	place means area	nongold
+80	no longer means used to be	nongold
+81	the Arctic Ocean is a kind of ocean	nongold
+82	warm means medium heat energy; temperature	nongold
+83	rainy is a kind of weather	nongold
+84	to reduce means to decrease	nongold
+85	greatest means largest; highest; most amount of something	nongold
+86	ocean temperatures change slowly	nongold
+87	precipitation is a kind of weather	gold
+88	average amount of precipitation is a property of climate	nongold
+89	season is a major yearly temperature change	nongold
+90	as distance from the equator decreases , the climate will become warmer	nongold
+91	cold environments usually have little food for animals	nongold
+92	snow is a kind of ice	nongold
+93	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	gold
+94	snow is cold	nongold
+95	a seasonal change is a kind of environmental change	nongold
+96	winter is a part of the year	nongold
+97	worldwide temperature means atmospheric temperature	nongold
+98	if fossils of an organism change depending on the level in which they were found then that species of organism changed over time	nongold
+99	place is synonymous with location	gold

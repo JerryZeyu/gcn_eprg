@@ -1,0 +1,101 @@
+0	bias can cause error in an experiment	nongold
+1	harming something has a  negative impact on; effect on that something	nongold
+2	impact means effect	nongold
+3	performing lab expiriments accurately requires reading; understanding all directions beforehand	nongold
+4	investigation sometimes requires experimentation	nongold
+5	person is synonymous with human	nongold
+6	strong means high in strength	nongold
+7	100% probability means always	nongold
+8	matter; materials; substances are made of atoms; particles	nongold
+9	solution is similar to a positive impact	nongold
+10	performing multiple trials of the same experiment increases the likelihood of obtaining accurate experiment results	nongold
+11	observations; data are a part of the results of an experiment	nongold
+12	definite is the opposite of variable	nongold
+13	to advance means to improve	nongold
+14	increase means more	nongold
+15	hypothesis means scientific guess about the cause and effect of an event	nongold
+16	performing a task in less time; more quickly; faster has a positive impact on a person's life	nongold
+17	best means most positive	nongold
+18	to pass means to occur	nongold
+19	to lower means to decrease	nongold
+20	research is used for learning	nongold
+21	chance means likelihood	nongold
+22	to cause means to make	nongold
+23	to cause an event means to make that event more likely	nongold
+24	an animal is a kind of living thing	nongold
+25	a particle is a kind of object	nongold
+26	testing often requires measuring	nongold
+27	25% probability is similar to one in four	nongold
+28	trait is synonymous with characteristic	nongold
+29	analyzing all results has a  positive impact on the effort to remain objective during experiments	nongold
+30	little means small	nongold
+31	Repeating experiments improves the likelihood of accurate results because the overall results are	question
+32	nucleotide is a kind of repeating unit in DNA	nongold
+33	extreme means very high in value	nongold
+34	to improve means to have a positive impact	nongold
+35	comparing data increases; improves the likelihood of obtaining accurate experiment results	nongold
+36	repeating the same experiment can be used for comparing  data	nongold
+37	a short wavelength has low; little distance before it repeats	nongold
+38	weak means low in strength	nongold
+39	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+40	an increase is a kind of change	nongold
+41	less is similar to decrease	nongold
+42	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+43	can be means able to be	nongold
+44	less is the opposite of more	nongold
+45	little is similar to decrease	nongold
+46	more likely means increased likelihood	nongold
+47	affected means changed	nongold
+48	result means outcome	nongold
+49	making a valid conclusion in an investigation requires a testable hypothesis	nongold
+50	good means positive	nongold
+51	determining often requires measuring; observing	nongold
+52	determining is similar to learning	nongold
+53	learned behaviors are learned over the  lifetime of the animal	nongold
+54	fewer means lower; less in number	nongold
+55	a hypothesis is a kind of scientific term	nongold
+56	lower means less	nongold
+57	an animal is a kind of organism	nongold
+58	a decrease is a kind of change	nongold
+59	to reduce means to decrease	nongold
+60	likelihood is simiar to probability	nongold
+61	often is similar to likely	nongold
+62	experimentation requires measuring	nongold
+63	too much is similar to increase	nongold
+64	to be good for means to have a positive impact on	nongold
+65	a theory is more accepted; tested than a hypothesis	nongold
+66	to add means to increase	nongold
+67	less means a reduced amount	nongold
+68	experiment is synonymous with test	nongold
+69	if an experiment is repeated then the results are more likely to be correct due to fewer errors being made	gold
+70	product means result	nongold
+71	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+72	to improve the chances means to increase the likelihood	nongold
+73	events occur at a specific place; at a specific time; with a specific frequency	nongold
+74	a factor impacts something	nongold
+75	due to means caused by	nongold
+76	if an amount of objects decreases then those objects are fewer in number	nongold
+77	greater means higher; more in value	nongold
+78	a negative impact is a kind of consequence; risk	nongold
+79	to slow; to slow down decreases speed	nongold
+80	a learned characteristic is a kind of acquired characteristic	nongold
+81	to impact means to affect	nongold
+82	an increase is the opposite of a decrease	nongold
+83	a result of something is evidence of that something	nongold
+84	if an animal is trained to do something then that something is a learned behavior	nongold
+85	negative impact is the opposite of positive impact	nongold
+86	consistent means usual	nongold
+87	scientists make observations	nongold
+88	more likely to be correct due to fewer errors being made.	answer
+89	high is similar to increase	nongold
+90	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+91	answering questions requires information	nongold
+92	to cause means to result in	nongold
+93	a human is a kind of animal	nongold
+94	trial is synonymous with test	nongold
+95	low is similar to decrease	nongold
+96	human is similar to individual	nongold
+97	to produce means to result in	nongold
+98	to repeat an experiment means to perform multiple trials of the same experiment	nongold
+99	consistent means constant	nongold
+100	low is the opposite of high	nongold

@@ -1,0 +1,53 @@
+0	organisms are a part of an environment	nongold
+1	combustibility means the ability of combustion	nongold
+2	good means positive	nongold
+3	internal organs are a part of the body	nongold
+4	damage means harm	gold
+5	blood absorbs oxygen in the lungs	nongold
+6	breathing in is when animals inhale air into their lungs	nongold
+7	blood is a vehicle for carrying oxygen from the lungs to the cells; rest of the body	nongold
+8	death means to die	nongold
+9	mostly means being the most	nongold
+10	smoking tobacco decreases stamina; cardiovascular efficiency	nongold
+11	fire causes burning	nongold
+12	a lung is a kind of organ for breathing air	gold
+13	lung	answer
+14	smoking causes direct damage to the lungs	gold
+15	a person is a kind of animal	nongold
+16	the respiratory system is a kind of human; organ; body system	nongold
+17	an animal is a kind of organism	nongold
+18	the lungs are a part of the body of an animal used for breathing air	nongold
+19	Smoking harms the body in many ways. It is most harmful to which organ?	question
+20	a lung is a kind of organ for breathing air	gold
+21	Smoking harms the body in many ways. It is most harmful to which organ?	question
+22	to help; to benefit means to be of use	nongold
+23	damage means harm	gold
+24	smoke is similar to dust; ash	nongold
+25	smoking causes direct damage to the lungs	gold
+26	poisoning an environment means poisoning the organisms in that environment	nongold
+27	causing is a kind of affecting	nongold
+28	an event is a kind of action	nongold
+29	something harmful can cause harm	nongold
+30	an organism is a living thing	nongold
+31	a lung is a kind of organ for breathing air	gold
+32	adverse effect means negative impact	nongold
+33	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+34	lung	answer
+35	damage has a negative impact on a thing	nongold
+36	a body part is a kind of object	nongold
+37	being unhealthy has a negative impact on an organism	nongold
+38	Smoking harms the body in many ways. It is most harmful to which organ?	question
+39	air is a part of the environment	nongold
+40	to be used for something means to be required by that something	nongold
+41	helping something has a  positive impact on that something	nongold
+42	lung	answer
+43	damage means harm	gold
+44	Smoking harms the body in many ways. It is most harmful to which organ?	question
+45	lung	answer
+46	to cause means to have an effect	nongold
+47	fire gives off light; heat; smoke	nongold
+48	most means over 50% of something	nongold
+49	the body is a part of an organism	nongold
+50	protecting something means preventing harm to that something	nongold
+51	smoking causes direct damage to the lungs	gold
+52	destroying something causes harm to that something	nongold

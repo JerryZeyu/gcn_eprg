@@ -1,0 +1,102 @@
+Question	A large cold front is moving past the school on a hot, humid summer day. Which best describes the type of weather as the cold front passes by?	question
+Answer	A thunderstorm	answer
+0	cold fronts cause thunderstorms as they pass by	gold
+1	a type is synonymous with a kind	gold
+2	a thunderstorm is a kind of storm	gold
+3	cold is a kind of weather	nongold
+4	storm is a kind of weather; weather event	gold
+5	a type of something is a kind of property of that something	nongold
+6	lightning occurs during lightning storms; thunderstorms	nongold
+7	snowstorm is a kind of weather	nongold
+8	hail is a kind of precipitation; ice	nongold
+9	to pass means to occur	nongold
+10	lightning causes thunder	nongold
+11	cold means low in temperature	nongold
+12	a storm is a source of precipitation	nongold
+13	summer has hot temperatures; weather	nongold
+14	precipitation is a kind of weather	nongold
+15	lightning is a kind of weather phenomenon	nongold
+16	to pass means to travel	nongold
+17	thunder occurs during thunderstorms	nongold
+18	a motion is a kind of event; action	nongold
+19	weather is a property of a environment	nongold
+20	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+21	motion; movement means moving; to move	nongold
+22	hot means high in heat energy; temperature	gold
+23	motion is when moves an object; something to a direction	nongold
+24	rainstorm means rain storm	nongold
+25	precipitation is a property of weather	nongold
+26	temperature is a property of weather	nongold
+27	intense means high in intensity	nongold
+28	intense means extreme	nongold
+29	front is a property of weather and includes unordered values of warm front; cold front; stationary front; occluded front	nongold
+30	a warm front is when warm air mass rises and passes over; collides a cold air mass	nongold
+31	passing is a kind of action	nongold
+32	to lower means to decrease	nongold
+33	events occur at a specific place; at a specific time; with a specific frequency	nongold
+34	going to school generally occurs during the day	nongold
+35	to reduce means to decrease	nongold
+36	summer is a kind of season	nongold
+37	a storm is usually a source of strong winds	nongold
+38	to pass through means to move through	nongold
+39	lightning is the source of thunder	nongold
+40	a cold front is when a cooler air mass moves into contact with an area of warmer air	gold
+41	climate is the usual kind of weather in a location over a period of time	nongold
+42	an increase is a kind of change	nongold
+43	an event is a kind of action	nongold
+44	something in a cold place becomes cold	nongold
+45	humidity is a property of  weather and include ordered values of dry; humid	nongold
+46	setting is a kind of motion	nongold
+47	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+48	hot is the opposite of  cold	nongold
+49	to happen means to occur	nongold
+50	a decrease is a kind of change	nongold
+51	extreme means very high in value	nongold
+52	thunder is a kind of sound	nongold
+53	tornado is a kind of weather	nongold
+54	movement is a kind of change	nongold
+55	air temperature is a kind of temperature	nongold
+56	summer follows spring	nongold
+57	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+58	a climate is synonymous with an environment	nongold
+59	moving is similar to travelling	nongold
+60	precipitation is when water falls from the sky	nongold
+61	a schoolyard is a kind of place	nongold
+62	summer is when a hemisphere is tilted towards the sun	nongold
+63	heat means temperature increases	nongold
+64	winter has cold temperatures;weather	nongold
+65	rain is a kind of precipitation	nongold
+66	rain; snow falls	nongold
+67	a hot; warm something is a source of heat	nongold
+68	heat has a great impact on weather	nongold
+69	cool means cold	nongold
+70	a change is a kind of event	nongold
+71	a cloud is a kind of weather	nongold
+72	travel means to move	nongold
+73	to change means to cause a change	nongold
+74	temperature is a measure of heat energy	nongold
+75	every summer  is a kind of period of time	nongold
+76	freezing means cold temperatures	nongold
+77	An example of stormy weather is rain	nongold
+78	moist means humid	nongold
+79	become cold means get cold	nongold
+80	high is similar to increase	nongold
+81	affected means changed	nongold
+82	something that happens is a kind of event	nongold
+83	hailing is when hail fall from clouds to the Earth;ground	nongold
+84	a weather report describes weather	nongold
+85	snow is a kind of precipitation	nongold
+86	a warm front causes cloudy and rainy weather	nongold
+87	weather is  a measure of the condition of the air in a place at a certain time	nongold
+88	a car moves on a road	nongold
+89	an increase is the opposite of a decrease	nongold
+90	the day time is part of one day	nongold
+91	a hurricane is a kind of storm	nongold
+92	windy is a kind of weather	nongold
+93	cloudy is a kind of  weather	nongold
+94	fall follows summer	nongold
+95	a blizzard is a kind of storm	nongold
+96	arrival is a kind of movement	nongold
+97	precipitation is a kind of natural occurrence; cause	nongold
+98	revolving is a kind of motion	nongold
+99	weather changes from seasons to seasons	nongold

@@ -1,0 +1,58 @@
+0	Matter in the liquid phase has variable shape	nongold
+1	evaporating is a kind of phase change	nongold
+2	water is a kind of liquid at room temperature	gold
+3	a liquid is a kind of substance	gold
+4	a phase change is a kind of physical change	nongold
+5	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold
+6	cooler means colder	nongold
+7	becoming is similar to changing	nongold
+8	temperature drop means become colder	nongold
+9	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold
+10	water is a kind of matter	nongold
+11	to lower means to decrease	nongold
+12	freezing is a kind of phase change	nongold
+13	Matter in the solid phase has definite shape	nongold
+14	freezing causes a solid to form	nongold
+15	cold means low in temperature	nongold
+16	temperature is a measure of heat energy	nongold
+17	a solution is made of one substance dissolved in another substance	nongold
+18	liquid changing to a solid	answer
+19	water is a kind of liquid at room temperature	gold
+20	melting is a kind of phase change	nongold
+21	liquid changing to a solid	answer
+22	to change means to cause a change	nongold
+23	snow is a kind of ice	nongold
+24	variable means able to change	nongold
+25	solution is a kind of liquid	nongold
+26	cooling means temperature decreases	nongold
+27	liquid changing to a solid	answer
+28	to change into means to form	nongold
+29	water is a kind of substance	nongold
+30	water is a kind of liquid at room temperature	gold
+31	boiling means the volume of a liquid decreases	nongold
+32	a liquid is a kind of fluid	nongold
+33	ice is cold in temperature	nongold
+34	to reduce means to decrease	nongold
+35	frost is a kind of solid water	nongold
+36	cool means cold	nongold
+37	liquid changing to a solid	answer
+38	a liquid is a kind of substance	gold
+39	cooling;colder means removing;reducing;decreasing heat;temperature	gold
+40	a liquid is a kind of substance	gold
+41	Water freezing is an example of a	question
+42	ice is colder than water in temperature	nongold
+43	Water freezing is an example of a	question
+44	a change is a kind of event	nongold
+45	cooling;colder means removing;reducing;decreasing heat;temperature	gold
+46	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+47	Water freezing is an example of a	question
+48	Water freezing is an example of a	question
+49	cooling;colder means removing;reducing;decreasing heat;temperature	gold
+50	glass is a kind of solid at room temperature	nongold
+51	colder; cooler means lower in temperature	nongold
+52	heat energy can change the state of matter	nongold
+53	state of matter means physical state	nongold
+54	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+55	Matter in the solid phase has definite volume	nongold
+56	volume has no impact on boiling; melting; freezing point	nongold
+57	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold

@@ -1,0 +1,102 @@
+Question	How would the measurable properties of a golf ball change if it were moved from Earth to the Moon?	question
+Answer	It would have the same mass, but a different weight.	answer
+0	weight is a measure of the force of the gravity on the mass of an object	nongold
+1	weight is a property of objects; matter	nongold
+2	Earth is a kind of planet	gold
+3	mass; weight are the same on Earth	nongold
+4	as the force  of gravity changes , the weight of the object will change	nongold
+5	weight is a kind of property	nongold
+6	as the mass of an object increases ,  the weight of that object will increase	nongold
+7	the earth has more mass than the moon	gold
+8	as the force  of gravity changes , the mass of the object will stay the same	nongold
+9	mass; weight is a property of matter; objects; materials	gold
+10	a weight is a kind of object	nongold
+11	Weight is  the  force of gravity acting on an object	nongold
+12	as the mass of an object decreases , the weight of that object will decrease	nongold
+13	weight means the force of gravity acting on an object	nongold
+14	the gravitational force of a planet; of a celestial object does not change the mass of an object on that planet or celestial body	gold
+15	as the force of gravity increases , the weight of objects will increase	gold
+16	as the force  of gravity decreases , the weight of the object will decrease	nongold
+17	heavy means a large amount of weight	nongold
+18	as mass of a planet; of a celestial body increases , the force of gravity on that planet will increase	gold
+19	mass is a property of objects; matter	nongold
+20	a ball is a kind of object	gold
+21	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+22	light means low  in weight	nongold
+23	the  property of something is the same for the things of same kind	nongold
+24	an increase is the opposite of a decrease	nongold
+25	the Moon is Earth's moon	nongold
+26	to change means to become different	gold
+27	same means identical; equal in value; amount; number; quantity	nongold
+28	a moon is a kind of celestial object; body	gold
+29	if something changes , then that something is not the same	nongold
+30	motion; movement means moving; to move	nongold
+31	the moon orbits the Earth	nongold
+32	a planet is a kind of celestial object; body	nongold
+33	different is the opposite of the same	nongold
+34	an object has properties	nongold
+35	mass is similar to size	nongold
+36	a decrease is a kind of change	nongold
+37	mass is a kind of physical property	nongold
+38	as the shape of an object changes , the mass of that object will stay the same	nongold
+39	as the heat  of an object increases , the mass of the object will stay the same	nongold
+40	gravitational potential energy is a measure of the product of weight and height	nongold
+41	as the mass of an object increases , the force of gravity on that object will increase	nongold
+42	to lower means to decrease	nongold
+43	stay the same means not changing	gold
+44	an increase is a kind of change	nongold
+45	objects are made of materials; substances; matter	nongold
+46	as amount; size of something increases , the intensive properties of that something will not change	nongold
+47	as the mass of a planet; of a celestial object decreases , the surface gravity of that planet; of that celestial object weakens	nongold
+48	mass; weight is an extensive property	nongold
+49	density is a measure of mass of an object over volume; divided by volume	nongold
+50	another means different	nongold
+51	low is similar to decrease	nongold
+52	an part of an object is smaller than the entire object	nongold
+53	high is similar to increase	nongold
+54	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+55	distance moved; distance travelled is a measure of how far an object moves	nongold
+56	less is similar to decrease	nongold
+57	motion is when moves an object; something to a direction	nongold
+58	lighter means lower; less in weight	nongold
+59	movement is a kind of change	nongold
+60	a living thing is a kind of object	nongold
+61	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+62	opposite is a kind of different	nongold
+63	heaviest means greatest mass; weight	nongold
+64	constant is similar to same	nongold
+65	solid is a kind of state of matter	nongold
+66	if there is no gravitational pull , then the weight of an object will be equal to zero	nongold
+67	as the amount; size of something increases , the extensive properties of that something will increase	nongold
+68	as the distance from an object increases , the force of gravity on that object will decrease	nongold
+69	the mass of an object causes the gravitational force exerted by that object	nongold
+70	if something is not the same as something else then that something is different from that something else	nongold
+71	different materials usually have different properties	nongold
+72	mass is a measure of the amount of matter in an object	nongold
+73	travel means to move	nongold
+74	two objects are usually different in size	nongold
+75	a planet's  moon is smaller than that planet	nongold
+76	a part of something is a property of that something	nongold
+77	smaller means less; lower in size	nongold
+78	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+79	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+80	shift means move	nongold
+81	a balance is used for measuring mass;weight of an object; of a substance	nongold
+82	a physical property is a kind of property	nongold
+83	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+84	identical is the opposite of different	nongold
+85	a balance is a kind of instrument for measuring mass; measuring weight	nongold
+86	distance is a property of space and includes ordered values of close; far	nongold
+87	rotating is similar to moving	nongold
+88	as the mass of an object increases , the density of that object will increase	nongold
+89	size; amount of space means volume	nongold
+90	if two substances have the same volume , then the  substance with less density will have less mass	nongold
+91	height is a property of the size of an object	nongold
+92	an animal is a kind of living thing	nongold
+93	affected means changed	nongold
+94	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+95	greater means higher; more in value	nongold
+96	kg means kilograms	nongold
+97	increase means more	gold
+98	if something has no impact on something else then that something else stays the same	nongold
+99	different celestial body has different gravity	nongold

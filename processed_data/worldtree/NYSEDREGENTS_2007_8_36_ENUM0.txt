@@ -1,0 +1,102 @@
+Question	Water at 20°C in an uncovered pan is evaporating very slowly. What could be done to the water to make it evaporate more quickly?	question
+Answer	Heat it.	answer
+0	rapidly means quickly	nongold
+1	fast means quickly	nongold
+2	water is an thermal; thermal energy conductor	nongold
+3	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+4	gradual means slow; over time	nongold
+5	a pan;frying pan is a kind of container for cooking; food	nongold
+6	water is a kind of liquid at room temperature	gold
+7	heating means adding heat	gold
+8	as the temperature of a liquid increases , that liquid will evaporate quicker	gold
+9	boiling is when liquids are heated above their boiling point	nongold
+10	heat means heat energy	gold
+11	adding heat means increasing temperature	nongold
+12	a pan is a kind of object	nongold
+13	heat energy is synonymous with thermal energy	nongold
+14	quickly means in a short period of time	nongold
+15	temperature is a measure of heat energy	gold
+16	heat means the transfer of thermal energy	nongold
+17	metal is a thermal; thermal energy conductor	nongold
+18	water is a kind of substance	gold
+19	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+20	evaporation; boiling can be used for separating a solution by allowing the solvent to evaporate	nongold
+21	to add means to increase	gold
+22	thermal conduction is when heat flows from warmer object to cooler object	nongold
+23	pot;pan;frying pan is made of metal for cooking	nongold
+24	conductivity is a property of a material; substance	nongold
+25	heat means temperature increases	nongold
+26	faster means an increase; higher in speed	nongold
+27	a liquid is a kind of substance	nongold
+28	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+29	increase means more	nongold
+30	to slow; to slow down decreases speed	nongold
+31	the heat energy in the cooler object increases in thermal conduction	nongold
+32	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+33	boiling point is a property of a substance; material	nongold
+34	fast is the opposite of slow	nongold
+35	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+36	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+37	less is similar to decrease	nongold
+38	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+39	water is a kind of object	nongold
+40	a container contains objects; material; substances	nongold
+41	material means substance	nongold
+42	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+43	to reduce means to decrease	nongold
+44	heat energy  can be used to heat up  an object	nongold
+45	if something is places over a heat source then that something is exposed to that heat source	nongold
+46	the sun causes water to evaporate more quickly by adding heat	nongold
+47	if an object is made of a material then that object has the properties of that material	nongold
+48	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+49	a thermal insulator slows; prevents the transfer of heat	nongold
+50	a thermal conductor is made of materials that conduct thermal energy	nongold
+51	heating salt water causes the water to evaporate while the salt remains	nongold
+52	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+53	high is similar to increase	nongold
+54	a source of something increases the amount of that something	nongold
+55	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+56	a container is a kind of object	nongold
+57	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+58	a source of something emits; produces; generates; provides that something	nongold
+59	if heat is added to a substance then that substance absorbs that heat	nongold
+60	if a container contains something then that container touches that something	nongold
+61	boiling point is the highest temperature a liquid can reach	nongold
+62	faster means increased rate	nongold
+63	objects are made of materials; substances; matter	nongold
+64	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+65	a surface is a part of a material	nongold
+66	evaporation is a kind of process	nongold
+67	evaporation causes amount of water to decrease	nongold
+68	evaporating is a kind of phase change	nongold
+69	the boiling point of water is 212F; 100C; 373K	nongold
+70	if something emits something else then that something increases the amount of that something else	nongold
+71	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+72	to lower means to decrease	nongold
+73	friction causes the temperature of an object to increase	nongold
+74	a source of heat can be used to heat something	nongold
+75	a source of heat can be used to heat something	nongold
+76	an object; material; substance comes from that object or material's source	nongold
+77	a surface is a part of an object	nongold
+78	metal is a kind of material	nongold
+79	an increase is the opposite of a decrease	nongold
+80	absorbing energy causes objects; materials; substances to heat	nongold
+81	a human is a kind of animal	nongold
+82	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+83	moisture means liquid; liquid water	nongold
+84	a hot substance is a source of heat	nongold
+85	being  on something; placed in something; placed over something means touching  that something	nongold
+86	boiling is a kind of phase change	nongold
+87	as the temperature of a liquid increases , the rate of evaporation of that liquid will increase	nongold
+88	heating is the opposite of cooling	nongold
+89	to convert means to change	nongold
+90	to depend on; to rely on; to need means to require	nongold
+91	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+92	conduction is a kind of process	nongold
+93	ability to undergo a phase change is a property of a substance; material	nongold
+94	a surface is a kind of object	nongold
+95	variable means able to change	nongold
+96	friction occurs when two object's surfaces move against each other	nongold
+97	a hot plate is a source of heat	nongold
+98	can be means able to be	nongold
+99	helping means something can be done; completed more easily; better	nongold

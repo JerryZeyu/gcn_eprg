@@ -1,0 +1,102 @@
+Question	In 1933, a hurricane came ashore at Ocean City, Maryland. A hurricane negatively affects a coastline by	question
+Answer	causing erosion	answer
+0	a hurricane is a kind of storm	gold
+1	wind and rain; storms cause erosion	gold
+2	coastline means coast	gold
+3	wind causes erosion	nongold
+4	a coast is a kind of environment	gold
+5	a coast is where land meets the edge of a body of water	gold
+6	Maryland is a kind of region	nongold
+7	erosion usually causes harm to the environment	nongold
+8	erosion; storms can cause a landslide	nongold
+9	to impact means to affect	gold
+10	erosion is a kind of change	nongold
+11	Maryland is a state located in the United States of America	nongold
+12	a coast is a coastal area	nongold
+13	hurricanes cause harm to living things; to buildings	nongold
+14	impact means effect	nongold
+15	weathering is a kind of erosion	nongold
+16	an ocean is a kind of body of water	nongold
+17	erosion is a kind of process	nongold
+18	weathering; erosion usually occurs over a period of many years	nongold
+19	a coastal area is a kind of environment	nongold
+20	water causes the most soil and rock erosion	nongold
+21	an estuary is a kind of body of water	nongold
+22	causing is a kind of affecting	nongold
+23	soil erosion means soil loss through wind;water; animals	nongold
+24	a hurricane has high wind speeds	gold
+25	to cause means to have an effect	nongold
+26	a city is a kind of location	nongold
+27	harming something has a  negative impact on; effect on that something	nongold
+28	rain causes erosion	nongold
+29	sea means ocean	nongold
+30	soil erosion is when wind; moving water; gravity move soil from fields; environments	nongold
+31	storm is a kind of weather; weather event	nongold
+32	adverse effect means negative impact	nongold
+33	affected means changed	nongold
+34	a shore is the land found at the edge of a body of water	nongold
+35	a hurricane has large amounts of rain	gold
+36	an ocean contains waves	nongold
+37	soil erosion is a kind of slow; natural process	nongold
+38	due to means caused by	nongold
+39	tidal means related to tides	nongold
+40	erosion is a kind of destructive force	nongold
+41	a body of water is a kind of environment	nongold
+42	being exposed to wind; water; animals; heat can cause erosion of soil; of rocks	nongold
+43	to cause means to result in	nongold
+44	damage has a negative impact on a thing	nongold
+45	maritime means close to the ocean	nongold
+46	to reduce means to decrease	nongold
+47	a city is a part of a society	nongold
+48	storms;rain cause bodies of water to increase amount of water they contain	nongold
+49	when a hurricane moves over land , that hurricane will decrease in strength	nongold
+50	change is a kind of impact	nongold
+51	damage means harm	nongold
+52	to change means to have an effect	nongold
+53	a tide is a kind of natural event	nongold
+54	to act on means to affect	nongold
+55	to be a source of something means to cause that something	nongold
+56	soil erosion is a kind of event	nongold
+57	marine is similar to water	nongold
+58	if something affects a part of something else then that something affects that something else	nongold
+59	negative impact is the opposite of positive impact	nongold
+60	erosion of soil has a  negative impact on the environment; soil quality	gold
+61	an increase is the opposite of a decrease	nongold
+62	a body of water is a source of water	nongold
+63	a negative impact is a kind of consequence; risk	nongold
+64	high is similar to increase	nongold
+65	answering questions requires information	nongold
+66	ocean wave is a kind of wave	nongold
+67	if something is required for a process then that something positively impacts that process	nongold
+68	ocean tides are a kind of phenomenon	nongold
+69	a body of water meets land at a beach	nongold
+70	an ocean is a source of heat and moisture for a hurricane	nongold
+71	a concern; a problem is a possible negative impact	nongold
+72	to lower means to decrease	nongold
+73	a hurricane is a kind of heat engine	nongold
+74	an increase is a kind of change	nongold
+75	increase means more	nongold
+76	a storm is usually a source of strong winds	nongold
+77	to cause is similar to bring	nongold
+78	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+79	decreasing something positive has a negative impact on a thing	nongold
+80	a decrease is a kind of change	nongold
+81	waves are made of moving water	nongold
+82	the effects of something is a property of that something	nongold
+83	causing means influencing	nongold
+84	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+85	erosion causes deposition	nongold
+86	a source of something increases the amount of that something	nongold
+87	an event is a kind of action	nongold
+88	decreasing something negative has a positive impact on a thing	nongold
+89	low is similar to decrease	nongold
+90	a bay is a kind of body of water	nongold
+91	to wash away is a kind of movement by moving water	nongold
+92	having an impact on something means altering that something	nongold
+93	loss means reduction	nongold
+94	an environment means an area	nongold
+95	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+96	less is similar to decrease	nongold
+97	water is a part of an environment	nongold
+98	a storm is a source of precipitation	nongold
+99	reducing is a kind of change	nongold

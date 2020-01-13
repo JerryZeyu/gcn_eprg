@@ -1,0 +1,102 @@
+Question	Which group consists only of living things?	question
+Answer	rabbit, seed, bird	answer
+0	a rabbit is a kind of animal	gold
+1	to belong to a group means to be a kind of something	nongold
+2	a bird is a kind of living thing	nongold
+3	an animal is a kind of living thing	gold
+4	a rabbit is a kind of mammal	nongold
+5	a bird is a kind of animal	gold
+6	to be made of means to consist of	nongold
+7	an animal is a member of an animal species	nongold
+8	life means living things	nongold
+9	species means a group of like organisms	nongold
+10	an animal is a kind of organism	nongold
+11	a rabbit is a kind of herbivore	nongold
+12	classifying means grouping objects; materials by their properties	nongold
+13	a seed is a kind of food for birds	nongold
+14	a seed is a part of a plant	nongold
+15	a living thing is a kind of object	nongold
+16	to belong to a group means to be classified in that group	nongold
+17	a chicken is a kind of bird	nongold
+18	a plant is a kind of living thing	gold
+19	rabbits eat plants	nongold
+20	an organism is a living thing	nongold
+21	a rabbit is a kind of prey	nongold
+22	an animal; living thing requires nutrients for survival	nongold
+23	a plant is a member of a plant species	nongold
+24	a plant is a kind of organism	nongold
+25	together means in a group	nongold
+26	if there is none of a thing then that thing does not exist	nongold
+27	a rabbit cannot fly; climb	nongold
+28	if a living thing requires something then that something has a positive impact on that living thing	nongold
+29	An example of seed dispersal is animals eating; excreting seeds	nongold
+30	living things eat their food source	nongold
+31	plants of the same species have the same type of seed	nongold
+32	grouping means putting; placing in different groups	nongold
+33	all living things grow	nongold
+34	a plant; living thing requires food for survival	nongold
+35	a part of a living thing is a natural structure	nongold
+36	a seed is a kind of young plant	gold
+37	to group means to separate	nongold
+38	birds sometimes eat berries;seeds	nongold
+39	living things can all reproduce	nongold
+40	classifying is when one sorts something by kind; type	nongold
+41	animals; living things live and feed in their habitats; near their habitats	nongold
+42	a food contains nutrients for living things	nongold
+43	plant requires seed dispersal for reproduction	nongold
+44	A bird is a pollinating animal	nongold
+45	coming together means forming a group	nongold
+46	seed dispersal is when the seeds of a plant are moved; are carried; are spread; are dropped; from the parent plant to another area	nongold
+47	to belong to a class means to be a kind of something	nongold
+48	a living thing is made of cells	nongold
+49	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	nongold
+50	a mushroom is a kind of living thing	nongold
+51	if seeds stick to the fur of an animal then that seed will be transported by the animal	nongold
+52	living things in the same class are  more closely related than living things in different classes	nongold
+53	a tree is a kind of living thing	nongold
+54	if a living thing dies then that living thing is dead	nongold
+55	some birds are predators	nongold
+56	a human is a kind of animal	nongold
+57	a population is all of the interbreeding members  of a certain species in an ecosystem	nongold
+58	each is similar to individual	nongold
+59	seed dispersal has a positive impact on a plant; a plant's reproduction	nongold
+60	a structure of something is synonymous with a part of that something	nongold
+61	if one takes all objects from a group then that group of objects will cease to exist	nongold
+62	an insect is a kind of animal	nongold
+63	a fungus is a kind of living thing	nongold
+64	seed dispersal is when the seeds of a plant are moved from the plant to  a new environment	nongold
+65	killing means changing a living thing from alive to dead by harming	nongold
+66	seeds are a part of  berries	nongold
+67	a seed is used for storing food for a new plant	nongold
+68	a worm is a kind of living thing	nongold
+69	grass is a kind of green plant	nongold
+70	eating an animal; a plant means killing that animal; that plant	nongold
+71	some rabbits live in forests	nongold
+72	nonliving; non-living; die is the opposite of living; alive; live	nongold
+73	an ecosystem contains nonliving things	nongold
+74	a natural ecosystem contains native living things only	nongold
+75	vegetation means plants	nongold
+76	humans sometimes eat seeds	nongold
+77	a tree is a kind of plant	nongold
+78	a berry contains seeds	nongold
+79	a component means a part of	nongold
+80	all living and nonliving materials are made of elements	nongold
+81	eagles eat rabbits	nongold
+82	all the other means the rest of	nongold
+83	a mammal is a kind of animal	nongold
+84	to tell the difference between things means to classify those things	nongold
+85	herbivores only eat plants	nongold
+86	nonliving means not living	nongold
+87	peas is a kind of seed	nongold
+88	a whole is formed by its parts	nongold
+89	organisms mean life	nongold
+90	living things carry out basic life functions	nongold
+91	a component of something means a part of that something	nongold
+92	a source of something emits; produces; generates; provides that something	nongold
+93	organisms are a part of an environment	nongold
+94	made up of means contains; made of	nongold
+95	a reptile is a kind of animal	nongold
+96	all living things are made of cells according to the cell theory	nongold
+97	goat is a kind of animal	nongold
+98	answering questions requires information	nongold
+99	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold

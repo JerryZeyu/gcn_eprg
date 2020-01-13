@@ -1,0 +1,102 @@
+Question	A wire is wrapped around a metal nail and connected to a battery. If the battery is active, the nail will	question
+Answer	become magnetic.	answer
+0	if battery in an electromagnet is active then the nail in the electromagnet will become magnetic	gold
+1	a nail is a kind of object	nongold
+2	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	gold
+3	a magnet is often made of magnetic metals; ferromagnetic metals	nongold
+4	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	nongold
+5	an electromagnet is a kind of electric magnet	gold
+6	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	nongold
+7	becoming is similar to changing	nongold
+8	a magnet is a kind of object	nongold
+9	an electromagnet contains a wire; cylindrical ferrous metal	nongold
+10	metal is sometimes magnetic	nongold
+11	a magnet will not attract nonmagnetic metals; nonmagnetic materials	nongold
+12	a battery is a source of electrical energy; electricity	nongold
+13	a battery is a kind of object	nongold
+14	a wire is usually made of metal	nongold
+15	a wire is a kind of object	nongold
+16	a battery-operated device is a kind of electrical device	nongold
+17	battery-powered is similar to battery-operated	nongold
+18	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+19	Magnetite is always magnetic	nongold
+20	an electromagnet is a kind of device	nongold
+21	electrical current running through a wire causes that wire to heat up; to become warm	nongold
+22	if something contains a large amount of magnetic material then that something will attract magnets	nongold
+23	a  battery  is a kind of electrical power source	nongold
+24	metal is an  electrical; electrical energy conductor	nongold
+25	looping is similar to wrapping	nongold
+26	nails are often made of iron	nongold
+27	electromagnets generate magnetic fields	nongold
+28	iron nails are made of iron	nongold
+29	a wire is a part of an electrical circuit for conducting electricity	nongold
+30	a magnet moving in a coil of copper wire can cause an electric current	nongold
+31	magnetism does not require contact between objects to act	nongold
+32	metal is a kind of material	nongold
+33	metal is a kind of substance	nongold
+34	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+35	moving a coil of wire in the magnetic field generates electrical current	nongold
+36	steel; carbon steel is always ferromagnetic; magnetic	nongold
+37	an insulator is the opposite of a conductor	nongold
+38	creating a simple circuit requires a wire; battery	gold
+39	the core of an electromagnet is the metal	nongold
+40	magnet can be  used for separating a magnetic material from a mixture of a magnetic and nonmagnetic material	nongold
+41	objects are made of materials; substances; matter	nongold
+42	magnetism is a kind of physical property	nongold
+43	to conduct is similar to to transfer	nongold
+44	passing a magnet through a closed loop of wire generates an electric current	nongold
+45	magnetic force means magnetism	nongold
+46	a device is a kind of object	nongold
+47	conductivity is a property of a material; substance	nongold
+48	a conducting metal loop is a kind of electromagnet	nongold
+49	soft iron; iron is always ferromagnetic; magnetic	nongold
+50	becoming is a kind of action	nongold
+51	a larger power source provides more current to a wire; a conductor; an electromagnet	nongold
+52	if an object is made of a material then that object has the properties of that material	nongold
+53	charging a battery is when energy is converted into potential energy in the battery to store the energy	nongold
+54	magnetism can affect objects that are not touching	nongold
+55	becoming is similar to forming	nongold
+56	an insulator is a kind of material	nongold
+57	metals are made of metal	nongold
+58	Magnetoplumbite is always magnetic	nongold
+59	batteries can be used to power electrical devices	nongold
+60	electromagnets can be powered by electricity	nongold
+61	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+62	plastic is always nonmagnetic	nongold
+63	convert is similar to transfer	nongold
+64	electrical insulation requires wrapping a conductor in an insulator	nongold
+65	conductivity is a measure of how easily electricity travels through a material	nongold
+66	electricity is made of moving charges; moving charged particles	nongold
+67	being active requires energy	nongold
+68	magnetism can cause objects to repel each other	nongold
+69	device means tool	nongold
+70	a metal is usually a solid at room temperature	nongold
+71	electric currents produce magnetic fields	nongold
+72	a source of something emits; produces; generates; provides that something	nongold
+73	an electromagnet requires a ferrous metal to be the core	nongold
+74	magnetism is a kind of force	nongold
+75	magnetism is a kind of energy	nongold
+76	if a magnet is attracted to a metal then that magnet will stick to that metal	nongold
+77	electric devices require electrical energy to function	nongold
+78	magnetic separation is using a magnet to attract magnetic material from the mixture of magnetic and nonmagnetic material	nongold
+79	electricity means electrical energy	nongold
+80	plastic is usually an electrical insulator	nongold
+81	copper is always nonmagnetic	nongold
+82	a horseshoe magnet is a kind of magnet	nongold
+83	conductivity is a kind of physical property	nongold
+84	static electricity is when electrons are exchanged between objects though friction	nongold
+85	plastic is a kind of electrical insulator	nongold
+86	can be means able to be	nongold
+87	electrocution causes harm to an organism	nongold
+88	if something causes a process then that something is required for that process	nongold
+89	as the current supplied to an electromagnet increases , the strength of the electromagnet will increase	nongold
+90	a tool is a kind of object	nongold
+91	if something transfers something else then that something is a source of something else	nongold
+92	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+93	a paper clip is often made of magnetic metals; ferromagnetic metals	nongold
+94	a wire is a kind of path for electricity	nongold
+95	to convert means to change	nongold
+96	zinc is always nonmagnetic	nongold
+97	a battery contains chemical energy	nongold
+98	a cable is similar to a wire	nongold
+99	to be used for something means to be required by that something	nongold

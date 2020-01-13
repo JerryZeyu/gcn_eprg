@@ -1,0 +1,63 @@
+0	fighting is a kind of action	nongold
+1	low is similar to decrease	nongold
+2	events occur at a specific place; at a specific time; with a specific frequency	nongold
+3	groundwater is located under ground	gold
+4	limestone	answer
+5	underground means under ground	gold
+6	leaving something on is a kind of action	nongold
+7	to lower means to decrease	nongold
+8	moisture means liquid; liquid water	nongold
+9	extreme means very high in value	nongold
+10	to cause the formation of means to form	nongold
+11	an organism eating is a kind of action	nongold
+12	sinkholes; caves are formed by precipitation; infiltration	nongold
+13	limestone	answer
+14	settling is a kind of action	nongold
+15	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+16	flowing is a kind of action	nongold
+17	limestone	answer
+18	high is similar to increase	nongold
+19	composed of means made of	nongold
+20	groundwater is located under ground	gold
+21	dissolving is a kind of action	gold
+22	Most underground caves are formed by the action of water on	question
+23	a cavern is formed by carbonic acid in groundwater seeping through rock and dissolving limestone	gold
+24	a cavern is a cave	gold
+25	limestone	answer
+26	a cavern is formed by carbonic acid in groundwater seeping through rock and dissolving limestone	gold
+27	dissolving is a kind of action	gold
+28	water is a kind of matter	nongold
+29	to cause means to have an effect	nongold
+30	groundwater is located under ground	gold
+31	to be made of something means to be formed of that something	nongold
+32	a body of water is a source of water	nongold
+33	forming something is a kind of change	nongold
+34	groundwater is a kind of water	gold
+35	passing is a kind of action	nongold
+36	underground means under ground	gold
+37	an event is a kind of action	nongold
+38	becoming is a kind of action	nongold
+39	Most underground caves are formed by the action of water on	question
+40	a cavern is a cave	gold
+41	action can cause change	nongold
+42	Most underground caves are formed by the action of water on	question
+43	the formation of something is a kind of process	nongold
+44	water is a kind of object	nongold
+45	underground means under ground	gold
+46	ground water is a kind of water	nongold
+47	dissolving is a kind of action	gold
+48	groundwater is a kind of water	gold
+49	a cavern is a cave	gold
+50	laying down is a kind of action	nongold
+51	action means activity	nongold
+52	sandstone is a kind of sedimentary rock	nongold
+53	forming is similar to converting	nongold
+54	to be formed by is to be the result of	nongold
+55	a cavern is formed by carbonic acid in groundwater seeping through rock and dissolving limestone	gold
+56	heating means adding heat	nongold
+57	form means kind	nongold
+58	a type is synonymous with a kind	nongold
+59	Most underground caves are formed by the action of water on	question
+60	burning is a kind of action	nongold
+61	groundwater is a kind of water	gold
+62	water is a kind of liquid at room temperature	nongold

@@ -1,0 +1,102 @@
+Question	Which is the best plan to make the fossil fuel supply last longer?	question
+Answer	reduce electricity use	answer
+0	to last longer means to be available longer	gold
+1	to reduce means to decrease	gold
+2	as the use of a resource decreases , the length of time that resource will be available increases	gold
+3	as the use of something decreases , the use of the source of that something will decrease	gold
+4	how long something takes is a kind of measurement of time	gold
+5	if something lasts longer then that something will not have to be replaced for a long time	nongold
+6	increase means more	nongold
+7	the supply of an inexhaustible resource does not change over a long period of time	nongold
+8	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+9	to shorten means to make shorter	nongold
+10	fuel supply is a kind of resource	nongold
+11	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+12	if something with the same function as something else is being used then the use of that something else decreases	nongold
+13	an increase is the opposite of a decrease	nongold
+14	less means a reduced amount	nongold
+15	consumption means use	nongold
+16	best means most positive	nongold
+17	less is similar to decrease	nongold
+18	a source of something increases the amount of that something	nongold
+19	if a resource is limited in supply then that resource will run out	nongold
+20	to add means to increase	nongold
+21	a fossil fuel is a kind of natural resource	nongold
+22	final means last	nongold
+23	fossil fuels are a nonrenewable resource	nongold
+24	oil is a kind of fossil fuel	gold
+25	fossil fuels are a kind of energy resource	nongold
+26	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+27	loss means reduction	nongold
+28	to depend on; to rely on; to need means to require	nongold
+29	reducing is a kind of change	nongold
+30	to lower means to decrease	nongold
+31	a source of something emits; produces; generates; provides that something	gold
+32	no longer means used to be	nongold
+33	if there is a loss of something then that something decreases	nongold
+34	a supply of something is a source of that something	nongold
+35	electricity means electrical energy	nongold
+36	using resources decreases those resources	nongold
+37	a decrease is a kind of change	nongold
+38	to provide means to supply	nongold
+39	longest means greatest in length	nongold
+40	burning fossil fuels increases the carbon in the atmosphere	nongold
+41	natural gas is a kind of fossil fuel	nongold
+42	renewable resources are replenished more quickly than they are used	nongold
+43	using renewable resources to generate power reduces greenhouse gases	nongold
+44	producing electricity sometimes requires burning oil	nongold
+45	renewable is the opposite of nonrenewable	nongold
+46	petroleum is a kind of fossil fuel	nongold
+47	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+48	as the cause of something decreases , that something will decrease	nongold
+49	deplete is similar to decrease	nongold
+50	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+51	decreasing something negative has a positive impact on a thing	nongold
+52	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+53	to limit means to decrease	nongold
+54	an increase is a kind of change	nongold
+55	to cause means to make	nongold
+56	a source of something supplies that something	nongold
+57	to be used for something means to be required by that something	nongold
+58	a renewable resource is a kind of natural resource	nongold
+59	natural gas is a nonrenewable resource	nongold
+60	fuel is a kind of energy source	nongold
+61	as distance from a source of something increases , that something will decrease	nongold
+62	decreasing something positive has a negative impact on a thing	nongold
+63	renewable resources can be used over again	nongold
+64	high is similar to increase	nongold
+65	if something causes a process then that something is required for that process	nongold
+66	requiring something means needing that something	nongold
+67	if something emits something else then that something increases the amount of that something else	nongold
+68	fossil fuels burning causes pollution	nongold
+69	shorter means decreased length	nongold
+70	using less of a resource increases the availability of that resource	nongold
+71	less is the opposite of more	nongold
+72	an inexhaustible resource is a kind of renewable resource	nongold
+73	if something is required for a process then that something positively impacts that process	nongold
+74	renewable resources are often available for many years	nongold
+75	a nonrenewable resource is limited in supply	nongold
+76	producing renewable electric energy requires renewable resources	nongold
+77	fuel efficient means uses less fuel	nongold
+78	low is similar to decrease	nongold
+79	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+80	fuel is a source of energy	nongold
+81	if something releases something else then that something else decreases in that something	nongold
+82	if something is a raw material in a process then that something is required for that process	nongold
+83	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+84	oil is a nonrenewable resource	nongold
+85	to slow; to slow down decreases speed	nongold
+86	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+87	fewer means lower; less in number	nongold
+88	if something causes an increase in something else then that something produces that something else	nongold
+89	long means great in length	nongold
+90	reducing is similar to slowing	nongold
+91	faster means increased rate	nongold
+92	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+93	faster means an increase; higher in speed	nongold
+94	if a resource is limited in supply then that resource needs to be replaced	nongold
+95	oil is a kind of energy resource	nongold
+96	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+97	lifetime is similar to life cycle	nongold
+98	if something is required then that something must be provided	nongold
+99	oil is used for producing electricity	gold

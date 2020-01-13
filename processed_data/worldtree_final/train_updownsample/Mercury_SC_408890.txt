@@ -1,0 +1,71 @@
+0	a frog is a kind of amphibian	gold
+1	an amphibian is a kind of animal	gold
+2	a property of something is a feature of that something	nongold
+3	an aquatic animal is a kind of animal	nongold
+4	predators; carnivores; omnivores eat other animals	nongold
+5	increase means more	nongold
+6	a salamander is a kind of amphibian	gold
+7	if one is holding an object then one is touching that object	nongold
+8	to touch means to contact	nongold
+9	if two animals eat the same prey then those animals compete for that prey	gold
+10	affected means changed	nongold
+11	a frog is a kind of amphibian	gold
+12	a salamander eats insects	gold
+13	feeling is when an living thing senses through touch	nongold
+14	an insect is a kind of prey	gold
+15	a frog is a kind of amphibian	gold
+16	a sticky tongue is a kind of adaptation for catching insects	gold
+17	to help; to benefit means to be of use	nongold
+18	An insect is a pollinating animal	nongold
+19	an insect is a kind of animal	nongold
+20	Frogs and salamanders compete with each other for insects. Both frogs and salamanders catch flying insects with their tongues. Which feature would most likely help both animals compete for flying insects?	question
+21	an insect is a kind of prey	gold
+22	sticky tongues	answer
+23	carnivores; omnivores; herbivores are a kind of animal	nongold
+24	Frogs and salamanders compete with each other for insects. Both frogs and salamanders catch flying insects with their tongues. Which feature would most likely help both animals compete for flying insects?	question
+25	a frog is a kind of animal	nongold
+26	a salamander eats insects	gold
+27	high is similar to increase	nongold
+28	sticky tongues	answer
+29	helping something has a  positive impact on that something	gold
+30	a sticky tongue is a kind of adaptation for catching insects	gold
+31	strong beaks; sharp beaks are a kind of adaptation for catching prey	nongold
+32	flying is a kind of motion through air; space	nongold
+33	a frog eats insects	gold
+34	alligators eat frogs; turtles; fish; mice; birds	nongold
+35	a sticky tongue is a kind of adaptation for catching insects	gold
+36	a salamander eats insects	gold
+37	a structure is a kind of feature	nongold
+38	an insect usually has a small size	nongold
+39	help means advantage	nongold
+40	salamanders are sometimes aquatic animals	nongold
+41	if two animals eat the same prey then those animals compete for that prey	gold
+42	to help means to aid	nongold
+43	if two animals eat the same prey then those animals compete for that prey	gold
+44	often is similar to likely	nongold
+45	harming something has a  negative impact on; effect on that something	nongold
+46	Frogs and salamanders compete with each other for insects. Both frogs and salamanders catch flying insects with their tongues. Which feature would most likely help both animals compete for flying insects?	question
+47	an amphibian is a kind of animal	gold
+48	a living thing surviving has a positive impact on that living thing's ability to compete for resources	nongold
+49	helping something has a  positive impact on that something	gold
+50	a frog eats insects	gold
+51	a frog eats insects	gold
+52	if two animals have the same food source then those two animals compete for food	nongold
+53	motion; movement means moving; to move	nongold
+54	an insect is a kind of prey	gold
+55	a living thing is a kind of object	nongold
+56	an organism is a living thing	nongold
+57	a salamander is a kind of amphibian	gold
+58	as the population of prey decreases , competition between predators will increase	nongold
+59	touching is when a body part makes contact with the surface of an object	nongold
+60	both means two	nongold
+61	a salamander is a kind of amphibian	gold
+62	sticky tongues	answer
+63	Frogs and salamanders compete with each other for insects. Both frogs and salamanders catch flying insects with their tongues. Which feature would most likely help both animals compete for flying insects?	question
+64	a plant is a kind of organism	nongold
+65	an amphibian is a kind of animal	gold
+66	helping means something can be done; completed more easily; better	nongold
+67	if two things have the same features then those two things are alike	nongold
+68	helping something has a  positive impact on that something	gold
+69	sticky tongues	answer
+70	an animal is a member of an animal species	nongold

@@ -1,0 +1,100 @@
+0	Protein is used by the human body to	question
+1	repair cells.	answer
+2	protein is used to repair  cells by the human body	gold
+3	a human cell is a kind of cell	nongold
+4	genetic information can be used for repairing damage by proteins	nongold
+5	a human is a kind of animal	nongold
+6	to repair means to heal	nongold
+7	to repair means to fix damage	nongold
+8	cells are a part of the body	nongold
+9	human is a kind of organism	nongold
+10	to be used for something means to be required by that something	nongold
+11	the function of something is what that something  is used to do	nongold
+12	repairing an organism requires cells working together	nongold
+13	the body is a part of an organism	nongold
+14	an organism requires energy for growth; repair	nongold
+15	a living thing is made of cells	nongold
+16	answering questions requires information	nongold
+17	a body cell means a somatic cell	nongold
+18	an animal is a kind of living thing	nongold
+19	an animal cell is a kind of cell	nongold
+20	activator is a kind of  protein	nongold
+21	an animal is a kind of organism	nongold
+22	proteins are made of a chain of 20 amino acids	nongold
+23	the cell membrane is a part of a cell	nongold
+24	a cell is a kind of object	nongold
+25	the cell membrane is the membrane around the cell of all living things	nongold
+26	the body of an animal contains arteries; veins	nongold
+27	a cell is very small	nongold
+28	an organism is a living thing	nongold
+29	the parent cell is the original cell	nongold
+30	a cell membrane is a kind of cell structure	nongold
+31	all living things are made of cells according to the cell theory	nongold
+32	a body system is a part of the body; an animal	nongold
+33	to be used  for something means to help to do that something	nongold
+34	a cell nucleus is a part of a cell	nongold
+35	can be means able to be	nongold
+36	cells copy DNA	nongold
+37	a protein is a kind of nutrient	nongold
+38	to serve as means to be used as	nongold
+39	a human is a kind of mammal	nongold
+40	basic life functions occur in the cells of organisms	nongold
+41	human is similar to individual	nongold
+42	bone cells are a part of the body	nongold
+43	a process is a kind of event	nongold
+44	a component of something means a part of that something	nongold
+45	living things perform biological processes	nongold
+46	to help; to benefit means to be of use	nongold
+47	if something performs a task then that task is that something's function	nongold
+48	genes are made of DNA	nongold
+49	an event is a kind of action	nongold
+50	protecting is a kind of function	nongold
+51	the cell is the most basic structural unit of life	nongold
+52	a part of a process means a stage in a process	nongold
+53	a cell absorbs nutrients	nongold
+54	a process usually requires all of the stages in that process	nongold
+55	a source of something emits; produces; generates; provides that something	nongold
+56	being used for is similar to providing	nongold
+57	recycling means using over again	nongold
+58	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+59	affected means changed	nongold
+60	Anna is a name for a human	nongold
+61	genetic information can be used for making proteins	nongold
+62	a somatic cell of a human contains 23 pairs of; 46  chromosomes	nongold
+63	if something breaks , then that something cannot be used	nongold
+64	cell division increases the number of cells in the body	nongold
+65	process is similar to method	nongold
+66	to cause means to make	nongold
+67	the cell membrane provides support; protection for a cell	nongold
+68	a plant cell is a kind of cell	nongold
+69	shredding is similar to tearing	nongold
+70	made up of means contains; made of	nongold
+71	making proteins requires genetic information	nongold
+72	cell activity means cell process	nongold
+73	breaking down is a kind of function	nongold
+74	composed of means made of	nongold
+75	a molecule is a kind of particle	nongold
+76	a living thing is a kind of object	nongold
+77	a molecule is a kind of object	nongold
+78	if something causes a process then that something is required for that process	nongold
+79	events occur at a specific place; at a specific time; with a specific frequency	nongold
+80	breaking food into nutrients means preparing food for cells	nongold
+81	a decomposer is a kind of living thing	nongold
+82	to be a vehicle for is a kind of function	nongold
+83	if something is made of something; a material then that something contains that something; that material	nongold
+84	cell division often causes growth; healing	nongold
+85	living things are made of organic molecules	nongold
+86	Tommy is a name for a human	nongold
+87	DNA is a kind of molecule	nongold
+88	high is similar to increase	nongold
+89	an animal is a kind of eukaryote	nongold
+90	Isabel is a name for a human	nongold
+91	the cell membrane allows materials to enter and leave the cell	nongold
+92	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	nongold
+93	useful means able to be used	nongold
+94	DNA is a kind of nucleic acid	nongold
+95	to provide something means to be the source of that something	nongold
+96	reusing is similar to using many times	nongold
+97	useful means good to use	nongold
+98	mitosis produces cells that are identical to the parent cell	nongold
+99	cells are a smaller level of organization than tissues in living things	nongold

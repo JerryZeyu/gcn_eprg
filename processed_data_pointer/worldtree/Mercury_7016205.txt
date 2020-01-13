@@ -1,0 +1,102 @@
+Question	What would a warm air mass over the ocean most likely cause?	question
+Answer	rainfall	answer
+0	rainfall means precipitation	gold
+1	rainfall means the amount of precipitation	nongold
+2	rain is a kind of precipitation	gold
+3	precipitation is when water falls from the sky	nongold
+4	rain is a kind of water	nongold
+5	rainfall is the amount of rain an area receives	nongold
+6	precipitation is a kind of weather	nongold
+7	precipitation is a kind of natural occurrence; cause	nongold
+8	precipitation is a property of weather	nongold
+9	rain is a source of water	nongold
+10	hail is a kind of precipitation; ice	nongold
+11	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+12	lack of moisture in the air causes low amounts of rainfall	nongold
+13	a storm is a source of precipitation	nongold
+14	storms;rain cause bodies of water to increase amount of water they contain	nongold
+15	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+16	average amount of precipitation is a property of climate	nongold
+17	rain; snow falls	nongold
+18	water vapor has an impact on weather conditions associated with an air mass	nongold
+19	atmosphere means  air	nongold
+20	an ocean is a kind of body of water	nongold
+21	air mass means a volume of air	nongold
+22	the air mass formed close to the ocean is humid in moisture	nongold
+23	a warm front is when warm air mass rises and passes over; collides a cold air mass	gold
+24	rainstorm means rain storm	nongold
+25	low pressure systems cause precipitation	nongold
+26	a land mass is a kind of object	nongold
+27	an air mass has similar temperature and moisture throughout it	nongold
+28	snow is a kind of precipitation	nongold
+29	precipitation is a kind of  natural process	nongold
+30	An example of stormy weather is rain	nongold
+31	rain causes erosion	nongold
+32	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+33	a stationary air mass is a kind of air mass	nongold
+34	air is a kind of gas	nongold
+35	the movement of an air mass over Earth's surface causes sudden local weather changes	nongold
+36	clouds produce precipitation	nongold
+37	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+38	an increase is a kind of change	nongold
+39	a decrease is a kind of change	nongold
+40	to reduce means to decrease	nongold
+41	sea means ocean	nongold
+42	to lower means to decrease	nongold
+43	to be a source of something means to cause that something	nongold
+44	temperature  is a property of air mass and includes ordered values of cold; warm	nongold
+45	storm is a kind of weather; weather event	nongold
+46	warmer means greater; higher in temperature; warmth	nongold
+47	land area means land mass	nongold
+48	a continent is a kind of large land mass	nongold
+49	a warm front causes cloudy and rainy weather	gold
+50	precipitation is a stage in the water cycle process	nongold
+51	to change means to cause a change	nongold
+52	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+53	oceans are the source of most of water vapor in the atmosphere	gold
+54	moisture is a property of air mass and includes ordered values of dry; humid	nongold
+55	a hurricane has large amounts of rain	nongold
+56	as air pressure decreases , the chance of rain will increase	nongold
+57	as the size of a cloud increases , the amount  of precipitation contained in that cloud will increase	nongold
+58	an area receiving rain means rain falling in that area	nongold
+59	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+60	a body of water is a kind of environment	nongold
+61	air masses formed over the ocean near the equator are usually moist; warm	nongold
+62	water vapor condensing in clouds causes rain	gold
+63	In the water cycle , precipitation always follows transportation	nongold
+64	increase means more	nongold
+65	affected means changed	nongold
+66	throughout means over	nongold
+67	wind and rain; storms cause erosion	nongold
+68	grey clouds are a source of precipitation	nongold
+69	as the amount of rain increases in an environment , available sunlight will decrease in that environment	nongold
+70	air temperature is a kind of temperature	nongold
+71	causing is a kind of affecting	nongold
+72	warm means medium heat energy; temperature	nongold
+73	to cause an event means to make that event more likely	nongold
+74	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+75	the atmosphere is a kind of area	nongold
+76	grey clouds appear before precipitation	nongold
+77	a thunderstorm is a kind of storm	nongold
+78	high is similar to increase	nongold
+79	a body of water is a source of water	nongold
+80	a motion is a kind of event; action	nongold
+81	as the cause of something decreases , that something will decrease	nongold
+82	rainwater is a kind of water	nongold
+83	temperature changing does not cause mass to change	nongold
+84	warm means warm temperature	nongold
+85	clouds are made of water vapor; rain droplets	nongold
+86	a cold front is when a cooler air mass moves into contact with an area of warmer air	nongold
+87	In the water cycle , precipitation can follow condensation	nongold
+88	oceans cover 70% of the surface of the earth	nongold
+89	weather is  a measure of the condition of the air in a place at a certain time	nongold
+90	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+91	an increase is the opposite of a decrease	nongold
+92	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+93	rainy is a kind of weather	nongold
+94	warm ocean currents move to cooler ocean regions by convection	nongold
+95	change is a kind of impact	nongold
+96	to cause means to have an effect	nongold
+97	a body of water contains water	nongold
+98	an event is a kind of action	nongold
+99	a change is a kind of event	nongold

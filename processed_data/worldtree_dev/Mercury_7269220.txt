@@ -1,0 +1,102 @@
+Question	Wave energy from the ocean can be harnessed to power generators to make electricity. Energy from ocean tides can also be used to make electricity. How would you categorize these two sources of energy?	question
+Answer	Both are renewable.	answer
+0	wave energy is a renewable resource	gold
+1	renewable is the opposite of nonrenewable	nongold
+2	ocean wave is a kind of wave	nongold
+3	to categorize means to classify	gold
+4	tidal energy can be used to produce electricity	nongold
+5	ocean tides are a kind of phenomenon	nongold
+6	an ocean is a kind of body of water	nongold
+7	electricity means electrical energy	nongold
+8	an ocean contains waves	nongold
+9	tidal means related to tides	gold
+10	tidal energy is a renewable resource	gold
+11	an energy source is a kind of resource	nongold
+12	a renewable resource is a kind of natural resource	nongold
+13	a fossil fuel is a kind of natural resource	nongold
+14	make means produce	nongold
+15	water is a renewable resource	nongold
+16	a renewable resource is a natural resource	nongold
+17	waves are made of moving water	nongold
+18	solar energy is a renewable; inexhaustible resource	nongold
+19	producing renewable electric energy requires renewable resources	nongold
+20	if something comes from something else then that something else is a source of that something	nongold
+21	if something requires something else then that something requires a source of that something else	nongold
+22	sea means ocean	nongold
+23	resources sometimes are used for energy	nongold
+24	a producer is a source of energy for consumers	nongold
+25	a source of something emits; produces; generates; provides that something	nongold
+26	a renewable resource is a kind of naturally replaced resource	nongold
+27	a wave is a kind of object	nongold
+28	oil is used for producing electricity	nongold
+29	electrical energy is a kind of energy	nongold
+30	if something is a raw material then that something comes directly from a source	nongold
+31	to power means to provide energy for	nongold
+32	oil is a kind of fossil fuel	nongold
+33	the tide is when ocean levels periodically rise; fall	nongold
+34	a generator is a kind of  device	nongold
+35	Rossby wave is a kind of ocean wave	nongold
+36	a tide is a kind of natural event	nongold
+37	generating power is a kind of positive impact	nongold
+38	converting is similar to generating	nongold
+39	solar energy is a source of electricity	nongold
+40	renewable resources can be used over again	nongold
+41	generate means produce	nongold
+42	an inexhaustible resource is a kind of renewable resource	nongold
+43	water is a kind of natural resource	nongold
+44	water is a kind of natural resource	nongold
+45	a generator converts kinetic energy into electrical energy; electricity	nongold
+46	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+47	to create means to make	nongold
+48	an object; material; substance comes from that object or material's source	nongold
+49	a body of water is a kind of environment	nongold
+50	to provide something means to be the source of that something	nongold
+51	tidal energy is a kind of alternative energy resource	nongold
+52	fossil fuels are a nonrenewable resource	nongold
+53	where something  comes from is a source of that something	nongold
+54	if something gains something from something else then that something else is a source of that something	nongold
+55	fossil fuels are a kind of energy resource	nongold
+56	both means two	nongold
+57	wind is used for producing electricity	nongold
+58	if something is powered by something else then that something requires a source of that something else	nongold
+59	to be used for something means to be required by that something	nongold
+60	oil is a nonrenewable resource	nongold
+61	if something transfers something else then that something is a source of something else	nongold
+62	oil is a source of energy	nongold
+63	if something is a raw material in a process then that something is required for that process	nongold
+64	making something requires resources	nongold
+65	a body of water contains water	nongold
+66	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+67	wind is a renewable; inexhaustible resource	nongold
+68	hydropower is when falling water produces electricity	nongold
+69	a source of something supplies that something	nongold
+70	a body of water is a source of water	nongold
+71	natural gas is a kind of fossil fuel	nongold
+72	oil is a kind of energy resource	nongold
+73	solar energy is a kind of energy	nongold
+74	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+75	if something releases something else then that something is the source of that something else	nongold
+76	provide is similar to give; make	nongold
+77	petroleum is a kind of fossil fuel	nongold
+78	production is similar to making	nongold
+79	Atlantic Ocean is a kind of ocean	nongold
+80	causing is similar to generating	nongold
+81	renewable resources are replenished more quickly than they are used	nongold
+82	can be means able to be	nongold
+83	high tide is a stage in the tide cycle process	nongold
+84	to generate means to create	nongold
+85	solar power means solar energy	nongold
+86	hydropower is a kind of alternative energy resource	nongold
+87	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+88	natural gas is a nonrenewable resource	nongold
+89	a producer is a kind of living thing	nongold
+90	oceans contains most of  earth's water	nongold
+91	green plants are a kind of producer	nongold
+92	plants are a kind of resource	nongold
+93	a power plant converts chemical energy from energy source into electricity	nongold
+94	to depend on; to rely on; to need means to require	nongold
+95	waves contain mechanical energy	nongold
+96	nature is the source of natural resources	nongold
+97	creating means making	nongold
+98	a supply of something is a source of that something	nongold
+99	providing something means making;delivering something	nongold

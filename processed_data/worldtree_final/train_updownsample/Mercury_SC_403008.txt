@@ -1,0 +1,60 @@
+0	Which tool is best used to collect information about the weather?	question
+1	instrument means tool	gold
+2	best means most positive	nongold
+3	An example of collecting data is measuring	gold
+4	to produce means to create	nongold
+5	thermometer	answer
+6	cold is a kind of weather	nongold
+7	precipitation is a kind of weather	nongold
+8	data means information	gold
+9	atmosphere means  air	nongold
+10	Which tool is best used to collect information about the weather?	question
+11	a thermometer is used to measure temperature	gold
+12	measuring requires reading a measurement	nongold
+13	knowing the properties of something means knowing information about that something	nongold
+14	a thermometer is used to measure temperature	gold
+15	a thermometer is a kind of instrument for measuring temperature	gold
+16	thermometer	answer
+17	process is similar to method	nongold
+18	to collect means to gather	nongold
+19	a cloud is a kind of weather	nongold
+20	temperature is a property of weather	gold
+21	thermometer	answer
+22	form means kind	nongold
+23	a type is synonymous with a kind	nongold
+24	if studying something is used to learn about something then that something is a source of information	nongold
+25	thermosphere is a  layer of Earth's atmosphere	nongold
+26	to measure means to calculate	nongold
+27	weather is a source of wind and water for the weathering process	nongold
+28	a thermometer is used to measure temperature	gold
+29	instrument means device	nongold
+30	clear weather means sunny; not cloudy; not rainy weather	nongold
+31	An example of collecting data is measuring	gold
+32	learning about something sometimes requires observing that something	nongold
+33	device means tool	nongold
+34	a thermometer is a kind of instrument for measuring temperature	gold
+35	approximately means about	nongold
+36	can be means able to be	nongold
+37	Which tool is best used to collect information about the weather?	question
+38	data means information	gold
+39	a property is a kind of information	nongold
+40	measuring is used for describing an object	nongold
+41	calculation means measurement	nongold
+42	temperature is a property of weather	gold
+43	tool is similar to appliance	nongold
+44	a measurement is a kind of data	nongold
+45	Which tool is best used to collect information about the weather?	question
+46	a vehicle is a kind of tool for travel; transport	nongold
+47	instrument means tool	gold
+48	thermometer	answer
+49	data means information	gold
+50	location is a kind of information	nongold
+51	temperature is a property of weather	gold
+52	a thermometer is a kind of instrument for measuring temperature	gold
+53	days are a kind of unit for measuring time	nongold
+54	An example of collecting data is measuring	gold
+55	satellite technology is used for predicting the weather	nongold
+56	condensing is similar to collecting	nongold
+57	instrument means tool	gold
+58	answering questions requires information	nongold
+59	inventing a tool allows; enables that tool to be used	nongold

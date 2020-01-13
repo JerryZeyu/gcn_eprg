@@ -1,0 +1,101 @@
+0	classification is a kind of process	nongold
+1	a kind of something is classified as that something	gold
+2	a compound is made of two or more elements that have been chemically combined	nongold
+3	all elements are a kind of pure substance	nongold
+4	a hydrocarbon molecule is made of hydrogen and carbon by being chemically combined	nongold
+5	zinc is a kind of metal	nongold
+6	chlorine is a kind of element	nongold
+7	to change means to become different	nongold
+8	sodium is a kind of metal	nongold
+9	substances are made of matter	nongold
+10	to decompose means to separate	nongold
+11	to be made of something means to be formed of that something	nongold
+12	hydrogen is a kind of element	nongold
+13	an element is made of one kind of atoms	nongold
+14	a nonmetal is a kind of element	nongold
+15	an element.	answer
+16	an atom is exceptionally small in size	nongold
+17	a compound is a kind of substance	nongold
+18	a chemical reaction is a kind of process	nongold
+19	a type is synonymous with a kind	nongold
+20	including means containing	nongold
+21	decomposition is when a decomposer breaks down dead organisms	nongold
+22	to belong to a class means to be a kind of something	nongold
+23	substances are made of elements	nongold
+24	an mixture is formed by two or more substances combined together physically	nongold
+25	atom cannot be divided into smaller substances	nongold
+26	form means kind	nongold
+27	chemical reactions cause new substances; different substances to form	nongold
+28	elements on the right side of the Periodic Table of Elements are gases at room temperature	nongold
+29	a pure substance is made of only one kind of atom; molecule	nongold
+30	an element is a kind of  substance	nongold
+31	an atom is made of protons; neutrons; electrons	nongold
+32	oxygen; selenium; sulfur; tellurium; polonium is located in group 16; oxygen family on the periodic table	nongold
+33	iron sulfide is made of iron and sulfur	nongold
+34	chemical compounds contain chemical bonds between atoms; between elements	nongold
+35	the structure  of an atom can be used for identifying the element	nongold
+36	sodium is a kind of element	nongold
+37	an atom is a kind of object	nongold
+38	the properties of something can be used to identify; used to describe that something	nongold
+39	composition is a property of an object; matter	nongold
+40	composition means the (materials, substances) of which something is composed	nongold
+41	Because sulfur cannot be decomposed by simple chemical methods into two or more different substances, it is classified as	question
+42	structure is a property of an object; a material; a substance	nongold
+43	an element cannot be decomposed into two or more different substances by simple chemical methods	gold
+44	process is similar to method	nongold
+45	chemical reactions cause chemical change	nongold
+46	the chemistry of something is similar to what that something is made of	nongold
+47	a metal is a kind of element	nongold
+48	nonmetal means not metal	nongold
+49	substances have chemical properties	nongold
+50	hydrogen contains chemical energy	nongold
+51	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+52	decomposing is similar to separating	nongold
+53	both means two	nongold
+54	if something is made of something else then that something can be broken down into that something else	nongold
+55	can be means able to be	nongold
+56	an alkaline earth metal is a kind of element	nongold
+57	elements in noble gases family are gases at room temperature	nongold
+58	matter; materials; substances are made of atoms; particles	nongold
+59	made of is similar to contains	nongold
+60	chemical composition is a kind of property	nongold
+61	composed of means made of	nongold
+62	to cause means to make	nongold
+63	to decompose means to decay	nongold
+64	acidity is a property of chemicals; substances and includes ordered values of basic; neutral; acidic	nongold
+65	chemicals means substances	nongold
+66	chemical bonds are formed by chemically combining elements; atoms; molecules	nongold
+67	compound is a kind of chemical	nongold
+68	sulfur is a kind of element	gold
+69	argon is a kind of element	nongold
+70	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+71	to be formed by is similar to being produced by	nongold
+72	cannot means not be able to	nongold
+73	iron sulfide can be formed by heating a mixture of powdered iron and sulfur	nongold
+74	a halogen is a kind of element	nongold
+75	category means kind	nongold
+76	a decomposer is a kind of living thing	nongold
+77	carbon is a kind of element	nongold
+78	an  element is a kind of atom	nongold
+79	sulfur dioxide is formed by the combustion of fossil fuels	nongold
+80	hydrogen is a kind of gas at room temperature	nongold
+81	a chemical compound is a kind of compound	nongold
+82	elements in the same group on the Periodic Table of Elements have similar chemical reactivity	nongold
+83	An example of a chemical property is the elements a compound is made of	nongold
+84	sulfur is a kind of mineral	nongold
+85	to give is similar to to cause	nongold
+86	an atom is the smallest particle; unit that has the properties of an element	nongold
+87	to tell the difference between things means to classify those things	nongold
+88	classifying means grouping objects; materials by their properties	nongold
+89	nitrogen is a kind of element	nongold
+90	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+91	classifying is when one sorts something by kind; type	nongold
+92	if a substance is made of one element , then the substance is called an element	nongold
+93	a  gas is a kind of  element	nongold
+94	combining; mixing two substances chemically causes chemical reactions	nongold
+95	oxygen  is a kind of element	nongold
+96	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+97	nitrogen; arsenic; phosphorus; antimony is found in the nitrogen family on the periodic table	nongold
+98	tungsten is a kind of metal	nongold
+99	metal is a kind of substance	nongold
+100	a compound can be chemically separated into the elements that it is made of	nongold

@@ -1,0 +1,102 @@
+0	Which comparison of ecosystems is true?	question
+1	Grasslands get more rain than deserts.	answer
+2	a grassland environment receives more rainfall than a desert	gold
+3	rainfall means the amount of precipitation	nongold
+4	a forest environment receives more rainfall than a desert	nongold
+5	rain is a kind of precipitation	nongold
+6	rainfall means precipitation	nongold
+7	a desert environment receives low rainfall	nongold
+8	a desert is a kind of environment	gold
+9	a grassland is a kind of environment	gold
+10	rain is a kind of water	nongold
+11	a desert environment is low in availability of water; availability of food	nongold
+12	a desert environment is dry	nongold
+13	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+14	rainfall is the amount of rain an area receives	gold
+15	rain is a source of water	nongold
+16	rainy means often raining	nongold
+17	an environment is similar to an ecosystem	gold
+18	an ecosystem is a kind of habitat	nongold
+19	precipitation is when water falls from the sky	nongold
+20	getting something increases the amount of that something	nongold
+21	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+22	a desert environment usually has a lot of sunlight	nongold
+23	a desert is a kind of land feature	nongold
+24	precipitation is a kind of natural occurrence; cause	nongold
+25	precipitation is a kind of weather	nongold
+26	an environment means an area	gold
+27	increase means more	nongold
+28	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+29	precipitation is a property of weather	nongold
+30	habitat is similar to environment	nongold
+31	less means a reduced amount	nongold
+32	clouds produce rain	nongold
+33	precipitation is a kind of  natural process	nongold
+34	less is the opposite of more	nongold
+35	less is similar to decrease	nongold
+36	an increase is the opposite of a decrease	nongold
+37	receive means get	gold
+38	a forest is a kind of ecosystem	nongold
+39	vegetation means plants	nongold
+40	nature means a natural environment	nongold
+41	land is a kind of environment	nongold
+42	comparing requires measuring	nongold
+43	clouds produce precipitation	nongold
+44	an ecosystem contains a large community of; large numbers of living organisms	nongold
+45	rain; snow falls	nongold
+46	a meadow is a kind of environment	nongold
+47	organisms are a part of an environment	nongold
+48	Antarctica is a kind of desert	nongold
+49	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+50	rainy is a kind of weather	nongold
+51	average amount of precipitation is a property of climate	nongold
+52	high is similar to increase	nongold
+53	grass is a kind of green plant	nongold
+54	to reduce means to decrease	nongold
+55	a source of something increases the amount of that something	nongold
+56	to depend on; to rely on; to need means to require	nongold
+57	a rain forest is a kind of forest	nongold
+58	the Earth contains many ecosystems	nongold
+59	an organism is a living thing	nongold
+60	weather is a property of a environment	nongold
+61	to lower means to decrease	nongold
+62	a region is similar to an environment	nongold
+63	classifying requires comparing	nongold
+64	a desert environment usually is hot in temperature	nongold
+65	a forest is a kind of environment	nongold
+66	a plant is a kind of living thing	nongold
+67	a climate is synonymous with an environment	nongold
+68	a forest contains  lots of plants; trees	nongold
+69	low is similar to decrease	nongold
+70	a source of something emits; produces; generates; provides that something	nongold
+71	an area receiving rain means rain falling in that area	nongold
+72	an environment is a kind of place	nongold
+73	an animal is a kind of living thing	nongold
+74	storms;rain cause bodies of water to increase amount of water they contain	nongold
+75	fewer means lower; less in number	nongold
+76	surroundings means environment	nongold
+77	a plant is a kind of organism	nongold
+78	lack of moisture in the air causes low amounts of rainfall	nongold
+79	plants are a part of the environment	nongold
+80	a wetland is a kind of ecosystem	nongold
+81	greatest means largest; highest; most amount of something	nongold
+82	landscape is similar to land	nongold
+83	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+84	greater means higher; more in value	nongold
+85	as the amount of rain increases in an environment , available sunlight will decrease in that environment	nongold
+86	quantity means amount	nongold
+87	a plant; living thing requires food for survival	nongold
+88	an animal is a kind of organism	nongold
+89	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+90	a decrease is a kind of change	nongold
+91	to add means to increase	nongold
+92	comparing requires observing that something	nongold
+93	an increase is a kind of change	nongold
+94	a type is synonymous with a kind	nongold
+95	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+96	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+97	dry means low in amount of water; wetness; moisture	nongold
+98	one can get something from a source	nongold
+99	rainstorm means rain storm	nongold
+100	if something causes an increase in something else then that something produces that something else	nongold
+101	most means over 50% of something	nongold

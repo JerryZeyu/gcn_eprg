@@ -1,0 +1,102 @@
+Question	Female seals usually return to the same beaches year after year to give birth. If they are repeatedly disturbed by humans at those beaches, how will the seals most likely respond?	question
+Answer	They will give birth at different beaches.	answer
+0	seals every year return to the same beaches to give birth	gold
+1	if humans disturb animals in a location then those animals will move to a different location	gold
+2	a beach is a kind of location	gold
+3	a beach is a kind of habitat; environment	nongold
+4	a beach is usually part of an island	nongold
+5	a body of water meets land at a beach	nongold
+6	a seal is a kind of animal	gold
+7	a seal is a kind of sea mammal	nongold
+8	a shore is the land found at the edge of a body of water	nongold
+9	a cycle happens; occurs repeatedly	nongold
+10	an ocean is a kind of body of water	nongold
+11	a body of water is a kind of environment	nongold
+12	mammals birth; give birth to live young	nongold
+13	a coast is where land meets the edge of a body of water	nongold
+14	a human is a kind of animal	nongold
+15	a human is a kind of mammal	nongold
+16	often is similar to likely	nongold
+17	to change means to become different	nongold
+18	sand is a part of a beach	nongold
+19	a coast is a kind of environment	nongold
+20	humans changing animal habitats usually causes harm to those animals	nongold
+21	humans live on land	nongold
+22	an animal is a kind of organism	nongold
+23	an environment is a kind of place	nongold
+24	an animal is a kind of living thing	nongold
+25	an organism is a living thing	nongold
+26	human is a kind of organism	nongold
+27	place is synonymous with location	nongold
+28	a bay is a kind of body of water	nongold
+29	a hatchling is a kind of newborn; baby; young bird	nongold
+30	a living thing is a kind of object	nongold
+31	annual means once per year	nongold
+32	different seasons occur during different times of the year	nongold
+33	if something changes , then that something is not the same	nongold
+34	bodies of water are located on Earth's surface	nongold
+35	another means different	nongold
+36	place means area	nongold
+37	events occur at a specific place; at a specific time; with a specific frequency	nongold
+38	motion is when moves an object; something to a direction	nongold
+39	if something moves then that something is in a different location	nongold
+40	a surface is a part of an object	nongold
+41	a mammal is a kind of animal	nongold
+42	coastline means coast	nongold
+43	newborn means just born	nongold
+44	some adult animals lay eggs	nongold
+45	returning is similar to bringing	nongold
+46	an environment means an area	nongold
+47	an animal being born; being hatched when temperatures are warm has a positive impact on that animal's survival; health	nongold
+48	harming something has a  negative impact on; effect on that something	nongold
+49	to happen means to occur	nongold
+50	a mother births offspring	nongold
+51	waves are made of moving water	nongold
+52	live birth means developing inside the mother instead of an egg	nongold
+53	returning is a kind of movement	nongold
+54	different is the opposite of the same	nongold
+55	different organisms reproduce differently	nongold
+56	usually means most of the time	nongold
+57	an animal being born; being hatched when food is available has a positive impact on that animal's survival; health	nongold
+58	stay the same means not changing	nongold
+59	if an animal hatches from an egg then that animal is born	nongold
+60	a landform is a kind of place	nongold
+61	a landform is a kind of place	nongold
+62	a mother is a kind of female parent	nongold
+63	animals usually distance themselves from humans	nongold
+64	to return means to get back	nongold
+65	sea means ocean	nongold
+66	usually a body of water is located outside	nongold
+67	organisms are a part of an environment	nongold
+68	an animal is a member of an animal species	nongold
+69	eggs become baby animals	nongold
+70	a body of water contains water	nongold
+71	place means space	nongold
+72	animals reproduce sexually	nongold
+73	reproduction produces; produce offspring	nongold
+74	opposite is a kind of different	nongold
+75	a baby is a kind of young animal	nongold
+76	each season occurs once per year	nongold
+77	some animals have offspring by laying eggs	nongold
+78	laying eggs is a kind of property of an animal	nongold
+79	typically means usually	nongold
+80	if something returns to a place then that something increases in that place	nongold
+81	to remain means to stay the same	nongold
+82	to give is similar to to cause	nongold
+83	a body of water is a kind of land feature	nongold
+84	a coastal area is a kind of environment	nongold
+85	sexual reproduction in animals is when egg; sperm join together	nongold
+86	a deep sea animal is a kind of marine organism	nongold
+87	same means identical; equal in value; amount; number; quantity	nongold
+88	affected means changed	nongold
+89	migration is when animals move to different locations in an annual cycle	nongold
+90	an island is a kind of landform	nongold
+91	newly hatched is similar to just born	nongold
+92	a coast is a coastal area	nongold
+93	high is similar to increase	nongold
+94	two objects are usually different in size	nongold
+95	ocean animal is similar to water animal	nongold
+96	to reproduce means to have; to produce offspring	nongold
+97	attracting something to a location causes that something  to be near that location	nongold
+98	surroundings means environment	nongold
+99	if something required by something else is in a place then that something else may be in that place	nongold

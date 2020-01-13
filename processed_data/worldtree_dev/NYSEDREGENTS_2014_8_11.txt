@@ -1,0 +1,102 @@
+Question	A body cell that is undergoing abnormal cell division is most likely	question
+Answer	forming cancerous cells	answer
+0	cancer is a kind of abnormal cell division	nongold
+1	cancerous cells are formed by abnormal cell division	gold
+2	a body cell means a somatic cell	nongold
+3	cell division is a kind of process	nongold
+4	form is similar to body	nongold
+5	cells are a part of the body	nongold
+6	cell division often causes growth; healing	nongold
+7	to cause the formation of means to form	nongold
+8	often is similar to likely	nongold
+9	becoming is similar to forming	nongold
+10	the body is a part of an organism	nongold
+11	creating is similar to causing	nongold
+12	cell division increases the number of cells in the body	nongold
+13	cell division means cell reproduction	nongold
+14	develop is similar to form	nongold
+15	the formation of something is a kind of process	nongold
+16	if something is made of something else then the formation of that something requires that something else	nongold
+17	an animal cell is a kind of cell	nongold
+18	the cell cycle is when a cell forms new cells	nongold
+19	to increase is similar to to create	nongold
+20	to form means to create	nongold
+21	products are formed; are produced; are created	nongold
+22	breaking down is a kind of forming	nongold
+23	to make means to form	nongold
+24	to be made of something means to be formed of that something	nongold
+25	if something causes a process then that something is required for that process	nongold
+26	producing is similar to causing	nongold
+27	to generate means to form	nongold
+28	forming something is a kind of change	nongold
+29	to happen means to occur	nongold
+30	a plant cell is a kind of cell	nongold
+31	to be formed by is similar to being produced by	nongold
+32	forming is a kind of action	nongold
+33	multicellular organisms produce more cells through cell division	nongold
+34	a body part is a kind of object	nongold
+35	a process usually requires all of the stages in that process	nongold
+36	if something causes an increase in something else then that something produces that something else	nongold
+37	a human cell is a kind of cell	nongold
+38	to be a source of something means to cause that something	nongold
+39	a part of a process means a stage in a process	nongold
+40	a process is a kind of event	nongold
+41	an organism is a living thing	nongold
+42	a living thing is made of cells	nongold
+43	cell activity means cell process	nongold
+44	an autoimmune disease is when the body attacks its own tissues	nongold
+45	to produce means to create	nongold
+46	a cell is very small	nongold
+47	state means form	nongold
+48	a body system is a part of the body; an animal	nongold
+49	an increase is the opposite of a decrease	nongold
+50	a cell nucleus is a part of a cell	nongold
+51	can be means able to be	nongold
+52	the cell membrane is a part of a cell	nongold
+53	to create means to make	nongold
+54	an increase is a kind of change	nongold
+55	forming is similar to growing	nongold
+56	if something releases something else then that something is the source of that something else	nongold
+57	an animal is a kind of organism	nongold
+58	form means kind	nongold
+59	to cause means to result in	nongold
+60	something that happens is a kind of event	nongold
+61	internal organs are a part of the body	nongold
+62	bone cells are a part of the body	nongold
+63	an event is a kind of action	nongold
+64	to be formed by is to be the result of	nongold
+65	a component of something means a part of that something	nongold
+66	forming is similar to converting	nongold
+67	the parent cell is the original cell	nongold
+68	usually means most of the time	nongold
+69	a source of something emits; produces; generates; provides that something	nongold
+70	affected means changed	nongold
+71	producing is a kind of process	nongold
+72	events occur at a specific place; at a specific time; with a specific frequency	nongold
+73	a decrease is a kind of change	nongold
+74	to change into means to form	nongold
+75	decomposing is similar to separating	nongold
+76	made up of means contains; made of	nongold
+77	converting is similar to producing	nongold
+78	a plant is made of plant cells	nongold
+79	a plant is a kind of organism	nongold
+80	creating means making	nongold
+81	a cell is a kind of object	nongold
+82	composed of means made of	nongold
+83	classifying is when one sorts something by kind; type	nongold
+84	to be used for something means to be required by that something	nongold
+85	a type is synonymous with a kind	nongold
+86	a vehicle for something allows; enables that something to occur	nongold
+87	an animal is a kind of living thing	nongold
+88	high is similar to increase	nongold
+89	producing is similar to releasing	nongold
+90	to lower means to decrease	nongold
+91	a change is a kind of event	nongold
+92	to generate means to create	nongold
+93	a component means a part of	nongold
+94	to produce means to result in	nongold
+95	if something is made of something else then that something can be broken down into that something else	nongold
+96	formation of a state of matter is a kind of process	nongold
+97	a cause of something is a reason for that something	nongold
+98	a step in a process means a stage in a process	nongold
+99	a structure of something is synonymous with a part of that something	nongold

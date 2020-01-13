@@ -1,0 +1,60 @@
+0	atmospheric means of the atmosphere	nongold
+1	requiring something means needing that something	nongold
+2	humans require fresh water to survive	gold
+3	water vapor is found in the atmosphere	nongold
+4	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+5	if something comes from something else then that something else is a source of that something	nongold
+6	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+7	oceans are the source of most of water vapor in the atmosphere	gold
+8	survival means to survive	nongold
+9	Humans cannot survive without clean, fresh water. Reservoirs of liquid water vary, but all water spends time as a gas in the atmosphere. What is the source of most of the water in the atmosphere?	question
+10	Humans cannot survive without clean, fresh water. Reservoirs of liquid water vary, but all water spends time as a gas in the atmosphere. What is the source of most of the water in the atmosphere?	question
+11	a body of water contains water	nongold
+12	a human is a kind of animal	nongold
+13	organisms are a part of an environment	nongold
+14	water contains dissolved oxygen	nongold
+15	to be filled with means to contain	nongold
+16	to give off means to be the source of	nongold
+17	a water reservoir contains; stores water	nongold
+18	oceans contains most of  earth's water	gold
+19	to depend on; to rely on; to need means to require	nongold
+20	oceans contains most of  earth's water	gold
+21	human is a kind of organism	nongold
+22	water is a kind of substance	nongold
+23	Humans cannot survive without clean, fresh water. Reservoirs of liquid water vary, but all water spends time as a gas in the atmosphere. What is the source of most of the water in the atmosphere?	question
+24	Humans cannot survive without clean, fresh water. Reservoirs of liquid water vary, but all water spends time as a gas in the atmosphere. What is the source of most of the water in the atmosphere?	question
+25	person is synonymous with human	nongold
+26	low is similar to decrease	nongold
+27	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+28	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	gold
+29	an animal is a kind of organism	nongold
+30	oceans contains most of  earth's water	gold
+31	humans require fresh water to survive	gold
+32	if something releases something else then that something is the source of that something else	nongold
+33	an ocean is a kind of body of water	nongold
+34	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+35	water is a kind of liquid at room temperature	nongold
+36	a body of water is a source of water	nongold
+37	fresh water means freshwater	nongold
+38	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	gold
+39	oceans	answer
+40	an animal is a kind of living thing	nongold
+41	heat means heat energy	nongold
+42	if something requires something else then that something requires a source of that something else	nongold
+43	temperature is a measure of heat energy	nongold
+44	if something gains something from something else then that something else is a source of that something	nongold
+45	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	gold
+46	humans require fresh water to survive	gold
+47	water is a part of an environment	nongold
+48	the ocean contains large amounts of salt water	nongold
+49	oceans	answer
+50	to be used for something means to be required by that something	nongold
+51	oceans	answer
+52	largest amount means most	nongold
+53	an animal; bacterium requires oxygen for survival; to breathe	nongold
+54	survive means live	nongold
+55	oceans are the source of most of water vapor in the atmosphere	gold
+56	oceans are the source of most of water vapor in the atmosphere	gold
+57	to lower means to decrease	nongold
+58	oceans	answer
+59	mostly means being the most	nongold

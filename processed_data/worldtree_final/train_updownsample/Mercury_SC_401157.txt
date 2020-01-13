@@ -1,0 +1,76 @@
+0	electrocution causes harm to an organism	gold
+1	insulation requires an insulator	nongold
+2	protecting something means preventing harm to that something	gold
+3	a user is a kind of person	gold
+4	covering something is a kind of protection	nongold
+5	an insulator is the opposite of a conductor	gold
+6	harm means injury	nongold
+7	better means good	nongold
+8	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+9	a type is synonymous with a kind	nongold
+10	to help; to benefit means to be of use	nongold
+11	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+12	an electrical insulator slows; prevents the transfer of; flow of electricity	gold
+13	if an object is made of a material then that object has the properties of that material	nongold
+14	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+15	electrical insulation requires wrapping a conductor in an insulator	gold
+16	a user is a kind of person	gold
+17	insulator means good insulator	gold
+18	harming something has a  negative impact on; effect on that something	nongold
+19	plastic is usually an electrical insulator	gold
+20	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	gold
+21	protecting is a kind of function	nongold
+22	to serve as means to be used as	nongold
+23	a tool is a kind of object	nongold
+24	plastic is microwave-safe	nongold
+25	plastic is usually an electrical insulator	gold
+26	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+27	insulator means good insulator	gold
+28	electrical insulation requires wrapping a conductor in an insulator	gold
+29	best means most positive	nongold
+30	conducting is a kind of function	nongold
+31	a human is a kind of animal	gold
+32	conductivity is a property of a material; substance	nongold
+33	a human is a kind of animal	gold
+34	is a good electrical insulator.	answer
+35	a circuit is a kind of electrical component	nongold
+36	damage has a negative impact on a thing	nongold
+37	a human is a kind of animal	gold
+38	an object has properties	nongold
+39	is a good electrical insulator.	answer
+40	a device is a kind of object	nongold
+41	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	gold
+42	plastic is usually an electrical insulator	gold
+43	electrical devices are used for industrial purposes; household purposes by humans	nongold
+44	carrying is similar to conducting	nongold
+45	an insulator is the opposite of a conductor	gold
+46	A conducting wire wrapped in plastic protects the user because the plastic	question
+47	to protect means to defend	nongold
+48	A conducting wire wrapped in plastic protects the user because the plastic	question
+49	protecting something means preventing harm to that something	gold
+50	an electrical insulator slows; prevents the transfer of; flow of electricity	gold
+51	a user is a kind of person	gold
+52	is a good electrical insulator.	answer
+53	thermal insulation requires covering the conductor with an insulator	nongold
+54	harm means danger	nongold
+55	to protect means to make safe	nongold
+56	protecting something means preventing harm to that something	gold
+57	electrical insulation requires wrapping a conductor in an insulator	gold
+58	electrocution causes harm to an organism	gold
+59	electricity means electrical energy	nongold
+60	electric shock occurs when a person contacts a source of electrical energy	nongold
+61	helping something has a  positive impact on that something	nongold
+62	a wire is a part of an electrical circuit for conducting electricity	nongold
+63	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	gold
+64	A conducting wire wrapped in plastic protects the user because the plastic	question
+65	electrocution causes harm to an organism	gold
+66	an electrical insulator slows; prevents the transfer of; flow of electricity	gold
+67	insulator means good insulator	gold
+68	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	gold
+69	plastic is a kind of electrical insulator	nongold
+70	A conducting wire wrapped in plastic protects the user because the plastic	question
+71	an insulator is the opposite of a conductor	gold
+72	plastic is recyclable	nongold
+73	to conduct is similar to to transfer	nongold
+74	plastic is a kind of thermal insulator	nongold
+75	is a good electrical insulator.	answer

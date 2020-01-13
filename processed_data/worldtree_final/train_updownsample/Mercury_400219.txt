@@ -1,0 +1,58 @@
+0	high is similar to increase	nongold
+1	a behavior is a kind of characteristic	gold
+2	an adaptation is a kind of characteristic	nongold
+3	An example of playing with toys is jumping to catch a ball	gold
+4	playing with toys is a learned characteristic	gold
+5	motion; movement means moving; to move	nongold
+6	An example of playing with toys is jumping to catch a ball	gold
+7	a behavior is a kind of characteristic	gold
+8	a predator is a kind of animal	nongold
+9	Which dog trait is a learned behavior?	question
+10	trait is synonymous with characteristic	gold
+11	locomotion is a generally learned behavior	nongold
+12	determining is similar to learning	nongold
+13	fur is often part of an animal	nongold
+14	a component of something means a part of that something	nongold
+15	jumping to catch a ball	answer
+16	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+17	walking is a kind of behavior	nongold
+18	personality is an acquired characteristic	nongold
+19	trait is synonymous with characteristic	gold
+20	Which dog trait is a learned behavior?	question
+21	senses are an inherited characteristic	nongold
+22	jumping to catch a ball	answer
+23	instruction is a kind of information	nongold
+24	an event is a kind of action	nongold
+25	flying is a kind of motion through air; space	nongold
+26	a living thing is a kind of object	nongold
+27	An example of playing with toys is jumping to catch a ball	gold
+28	can be means able to be	nongold
+29	fur is usually part of a mammal	nongold
+30	jumping to catch a ball	answer
+31	what an object is made of is a kind of characteristic	nongold
+32	to land on the ground means to hit the ground	nongold
+33	following orders is a learned characteristic	nongold
+34	rolling is a kind of motion	nongold
+35	a behavior is a kind of characteristic	gold
+36	to act on means to affect	nongold
+37	a dog weighs, on average 32 kg	nongold
+38	learning; studying information causes one to know that information	nongold
+39	intelligence is an acquired characteristic	nongold
+40	jumping to catch a ball	answer
+41	fast means quickly	nongold
+42	an animal is a kind of living thing	nongold
+43	speed is a property of an object and includes values of slow; fast	nongold
+44	social behavior is a kind of learned behavior	nongold
+45	Which dog trait is a learned behavior?	question
+46	using tools is a learned characteristic	nongold
+47	moving is similar to travelling	nongold
+48	trait is synonymous with characteristic	gold
+49	communication is a learned behavior	nongold
+50	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+51	the color of; coloration of fur is an inherited characteristic	nongold
+52	playing with toys is a learned characteristic	gold
+53	Which dog trait is a learned behavior?	question
+54	playing with toys is a learned characteristic	gold
+55	trait is a kind of genetic information	nongold
+56	species is an inherited characteristic	nongold
+57	an animal requires energy to move	nongold

@@ -1,0 +1,101 @@
+0	damage means harm	nongold
+1	providing is a kind of function	nongold
+2	providing support is a kind of function	nongold
+3	shelter is a kind of place;building;structure for protection	nongold
+4	to help means to aid	nongold
+5	an event is a kind of action	nongold
+6	protecting is a kind of function	nongold
+7	the body is a part of an organism	nongold
+8	organs are made of different types of  cellular tissues	nongold
+9	life means living things	nongold
+10	a body system is a kind of object	nongold
+11	most means over 50% of something	nongold
+12	the integumentary system is a kind of body; organ system	nongold
+13	the muscular system contains muscles	nongold
+14	causing is a kind of function	nongold
+15	a function is a kind of characteristic	nongold
+16	a structure is a kind of feature	nongold
+17	provide is similar to give; make	nongold
+18	the skeletal system is a kind of body system	nongold
+19	being used for is similar to providing	nongold
+20	a limb often contains bones	nongold
+21	to hurt means to harm	nongold
+22	harming something has a  negative impact on; effect on that something	nongold
+23	inhibitor means something that prevents something from happening	nongold
+24	greatest means largest; highest; most amount of something	nongold
+25	if something causes a process then that something is required for that process	nongold
+26	the skeletal system protects internal organs	gold
+27	can be means able to be	nongold
+28	best means most positive	nongold
+29	anatomy studies the body structure of organisms	nongold
+30	a structure of something is synonymous with a part of that something	nongold
+31	providing structure is a kind of function	nongold
+32	helping something has a  positive impact on that something	nongold
+33	organs are a smaller level of organization than organ systems in living things	nongold
+34	a type is synonymous with a kind	nongold
+35	human is similar to individual	nongold
+36	a human is a kind of mammal	nongold
+37	a whole is formed by its parts	nongold
+38	requiring is similar to needing help	nongold
+39	a skeletal system is a part of an animal for providing support; providing shape; providing protection	gold
+40	structure is a property of an object; a material; a substance	nongold
+41	answering questions requires information	nongold
+42	a skeletal system is a part of an animal	gold
+43	Which system of the human body provides protection to most of the major organs?	question
+44	limbs are part of an animal	nongold
+45	a component of something means a part of that something	nongold
+46	protection means resistance to damage increases	nongold
+47	high is similar to increase	nongold
+48	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+49	to protect means to make safe	nongold
+50	all the other means the rest of	nongold
+51	harm means injury	nongold
+52	human is a kind of organism	nongold
+53	system is similar to structure	nongold
+54	form is similar to body	nongold
+55	to depend on; to rely on; to need means to require	nongold
+56	usually means most of the time	nongold
+57	skeletal system is made of bones	gold
+58	unit is similar to part	nongold
+59	to protect means to defend	nongold
+60	a body system is a part of the body; an animal	nongold
+61	the skeletal system gives structure to the body in animals	nongold
+62	protecting something means preventing harm to that something	nongold
+63	muscles push; pull bones to move the bones	nongold
+64	the muscular system is a kind of body; organ system	nongold
+65	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+66	a component means a part of	nongold
+67	if two things perform the same function then those two things are similar	nongold
+68	covering something is a kind of protection	nongold
+69	to help; to benefit means to be of use	nongold
+70	death means to die	nongold
+71	broken bones require healing	nongold
+72	system means a set of objects	nongold
+73	the function of something is what that something  is used to do	nongold
+74	if something is required then that something must be provided	nongold
+75	a source of something emits; produces; generates; provides that something	nongold
+76	internal organs are a part of the body	nongold
+77	organ system means body system	nongold
+78	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+79	an organism is a living thing	nongold
+80	an animal is a kind of organism	nongold
+81	mostly means being the most	nongold
+82	an animal is a kind of living thing	nongold
+83	affected means changed	nongold
+84	muscle tissue is a kind of tissue	nongold
+85	a body part is a kind of object	nongold
+86	a living thing is a kind of object	nongold
+87	something harmful can cause harm	nongold
+88	to provide something means to be the source of that something	nongold
+89	if something contains something , then something is able to provide something	nongold
+90	a human is a kind of animal	gold
+91	to be used for something means to be required by that something	nongold
+92	a bone is a part of a body	nongold
+93	a mechanism is a kind of system that performs a function	nongold
+94	tissues are a smaller level of organization than organs in living things	nongold
+95	skeletal system	answer
+96	a bone is a part of some animals	nongold
+97	the skeleton is a part of the skeletal system	nongold
+98	an organ system is made of different parts of the body working together	nongold
+99	an object is made of its parts	nongold
+100	something hard; something strong can be used for protection	gold

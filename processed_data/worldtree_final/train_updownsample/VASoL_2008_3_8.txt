@@ -1,0 +1,79 @@
+0	amount of sunlight causes changing weather patterns	nongold
+1	staying cool is the opposite of becoming hot	nongold
+2	temperature is a property of weather	nongold
+3	clear weather means sunny; not cloudy; not rainy weather	gold
+4	cool means cold	nongold
+5	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+6	keeping warm is the opposite of becoming  cold	nongold
+7	hot means high in heat energy; temperature	gold
+8	warm means medium heat energy; temperature	gold
+9	if something is outside during the day then that something will receive sunlight	gold
+10	cold means low in temperature	nongold
+11	shade means low sunlight	nongold
+12	as temperature during the day increases , the temperature in an environment will increase	nongold
+13	if one object absorbs more energy than another object , then the  object will be warmer	nongold
+14	heating means adding heat	gold
+15	Where will a sidewalk feel hottest on a warm, clear day?	question
+16	heat energy is synonymous with thermal energy	nongold
+17	a surface is a part of an object	nongold
+18	summer has hot temperatures; weather	nongold
+19	if something is outside during the day then that something will receive sunlight	gold
+20	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+21	hot means high in heat energy; temperature	gold
+22	near; close is the opposite of far; away	nongold
+23	Where will a sidewalk feel hottest on a warm, clear day?	question
+24	the sidewalk is a kind of object	gold
+25	asphalt is a kind of road surface	nongold
+26	solar energy is a kind of heat energy	nongold
+27	a sunny day has  lots of sunlight	gold
+28	warm means medium heat energy; temperature	gold
+29	receiving sunlight  is synonymous with absorbing sunlight	nongold
+30	to receive sunlight means to absorb sunlight	nongold
+31	Where will a sidewalk feel hottest on a warm, clear day?	question
+32	absorbing sunlight causes objects to heat	gold
+33	feeling is when an living thing senses through touch	nongold
+34	adding heat means increasing temperature	gold
+35	asphalt is a smooth surface	nongold
+36	increase means more	nongold
+37	a sidewalk is located outside	gold
+38	daylight is when the sun shines on a location	nongold
+39	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	gold
+40	a sunny day has  lots of sunlight	gold
+41	absorbing sunlight causes objects to heat	gold
+42	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	gold
+43	a sunny day has  lots of sunlight	gold
+44	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	gold
+45	In direct sunlight	answer
+46	heating means adding heat	gold
+47	the sidewalk is a kind of object	gold
+48	if something is outside during the day then that something will receive sunlight	gold
+49	In direct sunlight	answer
+50	the sidewalk is a kind of object	gold
+51	adding heat means increasing temperature	gold
+52	In direct sunlight	answer
+53	a hot substance is a source of heat	nongold
+54	to get hot means become hot	nongold
+55	a sidewalk is located outside	gold
+56	the sunlight occurs during the day	nongold
+57	sunlight means solar energy	nongold
+58	clear weather means sunny; not cloudy; not rainy weather	gold
+59	absorbing sunlight causes objects to heat	gold
+60	hot means high in heat energy; temperature	gold
+61	warm; becoming warm means heat is added	nongold
+62	if an object; something is in the sunlight then that object; that something will absorb solar energy	gold
+63	adding heat means increasing temperature	gold
+64	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+65	heat means heat energy	nongold
+66	person is synonymous with human	nongold
+67	if an object; something is in the sunlight then that object; that something will absorb solar energy	gold
+68	heating means adding heat	gold
+69	warm means medium heat energy; temperature	gold
+70	if an object; something is in the sunlight then that object; that something will absorb solar energy	gold
+71	a sidewalk is located outside	gold
+72	a car is a kind of object	nongold
+73	In direct sunlight	answer
+74	Where will a sidewalk feel hottest on a warm, clear day?	question
+75	furthest; farthest means greatest; most; highest in distance	nongold
+76	clear weather means sunny; not cloudy; not rainy weather	gold
+77	staying warm means keeping warm	nongold
+78	sunlight produces heat	nongold

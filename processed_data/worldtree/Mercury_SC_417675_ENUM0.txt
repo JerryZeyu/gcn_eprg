@@ -1,0 +1,102 @@
+Question	At night, the Moon is the brightest object in the sky. Where does the Moon's light come from?	question
+Answer	The Moon reflects light from the Sun.	answer
+0	reflection is when light is reflected from one object; one place to  another object; another place	nongold
+1	where something  comes from is a source of that something	gold
+2	the moon reflects sunlight towards the Earth	gold
+3	the sun is a source of light; light energy called sunlight	gold
+4	a moon is a kind of celestial object; body	nongold
+5	if something comes from something else then that something else is a source of that something	nongold
+6	an object; material; substance comes from that object or material's source	nongold
+7	sunlight is a kind of light	nongold
+8	the Moon is Earth's moon	nongold
+9	to reflect light means to scatter light	nongold
+10	planets reflect the light of the sun	nongold
+11	reflecting light; sound is the opposite of absorbing light; sound	nongold
+12	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+13	bright means a lot of light	nongold
+14	the Sun is a kind of star	nongold
+15	moons are large; solid; spherical	nongold
+16	a star is a kind of celestial object; celestial body	nongold
+17	shiny things; objects reflect light	nongold
+18	sunlight is a kind of solar energy	nongold
+19	reflection is a property of light	nongold
+20	light means light energy	nongold
+21	a source of something emits; produces; generates; provides that something	nongold
+22	sunlight means solar energy	nongold
+23	to bounce back means to reflect	nongold
+24	a planet is a kind of celestial object; body	nongold
+25	the moon is less bright than the sun	nongold
+26	to receive sunlight means to absorb sunlight	nongold
+27	the sun is not a star in the night sky	nongold
+28	the moon is the celestial object that is closest to the  Earth	nongold
+29	UV light is a kind of light	nongold
+30	type of moon; kind of moon means moon phase	nongold
+31	bright means bright; light in color	nongold
+32	receiving sunlight  is synonymous with absorbing sunlight	nongold
+33	the Moon is closer to the Earth than the Sun	nongold
+34	a living thing is a kind of object	nongold
+35	light is a kind of wave	nongold
+36	light is a kind of energy	nongold
+37	light is a kind of energy	nongold
+38	dark is the opposite of light	nongold
+39	solar energy is a kind of light	nongold
+40	if an object reflects light toward the eye then that object can be seen	nongold
+41	brightness means amount of light	nongold
+42	darkness occurs at night	nongold
+43	brighter means higher; greater in brightness	nongold
+44	to be formed by is similar to being produced by	nongold
+45	as the light reflected off of an object increases , the object will appear to be brighter	nongold
+46	the sun is the source of solar energy called sunlight	nongold
+47	emit means produce	nongold
+48	an animal is a kind of living thing	nongold
+49	can be means able to be	nongold
+50	reflection is a kind of process	nongold
+51	form means kind	nongold
+52	if something transfers something else then that something is a source of something else	nongold
+53	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+54	visible light is a kind of  light	nongold
+55	the sun is a kind of yellow dwarf	nongold
+56	to give off means to be the source of	nongold
+57	high is similar to increase	nongold
+58	being in the sun is synonymous with being in the sunlight	nongold
+59	a new moon is a kind of phase of the moon	nongold
+60	sunshine means sunlight	nongold
+61	if something is a raw material then that something comes directly from a source	nongold
+62	light reflecting off of an object causes that object to be visible to the observer	nongold
+63	objects are made of materials; substances; matter	nongold
+64	night is low in light; in visibility	nongold
+65	to shine means to emit light	nongold
+66	the new moon is when the lighted half of the moon faces the Sun	nongold
+67	Earth is a kind of planet	nongold
+68	dark means a low amount of light	nongold
+69	composed of means made of	nongold
+70	light is made of photons	nongold
+71	stars make their own light	nongold
+72	a human is a kind of animal	nongold
+73	reflection is when particles bounce off a surface	nongold
+74	to add means to increase	nongold
+75	to be in the sun means to be in the sunlight	nongold
+76	sunlight produces heat	nongold
+77	the sunlight occurs during the day	nongold
+78	if something is in a dark place , then that something will not reflect enough light to be seen	nongold
+79	brightness is a property of a light source	nongold
+80	the new moon is when the dark half of the moon faces the Earth	nongold
+81	a planet's  moon is smaller than that planet	nongold
+82	make means produce	nongold
+83	intensity of sunlight is similar to amount of sunlight	nongold
+84	a white object reflects all visible light	nongold
+85	absorbing energy causes objects; materials; substances to heat	nongold
+86	affected means changed	nongold
+87	a full moon is a kind of phase of the moon	nongold
+88	a type is synonymous with a kind	nongold
+89	the moon orbits the Earth	nongold
+90	if an object reflects a light of a certain color then the object appears to be that color	nongold
+91	a moon is located in space	nongold
+92	a star produces light and heat	nongold
+93	if something gains something from something else then that something else is a source of that something	nongold
+94	solar energy is a kind of energy	nongold
+95	dimmer is the opposite of brighter	nongold
+96	an part of an object is smaller than the entire object	nongold
+97	when sunlight strikes something , that something receives sunlight	nongold
+98	seeing requires light	nongold
+99	if an object is white then that object reflects all visible light	nongold

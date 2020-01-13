@@ -1,0 +1,102 @@
+Question	Which feature is a physical property of copper?	question
+Answer	conducts electricity	answer
+0	conductivity is a kind of physical property	gold
+1	a physical property is a kind of property	nongold
+2	a property of something is a feature of that something	gold
+3	conductivity is a property of a material; substance	nongold
+4	copper is a kind of metal	gold
+5	feature is synonymous with characteristic	nongold
+6	a chemical property is the opposite of a physical property	nongold
+7	a structure is a kind of feature	nongold
+8	structure is a property of an object; a material; a substance	nongold
+9	metal is an  electrical; electrical energy conductor	gold
+10	copper is a kind of element	nongold
+11	state of matter is a kind of physical property	nongold
+12	metal is a thermal; thermal energy conductor	nongold
+13	a  chemical property is a kind of  property	nongold
+14	electricity means electrical energy	nongold
+15	landform means surface feature; physical feature; land feature	nongold
+16	a source of something emits; produces; generates; provides that something	nongold
+17	state of matter at room temperature is a kind of physical property	nongold
+18	an object has properties	nongold
+19	electrical conduction is when metals; electrical conductors conduct electricity through a wire;electrical conductor;metal	nongold
+20	a land feature is a kind of physical characteristic	nongold
+21	a bonding property is a kind of chemical property	nongold
+22	conducting is similar to exchanging	nongold
+23	conductivity is a measure of how easily electricity travels through a material	nongold
+24	material composition is a kind of chemical property	nongold
+25	a body of water is a kind of land feature	nongold
+26	boiling point is a kind of physical  property	nongold
+27	an insulator is the opposite of a conductor	nongold
+28	combustibility is a kind of  chemical property	nongold
+29	chemical composition is a kind of property	nongold
+30	an insulator is a kind of material	nongold
+31	copper is a kind of transition metal	nongold
+32	copper is always nonmagnetic	nongold
+33	substances have chemical properties	nongold
+34	carbon is a kind of element	nongold
+35	conducting is a kind of function	nongold
+36	if an object is made of a material then that object has the properties of that material	nongold
+37	material means substance	nongold
+38	to conduct is similar to to transfer	nongold
+39	appearance is sometimes a physical property	nongold
+40	An example of a chemical property is how a material reacts chemically	nongold
+41	characteristic means property	nongold
+42	metal is a kind of substance	nongold
+43	electricity is used as an energy source by electrical devices	nongold
+44	metal is a kind of material	nongold
+45	wood is an thermal; thermal energy insulator	nongold
+46	an element is a kind of material	nongold
+47	zinc is a kind of metal	nongold
+48	insulator means good insulator	nongold
+49	wax is an electrical; electrical energy insulator	nongold
+50	answering questions requires information	nongold
+51	appearance  is a kind of physical property	nongold
+52	wood is a thermal; thermal energy insulator	nongold
+53	an element is a kind of  substance	nongold
+54	water is an thermal; thermal energy conductor	nongold
+55	what something needs is a property of that something	nongold
+56	a thermal conductor is made of materials that conduct thermal energy	nongold
+57	a cloud of dust and gas is a kind of feature	nongold
+58	electrical energy is a kind of energy	nongold
+59	rubber is thermal;thermal energy insulator	nongold
+60	a structure of something is synonymous with a part of that something	nongold
+61	a metal is a kind of element	nongold
+62	substances are made of matter	nongold
+63	sending electricity through a conductor causes electricity; electric current to flow through that conductor	nongold
+64	if two things have the same features then those two things are alike	nongold
+65	all elements are a kind of pure substance	nongold
+66	substances are made of elements	nongold
+67	if something undergoes a physical change then the physical properties of that something will change	nongold
+68	an object; material; substance comes from that object or material's source	nongold
+69	reaction to light is a kind of chemical property	nongold
+70	different materials usually have different properties	nongold
+71	the  property of something is the same for the things of same kind	nongold
+72	aluminum is a kind of matter	nongold
+73	conduction is a kind of process	nongold
+74	salt water is an electrical; electrical energy conductor	nongold
+75	flammability is a kind of chemical property	nongold
+76	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+77	materials are made of matter	nongold
+78	physical state means state of matter	nongold
+79	if something comes from something else then that something else is a source of that something	nongold
+80	magnetism is a kind of physical property	nongold
+81	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+82	a property is a kind of information	nongold
+83	where something  comes from is a source of that something	nongold
+84	An example of a chemical property is the elements a compound is made of	nongold
+85	tungsten is a kind of metal	nongold
+86	An electrical conductor is a vehicle for the flow of electricity	nongold
+87	aspect is similar to property	nongold
+88	a living thing is a kind of object	nongold
+89	aluminum is a kind of element	nongold
+90	plastic is a kind of electrical insulator	nongold
+91	to be characterized by  a property means to have that property	nongold
+92	brick is an electrical; electrical energy insulator	nongold
+93	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	nongold
+94	a component of something means a part of that something	nongold
+95	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+96	aluminum is a kind of metal	nongold
+97	nonmetal means not metal	nongold
+98	a part of something means a characteristic of something	nongold
+99	an electromagnet is a kind of electric magnet	nongold

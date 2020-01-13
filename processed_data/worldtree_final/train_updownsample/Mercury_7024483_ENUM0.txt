@@ -1,0 +1,54 @@
+0	characteristic means property	nongold
+1	intelligence	answer
+2	the brain is a part of the body	nongold
+3	physical fitness is an acquired characteristic	nongold
+4	human is similar to individual	nongold
+5	not is similar to the opposite of	nongold
+6	intelligence	answer
+7	trait is synonymous with characteristic	gold
+8	intelligence is an acquired characteristic	gold
+9	learned behaviors are learned over the  lifetime of the animal	nongold
+10	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+11	an allele is a kind of gene	nongold
+12	animals learn some behaviors from watching their parents	nongold
+13	to impact means to affect	nongold
+14	a dog is a kind of animal	nongold
+15	affected means changed	nongold
+16	intelligence is an acquired characteristic	gold
+17	a cat is a kind of animal	nongold
+18	an ear is a kind of body part	nongold
+19	trait is synonymous with characteristic	gold
+20	coloration means a thing's color	nongold
+21	a baby is the offspring of a parent	nongold
+22	a human is a kind of mammal	nongold
+23	person is synonymous with human	nongold
+24	an animal is a kind of organism	nongold
+25	genes are able to determine the inherited characteristics of a living thing	nongold
+26	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+27	Which of these is not an inherited trait in humans?	question
+28	the condition of parts of an organism are acquired characteristics	nongold
+29	Anna is a name for a human	nongold
+30	intelligence	answer
+31	trait is synonymous with characteristic	gold
+32	Which of these is not an inherited trait in humans?	question
+33	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+34	intelligence is an acquired characteristic	gold
+35	intelligence	answer
+36	what an object is made of is a kind of characteristic	nongold
+37	identical means copy	nongold
+38	trait means property	nongold
+39	children; young is synonymous with offspring	nongold
+40	the head is a part of an animal	nongold
+41	the  diet of an animal is an inherited characteristic	nongold
+42	an allele is formed by mutation	nongold
+43	mammals is a kind of class	nongold
+44	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+45	genetic; hereditary means of genes; heredity	nongold
+46	sound of voice is an inherited characteristic	nongold
+47	a structure of something is synonymous with a part of that something	nongold
+48	Which of these is not an inherited trait in humans?	question
+49	inherited characteristics are the opposite of learned characteristics; acquired characteristics	gold
+50	Which of these is not an inherited trait in humans?	question
+51	eyes are a part of a human for seeing	nongold
+52	skills are learned characteristics; behaviors	nongold
+53	a face is often a part of an animal	nongold

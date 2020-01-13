@@ -1,0 +1,102 @@
+0	What is the most reasonable explanation for why a toy car rolls farther on a wood floor than on a thick carpet?	question
+1	The carpet has more resistance.	answer
+2	a toy car is a kind of object	nongold
+3	as the thickness of an object increases , the resistance to tearing; to breaking will increase	nongold
+4	a car is a kind of object	nongold
+5	rolling is a kind of motion	nongold
+6	as the thickness of something; of an object increases , the resistance to damage of that object; of that something will increase	nongold
+7	carpet is a kind of material	nongold
+8	a car is a kind of vehicle	gold
+9	a roll is a kind of movement	gold
+10	resistances are a property of living things	nongold
+11	an automobile is a kind of vehicle	nongold
+12	the floor is a kind of object	nongold
+13	wood is a kind of object	nongold
+14	carpet has a rough surface	gold
+15	thickness is  a measure of how thick an object  is	nongold
+16	a covering is a kind of object	nongold
+17	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+18	a surface is a part of a material	nongold
+19	counter means reduce; stop; resist	gold
+20	wheels are a part of a car	nongold
+21	wood has a smooth surface	gold
+22	wood is a strong material	nongold
+23	a vehicle is a kind of object	gold
+24	a surface is a part of an object	gold
+25	friction causes the speed of an object to decrease	nongold
+26	an increase is the opposite of a decrease	nongold
+27	if one surface is moved against; moved over; moved down another surface then those surfaces are touching	nongold
+28	friction causes speed to decrease	nongold
+29	friction causes the temperature of an object to increase	nongold
+30	wheels; gears usually move against other surfaces	nongold
+31	being  on something; placed in something; placed over something means touching  that something	nongold
+32	increase means more	gold
+33	friction exerts force on moving objects	gold
+34	wood is a light material	nongold
+35	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	gold
+36	harming something has a  negative impact on; effect on that something	nongold
+37	if an object is made of a material then that object has the properties of that material	nongold
+38	less is similar to decrease	nongold
+39	wood is a kind of natural material	nongold
+40	closer means lower; less; a decrease in distance	nongold
+41	protection means resistance to damage increases	nongold
+42	a surface is a kind of object	nongold
+43	friction converts mechanical energy into heat energy	nongold
+44	furniture often is made of wood	nongold
+45	far is the opposite of close	nongold
+46	to reduce means to decrease	gold
+47	damage means harm	nongold
+48	low means down	nongold
+49	as roughness of a surface increases , friction will increase	gold
+50	friction occurs when two object's surfaces move against each other	nongold
+51	an part of an object is smaller than the entire object	nongold
+52	if an object slides across another object then those objects are touching	nongold
+53	to lower means to decrease	nongold
+54	to slow; to slow down decreases speed	gold
+55	an object being pushed across another object causes their surfaces to move against each other	nongold
+56	structure is a property of an object; a material; a substance	nongold
+57	a car is a kind of automobile	nongold
+58	surfaces sometimes cause objects to break	nongold
+59	a wheeled vehicle requires smooth surfaces	nongold
+60	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	gold
+61	harm means injury	nongold
+62	less is the opposite of more	nongold
+63	skidding causes friction	nongold
+64	motion; movement means moving; to move	nongold
+65	ground means floor	nongold
+66	as moisture of an object decreases , the friction of that object against another object will increase	nongold
+67	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+68	high is similar to increase	nongold
+69	a living thing is a kind of object	nongold
+70	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+71	friction acts to counter the motion of two objects when their surfaces are touching	gold
+72	material means substance	nongold
+73	low is similar to decrease	nongold
+74	if a material dents easily then that material has low strength	nongold
+75	friction causes an object to lose energy	nongold
+76	pushing something can cause that something  to move	nongold
+77	wood is usually sturdy	nongold
+78	damage has a negative impact on a thing	nongold
+79	rolling down is similar to falling	nongold
+80	an object has properties	nongold
+81	crashing a car causes harm to a person	nongold
+82	an animal is a kind of living thing	nongold
+83	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+84	a human is a kind of animal	nongold
+85	an animal is a kind of organism	nongold
+86	hitting something causes harm to that something	nongold
+87	lower means less	nongold
+88	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+89	low is the opposite of high	nongold
+90	a decrease is a kind of change	nongold
+91	as the resistance to something increases , how easilty that something can  be done will decrease	nongold
+92	a structure of something is synonymous with a part of that something	nongold
+93	wood is a thermal; thermal energy insulator	nongold
+94	an increase is a kind of change	nongold
+95	a machine is a kind of object	nongold
+96	wood is an thermal; thermal energy insulator	nongold
+97	something harmful can cause harm	nongold
+98	greater means higher; more in value	nongold
+99	requiring is similar to needing help	nongold
+100	to hurt means to harm	nongold
+101	helping something has a  positive impact on that something	nongold

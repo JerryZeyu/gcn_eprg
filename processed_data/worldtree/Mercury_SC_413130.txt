@@ -1,0 +1,102 @@
+Question	Which natural material is best for making a table?	question
+Answer	wood that is sturdy	answer
+0	wood is usually sturdy	gold
+1	a table is a kind of object	nongold
+2	a table is a kind of furniture	gold
+3	wood is a kind of natural material	gold
+4	using sturdy materials to build furniture has a positive impact on the use of that furniture	gold
+5	wood is a kind of object	nongold
+6	wood is a strong material	nongold
+7	a chair is a kind of object	nongold
+8	a desk is a kind of table	nongold
+9	wood is a light material	nongold
+10	furniture often is made of wood	gold
+11	a surface is a part of a material	nongold
+12	a part of a living thing is a natural structure	nongold
+13	a surface is a part of an object	nongold
+14	if an object is made of a material then that object has the properties of that material	nongold
+15	wood has a smooth surface	nongold
+16	a table is hard	nongold
+17	a living thing is a kind of object	nongold
+18	wood is an thermal; thermal energy insulator	nongold
+19	objects are made of materials; substances; matter	nongold
+20	made by humans; artificial is the opposite of natural	nongold
+21	structure is a property of an object; a material; a substance	nongold
+22	a tool is a kind of object	nongold
+23	wood is a thermal; thermal energy insulator	nongold
+24	an object is made of its parts	nongold
+25	a wooden bench is a kind of object	nongold
+26	a desk usually has a length with values between 50.0 and 250 cm	nongold
+27	a surface is a kind of object	nongold
+28	a pool table; billiards table has a felt surface	nongold
+29	a structure of something is synonymous with a part of that something	nongold
+30	an object has properties	nongold
+31	if an object is made of something then the parts of that object are made of that something	nongold
+32	a panel is a kind of object	nongold
+33	a piece of something is a kind of object	nongold
+34	instrument means tool	nongold
+35	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+36	conductivity is a property of a material; substance	nongold
+37	materials are used for making products by manufacturers	nongold
+38	a piece is a part of a whole	nongold
+39	an instrument is a piece of equipment	nongold
+40	material means substance	nongold
+41	an animal is a kind of living thing	nongold
+42	better means good	nongold
+43	best means most positive	gold
+44	if something is soft , then that something is malleable	nongold
+45	an part of an object is smaller than the entire object	nongold
+46	pool balls; billiard balls are found on the felt of a pool table; of a billiards table	nongold
+47	a handle is a kind of object	nongold
+48	an insulator is a kind of material	nongold
+49	made of is similar to is built from	nongold
+50	a piece of an object is smaller in size than the whole object	nongold
+51	helping something has a  positive impact on that something	nongold
+52	a structure is a kind of feature	nongold
+53	wood is a kind of nonmetal	nongold
+54	heat means heat energy	nongold
+55	an object; material; substance comes from that object or material's source	nongold
+56	to create means to make	nongold
+57	to make means to build	nongold
+58	materials are made of matter	nongold
+59	a board is a kind of object	nongold
+60	to be used for something means to be required by that something	nongold
+61	an object is an item	nongold
+62	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+63	requiring is similar to needing help	nongold
+64	a source of something emits; produces; generates; provides that something	nongold
+65	plastic is a kind of material made by humans	nongold
+66	a product is a kind of object	nongold
+67	a human is a kind of animal	nongold
+68	form means kind	nongold
+69	sitting on something provides warmth to that something	nongold
+70	composite materials are made of two more more materials	nongold
+71	a type is synonymous with a kind	nongold
+72	metal is a kind of material	nongold
+73	composed of means made of	nongold
+74	length is a part of size	nongold
+75	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+76	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+77	making something requires resources	nongold
+78	using an object often requires creating that object	nongold
+79	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+80	make means produce	nongold
+81	cutting requires rigid tools	nongold
+82	temperature is a measure of heat energy	nongold
+83	to make means to form	nongold
+84	a hand is a kind of object	nongold
+85	can be means able to be	nongold
+86	structure is similar to shape	nongold
+87	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+88	motion; movement means moving; to move	nongold
+89	fiber is a kind of material	nongold
+90	insulator means good insulator	nongold
+91	strength is a property of an object; a material	nongold
+92	if a living thing requires something then that something has a positive impact on that living thing	nongold
+93	tool is similar to appliance	nongold
+94	substances are made of matter	nongold
+95	to be good for means to have a positive impact on	nongold
+96	improving the design of something helps that something  to do its function	nongold
+97	thickness is  a measure of how thick an object  is	nongold
+98	texture means how an object feels	nongold
+99	creating means making	nongold

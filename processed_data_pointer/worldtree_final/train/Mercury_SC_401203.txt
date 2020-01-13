@@ -1,0 +1,101 @@
+0	Weight is  the  force of gravity acting on an object	nongold
+1	increase means more	nongold
+2	experimentation requires measuring	nongold
+3	extreme means very high in value	nongold
+4	Which tool is used to determine the mass of an object?	question
+5	affected means changed	nongold
+6	a surface is a part of an object	nongold
+7	to impact means to affect	nongold
+8	seconds are used to measure time	nongold
+9	inertia is a property of mass	nongold
+10	instrument means device	nongold
+11	temperature is a measure of heat energy	nongold
+12	can be means able to be	nongold
+13	timing; multiplying is a kind of calculating	nongold
+14	length is a part of size	nongold
+15	a hand is a kind of object	nongold
+16	a surface is a kind of object	nongold
+17	variable means able to change	nongold
+18	a land mass is a kind of object	nongold
+19	calculating is similar to estimating	nongold
+20	according to is similar to be determined by	nongold
+21	friction exerts force on moving objects	nongold
+22	a human is a kind of animal	nongold
+23	determining often requires measuring; observing	gold
+24	motion; movement means moving; to move	nongold
+25	as the mass of an object increases , the force required to push that object will increase	nongold
+26	strength is a property of an object; a material	nongold
+27	as the pressure on an object increases , the mass of the object will stay the same	nongold
+28	the volume of an object can be used to describe  the size of that object	nongold
+29	a graduated cylinder is used to measure volume of a liquid; of an object	nongold
+30	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+31	vibration is a kind of motion	nongold
+32	unbalanced is the opposite of balanced	nongold
+33	locating means determining	nongold
+34	a machine is a kind of object	nongold
+35	form means kind	nongold
+36	an part of an object is smaller than the entire object	nongold
+37	determining is similar to controlling	nongold
+38	a motion is a kind of event; action	nongold
+39	seconds are a kind of unit for measuring time	nongold
+40	to measure means to calculate	nongold
+41	work is a measure of the product of force and distance	nongold
+42	calculating speed requires knowing distance travelled	nongold
+43	if a property affects a value then that property is needed to calculate that value	nongold
+44	if an object is made of a material then that object has the properties of that material	nongold
+45	speed is a measure of how fast an object is moving	nongold
+46	measuring is used for describing an object	nongold
+47	high is similar to increase	nongold
+48	a surface is a part of a material	nongold
+49	a body part is a kind of object	nongold
+50	mass is a property of objects; matter	nongold
+51	mass; weight is a property of matter; objects; materials	nongold
+52	an event is a kind of action	nongold
+53	determine is similar to cause	nongold
+54	person is synonymous with human	nongold
+55	calculation means measurement	nongold
+56	measuring requires reading a measurement	nongold
+57	a gram  is a kind of unit for measuring mass	nongold
+58	friction occurs when two object's surfaces move against each other	nongold
+59	the mass of an object causes the gravitational force exerted by that object	nongold
+60	distance moved; distance travelled is a measure of how far an object moves	nongold
+61	instrument means tool	gold
+62	device means tool	nongold
+63	as the smoothness of something increases , the friction of that something will decrease when its surface moves against another surface	nongold
+64	as the mass of an object increases ,  the weight of that object will increase	nongold
+65	as the roughness of something increases , the friction of that something will increase when its surface moves against another surface	nongold
+66	height is a property of the size of an object	nongold
+67	as state of matter changes , mass will not change	nongold
+68	mass is a measure of the amount of matter in an object	nongold
+69	a ball is a kind of object	nongold
+70	a living thing is a kind of object	nongold
+71	height is a measure of length from the top of an object to the bottom of an object	nongold
+72	movement is a kind of change	nongold
+73	mass is a kind of physical property	nongold
+74	weight is a property of objects; matter	nongold
+75	friction is a kind of force	nongold
+76	a meter is a kind of unit for measuring distance; measuring length	nongold
+77	a balance is used for measuring mass;weight of an object; of a substance	gold
+78	a vehicle is a kind of object	nongold
+79	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+80	balance	answer
+81	mass is similar to size	nongold
+82	objects are made of materials; substances; matter	nongold
+83	a weight is a kind of object	nongold
+84	if an  object has a larger mass than another object , then the  object has more inertia than the other object	nongold
+85	weight means the force of gravity acting on an object	nongold
+86	a piece of something is a kind of object	nongold
+87	a scale is used for measuring weight	nongold
+88	length is a measure of distance from one end of an object to the other end of that object	nongold
+89	as the mass of an object increases , the force of gravity on that object will increase	nongold
+90	an instrument is a piece of equipment	nongold
+91	identifying is similar to determining	nongold
+92	density is a measure of mass of an object over volume; divided by volume	nongold
+93	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+94	a tool is a kind of object	nongold
+95	heat means heat energy	nongold
+96	to lift means to move up	nongold
+97	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+98	an increase is a kind of change	nongold
+99	a balance is a kind of instrument for measuring mass; measuring weight	gold
+100	weight is a measure of the force of the gravity on the mass of an object	nongold

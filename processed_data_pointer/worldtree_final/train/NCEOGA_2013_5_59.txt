@@ -1,0 +1,102 @@
+0	aspect of something is similar to part of something	nongold
+1	a human is a kind of animal	nongold
+2	the  diet of an animal is an inherited characteristic	nongold
+3	an environment is a kind of place	nongold
+4	a dog is a kind of animal	gold
+5	organisms are a part of an environment	nongold
+6	observations; data are a part of the results of an experiment	nongold
+7	to cause an event means to make that event more likely	nongold
+8	a kind of something is an example of that something	nongold
+9	an increase is a kind of change	nongold
+10	causing is a kind of affecting	nongold
+11	Which is a characteristic of a dog that is most likely a result of its environment?	question
+12	adapting is when a living thing responds to a change in an environment	nongold
+13	an inherited characteristic is a kind of characteristic	nongold
+14	an adaptation is a kind of characteristic	nongold
+15	its food preference	answer
+16	feature is synonymous with characteristic	nongold
+17	selective means of selection	nongold
+18	food is a kind of object	nongold
+19	a part of something means a characteristic of something	nongold
+20	selection means choosing	nongold
+21	product means result	nongold
+22	a cause of something is a reason for that something	nongold
+23	intelligence is an acquired characteristic	nongold
+24	conditioned behavior is a kind of learned behavior	nongold
+25	if something is made by something else then that something is affected by that something else	nongold
+26	a plant; living thing requires food for survival	nongold
+27	an adaptation is an adaptive feature	nongold
+28	to cause means to result in	gold
+29	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+30	an organism eating is a kind of action	nongold
+31	to be a source of something means to cause that something	nongold
+32	animal instinct means instinctive behavior	nongold
+33	objects in an environment are a part of that environment	nongold
+34	characteristic means property	nongold
+35	when an animal eats or drinks something , that animal tastes that something	nongold
+36	an animal is a kind of living thing	nongold
+37	preferences are generally learned characteristics	gold
+38	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+39	a result of something is evidence of that something	nongold
+40	a food contains nutrients for living things	nongold
+41	trait means property	nongold
+42	a learned characteristic is a kind of acquired characteristic	gold
+43	a producer is a kind of living thing	nongold
+44	an organism's environment affects that organism's acquired characteristics	gold
+45	a living thing is a kind of object	nongold
+46	diet means what an animal eats	nongold
+47	often is similar to likely	nongold
+48	aspect is similar to property	nongold
+49	to produce means to result in	nongold
+50	an adaptation is a kind of change	nongold
+51	the effects of something is a property of that something	nongold
+52	an animal; living thing requires nutrients for survival	nongold
+53	personality is an acquired characteristic	nongold
+54	favorite means highest preference	nongold
+55	reproductive behavior is an inherited characteristic	nongold
+56	sense is a kind of characteristic of an animal	nongold
+57	to impact means to affect	gold
+58	an animal is a kind of consumer	nongold
+59	to be formed by is to be the result of	nongold
+60	an organism is a living thing	nongold
+61	affected means changed	nongold
+62	a behavior is a kind of characteristic	nongold
+63	a factor impacts something	nongold
+64	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+65	an environment means an area	nongold
+66	prey is a kind of food for predators	nongold
+67	a property of something is a feature of that something	nongold
+68	to change means to have an effect	nongold
+69	surroundings means environment	nongold
+70	if something affects a part of something else then that something affects that something else	nongold
+71	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+72	if a trait is chosen , then the trait is desirable	nongold
+73	adaptation is when an organism develops a trait over time for survival	nongold
+74	ability is a kind of characteristic	nongold
+75	desirable result means positive impact	nongold
+76	an animal needs to eat food for nutrients	nongold
+77	to eat means to consume food	nongold
+78	result means outcome	nongold
+79	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+80	to cause means to have an effect	gold
+81	trait is synonymous with characteristic	nongold
+82	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+83	a food preference is a kind of preference	gold
+84	food is a kind of substance	nongold
+85	an animal is a kind of organism	gold
+86	food is what an animal eats	nongold
+87	doing something more is a kind of conditioned behavior	nongold
+88	animals taste flavors	nongold
+89	a land feature is a kind of physical characteristic	nongold
+90	a source of something emits; produces; generates; provides that something	nongold
+91	begging for food is a kind of conditioned behavior	nongold
+92	a function is a kind of characteristic	nongold
+93	social behavior is a kind of learned behavior	nongold
+94	a mammal is a kind of animal	nongold
+95	species is an inherited characteristic	nongold
+96	to be characterized by  a property means to have that property	nongold
+97	to be affected by something is similar to depending on something	nongold
+98	what an object is made of is a kind of characteristic	nongold
+99	the color of; coloration of fur is an inherited characteristic	gold
+100	actions mean behavior	nongold
+101	eating; taking in food is used to get nutrients;energy by animals; living things	nongold

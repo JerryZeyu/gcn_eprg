@@ -1,0 +1,102 @@
+0	cancerous cells are formed by abnormal cell division	nongold
+1	to repair means to heal	nongold
+2	living things perform biological processes	gold
+3	an animal cell is a kind of cell	nongold
+4	the body is a part of an organism	nongold
+5	events occur at a specific place; at a specific time; with a specific frequency	nongold
+6	a cycle happens; occurs repeatedly	nongold
+7	the parent cell is the original cell	nongold
+8	to cause means to make	nongold
+9	cell division is a kind of process	nongold
+10	to keep a process or event happening is similar to causing that process or event to happen	nongold
+11	a mouse is a kind of mammal	nongold
+12	cell division increases the number of cells in the body	nongold
+13	decomposing is similar to separating	nongold
+14	decomposition is a kind of process	nongold
+15	cellular respiration is a kind of process	nongold
+16	to cause means to result in	nongold
+17	metamorphosis is a kind of process	nongold
+18	to be a source of something means to cause that something	nongold
+19	high is similar to increase	nongold
+20	if something causes a process then that something is required for that process	nongold
+21	cells are a part of the body	nongold
+22	a mammal is warm-blooded	nongold
+23	cell division means cell reproduction	nongold
+24	to cause something means to contribute to that something happening	nongold
+25	a cycle is a kind of process	nongold
+26	a component of something means a part of that something	nongold
+27	to lead to means to cause	nongold
+28	a living thing is made of cells	nongold
+29	to cause means to be responsible for	nongold
+30	cancer is a kind of abnormal cell division	nongold
+31	to cause means to have an effect	nongold
+32	life means living things	nongold
+33	affected means changed	nongold
+34	if an event occurs by adding something then that event requires that something	nongold
+35	an animal is a kind of organism	nongold
+36	animals are a part of the biological kingdom Animalia	nongold
+37	a process is a kind of event	nongold
+38	an organism is a living thing	nongold
+39	a component means a part of	nongold
+40	change is a kind of process	nongold
+41	the formation of something is a kind of process	nongold
+42	mammals birth; give birth to live young	nongold
+43	cell activity means cell process	nongold
+44	forming is similar to converting	nongold
+45	producing is a kind of process	nongold
+46	to split means to divide	nongold
+47	made up of means contains; made of	nongold
+48	a cell is a kind of object	nongold
+49	to cause an event is similar to being involved in that event	nongold
+50	healing requires rest; nutrients; energy	nongold
+51	a body cell means a somatic cell	nongold
+52	an animal is a kind of living thing	gold
+53	biological means of biology	nongold
+54	An example of healing is a broken bone growing back together	nongold
+55	a step in a process means a stage in a process	nongold
+56	due to means caused by	gold
+57	a cell nucleus is a part of a cell	nongold
+58	a motion is a kind of event; action	nongold
+59	a human is a kind of mammal	nongold
+60	healing	answer
+61	a human is a kind of animal	nongold
+62	usually means most of the time	nongold
+63	products are formed; are produced; are created	nongold
+64	to be formed by is similar to being produced by	nongold
+65	cell division often causes growth; healing	gold
+66	a human cell is a kind of cell	nongold
+67	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+68	removing an inhibitor of a process causes that process	nongold
+69	a reaction is a kind of process	nongold
+70	a brain is a part of an animal	nongold
+71	converting is similar to producing	nongold
+72	to split means to break down	nongold
+73	a process usually requires all of the stages in that process	nongold
+74	a cat is a kind of mammal	nongold
+75	a cell is very small	nongold
+76	something that happens is a kind of event	nongold
+77	to happen means to occur	nongold
+78	mammals is a kind of class	nongold
+79	causing is a kind of affecting	nongold
+80	biotic means living	nongold
+81	to turn means to change	nongold
+82	a living thing is a kind of object	nongold
+83	an animal is a kind of eukaryote	nongold
+84	a mammal is a kind of animal	gold
+85	a source of something emits; produces; generates; provides that something	nongold
+86	producing is similar to causing	nongold
+87	to be formed by is to be the result of	nongold
+88	to give is similar to to cause	nongold
+89	conversion is a kind of process	nongold
+90	transferring is similar to giving	nongold
+91	take place means happen	nongold
+92	an animal requires nutrients to grow and heal	nongold
+93	breathing is a kind of process	nongold
+94	healing is a kind of biological process	gold
+95	Which biological process in mammals occurs largely due to cell division?	question
+96	absorption is a kind of process	nongold
+97	the cell cycle is when a cell forms new cells	nongold
+98	to keep something occurring means to cause that something to occur	nongold
+99	to add means to increase	nongold
+100	a part of a process means a stage in a process	nongold
+101	all living things are made of cells according to the cell theory	nongold

@@ -1,0 +1,60 @@
+0	increase means more	nongold
+1	to be formed by is similar to being produced by	nongold
+2	variable means able to change	nongold
+3	light is a kind of electromagnetic radiation	nongold
+4	the sky is blue in color	gold
+5	coloration means a pattern of colors	nongold
+6	an object is made of its parts	nongold
+7	light is a kind of wave	nongold
+8	scattering light decreases visibility	nongold
+9	to cause means to have an effect	nongold
+10	the atmosphere is a part of nature; the environment	nongold
+11	to cause an event is similar to being involved in that event	nongold
+12	the atmosphere contains matter that reflects blue light	gold
+13	gas is a kind of state of matter	nongold
+14	the sun is a source of radiation; heat called sunlight	nongold
+15	if something emits something else then that something increases the amount of that something else	nongold
+16	the atmosphere contains matter that reflects blue light	gold
+17	the atmosphere contains matter that reflects blue light	gold
+18	What causes the blue color of the sky?	question
+19	air is a part of the environment	nongold
+20	blue is a kind of color	nongold
+21	a star's surface temperature causes the star's  color	nongold
+22	if something is caused by something else , then that something can be explained by that something else	nongold
+23	to change means to have an effect	nongold
+24	What causes the blue color of the sky?	question
+25	gas is a kind of object	nongold
+26	the atmosphere is similar to the sky	gold
+27	white is a kind of color	nongold
+28	a type is synonymous with a kind	nongold
+29	sunlight is a kind of light	nongold
+30	the atmosphere is similar to the sky	gold
+31	to give is similar to to cause	nongold
+32	the sky is blue in color	gold
+33	scattering of light by matter in the atmosphere	answer
+34	dark means dark in color	nongold
+35	the atmosphere is a kind of area	nongold
+36	What causes the blue color of the sky?	question
+37	to cause is similar to bring	nongold
+38	particles in objects are a kind of matter	nongold
+39	the atmosphere is similar to the sky	gold
+40	a component means a part of	nongold
+41	purple;violet;magenta is a kind of color	nongold
+42	the color of an environment means the color of the things that environment contains	nongold
+43	refracting sunlight; light causes sunlight; light to split into different colors	nongold
+44	scattering of light by matter in the atmosphere	answer
+45	What causes the blue color of the sky?	question
+46	objects are made of materials; substances; matter	gold
+47	the sky is blue in color	gold
+48	scattering of light by matter in the atmosphere	answer
+49	causing is a kind of affecting	nongold
+50	to disperse means to separate	nongold
+51	if an object reflects a light of a certain color then the object appears to be that color	gold
+52	objects are made of materials; substances; matter	gold
+53	the sun is a source of light; light energy called sunlight	nongold
+54	if an object reflects a light of a certain color then the object appears to be that color	gold
+55	causing means influencing	nongold
+56	scattering of light by matter in the atmosphere	answer
+57	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+58	objects are made of materials; substances; matter	gold
+59	if an object reflects a light of a certain color then the object appears to be that color	gold

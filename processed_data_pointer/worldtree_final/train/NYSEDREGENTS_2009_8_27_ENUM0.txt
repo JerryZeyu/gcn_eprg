@@ -1,0 +1,102 @@
+0	an animal is a kind of eukaryote	nongold
+1	an animal is a kind of organism	nongold
+2	plant and animal matter means organic matter	nongold
+3	made of is similar to contains	nongold
+4	a human cell is a kind of cell	nongold
+5	cells copy DNA	nongold
+6	position means a place in a structure	nongold
+7	contains means located in	nongold
+8	a multicellular organism has more than one cell	nongold
+9	room contains walls	nongold
+10	organisms mean life	nongold
+11	a single-cell organism cannot specialize	nongold
+12	an atom is the smallest particle; unit that has the properties of an element	nongold
+13	dead plants means dead plant material	nongold
+14	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+15	an atom is a kind of object	nongold
+16	a cell wall is the outermost structure of a plant cell	gold
+17	basic life functions occur in the cells of organisms	nongold
+18	a plant cell is a kind of cell	nongold
+19	a plant is a kind of living thing	nongold
+20	a cell is very small	nongold
+21	answering questions requires information	nongold
+22	plant cells can perform photosynthesis	nongold
+23	a  cell wall provides support; protection; shape; structure for  a plant cell	nongold
+24	to contain means to have inside	nongold
+25	a chromosome is a part of a cell	nongold
+26	cancerous cells are formed by abnormal cell division	nongold
+27	the cell membrane is a part of a cell	nongold
+28	a plant is a member of a plant species	nongold
+29	a source of something emits; produces; generates; provides that something	nongold
+30	a structure is a kind of feature	nongold
+31	a living thing is a kind of object	nongold
+32	chloroplast is a part of a plant cell	nongold
+33	an animal is a kind of living thing	nongold
+34	the parent cell is the original cell	nongold
+35	as the structural complexity of a cell increases , the speed with which the cell can divide decreases	nongold
+36	a chloroplast is a kind of plant cell structure	nongold
+37	made up of means contains; made of	nongold
+38	a single-celled organism is a kind of organism	nongold
+39	a room is a kind of object	nongold
+40	a unicellular organism has one cell	nongold
+41	the floor is at the bottom of a room	nongold
+42	to add means to increase	nongold
+43	plant parts are made of plants	nongold
+44	a plant; living thing requires food for survival	nongold
+45	the function of something is what that something  is used to do	nongold
+46	composed of means made of	nongold
+47	cell wall	answer
+48	a plant cell contains chloroplasts	nongold
+49	the cell membrane is the membrane around the cell of all living things	nongold
+50	all living things are made of cells according to the cell theory	nongold
+51	a single-celled organism is a kind of living thing	nongold
+52	a leaf is a kind of plant	nongold
+53	a plant is a kind of organism	nongold
+54	an object is made of its parts	nongold
+55	affected means changed	nongold
+56	to be made of something means to be formed of that something	nongold
+57	a wall is a kind of object	nongold
+58	matter; materials; substances are made of atoms; particles	nongold
+59	the cell nucleus controls many of the functions of the cell	nongold
+60	structure is similar to shape	nongold
+61	a multicellular organism is a kind of living thing	nongold
+62	a plant cell is box-like in shape	nongold
+63	a living thing is made of cells	nongold
+64	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+65	a leaf is a part of a  green plant	nongold
+66	a structure of something is synonymous with a part of that something	nongold
+67	high is similar to increase	nongold
+68	size; amount of space means volume	nongold
+69	a plant is made of plant cells	nongold
+70	a multicellular organism is made of many cells	nongold
+71	the cell membrane allows materials to enter and leave the cell	nongold
+72	a wall is a kind of surface	nongold
+73	outermost is similar to distant	nongold
+74	can be means able to be	nongold
+75	a body cell means a somatic cell	nongold
+76	mitosis produces cells that are identical to the parent cell	nongold
+77	a single-celled organism's organelles are like the organs of a multi-celled organism	nongold
+78	a cell wall is a part of a plant cell for supporting and protecting the cell membrane	nongold
+79	the cell is the smallest unit of an organism that can perform all of the processes of life	nongold
+80	green plants are a kind of producer	nongold
+81	vegetation means plants	nongold
+82	single-celled organism is made of only one cell	nongold
+83	a molecule is a kind of object	nongold
+84	system is similar to structure	nongold
+85	the cells of multicellular organisms can specialize	nongold
+86	a multicellular organism contains more than one cell	nongold
+87	the cell membrane provides support; protection for a cell	nongold
+88	an animal cell is a kind of cell	nongold
+89	cells are a smaller level of organization than tissues in living things	nongold
+90	a cell absorbs nutrients	nongold
+91	a stem is often a part of plant	nongold
+92	a part of a living thing is a natural structure	nongold
+93	a cell is a kind of object	nongold
+94	a cell nucleus is a part of a cell	nongold
+95	the cell is the most basic structural unit of life	nongold
+96	the cell wall causes the plant cell to be  more rigid than the animal cell	nongold
+97	an organism is a living thing	nongold
+98	living things are made of organic molecules	nongold
+99	a cell membrane is a kind of cell structure	nongold
+100	What is the outermost structure in a plant cell?	question
+101	structure is a property of an object; a material; a substance	nongold

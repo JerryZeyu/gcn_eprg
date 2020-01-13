@@ -1,0 +1,68 @@
+0	a battery is a source of electrical energy; electricity	nongold
+1	device means tool	gold
+2	a flashlight is a kind of battery-operated device	nongold
+3	function is similar to purpose	nongold
+4	Which object is powered by an electrical circuit?	question
+5	closing an electric circuit causes an electrical device to function	gold
+6	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+7	device means tool	gold
+8	an animal is a kind of living thing	nongold
+9	an electromagnet is a kind of electric magnet	nongold
+10	appliance is similar to technology	nongold
+11	Which object is powered by an electrical circuit?	question
+12	Which object is powered by an electrical circuit?	question
+13	objects are made of materials; substances; matter	nongold
+14	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	gold
+15	closing an electric circuit causes an electrical device to function	gold
+16	a flashlight is a kind of electrical device	gold
+17	electrocution causes harm to an organism	nongold
+18	Which object is powered by an electrical circuit?	question
+19	a flashlight converts electrical energy; electricity into light energy	nongold
+20	if something performs a task then that task is that something's function	nongold
+21	a flashlight	answer
+22	a flashlight is a kind of electrical device	gold
+23	UV light is a kind of light	nongold
+24	an object; material; substance comes from that object or material's source	nongold
+25	device means tool	gold
+26	a tool is a kind of object	gold
+27	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	gold
+28	a tool is a kind of object	gold
+29	if something is powered by something else then that something requires a source of that something else	gold
+30	a tool is a kind of object	gold
+31	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+32	an electromagnet is a kind of device	nongold
+33	if something requires something else then that something requires a source of that something else	nongold
+34	electric devices require electrical energy to function	gold
+35	material means substance	nongold
+36	a flashlight emits light	gold
+37	a light bulb is a kind of tool for seeing in the dark	nongold
+38	a simple machine is a kind of tool	nongold
+39	electric devices require electrical energy to function	gold
+40	to be a vehicle for is a kind of function	nongold
+41	powering an electrical device with a battery requires a path for electricity to flow through a closed circuit	nongold
+42	light is a kind of energy	nongold
+43	a flashlight	answer
+44	a component means a part of	nongold
+45	a light bulb is used for seeing in the dark	nongold
+46	a flashlight	answer
+47	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	gold
+48	if something is powered by something else then that something requires a source of that something else	gold
+49	electric devices require electrical energy to function	gold
+50	a battery is a kind of object	nongold
+51	technology is similar to tool	nongold
+52	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+53	if something is powered by something else then that something requires a source of that something else	gold
+54	a flashlight emits light	gold
+55	something is used for that something's purpose	nongold
+56	instrument means tool	nongold
+57	light means light energy	nongold
+58	electrical devices are used for industrial purposes; household purposes by humans	nongold
+59	batteries can be used to power electrical devices	nongold
+60	a flashlight is a kind of electrical device	gold
+61	a flashlight emits light	gold
+62	flipping a switch completes an electrical circuit	nongold
+63	closing an electric circuit causes an electrical device to function	gold
+64	a circuit is a kind of electrical component	nongold
+65	a flashlight	answer
+66	household appliances are a kind of electrical device	nongold
+67	if something generates energy for something else then that something powers that something else	nongold

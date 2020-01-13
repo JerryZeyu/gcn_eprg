@@ -1,0 +1,102 @@
+0	Miranda's neighbors have an apple tree in their yard. What is the source of energy for the apple tree?	question
+1	sunlight	answer
+2	an apple is a kind of fruit	nongold
+3	an apple tree is a kind of plant	gold
+4	sunlight is a kind of solar energy	nongold
+5	sunlight means solar energy	nongold
+6	plants are the source of fruit	nongold
+7	the sun is a source of light; light energy called sunlight	nongold
+8	a source of something emits; produces; generates; provides that something	nongold
+9	the sun is the source of solar energy called sunlight	gold
+10	sunshine means sunlight	nongold
+11	sunlight is a kind of light	nongold
+12	solar energy is a kind of energy	gold
+13	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	gold
+14	sunlight produces heat	nongold
+15	a  plant requires sunlight for photosynthesis	nongold
+16	solar energy is a kind of heat energy	nongold
+17	a tree is a kind of living thing	nongold
+18	fruit is a part of a plant; tree	nongold
+19	a tree is a kind of plant	nongold
+20	solar energy is a kind of light	nongold
+21	if something comes from something else then that something else is a source of that something	nongold
+22	a fruit is a kind of object	nongold
+23	where something  comes from is a source of that something	nongold
+24	a plant is a kind of living thing	nongold
+25	food is a source of energy for animals; plants	nongold
+26	a tree requires sunlight to grow	nongold
+27	an animal is a kind of living thing	nongold
+28	heat is a kind of energy	nongold
+29	flowers are a source of fruit	nongold
+30	if something transfers something else then that something is a source of something else	nongold
+31	light is a kind of energy	nongold
+32	light is a kind of energy	nongold
+33	a leaf is a part of a tree	nongold
+34	heat means heat energy	nongold
+35	a leaf absorbs sunlight to perform photosynthesis	nongold
+36	the sun is a source of radiation; heat called sunlight	nongold
+37	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold
+38	solar power means solar energy	nongold
+39	the sun transfers solar energy; light energy; heat energy from itself to the planets;Earth through sunlight	nongold
+40	fruit is a kind of food	nongold
+41	the sun is the source of energy for life on Earth	nongold
+42	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+43	a house is a kind of home	nongold
+44	if something generates energy for something else then that something powers that something else	nongold
+45	a living thing is a kind of object	nongold
+46	an object; material; substance comes from that object or material's source	nongold
+47	absorbing sunlight causes objects to heat	nongold
+48	to power means to provide energy for	nongold
+49	daylight means sunlight	nongold
+50	solar energy is a source of electricity	nongold
+51	a  plant requires sunlight to  grow	nongold
+52	a house is a kind of building	nongold
+53	a berry is a kind of fruit	nongold
+54	a branch is a part of a tree	nongold
+55	photosynthesis stores; captures energy	nongold
+56	a plant requires photosynthesis to grow; survive	nongold
+57	a leaf is a kind of plant	nongold
+58	an energy source is a kind of resource	nongold
+59	a home is a kind of building	nongold
+60	if something requires something else then that something requires a source of that something else	nongold
+61	temperature is a measure of heat energy	nongold
+62	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+63	green plants are a kind of producer	nongold
+64	a source of something increases the amount of that something	nongold
+65	a plant is a kind of organism	nongold
+66	a human is a kind of animal	nongold
+67	solar energy is a renewable; inexhaustible resource	nongold
+68	a leaf is a part of a  green plant	nongold
+69	nutrients are a source of energy for living things	nongold
+70	a tree contains wood	nongold
+71	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+72	light means light energy	nongold
+73	some humans live in houses	nongold
+74	receiving sunlight  is synonymous with absorbing sunlight	nongold
+75	resources sometimes are used for energy	nongold
+76	generate means produce	nongold
+77	the sun  is the source of energy for physical cycles on Earth	nongold
+78	an organism is a living thing	nongold
+79	a source of heat can be used to heat something	nongold
+80	a source of heat can be used to heat something	nongold
+81	the sunlight occurs during the day	nongold
+82	to provide something means to be the source of that something	nongold
+83	emit means produce	nongold
+84	a leaf performs photosynthesis; gas exchange	nongold
+85	if something is outside during the day then that something will receive sunlight	nongold
+86	to be used for something means to be required by that something	nongold
+87	fruit is  usually a solid	nongold
+88	to receive sunlight means to absorb sunlight	nongold
+89	a greenhouse converts sunlight from radiation into thermal energy	nongold
+90	a producer is a source of energy for consumers	nongold
+91	an  apple is  hard	nongold
+92	fruit trees are a kind of crop	nongold
+93	to depend on; to rely on; to need means to require	nongold
+94	an animal is a kind of organism	nongold
+95	an organism requires energy for growth; repair	nongold
+96	a flower is a kind of plant	nongold
+97	a sunny day has  lots of sunlight	nongold
+98	if a plant is planted; growing somewhere then that plant is located there	nongold
+99	a resident is a kind of person	nongold
+100	if a tree falls then sunlight becomes available to the surrounding plants	nongold
+101	solar radiation means solar energy	nongold

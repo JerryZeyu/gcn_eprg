@@ -1,0 +1,101 @@
+0	liquid water is available  for organisms	nongold
+1	to vary means to differ	nongold
+2	an animal is a kind of living thing	nongold
+3	moisture means liquid; liquid water	nongold
+4	where something  comes from is a source of that something	nongold
+5	animals; living things require water for survival	nongold
+6	an increase is the opposite of a decrease	nongold
+7	survive means live	nongold
+8	usually means most of the time	nongold
+9	temperature is a measure of heat energy	nongold
+10	a human is a kind of animal	nongold
+11	an ocean is a kind of habitat	nongold
+12	a reservoir is a kind of body of water	nongold
+13	the atmosphere contains gases; liquids; solids	nongold
+14	a body of water is a source of water	nongold
+15	a source of something emits; produces; generates; provides that something	nongold
+16	human is a kind of organism	nongold
+17	gaseous means of gas	nongold
+18	a liquid is a kind of fluid	nongold
+19	heat means heat energy	nongold
+20	oceans are the source of most of water vapor in the atmosphere	gold
+21	to be a source of something means to cause that something	nongold
+22	to depend on; to rely on; to need means to require	nongold
+23	to be filled with means to contain	nongold
+24	survival means to survive	nongold
+25	death means to die	nongold
+26	an animal; bacterium requires oxygen for survival; to breathe	nongold
+27	fresh water means freshwater	nongold
+28	an organism is a living thing	nongold
+29	to vary means to change	nongold
+30	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	gold
+31	water is a part of an environment	nongold
+32	to provide something means to be the source of that something	nongold
+33	if something releases something else then that something is the source of that something else	nongold
+34	largest amount means most	nongold
+35	if something causes a process then that something is required for that process	nongold
+36	the ocean contains large amounts of salt water	nongold
+37	sea means ocean	nongold
+38	if something gains something from something else then that something else is a source of that something	nongold
+39	the atmosphere is a part of nature; the environment	nongold
+40	ocean animal is similar to water animal	nongold
+41	requiring something means needing that something	nongold
+42	if something is a source of something else then that something usually contains that something else	nongold
+43	a body of water contains water	nongold
+44	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+45	gas is a kind of substance	nongold
+46	a water reservoir contains; stores water	nongold
+47	mostly means being the most	nongold
+48	humans require fresh water to survive	gold
+49	oceans are located on Earth	nongold
+50	to lower means to decrease	nongold
+51	Humans cannot survive without clean, fresh water. Reservoirs of liquid water vary, but all water spends time as a gas in the atmosphere. What is the source of most of the water in the atmosphere?	question
+52	dying is the opposite of living; surviving	nongold
+53	humans cause pollution	nongold
+54	to provide means to supply	nongold
+55	most means over 50% of something	nongold
+56	water is a kind of natural resource	nongold
+57	less is similar to decrease	nongold
+58	water vapor is found in the atmosphere	nongold
+59	nonliving; non-living; die is the opposite of living; alive; live	nongold
+60	if something requires something else then that something requires a source of that something else	nongold
+61	high is similar to increase	nongold
+62	an object; material; substance comes from that object or material's source	nongold
+63	if something transfers something else then that something is a source of something else	nongold
+64	an animal is a kind of organism	nongold
+65	water contains dissolved oxygen	nongold
+66	water is a kind of matter	nongold
+67	releasing something into the atmosphere increases the amount of that something in the atmosphere	nongold
+68	to add means to increase	nongold
+69	an animal; living thing requires nutrients for survival	nongold
+70	deplete is similar to decrease	nongold
+71	water is a kind of natural resource	nongold
+72	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+73	requiring is similar to needing help	nongold
+74	if something comes from something else then that something else is a source of that something	nongold
+75	oceans cover 70% of the surface of the earth	nongold
+76	organisms are a part of an environment	nongold
+77	oceans contains most of  earth's water	gold
+78	animals are a source of carbon dioxide by exhaling	nongold
+79	to give off means to be the source of	nongold
+80	to emit means to release	nongold
+81	atmospheric means of the atmosphere	nongold
+82	a plants; living things require water for survival; to grow	nongold
+83	person is synonymous with human	nongold
+84	a supply of something is a source of that something	nongold
+85	atmosphere means  air	nongold
+86	low is similar to decrease	nongold
+87	organism requires liquid water to survive	nongold
+88	oceans	answer
+89	to be used for something means to be required by that something	nongold
+90	an animal requires air for survival	nongold
+91	a liquid is a kind of substance	nongold
+92	life means living things	nongold
+93	something that contains water is similar to a body of water	nongold
+94	water is a kind of liquid at room temperature	nongold
+95	water is a kind of substance	nongold
+96	an ocean is a kind of body of water	nongold
+97	survive means live	nongold
+98	a body of water is a kind of environment	nongold
+99	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+100	a producer is a kind of living thing	nongold

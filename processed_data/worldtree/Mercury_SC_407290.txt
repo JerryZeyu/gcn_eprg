@@ -1,0 +1,102 @@
+Question	How can plants most likely improve air quality?	question
+Answer	by producing oxygen	answer
+0	oxygen has a positive impact on air quality	gold
+1	a source of something emits; produces; generates; provides that something	gold
+2	to improve means to have a positive impact	gold
+3	green plants are a kind of producer	nongold
+4	plants are a source of oxygen through photosynthesis	gold
+5	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+6	converting is similar to producing	nongold
+7	generate means produce	nongold
+8	to produce means to provide	nongold
+9	a plant is a kind of living thing	nongold
+10	In the food chain process a  green plant has the role of  producer	nongold
+11	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+12	a tree is a kind of plant	nongold
+13	producing is a kind of process	nongold
+14	a producer is a kind of living thing	nongold
+15	if technology used for a process is improved then the product produced by that process will increase	nongold
+16	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+17	producing is similar to causing	nongold
+18	air is a part of the environment	nongold
+19	emit means produce	nongold
+20	atmosphere means  air	nongold
+21	vegetation means plants	nongold
+22	an animal; bacterium requires oxygen for survival; to breathe	nongold
+23	products are formed; are produced; are created	nongold
+24	a plant is a kind of organism	nongold
+25	if something causes an increase in something else then that something produces that something else	nongold
+26	high-quality means positive	nongold
+27	to produce means to create	nongold
+28	to be used for something means to be required by that something	nongold
+29	plants are a part of the environment	nongold
+30	producing is similar to releasing	nongold
+31	producing is a kind of function	nongold
+32	if a living thing requires something then that something has a positive impact on that living thing	nongold
+33	air is a kind of gas	nongold
+34	oxygen is a kind of gas at room temperature	nongold
+35	helping something has a  positive impact on that something	nongold
+36	the atmosphere is a part of nature; the environment	nongold
+37	if something causes a process then that something is required for that process	nongold
+38	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+39	to contribute is similar to produce	nongold
+40	a tree is a kind of living thing	nongold
+41	plants are a source of biofuel	nongold
+42	best means most positive	nongold
+43	a leaf is a part of a  green plant	nongold
+44	a producer produces its own food	nongold
+45	In the photosynthesis process oxygen has the role of  waste product	nongold
+46	photosynthesis is a source of oxygen	nongold
+47	good means positive	nongold
+48	better means good	nongold
+49	oxygen is a kind of resource	nongold
+50	to be formed by is similar to being produced by	nongold
+51	if a plant dies then that plant will not produce food	nongold
+52	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+53	a plant is a member of a plant species	nongold
+54	producing is similar to discharging	nongold
+55	make means produce	nongold
+56	a leaf performs photosynthesis; gas exchange	nongold
+57	when carbon dioxide in the atmosphere is absorbed by plants , the amount of carbon dioxide in the atmosphere is reduced in the atmosphere	nongold
+58	if something is required for a process then that something positively impacts that process	nongold
+59	plants are a kind of resource	nongold
+60	producer is a kind of role in the food chain process; in an ecosystem	nongold
+61	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+62	oxygen  is a kind of element	nongold
+63	negative impact is the opposite of positive impact	nongold
+64	oxygen is a stage in the carbon dioxide-oxygen cycle process	nongold
+65	to depend on; to rely on; to need means to require	nongold
+66	if something emits something else then that something increases the amount of that something else	nongold
+67	to breathe in means to absorb air	nongold
+68	processes sometimes produce waste products	nongold
+69	an animal requires air for survival	nongold
+70	requiring is similar to needing help	nongold
+71	roots are a part of a plant; tree	nongold
+72	converting is similar to generating	nongold
+73	humidity is the amount of water vapor; moisture in the air; in the atmosphere	nongold
+74	air is a kind of matter	nongold
+75	breathing in is when animals inhale air into their lungs	nongold
+76	pollution is a kind of environmental problem	nongold
+77	breathing is when animals convert oxygen into carbon dioxide	nongold
+78	solution is similar to a positive impact	nongold
+79	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+80	requiring something means needing that something	nongold
+81	to be good for means to have a positive impact on	nongold
+82	a process usually requires all of the stages in that process	nongold
+83	if something is a raw material in a process then that something is required for that process	nongold
+84	breathing is a kind of process	nongold
+85	a  plant requires sunlight for photosynthesis	nongold
+86	plant cells can perform photosynthesis	nongold
+87	a process is a kind of event	nongold
+88	people can plant trees	nongold
+89	an organism is a living thing	nongold
+90	the Earth's atmosphere is made of 78 percent nitrogen by mass	nongold
+91	to provide something means to be the source of that something	nongold
+92	atmospheric means of the atmosphere	nongold
+93	causing is similar to generating	nongold
+94	growing legumes provides nitrogen for other plants	nongold
+95	a source of something increases the amount of that something	nongold
+96	as the population of plants decreases , carbon in the atmosphere will increase	nongold
+97	the respiratory system takes in oxygen from the air	nongold
+98	a leaf is a part of a tree	nongold
+99	a part of a process means a stage in a process	nongold

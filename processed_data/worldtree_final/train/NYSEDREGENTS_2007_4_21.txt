@@ -1,0 +1,102 @@
+0	Which activity is necessary for humans to maintain good health?	question
+1	resting	answer
+2	a human requires sleep; rest to be healthy	gold
+3	rest is a kind of activity	gold
+4	action means activity	nongold
+5	rest has a  positive impact on a health	gold
+6	an animal requires enough nutrients to maintain good health; survive	nongold
+7	essential means required	nongold
+8	a human is a kind of animal	nongold
+9	to be required means to be necessary	gold
+10	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+11	requiring is similar to needing help	nongold
+12	to depend on; to rely on; to need means to require	nongold
+13	rest means sleep	gold
+14	exercise has a positive impact on a human's health	nongold
+15	sleeping all day has a  negative impact on a human's health	nongold
+16	requiring something means needing that something	nongold
+17	an animal is a kind of organism	nongold
+18	having a positive impact on health; survival is synonymous with helping to keep healthy	nongold
+19	human is a kind of organism	nongold
+20	exercise is a kind of physical activity	nongold
+21	reproducing is a kind of activity	nongold
+22	if something has a positive impact on health then that something can help to maintain good health	nongold
+23	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+24	being stronger usually has a positive impact on an organism's; living thing's health	nongold
+25	an animal is a kind of living thing	nongold
+26	keeping means staying	nongold
+27	the body is a part of an organism	nongold
+28	high is similar to increase	nongold
+29	a function is an activity	nongold
+30	staying warm has a positive impact on an animal's survival; health	nongold
+31	healing requires rest; nutrients; energy	nongold
+32	helping something has a  positive impact on that something	nongold
+33	good means positive	gold
+34	if a living thing requires something then that something has a positive impact on that living thing	nongold
+35	attracting is a kind of function; activity	nongold
+36	to be used for something means to be required by that something	nongold
+37	if something causes a process then that something is required for that process	nongold
+38	a motion is a kind of event; action	nongold
+39	being active requires energy	nongold
+40	to maintain means to not change	nongold
+41	sleeping requires less energy than being awake	nongold
+42	if something requires something else then that something else is important to that something	nongold
+43	an organism is a living thing	nongold
+44	an increase is the opposite of a decrease	nongold
+45	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+46	person is synonymous with human	nongold
+47	if something is required then that something must be provided	nongold
+48	adding is a kind of activity	nongold
+49	relaxing is a kind of movement	nongold
+50	a body system is a part of the body; an animal	nongold
+51	better senses have a positive impact on an animal's survival; health; ability to reproduce	nongold
+52	an animal requires stamina; cardiovascular efficiency to succeed at physical activities	nongold
+53	low is similar to decrease	nongold
+54	as energy required for an activity increases , pulse; breathing rate will increase	nongold
+55	to add means to increase	nongold
+56	negative impact is the opposite of positive impact	nongold
+57	better means good	nongold
+58	a living thing is a kind of object	nongold
+59	maintain is similar to control	nongold
+60	an animal; living thing requires nutrients for survival	nongold
+61	an event is a kind of action	nongold
+62	healthy means not having disease	nongold
+63	a human is a kind of mammal	nongold
+64	to lower means to decrease	nongold
+65	washing is a kind of activity	nongold
+66	to be good for means to have a positive impact on	nongold
+67	dying is the opposite of living; surviving	nongold
+68	internal organs are a part of the body	nongold
+69	if something has a positive impact on something else then that something is important to that something else	nongold
+70	to keep something occurring means to cause that something to occur	nongold
+71	must have means require	nongold
+72	life means living things	nongold
+73	exercise has a  positive impact on a body's strength	nongold
+74	an organism eating is a kind of action	nongold
+75	creating is a kind of activity	nongold
+76	reading is a kind of activity	nongold
+77	an animal requires energy to move	nongold
+78	limiting something is a kind of activity	nongold
+79	best means most positive	nongold
+80	looking is a kind of activity	nongold
+81	trait is synonymous with characteristic	nongold
+82	to reduce means to decrease	nongold
+83	actions mean behavior	nongold
+84	An example of managing; maintaining the number; the use of something is replacing that something	nongold
+85	live is similar to stay	nongold
+86	an animal needs to eat food for nutrients	nongold
+87	exercise means physical fitness	nongold
+88	if something is required for a process then that something positively impacts that process	nongold
+89	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+90	growing is a kind of activity	nongold
+91	to slow; to slow down decreases speed	nongold
+92	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+93	little is similar to decrease	nongold
+94	a source of something emits; produces; generates; provides that something	nongold
+95	a brain is a part of an animal	nongold
+96	dead means not alive	nongold
+97	illness has a negative impact on an organism's health	nongold
+98	to remain means to stay where it is	nongold
+99	if something performs a task then that task is that something's function	nongold
+100	less is similar to decrease	nongold
+101	to help; to benefit means to be of use	nongold

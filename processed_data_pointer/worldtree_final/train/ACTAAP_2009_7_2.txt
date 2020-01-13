@@ -1,0 +1,99 @@
+0	material means substance	nongold
+1	plus means to combine	nongold
+2	a compound is a kind of material	nongold
+3	a compound is a kind of substance	nongold
+4	a halogen is a kind of element	nongold
+5	chlorine is a kind of green, poisonous gas	nongold
+6	Fluorine(F); Chlorine(Cl); Bromine(Br); Iodine(I); Astatine(At) is located in halogens family; group 17 on the periodic table	nongold
+7	if a substance is dissolved in another substance then that substance is added to that other substance	nongold
+8	when two substances together form a compound then those substances cannot be physically separated	nongold
+9	a solid is a kind of substance	nongold
+10	composition means the (materials, substances) of which something is composed	nongold
+11	a description sometimes provides information	nongold
+12	nonmetal means nonmetals	nongold
+13	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+14	if a substance is made of one element , then the substance is called an element	nongold
+15	acidity is a property of chemicals; substances and includes ordered values of basic; neutral; acidic	nongold
+16	salt is a kind of pure substance	nongold
+17	can be means able to be	nongold
+18	to add means to combine	nongold
+19	salt water is made of salt and water	nongold
+20	a liquid is a kind of substance	nongold
+21	substances have chemical properties	nongold
+22	substances are made of elements	nongold
+23	Calcium; Beryllium; Strontium; Radium; Barium; Magnesium is located in alkaline earth metal family; group 2 on the periodic table	nongold
+24	sodium carbonate is a kind of  compound	nongold
+25	a compound is made of two or more elements that have been chemically combined	gold
+26	to be made of something means to be formed of that something	nongold
+27	a compound can be chemically separated into the elements that it is made of	nongold
+28	made of is similar to contains	nongold
+29	if something is dissolved , then that something is the solute	nongold
+30	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+31	typically means usually	nongold
+32	hydrochloric acid is made of hydrogen chloride dissolved in water	nongold
+33	sodium chloride is a kind of molecule	nongold
+34	chromium is a kind of metal	nongold
+35	sodium is a kind of metal	nongold
+36	if two substances together form a mixture then those substances can be separated from one another by physical changes	nongold
+37	if something comes from something else then that something else is a source of that something	nongold
+38	potassium is a kind of element	nongold
+39	sodium is a kind of element	gold
+40	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+41	mixture means solids combined together that maintain their physical properties	nongold
+42	hydrogen chloride is made of hydrogen and chlorine	nongold
+43	state means form	nongold
+44	a source of something emits; produces; generates; provides that something	nongold
+45	to convert means to change	nongold
+46	to be a combination of means to be made of	nongold
+47	compound is a kind of chemical	nongold
+48	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+49	Sodium chloride, commonly called "table salt," is made up of sodium and chlorine that have been combined chemically. Which term best describes sodium chloride?	question
+50	best means most positive	nongold
+51	chemicals means substances	nongold
+52	composed of means made of	nongold
+53	chlorine is a kind of element	gold
+54	combining; mixing two substances chemically causes chemical reactions	nongold
+55	if the elements have similar chemical reactivity , then the elements will react with other elements in a similar way	nongold
+56	made up of means contains; made of	nongold
+57	sodium chloride dissolves in water when they are combined	nongold
+58	nonmetal means not metal	nongold
+59	all elements are a kind of pure substance	nongold
+60	a chemical compound is a kind of compound	nongold
+61	the chemistry of something is similar to what that something is made of	nongold
+62	salt is made of salt crystals	nongold
+63	both means two	nongold
+64	sodium chloride means salt	nongold
+65	In the solution salt water , the solute is salt	nongold
+66	K means potassium	nongold
+67	neutralization is when an acid and a base react to form water and salt	nongold
+68	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+69	water is a kind of compound	nongold
+70	ammonia is a kind of base	nongold
+71	sodium chloride is a kind of substance	nongold
+72	hydrogen is a kind of element	nongold
+73	table salt means sodium chloride	nongold
+74	organic compounds do not contain potassium	nongold
+75	NaCl means sodium chloride	nongold
+76	a nonmetal is a kind of element	nongold
+77	an element is a kind of  substance	nongold
+78	not is similar to the opposite of	nongold
+79	if something is made of something; a material then that something contains that something; that material	nongold
+80	table salt is a kind of salt	nongold
+81	salt is soluble in water	nongold
+82	hydrochloric acid is a kind of acid	nongold
+83	if solids are combined physically , then the physical properties of the solids will stay the same	nongold
+84	the properties of something are used for describing that something	nongold
+85	sodium chloride is a kind of chemical compound	nongold
+86	make means produce	nongold
+87	salt is a kind of solid	nongold
+88	to be made of means to consist of	nongold
+89	Compound	answer
+90	zinc chloride is a kind of compound	nongold
+91	Na means sodium	nongold
+92	chemical reactions cause chemical change	nongold
+93	lithium; sodium; potassium; rubidium; caesium; francium is located in alkali metals; group 1 on the periodic table	nongold
+94	sodium chloride is always made of chemically combined chlorine and sodium	gold
+95	if something is a source of something else then that something usually contains that something else	nongold
+96	an mixture is formed by two or more substances combined together physically	nongold
+97	An example of a chemical property is the elements a compound is made of	nongold
+98	a solute can be dissolved in a solvent when they are combined	nongold

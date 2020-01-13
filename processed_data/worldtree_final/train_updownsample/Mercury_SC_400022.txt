@@ -1,0 +1,55 @@
+0	oil is a kind of liquid	gold
+1	a liquid is a kind of fluid	nongold
+2	lowering is a kind of motion	nongold
+3	a human is a kind of animal	nongold
+4	What happens when oil is placed in water?	question
+5	oil is a kind of liquid	gold
+6	water is a kind of liquid at room temperature	gold
+7	pulling is a kind of motion	nongold
+8	an ocean is a kind of body of water	nongold
+9	high is similar to increase	nongold
+10	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+11	placing an object into a liquid causes the volume of the liquid to increase by the volume of object under the liquid	nongold
+12	below means lower down	nongold
+13	The oil floats on top of the water.	answer
+14	What happens when oil is placed in water?	question
+15	to place in is similar to to move to	nongold
+16	an increase is a kind of change	nongold
+17	a body of water is a kind of environment	nongold
+18	What happens when oil is placed in water?	question
+19	less dense liquids; particles in liquids; materials float liquids; particiles in liquids; materials that are more dense	gold
+20	to be submerged means to be placed under	nongold
+21	under water means covered by water; in water	nongold
+22	oil is a kind of liquid	gold
+23	jumping off is a kind of  moving down	nongold
+24	heat means heat energy	nongold
+25	less dense liquids; particles in liquids; materials float liquids; particiles in liquids; materials that are more dense	gold
+26	contents means the substance in a container	nongold
+27	a liquid is a kind of substance	nongold
+28	aquatic animals; plants live in bodies of water	nongold
+29	to add means to increase	nongold
+30	if  something is placed in warm air then that something will become warm	nongold
+31	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+32	if an object is placed in a liquid , then the  increased volume of the liquid will be equal to the volume of that object	nongold
+33	to happen means to occur	nongold
+34	if something is dropped into a container of something else then that something is touching that something else	nongold
+35	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+36	cooking oil is a kind of oil	nongold
+37	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+38	less dense liquids; particles in liquids; materials float liquids; particiles in liquids; materials that are more dense	gold
+39	gas is a kind of substance	nongold
+40	placing is a kind of action	nongold
+41	The oil floats on top of the water.	answer
+42	water is a kind of liquid at room temperature	gold
+43	The oil floats on top of the water.	answer
+44	motion; movement means moving; to move	nongold
+45	water is an thermal; thermal energy conductor	nongold
+46	The oil floats on top of the water.	answer
+47	floating on water is a kind of adaptation	nongold
+48	gas is a kind of object	nongold
+49	water is a kind of liquid at room temperature	gold
+50	if something is places over a heat source then that something is exposed to that heat source	nongold
+51	low means down	nongold
+52	temperature is a measure of heat energy	nongold
+53	What happens when oil is placed in water?	question
+54	settle below is the opposite of float on	nongold

@@ -1,0 +1,102 @@
+Question	A hot, boiled egg is put into a cup of cold water. What happens to the temperature of the water and the egg?	question
+Answer	The water gets warmer and the egg gets colder.	answer
+0	an egg is a kind of food	nongold
+1	cooling;colder means removing;reducing;decreasing heat;temperature	gold
+2	chemical reactions in an egg that is being heated cause the liquid parts of the egg to become solid	nongold
+3	an egg is a kind of object	gold
+4	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+5	cold means low in temperature	nongold
+6	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	gold
+7	heating an egg causes a chemical reaction in the egg	nongold
+8	colder; cooler means lower in temperature	nongold
+9	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+10	water is a kind of liquid at room temperature	nongold
+11	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+12	if liquid is boiling then that liquid is hot	nongold
+13	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	gold
+14	temperature is a measure of heat energy	nongold
+15	a cup is a kind of drinking container	nongold
+16	an increase is the opposite of a decrease	nongold
+17	heating means adding heat	nongold
+18	moisture means liquid; liquid water	nongold
+19	warm means medium heat energy; temperature	nongold
+20	water is a kind of substance	gold
+21	an egg requires warmth to survive; hatch; develop	nongold
+22	warm means warm temperature	nongold
+23	liquid is a kind of state of matter	nongold
+24	hot means high in heat energy; temperature	nongold
+25	cooler means colder	nongold
+26	cooling means temperature decreases	nongold
+27	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+28	warmer means greater; higher in temperature; warmth	gold
+29	boiling is a kind of phase change	nongold
+30	a hot; warm something is a source of heat	gold
+31	something in a cold place becomes cold	nongold
+32	a liquid is a kind of substance	nongold
+33	temperature is a property of weather	nongold
+34	heat means heat energy	nongold
+35	a hot substance is a source of heat	nongold
+36	an increase is a kind of change	nongold
+37	to reduce means to decrease	nongold
+38	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+39	hot is the opposite of  cold	nongold
+40	to add means to increase	nongold
+41	a decrease is a kind of change	nongold
+42	warm is similar to hot	nongold
+43	solid is a kind of state of matter	nongold
+44	to lower means to decrease	nongold
+45	heat energy is synonymous with thermal energy	nongold
+46	a container contains objects; material; substances	nongold
+47	if heat is conducted to an object then that object will become hot	nongold
+48	heating is the opposite of cooling	nongold
+49	if an object is hot then the surfaces of that object are hot	nongold
+50	adding heat means increasing temperature	nongold
+51	cool means cold	nongold
+52	food is a kind of substance	nongold
+53	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+54	low is similar to decrease	nongold
+55	cold is a kind of weather	nongold
+56	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+57	if one surface; one substance; one object touches something then one is exposed to that something	gold
+58	heat means temperature increases	nongold
+59	water is a kind of matter	nongold
+60	temperature is a kind of condition	nongold
+61	warm is the opposite of cool	nongold
+62	high is similar to increase	nongold
+63	water is an thermal; thermal energy conductor	nongold
+64	being  on something; placed in something; placed over something means touching  that something	nongold
+65	gas is a kind of state of matter	nongold
+66	freezing is a kind of phase change	nongold
+67	if something is  cold in temperature , then something will be cold to touch	nongold
+68	a living thing is a kind of object	nongold
+69	if an object is touching a warmer object , then the  cooler  object will increase in temperature until two objects reach the same temperature	nongold
+70	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+71	if the environmental temperature; air temperature is too cold then an animal; a living thing in that environment may become cold	nongold
+72	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+73	if an object is put inside; poured into another object , then two objects are touching	nongold
+74	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+75	warm up means increase temperature	nongold
+76	warm; becoming warm means heat is added	nongold
+77	freezing means cold temperatures	nongold
+78	heat energy can change the state of matter	nongold
+79	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+80	boiling is when liquids are heated above their boiling point	nongold
+81	if food is cooked then heat energy is added to that food	nongold
+82	less is similar to decrease	nongold
+83	condensing means matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+84	if a container contains something then that container touches that something	nongold
+85	variable means able to change	nongold
+86	increase means more	nongold
+87	a container is a kind of object	nongold
+88	a solid is a kind of substance	nongold
+89	boiling means the volume of a liquid decreases	nongold
+90	water is a kind of object	nongold
+91	eggs become baby animals	nongold
+92	keeping warm is the opposite of becoming  cold	nongold
+93	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+94	temperature changing can cause phase changes	nongold
+95	if an object is made of a material then that object has the properties of that material	nongold
+96	a beverage is a kind of food	nongold
+97	affected means changed	nongold
+98	extreme means very high in value	nongold
+99	temperature drop means temperature decrease	nongold

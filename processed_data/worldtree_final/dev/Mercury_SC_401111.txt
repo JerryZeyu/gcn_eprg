@@ -1,0 +1,102 @@
+0	Which tool would be best to use to record the types of trees found along a riverbank?	question
+1	camera	answer
+2	a camera is a kind of tool for recording images	gold
+3	a camera is used for recording images	gold
+4	a type is synonymous with a kind	nongold
+5	a riverbank is made of soil	nongold
+6	a tree is a kind of plant	gold
+7	a tree is a kind of living thing	nongold
+8	a magnifying glass is a kind of tool for observing small things	nongold
+9	to detect means to find	nongold
+10	a river is a kind of flowing body of water	nongold
+11	instrument means tool	nongold
+12	recording data is similar to showing data	nongold
+13	a type of something is a kind of property of that something	nongold
+14	capturing an animal can be used for studying that animal	nongold
+15	recording an observation sometimes requires measuring	nongold
+16	a tool is a kind of object	nongold
+17	to view means to see	nongold
+18	recording is similar to measuring	nongold
+19	device means tool	nongold
+20	classifying is when one sorts something by kind; type	nongold
+21	image means visual depiction of an object	gold
+22	the location of an object can be used to describe that object	nongold
+23	to report means to show	nongold
+24	to discover means to find	nongold
+25	if something is located in some place , then the presence of that something can be found in that location	nongold
+26	a body of water is a kind of environment	nongold
+27	magnifying glass is used to see  small things by making objects appear bigger	nongold
+28	a plant is a kind of living thing	nongold
+29	if something is located  in somewhere , then something can be found in somewhere	nongold
+30	a stream is a kind of body of water	nongold
+31	a living thing is a kind of object	gold
+32	to identify means to discover	nongold
+33	if something is a part of something then that something can be found in that something	nongold
+34	a landform is a kind of object	nongold
+35	magnifying makes seeing small things easier through using a magnifying glass; using a microscope	nongold
+36	to see means to look	nongold
+37	binoculars are a kind of instrument for observing distant objects	nongold
+38	sight means to see	nongold
+39	binoculars are used for observing distant objects	nongold
+40	a plant is a kind of organism	gold
+41	motion is when moves an object; something to a direction	nongold
+42	landform means surface feature; physical feature; land feature	nongold
+43	a surface is a part of an object	nongold
+44	observe means see	nongold
+45	place; location is synonymous with position	nongold
+46	to absorb means to capture	nongold
+47	roots are a part of a plant; tree	nongold
+48	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+49	most ferns are located along rivers	nongold
+50	An example of observing things is taking a picture	nongold
+51	best means most positive	nongold
+52	if something does not move then that something can be found in the same location	nongold
+53	place means area	nongold
+54	an part of an object is smaller than the entire object	nongold
+55	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	nongold
+56	finding something means locating that something	nongold
+57	a riverbed is a part of a river	nongold
+58	place is synonymous with location	nongold
+59	surface type is a kind of characteristic	nongold
+60	variety means different kinds; different types	nongold
+61	take a picture means create a picture	nongold
+62	a landform is a kind of place	nongold
+63	a landform is a kind of place	nongold
+64	something's function can be used to describe; identify that something	nongold
+65	an organism is a living thing	gold
+66	a forest contains  lots of plants; trees	nongold
+67	a branch is a part of a tree	nongold
+68	the Colorado River is a kind of river	nongold
+69	measuring is used for describing an object	nongold
+70	a river is a kind of channel for water	nongold
+71	length is a measure of distance from one end of an object to the other end of that object	nongold
+72	casting an image of an object through a pinhole onto a screen does not require looking directly at the object	nongold
+73	can be means able to be	nongold
+74	to show means to display	nongold
+75	sight means vision	nongold
+76	look at means observe	nongold
+77	form means kind	nongold
+78	an image transmits visual information	gold
+79	an environment means an area	nongold
+80	length is a part of size	nongold
+81	a convex lens is used in camera	nongold
+82	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+83	to be found in means to be contained in	nongold
+84	motion; movement means moving; to move	nongold
+85	spot means location	nongold
+86	a tree is a kind of matter	nongold
+87	measuring sometimes requires  recording; learning an amount	nongold
+88	the properties of something are used for describing that something	nongold
+89	eyes are a part of a human for seeing	nongold
+90	water is a kind of medium for light	nongold
+91	a hand lens; a magnifying lens is synonymous with a magnifying glass	nongold
+92	a surface is a kind of object	nongold
+93	an animal is a kind of living thing	nongold
+94	a community is made of many types of organisms in an area	nongold
+95	far means great in distance	nongold
+96	finding something requires sensing that something	nongold
+97	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	nongold
+98	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+99	classifying means grouping objects; materials by their properties	nongold
+100	viewing means observing light	nongold
+101	determining the type of an organism requires having information about that organism	gold

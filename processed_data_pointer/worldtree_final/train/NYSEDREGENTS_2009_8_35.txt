@@ -1,0 +1,101 @@
+0	to eat means to consume food	nongold
+1	adverse effect means negative impact	nongold
+2	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+3	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+4	nutrients are a kind of material	nongold
+5	a fruit is a kind of object	nongold
+6	an orange tree is a kind of tree	nongold
+7	high is similar to increase	nongold
+8	lack is similar to low; little	nongold
+9	illness has a negative impact on an organism's health	nongold
+10	an animal is a kind of organism	nongold
+11	lemonade is made of water, lemon juice, and sugar	nongold
+12	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+13	requiring is similar to needing help	nongold
+14	to inhibit means to prevent	nongold
+15	food is a kind of substance	nongold
+16	a lemon is a kind of fruit	gold
+17	deplete is similar to decrease	nongold
+18	an apple is a kind of fruit	nongold
+19	lemon juice is a kind of acid	nongold
+20	an animal requires enough nutrients to maintain good health; survive	nongold
+21	decreasing something positive has a negative impact on a thing	nongold
+22	meat is a kind of food	nongold
+23	a lemon tree is a kind of plant	nongold
+24	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+25	scurvy is a kind of disease	gold
+26	a nutrient is a kind of object	nongold
+27	harming an organism can cause that organism to die	nongold
+28	less is similar to decrease	nongold
+29	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+30	to keep something from happening means to prevent that something	nongold
+31	having food has a positive impact on an organism's health	nongold
+32	an animal needs to eat food for nutrients	nongold
+33	a nutritional deficiency	answer
+34	trait is synonymous with characteristic	nongold
+35	sugary foods; drinks are dangerous to a person with diabetes	nongold
+36	a vegetable is a kind of food	nongold
+37	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+38	to prevent means to make it not happen	nongold
+39	helping something has a  positive impact on that something	nongold
+40	eating something decreases the amount of that something	nongold
+41	spice is a kind of  food	nongold
+42	preventing something decreases the amount of that something	nongold
+43	to prevent the occurence of an event means to decrease the occurence of the event	nongold
+44	lemon juice is a kind of acid	nongold
+45	dying is the opposite of living; surviving	nongold
+46	to be a source of something means to cause that something	nongold
+47	fruit is a part of a plant; tree	nongold
+48	disease has a negative impact on an organism	nongold
+49	when an animal eats or drinks something , that animal tastes that something	nongold
+50	protecting something means preventing harm to that something	nongold
+51	fruit is a kind of food	gold
+52	a person is a kind of animal	nongold
+53	avoiding is similar to preventing	nongold
+54	negative impact is the opposite of positive impact	nongold
+55	a living thing is a kind of object	nongold
+56	a germ is a kind of harmful substance	nongold
+57	if a living thing requires something then that something has a positive impact on that living thing	nongold
+58	food spoiling has a negative impact on the health of the animal that eats that food	nongold
+59	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+60	a human is a kind of animal	nongold
+61	life means living things	nongold
+62	nonliving; non-living; die is the opposite of living; alive; live	nongold
+63	inhibitor means something that prevents something from happening	nongold
+64	human is a kind of organism	nongold
+65	requiring something means needing that something	nongold
+66	a food contains nutrients for living things	nongold
+67	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+68	an animal is a kind of living thing	nongold
+69	food poisoning is a kind of illness	nongold
+70	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	gold
+71	a cause of something is a reason for that something	nongold
+72	little is similar to decrease	nongold
+73	diet means what an animal eats	nongold
+74	a lemon has strong odor	nongold
+75	the  diet of an animal is an inherited characteristic	nongold
+76	reducing bacteria in food prevents illness in people	nongold
+77	decreasing something negative has a positive impact on a thing	nongold
+78	an animal; living thing requires nutrients for survival	nongold
+79	disease means illness	nongold
+80	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+81	as the cause of something decreases , that something will decrease	nongold
+82	fruit is  usually a solid	nongold
+83	person is synonymous with human	nongold
+84	lack of food causes starvation	nongold
+85	Scurvy is a disease that sailors often got on long voyages. It was discovered that scurvy could be prevented by eating oranges and lemons. This suggests that scurvy is a disease caused by	question
+86	an organism is a living thing	nongold
+87	lemon juice is a kind of substance	nongold
+88	low is similar to decrease	nongold
+89	eating oranges; lemons can prevent scurvy	gold
+90	nutrients are a kind of substance	nongold
+91	a plant is a kind of organism	nongold
+92	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+93	an increase is the opposite of a decrease	nongold
+94	a vegetable is a kind of plant	nongold
+95	orange is a kind of color	nongold
+96	healthy means not having disease	nongold
+97	food is what an animal eats	nongold
+98	nutrients are a kind of matter	nongold
+99	harming something has a  negative impact on; effect on that something	nongold
+100	an orange is a kind of fruit	gold

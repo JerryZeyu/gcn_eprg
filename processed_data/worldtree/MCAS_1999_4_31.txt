@@ -1,0 +1,102 @@
+Question	If its food supply in a field decreases, the mouse population in that field will probably	question
+Answer	decrease.	answer
+0	as the supply of food in an environment decreases , the population of animals in that environment will decrease	gold
+1	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+2	a mouse is a kind of mammal	nongold
+3	a mouse is a kind of animal	gold
+4	a field is a kind of environment	gold
+5	a mouse is a kind of herbivore	nongold
+6	a field is a kind of habitat	nongold
+7	to reduce means to decrease	nongold
+8	as  population of prey decreases , the population of predators will  decrease	nongold
+9	an increase is the opposite of a decrease	nongold
+10	to lower means to decrease	nongold
+11	as population of predators increases , the population of prey will decrease in an environment	nongold
+12	a mammal is a kind of animal	nongold
+13	as the cause of something decreases , that something will decrease	nongold
+14	an animal; living thing requires nutrients for survival	nongold
+15	an animal is a kind of living thing	nongold
+16	as population of predators decreases , the population of prey will increase in an environment	nongold
+17	as the rate of  reproduction decreases , the population will decrease	nongold
+18	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+19	an organism is a living thing	nongold
+20	a decrease is a kind of change	nongold
+21	an animal is a kind of organism	nongold
+22	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+23	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+24	a cat is a kind of mammal	nongold
+25	a population is made of one type of organism in an area	nongold
+26	increase means more	nongold
+27	an increase is a kind of change	nongold
+28	mice live in in holes in the ground in fields; in forests	nongold
+29	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+30	a supply of something is a source of that something	nongold
+31	as the population of plants decreases , the population of herbivores will decrease	nongold
+32	eating something decreases the amount of that something	nongold
+33	killing a living thing decreases the number; population size of that living thing	nongold
+34	fur is a part of a mouse	nongold
+35	a food shortage can cause the population of a species to decrease	nongold
+36	a food contains nutrients for living things	nongold
+37	a mouse births; gives birth to live young	nongold
+38	if the population of an organism increases then the ecosystem may become overpopulated with that organism	nongold
+39	less is similar to decrease	nongold
+40	an animal needs to eat food for nutrients	nongold
+41	high is similar to increase	nongold
+42	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+43	food supply often limits predator population size in an ecosystem	nongold
+44	a plant; living thing requires food for survival	nongold
+45	some hares live in  fields	nongold
+46	a monkey is a kind of mammal	nongold
+47	as available water in an environment decreases , the amount of available food in that environment will decrease	nongold
+48	reproduction increases the number; population of a living thing	nongold
+49	a human is a kind of mammal	nongold
+50	a cat is a kind of animal	nongold
+51	a deer mouse is a kind of mouse	nongold
+52	low is similar to decrease	nongold
+53	a cat is a kind of carnivore	nongold
+54	harming an animal species causes that animal's population to decrease	nongold
+55	organisms are a part of an environment	nongold
+56	the supply of an inexhaustible resource does not change over a long period of time	nongold
+57	negative impacts on a species will decrease populations of a species	nongold
+58	if the amount of available food and water decreases in an environment then animals may leave that environment to find food and water	nongold
+59	humans changing an environment causes animal populations to decrease in that environment	nongold
+60	if an organism dies then the population of that organism will decrease	nongold
+61	a human is a kind of animal	nongold
+62	prey  is a kind of animal	nongold
+63	a field contains soil	nongold
+64	prey is a kind of food for predators	nongold
+65	if a living thing requires something then that something has a positive impact on that living thing	nongold
+66	living things eat their food source	nongold
+67	a living thing is a kind of object	nongold
+68	food is what an animal eats	nongold
+69	positive impacts on a species will increase populations of a species	nongold
+70	affected means changed	nongold
+71	population increase means more survive	nongold
+72	if something releases something else then that something else decreases in that something	nongold
+73	if something returns to a place then that something increases in that place	nongold
+74	population is a measure of the number of a species in an environment	nongold
+75	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+76	an environment means an area	nongold
+77	if a new predator begins eating prey then the population of that prey will decrease	nongold
+78	as available resources increases , the population of an organism that uses those resources will increase	nongold
+79	a source of something increases the amount of that something	nongold
+80	a plant is a kind of organism	nongold
+81	an event is a kind of action	nongold
+82	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+83	negative impact is the opposite of positive impact	nongold
+84	if an organism eats something then that something is a source of frood to that organism	nongold
+85	a source of something supplies that something	nongold
+86	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+87	a predator eats other animals for food	nongold
+88	a rabbit is a kind of mammal	nongold
+89	a bird is a kind of living thing	nongold
+90	predators eat prey	nongold
+91	little is similar to decrease	nongold
+92	a plant is a kind of living thing	nongold
+93	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+94	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+95	if something has a positive impact on an organism's growth then that something increases the population of that organism	nongold
+96	to limit means to decrease	nongold
+97	if something is eliminated then the amount of that something decreases	nongold
+98	change is a kind of impact	nongold
+99	fur is usually part of a mammal	nongold

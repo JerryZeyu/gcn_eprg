@@ -1,0 +1,102 @@
+Question	How are a tree and grass alike?	question
+Answer	Both have roots.	answer
+0	grass is a kind of green plant	gold
+1	roots are a part of a plant; tree	gold
+2	grass does not contain wood	gold
+3	a tree is a kind of plant	nongold
+4	a tree is a kind of living thing	nongold
+5	a plant; living thing requires nutrients to grow	nongold
+6	a plant is a kind of living thing	nongold
+7	a plant requires soil for survival; to grow	nongold
+8	a tree contains wood	nongold
+9	a leaf is a part of a  green plant	nongold
+10	a leaf is a kind of plant	nongold
+11	an animal is a kind of living thing	nongold
+12	all living things grow	nongold
+13	a leaf is a part of a tree	nongold
+14	vegetation means plants	nongold
+15	both means two	nongold
+16	a plants; living things require water for survival; to grow	nongold
+17	a root is a kind of object	nongold
+18	a plant is a kind of organism	nongold
+19	a branch is a part of a tree	nongold
+20	plants absorb nutrients; water; oxygen from soil into themselves through their roots	nongold
+21	an organism is a living thing	nongold
+22	soil contains nutrients for plants	nongold
+23	a plant; living thing requires food for survival	nongold
+24	a stem is often a part of plant	nongold
+25	roots are a vehicle for absorbing water and nutrients from soil into the plant	nongold
+26	a living thing is a kind of object	nongold
+27	a shrub is a kind of plant	nongold
+28	an animal; living thing requires nutrients for survival	nongold
+29	a vine is a kind of stem	nongold
+30	roots hold soil in place	nongold
+31	same means identical; equal in value; amount; number; quantity	nongold
+32	a part of a living thing is a natural structure	nongold
+33	an animal is a kind of organism	nongold
+34	a leaf is a kind of object	nongold
+35	a plant requires photosynthesis to grow; survive	nongold
+36	a human is a kind of animal	nongold
+37	to lack means to not have	nongold
+38	roots anchor plants into the soil	nongold
+39	a food contains nutrients for living things	nongold
+40	a forest contains  lots of plants; trees	nongold
+41	a fern is a kind of plant	nongold
+42	people can plant trees	nongold
+43	some species of tree are deciduous	nongold
+44	an onion is a kind of vegetable	nongold
+45	a vegetable is a kind of plant	nongold
+46	different organisms reproduce differently	nongold
+47	different is the opposite of the same	nongold
+48	to contain means to have inside	nongold
+49	a cactus is a kind of plant	nongold
+50	plant parts are made of plants	nongold
+51	weeds use up nutrients	nongold
+52	living things can all reproduce	nongold
+53	grass roots reduce soil erosion	nongold
+54	plant requires seed dispersal for reproduction	nongold
+55	the  property of something is the same for the things of same kind	nongold
+56	to be made of something means to be formed of that something	nongold
+57	green plants are a kind of producer	nongold
+58	a vine is a kind of plant	nongold
+59	identical is the opposite of different	nongold
+60	a decomposer is a kind of living thing	nongold
+61	an animal requires nutrients to grow and heal	nongold
+62	seeds sprouting causes plants to grow	nongold
+63	soil is a part of the ground outside	nongold
+64	a seed is a part of a plant	nongold
+65	to change means to become different	nongold
+66	if two things have the same features then those two things are alike	gold
+67	a worm is a kind of living thing	nongold
+68	the ability to grow is a kind of trait	nongold
+69	not is similar to the opposite of	nongold
+70	the force of water against the seed coat causes a root to emerge from a seed	nongold
+71	a fungus is a kind of living thing	nongold
+72	opposite is a kind of different	nongold
+73	decomposition is when a decomposer recycles; returns nutrients; nitrogen from dead organisms to the soil by eating those dead organisms	nongold
+74	made up of means contains; made of	nongold
+75	soil is usually part of an environment	nongold
+76	all living and nonliving materials are made of elements	nongold
+77	if a plant is planted; growing somewhere then that plant is located there	nongold
+78	a tree is a kind of habitat	nongold
+79	person is synonymous with human	nongold
+80	plants are a part of the environment	nongold
+81	eating an animal; a plant means killing that animal; that plant	nongold
+82	a plant requires water to grow	nongold
+83	a source of something emits; produces; generates; provides that something	nongold
+84	soil is a kind of nonliving thing	nongold
+85	life means living things	nongold
+86	must have means require	nongold
+87	dying is the opposite of living; surviving	nongold
+88	a berry contains seeds	nongold
+89	an object has properties	nongold
+90	can be means able to be	nongold
+91	a forest is a kind of environment	nongold
+92	bark is a part of a tree	nongold
+93	trees of different species have differently shaped leaves	nongold
+94	a tree requires sunlight to grow	nongold
+95	plants of the same species have the same type of seed	nongold
+96	decomposition increases the  amount of nutrients; nitrogen in the soil	nongold
+97	an insect is a kind of animal	nongold
+98	if something changes , then that something is not the same	nongold
+99	soil is a kind of material	nongold

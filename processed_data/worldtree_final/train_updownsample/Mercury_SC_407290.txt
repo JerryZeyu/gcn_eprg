@@ -1,0 +1,58 @@
+0	vegetation means plants	nongold
+1	if a plant dies then that plant will not produce food	nongold
+2	plants are a source of biofuel	nongold
+3	the respiratory system takes in oxygen from the air	nongold
+4	to improve means to have a positive impact	gold
+5	a plant absorbs carbon dioxide from the air for photosynthesis	nongold
+6	as the population of plants decreases , carbon in the atmosphere will increase	nongold
+7	causing is similar to generating	nongold
+8	plant cells can perform photosynthesis	nongold
+9	How can plants most likely improve air quality?	question
+10	if technology used for a process is improved then the product produced by that process will increase	nongold
+11	when carbon dioxide in the atmosphere is absorbed by plants , the amount of carbon dioxide in the atmosphere is reduced in the atmosphere	nongold
+12	plants are a source of oxygen through photosynthesis	gold
+13	to improve means to have a positive impact	gold
+14	people can plant trees	nongold
+15	if something causes a process then that something is required for that process	nongold
+16	oxygen has a positive impact on air quality	gold
+17	producing is a kind of process	nongold
+18	by producing oxygen	answer
+19	How can plants most likely improve air quality?	question
+20	oxygen has a positive impact on air quality	gold
+21	producing is a kind of function	nongold
+22	processes sometimes produce waste products	nongold
+23	by producing oxygen	answer
+24	photosynthesis is a source of oxygen	nongold
+25	a leaf is a part of a tree	nongold
+26	plants are a part of the environment	nongold
+27	if something is required for a process then that something positively impacts that process	nongold
+28	How can plants most likely improve air quality?	question
+29	oxygen is a stage in the carbon dioxide-oxygen cycle process	nongold
+30	a source of something emits; produces; generates; provides that something	gold
+31	to improve means to have a positive impact	gold
+32	a source of something emits; produces; generates; provides that something	gold
+33	generate means produce	nongold
+34	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+35	a source of something increases the amount of that something	nongold
+36	plants are a source of oxygen through photosynthesis	gold
+37	a part of a process means a stage in a process	nongold
+38	emit means produce	nongold
+39	How can plants most likely improve air quality?	question
+40	to be good for means to have a positive impact on	nongold
+41	oxygen is a kind of gas at room temperature	nongold
+42	a source of something emits; produces; generates; provides that something	gold
+43	oxygen has a positive impact on air quality	gold
+44	to breathe in means to absorb air	nongold
+45	a plant is a kind of organism	nongold
+46	air is a kind of gas	nongold
+47	plants are a source of oxygen through photosynthesis	gold
+48	atmospheric means of the atmosphere	nongold
+49	a process usually requires all of the stages in that process	nongold
+50	by producing oxygen	answer
+51	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+52	if something emits something else then that something increases the amount of that something else	nongold
+53	converting is similar to generating	nongold
+54	by producing oxygen	answer
+55	a plant is a member of a plant species	nongold
+56	products are formed; are produced; are created	nongold
+57	to produce means to create	nongold

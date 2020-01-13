@@ -1,0 +1,56 @@
+0	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+1	a source of something emits; produces; generates; provides that something	nongold
+2	if something transfers something else then that something is a source of something else	nongold
+3	a flashlight	answer
+4	energy conversion is similar to energy transformation	nongold
+5	a flashlight converts electrical energy; electricity into light energy	nongold
+6	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+7	to transform means to convert	gold
+8	electrical energy is a kind of energy	nongold
+9	light is a kind of energy	nongold
+10	substances are made of elements	nongold
+11	a flashlight	answer
+12	gas is a kind of object	nongold
+13	a device is a kind of object	gold
+14	UV light is a kind of light	nongold
+15	a flashlight	answer
+16	objects are made of materials; substances; matter	nongold
+17	to transform means to convert	gold
+18	different substances usually have different amount of chemical energy	nongold
+19	chemical splashing sometimes occurs during experiments	nongold
+20	substances are made of molecules	nongold
+21	a vehicle is a kind of object	nongold
+22	device means tool	nongold
+23	convert is similar to transfer	nongold
+24	In which object does chemical energy most likely transform into electrical energy?	question
+25	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+26	chemical energy is a kind of energy	nongold
+27	a firecracker converts chemical energy into sound energy and light energy and heat energy	nongold
+28	a flashlight is a kind of electrical device	nongold
+29	batteries convert chemical energy to electrical energy	nongold
+30	a flashlight	answer
+31	An example of a chemical change is electrical energy breaking down a compound	nongold
+32	In which object does chemical energy most likely transform into electrical energy?	question
+33	instrument means device	nongold
+34	to illuminate means to light up	nongold
+35	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+36	a living thing is a kind of object	nongold
+37	In which object does chemical energy most likely transform into electrical energy?	question
+38	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+39	a flashlight is a kind of battery-operated device	gold
+40	forming is similar to converting	nongold
+41	a flashlight emits light	nongold
+42	a flashlight is a kind of battery-operated device	gold
+43	objects contain chemical energy	nongold
+44	In which object does chemical energy most likely transform into electrical energy?	question
+45	a device is a kind of object	gold
+46	a device is a kind of object	gold
+47	can be means able to be	nongold
+48	a  chemical property is a kind of  property	nongold
+49	to convert means to change	nongold
+50	a flashlight is a kind of battery-operated device	gold
+51	substances are made of matter	nongold
+52	a battery converts chemical energy into electrical energy for powering electrical devices	gold
+53	a flashlight is a kind of tool	nongold
+54	to transform means to convert	gold
+55	an atom is a kind of object	nongold

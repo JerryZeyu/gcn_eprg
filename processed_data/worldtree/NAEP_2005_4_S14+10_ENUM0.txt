@@ -1,0 +1,102 @@
+Question	Rocks and Earth and on the Moon are made of similar materials. What does this observation most likely suggest?	question
+Answer	The Moon was probably formed from material from Earth.	answer
+0	Earth is made of rock	nongold
+1	if two objects are made of similar materials then one of those objects may be formed from material from the other object	gold
+2	to be made of something means to be formed of that something	nongold
+3	a moon is a kind of celestial object; body	gold
+4	the Moon is Earth's moon	nongold
+5	a planet is a kind of celestial object; body	gold
+6	objects are made of materials; substances; matter	gold
+7	if two objects are composed of similar materials then those objects may have come from the same source	nongold
+8	if two things are made from the same objects; material then those two things are similar	nongold
+9	rock is a kind of material	nongold
+10	Earth is a kind of planet	gold
+11	form means kind	nongold
+12	the moon orbits the Earth	nongold
+13	made of is similar to is built from	nongold
+14	to be made of means to consist of	nongold
+15	an object; material; substance comes from that object or material's source	nongold
+16	composed of means made of	gold
+17	materials are made of matter	nongold
+18	to be formed means to be originated	nongold
+19	rock is made of minerals	nongold
+20	moons are large; solid; spherical	nongold
+21	if something is made of something else then that something can be broken down into that something else	nongold
+22	to make means to form	nongold
+23	usually craters on planets; craters on moons are formed by asteroids;meteoroids impacting that planet or moon's surface	nongold
+24	to cause the formation of means to form	nongold
+25	material means substance	nongold
+26	rock means stone	nongold
+27	a star is a kind of celestial object; celestial body	nongold
+28	a rock is usually a solid	nongold
+29	a rock is a kind of object	gold
+30	the chemical composition of moon rocks is similar to the chemical composition of Earth rocks	nongold
+31	the moon is the celestial object that is closest to the  Earth	nongold
+32	substances are made of matter	nongold
+33	substances are made of elements	nongold
+34	matter; materials; substances are made of atoms; particles	nongold
+35	where something  comes from is a source of that something	nongold
+36	if something comes from something else then that something else is a source of that something	nongold
+37	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+38	Earth's surface is made of rock	nongold
+39	moons orbit planets	nongold
+40	to form means to create	nongold
+41	made of is similar to contains	nongold
+42	a moon is a kind of satellite	nongold
+43	if an object is made of a material then that object has the properties of that material	nongold
+44	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+45	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+46	an object is made of its parts	nongold
+47	to change into means to form	nongold
+48	if something is made of something else , then that something else will be the component of that something	nongold
+49	composition means the (materials, substances) of which something is composed	nongold
+50	type of moon; kind of moon means moon phase	nongold
+51	forming something is a kind of change	nongold
+52	metal is a kind of material	nongold
+53	the four planets closest to the sun are made of rock	nongold
+54	the Sun is a kind of star	nongold
+55	if an object is made of something then the parts of that object are made of that something	nongold
+56	if something is a raw material then that something comes directly from a source	nongold
+57	the moon rotates on its axis	nongold
+58	the earth has more mass than the moon	nongold
+59	to be formed by is similar to being produced by	nongold
+60	to be formed by is to be the result of	nongold
+61	made up of means contains; made of	nongold
+62	if something is made of something else then the formation of that something requires that something else	nongold
+63	an asteroid is made of rock and metal	nongold
+64	moons; comets; planets are part of the solar system	nongold
+65	composite materials are made of two more more materials	nongold
+66	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+67	to be believed to be is similar to maybe	nongold
+68	the moon reflects sunlight towards the Earth	nongold
+69	products are formed; are produced; are created	nongold
+70	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+71	an element is a kind of material	nongold
+72	the moon does not contain air; water	nongold
+73	a planet's  moon is smaller than that planet	nongold
+74	a full moon is a kind of phase of the moon	nongold
+75	if an object orbits a celestial object then that object is probably a celestial object as well	nongold
+76	to create means to make	nongold
+77	scientists make observations	nongold
+78	a whole is formed by its parts	nongold
+79	state means form	nongold
+80	a source of something emits; produces; generates; provides that something	nongold
+81	different materials usually have different properties	nongold
+82	composition is a property of an object; matter	nongold
+83	metamorphosed rock is a kind of rock	nongold
+84	the sun is a kind of yellow dwarf	nongold
+85	all elements are a kind of pure substance	nongold
+86	astronomy is the study of celestial (objects, bodies)	nongold
+87	a comet is a kind of celestial body	nongold
+88	the Moon is closer to the Earth than the Sun	nongold
+89	breaking down is a kind of forming	nongold
+90	matter is made of molecules	nongold
+91	the moon's orbit is elliptical	nongold
+92	the Moon has less water; air than Earth	nongold
+93	creating means making	nongold
+94	the sun is a source of light; light energy called sunlight	nongold
+95	a mineral is a kind of solid; natural material	nongold
+96	the Earth revolves around the sun	nongold
+97	igneous rocks; minerals are formed by magma; lava cooling; crystallizing	nongold
+98	gravity causes orbits	nongold
+99	the sun is a source of radiation; heat called sunlight	nongold

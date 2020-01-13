@@ -1,0 +1,102 @@
+0	killing means harming something causing death	nongold
+1	to reduce means to decrease	nongold
+2	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+3	fruit is a kind of food	nongold
+4	a population is made of one type of organism in an area	nongold
+5	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+6	humans changing an environment causes animal populations to decrease in that environment	gold
+7	having no natural predators increases population size	nongold
+8	a fruit is a kind of object	nongold
+9	farming is when a human plants crops for food	gold
+10	fruit trees are a kind of crop	gold
+11	low is similar to decrease	nongold
+12	a bird is a kind of living thing	nongold
+13	nonliving; non-living; die is the opposite of living; alive; live	nongold
+14	an animal is a kind of living thing	nongold
+15	less is similar to decrease	nongold
+16	an increase is a kind of change	nongold
+17	harming something has a  negative impact on; effect on that something	nongold
+18	an environment means an area	gold
+19	reproduction increases the number; population of a living thing	nongold
+20	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+21	population is a measure of the number of a species in an environment	nongold
+22	a farmer farms crops; plants for  food	gold
+23	remains mean parts of a dead organism	nongold
+24	growth means size;number;value;strength increases	nongold
+25	smaller means less; lower in size	nongold
+26	some rabbits live in forests	nongold
+27	as the supply of food in an environment decreases , the population of animals in that environment will decrease	nongold
+28	a berry is a kind of fruit	nongold
+29	farming happens on a farm	nongold
+30	high is similar to increase	nongold
+31	growing larger is when size increases	nongold
+32	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+33	a grassland is a kind of environment	nongold
+34	killing means changing a living thing from alive to dead by harming	nongold
+35	a tree is a kind of plant	nongold
+36	farming changes the environment	gold
+37	a meadow is a kind of environment	gold
+38	an animal is a member of an animal species	nongold
+39	when a habitat can support living things , living things can live in that habitat	nongold
+40	a plant; living thing requires nutrients to grow	nongold
+41	crops; farming cause nutrients in the soil to decrease	nongold
+42	to add means to increase	nongold
+43	animals; living things live and feed in their habitats; near their habitats	gold
+44	harming an organism can cause that organism to die	nongold
+45	killing a living thing decreases the number; population size of that living thing	nongold
+46	if members of a species are born; survive then the population of that species increases	nongold
+47	an ecosystem contains nonliving things	nongold
+48	an animal requires a habitat for survival	nongold
+49	shrinking decreases size	nongold
+50	if the population of an animal decreases then that animal may no longer be found in that place	nongold
+51	if a living thing dies then that living thing is dead	nongold
+52	a tree is a kind of living thing	nongold
+53	an animal is a kind of organism	nongold
+54	farming is a source of food	nongold
+55	negative impacts on a species will decrease populations of a species	nongold
+56	a rabbit is a kind of prey	nongold
+57	if an organism dies then the population of that organism will decrease	nongold
+58	a plant is a kind of organism	nongold
+59	an animal; living thing requires nutrients for survival	nongold
+60	eating an animal; a plant means killing that animal; that plant	nongold
+61	as the population of plants decreases , the population of herbivores will decrease	nongold
+62	a decrease is a kind of change	nongold
+63	a bird is a kind of animal	nongold
+64	a rabbit is a kind of animal	gold
+65	an organism is a living thing	nongold
+66	life means living things	nongold
+67	decreasing is similar to becoming smaller	nongold
+68	farming is a kind of process	nongold
+69	if a population decreases to zero then that organism is extinct	nongold
+70	as  population of prey decreases , the population of predators will  decrease	nongold
+71	larger means greater; higher; more; increase in size	nongold
+72	harming an animal species causes that animal's population to decrease	nongold
+73	harming an animal species has a  negative impact on the population size of that species	nongold
+74	as the amount; size of something increases , the extensive properties of that something will increase	nongold
+75	a living thing is a kind of object	nongold
+76	an increase is the opposite of a decrease	nongold
+77	as amount; size of something increases , the intensive properties of that something will not change	nongold
+78	a rabbit is a kind of herbivore	nongold
+79	plants are the source of fruit	nongold
+80	meadow voles eat plants; insects	nongold
+81	as population of predators increases , the population of prey will decrease in an environment	nongold
+82	Farmers plant fruit trees in an area that was once a grassy meadow. Which will most likely happen to the rabbits living in the meadow?	question
+83	to happen means to occur	nongold
+84	fruit is a part of a plant; tree	nongold
+85	a rabbit is a kind of mammal	nongold
+86	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+87	a plant is a kind of living thing	nongold
+88	organisms; living things live in their habitat; their home	nongold
+89	rabbits eat plants	nongold
+90	farming decreases animal habitats	nongold
+91	to lower means to decrease	nongold
+92	crops are a kind of edible plant for eating	nongold
+93	as the use of a crop increases , the amount of  crops planted will increase	nongold
+94	planting crops is synonymous with growing crops	nongold
+95	a plant; living thing requires food for survival	nongold
+96	The size of their population will decrease.	answer
+97	as population of predators decreases , the population of prey will increase in an environment	nongold
+98	a farmer is a kind of human	gold
+99	as the rate of  reproduction decreases , the population will decrease	nongold
+100	a tree is a kind of habitat	nongold
+101	plants are a part of the environment	nongold

@@ -1,0 +1,53 @@
+0	an event is a kind of action	nongold
+1	nonrenewable resources will eventually be depleted	nongold
+2	minerals are a nonrenewable resource	nongold
+3	oil	answer
+4	if something comes from something else then that something else is a source of that something	nongold
+5	gasoline is a source of chemical energy	nongold
+6	oil is a nonrenewable resource	gold
+7	electricity means electrical energy	nongold
+8	to be used for something means to be required by that something	nongold
+9	chemical energy is a kind of energy	nongold
+10	biofuel is used to produce electricity by burning	nongold
+11	oil is a nonrenewable resource	gold
+12	natural gas is a nonrenewable resource	nongold
+13	oil is a nonrenewable resource	gold
+14	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+15	oil is a kind of substance; matter	nongold
+16	to create means to make	nongold
+17	fuel is a source of energy	nongold
+18	fuel is a kind of energy source	nongold
+19	if something is a raw material then that something comes directly from a source	nongold
+20	natural gas is used for generating electricity by burning in a power plant	nongold
+21	emit means produce	nongold
+22	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+23	an energy source is a kind of resource	gold
+24	a body of water is a source of water	nongold
+25	to provide something means to be the source of that something	nongold
+26	oil is a source of gasoline	nongold
+27	Which energy source is considered nonrenewable?	question
+28	if something requires something else then that something requires a source of that something else	nongold
+29	oil	answer
+30	high is similar to increase	nongold
+31	oil	answer
+32	if something transfers something else then that something is a source of something else	nongold
+33	converting is similar to producing	nongold
+34	oil	answer
+35	a renewable resource can be renewed	nongold
+36	a source of something supplies that something	nongold
+37	Which energy source is considered nonrenewable?	question
+38	an energy source is a kind of resource	gold
+39	if something releases something else then that something is the source of that something else	nongold
+40	electricity is used as an energy source by electrical devices	nongold
+41	creating means making	nongold
+42	solar energy is a kind of energy	nongold
+43	a fuel is used to make energy	nongold
+44	to cause means to make	nongold
+45	coal is a nonrenewable resource	nongold
+46	Which energy source is considered nonrenewable?	question
+47	where something  comes from is a source of that something	nongold
+48	resources sometimes are used for energy	nongold
+49	fossil fuels release carbon dioxide into the atmosphere	nongold
+50	Which energy source is considered nonrenewable?	question
+51	an energy source is a kind of resource	gold
+52	a nonrenewable resource is limited in supply	nongold

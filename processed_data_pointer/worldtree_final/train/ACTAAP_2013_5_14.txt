@@ -1,0 +1,102 @@
+0	to add means to increase	nongold
+1	remove means decrease	nongold
+2	warm up means increase temperature	nongold
+3	expand is a kind of change in volume	gold
+4	causing is similar to allowing	nongold
+5	Matter in the liquid phase has definite volume	nongold
+6	a demonstration is similar to an example	nongold
+7	heating means adding heat	gold
+8	a freezer is used for cooling things	nongold
+9	warm means medium heat energy; temperature	nongold
+10	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+11	contracts in the freezer and then expands as it gets warmer again	answer
+12	the heat energy in the cooler object increases in thermal conduction	nongold
+13	absorbing energy causes objects; materials; substances to heat	nongold
+14	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+15	gas is a kind of object	nongold
+16	gas is a kind of substance	nongold
+17	to be used for is similar to allowing	nongold
+18	a balloon contains gas	gold
+19	water is a kind of matter	nongold
+20	water is a kind of object	nongold
+21	mL means milliliters	nongold
+22	if a substance has volume , then the substance takes up space	nongold
+23	expand means increase in size	nongold
+24	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+25	a liquid is a kind of substance	nongold
+26	when a flexible container is filled with a substance , then the volume of the container will be the volume of the substance	nongold
+27	being  on something; placed in something; placed over something means touching  that something	nongold
+28	a balloon is a kind of object	nongold
+29	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+30	when a gas in an open container evaporates; boils , that gas spreads out into the air	nongold
+31	a balloon is made of rubber	nongold
+32	warm; becoming warm means heat is added	gold
+33	a bubble contains gas	nongold
+34	if  something is placed in warm air then that something will become warm	nongold
+35	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+36	moisture means liquid; liquid water	nongold
+37	a container contains objects; material; substances	gold
+38	an increase is the opposite of a decrease	gold
+39	material means substance	nongold
+40	when water freezes , that water expands	nongold
+41	placing an object into a liquid causes the volume of the liquid to increase by the volume of object under the liquid	nongold
+42	when metal conducts heat , that metal expands	nongold
+43	heat means temperature increases	gold
+44	contract is the opposite of expand	gold
+45	if gas is heated then that gas will expand; rise	nongold
+46	an increase is a kind of change	nongold
+47	contents means the substance in a container	nongold
+48	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+49	a liquid is a kind of fluid	nongold
+50	if something has a definite volume , then its volume will not change when transferred into a different container	nongold
+51	heat energy is synonymous with thermal energy	nongold
+52	if an object is touching a warmer object , then the  cooler  object will increase in temperature until two objects reach the same temperature	nongold
+53	heat means heat energy	nongold
+54	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+55	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+56	to demonstrate means to exhibit	nongold
+57	contracting is a kind of movement	nongold
+58	temperature is a measure of heat energy	nongold
+59	Matter in the gas phase has variable volume	gold
+60	contract is a kind of change in volume	gold
+61	gas is a kind of material	nongold
+62	adding heat means increasing temperature	nongold
+63	boiling means the volume of a liquid decreases	nongold
+64	a balloon is highly flexible	gold
+65	as heat increases , a flexible container containing gas will expand	gold
+66	volume is a property of matter	nongold
+67	water is an thermal; thermal energy conductor	nongold
+68	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+69	a balloon is a kind of container	nongold
+70	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+71	the volume of an object can be used to describe  the size of that object	nongold
+72	Matter in the solid phase has definite volume	nongold
+73	a container is a kind of object	nongold
+74	if  a  material is heated , then the  material will expand	nongold
+75	minutes are a kind of unit for measuring time	nongold
+76	Mr. Pratt does a science demonstration. He inflates a balloon, places it in a freezer, and then removes it after 10 minutes. Which best describes the balloon's volume when in the freezer and then after being removed and allowed to warm up?	question
+77	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+78	if an object is placed in a liquid , then the  increased volume of the liquid will be equal to the volume of that object	nongold
+79	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+80	temperature changing can cause volume of the object to change	nongold
+81	high is similar to increase	nongold
+82	if a container contains something then that container touches that something	nongold
+83	water is a kind of substance	nongold
+84	water is a kind of liquid at room temperature	nongold
+85	water expanding when it freezes is a physical property of water	nongold
+86	if gas in a flexible container is heated then that container will expand	nongold
+87	the properties of something are used for describing that something	nongold
+88	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+89	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+90	expand is a kind of change	nongold
+91	warmer means greater; higher in temperature; warmth	nongold
+92	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+93	warm means warm temperature	nongold
+94	increasing heat causes thermal expansion	nongold
+95	volume has no impact on boiling; melting; freezing point	nongold
+96	expand means increase in volume	nongold
+97	compress is the opposite of expand	nongold
+98	when gas compresses , the temperature of the gas increases	nongold
+99	objects are made of materials; substances; matter	nongold
+100	size; amount of space means volume	nongold
+101	liquids expand more than solids when heated	nongold

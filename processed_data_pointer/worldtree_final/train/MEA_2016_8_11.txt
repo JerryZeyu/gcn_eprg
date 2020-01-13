@@ -1,0 +1,102 @@
+0	green plants are a kind of producer	nongold
+1	if something is required for a process then that something positively impacts that process	nongold
+2	protecting something means preventing harm to that something	nongold
+3	a pesticide is usually very poisonous to insects	nongold
+4	a plant is a kind of organism	nongold
+5	poison causes harm to living things; organisms	nongold
+6	an increase is the opposite of a decrease	nongold
+7	to produce means to result in	nongold
+8	reproduction produces; produce offspring	nongold
+9	In the food chain process a  green plant has the role of  producer	nongold
+10	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+11	reproduction increases the number; population of a living thing	nongold
+12	an increase is a kind of change	gold
+13	living things perform biological processes	nongold
+14	an animal is a kind of living thing	nongold
+15	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+16	to be used for something means to be required by that something	nongold
+17	an adaptation  is  a change in a population over successive generations that  helps  individuals organisms in that population to  survive; reproduce	nongold
+18	an animal is a kind of organism	nongold
+19	disease has a negative impact on an organism	nongold
+20	increase means more	nongold
+21	negative impact is the opposite of positive impact	nongold
+22	process is similar to method	nongold
+23	reproduction is a kind of process	nongold
+24	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+25	to cause means to result in	nongold
+26	an adaptation is a kind of characteristic	nongold
+27	virus is a kind of living thing	nongold
+28	as the resistance to something increases , how easilty that something can  be done will decrease	nongold
+29	a producer is a kind of living thing	nongold
+30	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+31	helping something has a  positive impact on that something	nongold
+32	characteristic means property	gold
+33	producing is similar to causing	nongold
+34	an organism's environment affects that organism's acquired characteristics	nongold
+35	harming something has a  negative impact on; effect on that something	nongold
+36	Genetically modified plants with new characteristics have been produced through genetic engineering methods. What impacts have resulted from the use of genetically modified plants?	question
+37	pollination requires pollinators; pollinating animals	nongold
+38	genetic engineering methods increase resistance to herbicides	gold
+39	plant reproduction; seed production requires pollination	nongold
+40	to cause means to have an effect	nongold
+41	make means produce	nongold
+42	to use means to utilize	nongold
+43	living things can all reproduce	nongold
+44	to modify means to change	nongold
+45	preventing something decreases the amount of that something	nongold
+46	if a living thing requires something then that something has a positive impact on that living thing	nongold
+47	preventing reproduction decreases the rate of reproduction	nongold
+48	genetic engineering is a kind of application	nongold
+49	adaptation is when an organism develops a trait over time for survival	nongold
+50	a pesticide is used for protecting plants by killing insects	nongold
+51	an insect is a kind of animal	nongold
+52	trait is synonymous with characteristic	nongold
+53	a fungus is a kind of organism	nongold
+54	development is similar to production	nongold
+55	adaptations are used for survival	nongold
+56	impact means effect	gold
+57	protection means resistance to damage increases	nongold
+58	positive impacts on a species will increase populations of a species	nongold
+59	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+60	if technology used for a process is improved then the product produced by that process will increase	nongold
+61	damage has a negative impact on a thing	nongold
+62	a negative impact is a kind of consequence; risk	nongold
+63	as the use of something decreases , the use of the source of that something will decrease	nongold
+64	bacteria; viruses cause food poisoning	nongold
+65	inhibitor means something that prevents something from happening	nongold
+66	an organism is a living thing	nongold
+67	increases in resistance to herbicides, insects, and viral diseases	answer
+68	emit means produce	nongold
+69	to produce means to create	nongold
+70	resistances are a property of living things	gold
+71	damage means harm	nongold
+72	if something emits something else then that something increases the amount of that something else	nongold
+73	converting is similar to producing	nongold
+74	if something affects a part of something else then that something affects that something else	nongold
+75	affected means changed	nongold
+76	a source of something emits; produces; generates; provides that something	nongold
+77	pathogens can cause disease	nongold
+78	vegetation means plants	nongold
+79	adverse effect means negative impact	nongold
+80	change is a kind of impact	nongold
+81	high is similar to increase	nongold
+82	if something is made by something else then that something is affected by that something else	nongold
+83	to impact means to affect	nongold
+84	An insect is a pollinating animal	nongold
+85	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+86	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+87	a source of something increases the amount of that something	nongold
+88	generate means produce	nongold
+89	insects eat crops	nongold
+90	genetic engineering methods increase resistance to insects	gold
+91	an animal; living thing requires nutrients for survival	nongold
+92	a pesticide is infrequently poisonous to humans	nongold
+93	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+94	as the cause of something decreases , that something will decrease	nongold
+95	if an organism passes on its traits then future generations will have those traits	nongold
+96	a plant is a kind of living thing	gold
+97	if something causes an increase in something else then that something produces that something else	nongold
+98	if something has a positive impact on an organism's growth then that something increases the population of that organism	nongold
+99	insects can have a negative impact on crops	nongold
+100	products are formed; are produced; are created	nongold
+101	genetic engineering methods increase resistance to viral diseases	gold

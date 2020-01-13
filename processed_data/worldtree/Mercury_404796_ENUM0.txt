@@ -1,0 +1,102 @@
+Question	Rheumatoid arthritis is a disease that occurs when the body attacks its own tissues. Which body system becomes disordered first?	question
+Answer	immune	answer
+0	a disordered immune system causes autoimmune diseases	gold
+1	rheumatoid arthritis is a kind of autoimmune disease	gold
+2	an autoimmune disease is when the body attacks its own tissues	gold
+3	the immune system is a kind of body; human body system	gold
+4	organ system means body system	nongold
+5	the immune system attacks; gets rid of bacteria; viruses once they have invaded the body	nongold
+6	a body system is a part of the body; an animal	nongold
+7	the immune system defends the body against disease	nongold
+8	disease means illness	nongold
+9	the skeletal system is a kind of body system	nongold
+10	the muscular system is a kind of body; organ system	nongold
+11	a body system is a kind of object	nongold
+12	an animal is a kind of organism	nongold
+13	a skeletal system is a part of an animal	nongold
+14	a human is a kind of animal	nongold
+15	the integumentary system is a kind of body; organ system	nongold
+16	an animal is a kind of living thing	nongold
+17	the body is a part of an organism	nongold
+18	system means a set of objects	nongold
+19	an organism is a living thing	nongold
+20	organs are made of different types of  cellular tissues	nongold
+21	becoming is similar to changing	nongold
+22	the endocrine system is a kind of body; organ system	nongold
+23	internal organs are a part of the body	nongold
+24	illness has a negative impact on an organism's health	nongold
+25	the skeletal system protects internal organs	nongold
+26	genetic disorder is a kind of disease	nongold
+27	an organ system is made of different parts of the body working together	nongold
+28	pathogens can cause disease	nongold
+29	disease has a negative impact on an organism	nongold
+30	white blood cells are a part of the immune system	nongold
+31	dysentery is a kind of illness	nongold
+32	cells are a part of the body	nongold
+33	person is synonymous with human	nongold
+34	a kind of something is an example of that something	nongold
+35	a body cell means a somatic cell	nongold
+36	healthy means not having disease	nongold
+37	to happen means to occur	nongold
+38	causing is a kind of affecting	nongold
+39	the muscular system contains muscles	nongold
+40	affected means changed	nongold
+41	infection often requires medical treatment	nongold
+42	a skeletal system is a part of an animal for providing support; providing shape; providing protection	nongold
+43	the respiratory system is a kind of human; organ; body system	nongold
+44	a type is synonymous with a kind	nongold
+45	a worm is a kind of animal	nongold
+46	becoming is similar to forming	nongold
+47	the digestive system is a kind of body; organ system	nongold
+48	becoming is a kind of action	nongold
+49	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+50	a bone is a part of a body	nongold
+51	a bacterium is a kind of organism	nongold
+52	the function of something is what that something  is used to do	nongold
+53	the body of an animal contains arteries; veins	nongold
+54	an animal; living thing requires nutrients for survival	nongold
+55	skeletal system is made of bones	nongold
+56	a source of something emits; produces; generates; provides that something	nongold
+57	an event is a kind of action	nongold
+58	requiring is similar to needing help	nongold
+59	a living thing is made of cells	nongold
+60	the excretory system is a kind of body system	nongold
+61	form is similar to body	nongold
+62	an animal cell is a kind of cell	nongold
+63	if something affects a part of something else then that something affects that something else	nongold
+64	causing is a kind of function	nongold
+65	condition is a property of an environment	nongold
+66	death means to die	nongold
+67	human is a kind of organism	nongold
+68	the skin is a part of the integumentary system	nongold
+69	to cause means to result in	nongold
+70	organs are a smaller level of organization than organ systems in living things	nongold
+71	a mammal is a kind of animal	nongold
+72	a person is a kind of animal	nongold
+73	bone cells are a part of the body	nongold
+74	organisms are a part of an environment	nongold
+75	the digestive system is a kind of body; human system	nongold
+76	due to means caused by	nongold
+77	to pass means to occur	nongold
+78	typically means usually	nongold
+79	the nervous system is a kind of body; organ system	nongold
+80	a living thing is a kind of object	nongold
+81	a component of something means a part of that something	nongold
+82	harming something has a  negative impact on; effect on that something	nongold
+83	limbs are part of an animal	nongold
+84	not is similar to the opposite of	nongold
+85	the skeleton is a part of the skeletal system	nongold
+86	nonliving; non-living; die is the opposite of living; alive; live	nongold
+87	if a disease can be prevented by eating a certain kind of food then that disease is probably caused by a nutritional deficiency	nongold
+88	form means kind	nongold
+89	a component means a part of	nongold
+90	a limb often contains bones	nongold
+91	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+92	muscle tissue is a kind of tissue	nongold
+93	a brain is a part of an animal	nongold
+94	breaking a part of the body means breaking a bone in that part of the body	nongold
+95	producing is similar to causing	nongold
+96	a mechanism is a kind of system that performs a function	nongold
+97	dead organisms are a source of disease	nongold
+98	the brain is a part of the body	nongold
+99	a cell is a kind of object	nongold

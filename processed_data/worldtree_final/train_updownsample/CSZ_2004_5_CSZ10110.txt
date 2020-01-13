@@ -1,0 +1,67 @@
+0	quantity means amount	nongold
+1	an alloy is made of two or more metals	gold
+2	copper is a kind of metal	gold
+3	copper is a kind of metal	gold
+4	pair means two	nongold
+5	a device is a kind of object	nongold
+6	silver reacts with nitric acid	nongold
+7	objects are made of materials; substances; matter	nongold
+8	Sterling silver is a combination of silver and copper. Which of the following is also a combination of two or more metals?	question
+9	an alkaline earth metal is a kind of element	nongold
+10	brass is a kind of alloy	gold
+11	substances are made of matter	nongold
+12	an element is not an alloy	gold
+13	brass.	answer
+14	brass is a kind of alloy	gold
+15	an element is not an alloy	gold
+16	Sterling silver is a combination of silver and copper. Which of the following is also a combination of two or more metals?	question
+17	aluminum is a kind of element	gold
+18	Sterling silver is a combination of silver and copper. Which of the following is also a combination of two or more metals?	question
+19	a compound is made of two or more elements that have been chemically combined	nongold
+20	brass is a kind of alloy	gold
+21	a coin is a kind of object	nongold
+22	brass.	answer
+23	Sterling silver is a combination of silver and copper. Which of the following is also a combination of two or more metals?	question
+24	one in  two means half; 50%	nongold
+25	tungsten is a kind of metal	nongold
+26	metal is a kind of natural resource	nongold
+27	brass.	answer
+28	brass is made of copper and zinc	gold
+29	a property is similar to a factor	nongold
+30	silver is always nonmagnetic	nongold
+31	both means two	nongold
+32	to be formed by is similar to being produced by	nongold
+33	silver nitrate is a kind of molecule	nongold
+34	an alloy is made of two or more metals	gold
+35	if an object is made of a material then that object has the properties of that material	nongold
+36	an element is not an alloy	gold
+37	same means identical; equal in value; amount; number; quantity	nongold
+38	copper is a kind of metal	gold
+39	nonmetal means not metal	nongold
+40	aluminum is a kind of element	gold
+41	to be a combination of means to be made of	gold
+42	materials are made of matter	nongold
+43	zinc is a kind of metal	gold
+44	a component of something means a part of that something	nongold
+45	zinc is a kind of metal	gold
+46	copper is a kind of transition metal	nongold
+47	composed of means made of	nongold
+48	to be a combination of means to be made of	gold
+49	a metal is a kind of element	nongold
+50	a ratio is a measure of  one value divided by another value	nongold
+51	silver is a kind of metal	nongold
+52	charge is a property of an object; a material; a substance and includes ordered values of negatively-charged; neutral; positively-charged	nongold
+53	aluminum is a kind of element	gold
+54	to be a combination of means to be made of	gold
+55	once means one time	nongold
+56	an element is a kind of  substance	nongold
+57	brass is made of copper and zinc	gold
+58	an alloy is made of two or more metals	gold
+59	iron is a kind of element	nongold
+60	brass.	answer
+61	a component means a part of	nongold
+62	zinc is a kind of metal	gold
+63	to add means to combine	nongold
+64	brass is made of copper and zinc	gold
+65	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+66	an  element is a kind of atom	nongold

@@ -1,0 +1,55 @@
+0	temperature is a measure of heat energy	nongold
+1	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+2	liquid is a kind of state of matter	nongold
+3	a cloud of dust and gas is a kind of feature	nongold
+4	the properties of something are used for describing that something	nongold
+5	rock is a kind of material	nongold
+6	The crust, the mantle, and the core are structures of Earth. Which description is a feature of Earth's mantle?	question
+7	The crust, the mantle, and the core are structures of Earth. Which description is a feature of Earth's mantle?	question
+8	feature is synonymous with characteristic	nongold
+9	The crust, the mantle, and the core are structures of Earth. Which description is a feature of Earth's mantle?	question
+10	has properties of both liquids and solids	answer
+11	moisture means liquid; liquid water	nongold
+12	liquid; solid means nongaseous	nongold
+13	a rock is a kind of object	nongold
+14	the crust is a layer of the Earth	nongold
+15	to be characterized by  a property means to have that property	nongold
+16	different materials usually have different properties	nongold
+17	the mantle is a layer of the Earth	gold
+18	answering questions requires information	nongold
+19	a property of something is a feature of that something	gold
+20	crustal plate means tectonic plate	nongold
+21	Earth is a kind of planet	nongold
+22	a component means a part of	nongold
+23	has properties of both liquids and solids	answer
+24	nucleus is synonymous with core; center	nongold
+25	a component of something means a part of that something	nongold
+26	a property of something is a feature of that something	gold
+27	material composition is a kind of chemical property	nongold
+28	something's function can be used to describe; identify that something	nongold
+29	a mixture of solids can be easily separated	nongold
+30	has properties of both liquids and solids	answer
+31	Earth's mantle has properties of both liquids and solids	gold
+32	Earth's mantle has properties of both liquids and solids	gold
+33	chemical composition is a kind of property	nongold
+34	if two objects are similar , then the two objects share properties	nongold
+35	the effects of something is a property of that something	nongold
+36	phase means state	nongold
+37	The crust, the mantle, and the core are structures of Earth. Which description is a feature of Earth's mantle?	question
+38	the mantle is a layer of the Earth	gold
+39	convection in the mantle transfers heat  from deep in the interior of Earth to the crust	nongold
+40	water is a kind of matter	nongold
+41	the inner core is the most dense layer of Earth	nongold
+42	a structure of something is synonymous with a part of that something	nongold
+43	has properties of both liquids and solids	answer
+44	the mantle is a layer of the Earth	gold
+45	a description sometimes provides information	nongold
+46	composed of means made of	nongold
+47	particles in a solid are closer together than particles in a liquid	nongold
+48	material means substance	nongold
+49	both means two	nongold
+50	Earth's mantle has properties of both liquids and solids	gold
+51	state of matter at room temperature is a kind of physical property	nongold
+52	a property of something is a feature of that something	gold
+53	if an object is made of a material then that object has the properties of that material	nongold
+54	landform means surface feature; physical feature; land feature	nongold

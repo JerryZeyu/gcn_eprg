@@ -1,0 +1,63 @@
+0	a desk is usually short in height; in width	gold
+1	to shorten means to make shorter	nongold
+2	the location of an object can be used to describe that object	nongold
+3	cubic centimeter ( cm^3 ) is a metric unit used for measuring volume	nongold
+4	property is similar to measurement	nongold
+5	objects are made of materials; substances; matter	nongold
+6	a description sometimes provides information	nongold
+7	a centimeter is used for measuring short lengths; short distances	gold
+8	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+9	Which unit of measurement can be used to describe the length of a desk?	question
+10	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+11	Which unit of measurement can be used to describe the length of a desk?	question
+12	a centimeter is used for measuring short lengths; short distances	gold
+13	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+14	Which unit of measurement can be used to describe the length of a desk?	question
+15	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+16	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	gold
+17	an object is an item	nongold
+18	diameter is a measure of length through the center of a circle	nongold
+19	centimeters	answer
+20	a centimeter is a kind of unit of measurement	gold
+21	Which unit of measurement can be used to describe the length of a desk?	question
+22	centimeters	answer
+23	a centimeter is a kind of unit of measurement	gold
+24	a tool is a kind of object	nongold
+25	a  tape measure is used to measure length; distance	nongold
+26	greatest means largest; highest; most amount of something	nongold
+27	length is a measure of distance from one end of an object to the other end of that object	nongold
+28	a desk usually has a length with values between 50.0 and 250 cm	gold
+29	a meter is a kind of unit for measuring distance; measuring length	nongold
+30	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+31	a ruler is used for measuring the length of an object	nongold
+32	the skeleton of an animal can be used for inferring the height; the length of that animal	nongold
+33	the properties of something are used for describing that something	nongold
+34	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+35	round means circular in shape	nongold
+36	unit is similar to part	nongold
+37	height is a kind of position	nongold
+38	centimeters	answer
+39	an increase is a kind of change	nongold
+40	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+41	a measure of time is a length of time	nongold
+42	measuring requires reading a measurement	nongold
+43	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+44	meters;centimeters;kilometers are used to describe distance; describe length	gold
+45	a living thing is a kind of object	nongold
+46	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	gold
+47	joules ( J ) are an  SI unit used for measuring mechanical energy; work generally used for values between 1.0 and 1000.0	nongold
+48	a desk usually has a length with values between 50.0 and 250 cm	gold
+49	an part of an object is smaller than the entire object	nongold
+50	centimeters	answer
+51	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	gold
+52	a desk is usually short in height; in width	gold
+53	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+54	length is a property of the shape of an object	nongold
+55	can be means able to be	nongold
+56	a centimeter is used for measuring short lengths; short distances	gold
+57	meters;centimeters;kilometers are used to describe distance; describe length	gold
+58	a centimeter is a kind of unit of measurement	gold
+59	a table is a kind of object	nongold
+60	a desk usually has a length with values between 50.0 and 250 cm	gold
+61	meters;centimeters;kilometers are used to describe distance; describe length	gold
+62	a desk is usually short in height; in width	gold

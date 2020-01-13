@@ -1,0 +1,55 @@
+0	if an animal consumes more calories than needed for daily activities then that animal will gain weight	gold
+1	to cause means to have an effect	nongold
+2	weight gain	answer
+3	to lose means to have less of	nongold
+4	a human is a kind of animal	gold
+5	if something is required for a process then that something positively impacts that process	nongold
+6	result means outcome	nongold
+7	weight gain	answer
+8	person is synonymous with human	gold
+9	to change means to have an effect	nongold
+10	deplete is similar to decrease	nongold
+11	to be used for something means to be required by that something	nongold
+12	calories ( cal ) are a  metric unit used for measuring the amount of energy in food generally used for values between 1.0 and 10000.0	nongold
+13	action means activity	nongold
+14	as the amount of food an animal eats increases , the weight of that animal will increase	nongold
+15	light means low  in weight	nongold
+16	impact means effect	nongold
+17	to add means to increase	nongold
+18	something that happens is a kind of event	nongold
+19	if an animal consumes more calories than needed for daily activities then that animal will gain weight	gold
+20	needing something means depending on that something	nongold
+21	product means result	nongold
+22	too much is similar to increase	nongold
+23	affected means changed	nongold
+24	an animal needs to eat food for nutrients	nongold
+25	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+26	heavy means a large amount of weight	nongold
+27	human is a kind of organism	nongold
+28	if something causes a process then that something is required for that process	nongold
+29	increase means more	nongold
+30	if an animal consumes more calories than needed for daily activities then that animal will gain weight	gold
+31	Which outcome is most likely if a person consumes more Calories than needed for daily activities?	question
+32	a human is a kind of animal	gold
+33	an organism is a living thing	nongold
+34	an increase is a kind of change	nongold
+35	a human is a kind of animal	gold
+36	negative impact is the opposite of positive impact	nongold
+37	person is synonymous with human	gold
+38	less is the opposite of more	nongold
+39	an animal is a kind of living thing	nongold
+40	an animal is a kind of organism	nongold
+41	if something gains something from something else then that something else is a source of that something	nongold
+42	a process is a kind of event	nongold
+43	Which outcome is most likely if a person consumes more Calories than needed for daily activities?	question
+44	exercise means physical fitness	nongold
+45	weight gain	answer
+46	Which outcome is most likely if a person consumes more Calories than needed for daily activities?	question
+47	a function is an activity	nongold
+48	weight gain	answer
+49	consumption means use	nongold
+50	an animal is a kind of consumer	nongold
+51	person is synonymous with human	gold
+52	to depend on; to rely on; to need means to require	nongold
+53	a negative impact is a kind of consequence; risk	nongold
+54	Which outcome is most likely if a person consumes more Calories than needed for daily activities?	question

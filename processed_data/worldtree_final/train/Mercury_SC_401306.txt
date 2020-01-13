@@ -1,0 +1,102 @@
+0	Which conclusion is best supported by a tree-growth ring that is much narrower than the other growth rings?	question
+1	One year was unusually dry.	answer
+2	dry means low in amount of water; wetness; moisture	gold
+3	a tree growing a tree-growth ring occurs once per year	gold
+4	as the amount of available water decreases , tree-growth rings will become narrower	gold
+5	drying means amount of water; amount of liquid; wetness decreases	nongold
+6	wider means greater in width	nongold
+7	growth means size;number;value;strength increases	nongold
+8	wet is the opposite of dry	nongold
+9	drier means lower in amount of water; wetness; moisture	nongold
+10	width is a property of size; shape and includes ordered values of narrow; wide	nongold
+11	a dry environment is low in availability of water	nongold
+12	tree rings can be used to provide evidence of the changes in climate	nongold
+13	precipitation is a kind of weather	nongold
+14	a tree is a kind of plant	nongold
+15	thin means small in width	nongold
+16	to conclude means to make a conclusion	nongold
+17	a ring is a kind of object	nongold
+18	precipitation is when water falls from the sky	nongold
+19	annual means once per year	nongold
+20	a tree is a kind of living thing	nongold
+21	closer means lower; less; a decrease in distance	nongold
+22	moist means high in moisture	nongold
+23	years are a kind of unit for measuring time	nongold
+24	shorter means decreased length	nongold
+25	low is similar to decrease	nongold
+26	increase means more	nongold
+27	an increase is the opposite of a decrease	nongold
+28	precipitation is a kind of natural occurrence; cause	nongold
+29	concluding is a kind of action	nongold
+30	growing means a plant's height;mass;size increase	nongold
+31	each season occurs once per year	nongold
+32	growth is a kind of change	nongold
+33	heat has a great impact on weather	nongold
+34	shorter means smaller; less in  height	nongold
+35	precipitation is a property of weather	nongold
+36	to lower means to decrease	gold
+37	rainfall means precipitation	nongold
+38	length of time means period of time	nongold
+39	to reduce means to decrease	nongold
+40	rainy is a kind of weather	nongold
+41	less is similar to decrease	nongold
+42	increase is similar to extend	nongold
+43	yearly means every year	nongold
+44	high is similar to increase	nongold
+45	best means most positive	nongold
+46	furthest; farthest means greatest; most; highest in distance	nongold
+47	as dryness increases in an environment , the available water in that environment will decrease	nongold
+48	humidity is a property of  weather and include ordered values of dry; humid	nongold
+49	Autumn is a kind of season	nongold
+50	greatest means largest; highest; most amount of something	nongold
+51	rain is a kind of precipitation	nongold
+52	a decrease is a kind of change	nongold
+53	lower means less	nongold
+54	rainfall means the amount of precipitation	nongold
+55	length is a part of size	nongold
+56	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+57	average amount of precipitation is a property of climate	nongold
+58	precipitation is a kind of  natural process	nongold
+59	an increase is a kind of change	nongold
+60	An example of a change in climate is  the average amount of annual precipitation decreases	nongold
+61	a plant; living thing requires nutrients to grow	nongold
+62	low means down	nongold
+63	as the amount; size of something increases , the extensive properties of that something will increase	nongold
+64	seasons cause change to the environment	nongold
+65	all living things grow	nongold
+66	a measure of time is a length of time	nongold
+67	a tree requires space to grow	nongold
+68	temperature is a measure of heat energy	nongold
+69	far is the opposite of close	nongold
+70	long means great in length	nongold
+71	fewer means lower; less in number	nongold
+72	heat means heat energy	nongold
+73	variable means able to change	nongold
+74	to impact means to affect	nongold
+75	a plants; living things require water for survival; to grow	nongold
+76	impact means effect	nongold
+77	colder; cooler means lower in temperature	nongold
+78	low is the opposite of high	nongold
+79	less means a reduced amount	nongold
+80	a plant is a kind of living thing	nongold
+81	low means low in elevation; height; altitude	nongold
+82	a tree is a kind of matter	nongold
+83	denser means more dense	nongold
+84	distance is a property of space and includes ordered values of close; far	nongold
+85	an event is a kind of action	nongold
+86	to limit means to decrease	nongold
+87	extreme means very high in value	nongold
+88	smaller means less; lower in size	nongold
+89	rainy means often raining	nongold
+90	longest means greatest in length	nongold
+91	if water vapor is limited to reach a location , then that location    will be dry	nongold
+92	growth is a kind of process	nongold
+93	measures of length; measures of distance are used to measure the amount of rainfall	nongold
+94	loss means reduction	nongold
+95	1 year is equal to 12 months	nongold
+96	a tree requires sunlight to grow	nongold
+97	to shorten means to make shorter	nongold
+98	an part of an object is smaller than the entire object	nongold
+99	affected means changed	nongold
+100	length is a measure of distance from one end of an object to the other end of that object	nongold
+101	as amount; size of something increases , the intensive properties of that something will not change	nongold

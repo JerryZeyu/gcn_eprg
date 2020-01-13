@@ -1,0 +1,99 @@
+0	calculating is similar to estimating	nongold
+1	measuring requires reading a measurement	nongold
+2	to carry means to move something	nongold
+3	instrument means tool	nongold
+4	carrying something means moving that something	nongold
+5	device means tool	nongold
+6	unit is similar to part	nongold
+7	to be helpful means to help to do	nongold
+8	to carry means to transport	nongold
+9	milliliters is a kind of unit for measuring volume of liquids	nongold
+10	can be means able to be	nongold
+11	variable means able to change	nongold
+12	to measure means to calculate	gold
+13	a component means a part of	nongold
+14	objects are made of materials; substances; matter	nongold
+15	timing; multiplying is a kind of calculating	nongold
+16	a type is synonymous with a kind	nongold
+17	to be made of something means to be formed of that something	nongold
+18	round means circular in shape	nongold
+19	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+20	glass is a kind of solid at room temperature	nongold
+21	a device is a kind of object	nongold
+22	a prism is a kind of tool for refracting light	nongold
+23	liters are a kind of unit for measuring volume of liquids	nongold
+24	Matter in the solid phase has definite volume	nongold
+25	Matter in the liquid phase has definite volume	nongold
+26	calculating speed requires knowing distance travelled	nongold
+27	a tool is a kind of object	nongold
+28	glass is durable	nongold
+29	an instrument is a piece of equipment	nongold
+30	a piece is a part of a whole	nongold
+31	volume is an extensive property	nongold
+32	glass is recyclable	nongold
+33	a prism is a kind of object	nongold
+34	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+35	ruler	answer
+36	rod is cylindrical in shape	nongold
+37	inventing a tool allows; enables that tool to be used	nongold
+38	a prism refracts light	nongold
+39	an event is a kind of action	nongold
+40	a magnifying glass is a kind of tool for observing small things	nongold
+41	according to is similar to be determined by	nongold
+42	substances are made of matter	nongold
+43	form means kind	nongold
+44	if an object is made of something then the parts of that object are made of that something	nongold
+45	if a property affects a value then that property is needed to calculate that value	nongold
+46	calculation means measurement	nongold
+47	cubic centimeter ( cm^3 ) is a metric unit used for measuring volume	nongold
+48	liquid is a kind of state of matter	nongold
+49	a measuring cup is used for measuring the volume of substances	nongold
+50	a simple machine is a kind of tool	nongold
+51	glass is a kind of object	nongold
+52	to be made of means to consist of	nongold
+53	glass is a kind of medium	nongold
+54	glass is made of sand	nongold
+55	milliliters ( mL ) is a metric unit used for measuring volume generally used for values between 1.0 and 1000.0	nongold
+56	to produce means to create	nongold
+57	glass is a kind of product	nongold
+58	a ruler is a kind of tool for measuring length	gold
+59	a ruler is used for measuring the length of an object	gold
+60	a motion is a kind of event; action	nongold
+61	to make means to form	nongold
+62	composed of means made of	nongold
+63	size; amount of space means volume	gold
+64	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+65	coins are usually round	nongold
+66	a measuring cup is a kind of tool for measuring the volume of substances	nongold
+67	glass can be reused many times	nongold
+68	most means over 50% of something	nongold
+69	to create means to make	nongold
+70	answering questions requires information	nongold
+71	glass is a kind of material	nongold
+72	a prism is used for refracting light	nongold
+73	an increase is a kind of change	nongold
+74	a load of bricks is a kind of object	nongold
+75	an object is made of its parts	nongold
+76	instrument means device	nongold
+77	high is similar to increase	nongold
+78	matter; materials; substances are made of atoms; particles	nongold
+79	a process is a kind of event	nongold
+80	volume is a property of matter	nongold
+81	yards ( yd ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+82	materials are made of matter	nongold
+83	What tool would be most useful to calculate the volume of a glass prism?	question
+84	measuring is used for describing an object	nongold
+85	the Periodic Table of Elements can be used for  predicting; determining the properties of an element	nongold
+86	useful means able to be used	nongold
+87	a measurement is a kind of data	nongold
+88	same means identical; equal in value; amount; number; quantity	nongold
+89	glass is a kind of open container	nongold
+90	the volume of an object can be used to describe  the size of that object	nongold
+91	a glass contains water	nongold
+92	useful means good to use	nongold
+93	glass; objects made of glass cause refraction of light	nongold
+94	a graduated cylinder is used to measure volume of a liquid; of an object	nongold
+95	to put on means to wear	nongold
+96	property is similar to measurement	nongold
+97	a graduated cylinder is a kind of instrument for measuring volume of liquids or objects	nongold
+98	a prism is made of glass	nongold

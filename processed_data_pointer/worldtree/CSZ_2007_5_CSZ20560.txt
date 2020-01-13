@@ -1,0 +1,102 @@
+Question	Which of the following represents a chemical reaction?	question
+Answer	a cake baking in an oven.	answer
+0	a cake is a kind of baked product	nongold
+1	cooking causes a chemical reaction	gold
+2	an oven is a source of heat	nongold
+3	baking is similar to cooking	gold
+4	chemical change is a kind of chemical reaction	nongold
+5	chemical reactions cause chemical change	nongold
+6	baking is when a human makes food by adding heat	nongold
+7	a stove is used for cooking by generating heat	nongold
+8	cooking is a kind of process	nongold
+9	chemicals means substances	nongold
+10	a chemical reaction is a kind of process	nongold
+11	fire is a kind of chemical reaction	nongold
+12	heating elements are usually a part of an oven	nongold
+13	a stove is a kind of machine	nongold
+14	dough is a kind of food	nongold
+15	a stove generates heat for cooking usually	nongold
+16	food is a kind of substance	nongold
+17	temperature is a measure of heat energy	nongold
+18	pot;pan;frying pan is made of metal for cooking	nongold
+19	combustion is a kind of exergonic reaction	nongold
+20	a reaction is a kind of process	nongold
+21	heat means heat energy	nongold
+22	adding heat to an object sometimes causes chemical reactions	nongold
+23	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+24	most chemical reactions release or absorb heat energy	nongold
+25	cookware is used for cooking	nongold
+26	heating means adding heat	nongold
+27	substances have chemical properties	nongold
+28	a dessert is a kind of food	nongold
+29	chemical reactions cause new substances; different substances to form	nongold
+30	combustion is a kind of chemical change	nongold
+31	to cause means to make	nongold
+32	a microwave cooks food faster than an oven does	nongold
+33	In a chemical reaction reactants have the role of molecules; substances that chemically combine	nongold
+34	photosynthesis is a kind of chemical reaction	nongold
+35	heat energy is synonymous with thermal energy	nongold
+36	a burner is a part of a  stove	nongold
+37	a pan;frying pan is a kind of container for cooking; food	nongold
+38	combining; mixing two substances chemically causes chemical reactions	nongold
+39	toasting is a kind of cooking	nongold
+40	metal is a thermal; thermal energy conductor	nongold
+41	if an object is made of a material then that object has the properties of that material	nongold
+42	form means kind	nongold
+43	to be formed by is similar to being produced by	nongold
+44	pasteurization is a kind of process	nongold
+45	cooking food requires adding heat energy to the food	nongold
+46	combustion means fire converts chemical energy into light energy and heat energy	nongold
+47	can be means able to be	nongold
+48	frying food is a kind of cooking	nongold
+49	material means substance	nongold
+50	make means produce	nongold
+51	a product is a kind of object	nongold
+52	An example of a chemical property is how a material reacts chemically	nongold
+53	fire causes burning	nongold
+54	an oven is a kind of electrical device	nongold
+55	a mixture is a kind of substance	nongold
+56	chemical reactions releasing new substances means chemical reactions forming new substances	nongold
+57	photosynthesis is a kind of chemical  process	nongold
+58	gas is a kind of substance	nongold
+59	food is a kind of chemical energy	nongold
+60	if food is cooked then heat energy is added to that food	nongold
+61	acid can cause chemical change	nongold
+62	chemical reaction means chemical bonds change	nongold
+63	providing something means making;delivering something	nongold
+64	baking soda is a kind of solid	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	compound is a kind of chemical	nongold
+67	a process is a kind of event	nongold
+68	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+69	flour is a kind of substance	nongold
+70	gas is a kind of material	nongold
+71	bread is a kind of food	nongold
+72	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+73	conductivity is a property of a material; substance	nongold
+74	a hot plate is a source of heat	nongold
+75	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+76	a producer is a kind of living thing	nongold
+77	water is an thermal; thermal energy conductor	nongold
+78	emit means produce	nongold
+79	heating an egg causes a chemical reaction in the egg	nongold
+80	a container contains objects; material; substances	nongold
+81	a flame are a part of a fire	nongold
+82	if a material; a substance is a mixture of two or more materials or substances then that material; substance is made; is formed; contains those materials; substances	nongold
+83	provide is similar to give; make	nongold
+84	a part of a process means a stage in a process	nongold
+85	producing is a kind of process	nongold
+86	water is a kind of substance	nongold
+87	a toaster is made of a heating element for toasting	nongold
+88	a thermal conductor is made of materials that conduct thermal energy	nongold
+89	composed of means made of	nongold
+90	to give is similar to to cause	nongold
+91	to cause an event is similar to being involved in that event	nongold
+92	the chemistry of something is similar to what that something is made of	nongold
+93	breaking down fat and sugar is a kind of  chemical reaction	nongold
+94	products are formed; are produced; are created	nongold
+95	to add means to increase	nongold
+96	combustion is a kind of exothermic reaction	nongold
+97	adding heat means increasing temperature	nongold
+98	converting is similar to producing	nongold
+99	objects are made of materials; substances; matter	nongold

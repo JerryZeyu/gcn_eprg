@@ -1,0 +1,102 @@
+0	Which graph is best to present data collected on yearly water usage in the United States?	question
+1	line graph	answer
+2	yearly means every year	gold
+3	the United States is a kind of country	nongold
+4	a line graph is used for showing change; data over time	gold
+5	annual means once per year	nongold
+6	United States is located in the northern hemisphere	nongold
+7	a line graph is a kind of graph of connected data points	nongold
+8	monthly means once per month	nongold
+9	An example of collecting data is measuring	nongold
+10	to show means to present	gold
+11	water is a kind of substance	nongold
+12	consumption means use	nongold
+13	to be made of is similar to collection	nongold
+14	the United States of America is a kind of location	nongold
+15	water is a kind of natural resource	nongold
+16	water is a kind of natural resource	nongold
+17	to collect means to gather	nongold
+18	a body of water is a source of water	nongold
+19	drinking is a kind of water use	nongold
+20	days are a kind of unit for measuring time	nongold
+21	a graph is used for organizing quantitative information over time	nongold
+22	a circle graph; pie graph is used to describe how part of the data is related to all of the data	nongold
+23	to depend on; to rely on; to need means to require	nongold
+24	a measurement is a kind of data	nongold
+25	a source of something emits; produces; generates; provides that something	nongold
+26	a state is a kind of place	nongold
+27	water exists in three states on Earth	nongold
+28	an event is a kind of action	nongold
+29	affected means changed	nongold
+30	daily means every day; once per day	nongold
+31	high is similar to increase	nongold
+32	an increase is a kind of change	nongold
+33	best means most positive	nongold
+34	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+35	length of time means period of time	nongold
+36	water is a kind of liquid at room temperature	nongold
+37	a liquid is a kind of substance	nongold
+38	to be used for something means to be required by that something	nongold
+39	the intensity of sunlight is a kind of seasonal weather pattern	nongold
+40	a supply of something is a source of that something	nongold
+41	season is a major yearly temperature change	nongold
+42	a body of water contains water	nongold
+43	Washington; Washington State is a state located in the United States of America	nongold
+44	state means form	nongold
+45	a decrease is a kind of change	nongold
+46	the day time is part of one day	nongold
+47	water is a part of an environment	nongold
+48	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+49	In the water cycle , collection as snow; collection as ice can follow precipitation	nongold
+50	quantity means amount	nongold
+51	a body of water is a kind of environment	nongold
+52	In the water cycle , collection in bodies of water can follow runoff	nongold
+53	In the water cycle , runoff always follows collection as snow; collection as ice	nongold
+54	water is a kind of object	nongold
+55	greatest means largest; highest; most amount of something	nongold
+56	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+57	a change is a kind of event	nongold
+58	data means information	nongold
+59	water is a renewable resource	nongold
+60	cycles of day and night occur once per day	nongold
+61	increase means more	nongold
+62	a process is a kind of event	nongold
+63	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+64	irrigation requires water use	nongold
+65	Tennessee is a state located in the United States of America	nongold
+66	usually means most of the time	nongold
+67	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+68	a cycle happens; occurs repeatedly	nongold
+69	each season occurs once per year	nongold
+70	once per means every	nongold
+71	In the water cycle , evaporation always follows collection in bodies of water	nongold
+72	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+73	as the use of something decreases , the use of the source of that something will decrease	nongold
+74	period is similar to amount of time	nongold
+75	how long something takes is a kind of measurement of time	nongold
+76	runoff is a kind of water	nongold
+77	answering questions requires information	nongold
+78	a source of something increases the amount of that something	nongold
+79	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+80	Indiana is a state located in the United States of America	nongold
+81	Wyoming is a state located in the United States of America	nongold
+82	typically means usually	nongold
+83	Massachusetts is a state located in the United States of America	nongold
+84	years are a kind of unit for measuring time	gold
+85	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+86	United States Virgin Islands (US) is located in the northern hemisphere	nongold
+87	usually a body of water is located outside	nongold
+88	groundwater is a kind of water	nongold
+89	every summer  is a kind of period of time	nongold
+90	an increase is the opposite of a decrease	nongold
+91	taking samples of water is used for studying the quality of water	nongold
+92	less is similar to decrease	nongold
+93	furthest; farthest means greatest; most; highest in distance	nongold
+94	Kansas is a state located in the United States of America	nongold
+95	events occur at a specific place; at a specific time; with a specific frequency	nongold
+96	Delaware is a state located in the United States of America	nongold
+97	a motion is a kind of event; action	nongold
+98	can be means able to be	nongold
+99	Alaska is a state located in the United States of America	nongold
+100	a river is a kind of flowing body of water	nongold
+101	An example of a change in climate is  the average amount of annual precipitation decreases	nongold

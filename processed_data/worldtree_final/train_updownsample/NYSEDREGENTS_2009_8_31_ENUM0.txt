@@ -1,0 +1,55 @@
+0	all cells take in energy	nongold
+1	energy	answer
+2	an organism is a living thing	gold
+3	In order to survive, all organisms must have	question
+4	to depend on; to rely on; to need means to require	nongold
+5	organisms are a part of an environment	nongold
+6	In order to survive, all organisms must have	question
+7	must have means require	gold
+8	energy	answer
+9	if a living thing dies then that living thing is dead	nongold
+10	harming an organism can cause that organism to die	nongold
+11	decomposer is a kind of role in the food chain process; in an ecosystem	nongold
+12	In order to survive, all organisms must have	question
+13	light is a kind of energy	nongold
+14	an organism is a living thing	gold
+15	living things all require energy for survival	gold
+16	life means living things	nongold
+17	increasing is a kind of order	nongold
+18	to be used for something means to be required by that something	nongold
+19	must have means require	gold
+20	an organism is a living thing	gold
+21	chemical energy is a kind of energy	nongold
+22	a plant; living thing requires food for survival	nongold
+23	living things all require energy for survival	gold
+24	energy	answer
+25	nonliving; non-living; die is the opposite of living; alive; live	nongold
+26	In order to survive, all organisms must have	question
+27	survival means to survive	nongold
+28	a plant is a kind of organism	nongold
+29	an increase is a kind of change	nongold
+30	all cells require energy	nongold
+31	an animal; bacterium requires oxygen for survival; to breathe	nongold
+32	a step in a process means a stage in a process	nongold
+33	a problem has a negative impact on a thing	nongold
+34	requiring is similar to needing help	nongold
+35	energy	answer
+36	must have means require	gold
+37	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold
+38	if an organism cannot do something , then that organism is unable to do that something	nongold
+39	to lack means to not have	nongold
+40	death means to die	nongold
+41	releasing energy is a kind of function	nongold
+42	a fungus is a kind of organism	nongold
+43	food is a kind of chemical energy	nongold
+44	an organism eating is a kind of action	nongold
+45	if an organism eats something then that something is a source of frood to that organism	nongold
+46	if something is required then that something must be provided	nongold
+47	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+48	if a living thing requires something then that something has a positive impact on that living thing	nongold
+49	living things require respiration to use energy	nongold
+50	answering questions requires information	nongold
+51	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+52	helping something has a  positive impact on that something	nongold
+53	survive means live	nongold
+54	living things all require energy for survival	gold

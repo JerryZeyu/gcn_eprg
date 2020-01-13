@@ -1,0 +1,102 @@
+Question	Which item is used for protection from chemical splashing?	question
+Answer	safety goggles	answer
+0	goggles are a kind of object	gold
+1	safety goggles are a kind of safety gear	nongold
+2	safety goggles are used for protecting the eyes during experiments	gold
+3	chemical splashing can cause harm to humans; to the eyes	gold
+4	wearing safety goggles is a kind of safe practice in a laboratory	nongold
+5	to protect means to defend	nongold
+6	to protect means to make safe	nongold
+7	safe is the opposite of unsafe; harm; danger	nongold
+8	covering something is a kind of protection	nongold
+9	protecting something means preventing harm to that something	gold
+10	an object is an item	gold
+11	protection means resistance to damage increases	nongold
+12	chemical splashing sometimes occurs during experiments	gold
+13	something hard; something strong can be used for protection	nongold
+14	chemicals means substances	nongold
+15	harming something has a  negative impact on; effect on that something	nongold
+16	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+17	thermal gloves are a kind of safety gear	nongold
+18	helping something has a  positive impact on that something	nongold
+19	a human is a kind of animal	nongold
+20	a glove is a covering around the hand for protection	nongold
+21	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+22	to hurt means to harm	nongold
+23	chemicals can be pollutants	nongold
+24	to combust means to catch fire	nongold
+25	harm means injury	nongold
+26	person is synonymous with human	nongold
+27	warning people of dangers has a positive impact on the safety of those people	nongold
+28	shelter is a kind of protective covering	nongold
+29	laboratory apron; laboratory coat is a kind of safety gear for protecting a person during an experiment	nongold
+30	to be used for something means to be required by that something	nongold
+31	a person is a kind of animal	nongold
+32	adverse effect means negative impact	nongold
+33	an animal is a kind of organism	nongold
+34	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+35	damage means harm	nongold
+36	substances have chemical properties	nongold
+37	combustibility is a kind of  chemical property	nongold
+38	negative impact is the opposite of positive impact	nongold
+39	a sharp object can be used for protection	nongold
+40	objects are made of materials; substances; matter	nongold
+41	a living thing is a kind of object	nongold
+42	to help; to benefit means to be of use	nongold
+43	shelter can protect animals;humans from weather	nongold
+44	harm means danger	nongold
+45	damage has a negative impact on a thing	nongold
+46	a surface is a part of an object	nongold
+47	skin is used for protecting the body from harmful substances	nongold
+48	protecting nature has a positive impact on the environment	nongold
+49	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+50	an animal is a kind of living thing	nongold
+51	a  chemical property is a kind of  property	nongold
+52	an article of clothing is a kind of object	nongold
+53	water is a kind of object	nongold
+54	a liquid is a kind of substance	nongold
+55	material means substance	nongold
+56	if an object is made of a material then that object has the properties of that material	nongold
+57	an event is a kind of action	nongold
+58	water is when humans pollute the environment with pollutants	nongold
+59	a tool is a kind of object	nongold
+60	fire is a kind of chemical reaction	nongold
+61	water is a kind of substance	nongold
+62	toxic means poisonous	nongold
+63	a frog is a kind of animal	nongold
+64	protecting is a kind of function	nongold
+65	absorbing something harmful has a negative impact on a thing	nongold
+66	hitting something causes harm to that something	nongold
+67	danger has a negative impact on a thing	nongold
+68	to inhibit means to prevent	nongold
+69	an aquatic animal is a kind of animal	nongold
+70	knowing sometimes requires determing	nongold
+71	chemical weathering is a kind of weathering	nongold
+72	pollutants have a negative impact on the environment; air quality	nongold
+73	shelter is used for protection by animals against weather	nongold
+74	water-resistance is a property of objects; matter and includes ordered values of water-resistant; not water-resistant	nongold
+75	decreasing use  of a resource protects that resource	nongold
+76	something is used for that something's purpose	nongold
+77	strong means high in strength	nongold
+78	requiring is similar to needing help	nongold
+79	shelter is a kind of place;building;structure for protection	nongold
+80	to be used  for something means to help to do that something	nongold
+81	a source of something emits; produces; generates; provides that something	nongold
+82	a body of water is a kind of environment	nongold
+83	thermal gloves are used for protecting the hand against heat	nongold
+84	high temperatures can cause an object to combust	nongold
+85	water is a part of an environment	nongold
+86	skin is a part of a frog for breathing; protection; absorbing moisture	nongold
+87	a surface is a kind of object	nongold
+88	a vehicle is a kind of object	nongold
+89	Camouflage is synonymous with visual disguise	nongold
+90	best means most positive	nongold
+91	a body part is a kind of object	nongold
+92	to be in danger means to be around; to be near something dangerous	nongold
+93	chemical reactions cause chemical change	nongold
+94	something harmful can cause harm	nongold
+95	inhibitor means something that prevents something from happening	nongold
+96	adding heat to an object sometimes causes chemical reactions	nongold
+97	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+98	form means kind	nongold
+99	an object; material; substance comes from that object or material's source	nongold

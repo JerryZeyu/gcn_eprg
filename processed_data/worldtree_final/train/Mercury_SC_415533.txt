@@ -1,0 +1,102 @@
+0	At what temperature does pure water boil?	question
+1	100°C	answer
+2	boiling point means temperature at which a liquid boils; above which a liquid boils	gold
+3	boiling is when liquids are heated above their boiling point	nongold
+4	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+5	the boiling point of water is 212F; 100C; 373K	gold
+6	boiling is a kind of phase change	nongold
+7	boiling point is a property of a substance; material	nongold
+8	when a gas in an open container evaporates; boils , that gas spreads out into the air	nongold
+9	water is a kind of liquid at room temperature	gold
+10	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+11	steam;water vapor is a kind of water above 100 degrees celsius	nongold
+12	heating means adding heat	nongold
+13	water is an thermal; thermal energy conductor	nongold
+14	temperature is a measure of heat energy	nongold
+15	heat means temperature increases	nongold
+16	melting point means temperature at which a solid melts; above which a solid melts	nongold
+17	heat means heat energy	nongold
+18	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+19	boiling point is the highest temperature a liquid can reach	nongold
+20	to add means to increase	nongold
+21	water is a kind of substance	nongold
+22	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+23	heat energy is synonymous with thermal energy	nongold
+24	all elements are a kind of pure substance	nongold
+25	boiling point is a kind of physical  property	nongold
+26	mass has no impact on boiling; melting; freezing point	nongold
+27	adding heat means increasing temperature	nongold
+28	a liquid is a kind of substance	nongold
+29	if liquid is boiling then that liquid is hot	nongold
+30	moisture means liquid; liquid water	nongold
+31	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+32	pure water is neutral; 7 in pH level	nongold
+33	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+34	conductivity is a property of a material; substance	nongold
+35	to give off means to be the source of	nongold
+36	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+37	volume has no impact on boiling; melting; freezing point	nongold
+38	boiling is a kind of event	nongold
+39	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+40	purity is a property of substance and includes ordered values of pure substance; mixture	nongold
+41	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+42	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+43	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	nongold
+44	when gas compresses , the temperature of the gas increases	nongold
+45	ability to undergo a phase change is a property of a substance; material	nongold
+46	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+47	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+48	boiling point is an intensive property	nongold
+49	a hot substance is a source of heat	nongold
+50	metal is a thermal; thermal energy conductor	nongold
+51	boiling means the volume of a liquid decreases	nongold
+52	a solid is a kind of substance	nongold
+53	evaporating is a kind of phase change	nongold
+54	thermal conduction is when heat flows from warmer object to cooler object	nongold
+55	melting is when solids are heated above their melting point	nongold
+56	air temperature is a kind of temperature	nongold
+57	air is usually a thermal; thermal energy insulator	nongold
+58	heat means the transfer of thermal energy	nongold
+59	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+60	gas is a kind of nonmetal	nongold
+61	evaporation; boiling can be used for separating a solution by allowing the solvent to evaporate	nongold
+62	heating is the opposite of cooling	nongold
+63	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+64	cooling means temperature decreases	nongold
+65	a source of something emits; produces; generates; provides that something	nongold
+66	gas is a kind of state of matter	nongold
+67	if something emits something else then that something increases the amount of that something else	nongold
+68	gas is a kind of material	nongold
+69	warm means medium heat energy; temperature	nongold
+70	melting is a kind of phase change	nongold
+71	melting point is a property of a substance; material	nongold
+72	worldwide temperature means atmospheric temperature	nongold
+73	hot means high in heat energy; temperature	nongold
+74	material means substance	nongold
+75	a thermal insulator slows; prevents the transfer of heat	nongold
+76	a phase change is a kind of physical change	nongold
+77	a thermal conductor is made of materials that conduct thermal energy	nongold
+78	wood is a thermal; thermal energy insulator	nongold
+79	liquid is a kind of state of matter	nongold
+80	gas is a kind of substance	nongold
+81	wood is an thermal; thermal energy insulator	nongold
+82	a source of something increases the amount of that something	nongold
+83	if an object is placed in a substance; in a location that is colder then that object will cool to the same temperature of that substance; of that location	nongold
+84	the heat energy in the cooler object increases in thermal conduction	nongold
+85	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+86	oxygen is a kind of gas at room temperature	nongold
+87	if something is places over a heat source then that something is exposed to that heat source	nongold
+88	a liquid is a kind of fluid	nongold
+89	a source of heat can be used to heat something	nongold
+90	a source of heat can be used to heat something	nongold
+91	to reduce means to decrease	nongold
+92	heating salt water causes the water to evaporate while the salt remains	nongold
+93	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+94	vapor is synonymous with gas	nongold
+95	mercury is liquid at room temperature	nongold
+96	to combust means to catch fire	nongold
+97	degrees celsius ( C ) is a metric unit used for measuring temperature generally used for values between -273.0 and 50000000.0	nongold
+98	propane;C_{3}H_{8} is a kind of gas at room temperature	nongold
+99	condensing is when gasses are  cooled below their boiling point	nongold
+100	high is similar to increase	nongold
+101	if heat is added to a substance then that substance absorbs that heat	nongold

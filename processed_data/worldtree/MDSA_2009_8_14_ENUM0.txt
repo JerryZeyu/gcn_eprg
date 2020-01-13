@@ -1,0 +1,102 @@
+Question	Electricity has many uses. Which device is designed to transform electrical energy into useful heat energy?	question
+Answer	an electric stove	answer
+0	an electric stove changes electrical energy into heat energy	gold
+1	a stove is a kind of machine	gold
+2	a stove is used for cooking by generating heat	nongold
+3	a stove generates heat for cooking usually	gold
+4	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+5	device means tool	nongold
+6	useful means able to be used	nongold
+7	electricity sometimes is used for heating buildings; substances	nongold
+8	electric devices require electrical energy to function	nongold
+9	electrical devices are used for industrial purposes; household purposes by humans	nongold
+10	electricity is used as an energy source by electrical devices	nongold
+11	to transform means to convert	nongold
+12	instrument means device	nongold
+13	a burner is a part of a  stove	nongold
+14	a machine is a kind of  device	gold
+15	electricity means electrical energy	nongold
+16	an oven is a kind of electrical device	nongold
+17	a heating element converts electrical energy; electricity into heat energy for heating	nongold
+18	electrical energy is a kind of energy	nongold
+19	useful means good to use	nongold
+20	metal is a thermal; thermal energy conductor	nongold
+21	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+22	a device is a kind of object	nongold
+23	household appliances are a kind of electrical device	nongold
+24	metal is an  electrical; electrical energy conductor	nongold
+25	heat energy is synonymous with thermal energy	nongold
+26	a battery converts chemical energy into electrical energy for powering electrical devices	nongold
+27	energy transformation means one kind of energy changes into another kind of energy	nongold
+28	a source of heat can be used to heat something	nongold
+29	a source of heat can be used to heat something	nongold
+30	a device requires energy to operate	nongold
+31	heating elements are usually a part of an oven	nongold
+32	thermal energy is a kind of energy	nongold
+33	heat means heat energy	gold
+34	tool is similar to appliance	nongold
+35	the function of something is what that something  is used to do	nongold
+36	heat is a kind of energy	nongold
+37	if an object is made of a material then that object has the properties of that material	nongold
+38	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+39	pot;pan;frying pan is made of metal for cooking	nongold
+40	a pot is used for cooking food	nongold
+41	an insulator is the opposite of a conductor	nongold
+42	to be used for something means to be required by that something	nongold
+43	an oven is a source of heat	nongold
+44	appliance is similar to technology	nongold
+45	heating means adding heat	nongold
+46	temperature is a measure of heat energy	nongold
+47	to use means to utilize	nongold
+48	a thermal conductor is made of materials that conduct thermal energy	nongold
+49	metal is a kind of material	nongold
+50	energy conversion is similar to energy transformation	nongold
+51	a toaster is a kind of household appliances	nongold
+52	a battery is a source of electrical energy; electricity	nongold
+53	a burner is a kind of object; surface	nongold
+54	a burner is made of metal	nongold
+55	technology is similar to tool	nongold
+56	an invention is a kind of tool	nongold
+57	to convert means to change	nongold
+58	converting is a kind of function	nongold
+59	to turn means to convert	nongold
+60	objects are made of materials; substances; matter	nongold
+61	an insulator is a kind of material	nongold
+62	using an object often requires creating that object	nongold
+63	if something is powered by something else then that something requires a source of that something else	nongold
+64	inventing a tool allows; enables that tool to be used	nongold
+65	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+66	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	nongold
+67	conductivity is a property of a material; substance	nongold
+68	an instrument is a piece of equipment	nongold
+69	a source of something emits; produces; generates; provides that something	nongold
+70	to power means to provide energy for	nongold
+71	heat means the transfer of thermal energy	nongold
+72	wood is an thermal; thermal energy insulator	nongold
+73	operating electrical appliances requires electricity	nongold
+74	as a system; a device grows old , that system; device will use more energy	nongold
+75	a toaster is a kind of electrical device	nongold
+76	heat sink is a kind of device	nongold
+77	wood is a thermal; thermal energy insulator	nongold
+78	cooking wares require a low thermal expansion material	nongold
+79	an object; material; substance comes from that object or material's source	nongold
+80	to make means to invent	nongold
+81	energy is used for heating a building by a heating system	nongold
+82	a tool is a kind of object	nongold
+83	form means kind	nongold
+84	something is used for that something's purpose	nongold
+85	a hot plate is a source of heat	nongold
+86	a food processor is a kind of household appliances	nongold
+87	a simple machine is a kind of tool	nongold
+88	answering questions requires information	nongold
+89	a blender is a kind of household appliances	nongold
+90	to add means to increase	nongold
+91	to create means to make	nongold
+92	conductivity is a measure of how easily electricity travels through a material	nongold
+93	converting is similar to producing	nongold
+94	materials are used for making products by manufacturers	nongold
+95	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+96	if a tool is made of a simple machine then that tool uses the principle demonstrated in that simple machine	nongold
+97	a generator is a kind of  device	nongold
+98	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+99	a hot plate is a kind of instrument	nongold

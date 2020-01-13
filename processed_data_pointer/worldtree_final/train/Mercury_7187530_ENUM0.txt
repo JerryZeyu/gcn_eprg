@@ -1,0 +1,102 @@
+0	low means down	nongold
+1	height is a kind of position	gold
+2	A student is organizing a room. She moves a box from the floor to a shelf. She wants to estimate the amount of potential energy the box has on the shelf. What information does the student need?	question
+3	to add means to increase	nongold
+4	downward means down	nongold
+5	moving changes potential energy; stored energy into kinetic energy and heat energy	nongold
+6	the floor is at the bottom of a room	nongold
+7	calculating is similar to estimating	gold
+8	a living thing is a kind of object	nongold
+9	as the altitude of an object increases ,  the  potential energy of the object  will increase	nongold
+10	a scale is used for measuring weight	nongold
+11	to travel up means to rise	nongold
+12	calculation means measurement	nongold
+13	to measure means to calculate	gold
+14	mass is a kind of physical property	nongold
+15	up means upward	nongold
+16	potential energy is a kind of energy	nongold
+17	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+18	organizing is sorting something by their properties in order	nongold
+19	objects are made of materials; substances; matter	nongold
+20	height is a property of the size of an object	nongold
+21	as an object moves down , potential energy will decrease	nongold
+22	a box is a kind of object	gold
+23	quantity means amount	nongold
+24	changes potential energy into kinetic energy through motion	nongold
+25	density is a measure of mass of an object over volume; divided by volume	nongold
+26	a container is a kind of object	nongold
+27	rising means height; altitude increases	nongold
+28	ground means floor	nongold
+29	to lift means to move up	nongold
+30	mechanical energy of a system includes the sum of kinetic energy and potential energy  in the system	nongold
+31	highest means largest; greatest; most in height	nongold
+32	gravitational potential energy is a measure of the product of weight and height	nongold
+33	the ceiling is at the top of a room	nongold
+34	measuring is used for describing an object	nongold
+35	a room is a kind of object	nongold
+36	greatest means largest; highest; most amount of something	nongold
+37	gravitational potential energy is a kind of potential energy	nongold
+38	compressing an object increases the potential energy in the object	nongold
+39	the mass of the box and the height of the shelf	answer
+40	what something needs is a property of that something	nongold
+41	rising means moving upward	nongold
+42	chemical energy is a kind of potential energy	nongold
+43	motion; movement means moving; to move	nongold
+44	potential is a kind of ability	nongold
+45	to depend on; to rely on; to need means to require	nongold
+46	a meter is a kind of unit for measuring distance; measuring length	nongold
+47	Weight is  the  force of gravity acting on an object	nongold
+48	an animal requires energy to move	nongold
+49	needing something means depending on that something	nongold
+50	mass is a property of objects; matter	gold
+51	increase means more	nongold
+52	as the liquid in a tube expands , the height of  the liquid in that tube will increase	nongold
+53	mass is similar to size	nongold
+54	horizontal change of motion do not change the potential energy of an object	nongold
+55	a measure of time is a length of time	nongold
+56	level is similar to amount; quantity	nongold
+57	mass is a kind of information	nongold
+58	if a property affects a value then that property is needed to calculate that value	gold
+59	a human is a kind of animal	nongold
+60	length is a measure of distance from one end of an object to the other end of that object	nongold
+61	seconds are a kind of unit for measuring time	nongold
+62	the floor is a kind of object	nongold
+63	room contains walls	nongold
+64	weight is a measure of the force of the gravity on the mass of an object	nongold
+65	an part of an object is smaller than the entire object	nongold
+66	potential energy means stored energy	nongold
+67	potential energy is a measure of the energy of an object due to position relative to other objects	gold
+68	mass; weight is a property of matter; objects; materials	nongold
+69	timing; multiplying is a kind of calculating	nongold
+70	if an object is at rest at the top of an incline then that object's mechanical energy is all potential	nongold
+71	size; amount of space means volume	nongold
+72	mass is a measure of the amount of matter in an object	nongold
+73	a room is a kind of container	nongold
+74	as kinetic energy increases , the potential energy will decrease	nongold
+75	high is similar to increase	nongold
+76	a wall is a kind of object	nongold
+77	a weight is a kind of object	nongold
+78	weight means the force of gravity acting on an object	nongold
+79	data means information	nongold
+80	shelf is a kind of  object	nongold
+81	an object exerts an upward force objects that sit on that object	nongold
+82	a student is a kind of human	nongold
+83	length is a part of size	nongold
+84	An example of a container is room	nongold
+85	a measurement is a kind of data	nongold
+86	requiring something means needing that something	nongold
+87	gravity;gravitational force causes objects that have mass; substances to be pulled down; to fall on a planet	nongold
+88	as an object falls , the potential energy of that object will decrease	nongold
+89	to assemble means to make	nongold
+90	if the amount of electricity converted from the potential energy of an object is less than the amount of potential energy in the object , then the  potential energy is converted into other energy other than electricity	nongold
+91	low means low in elevation; height; altitude	nongold
+92	as the mass of an object increases , the potential energy of that object will increase	gold
+93	a container contains objects; material; substances	nongold
+94	calculating speed requires knowing distance travelled	nongold
+95	distance moved; distance travelled is a measure of how far an object moves	nongold
+96	tall means great in height	nongold
+97	height is a measure of length from the top of an object to the bottom of an object	nongold
+98	a classroom is a kind of a room	nongold
+99	material means substance	nongold
+100	curiosity means the need to know new information	nongold
+101	answering questions requires information	nongold

@@ -1,0 +1,67 @@
+0	a landform is a kind of natural formation	nongold
+1	a landform is a kind of object	gold
+2	ice is a kind of object	nongold
+3	a mountain; mountain range is a kind of environment	nongold
+4	a landform is a kind of object	gold
+5	a volcano is a kind of landform	nongold
+6	a glacier is made of a large buildup of ice; snow	nongold
+7	melting glaciers.	answer
+8	Nevada has abundant sunshine	nongold
+9	a ridge is a kind of landform	gold
+10	classifying means grouping objects; materials by their properties	nongold
+11	mountain area means mountain range	nongold
+12	to be formed by is to be the result of	nongold
+13	soil is formed by rocks eroding	nongold
+14	composition means the (materials, substances) of which something is composed	nongold
+15	melting glaciers.	answer
+16	to make means to form	gold
+17	a mound is a kind of landform	gold
+18	land area means land mass	nongold
+19	to be made of something means to be formed of that something	nongold
+20	composed of means made of	gold
+21	boulders; sand; gravel are formed by glaciers melting sometimes	gold
+22	snow is a kind of ice	nongold
+23	a landform is a kind of object	gold
+24	if an object is made of something then the parts of that object are made of that something	gold
+25	class is a measure of how a rock is formed	nongold
+26	a hill is a kind of place	nongold
+27	composed of means made of	gold
+28	Mounds and ridges in the Snake Range area of Nevada are composed of boulders, sand, and gravel. These landforms were most likely formed by	question
+29	Mounds and ridges in the Snake Range area of Nevada are composed of boulders, sand, and gravel. These landforms were most likely formed by	question
+30	boulders; sand; gravel are formed by glaciers melting sometimes	gold
+31	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	nongold
+32	panda is a kind of animal	nongold
+33	composed of means made of	gold
+34	a mound is a kind of landform	gold
+35	an object is made of its parts	gold
+36	Mounds and ridges in the Snake Range area of Nevada are composed of boulders, sand, and gravel. These landforms were most likely formed by	question
+37	boulders; sand; gravel are formed by glaciers melting sometimes	gold
+38	a sand dune is a kind of hill	nongold
+39	Mounds and ridges in the Snake Range area of Nevada are composed of boulders, sand, and gravel. These landforms were most likely formed by	question
+40	sinkholes; caves are formed by precipitation; infiltration	nongold
+41	sand is similar to soil	nongold
+42	rock is a kind of material	nongold
+43	melting glaciers.	answer
+44	rocks; soil; materials interacting with wind; moving water over long periods of time causes weathering	nongold
+45	to make means to form	gold
+46	soil is made of very small rocks; minerals	nongold
+47	a whole is formed by its parts	nongold
+48	to be made of means to consist of	nongold
+49	melting glaciers.	answer
+50	a ridge is a kind of landform	gold
+51	Nevada is a state located in the United States of America	nongold
+52	a mountain; hill is taller than the land around it	nongold
+53	a mound is a kind of landform	gold
+54	to be formed means to be originated	nongold
+55	if an object is made of something then the parts of that object are made of that something	gold
+56	a ridge is a kind of landform	gold
+57	to form means to create	nongold
+58	hills are a kind of small mountain	nongold
+59	if rocks in an area have many scratches then that area was once covered by glaciers	nongold
+60	a mountain glacier is a kind of glacier	nongold
+61	if an object is made of something then the parts of that object are made of that something	gold
+62	made up of means contains; made of	nongold
+63	an object is made of its parts	gold
+64	to make means to form	gold
+65	a boulder is a kind of rock	nongold
+66	an object is made of its parts	gold

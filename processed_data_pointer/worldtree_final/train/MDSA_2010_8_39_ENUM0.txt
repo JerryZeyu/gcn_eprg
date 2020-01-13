@@ -1,0 +1,102 @@
+0	generate means produce	nongold
+1	green plants are a kind of producer	nongold
+2	if something causes an increase in something else then that something produces that something else	nongold
+3	if an organism dies then the population of that organism will decrease	nongold
+4	as the use of something decreases , the use of the source of that something will decrease	nongold
+5	natural gas is used for generating electricity by burning in a power plant	nongold
+6	if something emits something else then that something increases the amount of that something else	nongold
+7	solar power means solar energy	nongold
+8	if something is a raw material in a process then that something is required for that process	nongold
+9	fossil fuels are a kind of energy resource	nongold
+10	carbon dioxide is a kind of greenhouse gas	nongold
+11	fossil fuels burning causes pollution	nongold
+12	population increase means more survive	nongold
+13	oil is a nonrenewable resource	nongold
+14	if something generates energy for something else then that something powers that something else	nongold
+15	harming something has a  negative impact on; effect on that something	nongold
+16	photosynthesis means producers; green plants convert from carbon dioxide and water and solar energy into carbohydrates and food and oxygen for themselves	nongold
+17	renewable resources are replenished more quickly than they are used	nongold
+18	biofuel is used to produce electricity by burning	nongold
+19	burning fossil fuels increases the carbon in the atmosphere	nongold
+20	good means positive	nongold
+21	a producer is a kind of living thing	nongold
+22	As the human population increases, more fossil fuels are being used. The burning of fossil fuels produces greenhouse gases. How might humans reduce greenhouse gases?	question
+23	to power means to provide energy for	nongold
+24	negative impact is the opposite of positive impact	nongold
+25	burning is a kind of action	nongold
+26	a source of something increases the amount of that something	nongold
+27	society is made of humans	nongold
+28	automobiles; industrialization are a source of carbon dioxide	nongold
+29	decreasing something negative has a positive impact on a thing	nongold
+30	a source of something emits; produces; generates; provides that something	nongold
+31	petroleum is a kind of fossil fuel	nongold
+32	using biomass to produce energy is a source of pollution	nongold
+33	fossil fuels have high potential energy	nongold
+34	using resources decreases those resources	nongold
+35	an increase is a kind of change	nongold
+36	to increase is similar to to create	nongold
+37	humans cause pollution	nongold
+38	to be used for something means to be required by that something	nongold
+39	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+40	if something is required for a process then that something positively impacts that process	nongold
+41	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+42	renewable resources are often available for many years	nongold
+43	emit means produce	nongold
+44	a renewable resource can be replaced	nongold
+45	producing electricity sometimes requires burning oil	nongold
+46	a power plant converts chemical energy from energy source into electricity	nongold
+47	resources sometimes are used for energy	nongold
+48	a decrease is a kind of change	nongold
+49	to use means to utilize	nongold
+50	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+51	to produce means to create	nongold
+52	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+53	human is a kind of organism	nongold
+54	converting is similar to producing	nongold
+55	producing renewable electric energy requires renewable resources	nongold
+56	if something causes a process then that something is required for that process	nongold
+57	resources becoming available has a positive impact on the things that need those resources	nongold
+58	a human is a kind of animal	nongold
+59	as available resources increases , the population of an organism that uses those resources will increase	nongold
+60	an energy source is a kind of resource	nongold
+61	gases released during the use of fossil fuels causes global warming	nongold
+62	organisms are a part of an environment	nongold
+63	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+64	renewable resources can be used over again	nongold
+65	a fossil fuel is a kind of natural resource	nongold
+66	producing is a kind of process	nongold
+67	to generate means to form	nongold
+68	fossil fuels release carbon dioxide into the atmosphere	nongold
+69	to generate means to create	nongold
+70	reducing is a kind of change	nongold
+71	the greenhouse effect is when carbon in the air heats a planet's atmosphere	nongold
+72	to depend on; to rely on; to need means to require	nongold
+73	greenhouse gases are a part of the atmosphere	nongold
+74	as the population of plants decreases , carbon in the atmosphere will increase	nongold
+75	oil is a kind of fossil fuel	nongold
+76	to reduce means to decrease	nongold
+77	plants are a kind of resource	nongold
+78	renewable is the opposite of nonrenewable	nongold
+79	less is similar to decrease	nongold
+80	as a population of organisms increases , the resources used by those organisms will decrease	nongold
+81	fossil fuels are a nonrenewable resource	nongold
+82	water vapor is a kind of greenhouse gas	nongold
+83	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+84	as the cause of something decreases , that something will decrease	nongold
+85	increase means more	nongold
+86	fire causes burning	nongold
+87	oil is a kind of energy resource	nongold
+88	generating power is a kind of positive impact	nongold
+89	using renewable resources to generate power reduces greenhouse gases	gold
+90	carbon dioxide is a kind of gas	nongold
+91	oil is used for producing electricity	nongold
+92	as a population of organisms decreases , the resources used by those organisms will increase	nongold
+93	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+94	causing is similar to generating	nongold
+95	a renewable resource is a kind of natural resource	nongold
+96	greenhouse gases building up can cause global warming	nongold
+97	converting is similar to generating	nongold
+98	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+99	Use renewable resources to generate power.	answer
+100	if something is powered by something else then that something requires a source of that something else	nongold
+101	a renewable resource can be renewed	nongold

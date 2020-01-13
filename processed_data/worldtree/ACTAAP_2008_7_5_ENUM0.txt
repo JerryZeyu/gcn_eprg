@@ -1,0 +1,102 @@
+Question	Which is a characteristic of a sperm cell but not of an egg cell?	question
+Answer	presence of a tail	answer
+0	a tail is not part of an egg cell	gold
+1	a tail is a part of a  sperm cell	gold
+2	an egg cell is a kind of sex cell	nongold
+3	a sperm cell is a kind of  sex cell	nongold
+4	an egg is a kind of object	nongold
+5	the reproductive system produces sperm; egg cells	nongold
+6	feature is synonymous with characteristic	nongold
+7	trait is synonymous with characteristic	nongold
+8	characteristic means property	nongold
+9	a part of something is present in that something	gold
+10	male animals require sperm cells to reproduce	nongold
+11	an animal is a kind of living thing	nongold
+12	trait means property	nongold
+13	an inherited characteristic is a kind of characteristic	nongold
+14	a human sperm cell has 23; twenty-three chromosomes	nongold
+15	a cell is a kind of object	nongold
+16	a property of something is a feature of that something	nongold
+17	a baby is the offspring of a parent	nongold
+18	a baby is the offspring of a parent	nongold
+19	laying eggs is a kind of property of an animal	nongold
+20	a fertilized egg cell is a kind of somatic cell	nongold
+21	gamete means sex cell	nongold
+22	what an object is made of is a kind of characteristic	nongold
+23	a living thing is a kind of object	nongold
+24	a mother is a kind of female parent	nongold
+25	some animals have offspring by laying eggs	nongold
+26	a fertilized egg cell is a source of an embryo by dividing	nongold
+27	a part of something means a characteristic of something	gold
+28	to reproduce means to have; to produce offspring	nongold
+29	children; young is synonymous with offspring	nongold
+30	eggs become baby animals	nongold
+31	parents produce offspring	nongold
+32	a cell is very small	nongold
+33	an organism is a living thing	nongold
+34	in sexual reproduction the egg is a vehicle for the genes from the mother to the offspring	nongold
+35	a living thing is made of cells	nongold
+36	reproductive behavior is an inherited characteristic	nongold
+37	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+38	a father is a kind of male parent	nongold
+39	an egg is a kind of food	nongold
+40	sexual reproduction in animals is when egg; sperm join together	nongold
+41	an animal cell is a kind of cell	nongold
+42	a cat is a kind of carnivore	nongold
+43	young means immature	nongold
+44	in sexual reproduction sperm is a vehicle for the genes from the father to the offspring	nongold
+45	live birth means developing inside the mother instead of an egg	nongold
+46	baby is similar to immature	nongold
+47	a cat is a kind of animal	nongold
+48	reproduction produces; produce offspring	nongold
+49	an animal is a kind of organism	nongold
+50	an egg requires warmth to survive; hatch; develop	nongold
+51	a baby is a kind of young animal	nongold
+52	a type is synonymous with a kind	nongold
+53	a structure of something is synonymous with a part of that something	nongold
+54	a structure is a kind of feature	nongold
+55	cells are a part of the body	nongold
+56	an animal requires a mate to fertilize an egg	nongold
+57	a mother births offspring	nongold
+58	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+59	an asexually produced offspring is genetically identical to its parent	nongold
+60	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+61	the body is a part of an organism	nongold
+62	the shape of body parts is an inherited characteristic	nongold
+63	a kind of something is an example of that something	nongold
+64	sexual reproduction produces offspring with genetic material from both parents; cells with genetic material from both parent cells	nongold
+65	to lack means to not have	nongold
+66	an animal is a kind of eukaryote	nongold
+67	if an animal hatches from an egg then that animal is born	nongold
+68	the condition of parts of an organism are acquired characteristics	nongold
+69	species is an inherited characteristic	nongold
+70	unique  is the opposite of diverse	nongold
+71	a cat is a kind of mammal	nongold
+72	the size of an organism is an inherited characteristic	nongold
+73	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+74	an part of an object is smaller than the entire object	nongold
+75	a type of something is a kind of property of that something	nongold
+76	living things can all reproduce	nongold
+77	fertilization is when an egg cell becomes fertilized	nongold
+78	if something is a part of something then that something can be found in that something	nongold
+79	lack is similar to low; little	nongold
+80	sexual reproduction is a source of genetic variation; naturally occurring variation in offspring; in a species	nongold
+81	a mammal is a kind of animal	nongold
+82	sister means one of the offspring	nongold
+83	causing is a kind of affecting	nongold
+84	all living things are made of cells according to the cell theory	nongold
+85	color is a property of  an object; a material	nongold
+86	to contain means to have inside	nongold
+87	coloration means a thing's color	nongold
+88	an animal needs to attract a mate to reproduce	nongold
+89	animals require fertilization to reproduce	nongold
+90	an animal is a member of an animal species	nongold
+91	animals reproduce sexually	nongold
+92	the head is a part of an animal	nongold
+93	phenotype of an organism means the visible traits of  an organism	nongold
+94	to be characterized by  a property means to have that property	nongold
+95	not is similar to the opposite of	nongold
+96	can be means able to be	nongold
+97	a son is a kind of male offspring	nongold
+98	a belly is a part of an animal	nongold
+99	affected means changed	nongold

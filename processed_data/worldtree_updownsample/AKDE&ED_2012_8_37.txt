@@ -1,0 +1,81 @@
+0	a star produces light and heat	gold
+1	the Sun is the  star that is closest to Earth	nongold
+2	distant means great in distance	nongold
+3	closer means lower; less; a decrease in distance	gold
+4	variable means able to change	nongold
+5	Star X is larger than star Y.	answer
+6	to change means to become different	gold
+7	low is the opposite of high	gold
+8	different is the opposite of the same	gold
+9	Star X is larger than star Y.	answer
+10	to change means to become different	gold
+11	larger means greater; higher; more; increase in size	gold
+12	sunlight is a kind of light	nongold
+13	larger means greater; higher; more; increase in size	gold
+14	to reduce means to decrease	nongold
+15	less is similar to decrease	gold
+16	a source of something emits; produces; generates; provides that something	gold
+17	a source of something emits; produces; generates; provides that something	gold
+18	little is similar to decrease	nongold
+19	as a source of light becomes closer , that source will appear brighter	gold
+20	dimmer is the opposite of brighter	nongold
+21	to change means to become different	gold
+22	closer means lower; less; a decrease in distance	gold
+23	high is similar to increase	gold
+24	low is similar to decrease	nongold
+25	the sun is a source of light; light energy called sunlight	nongold
+26	larger means greater; higher; more; increase in size	gold
+27	light means low  in weight	nongold
+28	less is similar to decrease	gold
+29	a decrease is a kind of change	gold
+30	an increase is a kind of change	gold
+31	as the size of a source of light increases , that source of light will appear brighter	gold
+32	to add means to increase	nongold
+33	high is similar to increase	gold
+34	dimmer means less bright	nongold
+35	small is the opposite of large	nongold
+36	smaller means less; lower in size	nongold
+37	lower means less	nongold
+38	less is similar to decrease	gold
+39	different is the opposite of the same	gold
+40	An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?	question
+41	An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?	question
+42	close means low in distance	nongold
+43	a star produces light and heat	gold
+44	faster means an increase; higher in speed	nongold
+45	higher means greater; above in value; amount; number	nongold
+46	a star is very hot in temperature	nongold
+47	a decrease is a kind of change	gold
+48	Star X is larger than star Y.	answer
+49	both means two	nongold
+50	a star requires energy	nongold
+51	as a source of light becomes closer , that source will appear brighter	gold
+52	An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?	question
+53	low is the opposite of high	gold
+54	amount is similar to number	nongold
+55	the Sun has average brightness compared to other stars	nongold
+56	far is the opposite of close	nongold
+57	same means identical; equal in value; amount; number; quantity	nongold
+58	best means most positive	nongold
+59	an increase is a kind of change	gold
+60	high is similar to increase	gold
+61	if an object is close then that object will appear large	nongold
+62	greatest means largest; highest; most amount of something	nongold
+63	An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?	question
+64	distant means far away	nongold
+65	furthest; farthest means greatest; most; highest in distance	nongold
+66	as the size of a source of light increases , that source of light will appear brighter	gold
+67	the sun is a source of radiation; heat called sunlight	nongold
+68	as the size of a source of light increases , that source of light will appear brighter	gold
+69	an increase is the opposite of a decrease	nongold
+70	an increase is a kind of change	gold
+71	a star produces light and heat	gold
+72	a source of something emits; produces; generates; provides that something	gold
+73	less is the opposite of more	nongold
+74	low is the opposite of high	gold
+75	different is the opposite of the same	gold
+76	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+77	closer means lower; less; a decrease in distance	gold
+78	Star X is larger than star Y.	answer
+79	as a source of light becomes closer , that source will appear brighter	gold
+80	a decrease is a kind of change	gold

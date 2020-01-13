@@ -1,0 +1,102 @@
+0	Which human body system produces the hormones that regulate growth?	question
+1	endocrine	answer
+2	the endocrine system is a source of hormones	gold
+3	the endocrine system is a kind of body; organ system	gold
+4	some hormones regulate growth	gold
+5	a source of something emits; produces; generates; provides that something	gold
+6	hormones regulate body functions	nongold
+7	a body system is a part of the body; an animal	nongold
+8	the thyroid gland is a part of the endocrine system	nongold
+9	growth is a kind of process	nongold
+10	development is similar to production	nongold
+11	organ system means body system	nongold
+12	a human is a kind of animal	nongold
+13	the hypothalamus gland is a part of the endocrine system	nongold
+14	growth is a kind of change	nongold
+15	human is a kind of organism	nongold
+16	growth is a stage in the life cycle process	nongold
+17	producing is similar to causing	nongold
+18	regulating is a kind of function	nongold
+19	a body system is a kind of object	nongold
+20	growth means size;number;value;strength increases	nongold
+21	an animal is a kind of organism	nongold
+22	the endocrine system carries messages from the body to the brain	nongold
+23	generate means produce	nongold
+24	to be formed by is similar to being produced by	nongold
+25	developing means growing	nongold
+26	regulation is when an organism maintains a stable internal environment	nongold
+27	to produce means to provide	nongold
+28	growing is a kind of process	nongold
+29	producing is a kind of function	nongold
+30	producing is similar to releasing	nongold
+31	if something causes an increase in something else then that something produces that something else	nongold
+32	an organism is a living thing	nongold
+33	to act on means to affect	nongold
+34	an animal is a kind of living thing	nongold
+35	controlling is a kind of function	nongold
+36	In the mammal life cycle , reproduction can follows growth	nongold
+37	emit means produce	nongold
+38	An example of growth is an organism developing a new part	nongold
+39	cell division often causes growth; healing	nongold
+40	high is similar to increase	nongold
+41	to regulate means to maintain the speed of a process	nongold
+42	the function of something is what that something  is used to do	nongold
+43	determining is similar to controlling	nongold
+44	a component of something means a part of that something	nongold
+45	produce is similar to release	nongold
+46	to contribute is similar to produce	nongold
+47	producing is a kind of process	nongold
+48	the pituitary gland is a part of the endocrine system	nongold
+49	a component means a part of	nongold
+50	to cause means to have an effect	nongold
+51	converting is similar to producing	nongold
+52	increase means more	nongold
+53	if something causes a process then that something is required for that process	nongold
+54	In the mammal life cycle , growth can follows birth	nongold
+55	all living things grow	nongold
+56	to change means to have an effect	nongold
+57	a part of a process means a stage in a process	nongold
+58	to produce means to result in	nongold
+59	the reproductive system is a kind of body system	nongold
+60	if something is made by something else then that something is affected by that something else	nongold
+61	a body cell means a somatic cell	nongold
+62	activator is a kind of  protein	nongold
+63	to be used for something means to be required by that something	nongold
+64	to impact means to affect	nongold
+65	answering questions requires information	nongold
+66	a process usually requires all of the stages in that process	nongold
+67	to generate means to form	nongold
+68	life means living things	nongold
+69	an event is a kind of action	nongold
+70	if something is required for a process then that something positively impacts that process	nongold
+71	system means a set of objects	nongold
+72	causing is a kind of affecting	nongold
+73	if two things perform the same function then those two things are similar	nongold
+74	a mechanism is a kind of system that performs a function	nongold
+75	if something is made of something else , then that something else will be the component of that something	nongold
+76	impact means effect	nongold
+77	products are formed; are produced; are created	nongold
+78	an organ system is made of different parts of the body working together	nongold
+79	the ability to grow is a kind of trait	nongold
+80	to be a source of something means to cause that something	nongold
+81	if something requires something else then that something requires a source of that something else	nongold
+82	An example of biological regulation is insulin being released to control the amount of sugar in blood	nongold
+83	forming is similar to growing	nongold
+84	can be means able to be	nongold
+85	growing is a kind of activity	nongold
+86	variable means able to change	nongold
+87	causing means influencing	nongold
+88	to have a function is similar to to be responsible for	nongold
+89	a function is a kind of characteristic	nongold
+90	a process is a kind of event	nongold
+91	producing is similar to discharging	nongold
+92	a reaction is a kind of process	nongold
+93	causing is a kind of function	nongold
+94	a human cell is a kind of cell	nongold
+95	a source of something increases the amount of that something	nongold
+96	make means produce	nongold
+97	a plant; living thing requires nutrients to grow	nongold
+98	an increase is a kind of change	nongold
+99	to provide something means to be the source of that something	nongold
+100	a type is synonymous with a kind	nongold
+101	an animal cell is a kind of cell	nongold

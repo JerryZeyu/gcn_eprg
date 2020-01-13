@@ -1,0 +1,100 @@
+0	The chemical formula for water is H_{2}O. What does the formula show about each element in the compound?	question
+1	the number of atoms of each element	answer
+2	the number in chemical formula shows the number of atoms of each element in a molecule	gold
+3	an atom is the smallest particle; unit that has the properties of an element	nongold
+4	an element is made of one kind of atoms	nongold
+5	an  element is a kind of atom	nongold
+6	H2O means water	nongold
+7	propane;C_{3}H_{8} is a kind of gas at room temperature	nongold
+8	water is a kind of compound	gold
+9	O2 means oxygen	nongold
+10	atomic number is a property of elements	nongold
+11	water is made of hydrogen and oxygen	nongold
+12	a molecule of water is made of 2 hydrogen atoms and 1 oxygen atom	gold
+13	how many means what number	nongold
+14	matter; materials; substances are made of atoms; particles	nongold
+15	a compound can be chemically separated into the elements that it is made of	nongold
+16	chemical reactions do not cause the total number of atoms to change	nongold
+17	the basic unit of matter is atom	nongold
+18	compound is a kind of chemical	nongold
+19	oxygen  is a kind of element	nongold
+20	an element is identified by its number of protons	nongold
+21	the number of parts of something is a property of that something	nongold
+22	atomic number means proton number	nongold
+23	four is a kind of number	nongold
+24	atoms are made of particles	nongold
+25	water is a kind of matter	nongold
+26	hydrogen is a kind of element	nongold
+27	amount is similar to number	nongold
+28	one is a kind of number	nongold
+29	all elements are a kind of pure substance	nongold
+30	a chemical compound is a kind of compound	nongold
+31	carbon is a kind of element	nongold
+32	a compound is made of two or more elements that have been chemically combined	nongold
+33	a compound is a kind of substance	gold
+34	atom cannot be divided into smaller substances	nongold
+35	substances are made of elements	nongold
+36	water is a kind of substance	nongold
+37	an atom is a kind of object	nongold
+38	if a substance is made of one element , then the substance is called an element	nongold
+39	chemical compounds contain chemical bonds between atoms; between elements	nongold
+40	an atom is made of protons; neutrons; electrons	nongold
+41	an element is a kind of  substance	nongold
+42	O is the chemical symbol for oxygen	nongold
+43	nitrogen is a kind of element	nongold
+44	a pure substance is made of only one kind of atom; molecule	nongold
+45	when two substances together form a compound then those substances cannot be physically separated	nongold
+46	the  chemical symbol for oxygen is O	nongold
+47	a molecule is the smallest particle; unit that has the properties of a compound	nongold
+48	An example of a chemical property is the elements a compound is made of	nongold
+49	a compound is a kind of material	nongold
+50	carbon; hydrogen; nitrogen; oxygen are the most common elements in organic compounds	nongold
+51	water is a kind of object	nongold
+52	N means nitrogen	nongold
+53	water is a kind of liquid at room temperature	nongold
+54	water contains dissolved oxygen	nongold
+55	many means high in number	nongold
+56	if the outermost electron shell of an atom is full; complete , then the  element of those atoms will not react with other elements easily	nongold
+57	the structure  of an atom can be used for identifying the element	nongold
+58	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+59	chlorine is a kind of element	nongold
+60	a carbohydrate is a kind of compound	nongold
+61	a nonmetal is a kind of element	nongold
+62	the order of the elements in periodic table is determined by the atomic number of the elements	nongold
+63	approximately means about	nongold
+64	CO2 is a kind of chemical formula	nongold
+65	a molecule is made of atoms chemically combined; bonded	nongold
+66	substances are made of matter	nongold
+67	electron configuration is a property of elements	nongold
+68	to show means to display	nongold
+69	combining; mixing two substances chemically causes chemical reactions	nongold
+70	an element is a kind of material	nongold
+71	the atomic number of elements increases by 1 from left to right on a row on the periodic table	nongold
+72	hydrogen contains chemical energy	nongold
+73	to show means to present	nongold
+74	interatomic means existing or acting between atoms	nongold
+75	to be made of something means to be formed of that something	nongold
+76	state means form	nongold
+77	heat means heat energy	nongold
+78	an alkaline earth metal is a kind of element	nongold
+79	nonmetal means nonmetals	nongold
+80	an atom is exceptionally small in size	nongold
+81	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+82	chemical reactions cause new substances; different substances to form	nongold
+83	a metal is a kind of element	nongold
+84	chemical bonds are formed by chemically combining elements; atoms; molecules	nongold
+85	fewer means lower; less in number	nongold
+86	water is a kind of polar substance	nongold
+87	water exists in three states on Earth	nongold
+88	an element cannot be decomposed into two or more different substances by simple chemical methods	nongold
+89	composed of means made of	nongold
+90	can be means able to be	nongold
+91	ammonia is made of nitrogen and hydrogen	nongold
+92	a proton is a part of an atom; an element	nongold
+93	made up of means contains; made of	nongold
+94	chemical reactivity is a property of elements and includes ordered values of reactive; unreactive	nongold
+95	same means identical; equal in value; amount; number; quantity	nongold
+96	liquid is a kind of state of matter	nongold
+97	all the other means the rest of	nongold
+98	material means substance	nongold
+99	particles in objects are a kind of matter	nongold

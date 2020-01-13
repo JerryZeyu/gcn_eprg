@@ -1,0 +1,102 @@
+Question	Oak trees produce seeds that are contained in acorns. Blue jays eat the seeds in acorns. Blue jays also collect acorns and hide them in the ground, often far away from the parent oak tree. Blue jays do not eat the seed of every acorn they hide. How do oak trees benefit from blue jays' collecting and hiding acorns?	question
+Answer	The seeds of oak trees are planted in new environments.	answer
+0	a blue jay is a kind of bird	gold
+1	a positive impact is  a benefit	nongold
+2	an acorn is a kind of seed	nongold
+3	An example of  seed dispersal is is an animal hiding; gathering; burying seeds	gold
+4	seed dispersal has a positive impact on a plant; a plant's reproduction	nongold
+5	an oak is a kind of tree	gold
+6	a seed is a kind of food for birds	nongold
+7	if a living thing requires something then that something has a positive impact on that living thing	nongold
+8	plant requires seed dispersal for reproduction	gold
+9	a tree is a kind of habitat	nongold
+10	An example of seed dispersal is animals eating; excreting seeds	nongold
+11	seed dispersal is when the seeds of a plant are moved from the plant to  a new environment	gold
+12	to collect means to gather	nongold
+13	a forest is a kind of environment	nongold
+14	hiding is a kind of protection against predators; from predators	nongold
+15	a plant requires a habitat for survival	nongold
+16	helping something has a  positive impact on that something	nongold
+17	habitat is similar to environment	nongold
+18	plants are a part of the environment	nongold
+19	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+20	surroundings means environment	nongold
+21	birds sometimes eat berries;seeds	nongold
+22	a flower is a part of a plant for attracting pollinators; producing seeds	nongold
+23	planting native plants has a  positive impact on an ecosystem	nongold
+24	objects in an environment are a part of that environment	nongold
+25	an animal requires a habitat for survival	nongold
+26	planting trees has a  positive impact on an ecosystem	nongold
+27	an environment is a kind of place	nongold
+28	a tree is a kind of living thing	nongold
+29	an environment means an area	nongold
+30	a tree is a kind of plant	gold
+31	an animal needs to eat food for nutrients	nongold
+32	green plants are a kind of producer	nongold
+33	to eat means to consume food	nongold
+34	a seed is a part of a plant	nongold
+35	a plant is a kind of organism	nongold
+36	negative impact is the opposite of positive impact	nongold
+37	bluebirds live in open spaces; grassy spaces	nongold
+38	a plant is a kind of living thing	nongold
+39	a forest contains  lots of plants; trees	nongold
+40	a plant; living thing requires food for survival	nongold
+41	an animal; living thing requires nutrients for survival	nongold
+42	to help; to benefit means to be of use	gold
+43	a positive impact is a helpful effect	nongold
+44	fruit contains seeds	nongold
+45	a berry contains seeds	nongold
+46	organisms are a part of an environment	nongold
+47	to contain means to have inside	nongold
+48	a producer produces its own food	nongold
+49	an animal is a kind of living thing	nongold
+50	an organism is a living thing	nongold
+51	far means great in distance	nongold
+52	an animal is a kind of organism	nongold
+53	blue is a kind of color	nongold
+54	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+55	a living thing is a kind of object	nongold
+56	reproduction increases the number; population of a living thing	nongold
+57	hiding can be used for avoiding predators	nongold
+58	food is what an animal eats	nongold
+59	reproduction ensures the continuation of a plant or animal species	nongold
+60	a plant; living thing requires nutrients to grow	nongold
+61	a leaf is a part of a tree	nongold
+62	to be made of is similar to collection	nongold
+63	animals; living things live and feed in their habitats; near their habitats	nongold
+64	a producer is a kind of living thing	nongold
+65	a seed is a kind of young plant	nongold
+66	eating an animal; a plant means killing that animal; that plant	nongold
+67	plants are the source of fruit	nongold
+68	plant reproduction; seed production requires pollination	nongold
+69	to be found in means to be contained in	nongold
+70	trees are a kind of natural resource	nongold
+71	seeds are a part of  berries	nongold
+72	a food contains nutrients for living things	nongold
+73	a seed is used for storing food for a new plant	nongold
+74	if something is required for a process then that something positively impacts that process	nongold
+75	harming something has a  negative impact on; effect on that something	nongold
+76	a plant is a member of a plant species	nongold
+77	an animal is a kind of consumer	nongold
+78	fruit is a part of a plant; tree	nongold
+79	place is synonymous with location	nongold
+80	nature means a natural environment	nongold
+81	a bird is a kind of animal	gold
+82	collecting is similar to absorbing	nongold
+83	an insect is a kind of animal	nongold
+84	a flower's purpose is to produce seeds	nongold
+85	survive means live	nongold
+86	survive means live	nongold
+87	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+88	a leaf is a part of a  green plant	nongold
+89	high is similar to increase	nongold
+90	organisms; living things live in their habitat; their home	nongold
+91	distant means far away	nongold
+92	old is the opposite of new	nongold
+93	a bird is a kind of living thing	nongold
+94	if an organism eats something then that something is a source of frood to that organism	nongold
+95	near; close is the opposite of far; away	nongold
+96	reproduction is a kind of process	nongold
+97	to be used for something means to be required by that something	nongold
+98	an animal is a member of an animal species	nongold
+99	seed dispersers are a vehicle for spreading the seeds of a plant	nongold

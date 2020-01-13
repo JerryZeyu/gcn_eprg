@@ -1,0 +1,102 @@
+0	Large birds have been eating small animals in an area. If all of the large birds died from a disease, the number of small animals in the area would probably	question
+1	increase	answer
+2	if an organism dies then the population of that organism will decrease	nongold
+3	disease means illness	nongold
+4	population is a measure of the number of a species in an environment	nongold
+5	an environment means an area	gold
+6	if a living thing dies then that living thing is dead	nongold
+7	killing a living thing decreases the number; population size of that living thing	nongold
+8	some birds are predators	gold
+9	reproduction increases the number; population of a living thing	nongold
+10	a bird is a kind of living thing	nongold
+11	birds sometimes eat insects	nongold
+12	a bird is a kind of animal	nongold
+13	predators eat prey	nongold
+14	larger means greater; higher; more; increase in size	nongold
+15	killing means harming something causing death	gold
+16	population increase means more survive	nongold
+17	a population is made of one type of organism in an area	nongold
+18	high is similar to increase	nongold
+19	death means to die	gold
+20	an increase is the opposite of a decrease	nongold
+21	survive means live	nongold
+22	survive means live	nongold
+23	a predator eats other animals for food	nongold
+24	eating an animal; a plant means killing that animal; that plant	nongold
+25	dead organisms are a source of disease	nongold
+26	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+27	if an amount of objects decreases then those objects are fewer in number	nongold
+28	many means high in number	nongold
+29	a predator usually kills its prey to eat it	nongold
+30	harming an animal species causes that animal's population to decrease	gold
+31	an increase is a kind of change	nongold
+32	an animal is a kind of living thing	nongold
+33	an animal; living thing requires nutrients for survival	nongold
+34	an organism is a living thing	nongold
+35	to lower means to decrease	nongold
+36	an animal is a kind of organism	nongold
+37	disease has a negative impact on an organism	nongold
+38	if an organism eats something then that something is a source of frood to that organism	nongold
+39	nonliving; non-living; die is the opposite of living; alive; live	nongold
+40	low is similar to decrease	nongold
+41	harming an organism can cause that organism to die	nongold
+42	increase means more	nongold
+43	killing means changing a living thing from alive to dead by harming	nongold
+44	a decrease is a kind of change	nongold
+45	to eat means to consume food	nongold
+46	to prey on an animal means to eat that animal	nongold
+47	eating something decreases the amount of that something	nongold
+48	harming an animal species has a  negative impact on the population size of that species	nongold
+49	place means area	nongold
+50	dying is the opposite of living; surviving	nongold
+51	harming something has a  negative impact on; effect on that something	nongold
+52	small is the opposite of large	nongold
+53	amount is similar to number	nongold
+54	eating prey requires catching prey	nongold
+55	fewer means lower; less in number	nongold
+56	as population of predators increases , the population of prey will decrease in an environment	nongold
+57	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+58	an animal needs to eat food for nutrients	nongold
+59	less is similar to decrease	nongold
+60	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+61	as  population of prey decreases , the population of predators will  decrease	nongold
+62	as population of predators decreases , the population of prey will increase in an environment	gold
+63	a living thing is a kind of object	nongold
+64	predators; carnivores; omnivores eat other animals	gold
+65	a plant; living thing requires food for survival	nongold
+66	a mammal is a kind of animal	nongold
+67	if a new predator begins eating prey then the population of that prey will decrease	nongold
+68	smaller means less; lower in size	nongold
+69	food is what an animal eats	nongold
+70	an animal is a member of an animal species	nongold
+71	animals; living things live and feed in their habitats; near their habitats	nongold
+72	die out means become extinct	nongold
+73	an insect is a kind of prey	nongold
+74	greatest means largest; highest; most amount of something	nongold
+75	diet means what an animal eats	nongold
+76	prey is a kind of food for predators	nongold
+77	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+78	little is similar to decrease	nongold
+79	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+80	birds sometimes eat berries;seeds	nongold
+81	an insect is a kind of animal	nongold
+82	a predator is a kind of animal	gold
+83	as the cause of something decreases , that something will decrease	nongold
+84	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+85	become prey means get eaten	nongold
+86	live means to be alive	nongold
+87	life means living things	nongold
+88	scavengers eat dead organisms	nongold
+89	greater means higher; more in value	nongold
+90	dead means not alive	nongold
+91	if members of a species are born; survive then the population of that species increases	nongold
+92	most means over 50% of something	nongold
+93	an insect usually has a small size	nongold
+94	larger; bigger is the opposite of smaller	nongold
+95	a source of something increases the amount of that something	nongold
+96	negative impacts on a species will decrease populations of a species	nongold
+97	largest amount means most	nongold
+98	prey  is a kind of animal	nongold
+99	if a population decreases to zero then that organism is extinct	nongold
+100	an animal requires enough nutrients to maintain good health; survive	nongold
+101	a food contains nutrients for living things	nongold

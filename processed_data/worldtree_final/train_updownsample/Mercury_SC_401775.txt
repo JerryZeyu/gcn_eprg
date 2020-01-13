@@ -1,0 +1,57 @@
+0	howling is a kind of behavior	nongold
+1	laying down is a kind of action	gold
+2	a dog is a kind of animal	nongold
+3	form means kind	nongold
+4	laying down is a kind of action	gold
+5	placing is a kind of action	nongold
+6	affected means changed	nongold
+7	a mammal is a kind of animal	nongold
+8	push is a kind of force; application of force	nongold
+9	animal instinct means instinctive behavior	nongold
+10	impact means effect	nongold
+11	a human requires sleep; rest to be healthy	nongold
+12	strong means high in strength	nongold
+13	dog laying down on command.	answer
+14	the head is a part of an animal	nongold
+15	dog laying down on command.	answer
+16	to lift means to move up	nongold
+17	following orders is a learned characteristic	gold
+18	playing with toys is a learned characteristic	nongold
+19	a learned characteristic is a kind of acquired characteristic	nongold
+20	a behavior is a kind of characteristic	gold
+21	dog laying down on command.	answer
+22	using tools is a learned characteristic	nongold
+23	following an order means performing an action on command	gold
+24	to depend on; to rely on; to need means to require	nongold
+25	a kind of something is an example of that something	nongold
+26	An example of a learned behavior is a	question
+27	An example of following orders is coming when called	nongold
+28	a behavior is a kind of characteristic	gold
+29	An example of a learned behavior is a	question
+30	doing something more is a kind of conditioned behavior	nongold
+31	laying down is a kind of action	gold
+32	following an order means performing an action on command	gold
+33	An example of reproduction is laying eggs	nongold
+34	following an order means performing an action on command	gold
+35	a human is a kind of animal	nongold
+36	An example of a learned behavior is a	question
+37	preferences are generally learned characteristics	nongold
+38	sense is a kind of characteristic of an animal	nongold
+39	raising is a kind of motion	nongold
+40	following orders is a learned characteristic	gold
+41	good means positive	nongold
+42	dog laying down on command.	answer
+43	ability is a kind of characteristic	nongold
+44	a predator avoiding some types of prey is a learned behavior	nongold
+45	learning; studying information causes one to know that information	nongold
+46	rolling over is a kind of action	nongold
+47	communication is a learned behavior	nongold
+48	intelligence is an acquired characteristic	nongold
+49	An example of a learned behavior is a	question
+50	an animal is a kind of living thing	nongold
+51	a behavior is a kind of characteristic	gold
+52	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+53	learned behaviors are learned over the  lifetime of the animal	nongold
+54	trait is synonymous with characteristic	nongold
+55	animals learn some behaviors from watching their parents	nongold
+56	following orders is a learned characteristic	gold

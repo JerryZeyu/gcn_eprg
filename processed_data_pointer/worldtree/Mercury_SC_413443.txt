@@ -1,0 +1,102 @@
+Question	Which units are best to measure the amount of rain that fell during a thunderstorm?	question
+Answer	centimeters	answer
+0	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+1	a meter is a kind of unit for measuring distance; measuring length	nongold
+2	meters;centimeters;kilometers are used to describe distance; describe length	gold
+3	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+4	thunder occurs during thunderstorms	nongold
+5	a thunderstorm is a kind of storm	nongold
+6	lightning occurs during lightning storms; thunderstorms	nongold
+7	precipitation is when rain;snow;hail fall from clouds to the Earth;ground	nongold
+8	rainfall means the amount of precipitation	nongold
+9	millimeters ( mm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 100.0	nongold
+10	rain is a kind of precipitation	nongold
+11	measures of length; measures of distance are used to measure the amount of rainfall	gold
+12	rain; snow falls	nongold
+13	precipitation is when water falls from the sky	nongold
+14	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+15	rainfall means precipitation	nongold
+16	a storm is a source of precipitation	nongold
+17	rain is a kind of water	nongold
+18	storm is a kind of weather; weather event	nongold
+19	rainstorm means rain storm	nongold
+20	raining is when rain falls from clouds to the Earth;ground as a liquid	nongold
+21	measuring requires reading a measurement	nongold
+22	a centimeter is a kind of unit of measurement	gold
+23	hail is a kind of precipitation; ice	nongold
+24	unit is similar to part	nongold
+25	lightning causes thunder	nongold
+26	precipitation is a kind of weather	nongold
+27	snowstorm is a kind of weather	nongold
+28	rainfall is the amount of rain an area receives	gold
+29	greatest means largest; highest; most amount of something	nongold
+30	seconds are a kind of unit for measuring time	nongold
+31	an increase is a kind of change	nongold
+32	cold fronts cause thunderstorms as they pass by	nongold
+33	storms;rain cause bodies of water to increase amount of water they contain	nongold
+34	snow is a kind of precipitation	nongold
+35	high is similar to increase	nongold
+36	increase means more	nongold
+37	to drop means to fall	nongold
+38	square meter ( m^2 ) is a metric unit used for measuring area	nongold
+39	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+40	falling means moving downward	nongold
+41	measuring sometimes requires  recording; learning an amount	nongold
+42	a gram  is a kind of unit for measuring mass	nongold
+43	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+44	a meter stick is used to measure distance; height; length	nongold
+45	thunder is a kind of sound	nongold
+46	lightning is a kind of weather phenomenon	nongold
+47	a decrease is a kind of change	nongold
+48	precipitation is a property of weather	nongold
+49	extreme means very high in value	nongold
+50	a unit for measuring time is a kind of time interval	nongold
+51	a motion is a kind of event; action	nongold
+52	quantity means amount	nongold
+53	cubic meter ( m^3 ) is a metric unit used for measuring volume	nongold
+54	seconds are used to measure time	nongold
+55	an event is a kind of action	nongold
+56	snowfall means the amount of precipitation in snow form	nongold
+57	grams ( g ) are a  metric unit used for measuring mass; weight generally used for values between 1.0 and 2000.0	nongold
+58	a meter stick is a kind of tool for measuring length; measuring distance	nongold
+59	a centimeter is used for measuring short lengths; short distances	nongold
+60	dropping something causes that something to fall	nongold
+61	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+62	thunder is loud	nongold
+63	lightning is the source of thunder	nongold
+64	hailing is when hail fall from clouds to the Earth;ground	nongold
+65	property is similar to measurement	nongold
+66	to lower means to decrease	nongold
+67	sleet is a kind of precipitation	nongold
+68	a change is a kind of event	nongold
+69	inch ( in ) is a imperial unit used for measuring length; distance	nongold
+70	joules ( J ) are an  SI unit used for measuring mechanical energy; work generally used for values between 1.0 and 1000.0	nongold
+71	liters ( L ) is a metric unit used for measuring volume generally used for values between 1.0 and 50000000.0	nongold
+72	kilograms ( kg ) are a  metric; SI unit used for measuring mass; weight generally used for values between 1.0 and 50000000.0	nongold
+73	precipitation is a kind of natural occurrence; cause	nongold
+74	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+75	an area receiving rain means rain falling in that area	gold
+76	a kilogram is a kind of unit for measuring mass	nongold
+77	come down is similar to falling	nongold
+78	drop means decrease	nongold
+79	best means most positive	nongold
+80	a measure of time is a length of time	nongold
+81	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+82	cubic centimeter ( cm^3 ) is a metric unit used for measuring volume	nongold
+83	m/s means meters per second	nongold
+84	greater means higher; more in value	nongold
+85	a type is synonymous with a kind	nongold
+86	low is similar to decrease	nongold
+87	liters are a kind of unit for measuring volume of liquids	nongold
+88	motion; movement means moving; to move	nongold
+89	can be means able to be	nongold
+90	higher means greater; above in value; amount; number	nongold
+91	a storm is usually a source of strong winds	nongold
+92	miles are a kind of unit for measuring distance	nongold
+93	miles ( mi ) are a  imperial unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+94	calculation means measurement	nongold
+95	wind and rain; storms cause erosion	nongold
+96	a blizzard is a kind of storm	nongold
+97	how long something takes is a kind of measurement of time	nongold
+98	answering questions requires information	nongold
+99	wind speed is a property of weather	nongold

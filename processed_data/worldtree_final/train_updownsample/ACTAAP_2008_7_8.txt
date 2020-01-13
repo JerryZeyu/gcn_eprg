@@ -1,0 +1,59 @@
+0	travelling requires  navigation	gold
+1	downward is a kind of direction	nongold
+2	length of time means period of time	nongold
+3	Why would explorers use a compass when traveling to unknown lands?	question
+4	a road is a kind of object	nongold
+5	a continent is a kind of location	nongold
+6	furthest; farthest means greatest; most; highest in distance	nongold
+7	travelling requires  navigation	gold
+8	useful means able to be used	nongold
+9	instrument means tool	nongold
+10	locating means determining	gold
+11	if a person is lost then that person might not know their location	nongold
+12	a compass is used for determining direction	gold
+13	Why would explorers use a compass when traveling to unknown lands?	question
+14	a compass is a kind of tool for determining direction by pointing north	gold
+15	a road is a kind of location	nongold
+16	far means great in distance	nongold
+17	finding something means locating that something	nongold
+18	a compass is used for determining direction	gold
+19	locating means determining	gold
+20	to detect means to find	nongold
+21	to locate a direction to travel	answer
+22	a compass is a kind of object	nongold
+23	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+24	passage is passing	nongold
+25	to locate a direction to travel	answer
+26	Why would explorers use a compass when traveling to unknown lands?	question
+27	to locate a direction to travel	answer
+28	land is a kind of landform	nongold
+29	land is a kind of environment	nongold
+30	a measure of time is a length of time	nongold
+31	using an object often requires creating that object	nongold
+32	a living thing is a kind of object	nongold
+33	a type is synonymous with a kind	nongold
+34	instrument means device	nongold
+35	a vehicle is used for travel	nongold
+36	kilometers ( km ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 50000000.0	nongold
+37	navigation requires knowing direction	gold
+38	to locate a direction to travel	answer
+39	locating means determining	gold
+40	Earth's magnetic patterns are used for finding locations by animals that migrate	nongold
+41	navigation requires knowing direction	gold
+42	a vehicle is a kind of tool for travel; transport	nongold
+43	can be means able to be	nongold
+44	discovering something usually requires seeing that something	nongold
+45	Why would explorers use a compass when traveling to unknown lands?	question
+46	a compass is a kind of tool for determining direction by pointing north	gold
+47	place is synonymous with location	nongold
+48	navigation requires knowing direction	gold
+49	a meter is a kind of unit for measuring distance; measuring length	nongold
+50	a vehicle is used for transportation	nongold
+51	a compass is used for determining direction	gold
+52	to cross means to pass	nongold
+53	a device is a kind of object	nongold
+54	a compass is a kind of tool for determining direction by pointing north	gold
+55	a compass's needle lines up with Earth's magnetic poles	nongold
+56	travelling requires  navigation	gold
+57	Earth's magnetic field causes compasses to point North	nongold
+58	an animal is a kind of living thing	nongold

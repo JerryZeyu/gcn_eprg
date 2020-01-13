@@ -1,0 +1,102 @@
+Question	James put some water in a pan. He put the pan on a stove and turned the stove on low. What will happen to the water?	question
+Answer	The water will evaporate.	answer
+0	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+1	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+2	heating means adding heat	nongold
+3	pot;pan;frying pan is made of metal for cooking	gold
+4	temperature is a measure of heat energy	nongold
+5	a pan;frying pan is a kind of container for cooking; food	gold
+6	a stove generates heat for cooking usually	gold
+7	adding heat means increasing temperature	nongold
+8	water is an thermal; thermal energy conductor	nongold
+9	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+10	heat means heat energy	nongold
+11	a pan is a kind of object	nongold
+12	evaporation causes amount of water to decrease	nongold
+13	evaporation is allowing a liquid  to evaporate to separate any solid that was mixed with it	nongold
+14	a stove is used for cooking by generating heat	nongold
+15	water is a kind of liquid at room temperature	gold
+16	boiling is when liquids are heated above their boiling point	nongold
+17	to add means to increase	nongold
+18	heat means temperature increases	nongold
+19	if an object; a substance; a location absorbs solar energy then that object; that substance will increase in temperature	nongold
+20	if heat is added to a substance then that substance absorbs that heat	nongold
+21	heat energy is synonymous with thermal energy	nongold
+22	to lower means to decrease	nongold
+23	to give off means to be the source of	nongold
+24	metal is a thermal; thermal energy conductor	gold
+25	water is a kind of substance	nongold
+26	low means down	nongold
+27	heating salt water causes the water to evaporate while the salt remains	nongold
+28	hot means high in heat energy; temperature	nongold
+29	moisture means liquid; liquid water	nongold
+30	a source of something emits; produces; generates; provides that something	gold
+31	evaporation; boiling can be used for separating a solution by allowing the solvent to evaporate	nongold
+32	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+33	evaporation is a kind of process	nongold
+34	warm; becoming warm means heat is added	nongold
+35	low is similar to decrease	nongold
+36	an electric stove changes electrical energy into heat energy	nongold
+37	to combust means to catch fire	nongold
+38	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+39	heat means the transfer of thermal energy	nongold
+40	fire transfers heat through waves	nongold
+41	a container contains objects; material; substances	gold
+42	evaporation can be used for separating a mixture of a liquid and a solid	nongold
+43	a burner is a part of a  stove	nongold
+44	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+45	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+46	a living thing is a kind of object	nongold
+47	boiling means the volume of a liquid decreases	nongold
+48	a stove is a kind of machine	nongold
+49	a thermal insulator slows; prevents the transfer of heat	nongold
+50	to reduce means to decrease	nongold
+51	a liquid is a kind of substance	nongold
+52	material means substance	nongold
+53	combustion means fire converts chemical energy into light energy and heat energy	nongold
+54	if liquid is boiling then that liquid is hot	nongold
+55	if something absorbs; requires more heat than it gives off in an reaction , then something will be cold in temperature	nongold
+56	an increase is the opposite of a decrease	nongold
+57	a hot substance is a source of heat	nongold
+58	heat energy  can be used to heat up  an object	nongold
+59	high temperatures can cause an object to combust	nongold
+60	liquid is a kind of state of matter	nongold
+61	thermal conduction is when heat flows from warmer object to cooler object	nongold
+62	adding heat to an object sometimes causes chemical reactions	nongold
+63	being  on something; placed in something; placed over something means touching  that something	gold
+64	an insulator is the opposite of a conductor	nongold
+65	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+66	heat energy can change the state of matter	nongold
+67	high is similar to increase	nongold
+68	if an object is made of a material then that object has the properties of that material	gold
+69	adding heat to something kills viruses; bacteria in that something	nongold
+70	water is a kind of matter	nongold
+71	cooking food requires adding heat energy to the food	nongold
+72	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+73	contents means the substance in a container	nongold
+74	if a container contains something then that container touches that something	gold
+75	An example of evaporation is a body of water drying up by absorbing heat energy	nongold
+76	a thermal conductor is made of materials that conduct thermal energy	gold
+77	evaporating is a kind of phase change	nongold
+78	gas is a kind of state of matter	nongold
+79	metal is an  electrical; electrical energy conductor	nongold
+80	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+81	condensation is when matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+82	a burner is a kind of object; surface	nongold
+83	fire gives off light; heat; smoke	nongold
+84	liquid; solid means nongaseous	nongold
+85	metal is a kind of substance	nongold
+86	if one surface; one substance; one object touches something then one is exposed to that something	gold
+87	evaporation is when water is drawn back up into the air in the water cycle	nongold
+88	combustion is a kind of chemical change	nongold
+89	if food is cooked then heat energy is added to that food	nongold
+90	melting is when solids are heated above their melting point	nongold
+91	sunlight produces heat	nongold
+92	to slow; to slow down decreases speed	nongold
+93	to happen means to occur	nongold
+94	a source of something increases the amount of that something	nongold
+95	a container is a kind of object	gold
+96	dry means low in amount of water; wetness; moisture	nongold
+97	water is a kind of object	nongold
+98	if something is places over a heat source then that something is exposed to that heat source	nongold
+99	if an object; something is in the sunlight then that object; that something will absorb solar energy	nongold

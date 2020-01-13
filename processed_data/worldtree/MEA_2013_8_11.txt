@@ -1,0 +1,102 @@
+Question	Lori owns a house next to the lake. She uses lots of fertilizer to keep her lawn green. Which impact could fertilizing her lawn have on the lake?	question
+Answer	an increase in the algae population	answer
+0	an algae is a kind of organism	gold
+1	algae is a kind of living thing	nongold
+2	fertilizers have a positive impact on algae growth	gold
+3	algae is a kind of plant	nongold
+4	fertilizers have a negative impact on the environment; natural resources	nongold
+5	lots means much	nongold
+6	fertilizers are a source of pollution	nongold
+7	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+8	as water increases in an environment , the population of aquatic animals will increase	nongold
+9	algae is found in bodies of water	gold
+10	a lot means large in amount; quantity	nongold
+11	an aquatic animal is a kind of animal	nongold
+12	a lake is a kind of body of water	gold
+13	aquatic animals; plants live in bodies of water	nongold
+14	impact means effect	nongold
+15	to impact means to affect	nongold
+16	a plants; living things require water for survival; to grow	nongold
+17	aquatic animal means water animal	nongold
+18	a body of water is a kind of environment	nongold
+19	increase means more	nongold
+20	to keep something occurring means to cause that something to occur	nongold
+21	to cause means to have an effect	nongold
+22	to change means to have an effect	nongold
+23	harming an animal species causes that animal's population to decrease	nongold
+24	change is a kind of impact	nongold
+25	to reduce means to decrease	nongold
+26	a house is a kind of home	nongold
+27	as available water decreases , the population of plants will decrease	nongold
+28	an animal; living thing requires nutrients for survival	nongold
+29	fertilizers contain nitrogen	nongold
+30	an organism is a source of organic matter	nongold
+31	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+32	an animal is a kind of living thing	nongold
+33	an increase is the opposite of a decrease	nongold
+34	if a living thing requires something then that something has a positive impact on that living thing	nongold
+35	an environment means an area	nongold
+36	a source of something increases the amount of that something	nongold
+37	as the available water in an environment increases , the populations of organisms in that environment will increase	nongold
+38	a plant is a kind of living thing	nongold
+39	water is a part of an environment	nongold
+40	an animal is a kind of organism	nongold
+41	fertilizer contains chemicals	nongold
+42	harming something has a  negative impact on; effect on that something	nongold
+43	a house is a kind of building	nongold
+44	runoff contains chemicals; fertilizer; pollutants; pesticides from cropland	nongold
+45	a population is made of one type of organism in an area	nongold
+46	an organism is a living thing	nongold
+47	organisms are a part of an environment	nongold
+48	to lower means to decrease	nongold
+49	an increase is a kind of change	nongold
+50	to keep a process or event happening is similar to causing that process or event to happen	nongold
+51	a plant is a kind of organism	nongold
+52	an organism is a source of organic material	nongold
+53	an environment is similar to an ecosystem	nongold
+54	plants are a part of the environment	nongold
+55	a decrease is a kind of change	nongold
+56	a home is a kind of building	nongold
+57	a plant; living thing requires nutrients to grow	nongold
+58	green algae are a source of food for fungi in a lichen	nongold
+59	if something is required for a process then that something positively impacts that process	nongold
+60	rich nutrients can cause algae and phytoplankton to increase	nongold
+61	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+62	water is a kind of natural resource	nongold
+63	water is a kind of natural resource	nongold
+64	a body of water is a source of water	nongold
+65	to add means to increase	nongold
+66	an ecosystem contains a large community of; large numbers of living organisms	nongold
+67	a living thing is a kind of object	nongold
+68	a part of a living thing is a natural structure	nongold
+69	decreasing something positive has a negative impact on a thing	nongold
+70	high is similar to increase	nongold
+71	decreasing something negative has a positive impact on a thing	nongold
+72	a pond is a kind of environment	nongold
+73	green plants are a kind of producer	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	negative impact is the opposite of positive impact	nongold
+76	a plant; living thing requires food for survival	nongold
+77	vegetation means plants	nongold
+78	grass is a kind of green plant	nongold
+79	a human is a kind of animal	nongold
+80	causing is a kind of affecting	nongold
+81	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+82	to be used for something means to be required by that something	nongold
+83	as the cause of something decreases , that something will decrease	nongold
+84	humans changing an environment causes animal populations to decrease in that environment	nongold
+85	green marine algae are a kind of producer	nongold
+86	to depend on; to rely on; to need means to require	nongold
+87	having an impact on something means altering that something	nongold
+88	as available resources increases , the population of an organism that uses those resources will increase	nongold
+89	a forest contains  lots of plants; trees	nongold
+90	an organism is made of organic matter	nongold
+91	high means a lot of something	nongold
+92	if something has a positive impact on an organism's growth then that something increases the population of that organism	gold
+93	negative impacts on a species will decrease populations of a species	nongold
+94	population increase means more survive	nongold
+95	to limit means to decrease	nongold
+96	organisms; living things live in their habitat; their home	nongold
+97	animals; living things require water for survival	nongold
+98	plant and animal matter means organic matter	nongold
+99	a concern; a problem is a possible negative impact	nongold

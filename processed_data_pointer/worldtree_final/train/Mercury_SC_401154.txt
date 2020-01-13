@@ -1,0 +1,100 @@
+0	if a living thing requires something then that something has a positive impact on that living thing	nongold
+1	to depend on; to rely on; to need means to require	nongold
+2	to be used for something means to be required by that something	nongold
+3	a plant is a kind of organism	nongold
+4	if something is required then that something must be provided	nongold
+5	to input means to add	nongold
+6	if something causes a process then that something is required for that process	nongold
+7	must have means require	nongold
+8	a tree is a kind of plant	nongold
+9	an animal; living thing requires nutrients for survival	nongold
+10	a flower contains pollen for sexual reproduction	nongold
+11	pollinating is a kind of function	nongold
+12	some flowers become fruits	nongold
+13	a leaf performs photosynthesis; gas exchange	nongold
+14	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+15	converting is similar to producing	nongold
+16	producing is a kind of process	nongold
+17	high is similar to increase	nongold
+18	a flower is a kind of plant	nongold
+19	a leaf is a part of a tree	nongold
+20	essential means required	nongold
+21	a plant; living thing requires nutrients to grow	nongold
+22	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+23	reproduction is when an organism passes genetic information from itself to its offspring	nongold
+24	bees convert nectar into honey for food	nongold
+25	a process usually requires all of the stages in that process	nongold
+26	a flower is a part of a plant for attracting pollinators; producing seeds	gold
+27	reproduction is a kind of process	nongold
+28	reproduction is a stage in the life cycle process	nongold
+29	a leaf is a part of a  green plant	nongold
+30	a plant is a kind of living thing	nongold
+31	In the flowering plant life cycle , reproduction can follow growth	nongold
+32	pollen is part of a flower for reproduction	gold
+33	answering questions requires information	nongold
+34	bees eat pollen	nongold
+35	a flower is a kind of object	nongold
+36	a requirement is a kind of limitation	nongold
+37	In the flowering plant life cycle , pollination can follow flowering	nongold
+38	Pollen is necessary for a flowering plant to	question
+39	requiring is similar to needing help	nongold
+40	pollinator means pollinating animal	nongold
+41	to reproduce means to have; to produce offspring	nongold
+42	to produce means to provide	nongold
+43	an animal is a kind of living thing	nongold
+44	a plant is a member of a plant species	nongold
+45	a plant; living thing requires food for survival	nongold
+46	a leaf is a kind of object	nongold
+47	a producer is a kind of living thing	nongold
+48	a living thing is a kind of object	nongold
+49	In the flowering plant life cycle , growth can follow germination	nongold
+50	producing is similar to causing	nongold
+51	a leaf is a kind of plant organ	nongold
+52	a food contains nutrients for living things	nongold
+53	In the flowering plant life cycle , pollination is part of reproduction	nongold
+54	a leaf is a kind of plant	nongold
+55	a stem is often a part of plant	nongold
+56	to provide something means to be the source of that something	nongold
+57	if an event occurs by adding something then that event requires that something	nongold
+58	emit means produce	nongold
+59	producer is a kind of role in the food chain process; in an ecosystem	nongold
+60	reproduction increases the number; population of a living thing	nongold
+61	In the flowering plant life cycle , fruiting can follow pollination	nongold
+62	requiring something means needing that something	nongold
+63	a legume is a kind of plant	nongold
+64	In the flowering plant life cycle , flowering can follow growth	nongold
+65	a plant requires photosynthesis to grow; survive	nongold
+66	if something is required for something else then that something allows that something else	nongold
+67	an organism is a living thing	nongold
+68	In the flowering plant life cycle , seed	nongold
+69	a source of something emits; produces; generates; provides that something	nongold
+70	nectar is used for attracting pollinators by plants	nongold
+71	seed dispersal has a positive impact on a plant; a plant's reproduction	nongold
+72	a flower's purpose is to produce seeds	nongold
+73	a wildflower is a kind of flower	nongold
+74	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	nongold
+75	living things can all reproduce	nongold
+76	if something requires something else then that something else is important to that something	nongold
+77	In the flowering plant life cycle , fruiting is part of reproduction	nongold
+78	plant requires seed dispersal for reproduction	nongold
+79	a tree is a kind of living thing	nongold
+80	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+81	reproduction ensures the continuation of a plant or animal species	nongold
+82	pollinated means after pollination	nongold
+83	to be required means to be necessary	gold
+84	In the flowering plant life cycle , flowering is part of reproduction	nongold
+85	In the food chain process a  green plant has the role of  producer	nongold
+86	green plants are a kind of producer	nongold
+87	cross-pollination is a stage in the plant reproduction process	nongold
+88	plant reproduction; seed production requires pollination	gold
+89	pollination is when pollinating animals; wind; water carry pollen from one flower to another flower	gold
+90	a flower is a source of nectar	nongold
+91	if something is required for a process then that something positively impacts that process	nongold
+92	a flower produces pollen and seeds	nongold
+93	as the number of pollinators attracted to a flower; a plant increases , the ability of that flower; of that plant to reproduce will increase	nongold
+94	pollination is a kind of process for plant reproduction	nongold
+95	pollination requires pollinators; pollinating animals	nongold
+96	reproduce.	answer
+97	reproduction produces; produce offspring	nongold
+98	plant reproduction often requires pollen	nongold
+99	if something requires something else then that something requires a source of that something else	nongold

@@ -1,0 +1,66 @@
+0	temperature is a property of weather	gold
+1	a region is a kind of location	gold
+2	a ring is a kind of object	nongold
+3	an increase is a kind of change	nongold
+4	rainfall means the amount of precipitation	nongold
+5	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+6	tree rings	answer
+7	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+8	less is similar to decrease	nongold
+9	tree rings can be used to provide evidence of the changes in climate	gold
+10	tree rings	answer
+11	precipitation is a property of weather	gold
+12	as the amount of rainfall increases in an area , the amount of available water in that area will increase	nongold
+13	climate is the usual kind of weather in a location over a period of time	gold
+14	if something returns to a place then that something increases in that place	nongold
+15	worldwide temperature means atmospheric temperature	nongold
+16	A group of students are researching changes in climate in their region. Which of these would best provide evidence of changes in temperature and rainfall over a period of years?	question
+17	a tree is a kind of living thing	nongold
+18	a tree is a kind of plant	nongold
+19	together means in a group	nongold
+20	a region is a kind of location	gold
+21	climate is the usual kind of weather in a location over a period of time	gold
+22	greater means higher; more in value	nongold
+23	wet is the opposite of dry	nongold
+24	a result of something is evidence of that something	nongold
+25	plants are a part of the environment	nongold
+26	rainfall is the amount of rain an area receives	nongold
+27	increase means more	nongold
+28	tree rings can be used to provide evidence of the changes in climate	gold
+29	rainy is a kind of weather	nongold
+30	A group of students are researching changes in climate in their region. Which of these would best provide evidence of changes in temperature and rainfall over a period of years?	question
+31	answering questions requires information	nongold
+32	to change means to have an effect	nongold
+33	weather is a property of a environment	nongold
+34	temperature is a property of weather	gold
+35	rainfall means precipitation	gold
+36	global warming is when worldwide temperature increases	nongold
+37	an increase is the opposite of a decrease	nongold
+38	precipitation is a property of weather	gold
+39	a student is a kind of human	nongold
+40	climate is the usual kind of weather in a location over a period of time	gold
+41	trees are a renewable resource	nongold
+42	research is used for learning	nongold
+43	tree rings	answer
+44	rain is a kind of precipitation	nongold
+45	A group of students are researching changes in climate in their region. Which of these would best provide evidence of changes in temperature and rainfall over a period of years?	question
+46	amount of sunlight causes changing weather patterns	nongold
+47	cold is a kind of weather	nongold
+48	vegetation means plants	nongold
+49	helping something has a  positive impact on that something	nongold
+50	A group of students are researching changes in climate in their region. Which of these would best provide evidence of changes in temperature and rainfall over a period of years?	question
+51	tree rings can be used to provide evidence of the changes in climate	gold
+52	winter has cold temperatures;weather	nongold
+53	as temperature during the day increases , the temperature in an environment will increase	nongold
+54	temperature is a property of weather	gold
+55	precipitation is a property of weather	gold
+56	a region is a kind of location	gold
+57	rainfall means precipitation	gold
+58	a branch is a part of a tree	nongold
+59	years are a kind of unit for measuring time	gold
+60	tree rings	answer
+61	years are a kind of unit for measuring time	gold
+62	years are a kind of unit for measuring time	gold
+63	rainfall means precipitation	gold
+64	precipitation is when water falls from the sky	nongold
+65	an environment means an area	nongold

@@ -1,0 +1,102 @@
+Question	What is the function of skin on the human body?	question
+Answer	Skin protects the body from harmful substances.	answer
+0	skin is used for protecting the body from harmful substances	gold
+1	human skin is a kind of object	nongold
+2	the function of something is what that something  is used to do	nongold
+3	protecting is a kind of function	gold
+4	skin is a part of an animal; plant	nongold
+5	skin is a kind of material	nongold
+6	harming something has a  negative impact on; effect on that something	nongold
+7	role means function	nongold
+8	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+9	something harmful can cause harm	nongold
+10	skin is a kind of organ	nongold
+11	protection means resistance to damage increases	nongold
+12	if something performs a task then that task is that something's function	nongold
+13	protecting something means preventing harm to that something	nongold
+14	human is a kind of organism	nongold
+15	a human is a kind of animal	nongold
+16	to protect means to make safe	nongold
+17	the body is a part of an organism	nongold
+18	to hurt means to harm	nongold
+19	an animal is a kind of organism	nongold
+20	harm means danger	nongold
+21	something hard; something strong can be used for protection	nongold
+22	causing is a kind of function	nongold
+23	a function is a kind of characteristic	nongold
+24	hair; fur is  a part of skin for protection; keeping warm	nongold
+25	person is synonymous with human	nongold
+26	a body part is a kind of object	nongold
+27	an animal is a kind of living thing	nongold
+28	skin is the first; outermost layer around the body of some animals	nongold
+29	an organism is a living thing	nongold
+30	function is similar to purpose	nongold
+31	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+32	a surface is a part of an object	nongold
+33	to be a vehicle for is a kind of function	nongold
+34	damage means harm	nongold
+35	covering something is a kind of protection	nongold
+36	negative impact is the opposite of positive impact	nongold
+37	a living thing is a kind of object	nongold
+38	a person is a kind of animal	nongold
+39	killing means harming something causing death	nongold
+40	a surface is a part of a material	nongold
+41	the skin is the largest organ in the human body	nongold
+42	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+43	something is used for that something's purpose	nongold
+44	ionizing radiation is harmful to human skin	nongold
+45	harm means injury	nongold
+46	helping something has a  positive impact on that something	nongold
+47	damage has a negative impact on a thing	nongold
+48	decreasing something negative has a positive impact on a thing	nongold
+49	objects are made of materials; substances; matter	nongold
+50	providing is a kind of function	nongold
+51	killing means changing a living thing from alive to dead by harming	nongold
+52	part means role	nongold
+53	producing is a kind of function	nongold
+54	absorbing something harmful has a negative impact on a thing	nongold
+55	to help; to benefit means to be of use	nongold
+56	harming an organism can cause that organism to die	nongold
+57	being  on something; placed in something; placed over something means touching  that something	nongold
+58	to have a function is similar to to be responsible for	nongold
+59	a function is an activity	nongold
+60	material means substance	nongold
+61	to be used for something means to be required by that something	nongold
+62	converting is a kind of function	nongold
+63	inhibitor means something that prevents something from happening	nongold
+64	moving something is a kind of function	nongold
+65	skin is flexible	nongold
+66	burning a living thing usually causes harm to that living thing	nongold
+67	a source of something emits; produces; generates; provides that something	nongold
+68	providing support is a kind of function	nongold
+69	can be means able to be	nongold
+70	something's function can be used to describe; identify that something	nongold
+71	something dangerous can cause harm	nongold
+72	danger has a negative impact on a thing	nongold
+73	providing structure is a kind of function	nongold
+74	a surface is a kind of object	nongold
+75	impact means effect	nongold
+76	bringing substances to the body is a kind of function	nongold
+77	purpose means role	nongold
+78	death means to die	nongold
+79	absorbing is a kind of function	nongold
+80	ensuring is a kind of function	nongold
+81	to be used  for something means to help to do that something	nongold
+82	if one surface; one substance; one object touches something then one is exposed to that something	nongold
+83	the immune system defends the body against disease	nongold
+84	good means positive	nongold
+85	decreasing something positive has a negative impact on a thing	nongold
+86	organisms are a part of an environment	nongold
+87	touching is when a body part makes contact with the surface of an object	nongold
+88	to be in danger means to be around; to be near something dangerous	nongold
+89	a mechanism is a kind of system that performs a function	nongold
+90	skin is a part of a frog for breathing; protection; absorbing moisture	nongold
+91	conducting is a kind of function	nongold
+92	an article of clothing is a kind of object	nongold
+93	internal organs are a part of the body	nongold
+94	if an object is made of a material then that object has the properties of that material	nongold
+95	to impact means to affect	nongold
+96	if a living thing dies then that living thing is dead	nongold
+97	to help means to aid	nongold
+98	safe is the opposite of unsafe; harm; danger	nongold
+99	to inhibit means to prevent	nongold

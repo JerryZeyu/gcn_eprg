@@ -1,0 +1,102 @@
+0	to prey on an animal means to eat that animal	nongold
+1	an aquatic animal is a kind of animal	nongold
+2	a fish is a kind of predator	nongold
+3	lack of food causes starvation	gold
+4	prey  is a kind of animal	nongold
+5	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+6	animals; living things require water for survival	nongold
+7	harming an animal species has a  negative impact on the population size of that species	nongold
+8	organisms are a part of an environment	nongold
+9	if something affects a part of something else then that something affects that something else	nongold
+10	an organism is a living thing	nongold
+11	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+12	killing means harming something causing death	gold
+13	decreasing something positive has a negative impact on a thing	nongold
+14	an animal; living thing requires nutrients for survival	gold
+15	an environment is similar to an ecosystem	nongold
+16	if a living thing requires something then that something has a positive impact on that living thing	nongold
+17	if a source of food is unhealthy then the organism consuming that food will be unhealthy	nongold
+18	an animal needs to eat food for nutrients	gold
+19	a fish is a kind of aquatic animal	nongold
+20	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+21	a fish is a kind of animal	gold
+22	fish eat insects	nongold
+23	an animal is a kind of living thing	nongold
+24	helping something has a  positive impact on that something	nongold
+25	diet means what an animal eats	nongold
+26	lack is similar to low; little	gold
+27	aquatic animal means water animal	nongold
+28	an environment means an area	nongold
+29	Organisms that eat the fish could become endangered due to starvation.	answer
+30	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+31	an environment is a kind of place	nongold
+32	a plant; living thing requires food for survival	nongold
+33	protecting nature has a positive impact on the environment	nongold
+34	harming something has a  negative impact on; effect on that something	nongold
+35	survive means live	gold
+36	survive means live	nongold
+37	to eat means to consume food	nongold
+38	to reduce means to decrease	nongold
+39	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+40	to lower means to decrease	gold
+41	threatening the existence of an organism has a negative impact on that organism	nongold
+42	prey is a kind of food for predators	nongold
+43	if a living thing dies then that living thing is dead	nongold
+44	causing is a kind of affecting	nongold
+45	protecting something means preventing harm to that something	nongold
+46	fishing is when a human kills; catches fish for food	gold
+47	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+48	How does too much fishing in an area affect its ecosystem?	question
+49	a predator eats other animals for food	nongold
+50	negative impacts on a species will decrease populations of a species	nongold
+51	if an organism dies then the population of that organism will decrease	nongold
+52	to change means to have an effect	nongold
+53	food is what an animal eats	nongold
+54	fishing has a negative impact on ecosystems	gold
+55	become prey means get eaten	nongold
+56	an ecosystem contains a large community of; large numbers of living organisms	gold
+57	endangered means low in population	gold
+58	fish is a kind of meat	nongold
+59	harming an organism can cause that organism to die	nongold
+60	adverse effect means negative impact	nongold
+61	positively impacting an organism's survival increases the likelihood of survival of that organism	nongold
+62	dying is the opposite of living; surviving	nongold
+63	eating something decreases the amount of that something	nongold
+64	change is a kind of impact	nongold
+65	something harmful can cause harm	nongold
+66	influence means effect	nongold
+67	an animal is a kind of organism	gold
+68	predators eat prey	gold
+69	a fish lives in water	nongold
+70	impact means effect	gold
+71	a region is similar to an environment	nongold
+72	death means to die	gold
+73	survival means to survive	gold
+74	a predator usually kills its prey to eat it	nongold
+75	humans sometimes eat fish	nongold
+76	die out means become extinct	nongold
+77	an ecosystem is a kind of habitat	nongold
+78	if an organism eats something then that something is a source of frood to that organism	nongold
+79	too much is similar to increase	nongold
+80	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+81	to impact means to affect	nongold
+82	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+83	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+84	due to means caused by	nongold
+85	eating an animal; a plant means killing that animal; that plant	nongold
+86	an animal requires enough nutrients to maintain good health; survive	nongold
+87	a body of water is a kind of environment	nongold
+88	an animal requires a habitat for survival	nongold
+89	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+90	a predator is a kind of animal	gold
+91	affected means changed	nongold
+92	too much water has a  negative impact on the growth of a plant	nongold
+93	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+94	as  population of prey decreases , the population of predators will  decrease	gold
+95	eating prey requires catching prey	nongold
+96	decreasing something negative has a positive impact on a thing	nongold
+97	negative impact is the opposite of positive impact	nongold
+98	to cause means to have an effect	nongold
+99	habitat is similar to environment	nongold
+100	meat means dead animal for eating	nongold
+101	harming an animal species causes that animal's population to decrease	gold

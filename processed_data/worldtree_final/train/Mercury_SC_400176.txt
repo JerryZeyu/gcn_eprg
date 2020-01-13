@@ -1,0 +1,101 @@
+0	What is the approximate length of time it takes the Moon to complete one lunar cycle?	question
+1	29 days	answer
+2	the Moon completes a lunar cycle over a period of 29 days	gold
+3	days are a kind of unit for measuring time	nongold
+4	length of time means period of time	gold
+5	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+6	1 month is equal to 28-31 days	nongold
+7	how long something takes is a kind of measurement of time	nongold
+8	1 year is equal to 365 days	nongold
+9	a moon phase occurs 28 days after the last time it occurred	nongold
+10	a new moon occurs 14 days after a full moon	nongold
+11	a rotation of the moon takes 1; one month	nongold
+12	a measure of time is a length of time	nongold
+13	a moon is a kind of celestial object; body	nongold
+14	the moon orbits the Earth	nongold
+15	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+16	years are a kind of unit for measuring time	nongold
+17	a revolution of the moon around the Earth takes 1; one month	nongold
+18	the moon orbiting the Earth occurs once per month	nongold
+19	the day time is part of one day	nongold
+20	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+21	cycles of day and night occur once per day	nongold
+22	month is a kind of period of time	nongold
+23	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+24	a planet completes one orbit around its star over a period of one planetary year	nongold
+25	months are a kind of unit for measuring time	nongold
+26	each of the moon's phases occurs once per month	nongold
+27	a full moon occurs after a waxing gibbous moon	nongold
+28	a full moon is a kind of phase of the moon	nongold
+29	period is similar to amount of time	nongold
+30	long means great in length	nongold
+31	a cycle happens; occurs repeatedly	nongold
+32	1 year is equal to 12 months	nongold
+33	hours are a kind of unit for measuring time	nongold
+34	a planet is a kind of celestial object; body	nongold
+35	the Moon is Earth's moon	nongold
+36	years ( y ) are a  metric unit used for measuring time generally used for values between 1.0 and 14000000000.0	nongold
+37	a planet's distance from the star causes the length of a planetary year	nongold
+38	Earth is a kind of planet	nongold
+39	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+40	a new moon is a kind of phase of the moon	nongold
+41	length is a part of size	nongold
+42	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+43	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+44	an event is a kind of action	nongold
+45	longest means greatest in length	nongold
+46	Earth's revolution is a kind of cycle	nongold
+47	monthly means once per month	nongold
+48	August is a kind of month	nongold
+49	December is a kind of month	nongold
+50	an orbit is a kind of regular path	nongold
+51	a unit for measuring time is a kind of time interval	nongold
+52	a cycle is a kind of process	nongold
+53	a celestial body travelling around another celestial body means that celestial body completes a cycle around that other celestial body	nongold
+54	as the distance of a planet from the star  it orbits increases , the length of a planetary year on that planet will increase	nongold
+55	a motion is a kind of event; action	nongold
+56	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	nongold
+57	to a human a time period of 1000 years or more years is considered very long	nongold
+58	incomplete is the opposite of complete	nongold
+59	the moon's orbit is elliptical	nongold
+60	the first quarter phase of the moon occurs after the new moon	nongold
+61	astronomical unit is a measure of distance between Earth and the Sun	nongold
+62	the night time is part of one day	nongold
+63	the moon rotates on its axis	nongold
+64	daily means every day; once per day	nongold
+65	the new moon is when the lighted half of the moon faces the Sun	nongold
+66	the Sun is a kind of star	nongold
+67	a meter is a kind of unit for measuring distance; measuring length	nongold
+68	a phase of the moon is a kind of state	nongold
+69	the new moon is when the dark half of the moon faces the Earth	nongold
+70	a last quarter is a kind of phase of the moon	nongold
+71	astronomy is the study of celestial (objects, bodies)	nongold
+72	Tuesday is a kind of  time	nongold
+73	the sun rising; setting occurs once per day	nongold
+74	June is a kind of month	nongold
+75	all the time means at day and at night	nongold
+76	moons orbit planets	nongold
+77	lunar phase is synonymous with moon phase	nongold
+78	orbit means orbital path	nongold
+79	the moon rising occurs once per day	nongold
+80	the sun sets in the west	nongold
+81	a light-year is used for describing long distances	nongold
+82	a first quarter is a kind of phase of the moon	nongold
+83	an animal is a kind of living thing	nongold
+84	the Earth revolves around the sun	nongold
+85	the sun rising and setting causes cycles of day and night	nongold
+86	a moon phase is a kind of natural event	nongold
+87	type of moon; kind of moon means moon phase	nongold
+88	revolving  around something means orbiting that something	nongold
+89	yearly means every year	nongold
+90	1 week is equal to 7 days	nongold
+91	a human is a kind of animal	nongold
+92	the solar system contains the moon	nongold
+93	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+94	the moon is the celestial object that is closest to the  Earth	nongold
+95	events occur at a specific place; at a specific time; with a specific frequency	nongold
+96	light year is a measure of the distance light travels in one year	nongold
+97	instantaneously means short in time	nongold
+98	a process is a kind of event	nongold
+99	the sun setting is a kind of event	nongold
+100	astronomical body means celestial body	nongold

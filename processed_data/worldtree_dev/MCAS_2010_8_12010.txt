@@ -1,0 +1,102 @@
+Question	Some species of bacteria produce a substance that is toxic to insects but harmless to humans. Scientists have isolated the gene that controls production of this substance. Which of the following is the best reason for inserting this gene into corn plants?	question
+Answer	Fewer pesticides will be needed.	answer
+0	a pesticide is usually very poisonous to insects	nongold
+1	a pesticide is infrequently poisonous to humans	nongold
+2	a pesticide is used for protecting plants by killing insects	gold
+3	fewer means lower; less in number	nongold
+4	if an organism produces a substance then that organism has a gene that controls the production of that substance	gold
+5	requiring is similar to needing help	nongold
+6	less is similar to decrease	nongold
+7	fewest means lowest; least in number	nongold
+8	toxic means poisonous	gold
+9	inserting a gene that performs a certain function into another organism causes that organism to also perform that function	gold
+10	lower means less	nongold
+11	less is the opposite of more	nongold
+12	eating food that contains pesticides can have a negative impact on humans	gold
+13	to be required means to be necessary	nongold
+14	requiring something means needing that something	nongold
+15	corn is a kind of plant	nongold
+16	an insect is a kind of animal	gold
+17	to depend on; to rely on; to need means to require	nongold
+18	less means a reduced amount	nongold
+19	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+20	harming something has a  negative impact on; effect on that something	nongold
+21	greater means higher; more in value	nongold
+22	pesticides can cause pollution	nongold
+23	best means most positive	gold
+24	a bacterium is a kind of organism	gold
+25	killing means harming something causing death	gold
+26	to be used for something means to be required by that something	nongold
+27	bacteria is a kind of pathogen sometimes	nongold
+28	a poisonous animal is dangerous	nongold
+29	green plants are a kind of producer	nongold
+30	an increase is the opposite of a decrease	nongold
+31	bacteria is a kind of living thing	nongold
+32	if something is required for a process then that something positively impacts that process	nongold
+33	using a pesticide usually requires spraying that pesticide on crops	nongold
+34	bacteria; viruses cause food poisoning	nongold
+35	most means over 50% of something	nongold
+36	increase means more	nongold
+37	harming an organism can cause that organism to die	nongold
+38	a plant is a kind of organism	gold
+39	corn is a kind of crop	nongold
+40	poison causes harm to living things; organisms	gold
+41	if something causes a process then that something is required for that process	nongold
+42	chemicals means substances	nongold
+43	harming an animal species causes that animal's population to decrease	nongold
+44	a plant is a kind of living thing	nongold
+45	little is similar to decrease	nongold
+46	an animal is a kind of organism	gold
+47	a decrease is a kind of change	nongold
+48	to lower means to decrease	nongold
+49	a producer is a kind of living thing	nongold
+50	decreasing something negative has a positive impact on a thing	gold
+51	something harmful can cause harm	nongold
+52	low is similar to decrease	nongold
+53	negative impact is the opposite of positive impact	nongold
+54	death means to die	nongold
+55	if an amount of objects decreases then those objects are fewer in number	gold
+56	chemicals can be pollutants	nongold
+57	killing a living thing decreases the number; population size of that living thing	nongold
+58	greatest means largest; highest; most amount of something	nongold
+59	an organism is a living thing	gold
+60	a human is a kind of animal	nongold
+61	corn is a kind of seed	nongold
+62	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+63	an animal is a kind of living thing	nongold
+64	harming an animal species has a  negative impact on the population size of that species	nongold
+65	if something is a raw material in a process then that something is required for that process	nongold
+66	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+67	a poison is very poisonous	gold
+68	insects can have a negative impact on crops	nongold
+69	an animal; living thing requires nutrients for survival	nongold
+70	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+71	producing is a kind of process	nongold
+72	decreasing something positive has a negative impact on a thing	nongold
+73	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	In the food chain process a  green plant has the role of  producer	nongold
+76	plants are a kind of resource	nongold
+77	pathogen is similar to harmful substance	nongold
+78	high is similar to increase	nongold
+79	if an organism dies then the population of that organism will decrease	nongold
+80	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	nongold
+81	killing means changing a living thing from alive to dead by harming	nongold
+82	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+83	polluting means something poisonous is added to an environment	nongold
+84	if something causes an increase in something else then that something produces that something else	nongold
+85	controlling insects means killing insects	nongold
+86	too much is similar to increase	nongold
+87	if a living thing dies then that living thing is dead	nongold
+88	needing something means depending on that something	nongold
+89	cleaner means less; lower in pollutants	nongold
+90	pollutants have a negative impact on the environment; air quality	nongold
+91	many means high in number	nongold
+92	a plant is a member of a plant species	nongold
+93	a producer produces its own food	nongold
+94	nonliving; non-living; die is the opposite of living; alive; live	nongold
+95	a plant; living thing requires nutrients to grow	nongold
+96	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+97	largest amount means most	nongold
+98	to reduce means to decrease	nongold
+99	an insect is a kind of prey	nongold

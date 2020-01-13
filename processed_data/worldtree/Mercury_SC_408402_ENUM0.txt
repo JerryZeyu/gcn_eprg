@@ -1,0 +1,102 @@
+Question	Some of the new cars being made can run on a renewable fuel that is made mostly from corn. Scientists are developing even more renewable fuels to replace gasoline. Why are renewable fuels most likely becoming more important?	question
+Answer	Nonrenewable fuel supplies are limited.	answer
+0	a nonrenewable resource is limited in supply	gold
+1	if a resource is limited in supply then that resource needs to be replaced	nongold
+2	if a resource is limited in supply then that resource will run out	nongold
+3	nonrenewable resources will eventually be depleted	nongold
+4	renewable is the opposite of nonrenewable	nongold
+5	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	gold
+6	fuel supply is a kind of resource	gold
+7	renewable resources are often available for many years	nongold
+8	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+9	fossil fuels are a nonrenewable resource	nongold
+10	to depend on; to rely on; to need means to require	nongold
+11	the supply of an inexhaustible resource does not change over a long period of time	nongold
+12	a renewable resource can be replaced	nongold
+13	an inexhaustible resource is a kind of renewable resource	nongold
+14	as the use of a resource decreases , the length of time that resource will be available increases	gold
+15	if something requires something else then that something else is important to that something	nongold
+16	gasoline is a kind of fuel	nongold
+17	resources becoming available has a positive impact on the things that need those resources	gold
+18	less is similar to decrease	nongold
+19	to run on means to use as an energy source	nongold
+20	if a resource is not replaced then the resource has low availability	nongold
+21	fossil fuels are a kind of energy resource	nongold
+22	a renewable resource is a kind of natural resource	nongold
+23	corn is a kind of plant	nongold
+24	a supply of something is a source of that something	nongold
+25	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+26	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+27	a fossil fuel is a kind of natural resource	nongold
+28	if something has a positive impact on something else then that something is important to that something else	gold
+29	mostly means being the most	nongold
+30	vehicles usually require gasoline to operate	nongold
+31	less means a reduced amount	nongold
+32	using resources decreases those resources	nongold
+33	a source of something supplies that something	nongold
+34	increase means more	nongold
+35	using less of a resource increases the availability of that resource	nongold
+36	a renewable resource is a kind of naturally replaced resource	nongold
+37	ethanol sometimes is made of corn	nongold
+38	a scientist is a kind of human	nongold
+39	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+40	an increase is the opposite of a decrease	nongold
+41	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+42	oil is a nonrenewable resource	nongold
+43	most means over 50% of something	nongold
+44	to be dependent on something means to depend on that something	nongold
+45	replace means change from one thing into  another	nongold
+46	corn is a kind of crop	nongold
+47	operating an automobile usually requires fossil fuels	nongold
+48	fewer means lower; less in number	nongold
+49	less is the opposite of more	nongold
+50	requiring something means needing that something	nongold
+51	fuel is a kind of energy source	nongold
+52	resources sometimes are used for energy	nongold
+53	a source of something increases the amount of that something	nongold
+54	corn is a kind of seed	nongold
+55	fuel is a source of energy	nongold
+56	renewable resources are replenished more quickly than they are used	nongold
+57	to be used for something means to be required by that something	nongold
+58	alternative fuel is usually a renewable resource	nongold
+59	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+60	oil is a source of gasoline	nongold
+61	if something causes a process then that something is required for that process	nongold
+62	if something is required for a process then that something positively impacts that process	nongold
+63	using gasoline is a source of carbon dioxide	nongold
+64	replacing something causes that something to decrease	nongold
+65	replacement means something that is replaced	nongold
+66	as the use of something decreases , the use of the source of that something will decrease	nongold
+67	to reduce means to decrease	nongold
+68	oil is a kind of fossil fuel	nongold
+69	if there is a loss of something then that something decreases	nongold
+70	if a resource is limited in supply then that resource should be recycled	nongold
+71	natural gas is a nonrenewable resource	nongold
+72	fuel efficient means uses less fuel	nongold
+73	renewable resources can be used over again	nongold
+74	high is similar to increase	nongold
+75	low is similar to decrease	nongold
+76	a car is a kind of vehicle	nongold
+77	running requires a lot of energy	nongold
+78	an energy source is a kind of resource	nongold
+79	if something requires something else then that something requires a source of that something else	nongold
+80	deplete is similar to decrease	nongold
+81	inexhaustible means always available	nongold
+82	to lower means to decrease	nongold
+83	using less of a resource means conserving that resource	nongold
+84	a car is a kind of automobile	nongold
+85	petroleum is a kind of fossil fuel	nongold
+86	a decrease is a kind of change	nongold
+87	to provide means to supply	nongold
+88	new means different from the former one	nongold
+89	often is similar to likely	nongold
+90	as available resources increases , the population of an organism that uses those resources will increase	nongold
+91	consumption means use	nongold
+92	an increase is a kind of change	nongold
+93	the amount of something is similar to the availability of something	nongold
+94	a renewable resource can be renewed	nongold
+95	if something is a raw material in a process then that something is required for that process	nongold
+96	a source of something emits; produces; generates; provides that something	nongold
+97	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+98	decreasing something positive has a negative impact on a thing	nongold
+99	developing means making	nongold

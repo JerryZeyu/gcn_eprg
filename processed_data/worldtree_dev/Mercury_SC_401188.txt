@@ -1,0 +1,102 @@
+Question	Which device would most likely be used to produce light energy?	question
+Answer	a laser	answer
+0	a laser is used for producing light	gold
+1	a laser is a kind of device for producing light	gold
+2	light means light energy	gold
+3	light is a kind of energy	nongold
+4	light is a kind of energy	nongold
+5	generate means produce	nongold
+6	instrument means device	nongold
+7	device means tool	nongold
+8	make means produce	nongold
+9	a device is a kind of object	nongold
+10	emit means produce	nongold
+11	a machine is a kind of  device	nongold
+12	producing is a kind of process	nongold
+13	converting is similar to producing	nongold
+14	often is similar to likely	nongold
+15	sunlight is a kind of light	nongold
+16	to produce means to create	nongold
+17	to be used for something means to be required by that something	nongold
+18	a source of something emits; produces; generates; provides that something	nongold
+19	light is a kind of electromagnetic radiation	nongold
+20	a device requires energy to operate	nongold
+21	products are formed; are produced; are created	nongold
+22	producing is similar to releasing	nongold
+23	light is made of photons	nongold
+24	producing is a kind of function	nongold
+25	to produce means to provide	nongold
+26	UV light is a kind of light	nongold
+27	to be formed by is similar to being produced by	nongold
+28	a tool is a kind of object	nongold
+29	can be means able to be	nongold
+30	electromagnetic energy is a kind of energy	nongold
+31	form means kind	nongold
+32	to provide something means to be the source of that something	nongold
+33	producing is similar to causing	nongold
+34	something is used for that something's purpose	nongold
+35	to generate means to create	nongold
+36	the function of something is what that something  is used to do	nongold
+37	light is a kind of wave	nongold
+38	lasers can be used to make cuts	nongold
+39	produce is similar to release	nongold
+40	a process is a kind of event	nongold
+41	a producer is a kind of living thing	nongold
+42	if an object is made of a material then that object has the properties of that material	nongold
+43	objects are made of materials; substances; matter	nongold
+44	to generate means to form	nongold
+45	if something generates energy for something else then that something powers that something else	nongold
+46	an electromagnet is a kind of device	nongold
+47	an event is a kind of action	nongold
+48	electromagnetic radiation means electromagnetic energy	nongold
+49	to create means to make	nongold
+50	instrument means tool	nongold
+51	if something releases something else then that something is the source of that something else	nongold
+52	to power means to provide energy for	nongold
+53	if something is a raw material in a process then that something is required for that process	nongold
+54	a flashlight requires a source of electricity to produce light	nongold
+55	nuclear reactions in stars causes stars to produce light; energy; nuclear energy	nongold
+56	radiation is a kind of process	nongold
+57	emit means send out	nongold
+58	a machine is a kind of object	nongold
+59	if something causes a process then that something is required for that process	nongold
+60	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+61	a star is a source of light; light energy through nuclear reactions	nongold
+62	converting is similar to generating	nongold
+63	if something transfers something else then that something is a source of something else	nongold
+64	to give off means to be the source of	nongold
+65	a laser beam can cause eye damage if viewed directly	nongold
+66	to contribute is similar to produce	nongold
+67	solar energy is a kind of light	nongold
+68	optical tools are used for observing materials up close; in greater detail	nongold
+69	composed of means made of	nongold
+70	if something comes from something else then that something else is a source of that something	nongold
+71	producing is similar to discharging	nongold
+72	ultraviolet light is a kind of electromagnetic energy	nongold
+73	production is similar to making	nongold
+74	a generator is a kind of  device	nongold
+75	causing is similar to generating	nongold
+76	sunlight is made of ultraviolet, infrared, and visible light	nongold
+77	sunlight contains ultraviolet light	nongold
+78	a part of a process means a stage in a process	nongold
+79	to produce means to result in	nongold
+80	if something gains something from something else then that something else is a source of that something	nongold
+81	light energy can be used to heat up  an object by radiation	nongold
+82	if something is a raw material then that something comes directly from a source	nongold
+83	an x ray is a kind of electromagnetic energy	nongold
+84	if something requires something else then that something requires a source of that something else	nongold
+85	a light bulb requires electrical energy to produce light	nongold
+86	a motion is a kind of event; action	nongold
+87	a type is synonymous with a kind	nongold
+88	if something performs a task then that task is that something's function	nongold
+89	to be a source of something means to cause that something	nongold
+90	a process usually requires all of the stages in that process	nongold
+91	dim means a small amount of light	nongold
+92	electrical energy is a kind of energy	nongold
+93	to be used  for something means to help to do that something	nongold
+94	chemical energy is a kind of energy	nongold
+95	a fuel is used to make energy	nongold
+96	if two things perform the same function then those two things are similar	nongold
+97	development is similar to production	nongold
+98	where something  comes from is a source of that something	nongold
+99	quasars emit large amounts of light	nongold

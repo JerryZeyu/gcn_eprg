@@ -1,0 +1,58 @@
+0	distant means great in distance	nongold
+1	light is a kind of wave	nongold
+2	Which unit is used to record distances between stars?	question
+3	light years	answer
+4	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	gold
+5	days are a kind of unit for measuring time	nongold
+6	the sun is average in size for a star in our galaxy	nongold
+7	months are a kind of unit for measuring time	nongold
+8	a star is a kind of celestial object; celestial body	gold
+9	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+10	light means light energy	nongold
+11	Which unit is used to record distances between stars?	question
+12	yellow dwarf is a kind of small star	nongold
+13	main sequence is a kind of stage in the life cycle of a star	nongold
+14	the sun is a kind of yellow dwarf	nongold
+15	approximately means about	nongold
+16	greatest means largest; highest; most amount of something	nongold
+17	light years	answer
+18	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	gold
+19	light years ( ly ) are a  astronomy unit used for measuring length; distance generally used for values between 1.0 and 27000000000.0	gold
+20	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+21	a star is a source of light; light energy through nuclear reactions	nongold
+22	a measure of time is a length of time	nongold
+23	main-sequences stars are a kind of star	nongold
+24	Which unit is used to record distances between stars?	question
+25	a galaxy is a kind of very large system of stars	nongold
+26	astronomy is the study of celestial (objects, bodies)	gold
+27	astronomy is the study of celestial (objects, bodies)	gold
+28	months ( m ) are a  metric unit used for measuring time generally used for values between 1.0 and 24.0	nongold
+29	events occur at a specific place; at a specific time; with a specific frequency	nongold
+30	light years	answer
+31	hours are a kind of unit for measuring time	nongold
+32	can be means able to be	nongold
+33	a yellow dwarf is a kind of main-sequence star	nongold
+34	Proxima Centauri is a kind of star	nongold
+35	astronomy is the study of celestial (objects, bodies)	gold
+36	a star is a kind of celestial object; celestial body	gold
+37	a star's type is determined by the star's mass	nongold
+38	a star is a kind of celestial object; celestial body	gold
+39	a galaxy contains dust; stars; planets	nongold
+40	a meter is a kind of unit for measuring distance; measuring length	nongold
+41	light years	answer
+42	a constellation contains stars	nongold
+43	centimeters ( cm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 250.0	nongold
+44	form means kind	nongold
+45	astronomical unit is a measure of distance between Earth and the Sun	nongold
+46	days ( d ) are a  metric unit used for measuring time generally used for values between 1.0 and 365.0	nongold
+47	Which unit is used to record distances between stars?	question
+48	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+49	one is a kind of number	nongold
+50	recording is similar to measuring	gold
+51	recording is similar to measuring	gold
+52	hours ( hr ) are a  metric unit used for measuring time generally used for values between 0.25 and 72.0	nongold
+53	stars are located light years apart from each other	nongold
+54	a telescope is used for observing stars;planets;moons;distant objects; the sky; celestial objects by astronomers	nongold
+55	decades are a kind of unit for measuring time	nongold
+56	recording is similar to measuring	gold
+57	a star is usually larger than a planet	nongold

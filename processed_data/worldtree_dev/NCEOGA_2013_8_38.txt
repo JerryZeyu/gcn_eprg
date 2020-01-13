@@ -1,0 +1,102 @@
+Question	In the winter, the fur of the arctic fox is white. In summer, the fur darkens to a reddish brown. What most likely causes the fur of the fox to change color?	question
+Answer	the fox's genes	answer
+0	white fur is white in color	nongold
+1	the color of; coloration of fur is an inherited characteristic	gold
+2	the arctic environment is white in color from being covered in snow	nongold
+3	the arctic is a kind of environment	nongold
+4	the colors of parts of an organism are inherited characteristics	nongold
+5	white is a kind of color	gold
+6	summer is a kind of season	nongold
+7	when snow falls in an environment in an environment , that environment will become white	nongold
+8	snow is white in color	nongold
+9	winter is the opposite of summer	nongold
+10	inherited characteristics are the opposite of learned characteristics; acquired characteristics	nongold
+11	winter is a kind of season	nongold
+12	inheriting is when an inherited characteristic is copied; is passed from parent to offspring by genetics;DNA	nongold
+13	arctic animals live in an arctic environment	nongold
+14	a fox is a kind of animal	gold
+15	snow falls during the winter in the arctic environment	nongold
+16	winter is a part of the year	nongold
+17	brown is dark in color	nongold
+18	coloration means a thing's color	nongold
+19	an inherited characteristic is a kind of characteristic	nongold
+20	summer has hot temperatures; weather	nongold
+21	if an animal's fur is a color then that animal is that color	nongold
+22	species is an inherited characteristic	nongold
+23	coloration is a kind of adaptation for hiding;camouflage	nongold
+24	brown is a kind of color	gold
+25	An example of camouflage is when something is; has the same color as its environment	nongold
+26	trait is synonymous with characteristic	nongold
+27	winter has cold temperatures;weather	nongold
+28	An example of camouflage is when something changes color in order to have the same color as its environment	nongold
+29	winter in the Northern Hemisphere is during the summer in the Southern Hemisphere	nongold
+30	coat means fur coat	nongold
+31	genes are able to determine the inherited characteristics of a living thing	gold
+32	inherited characteristics can change over several generations	nongold
+33	cold environments sometimes are white in color from being covered in snow	nongold
+34	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+35	if an offspring has a recessive trait , then each parent has at least one recessive gene	nongold
+36	often is similar to likely	nongold
+37	snow falls during the winter in some environments	nongold
+38	offspring receive genes from their parents through inheritence; DNA; sexual reproduction	nongold
+39	coloration means a pattern of colors	nongold
+40	a wolf is a kind of animal	nongold
+41	white fur is a recessive trait in guinea pig	nongold
+42	traits can be determined by one pair; many pairs of genes in an organism	nongold
+43	fur is often part of an animal	nongold
+44	the arctic  environment usually is cold in  temperature from being at a northern lattitude	nongold
+45	genes is a vehicle for passing inherited characteristics from parent to offspring	nongold
+46	a mammal is a kind of animal	nongold
+47	fur is usually part of a mammal	nongold
+48	color is a property of  an object; a material	nongold
+49	the arctic environment covered in snow	nongold
+50	to reproduce means to have; to produce offspring	nongold
+51	winter in the Southern Hemisphere is during the summer in the Nouthern Hemisphere	nongold
+52	dark means dark in color	nongold
+53	as the ability to survive; ability to reproduce of a living thing increases , the likelyhood of  passing on its traits to its decendents will increase	nongold
+54	an animal is a kind of living thing	gold
+55	to change means to cause a change	nongold
+56	an animal is a kind of organism	nongold
+57	to turn means to change	nongold
+58	camouflage is a kind of adaptation for hiding in an environment	nongold
+59	if an organism passes on its traits then future generations will have those traits	nongold
+60	an animal is a member of an animal species	nongold
+61	color is a kind of physical; visual property	nongold
+62	feature is synonymous with characteristic	nongold
+63	the shape of body parts is an inherited characteristic	nongold
+64	temperature changing does not cause color to change	nongold
+65	genotype of  an organism means the genes of  an organism	nongold
+66	reproduction produces; produce offspring	nongold
+67	a part of something means a characteristic of something	nongold
+68	An example of camouflage is when an organism looks like its environment	nongold
+69	a decrease is a kind of change	nongold
+70	offspring receives half of the genes from each parent	nongold
+71	a living thing is a kind of object	nongold
+72	characteristic means property	nongold
+73	gray is a combination of black and white	nongold
+74	genetic; hereditary means of genes; heredity	nongold
+75	evolution causes significant trait changes in a species	nongold
+76	an increase is the opposite of a decrease	nongold
+77	an increase is a kind of change	nongold
+78	the size of an organism is an inherited characteristic	nongold
+79	an organism's environment affects that organism's acquired characteristics	nongold
+80	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+81	every summer  is a kind of period of time	nongold
+82	to change means to become different	nongold
+83	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+84	to breed is similar to to reproduce	nongold
+85	producing is similar to causing	nongold
+86	white fur is a recessive trait in mouse	nongold
+87	an organism is a living thing	nongold
+88	receiving the recessive gene for a trait from each parent causes the offspring to have; to express that recessive trait	nongold
+89	blood type is an inherited characteristic	nongold
+90	a rabbit is a kind of animal	nongold
+91	genes can be used for classifying  organisms	nongold
+92	snow is a covering found on the surface of an arctic environment	nongold
+93	the length of body parts is an inherited characteristic	nongold
+94	the number of body parts of an organism is an inherited characteristic	nongold
+95	children; young is synonymous with offspring	nongold
+96	genetic variation in offspring has a positive impact on an organism's; offspring's survival; health; ability to reproduce	nongold
+97	snow is cold	nongold
+98	camouflage can be used for hunting for prey; food	nongold
+99	sexual reproduction produces offspring with genetic material from both parents; cells with genetic material from both parent cells	nongold

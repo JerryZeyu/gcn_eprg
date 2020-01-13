@@ -1,0 +1,102 @@
+Question	A green plant absorbs light. A frog eats flies. These are both examples of how organisms	question
+Answer	obtain energy	answer
+0	a frog eats insects	nongold
+1	catching something is synonymous with obtaining that something	nongold
+2	absorbing is similar to obtaining	nongold
+3	a frog is a kind of amphibian	nongold
+4	a frog is a kind of animal	gold
+5	a frog is a kind of aquatic animal	nongold
+6	obtain is similar to receive	nongold
+7	to obtain means to get	gold
+8	a frog is an adult form of a frog	nongold
+9	to gain means to obtain	nongold
+10	a fly is a kind of insect	nongold
+11	if an object is a source of something for something else then that something else can obtain that something from that object	gold
+12	a frog is the mature form of a; adult form of a tadpole	nongold
+13	a tree frog is a kind of animal	nongold
+14	eating; taking in food is used to get nutrients;energy by animals; living things	gold
+15	an insect is a kind of animal	nongold
+16	if an organism eats something then that something is a source of frood to that organism	nongold
+17	a predator eats other animals for food	nongold
+18	an insect is a kind of prey	nongold
+19	predators eat prey	nongold
+20	a tadpole is a kind of young; baby frog	nongold
+21	if something is required in a process then obtaining that something is a step in that process	nongold
+22	an animal; living thing requires nutrients for survival	nongold
+23	an organism is a living thing	nongold
+24	an animal needs to eat food for nutrients	nongold
+25	a kind of something is an example of that something	nongold
+26	food is what an animal eats	nongold
+27	light is a kind of energy	nongold
+28	light is a kind of energy	nongold
+29	a plant is a kind of organism	gold
+30	the  mature form of a frog is called a frog	nongold
+31	an animal is a kind of organism	gold
+32	living things all require energy for survival	nongold
+33	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+34	a plant is a kind of living thing	nongold
+35	food is a source of energy for animals; plants	nongold
+36	an amphibian is a kind of animal	nongold
+37	eating prey requires catching prey	nongold
+38	an animal is a kind of living thing	nongold
+39	sunlight is a kind of light	gold
+40	eating an animal; a plant means killing that animal; that plant	nongold
+41	a tadpole is the immature form of a frog	nongold
+42	to eat means to consume food	nongold
+43	light means light energy	nongold
+44	a plant; living thing requires food for survival	nongold
+45	a predator usually kills its prey to eat it	nongold
+46	light is a kind of nonliving thing	nongold
+47	a living thing is a kind of object	nongold
+48	green plants are a kind of producer	nongold
+49	predators; carnivores; omnivores eat other animals	nongold
+50	a predator is a kind of animal	nongold
+51	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+52	the immature form of a frog is called a tadpole	nongold
+53	survive means live	nongold
+54	survive means live	nongold
+55	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+56	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+57	life means living things	nongold
+58	a  plant requires sunlight for photosynthesis	nongold
+59	alligators eat frogs; turtles; fish; mice; birds	nongold
+60	diet means what an animal eats	nongold
+61	a food contains nutrients for living things	nongold
+62	living things eat their food source	nongold
+63	nutrients are a source of energy for living things	nongold
+64	a bird is a kind of living thing	nongold
+65	an organism requires energy for growth; repair	nongold
+66	organisms mean life	nongold
+67	flying is a kind of motion through air; space	nongold
+68	to absorb means to capture	nongold
+69	flying is a kind of locomotion	nongold
+70	a mammal is a kind of animal	nongold
+71	carnivores only eat animals	nongold
+72	an organism eating is a kind of action	nongold
+73	to receive sunlight means to absorb sunlight	nongold
+74	a plant is a member of a plant species	nongold
+75	prey is a kind of food for predators	nongold
+76	resources sometimes are used for energy	nongold
+77	birds sometimes eat insects	nongold
+78	a bird is a kind of animal	nongold
+79	a leaf is a part of a  green plant	nongold
+80	a source of something emits; produces; generates; provides that something	nongold
+81	to prey on an animal means to eat that animal	nongold
+82	an animal is a kind of consumer	nongold
+83	An insect is a pollinating animal	nongold
+84	reproduction increases the number; population of a living thing	nongold
+85	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+86	collecting is similar to absorbing	nongold
+87	a tadpole changes from  a tadpole into a frog through metamorphosis	nongold
+88	frogs lay eggs	nongold
+89	an animal is a member of an animal species	nongold
+90	a reptile is a kind of animal	nongold
+91	a plant requires photosynthesis to grow; survive	nongold
+92	absorption is a kind of process	nongold
+93	In the food chain process a  green plant has the role of  producer	nongold
+94	carnivores; omnivores; herbivores are a kind of animal	nongold
+95	a consumer is a kind of organism	nongold
+96	prey  is a kind of animal	nongold
+97	if something gains something from something else then that something else is a source of that something	nongold
+98	if something transfers energy to something else then that something else absorbs that energy	nongold
+99	photosynthesis is a source of; makes food; energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	gold

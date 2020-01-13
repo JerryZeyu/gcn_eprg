@@ -1,0 +1,102 @@
+0	flooding is a kind of change	nongold
+1	if an organism dies then the population of that organism will decrease	nongold
+2	a negative impact is a kind of consequence; risk	nongold
+3	to cause means to have an effect	nongold
+4	an environment is similar to an ecosystem	nongold
+5	groundwater is a kind of water	nongold
+6	as the amount of water in a body of water increases , the water levels will rise; increase especially at the edge of that body of water	nongold
+7	a human is a kind of animal	nongold
+8	a body of water is a kind of environment	nongold
+9	an increase is the opposite of a decrease	nongold
+10	if a living thing dies then that living thing is dead	nongold
+11	a riverbed is a part of a river	nongold
+12	aquatic animal means water animal	nongold
+13	being sick is a kind of problem; harm	nongold
+14	causing is a kind of affecting	nongold
+15	best means most positive	nongold
+16	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+17	an ecosystem contains a large community of; large numbers of living organisms	nongold
+18	water is a kind of natural resource	nongold
+19	nitrate levels and turbidity	answer
+20	system is similar to structure	nongold
+21	turbidity is a measure of the safety of water	nongold
+22	a bacterium is a kind of organism	nongold
+23	an animal; bacterium requires oxygen for survival; to breathe	nongold
+24	as the amount of water in a body of water decreases , the water levels will decrease	nongold
+25	a source of something increases the amount of that something	nongold
+26	a source of something emits; produces; generates; provides that something	nongold
+27	requiring is similar to needing help	nongold
+28	a body of water is a source of water	nongold
+29	if a body of water has high turbidity levels then it is unsafe to drink	nongold
+30	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+31	most means over 50% of something	nongold
+32	nitrate levels can  affect the health of a river system	gold
+33	harming something has a  negative impact on; effect on that something	nongold
+34	adverse effect means negative impact	nongold
+35	if something is required for a process then that something positively impacts that process	nongold
+36	silver nitrate is a kind of molecule	nongold
+37	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+38	turbidity can affect the health of a river system	gold
+39	Which factors can have the greatest effect on the health of a river system?	question
+40	the ocean system is a kind of system	nongold
+41	as the cause of something decreases , that something will decrease	nongold
+42	an animal is a kind of organism	nongold
+43	least is the opposite of greatest	nongold
+44	the temperature; pH of water has an impact on the health of that water	nongold
+45	level is similar to amount; quantity	nongold
+46	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+47	greater means higher; more in value	nongold
+48	to change means to have an effect	nongold
+49	a frog is a kind of aquatic animal	nongold
+50	water is a part of an environment	nongold
+51	aquatic animals; plants live in bodies of water	nongold
+52	an increase is a kind of change	nongold
+53	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+54	less is similar to decrease	nongold
+55	if something affects a part of something else then that something affects that something else	nongold
+56	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+57	impact means effect	nongold
+58	toxic means poisonous	nongold
+59	a stream is a kind of body of water	nongold
+60	a decrease is a kind of change	nongold
+61	freshwater is a kind of water	nongold
+62	dying is the opposite of living; surviving	nongold
+63	helping something has a  positive impact on that something	nongold
+64	decreasing something negative has a positive impact on a thing	nongold
+65	positively impacting an organism's survival increases the likelihood of survival of that organism	nongold
+66	solution is similar to a positive impact	nongold
+67	to depend on; to rely on; to need means to require	nongold
+68	damage means harm	nongold
+69	to impact means to affect	nongold
+70	a body of water contains water	nongold
+71	disease has a negative impact on an organism	nongold
+72	high means a lot of something	nongold
+73	death means to die	nongold
+74	greatest means largest; highest; most amount of something	nongold
+75	an aquatic animal is a kind of animal	nongold
+76	change is a kind of impact	nongold
+77	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+78	killing means harming something causing death	nongold
+79	low is the opposite of high	nongold
+80	a factor impacts something	nongold
+81	increase means more	nongold
+82	organisms are a part of an environment	nongold
+83	affected means changed	nongold
+84	lowest means least in value; amount; number	nongold
+85	to lower means to decrease	nongold
+86	water is a kind of natural resource	nongold
+87	poor health;bad health;unhealthy is the opposite of good health;healthy	nongold
+88	illness has a negative impact on an organism's health	nongold
+89	least is the opposite of most	nongold
+90	little is similar to decrease	nongold
+91	low is similar to decrease	nongold
+92	flooding decreases the availability of food	nongold
+93	an animal requires enough nutrients to maintain good health; survive	nongold
+94	an organism is a living thing	nongold
+95	a worm is a kind of animal	nongold
+96	high is similar to increase	nongold
+97	negative impact is the opposite of positive impact	nongold
+98	a river is a kind of flowing body of water	nongold
+99	good means positive	nongold
+100	a river is a kind of channel for water	nongold
+101	largest amount means most	nongold

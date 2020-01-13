@@ -1,0 +1,52 @@
+0	Scientists analyze all results.	answer
+1	a theory is a kind of idea that has been tested and supported by results repeatedly	nongold
+2	Scientists analyze all results.	answer
+3	to produce means to create	nongold
+4	to try means to make an effort	gold
+5	Scientists perform experiments to test hypotheses. How do scientists try to remain objective during experiments?	question
+6	analyzing all results has a  positive impact on the effort to remain objective during experiments	gold
+7	to be formed by is to be the result of	nongold
+8	to happen means to occur	nongold
+9	high is similar to increase	nongold
+10	observations; data are a part of the results of an experiment	nongold
+11	process is similar to method	nongold
+12	analyzing all results has a  positive impact on the effort to remain objective during experiments	gold
+13	if an experiment is repeated then the results are more likely to be correct due to fewer errors being made	nongold
+14	instrument means tool	nongold
+15	impact means effect	nongold
+16	An example of evidence for a scientific theory is observations	nongold
+17	to generate means to create	nongold
+18	change is a kind of process	nongold
+19	to try means to make an effort	gold
+20	result means outcome	nongold
+21	can be means able to be	nongold
+22	Scientists analyze all results.	answer
+23	human is a kind of organism	nongold
+24	comparing data increases; improves the likelihood of obtaining accurate experiment results	nongold
+25	a problem has a negative impact on a thing	nongold
+26	Scientists perform experiments to test hypotheses. How do scientists try to remain objective during experiments?	question
+27	to remain means to stay where it is	nongold
+28	good means positive	nongold
+29	analyzing all results has a  positive impact on the effort to remain objective during experiments	gold
+30	a negative impact is a kind of consequence; risk	nongold
+31	an organism is a living thing	nongold
+32	high-quality means positive	nongold
+33	formation of a state of matter is a kind of process	nongold
+34	something that happens is a kind of event	nongold
+35	to increase is similar to to create	nongold
+36	to generate means to form	nongold
+37	a source of something increases the amount of that something	nongold
+38	Scientists perform experiments to test hypotheses. How do scientists try to remain objective during experiments?	question
+39	to change means to have an effect	nongold
+40	a part of a process means a stage in a process	nongold
+41	to create means to make	nongold
+42	harming something has a  negative impact on; effect on that something	nongold
+43	a scientific inference is a kind of explanation based on facts that is not a direct observation	nongold
+44	a scientist is a kind of human	nongold
+45	to try means to make an effort	gold
+46	product means result	nongold
+47	emit means produce	nongold
+48	bias can cause error in an experiment	nongold
+49	Scientists perform experiments to test hypotheses. How do scientists try to remain objective during experiments?	question
+50	Scientists analyze all results.	answer
+51	experimentation requires measuring	nongold

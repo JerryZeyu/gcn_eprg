@@ -1,0 +1,102 @@
+0	By attaching to sharks, remora fish eat the scraps of food left behind when the sharks feed. If remoras were not able to attach to sharks, they would most likely	question
+1	not be able to survive.	answer
+2	remora fish eat food by attaching themselves to sharks and eating the food left behind	gold
+3	a shark is a kind of fish	nongold
+4	if something has a negative impact on the survival of an organism then that organism may be unable to survive	nongold
+5	sharks live in oceans	nongold
+6	a fish is a kind of aquatic animal	nongold
+7	able is the opposite of unable	nongold
+8	if an organism cannot do something , then that organism is unable to do that something	nongold
+9	an animal; living thing requires nutrients for survival	nongold
+10	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+11	lack of food causes starvation	nongold
+12	predators eat prey	nongold
+13	predators; carnivores; omnivores eat other animals	nongold
+14	a fish is a kind of animal	gold
+15	harming an organism can cause that organism to die	nongold
+16	harming something has a  negative impact on; effect on that something	nongold
+17	a fish is a kind of predator	nongold
+18	an aquatic animal is a kind of animal	nongold
+19	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+20	an increase is the opposite of a decrease	nongold
+21	if a living thing dies then that living thing is dead	nongold
+22	carnivores only eat animals	nongold
+23	to lack means to not have	nongold
+24	prey is a kind of food for predators	nongold
+25	lack is similar to low; little	nongold
+26	a lack of something that a living thing requires prevents the survival of that living thing	nongold
+27	dying is the opposite of living; surviving	nongold
+28	survive means live	nongold
+29	survive means live	nongold
+30	killing means harming something causing death	nongold
+31	cannot means not be able to	nongold
+32	nonliving; non-living; die is the opposite of living; alive; live	nongold
+33	survival means to survive	nongold
+34	death means to die	nongold
+35	fish eat insects	nongold
+36	an amphibian is a kind of animal	nongold
+37	prey  is a kind of animal	nongold
+38	requiring is similar to needing help	nongold
+39	a predator eats other animals for food	nongold
+40	an organism is a living thing	nongold
+41	fish is a kind of meat	nongold
+42	to eat means to consume food	nongold
+43	a reptile is a kind of animal	nongold
+44	an animal is a kind of living thing	nongold
+45	food is what an animal eats	nongold
+46	if something has a positive impact on the survival of an organism then that organism is likely going to survive	nongold
+47	low is similar to decrease	nongold
+48	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+49	the increase of something required by an organism has a positive impact on that organism's survival	nongold
+50	to prey on an animal means to eat that animal	nongold
+51	carnivores; omnivores are predators	nongold
+52	if an organism eats something then that something is a source of frood to that organism	nongold
+53	a predator usually kills its prey to eat it	nongold
+54	a food contains nutrients for living things	nongold
+55	a predator is a kind of animal	nongold
+56	diet means what an animal eats	nongold
+57	a whale shark is a kind of shark	nongold
+58	an animal is a kind of organism	nongold
+59	eating prey requires catching prey	nongold
+60	living things eat their food source	nongold
+61	an animal is a member of an animal species	nongold
+62	less is similar to decrease	nongold
+63	life means living things	nongold
+64	to reduce means to decrease	nongold
+65	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+66	a living thing is a kind of object	nongold
+67	killing means changing a living thing from alive to dead by harming	nongold
+68	dead means not alive	nongold
+69	to lower means to decrease	nongold
+70	ability    is a property of things and includes ordered values of able; unable; can; cannot	nongold
+71	a fish is a kind of scaled animal	nongold
+72	killing a living thing decreases the number; population size of that living thing	nongold
+73	a fish lives in water	nongold
+74	live means to be alive	nongold
+75	not is similar to the opposite of	nongold
+76	inability is the opposite of ability	nongold
+77	if a living thing requires something then that something has a positive impact on that living thing	nongold
+78	little is similar to decrease	nongold
+79	not allowed to means can not	nongold
+80	as  population of prey decreases , the population of predators will  decrease	nongold
+81	if an organism dies then the population of that organism will decrease	nongold
+82	meat means dead animal for eating	nongold
+83	harming an animal species causes that animal's population to decrease	nongold
+84	harming an animal species has a  negative impact on the population size of that species	nongold
+85	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+86	weakness has a negative impact on an animal's survival; health; ability to reproduce	nongold
+87	deplete is similar to decrease	nongold
+88	helping something has a  positive impact on that something	nongold
+89	nonliving means not living	nongold
+90	if a source of food for an animal decreases then the animal will have to find other types of food to survive	nongold
+91	negative impact is the opposite of positive impact	nongold
+92	eating something decreases the amount of that something	nongold
+93	aquatic animal means water animal	nongold
+94	an animal needs to eat food for nutrients	gold
+95	an amoeba is a kind of organism	nongold
+96	can be means able to be	nongold
+97	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+98	decreasing something negative has a positive impact on a thing	nongold
+99	scavengers eat dead organisms	nongold
+100	nutrients are a kind of material	nongold
+101	decreasing something positive has a negative impact on a thing	nongold

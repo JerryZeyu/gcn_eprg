@@ -1,0 +1,102 @@
+Question	Bats find their prey at night using one of their senses to detect echoes. What does the bat send out to find prey?	question
+Answer	sound	answer
+0	seeking something means trying to find; searching for something	nongold
+1	a bat is a kind of animal	gold
+2	to detect means to find	nongold
+3	a bat is a kind of mammal	nongold
+4	hearing is used for sensing sound by animals	gold
+5	search for means seek to find	nongold
+6	an echo is a kind of sound	gold
+7	finding something means locating that something	nongold
+8	echolocation is when some animals detect objects by hearing echoes by emitting sound	gold
+9	finding something requires sensing that something	gold
+10	hearing is a kind of sense	nongold
+11	a predator is a kind of animal	nongold
+12	emit means send out	gold
+13	prey  is a kind of animal	gold
+14	an animal is a kind of living thing	gold
+15	an insect is a kind of prey	nongold
+16	sight is a kind of sense	nongold
+17	sensory organs are used for sensing	nongold
+18	hunting requires seeing; sensing prey	nongold
+19	sound can be used for communication by animals	nongold
+20	a bird is a kind of living thing	nongold
+21	a bird is a kind of animal	nongold
+22	seeing is used for sensing visual things	nongold
+23	a living thing is a kind of object	gold
+24	the senses are used for making observations	nongold
+25	echo is when sound reflects off of a surface	nongold
+26	a mammal is a kind of animal	nongold
+27	to send means to transfer	nongold
+28	bats can echolocate	gold
+29	a bat lives in caves and trees	nongold
+30	an insect is a kind of animal	nongold
+31	feeling is when an living thing senses through touch	nongold
+32	darkness occurs at night	nongold
+33	sensing food has a positive impact on finding food	nongold
+34	an animal is a kind of organism	nongold
+35	noise means sound	nongold
+36	smell is a kind of sense	nongold
+37	nocturnal predators hunt during the night	nongold
+38	sight means to see	nongold
+39	eyes can sense;detect light energy for seeing	nongold
+40	an organism is a living thing	nongold
+41	an owl is a kind of predator	nongold
+42	bats eat insects	nongold
+43	smell is used for  finding food by some animals	nongold
+44	nighttime means night	nongold
+45	a landform is a kind of object	nongold
+46	night is low in light; in visibility	nongold
+47	to discover means to find	nongold
+48	a sense is a kind of ability	nongold
+49	eyes are used for seeing by animals by sensing light	nongold
+50	some birds are predators	nongold
+51	predators eat prey	nongold
+52	sound waves means sound energy	nongold
+53	sound means sound energy	nongold
+54	a human is a kind of animal	nongold
+55	sense is used for obtaining information about one's environment	nongold
+56	a predator eats other animals for food	nongold
+57	sensing a warning means receiving a warning	nongold
+58	sound wave is similar to sound	nongold
+59	acoustic signal is a kind of sound wave	nongold
+60	loud means high in sound energy;sound intensity	nongold
+61	sound is a kind of air vibration	nongold
+62	motion; movement means moving; to move	nongold
+63	a reptile is a kind of animal	nongold
+64	vibrations are a source of sound	nongold
+65	sound waves spread in all directions away from their source	nongold
+66	high-frequency sound waves have low; short wavelengths	nongold
+67	eating prey requires catching prey	nongold
+68	locating means determining	nongold
+69	to prey on an animal means to eat that animal	nongold
+70	fur is a part of a bat	nongold
+71	detecting is similar to observing	nongold
+72	a source of something emits; produces; generates; provides that something	nongold
+73	touch is a kind of sense	nongold
+74	smell is used for detecting odor	nongold
+75	some predators move  quickly to  catch prey	nongold
+76	smell means scent	nongold
+77	the night time is part of one day	nongold
+78	sight means vision	nongold
+79	daytime means day	nongold
+80	when a sound is produced inside of a room , there is sometimes an echo after the sound	nongold
+81	out is synonymous with outside	nongold
+82	volume; sound intensity is a property of sound; sound energy and includes ordered values of quiet; normal; loud	nongold
+83	something's function can be used to describe; identify that something	nongold
+84	sound is a kind of sound energy	nongold
+85	air is a vehicle for sound	nongold
+86	smell is a property of an object; a material; a substance	nongold
+87	a sharp sense is an enhanced sense	nongold
+88	human voice is a kind of sound	nongold
+89	sound wave is a kind of wave	nongold
+90	matter; molecules vibrating can cause sound	nongold
+91	an owl is a kind of bird	nongold
+92	a human is a kind of mammal	nongold
+93	a predator is a kind of enemy to its prey	nongold
+94	vibration is a kind of motion	nongold
+95	an event is a kind of action	nongold
+96	prey is a kind of food for predators	nongold
+97	all the time means at day and at night	nongold
+98	a motion is a kind of event; action	nongold
+99	dark is the opposite of light	nongold

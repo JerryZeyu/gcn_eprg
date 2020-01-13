@@ -1,0 +1,55 @@
+0	water is a kind of substance	nongold
+1	A student is watching a local television weather report for Gloucester, Massachusetts. Which of the following is most likely included in this weather report?	question
+2	A student is watching a local television weather report for Gloucester, Massachusetts. Which of the following is most likely included in this weather report?	question
+3	rain is a kind of precipitation	nongold
+4	Earth has air	nongold
+5	the amount of moisture in the air	answer
+6	as distance from water decreases , humidity will increase	nongold
+7	sky conditions are a property of weather	nongold
+8	Massachusetts is not located on the boundary of two tectonic plates	nongold
+9	A student is watching a local television weather report for Gloucester, Massachusetts. Which of the following is most likely included in this weather report?	question
+10	humidity is the amount of water vapor; moisture in the air; in the atmosphere	gold
+11	heating means adding heat	nongold
+12	condensing means matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+13	dry means low in amount of water; wetness; moisture	nongold
+14	a decrease is a kind of change	nongold
+15	a weather report describes weather	gold
+16	air temperature is a kind of temperature	nongold
+17	a weather report describes weather	gold
+18	the amount of moisture in the air	answer
+19	the amount of moisture in the air	answer
+20	Massachusetts is a state located in the United States of America	nongold
+21	to lower means to decrease	nongold
+22	humidity is the amount of water vapor; moisture in the air; in the atmosphere	gold
+23	greatest means largest; highest; most amount of something	nongold
+24	a student is a kind of human	nongold
+25	higher means greater; above in value; amount; number	nongold
+26	moisture means liquid; liquid water	nongold
+27	temperature is a property of weather	nongold
+28	A student is watching a local television weather report for Gloucester, Massachusetts. Which of the following is most likely included in this weather report?	question
+29	recording an observation sometimes requires measuring	nongold
+30	an air mass has similar temperature and moisture throughout it	nongold
+31	moisture is a property of air mass and includes ordered values of dry; humid	nongold
+32	less means a reduced amount	nongold
+33	air is a kind of gas	nongold
+34	the atmosphere is similar to the sky	nongold
+35	the atmosphere is a kind of area	nongold
+36	average amount of precipitation is a property of climate	nongold
+37	local means relating to a certain area	nongold
+38	amount of water in a body of water increases by storms; rain; glaciers melting; snow melting; ice melting	nongold
+39	the amount of moisture in the air	answer
+40	increase means more	nongold
+41	adding heat means increasing temperature	nongold
+42	weather  usually happens in troposphere	nongold
+43	Gloucestershire is a county located in England	nongold
+44	less is similar to decrease	nongold
+45	humidity is a property of  weather and include ordered values of dry; humid	gold
+46	humidity is the amount of water vapor; moisture in the air; in the atmosphere	gold
+47	humidity is a property of  weather and include ordered values of dry; humid	gold
+48	weather is a property of a environment	nongold
+49	a weather report describes weather	gold
+50	air is a kind of matter	nongold
+51	precipitation is when water falls from the sky	nongold
+52	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+53	weather is  a measure of the condition of the air in a place at a certain time	nongold
+54	humidity is a property of  weather and include ordered values of dry; humid	gold

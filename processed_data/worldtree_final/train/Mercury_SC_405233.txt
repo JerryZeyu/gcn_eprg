@@ -1,0 +1,102 @@
+0	Deer live in forest for shelter. If the forest was cut down, which situation would most likely happen?	question
+1	The deer would move to another forest area.	answer
+2	a deer lives in a forest	gold
+3	a deer is a kind of animal	gold
+4	a deer is a kind of prey	nongold
+5	cutting down a forest means cutting down the trees in that forest	nongold
+6	habitat destruction causes animals to move to find shelter in another habitat	nongold
+7	shelter is a kind of place;building;structure for protection	nongold
+8	an animal requires shelter	nongold
+9	removing a forest means cutting down a forest	gold
+10	a forest is a kind of environment	nongold
+11	some animals live in forests	nongold
+12	an animal needs to move to find shelter	nongold
+13	forest is synonymous with wooded area	nongold
+14	a deer is a kind of herbivore	nongold
+15	removing a forest means cutting down the trees in that forest	nongold
+16	an environment means an area	nongold
+17	destroying a forest means cutting down the trees in that forest	nongold
+18	an animal is a kind of living thing	nongold
+19	if a tree is cut down then that tree will die	nongold
+20	a shelter is used for living in by animals	nongold
+21	shelter can protect animals;humans from weather	nongold
+22	a forest contains  lots of plants; trees	nongold
+23	to happen means to occur	nongold
+24	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+25	area is similar to location	nongold
+26	place means area	nongold
+27	shelter is used for protection by animals against weather	nongold
+28	killing means harming something causing death	nongold
+29	some rabbits live in forests	nongold
+30	a forest is a kind of ecosystem	nongold
+31	if a habitat can no longer support animals then those animals will move to another area	gold
+32	clearing a forest means humans cutting down the trees	nongold
+33	motion; movement means moving; to move	nongold
+34	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+35	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+36	woodland means forest	nongold
+37	an animal is a kind of organism	gold
+38	animals; living things live and feed in their habitats; near their habitats	nongold
+39	harming something has a  negative impact on; effect on that something	nongold
+40	an organism's shelter is a part of that organism's environment	nongold
+41	shelter is a kind of protective covering	nongold
+42	a population is made of one type of organism in an area	nongold
+43	motion is when moves an object; something to a direction	nongold
+44	a plant; living thing requires food for survival	nongold
+45	deforested area means an area where trees have been cut down	nongold
+46	logging is when humans cut down trees; forests for wood	nongold
+47	an environment is a kind of place	nongold
+48	an organism is a living thing	nongold
+49	a living thing is a kind of object	nongold
+50	surroundings means environment	nongold
+51	if a living thing requires something then that something has a positive impact on that living thing	nongold
+52	life means living things	nongold
+53	if something moves then that something is in a different location	nongold
+54	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+55	killing means changing a living thing from alive to dead by harming	nongold
+56	An example of an environment is a forest; a river; a grassland; an ocean	nongold
+57	organisms; living things live in their habitat; their home	gold
+58	humans changing animal habitats usually causes harm to those animals	nongold
+59	removing forests means removing animal habitats	gold
+60	to protect means to make safe	nongold
+61	protecting something means preventing harm to that something	nongold
+62	a human is a kind of animal	nongold
+63	to move away means to increase distance	nongold
+64	a mammal is a kind of animal	nongold
+65	hiding is a kind of protection against predators; from predators	nongold
+66	events occur at a specific place; at a specific time; with a specific frequency	nongold
+67	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+68	a region is similar to an environment	nongold
+69	humans changing an environment sometimes causes that environment to be destroyed	nongold
+70	a region is a kind of location	nongold
+71	objects in an environment are a part of that environment	nongold
+72	death means to die	nongold
+73	to place in is similar to to move to	nongold
+74	place is synonymous with location	nongold
+75	an event is a kind of action	nongold
+76	an environment is similar to an ecosystem	nongold
+77	survive means live	nongold
+78	survive means live	nongold
+79	if a living thing dies then that living thing is dead	nongold
+80	most predators live in; live near the same environment as their prey	nongold
+81	habitat is similar to environment	nongold
+82	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+83	an animal requires a habitat for survival	nongold
+84	a motion is a kind of event; action	nongold
+85	if something required by something else is in a place then that something else may be in that place	nongold
+86	destroying something causes harm to that something	nongold
+87	a human is a kind of mammal	nongold
+88	migration is when animals move themselves from a cooler climate to a warmer climate for the winter	nongold
+89	a tree is a source of shelter; food for birds; animals in an ecosystem	nongold
+90	often is similar to likely	nongold
+91	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+92	travel means to move	nongold
+93	an animal; living thing requires nutrients for survival	nongold
+94	moving is similar to travelling	nongold
+95	a plant is a kind of organism	nongold
+96	place means space	nongold
+97	to cause an event means to make that event more likely	nongold
+98	damage means harm	nongold
+99	harming an organism can cause that organism to die	nongold
+100	high is similar to increase	nongold
+101	distance moved; distance travelled is a measure of how far an object moves	nongold

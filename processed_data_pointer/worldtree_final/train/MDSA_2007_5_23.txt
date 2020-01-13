@@ -1,0 +1,102 @@
+0	as the use of something decreases , the use of the source of that something will decrease	nongold
+1	recycling has a  positive impact on the environment	gold
+2	too much is similar to increase	nongold
+3	requiring is similar to needing help	nongold
+4	deplete is similar to decrease	nongold
+5	requiring something means needing that something	nongold
+6	little means low in amount	nongold
+7	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+8	to send means to transfer	nongold
+9	to lower means to decrease	nongold
+10	trash is synonymous with waste	gold
+11	less is similar to decrease	nongold
+12	Maryland is a kind of region	nongold
+13	helping something has a  positive impact on that something	nongold
+14	a source of something emits; produces; generates; provides that something	nongold
+15	to recycle means return	nongold
+16	if something transfers something else then that something is a source of something else	nongold
+17	a trashcan contains trash; garbage; waste	nongold
+18	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+19	to contribute is similar to produce	nongold
+20	to provide means to supply	nongold
+21	increase means more	nongold
+22	a positive impact is  a benefit	gold
+23	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+24	debris can cause harm to an organism	nongold
+25	In 2004, Maryland recycled more than 35% of all of the waste the state produced. Which of these benefits does recycling provide to Maryland?	question
+26	recycling is a kind of method of disposal	nongold
+27	providing something means making;delivering something	nongold
+28	recycling is similar to reusing	nongold
+29	a garbage can is a kind of container	nongold
+30	a positive impact is a helpful effect	nongold
+31	less trash sent to landfills	answer
+32	most means over 50% of something	nongold
+33	largest amount means most	nongold
+34	to add means to increase	nongold
+35	recycling reduces; decreases the amount of waste sent to landfills	gold
+36	an increase is the opposite of a decrease	nongold
+37	an landfill is a source of pollution	nongold
+38	processes sometimes produce waste products	nongold
+39	high is similar to increase	nongold
+40	a producer is a kind of living thing	nongold
+41	recycling means reusing	nongold
+42	lower means less	nongold
+43	emit means send out	nongold
+44	human waste often causes harm to an environment	nongold
+45	recycling means using over again	nongold
+46	to help; to benefit means to be of use	nongold
+47	landfills have a negative impact on the environment; communities	nongold
+48	a state is a kind of place	nongold
+49	to impact means to affect	nongold
+50	a decrease is a kind of change	nongold
+51	all living things eliminate waste	nongold
+52	accounting for means making up some amount	nongold
+53	decreasing something negative has a positive impact on a thing	nongold
+54	garbage means waste	nongold
+55	to depend on; to rely on; to need means to require	nongold
+56	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+57	replacing is similar to recycling	nongold
+58	recyclable means a material can be recycled	nongold
+59	harming something has a  negative impact on; effect on that something	nongold
+60	to reduce means to decrease	nongold
+61	overuse is similar to depletion	nongold
+62	to produce means to provide	nongold
+63	if something contains something , then something is able to provide something	nongold
+64	little is similar to decrease	nongold
+65	solution is similar to a positive impact	nongold
+66	as the cause of something decreases , that something will decrease	nongold
+67	if something is required then that something must be provided	nongold
+68	negative impact is the opposite of positive impact	nongold
+69	An example of recycling is using an object to make a new object	nongold
+70	emit means produce	nongold
+71	impact means effect	nongold
+72	recycling reduces the resources needed to make something	nongold
+73	replacing something causes that something to decrease	nongold
+74	if something is a raw material in a process then that something is required for that process	nongold
+75	if something requires something else then that something requires a source of that something else	nongold
+76	decreasing something positive has a negative impact on a thing	nongold
+77	humans move waste to a  landfill for disposal;storage	nongold
+78	a factor impacts something	nongold
+79	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+80	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+81	producing is similar to causing	nongold
+82	recycling is a kind of action	nongold
+83	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+84	make means produce	nongold
+85	waste has a  negative impact on the environment	nongold
+86	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+87	less is the opposite of more	nongold
+88	if something is required for a process then that something positively impacts that process	nongold
+89	producing is a kind of process	nongold
+90	fewer means lower; less in number	nongold
+91	provide is similar to give; make	nongold
+92	to provide something means to be the source of that something	nongold
+93	a garbage can is made of metal	nongold
+94	being used for is similar to providing	nongold
+95	to be used for something means to be required by that something	nongold
+96	person is synonymous with human	nongold
+97	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+98	low is similar to decrease	nongold
+99	Maryland is a state located in the United States of America	nongold
+100	less means a reduced amount	gold
+101	if something causes an increase in something else then that something produces that something else	nongold

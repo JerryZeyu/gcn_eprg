@@ -1,0 +1,102 @@
+Question	Scientists found fish fossils in the desert. What do the fossils tell about this environment when the fish were alive?	question
+Answer	There were lakes with water plants.	answer
+0	a lake is a kind of body of water	gold
+1	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	gold
+2	aquatic animals; plants live in bodies of water	nongold
+3	a fish is a kind of aquatic animal	nongold
+4	a fish is a kind of animal	nongold
+5	a desert is a kind of environment	nongold
+6	if fossils of an animal or plant are found in a place then that animal or plant used to live in that place	gold
+7	an aquatic animal is a kind of animal	nongold
+8	a fish lives in water	gold
+9	aquatic animal means water animal	nongold
+10	a plant is a kind of living thing	nongold
+11	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+12	a plant is a kind of organism	nongold
+13	a pond is a kind of environment	nongold
+14	an environment means an area	nongold
+15	an animal is a kind of living thing	nongold
+16	a body of water is a kind of environment	nongold
+17	a pond is smaller; shallower than a lake	nongold
+18	vegetation means plants	nongold
+19	an environment is a kind of place	nongold
+20	plants can be fossilized	nongold
+21	plants are a part of the environment	nongold
+22	a pond is a kind of body of water	nongold
+23	a plants; living things require water for survival; to grow	nongold
+24	if a living thing dies then that living thing is dead	nongold
+25	an animal is a kind of organism	nongold
+26	live means to be alive	nongold
+27	freshwater is a kind of water	nongold
+28	water is a part of an environment	nongold
+29	a body of water contains water	nongold
+30	a marsh is a kind of body of water	nongold
+31	animals; living things require water for survival	nongold
+32	an environment is similar to an ecosystem	nongold
+33	an organism is a living thing	nongold
+34	life means living things	nongold
+35	a plant is a member of a plant species	nongold
+36	animals; living things live and feed in their habitats; near their habitats	nongold
+37	fossil means preserved remains of ancient organisms	nongold
+38	organisms are a part of an environment	nongold
+39	trout live in lakes	nongold
+40	a fish is a kind of predator	nongold
+41	a plant; living thing requires food for survival	nongold
+42	an ocean is a kind of body of water	nongold
+43	an ecosystem contains a large community of; large numbers of living organisms	nongold
+44	a wetland is a kind of ecosystem	nongold
+45	organisms lived in the water when they first appeared on Earth	nongold
+46	a fish is a kind of scaled animal	nongold
+47	habitat is similar to environment	nongold
+48	a plant requires a habitat for survival	nongold
+49	a pond is a kind of habitat	nongold
+50	a living thing is a kind of object	nongold
+51	a scientist is a kind of human	nongold
+52	a desert environment is low in availability of water; availability of food	nongold
+53	a desert environment usually has a lot of sunlight	nongold
+54	an animal; living thing requires nutrients for survival	nongold
+55	a desert is a kind of land feature	nongold
+56	killing means changing a living thing from alive to dead by harming	nongold
+57	bodies of water are located on Earth's surface	nongold
+58	a river is a kind of flowing body of water	nongold
+59	if a living thing requires something then that something has a positive impact on that living thing	nongold
+60	organisms mean life	nongold
+61	plant parts are made of plants	nongold
+62	if something is a part of something then that something can be found in that something	nongold
+63	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+64	a wetland is a kind of habitat	nongold
+65	a body of water is a source of water	nongold
+66	fish have been on Earth for 419000000 years	nongold
+67	dead means not alive	nongold
+68	when a habitat can support living things , living things can live in that habitat	nongold
+69	an ocean is a kind of habitat	nongold
+70	water is a kind of liquid at room temperature	nongold
+71	water is a kind of nonliving thing	nongold
+72	a desert environment is dry	nongold
+73	green plants are a kind of producer	nongold
+74	organisms can be found in their habitats	nongold
+75	an ecosystem is a kind of habitat	nongold
+76	if a plant is planted; growing somewhere then that plant is located there	nongold
+77	dead plants means dead plant material	nongold
+78	water exists in three states on Earth	nongold
+79	some deep lakes; bowl-shaped lakes are formed by glaciers	nongold
+80	oceans contains most of  earth's water	nongold
+81	oceans are located on Earth	nongold
+82	grass is a kind of green plant	nongold
+83	eating an animal; a plant means killing that animal; that plant	nongold
+84	lakes are formed by precipitation and runoff	nongold
+85	to lower means to decrease	nongold
+86	cold environments contain few organisms	nongold
+87	a plant is made of plant cells	nongold
+88	an ecosystem contains nonliving things	nongold
+89	objects in an environment are a part of that environment	nongold
+90	a desert environment receives low rainfall	nongold
+91	something that contains water is similar to a body of water	nongold
+92	a desert environment usually is hot in temperature	nongold
+93	scientists make observations	nongold
+94	nonliving; non-living; die is the opposite of living; alive; live	nongold
+95	water is a kind of substance	nongold
+96	ocean animal is similar to water animal	nongold
+97	if fossils of an organism change depending on the level in which they were found then that species of organism changed over time	nongold
+98	fresh water means freshwater	nongold
+99	damming a river can cause a lake to form	nongold

@@ -1,0 +1,102 @@
+0	Which features are physical properties of an iron nail?	question
+1	conducts heat, magnetic, solid	answer
+2	iron nails are made of iron	gold
+3	a nail is a kind of object	gold
+4	conductivity is a kind of physical property	gold
+5	iron is always magnetic	gold
+6	nails are often made of iron	nongold
+7	metal is sometimes magnetic	nongold
+8	conductivity is a property of a material; substance	nongold
+9	a property of something is a feature of that something	gold
+10	iron is a kind of solid	gold
+11	soft iron; iron is always ferromagnetic; magnetic	nongold
+12	a physical property is a kind of property	nongold
+13	wax is an electrical; electrical energy insulator	nongold
+14	heat means heat energy	nongold
+15	rubber is thermal;thermal energy insulator	nongold
+16	metal is a thermal; thermal energy conductor	gold
+17	temperature is a measure of heat energy	nongold
+18	solid is a kind of state of matter	gold
+19	state of matter at room temperature is a kind of physical property	gold
+20	liquid is a kind of state of matter	nongold
+21	objects are made of materials; substances; matter	nongold
+22	state of matter is a kind of physical property	nongold
+23	heating means adding heat	nongold
+24	iron is a kind of metal	gold
+25	a structure is a kind of feature	nongold
+26	a solid is a kind of substance	nongold
+27	wood is an thermal; thermal energy insulator	nongold
+28	wood is a thermal; thermal energy insulator	nongold
+29	metal is an  electrical; electrical energy conductor	nongold
+30	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+31	magnetism is a property of materials; objects and includes ordered values of nonmagnetic; magnetic	nongold
+32	if an object is made of a material then that object has the properties of that material	gold
+33	materials are made of matter	nongold
+34	a metal is usually a solid at room temperature	nongold
+35	material means substance	nongold
+36	wax is always nonmagnetic	nongold
+37	substances are made of matter	nongold
+38	feature is synonymous with characteristic	nongold
+39	landform means surface feature; physical feature; land feature	nongold
+40	a chemical property is the opposite of a physical property	nongold
+41	a wax crayon is made of wax	nongold
+42	metal is a kind of material	gold
+43	an object has properties	nongold
+44	friction converts mechanical energy into heat energy	nongold
+45	state of matter means physical state	nongold
+46	physical state means state of matter	nongold
+47	plastic is a kind of thermal insulator	nongold
+48	steel; carbon steel is always ferromagnetic; magnetic	nongold
+49	a thermal conductor is made of materials that conduct thermal energy	nongold
+50	plastic is a kind of electrical insulator	nongold
+51	structure is a property of an object; a material; a substance	nongold
+52	rubber is a kind of solid	nongold
+53	a source of something emits; produces; generates; provides that something	nongold
+54	iron is a kind of element	nongold
+55	an insulator is the opposite of a conductor	nongold
+56	hardness is a property of a material; an object and includes ordered values of malleable; rigid	nongold
+57	absorbing energy causes objects; materials; substances to heat	nongold
+58	a piece of something is a kind of object	nongold
+59	rubber is a kind of material	nongold
+60	plastic is usually an electrical insulator	nongold
+61	a liquid is a kind of substance	nongold
+62	aluminum is a kind of matter	nongold
+63	steel is a kind of metal	nongold
+64	water is an thermal; thermal energy conductor	nongold
+65	electricity means electrical energy	nongold
+66	a source of heat can be used to heat something	nongold
+67	a source of heat can be used to heat something	nongold
+68	a land feature is a kind of physical characteristic	nongold
+69	a  chemical property is a kind of  property	nongold
+70	heat energy  can be used to heat up  an object	nongold
+71	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+72	to conduct is similar to to transfer	gold
+73	a magnet attracts magnetic metals; ferromagnetic metals through magnetism	gold
+74	material composition is a kind of chemical property	nongold
+75	conductivity is a measure of how easily electricity travels through a material	nongold
+76	melting means matter; a substance changes from a solid into a liquid by increasing heat energy	nongold
+77	an object is made of its parts	nongold
+78	composition is a property of an object; matter	nongold
+79	metal is a kind of substance	nongold
+80	friction causes the temperature of an object to increase	nongold
+81	heat energy can change the state of matter	nongold
+82	if two things have the same features then those two things are alike	nongold
+83	if something undergoes a physical change then the physical properties of that something will change	nongold
+84	plastic is always nonmagnetic	nongold
+85	a good conductor is a conductor	nongold
+86	a magnet is a kind of object	nongold
+87	a surface is a part of a material	nongold
+88	leather is a kind of material	nongold
+89	appearance  is a kind of physical property	nongold
+90	magnetic force means magnetism	nongold
+91	stainless steel is always magnetic; nonmagnetic	nongold
+92	a sheet of copper is a kind of object	nongold
+93	an element is a kind of material	nongold
+94	if heat is added to a substance then that substance absorbs that heat	nongold
+95	conducting is similar to exchanging	nongold
+96	magnetism is a kind of physical property	gold
+97	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+98	characteristic means property	nongold
+99	substances are made of elements	nongold
+100	friction occurs when two object's surfaces move against each other	nongold
+101	metals usually have greater; higher conductivity than nonmetals	nongold

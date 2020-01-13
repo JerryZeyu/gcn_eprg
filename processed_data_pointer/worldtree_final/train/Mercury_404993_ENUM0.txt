@@ -1,0 +1,102 @@
+0	harming something has a  negative impact on; effect on that something	nongold
+1	less is the opposite of more	nongold
+2	as the cause of something decreases , that something will decrease	nongold
+3	humans usually develop inventions that they require	nongold
+4	using less resources usually causes money to be saved	nongold
+5	a human is a kind of animal	nongold
+6	to lower means to decrease	nongold
+7	as a population of organisms decreases , the resources used by those organisms will increase	nongold
+8	if something converts a resource into energy it doesn't use then that something is not using that resource efficiently	nongold
+9	improving the design of something helps that something  to do its function	nongold
+10	resources becoming available has a positive impact on the things that need those resources	nongold
+11	using less of a resource increases the availability of that resource	nongold
+12	saving money has a positive impact on a person; a company	nongold
+13	renewable is the opposite of nonrenewable	nongold
+14	little is similar to decrease	nongold
+15	alternative fuel is usually a renewable resource	nongold
+16	a car is a kind of vehicle	nongold
+17	if use of a nonrenewable resources increases then the nonrenewable resource will be depleted	nongold
+18	a car engine is a part of a car	nongold
+19	oil is a nonrenewable resource	nongold
+20	a process usually requires all of the stages in that process	nongold
+21	using a car causes pollution	nongold
+22	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+23	low is similar to decrease	nongold
+24	an automobile is a kind of vehicle	nongold
+25	good means positive	nongold
+26	fossil fuels are a kind of energy resource	nongold
+27	consumption means use	nongold
+28	fossil fuels are a nonrenewable resource	gold
+29	a person is a kind of animal	nongold
+30	fuel efficient means uses less fuel	gold
+31	as the use of a resource decreases , the length of time that resource will be available increases	nongold
+32	as the use of something decreases , the use of the source of that something will decrease	nongold
+33	to reduce means to decrease	gold
+34	to be used for something means to be required by that something	gold
+35	a nonrenewable resource is limited in supply	nongold
+36	change is a kind of impact	nongold
+37	reducing is a kind of change	nongold
+38	as use of public transportation increases , the use of automobiles decreases	nongold
+39	to depend on; to rely on; to need means to require	gold
+40	using resources decreases those resources	nongold
+41	if a living thing requires something then that something has a positive impact on that living thing	nongold
+42	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+43	decreasing something positive has a negative impact on a thing	nongold
+44	oil is a kind of fossil fuel	nongold
+45	a source of something increases the amount of that something	nongold
+46	a decrease is a kind of change	nongold
+47	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+48	using raw materials increases waste	nongold
+49	requiring is similar to needing help	nongold
+50	metal is a nonrenewable resource	nongold
+51	needing something means depending on that something	nongold
+52	increase means more	nongold
+53	a vehicle for something allows; enables that something to occur	nongold
+54	Which of these reduces the need for people to use nonrenewable resources?	question
+55	to impact means to affect	nongold
+56	negative impact is the opposite of positive impact	nongold
+57	person is synonymous with human	nongold
+58	making something requires resources	nongold
+59	to make means to build	nongold
+60	if something requires something else then that something requires a source of that something else	nongold
+61	resources sometimes are used for energy	nongold
+62	to be required means to be necessary	nongold
+63	nonrenewable resources will eventually be depleted	nongold
+64	vehicles usually require gasoline to operate	nongold
+65	renewable resources are often available for many years	nongold
+66	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+67	petroleum is a kind of fossil fuel	nongold
+68	an increase is the opposite of a decrease	nongold
+69	less means a reduced amount	nongold
+70	if something is required for a process then that something positively impacts that process	nongold
+71	humans ride vehicles	nongold
+72	designing cars that are fuel efficient	answer
+73	requiring something means needing that something	nongold
+74	as a population of organisms increases , the resources used by those organisms will decrease	nongold
+75	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+76	a vehicle is a kind of tool for travel; transport	nongold
+77	the automobile is a kind of technology	nongold
+78	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+79	nonrenewable resources forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+80	to use means to utilize	nongold
+81	not efficient means inefficient	nongold
+82	an increase is a kind of change	nongold
+83	a vehicle is used for transportation	nongold
+84	a fossil fuel is a kind of natural resource	nongold
+85	if something emits something else then that something increases the amount of that something else	nongold
+86	helping something has a  positive impact on that something	nongold
+87	an engine is a part of an automobile	nongold
+88	high is similar to increase	nongold
+89	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+90	a car is a kind of object	nongold
+91	if something causes a process then that something is required for that process	nongold
+92	a car is a kind of automobile	gold
+93	a source of something emits; produces; generates; provides that something	nongold
+94	if something is a raw material in a process then that something is required for that process	nongold
+95	gasoline is a kind of fuel	nongold
+96	fuel supply is a kind of resource	nongold
+97	if something with the same function as something else is being used then the use of that something else decreases	nongold
+98	if something is required then that something must be provided	nongold
+99	operating an automobile usually requires fossil fuels	gold
+100	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+101	less is similar to decrease	gold

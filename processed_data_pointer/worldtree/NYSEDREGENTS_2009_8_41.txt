@@ -1,0 +1,102 @@
+Question	What is a disadvantage of using moving water to produce electricity?	question
+Answer	The local ecosystem may be disrupted.	answer
+0	using moving water to produce electricity may disrupt local ecosystems	gold
+1	disrupting is similar to having a negative impact	nongold
+2	a disadvantage is  a negative impact	gold
+3	changing an ecosystem is similar to disrupting an ecosystem	gold
+4	harming something has a  negative impact on; effect on that something	nongold
+5	advantage has a positive impact on something	nongold
+6	disrupting something from reaching something else decreases the availability of that something	nongold
+7	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	gold
+8	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+9	causing problems is a kind of negative impact	nongold
+10	emit means produce	nongold
+11	electrocution causes harm to an organism	nongold
+12	a source of something emits; produces; generates; provides that something	nongold
+13	if something required for a process is not produced then that process is prevented from occurring; cannot occur	nongold
+14	electricity means electrical energy	nongold
+15	loss of resources has a negative impact on  the organisms in an area	nongold
+16	a negative impact is a kind of consequence; risk	nongold
+17	producing renewable electric energy requires renewable resources	nongold
+18	if electricity flows through; is transferred through the body of an animal then that animal is electrocuted	nongold
+19	negative impact is the opposite of positive impact	nongold
+20	generate means produce	nongold
+21	a concern; a problem is a possible negative impact	nongold
+22	an environment is similar to an ecosystem	nongold
+23	producing electricity sometimes requires burning oil	nongold
+24	An electrical conductor is a vehicle for the flow of electricity	nongold
+25	producing is a kind of process	nongold
+26	to be used for something means to be required by that something	nongold
+27	tidal energy can be used to produce electricity	nongold
+28	electricity can  not flow through an open circuit	nongold
+29	an ecosystem is a kind of habitat	nongold
+30	an ecosystem contains a large community of; large numbers of living organisms	nongold
+31	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+32	organisms are a part of an environment	nongold
+33	a positive impact is  a benefit	nongold
+34	oil is used for producing electricity	nongold
+35	generating power is a kind of positive impact	nongold
+36	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+37	hydropower is when falling water produces electricity	nongold
+38	producing is similar to causing	nongold
+39	to produce means to provide	nongold
+40	water is a part of an environment	nongold
+41	electricity sometimes is used for heating buildings; substances	nongold
+42	an electric circuit is a vehicle for moving electrical energy from the source to  the electrical device	nongold
+43	an environment means an area	nongold
+44	electricity is used as an energy source by electrical devices	nongold
+45	wind is used for producing electricity	nongold
+46	something harmful can cause harm	nongold
+47	human waste often causes harm to an environment	nongold
+48	an electric outlet is a source of electricity	nongold
+49	a motion is a kind of event; action	nongold
+50	biofuel is used to produce electricity by burning	nongold
+51	something dangerous can cause harm	nongold
+52	a disruption  of an ecosystem can cause an extinction	nongold
+53	travel means to move	nongold
+54	if something causes an increase in something else then that something produces that something else	nongold
+55	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+56	producing is a kind of function	nongold
+57	if something is required for a process then keeping that something from reaching that process can stop that process	nongold
+58	coal is used to produce electricity by burning in coal-fire power stations	nongold
+59	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+60	converting is similar to producing	nongold
+61	moving is similar to travelling	nongold
+62	electricity is made of moving charges; moving charged particles	nongold
+63	solar energy is a source of electricity	nongold
+64	operating electrical appliances requires electricity	nongold
+65	organisms mean life	nongold
+66	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+67	natural gas is used for generating electricity by burning in a power plant	nongold
+68	if something is powered by something else then that something requires a source of that something else	nongold
+69	humans cause pollution	nongold
+70	a switch is used to start; stop the flow of current by  closing; opening the electric circuit	nongold
+71	to reduce means to decrease	nongold
+72	an event is a kind of action	nongold
+73	an electrical insulator slows; prevents the transfer of; flow of electricity	nongold
+74	a plant is a kind of organism	nongold
+75	solution is similar to a positive impact	nongold
+76	to impact means to affect	nongold
+77	motion; movement means moving; to move	nongold
+78	processes sometimes produce waste products	nongold
+79	as the use of renewable resources use of renewable resources increases , use of nonrenewable resources will decrease	nongold
+80	if something causes a process then that something is required for that process	nongold
+81	adverse effect means negative impact	nongold
+82	plants are a part of the environment	nongold
+83	a complete electrical circuit is a source of  electrical energy	nongold
+84	electric devices require electrical energy to function	nongold
+85	electrical current means electrical energy	nongold
+86	waste has a  negative impact on the environment	nongold
+87	current means electric current	nongold
+88	the Earth contains many ecosystems	nongold
+89	wasting  a resource harms that resource	nongold
+90	the function of something is what that something  is used to do	nongold
+91	electrical devices convert from electrical energy; electricity into other forms of energy	nongold
+92	destroying animal habitats has a negative  impact on an ecosystem	nongold
+93	to lower means to decrease	nongold
+94	as a resource is used less , the lower an electric bill is	nongold
+95	low is similar to decrease	nongold
+96	moving something is a kind of function	nongold
+97	completing a circuit causes electricity; electric current to flow  through that circuit	nongold
+98	producing is similar to releasing	nongold
+99	transportation technology is used for moving people; products	nongold

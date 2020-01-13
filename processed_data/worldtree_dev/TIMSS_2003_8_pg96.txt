@@ -1,0 +1,102 @@
+Question	Which of these daily activities can most directly help reduce air pollution in a city?	question
+Answer	using public transportation instead of driving	answer
+0	everyday means daily	gold
+1	daily means every day; once per day	nongold
+2	helping something has a  positive impact on that something	nongold
+3	using a car causes pollution	nongold
+4	driving is a kind of way of commuting	gold
+5	public transportation is a kind of way of commuting	gold
+6	to help; to benefit means to be of use	nongold
+7	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+8	to reduce means to decrease	gold
+9	action means activity	nongold
+10	to help means to aid	nongold
+11	to be used  for something means to help to do that something	nongold
+12	as use of public transportation increases , the use of automobiles decreases	gold
+13	helping means to assist in a change	nongold
+14	many vehicles emit pollution into the air	gold
+15	transit system means public transportation	nongold
+16	a city is a kind of location	nongold
+17	a vehicle is used for transportation	nongold
+18	a city is a part of a society	nongold
+19	humans cause pollution	nongold
+20	harming something has a  negative impact on; effect on that something	nongold
+21	pollution is a kind of environmental problem	nongold
+22	negative impact is the opposite of positive impact	nongold
+23	if something is required for a process then that something positively impacts that process	nongold
+24	decreasing something negative has a positive impact on a thing	nongold
+25	burning gasoline; oil is a source of air pollution	nongold
+26	riding in; driving in a vehicle means using that vehicle	nongold
+27	an automobile is a kind of vehicle	gold
+28	a vehicle is a kind of tool for travel; transport	nongold
+29	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+30	to drive means to cause	nongold
+31	driving is a kind of skill for operating a vehicle	nongold
+32	an event is a kind of action	nongold
+33	a car is a kind of automobile	nongold
+34	to be used for something means to be required by that something	nongold
+35	reducing is a kind of change	nongold
+36	decreasing something positive has a negative impact on a thing	nongold
+37	solution is similar to a positive impact	nongold
+38	a car is a kind of vehicle	nongold
+39	to lower means to decrease	nongold
+40	exercise has a positive impact on a human's health	nongold
+41	transport means to move; to make travel	nongold
+42	a positive impact is a helpful effect	nongold
+43	helping means something can be done; completed more easily; better	nongold
+44	a vehicle is used for travel	nongold
+45	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+46	riding a bike does not cause pollution	nongold
+47	something harmful can cause harm	nongold
+48	person is synonymous with human	nongold
+49	monthly means once per month	nongold
+50	a vehicle inspection is when a person examines a vehicle for safety; pollution standards	nongold
+51	a concern; a problem is a possible negative impact	nongold
+52	requiring is similar to needing help	nongold
+53	a process is a kind of event	nongold
+54	pollution is a source of pollutants	nongold
+55	if something causes a process then that something is required for that process	nongold
+56	causing problems is a kind of negative impact	nongold
+57	to use means to utilize	nongold
+58	an increase is the opposite of a decrease	nongold
+59	commuting is a kind of activity	gold
+60	counter means reduce; stop; resist	nongold
+61	a source of something emits; produces; generates; provides that something	gold
+62	a car is a kind of object	nongold
+63	to impact means to affect	nongold
+64	to be helpful means to help to do	nongold
+65	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+66	less is similar to decrease	nongold
+67	a human is a kind of animal	nongold
+68	inhibitor means something that prevents something from happening	nongold
+69	a motion is a kind of event; action	nongold
+70	good means positive	nongold
+71	a pollutions standard is a kind of standard for reducing pollutants emitted by vehicles; by factories	nongold
+72	as distance to a city decreases , the amount of  light pollution will increase	nongold
+73	a problem has a negative impact on a thing	nongold
+74	usually means most of the time	nongold
+75	many people commute everyday	gold
+76	humans ride vehicles	nongold
+77	a decrease is a kind of change	nongold
+78	something is used for that something's purpose	nongold
+79	a vehicle is a kind of object	nongold
+80	a bus is a kind of vehicle	nongold
+81	a road is a kind of object	nongold
+82	a positive impact is  a benefit	nongold
+83	address a problem means reduce a problem	nongold
+84	can be means able to be	nongold
+85	carpooling decreases the  amount of cars used to travel to a place	nongold
+86	impact means effect	nongold
+87	low is similar to decrease	nongold
+88	if something with the same function as something else is being used then the use of that something else decreases	nongold
+89	change is a kind of impact	nongold
+90	controlling the amount of pollution is similar to reducing the amount of pollution	nongold
+91	vehicles usually require gasoline to operate	nongold
+92	a vehicle for something allows; enables that something to occur	nongold
+93	process is similar to method	nongold
+94	if a living thing requires something then that something has a positive impact on that living thing	nongold
+95	as the cause of something decreases , that something will decrease	nongold
+96	a function is an activity	nongold
+97	automobiles; industrialization are a source of carbon dioxide	nongold
+98	reducing is similar to slowing	nongold
+99	as the use of something decreases , the use of the source of that something will decrease	nongold

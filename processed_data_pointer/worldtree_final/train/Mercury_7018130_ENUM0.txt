@@ -1,0 +1,100 @@
+0	a cell is very small	nongold
+1	the chemistry of something is similar to what that something is made of	nongold
+2	a solar panel is made of solar cells	nongold
+3	to be formed by is similar to being produced by	nongold
+4	to generate means to create	nongold
+5	forming is similar to converting	nongold
+6	to make means to form	nongold
+7	a component means a part of	nongold
+8	to generate means to form	nongold
+9	synthesis means to make	nongold
+10	the sun is the source of solar energy called sunlight	nongold
+11	solar energy is a renewable; inexhaustible resource	nongold
+12	silicon is a kind of metalloid	gold
+13	tellurium is a kind of metalloid	nongold
+14	solar energy is a kind of light	nongold
+15	an organism is made of organic matter	nongold
+16	a molecule is made of atoms chemically combined; bonded	nongold
+17	generate means produce	nongold
+18	to produce means to create	nongold
+19	a living thing is made of cells	nongold
+20	a computer is a kind of tool	nongold
+21	a component of something means a part of that something	nongold
+22	solar energy is a kind of energy	nongold
+23	a plant is made of plant cells	nongold
+24	composed of means made of	nongold
+25	if something is made of something else , then that something else will be the component of that something	nongold
+26	form means kind	nongold
+27	a cell produces carbon dioxide for waste	nongold
+28	solar cells often are made of silicon	gold
+29	solar cell is similar to photovoltaic cell	nongold
+30	substances are made of matter	nongold
+31	a plant cell is a kind of cell	nongold
+32	make means produce	nongold
+33	to convert means to change	nongold
+34	a molecule is a kind of particle	nongold
+35	the sun is a source of light; light energy called sunlight	nongold
+36	using a raw material sometimes requires absorbing that raw material	nongold
+37	sunlight means solar energy	nongold
+38	to be made of something means to be formed of that something	nongold
+39	sunlight is a kind of light	nongold
+40	solar energy is a kind of heat energy	nongold
+41	antimony is a kind of metalloid	nongold
+42	objects are made of materials; substances; matter	nongold
+43	products are formed; are produced; are created	nongold
+44	to create means to make	nongold
+45	copper is a kind of metal	nongold
+46	cells working together requires cells to specialize	nongold
+47	a type is synonymous with a kind	nongold
+48	matter is made of molecules	nongold
+49	substances are made of molecules	nongold
+50	Which metalloid is used in solar cells and computer chips?	question
+51	to use means to utilize	nongold
+52	all cells perform cellular respiration	nongold
+53	sunlight is a kind of solar energy	nongold
+54	to make means to invent	nongold
+55	materials are made of matter	nongold
+56	aluminum is a kind of metal	nongold
+57	sodium is a kind of metal	nongold
+58	technology is similar to tool	nongold
+59	useful means able to be used	nongold
+60	a source of something emits; produces; generates; provides that something	nongold
+61	a solar panel converts sunlight; solar energy into electrical energy; electricity	nongold
+62	cell activity means cell process	nongold
+63	emit means produce	nongold
+64	solar panels are a kind of power supplies	nongold
+65	silicon	answer
+66	metalloid is a kind of element	nongold
+67	if something transfers something else then that something is a source of something else	nongold
+68	a metal is usually a solid at room temperature	nongold
+69	device means tool	nongold
+70	if something is a raw material then that something comes directly from a source	nongold
+71	the solar system is a kind of system	nongold
+72	converting is similar to producing	nongold
+73	atoms are made of particles	nongold
+74	metal is a kind of material	nongold
+75	matter; materials; substances are made of atoms; particles	nongold
+76	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+77	computer chips often are made of silicon	gold
+78	to form means to create	nongold
+79	nonconductor is similar to insulator	nongold
+80	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+81	organisms are made of organic compounds	nongold
+82	to be used for something means to be required by that something	nongold
+83	a process is a kind of event	nongold
+84	technology is used for application of science	nongold
+85	if something is a raw material in a process then that something is required for that process	nongold
+86	if something releases something else then that something is the source of that something else	nongold
+87	can be means able to be	nongold
+88	living things are made of organic molecules	nongold
+89	where something  comes from is a source of that something	nongold
+90	an insulator is a kind of material	nongold
+91	solar cells convert solar energy into electrical energy	nongold
+92	In the photosynthesis process carbon dioxide; water; sunlight has the role of  raw material	nongold
+93	metal is an  electrical; electrical energy conductor	nongold
+94	a cell is a kind of object	nongold
+95	chromium is a kind of metal	nongold
+96	a cell nucleus is a part of a cell	nongold
+97	metal is a kind of substance	nongold
+98	fluorine is not a metal	nongold
+99	a structure of something is synonymous with a part of that something	nongold

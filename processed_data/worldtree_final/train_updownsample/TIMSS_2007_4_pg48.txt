@@ -1,0 +1,63 @@
+0	fruit is a kind of food	nongold
+1	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+2	a plant; living thing requires food for survival	nongold
+3	chemical energy is a kind of energy	nongold
+4	healing requires rest; nutrients; energy	gold
+5	food is a source of energy for animals; plants	gold
+6	eating; taking in food is used to get nutrients;energy by animals; living things	gold
+7	healing requires rest; nutrients; energy	gold
+8	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+9	a source of something emits; produces; generates; provides that something	nongold
+10	from the food he ate	answer
+11	from the food he ate	answer
+12	Tommy cut his finger. His body needed energy to help heal the cut. Where did the energy come from to heal the cut?	question
+13	digestion is a kind of bodily process	nongold
+14	a body part is a kind of object	nongold
+15	to make something easier means to help	nongold
+16	meat is a kind of food	nongold
+17	an animal is a kind of living thing	gold
+18	lunch is a kind of meal	nongold
+19	Tommy cut his finger. His body needed energy to help heal the cut. Where did the energy come from to heal the cut?	question
+20	from the food he ate	answer
+21	an organism is a living thing	nongold
+22	human is a kind of organism	nongold
+23	requiring something means needing that something	nongold
+24	Tommy cut his finger. His body needed energy to help heal the cut. Where did the energy come from to heal the cut?	question
+25	to be used  for something means to help to do that something	nongold
+26	food is a kind of chemical energy	nongold
+27	food is a kind of object	nongold
+28	food is a source of energy for animals; plants	gold
+29	a human is a kind of animal	gold
+30	Tommy is a name for a human	gold
+31	a living thing is a kind of object	nongold
+32	baking is when a human makes food by adding heat	nongold
+33	food is a kind of substance	nongold
+34	a human is a kind of animal	gold
+35	an animal is a kind of organism	nongold
+36	if food is cooked then heat energy is added to that food	nongold
+37	Tommy is a name for a human	gold
+38	a cut is a kind of wound	nongold
+39	eating; taking in food is used to get nutrients;energy by animals; living things	gold
+40	food is a source of energy for animals; plants	gold
+41	a beverage is a kind of food	nongold
+42	healing requires rest; nutrients; energy	gold
+43	a person is a kind of animal	nongold
+44	Tommy is a name for a human	gold
+45	an animal is a kind of living thing	gold
+46	nutrients are a source of energy for living things	nongold
+47	help means advantage	nongold
+48	helping means something can be done; completed more easily; better	nongold
+49	a vegetable is a kind of plant	nongold
+50	eating; taking in food is used to get nutrients;energy by animals; living things	gold
+51	a human is a kind of animal	gold
+52	Tommy cut his finger. His body needed energy to help heal the cut. Where did the energy come from to heal the cut?	question
+53	to eat means to consume food	nongold
+54	an animal; living thing requires nutrients for survival	nongold
+55	a plant is a kind of living thing	nongold
+56	to be used for something means to be required by that something	nongold
+57	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+58	objects are made of materials; substances; matter	nongold
+59	an animal is a kind of living thing	gold
+60	from the food he ate	answer
+61	a utensil is a kind of tool for eating	nongold
+62	requiring is similar to needing help	nongold

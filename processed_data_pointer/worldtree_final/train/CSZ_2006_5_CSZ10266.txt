@@ -1,0 +1,102 @@
+0	counter means reduce; stop; resist	nongold
+1	if food is cooked then heat energy is added to that food	nongold
+2	heat means heat energy	gold
+3	being  on something; placed in something; placed over something means touching  that something	nongold
+4	boiling is a kind of phase change	nongold
+5	a container contains objects; material; substances	nongold
+6	material means substance	nongold
+7	water is an thermal; thermal energy conductor	nongold
+8	a pot is a kind of object	nongold
+9	a body part is a kind of object	nongold
+10	a burner is a kind of object; surface	nongold
+11	boiling point means temperature at which a liquid boils; above which a liquid boils	nongold
+12	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	gold
+13	fire gives off light; heat; smoke	nongold
+14	warm; becoming warm means heat is added	nongold
+15	a plastic spoon is made of plastic	nongold
+16	high temperatures can cause an object to combust	nongold
+17	if liquid is boiling then that liquid is hot	gold
+18	burning a living thing usually causes harm to that living thing	nongold
+19	fire causes burning	nongold
+20	a spoon is a kind of object	nongold
+21	a hand is a part of the body	gold
+22	touching is when a body part makes contact with the surface of an object	nongold
+23	thermal conduction is when materials conduct heat through those materials through collision of particles	gold
+24	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	nongold
+25	if an object is made of a material then that object has the properties of that material	nongold
+26	food is a kind of object	nongold
+27	a source of something emits; produces; generates; provides that something	nongold
+28	a spoon sometimes is made of metal	nongold
+29	applying heat means adding heat energy	nongold
+30	cooking is a kind of action	nongold
+31	boiling is when liquids are heated above their boiling point	nongold
+32	a hot; warm something is a source of heat	gold
+33	a container is a kind of object	nongold
+34	heating means adding heat	nongold
+35	rubbing against something is a kind of contact	nongold
+36	heat energy  can be used to heat up  an object	nongold
+37	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+38	soup is a kind of food	nongold
+39	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+40	food is a kind of substance	nongold
+41	to serve as means to be used as	nongold
+42	a hot substance is a source of heat	nongold
+43	cooking food requires adding heat energy to the food	nongold
+44	frying food is a kind of cooking	nongold
+45	if one is holding an object then one is touching that object	nongold
+46	if an object is held under a substance then that object is touching that substance	nongold
+47	a finger is a part of a hand	gold
+48	a surface is a part of an object	nongold
+49	water is a kind of object	nongold
+50	a living thing is a kind of object	nongold
+51	a hand is a kind of object	nongold
+52	when a force is applied to an object , that force is acting on that object	nongold
+53	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+54	hot means high in heat energy; temperature	nongold
+55	if a body part was burned then that body part was exposed to a lot of heat energy	gold
+56	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+57	a person is a kind of animal	nongold
+58	if heat is conducted to an object then that object will become hot	nongold
+59	a pot is used for cooking food	nongold
+60	pots are used for cooking liquid food usually	nongold
+61	fire is a kind of chemical reaction	nongold
+62	a stove generates heat for cooking usually	nongold
+63	metal is a kind of substance	nongold
+64	fire transfers heat through waves	nongold
+65	cooking causes a chemical reaction	nongold
+66	A metal spoon was left in a pot of boiling soup. The cook burned a finger by touching the spoon. Why did the finger get burned?	question
+67	burning is a kind of action	nongold
+68	a thermal conductor is made of materials that conduct thermal energy	nongold
+69	metal is a kind of material	gold
+70	cookware is used for cooking	nongold
+71	a pot is a kind of container	nongold
+72	a thermal insulator slows; prevents the transfer of heat	nongold
+73	heat energy is synonymous with thermal energy	nongold
+74	if one surface; one substance; one object touches something then one is exposed to that something	gold
+75	pot;pan;frying pan is made of metal for cooking	nongold
+76	receive means get	nongold
+77	a human is a kind of animal	nongold
+78	soup is a kind of liquid	gold
+79	to touch means to contact	nongold
+80	a pan;frying pan is a kind of container for cooking; food	nongold
+81	if too much heat is transferred to an object then that object may burn	nongold
+82	if heat is transferred to an object , then the object will get hot	nongold
+83	heat means the transfer of thermal energy	nongold
+84	a flame are a part of a fire	nongold
+85	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+86	metal is a thermal; thermal energy conductor	gold
+87	conductivity is a property of a material; substance	nongold
+88	boiling is a kind of event	nongold
+89	a thermal energy conductor transfers heat from warmer objects; hotter objects to cooler objects	nongold
+90	metal is an  electrical; electrical energy conductor	nongold
+91	The metal spoon conducted heat to the cook's hand.	answer
+92	thermal conduction is when heat flows from warmer object to cooler object	nongold
+93	person is synonymous with human	nongold
+94	if something is places over a heat source then that something is exposed to that heat source	nongold
+95	a liquid is a kind of substance	nongold
+96	objects are made of materials; substances; matter	nongold
+97	if a container contains something then that container touches that something	nongold
+98	temperature is a measure of heat energy	nongold
+99	to combust means to catch fire	nongold
+100	an animal is a kind of living thing	nongold
+101	absorbing energy causes objects; materials; substances to heat	nongold

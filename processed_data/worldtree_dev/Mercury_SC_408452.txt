@@ -1,0 +1,102 @@
+Question	James recorded a measurement of 3° Celsius. Which tool was James most likely using to measure temperature?	question
+Answer	thermometer	answer
+0	a thermometer is used to measure temperature	gold
+1	a thermometer is a kind of instrument for measuring temperature	gold
+2	degrees celsius ( C ) is a metric unit used for measuring temperature generally used for values between -273.0 and 50000000.0	nongold
+3	instrument means tool	gold
+4	device means tool	nongold
+5	recording is similar to measuring	nongold
+6	recording an observation sometimes requires measuring	nongold
+7	a tool is a kind of object	nongold
+8	steam;water vapor is a kind of water above 100 degrees celsius	nongold
+9	recording data is similar to showing data	nongold
+10	instrument means device	nongold
+11	often is similar to likely	nongold
+12	technology is similar to tool	nongold
+13	a device is a kind of object	nongold
+14	to measure means to calculate	nongold
+15	butter is a kind of solid below 32 degrees celsius	nongold
+16	measuring sometimes requires  recording; learning an amount	nongold
+17	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+18	temperature is a measure of heat energy	nongold
+19	a measurement is a kind of data	nongold
+20	degrees fahrenheit ( F ) is a imperial unit used for measuring temperature generally used for values between -450.0 and 50000000.0	nongold
+21	a machine is a kind of  device	nongold
+22	a simple machine is a kind of tool	nongold
+23	calculation means measurement	nongold
+24	a machine is a kind of object	nongold
+25	property is similar to measurement	nongold
+26	form means kind	nongold
+27	can be means able to be	nongold
+28	tool is similar to appliance	nongold
+29	a meter is a kind of unit for measuring distance; measuring length	nongold
+30	an invention is a kind of tool	nongold
+31	to lower means to decrease	nongold
+32	degrees kelvin ( K ) is an SI unit used for measuring temperature generally used for values between 0.0 and 50000000.0	nongold
+33	measuring requires reading a measurement	nongold
+34	heat means heat energy	nongold
+35	objects are made of materials; substances; matter	nongold
+36	observations; data are a part of the results of an experiment	nongold
+37	speed is a measure of distance travelled by an object over time; divided by time; per unit of time	nongold
+38	a process is a kind of event	nongold
+39	variable means able to change	nongold
+40	an increase is a kind of change	nongold
+41	measuring is a kind of observing	nongold
+42	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+43	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+44	a calculator is a kind of tool	nongold
+45	a liquid is a kind of substance	nongold
+46	a container contains objects; material; substances	nongold
+47	astronomy is the study of celestial (objects, bodies)	nongold
+48	air temperature is a kind of temperature	nongold
+49	high is similar to increase	nongold
+50	to be used for something means to be required by that something	nongold
+51	liquid is a kind of state of matter	nongold
+52	solid is a kind of state of matter	nongold
+53	seconds are a kind of unit for measuring time	nongold
+54	a solid is a kind of substance	nongold
+55	a ratio is a measure of one measure over another measure; divided by another measure	nongold
+56	a user is a kind of person	nongold
+57	greatest means largest; highest; most amount of something	nongold
+58	higher means greater; above in value; amount; number	nongold
+59	process is similar to method	nongold
+60	hot means high in heat energy; temperature	nongold
+61	decimeters ( dm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 10.0	nongold
+62	something is used for that something's purpose	nongold
+63	affected means changed	nongold
+64	an event is a kind of action	nongold
+65	seconds are used to measure time	nongold
+66	cold means low in temperature	nongold
+67	a particle is a kind of object	nongold
+68	a watch;clock;stopwatch is used for measuring time	nongold
+69	picometer ( pm ) are a  metric unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+70	days are a kind of unit for measuring time	nongold
+71	a type is synonymous with a kind	nongold
+72	a surface is a part of an object	nongold
+73	quantity means amount	nongold
+74	an part of an object is smaller than the entire object	nongold
+75	an animal is a kind of organism	nongold
+76	a centimeter is a kind of unit of measurement	nongold
+77	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+78	a human is a kind of animal	nongold
+79	a source of something emits; produces; generates; provides that something	nongold
+80	experiment is synonymous with test	nongold
+81	a barometer is a kind of instrument for measuring air pressure	nongold
+82	An example of collecting data is measuring	nongold
+83	determining often requires measuring; observing	nongold
+84	milliliters is a kind of unit for measuring volume of liquids	nongold
+85	measuring is used for describing an object	nongold
+86	a container is a kind of object	nongold
+87	mass is a measure of the amount of matter in an object	nongold
+88	material means substance	nongold
+89	a gram  is a kind of unit for measuring mass	nongold
+90	to turn means to change	nongold
+91	if something causes a process then that something is required for that process	nongold
+92	emit means produce	nongold
+93	a decrease is a kind of change	nongold
+94	an instrument is a piece of equipment	nongold
+95	a person is a kind of animal	nongold
+96	temperature  is a property of air mass and includes ordered values of cold; warm	nongold
+97	matter; materials; substances are made of atoms; particles	nongold
+98	if an object is made of a material then that object has the properties of that material	nongold
+99	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold

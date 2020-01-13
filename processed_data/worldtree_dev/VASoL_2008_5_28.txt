@@ -1,0 +1,102 @@
+Question	Submarines have explored many parts of the ocean. As submarines descend, scientists observe that there is an increase in the -	question
+Answer	water pressure	answer
+0	as an object descends into water , the pressure on that object will increase	gold
+1	water pressure is a kind of pressure	nongold
+2	as depth increases , pressure will increase	nongold
+3	a submarine is a kind of object	gold
+4	sinking means moving down	nongold
+5	an ocean is a kind of body of water	gold
+6	observe means see	nongold
+7	an increase is a kind of change	nongold
+8	underwater means below water	nongold
+9	rising means height; altitude increases	nongold
+10	a decrease is a kind of change	nongold
+11	high is similar to increase	nongold
+12	to lower means to decrease	nongold
+13	lowering is a kind of motion	nongold
+14	an increase is the opposite of a decrease	nongold
+15	rising is a kind of motion	nongold
+16	to reduce means to decrease	nongold
+17	low is similar to decrease	nongold
+18	rising means moving upward	nongold
+19	sinking is a kind of downward direction	nongold
+20	increase means more	nongold
+21	the bottom is the lowest part of something	nongold
+22	water is a kind of liquid at room temperature	nongold
+23	a body of water contains water	nongold
+24	sea means ocean	nongold
+25	a body of water is a kind of environment	nongold
+26	water is a kind of substance	nongold
+27	downward means down	nongold
+28	below means lower down	nongold
+29	pressure is a kind of condition	nongold
+30	a source of something increases the amount of that something	nongold
+31	falling means moving downward	nongold
+32	as temperature decreases , the air pressure will decrease	nongold
+33	as the amount of water in a body of water increases , the water levels will rise; increase especially at the edge of that body of water	nongold
+34	extreme means very high in value	nongold
+35	temperature is a measure of heat energy	nongold
+36	low means down	nongold
+37	motion is when moves an object; something to a direction	nongold
+38	detecting is similar to observing	nongold
+39	as an object is moving down , the speed of the object  will increase	nongold
+40	a surface is a part of an object	nongold
+41	oceans contains most of  earth's water	nongold
+42	if there is a loss of something then that something decreases	nongold
+43	greatest means largest; highest; most amount of something	nongold
+44	water is in the gas state , called water vapor; steam , for temperatures between 373; 212; 100 and 100000000000 K; F; C	nongold
+45	if something releases something else then that something else decreases in that something	nongold
+46	water is a kind of object	nongold
+47	to travel up means to rise	nongold
+48	the ground is at the bottom of an area	nongold
+49	a scientist is a kind of human	nongold
+50	water level is similar to ocean level	nongold
+51	scientists make observations	nongold
+52	a motion is a kind of event; action	nongold
+53	greater means higher; more in value	nongold
+54	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+55	less is similar to decrease	nongold
+56	to turn means to change	nongold
+57	as the cause of something decreases , that something will decrease	nongold
+58	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	nongold
+59	shallow means low  in  depth	nongold
+60	as the amount of water in a body of water decreases , the water levels will decrease	nongold
+61	depth is a kind of distance vertically	nongold
+62	as the altitude increases , the gravity will decrease	nongold
+63	affected means changed	nongold
+64	little is similar to decrease	nongold
+65	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+66	too much is similar to increase	nongold
+67	if something emits something else then that something increases the amount of that something else	nongold
+68	as altitude increases , air pressure will decrease	nongold
+69	bodies of water are located on Earth's surface	nongold
+70	a boat is similar to a ship	nongold
+71	faster means an increase; higher in speed	nongold
+72	higher means greater; above in value; amount; number	nongold
+73	the bottom of a body of water is the deepest	nongold
+74	as the temperature of an object increases , the size of that object will increase	nongold
+75	water is a kind of matter	nongold
+76	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+77	to ascend means to rise	nongold
+78	as the  level of water rises , the amount of available land will decrease	nongold
+79	temperature  rise means temperature increase	nongold
+80	deeper means greater in depth	nongold
+81	can be means able to be	nongold
+82	a surface is a kind of object	nongold
+83	studying is similar to observing	nongold
+84	measuring is a kind of observing	nongold
+85	motion; movement means moving; to move	nongold
+86	movement is a kind of change	nongold
+87	as the surface area of a body of water increases , evaporation of that body of water will increase	nongold
+88	to limit means to decrease	nongold
+89	variable means able to change	nongold
+90	the volume of a liquid displaced is similar to the volume of a liquid increased	nongold
+91	a liquid is a kind of substance	nongold
+92	upwelling is when the water from deep ocean; the ocean floor rises to the ocean's surface	nongold
+93	up means upward	nongold
+94	if something returns to a place then that something increases in that place	nongold
+95	heat means temperature increases	nongold
+96	making discoveries requires observing	nongold
+97	something that happens is a kind of event	nongold
+98	furthest; farthest means greatest; most; highest in distance	nongold
+99	as altitude increases , the temperature of the air will decrease in the troposphere	nongold

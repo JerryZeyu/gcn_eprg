@@ -1,0 +1,102 @@
+Question	What is the source of fuels such as coal and natural gas?	question
+Answer	once-living organisms	answer
+0	fossil fuels; fossils are formed from dead organisms over time	nongold
+1	natural gas is a kind of fossil fuel	nongold
+2	coal is a kind of fossil fuel	nongold
+3	fossil means preserved remains of ancient organisms	nongold
+4	natural gas is a source of heat by burning	nongold
+5	remains mean parts of a dead organism	gold
+6	once-living means dead	gold
+7	coal is a kind of fuel	nongold
+8	a fossil fuel is a kind of natural resource	nongold
+9	an organism is a living thing	nongold
+10	dead organisms are a kind of waste	nongold
+11	remains is similar to dead organisms	nongold
+12	being buried under soil and mud changes dead plant matter; dead animal matter into oil; natural gas through extreme heat and pressure at the bottom of the sea over a long period of time	nongold
+13	petroleum is a kind of fossil fuel	nongold
+14	an animal is a kind of living thing	nongold
+15	gasoline is a kind of fuel	nongold
+16	nonliving; non-living; die is the opposite of living; alive; live	nongold
+17	life means living things	nongold
+18	organisms mean life	nongold
+19	natural gas is formed by heat and pressure acting on the remains of prehistoric animals	gold
+20	being buried under soil and mud changes dead vegetation; dead plant matter into peat through extreme heat and pressure in a swamp over a long period of time	nongold
+21	organisms are made of carbon	nongold
+22	live means to be alive	nongold
+23	a plant is a kind of living thing	nongold
+24	being buried under soil and mud changes peat into coal through extreme heat and pressure in a swamp over a long period of time	nongold
+25	if a living thing dies then that living thing is dead	nongold
+26	dead organisms decay	nongold
+27	forming coal; fossil fuels requires decaying vegetation	gold
+28	a plant is a kind of organism	gold
+29	organisms are a part of an environment	nongold
+30	coal is a nonrenewable resource	nongold
+31	dead organisms are the source of nutrients for decomposers	nongold
+32	a decomposer is a kind of living thing	nongold
+33	a living thing is a kind of object	nongold
+34	an animal is a kind of organism	gold
+35	oil is a kind of fossil fuel	nongold
+36	coal is a kind of rock	nongold
+37	dead means not alive	nongold
+38	gasoline is a kind of chemical power source	nongold
+39	fossil fuels are a kind of energy resource	nongold
+40	animals; living things require water for survival	nongold
+41	fossil fuels; fossils forming occurs over a period of 300000000 years which is considered a  very long time to a human	nongold
+42	organisms; living things live in their habitat; their home	nongold
+43	fossil fuel contains chemical energy	nongold
+44	a producer is a kind of living thing	nongold
+45	natural gas is a nonrenewable resource	nongold
+46	if an animal's; organisms habitat no longer exists; ceases to exist then that animal; that organism will die	nongold
+47	oil is a source of gasoline	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+50	fuel is a kind of energy source	nongold
+51	an ecosystem contains a large community of; large numbers of living organisms	nongold
+52	fossil fuels are a nonrenewable resource	nongold
+53	fuel is a source of energy	nongold
+54	an animal; bacterium requires oxygen for survival; to breathe	nongold
+55	harming an organism can cause that organism to die	nongold
+56	an animal; living thing requires nutrients for survival	nongold
+57	peat is made of decaying vegetation compacted by soil in a swamp over a long period of time	nongold
+58	all living things have life cycles	nongold
+59	burning gasoline is a source of  heat energy	nongold
+60	death means to die	nongold
+61	gasoline is a source of chemical energy	nongold
+62	dead plants means dead plant material	nongold
+63	burning coal is a source of air pollution	nongold
+64	if an organism eats something then that something is a source of frood to that organism	nongold
+65	a supply of something is a source of that something	nongold
+66	a coal mine is a source of coal under the ground	nongold
+67	killing means changing a living thing from alive to dead by harming	nongold
+68	if something comes from something else then that something else is a source of that something	nongold
+69	coal is a kind of object	nongold
+70	living things all require energy for survival	nongold
+71	a plant; living thing requires food for survival	nongold
+72	decomposer is a kind of role in the food chain process; in an ecosystem	nongold
+73	dead organisms rot	nongold
+74	preserved means from the past; from long ago	nongold
+75	dying is the opposite of living; surviving	nongold
+76	burning gasoline; oil is a source of air pollution	nongold
+77	decomposition is when a decomposer breaks down dead organisms	nongold
+78	a bacterium is a kind of organism	nongold
+79	a part of a living thing is a natural structure	nongold
+80	an environment is similar to an ecosystem	nongold
+81	once means one time	nongold
+82	dead organisms are a source of disease	nongold
+83	living things require respiration to use energy	nongold
+84	natural gas is used for generating heat by burning in a furnace; in a stove	nongold
+85	burning a living thing usually causes harm to that living thing	nongold
+86	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+87	an ecosystem contains nonliving things	nongold
+88	all living and nonliving materials are made of elements	nongold
+89	fuel contains chemical energy	nongold
+90	coal is used for generating heat by burning	nongold
+91	decomposition is when a decomposer recycles; returns nutrients; nitrogen from dead organisms to the soil by eating those dead organisms	nongold
+92	to be a source of something means to cause that something	nongold
+93	if something requires something else then that something requires a source of that something else	gold
+94	organism requires liquid water to survive	nongold
+95	an animal is a member of an animal species	nongold
+96	natural gas is used for cooking food by burning	nongold
+97	a tree is a kind of living thing	nongold
+98	organisms are located on Earth's surface	nongold
+99	an aquatic animal is a kind of animal	nongold

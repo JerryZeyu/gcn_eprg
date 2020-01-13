@@ -1,0 +1,102 @@
+0	A mountain range has hills around its edges. How are the mountains and hills alike?	question
+1	Both are taller than the land around them.	answer
+2	a mountain; hill is taller than the land around it	gold
+3	if two things have the same features then those two things are alike	nongold
+4	a mountain is taller than a hill	nongold
+5	a mountain range contains mountains	nongold
+6	a mountain is a kind of landform	nongold
+7	a mountain is high in altitude	nongold
+8	taller means greater in height; size	nongold
+9	both means two	nongold
+10	a mountain is a kind of land feature	nongold
+11	hills are a kind of small mountain	nongold
+12	tall means great in height	nongold
+13	a hill is a kind of place	nongold
+14	a mountain; mountain range is a kind of environment	nongold
+15	larger means greater; higher; more; increase in size	nongold
+16	different is the opposite of the same	nongold
+17	a mountain is made of rocks; soil	nongold
+18	a hill is more rounded than a mountain	nongold
+19	low means low in elevation; height; altitude	nongold
+20	low is the opposite of high	nongold
+21	if two things are made from the same objects; material then those two things are similar	nongold
+22	shorter means smaller; less in  height	nongold
+23	high is similar to increase	nongold
+24	to change means to become different	nongold
+25	a mountain top is a part of a mountain	nongold
+26	being around something means surrounding  that something	nongold
+27	an increase is the opposite of a decrease	nongold
+28	the  property of something is the same for the things of same kind	nongold
+29	a landform is a kind of object	nongold
+30	smaller means less; lower in size	nongold
+31	furthest; farthest means greatest; most; highest in distance	nongold
+32	land is a kind of landform	nongold
+33	highest means largest; greatest; most in height	nongold
+34	slope is a measure of the difference in elevation between one part of the land and another part of the land	nongold
+35	two objects are usually different in size	nongold
+36	closer means lower; less; a decrease in distance	nongold
+37	height is a property of the size of an object	nongold
+38	low is similar to decrease	nongold
+39	a land mass is a kind of object	nongold
+40	mountain area means mountain range	nongold
+41	higher means greater; above in value; amount; number	nongold
+42	height is a measure of length from the top of an object to the bottom of an object	nongold
+43	high means great in altitude	nongold
+44	a structure of something is synonymous with a part of that something	nongold
+45	a landform is a kind of place	nongold
+46	a landform is a kind of place	nongold
+47	an part of an object is smaller than the entire object	nongold
+48	same means identical; equal in value; amount; number; quantity	nongold
+49	opposite is a kind of different	nongold
+50	greater means higher; more in value	nongold
+51	if something changes , then that something is not the same	nongold
+52	an increase is a kind of change	nongold
+53	close means low in distance	nongold
+54	larger; bigger is the opposite of smaller	nongold
+55	the surface of the Earth contains mountains	nongold
+56	low means down	nongold
+57	height is a kind of position	nongold
+58	lower means less	nongold
+59	landform means surface feature; physical feature; land feature	nongold
+60	elevation relative to sea level is a measure of  how high a place is relative to sea level	nongold
+61	a rock is a kind of object	nongold
+62	if two objects are similar , then the two objects share properties	nongold
+63	identical is the opposite of different	nongold
+64	increase means more	nongold
+65	distance is a property of space and includes ordered values of close; far	nongold
+66	to lower means to decrease	nongold
+67	to reduce means to decrease	nongold
+68	as distance from an object decreases , that object will appear larger	nongold
+69	an object is made of its parts	nongold
+70	if something is not the same as something else then that something is different from that something else	nongold
+71	less is similar to decrease	nongold
+72	a landform is a kind of natural formation	nongold
+73	growing means a plant's height;mass;size increase	nongold
+74	stay the same means not changing	nongold
+75	a structure is a kind of feature	nongold
+76	if two objects are apart from each other then matter is between those two objects	nongold
+77	mountains are formed by earthquakes; volcanoes; plate tectonics	nongold
+78	a land feature is a kind of physical characteristic	nongold
+79	at the top of a place means at the highest point of the place	nongold
+80	land area means land mass	nongold
+81	similarity means the same property	nongold
+82	near; close is the opposite of far; away	nongold
+83	can be means able to be	nongold
+84	as distance to an object increases , that object will appear smaller	nongold
+85	to add means to increase	nongold
+86	to distinguish means to tell the difference between	nongold
+87	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+88	a decrease is a kind of change	nongold
+89	growing is when an animal's height;mass;size increase	nongold
+90	larger is a kind of difference	nongold
+91	altitude is the distance from the ground to an object in the sky	nongold
+92	size difference is a kind of difference	nongold
+93	a terrain contains a surface	nongold
+94	if an object is made of something then the parts of that object are made of that something	nongold
+95	a living thing is a kind of object	nongold
+96	a plant is a kind of living thing	nongold
+97	mountain top is a kind of location	nongold
+98	greatest means largest; highest; most amount of something	nongold
+99	a hill is a kind of incline	nongold
+100	decreasing is similar to becoming smaller	nongold
+101	long means great in length	nongold

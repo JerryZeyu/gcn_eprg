@@ -1,0 +1,102 @@
+Question	To compare the hardness of different minerals, it would be BEST to find	question
+Answer	which minerals scratch other minerals.	answer
+0	if one mineral can scratch another mineral then that other mineral is softer than that one mineral	nongold
+1	measuring the hardness of minerals requires  scratching those materials	gold
+2	hardness is a measure of a mineral's ability to resist scratching	nongold
+3	to scrape means to scratch	nongold
+4	if a material scratches easily then that material has low hardness	nongold
+5	if a mineral can be scratched by a fingernail then that mineral is soft	nongold
+6	hardness is a property of a material; an object and includes ordered values of malleable; rigid	gold
+7	a mineral is a kind of object	nongold
+8	a mineral is a kind of solid; natural material	nongold
+9	hardness is a kind of physical property	nongold
+10	soft is a kind of hardness	nongold
+11	hardness is an intensive property	nongold
+12	comparing requires measuring	gold
+13	a scratch is a kind of wound	nongold
+14	scraping an object may cause small particles to break off of that object	nongold
+15	glaciers cause scratches in rocks	nongold
+16	different materials usually have different properties	nongold
+17	rock is made of minerals	nongold
+18	if rocks in an area have many scratches then that area was once covered by glaciers	nongold
+19	texture is a property of  surfaces; materials; objects and includes ordered  values of smooth; rough	nongold
+20	a rock is a kind of object	nongold
+21	rock is a kind of material	nongold
+22	a living thing is a kind of object	nongold
+23	comparing requires observing that something	nongold
+24	material means substance	nongold
+25	best means most positive	nongold
+26	a surface is a part of an object	nongold
+27	rough is the opposite of smooth	nongold
+28	felt is high in roughness	nongold
+29	a surface is a part of a material	nongold
+30	smooth is a kind of texture	nongold
+31	durability is a property of materials; objects and includes ordered values of durable; not durable	nongold
+32	to discover means to find	nongold
+33	classifying requires comparing	nongold
+34	answering questions requires information	nongold
+35	texture is a kind of physical property	nongold
+36	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+37	can be means able to be	nongold
+38	different is the opposite of the same	nongold
+39	a surface is a kind of object	nongold
+40	opposite is a kind of different	nongold
+41	materials are made of matter	nongold
+42	rock is hard	nongold
+43	substances are made of matter	nongold
+44	zinc is a kind of mineral	nongold
+45	luster is a property of  an object; a material and includes ordered values of dull; shiny	nongold
+46	objects are made of materials; substances; matter	nongold
+47	another means different	nongold
+48	a type is synonymous with a kind	nongold
+49	some minerals are nutrients	nongold
+50	different types of matter have different chemical properties	nongold
+51	texture means how an object feels	nongold
+52	nonmetal means nonmetals	nongold
+53	high is similar to increase	nongold
+54	a component of something means a part of that something	nongold
+55	form means kind	nongold
+56	composed of means made of	nongold
+57	nonmetallic is a kind of luster	nongold
+58	a component means a part of	nongold
+59	extreme means very high in value	nongold
+60	strong means high in strength	nongold
+61	to change means to become different	nongold
+62	thickness is  a measure of how thick an object  is	nongold
+63	an part of an object is smaller than the entire object	nongold
+64	hard is the opposite of easy	nongold
+65	thickness is a property of an object and includes ordered  values of thin; thick	nongold
+66	both means two	nongold
+67	weak means low in strength	nongold
+68	all the other means the rest of	nongold
+69	to touch means to contact	nongold
+70	an object is made of its parts	nongold
+71	quartz scratches glass easily	nongold
+72	hardened means to become hard	nongold
+73	rock is a kind of nonliving thing	nongold
+74	a kind of something is an example of that something	nongold
+75	characteristic means property	nongold
+76	down is soft	nongold
+77	as the thickness of something; of an object increases , the resistance to damage of that object; of that something will increase	nongold
+78	an object has properties	nongold
+79	an element is a kind of material	nongold
+80	sulfur is a kind of mineral	nongold
+81	not is similar to the opposite of	nongold
+82	a structure of something is synonymous with a part of that something	nongold
+83	strength is a property of an object; a material	nongold
+84	denser means more dense	nongold
+85	surfaces sometimes cause objects to break	nongold
+86	better means good	nongold
+87	greater means higher; more in value	nongold
+88	if an object is made of a material then that object has the properties of that material	nongold
+89	to tell the difference between things means to classify those things	nongold
+90	a part of something means a characteristic of something	nongold
+91	a factor impacts something	nongold
+92	abrasion is when rocks rub against each other	nongold
+93	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+94	if something is soft , then that something is malleable	nongold
+95	iron is a kind of mineral	nongold
+96	if something is a part of something then that something can be found in that something	nongold
+97	an element is a kind of  substance	nongold
+98	impact means effect	nongold
+99	if something is made by something else then that something is affected by that something else	nongold

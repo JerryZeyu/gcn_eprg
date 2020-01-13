@@ -1,0 +1,102 @@
+Question	The building of houses in Maryland uses many different materials. Which building material is made of a renewable natural resource?	question
+Answer	wood boards	answer
+0	Maryland is a state located in the United States of America	nongold
+1	wood is a kind of natural material	nongold
+2	Maryland is a kind of region	nongold
+3	wood is a renewable resource	gold
+4	a house is a kind of building	nongold
+5	a renewable resource is a natural resource	gold
+6	a renewable resource is a kind of natural resource	nongold
+7	construction means building	nongold
+8	composed of means made of	nongold
+9	a board is a kind of object	nongold
+10	if an object is made of a material then that object has the properties of that material	nongold
+11	objects are made of materials; substances; matter	nongold
+12	to make means to build	nongold
+13	make means produce	nongold
+14	if an object is made of something then the parts of that object are made of that something	nongold
+15	wood is a kind of resource	nongold
+16	made up of means contains; made of	nongold
+17	wood is a kind of object	nongold
+18	made by humans; artificial is the opposite of natural	nongold
+19	metal is a kind of natural resource	nongold
+20	a house is a kind of home	nongold
+21	a home is a kind of building	nongold
+22	to create means to make	nongold
+23	furniture often is made of wood	nongold
+24	frame construction requires wood	nongold
+25	made of is similar to is built from	nongold
+26	to be made of something means to be formed of that something	nongold
+27	renewable is the opposite of nonrenewable	nongold
+28	wood is a strong material	nongold
+29	to make means to form	nongold
+30	materials are used for making products by manufacturers	nongold
+31	materials are made of matter	nongold
+32	a material is a kind of resource	nongold
+33	manufacture means make	nongold
+34	if something is made of something; a material then that something contains that something; that material	nongold
+35	an object is made of its parts	nongold
+36	structure is a property of an object; a material; a substance	nongold
+37	plastic is a kind of material made by humans	nongold
+38	to be a combination of means to be made of	nongold
+39	wood chips are made of wood	nongold
+40	humans building homes; roads in an ecosystem; in an environment causes that ecosystem; that environment to change	nongold
+41	what something is made of is a property of the organization or that something	nongold
+42	to be made of means to consist of	nongold
+43	a source of something emits; produces; generates; provides that something	nongold
+44	a renewable resource is a kind of naturally replaced resource	nongold
+45	material means substance	nongold
+46	metal is a kind of material	nongold
+47	wood is a light material	nongold
+48	products are formed; are produced; are created	nongold
+49	production is similar to making	nongold
+50	a part of a living thing is a natural structure	nongold
+51	if something is a raw material in a process then that something is required for that process	nongold
+52	to produce means to create	nongold
+53	if two objects are made of similar materials then one of those objects may be formed from material from the other object	nongold
+54	a surface is a part of a material	nongold
+55	an organism is a source of organic material	nongold
+56	making something requires resources	nongold
+57	creating means making	nongold
+58	if two things are made from the same objects; material then those two things are similar	nongold
+59	trees are a kind of natural resource	nongold
+60	coal is a kind of fossil fuel	nongold
+61	a producer is a kind of living thing	nongold
+62	made of is similar to contains	nongold
+63	a fossil fuel is a kind of natural resource	nongold
+64	nature is the source of natural resources	nongold
+65	to be used for something means to be required by that something	nongold
+66	a structure of something is synonymous with a part of that something	nongold
+67	composition means the (materials, substances) of which something is composed	nongold
+68	can be means able to be	nongold
+69	another means different	nongold
+70	to be formed by is similar to being produced by	nongold
+71	wood is a kind of nonmetal	nongold
+72	if an object; a substance makes something then that object; that substance is a source of that thing	nongold
+73	substances are made of matter	nongold
+74	organisms are made of carbon	nongold
+75	building usually requires cutting down trees	nongold
+76	if something requires something else then that something requires a source of that something else	nongold
+77	manufacturing means making	nongold
+78	logging is when humans cut down trees; forests for wood	nongold
+79	trees are a renewable resource	nongold
+80	renewable resources can be used over again	nongold
+81	to form means to create	nongold
+82	substances are made of elements	nongold
+83	green plants are a kind of producer	nongold
+84	paper is a kind of material	nongold
+85	some humans live in houses	nongold
+86	wood is a thermal; thermal energy insulator	nongold
+87	fossil fuels are a nonrenewable resource	nongold
+88	to cause means to make	nongold
+89	generate means produce	nongold
+90	an organism is made of organic matter	nongold
+91	if something is a raw material then that something comes directly from a source	nongold
+92	wood is an thermal; thermal energy insulator	nongold
+93	electricity means electrical energy	nongold
+94	a tree contains wood	nongold
+95	building something often requires measuring the materials	nongold
+96	if something is made of something else then that something can be broken down into that something else	nongold
+97	if something comes from something else then that something else is a source of that something	nongold
+98	the parts of something make up that something	nongold
+99	producing is a kind of process	nongold

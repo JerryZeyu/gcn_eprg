@@ -1,0 +1,102 @@
+0	sight means to see	nongold
+1	place means area	nongold
+2	search for means seek to find	nongold
+3	plants are a part of the environment	nongold
+4	near means local	nongold
+5	a hummingbird is a kind of bird	nongold
+6	if something is a part of something then that something can be found in that something	nongold
+7	a blue jay is a kind of bird	nongold
+8	surroundings means environment	nongold
+9	often is similar to likely	nongold
+10	a bird is a kind of living thing	nongold
+11	objects in an environment are a part of that environment	nongold
+12	a mammal is a kind of animal	nongold
+13	a source of something emits; produces; generates; provides that something	nongold
+14	finding something means locating that something	nongold
+15	if something is located  in somewhere , then something can be found in somewhere	nongold
+16	a landform is a kind of place	nongold
+17	a bird is warm-blooded	nongold
+18	a human is a kind of animal	nongold
+19	if a living thing requires something then that something has a positive impact on that living thing	nongold
+20	blue is a kind of color	nongold
+21	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+22	hiding means visibility; ability to be seen decreases for camouflage	nongold
+23	most predators live in; live near the same environment as their prey	nongold
+24	not looking means not seeing	nongold
+25	Bluebirds prefer to live near open, grassy places. Where would you most likely find a bluebird?	question
+26	a plant is a kind of living thing	nongold
+27	seeking something means trying to find; searching for something	nongold
+28	to detect means to find	nongold
+29	a living thing is a kind of object	nongold
+30	being around something means surrounding  that something	nongold
+31	a ball is a kind of object	nongold
+32	a landform is a kind of object	nongold
+33	an animal is a kind of living thing	nongold
+34	a population is made of one type of organism in an area	nongold
+35	attracting something to a location causes that something  to be near that location	nongold
+36	a plant; living thing requires food for survival	nongold
+37	an animal is a kind of organism	nongold
+38	found in means existing in	nongold
+39	a field contains soil	nongold
+40	if something does not move then that something can be found in the same location	nongold
+41	close means low in distance	nongold
+42	animals; living things live and feed in their habitats; near their habitats	nongold
+43	color is a kind of physical; visual property	nongold
+44	if something required by something else is in a place then that something else may be in that place	nongold
+45	a field is a kind of habitat	nongold
+46	to be in danger means to be around; to be near something dangerous	nongold
+47	survive means live	nongold
+48	an environment is a kind of place	nongold
+49	habitat is similar to environment	nongold
+50	sensing food has a positive impact on finding food	nongold
+51	an insect is a kind of prey	nongold
+52	a butterfly is a kind of organism	nongold
+53	bluebirds live in open spaces; grassy spaces	gold
+54	usually something can be found  near a source in greater concentrations	nongold
+55	a ball field	answer
+56	closer means lower; less; a decrease in distance	nongold
+57	if something is located in some place , then the presence of that something can be found in that location	nongold
+58	harming something has a  negative impact on; effect on that something	nongold
+59	a field is a kind of environment	nongold
+60	near means close	nongold
+61	discovering something usually requires seeing that something	nongold
+62	finding something requires sensing that something	nongold
+63	green is a kind of color	nongold
+64	place means space	nongold
+65	a ball field is open; grassy	gold
+66	organisms; living things live in their habitat; their home	nongold
+67	to see means to look	nongold
+68	an organism is a living thing	nongold
+69	a plant is a kind of organism	nongold
+70	area is similar to location	nongold
+71	feeling is when an living thing senses through touch	nongold
+72	a hummingbird is a kind of animal	nongold
+73	organisms are a part of an environment	nongold
+74	a type is synonymous with a kind	nongold
+75	spot means location	nongold
+76	far is the opposite of close	nongold
+77	near; close is the opposite of far; away	nongold
+78	an environment means an area	nongold
+79	a landform is a kind of place	nongold
+80	grass is a kind of green plant	nongold
+81	A bird is a pollinating animal	nongold
+82	the location of an object can be used to describe that object	nongold
+83	a tennis ball is a kind of ball	nongold
+84	a bird is a kind of animal	nongold
+85	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+86	place is synonymous with location	nongold
+87	nonliving; non-living; die is the opposite of living; alive; live	nongold
+88	An insect is a pollinating animal	nongold
+89	a plant requires a habitat for survival	nongold
+90	some birds are predators	nongold
+91	place; location is synonymous with position	nongold
+92	life means living things	nongold
+93	studying moving habits requires knowing location	nongold
+94	organisms can be found in their habitats	nongold
+95	an animal requires a habitat for survival	nongold
+96	a butterfly is a kind of insect	nongold
+97	an animal is a member of an animal species	nongold
+98	survive means live	nongold
+99	an insect is a kind of animal	nongold
+100	a duck is a kind of bird	nongold
+101	an animal; living thing requires nutrients for survival	nongold

@@ -1,0 +1,63 @@
+0	phase means state	nongold
+1	to reduce means to decrease	gold
+2	gas is a kind of state of matter	nongold
+3	ice is a kind of object	nongold
+4	water is a kind of water phase	nongold
+5	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+6	ice is colder than water in temperature	nongold
+7	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+8	water is a kind of liquid at room temperature	gold
+9	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+10	temperature is a measure of heat energy	gold
+11	cold is a kind of weather	nongold
+12	freezing point means temperature at which a liquid freezes; below which a liquid freezes	nongold
+13	melting is a kind of phase change	nongold
+14	water is a kind of object	nongold
+15	water is a kind of liquid at room temperature	gold
+16	liquid is a kind of state of matter	nongold
+17	cooling means temperature decreases	nongold
+18	frozen means solid	nongold
+19	glass is a kind of open container	nongold
+20	temperature drop means become colder	nongold
+21	The temperature of water in a glass changes from 5°C to -1°C. How will the water most likely change?	question
+22	heat means temperature increases	nongold
+23	water is a kind of substance	nongold
+24	cycles of freezing and thawing water cause ice wedging	nongold
+25	moving an object from a cool place to a  warm place causes the object's temperature to increase	nongold
+26	It will freeze.	answer
+27	the freezing point of water; melting point of water is 32F; 0C; 273K	nongold
+28	variable means able to change	nongold
+29	glass is a kind of object	nongold
+30	water is a kind of matter	nongold
+31	to reduce means to decrease	gold
+32	water is in the liquid state , called liquid water , for temperatures between 273; 32; 0 and 373; 212; 100 K; F; C	gold
+33	The temperature of water in a glass changes from 5°C to -1°C. How will the water most likely change?	question
+34	to add means to increase	nongold
+35	something in a cold place becomes cold	nongold
+36	The temperature of water in a glass changes from 5°C to -1°C. How will the water most likely change?	question
+37	The temperature of water in a glass changes from 5°C to -1°C. How will the water most likely change?	question
+38	a phase change is a kind of physical change	nongold
+39	a freezer is used for cooling things	nongold
+40	state of matter means physical state	nongold
+41	water is a kind of liquid at room temperature	gold
+42	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+43	temperature is a measure of heat energy	gold
+44	It will freeze.	answer
+45	glass is a kind of material	nongold
+46	a decrease is a kind of change	nongold
+47	temperature is a measure of heat energy	gold
+48	It will freeze.	answer
+49	an ice cube is a kind of object	nongold
+50	glass is a kind of solid at room temperature	nongold
+51	temperature  rise means temperature increase	nongold
+52	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+53	objects are made of materials; substances; matter	nongold
+54	It will freeze.	answer
+55	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold
+56	to reduce means to decrease	gold
+57	a glass contains water	nongold
+58	an object moving from a cool place to a warm place causes the object's temperature to increase	nongold
+59	water is in the solid state , called ice , for temperatures between 0; -459; -273 and 273; 32; 0 K; F; C	gold
+60	cooling is a kind of condition	nongold
+61	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold
+62	freezing means matter; a substance changes from a liquid into a solid by decreasing heat energy	gold

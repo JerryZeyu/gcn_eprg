@@ -1,0 +1,101 @@
+0	some birds are predators	nongold
+1	an animal is a kind of living thing	nongold
+2	an animal is a kind of organism	gold
+3	as population of predators increases , the population of prey will decrease in an environment	nongold
+4	harming an animal species causes that animal's population to decrease	gold
+5	as population of predators decreases , the population of prey will increase in an environment	nongold
+6	organisms are a part of an environment	nongold
+7	a decrease is a kind of change	nongold
+8	prey  is a kind of animal	nongold
+9	to cause an event means to make that event more likely	nongold
+10	reducing is a kind of change	nongold
+11	an organism eating is a kind of action	nongold
+12	as the rate of  reproduction decreases , the population will decrease	nongold
+13	to cause means to have an effect	nongold
+14	some predators move  quickly to  catch prey	nongold
+15	eating prey requires catching prey	nongold
+16	if the population of an organism increases then the ecosystem may become overpopulated with that organism	nongold
+17	less is similar to decrease	nongold
+18	a change is a kind of event	nongold
+19	population increase means more survive	nongold
+20	if there is a loss of something then that something decreases	nongold
+21	as the population of prey decreases , competition between predators will increase	nongold
+22	a predator is a kind of enemy to its prey	nongold
+23	Which will most likely cause a decrease in predator populations?	question
+24	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+25	change is a kind of impact	nongold
+26	population is a measure of the number of a species in an environment	nongold
+27	a mammal is a kind of animal	nongold
+28	a source of something increases the amount of that something	nongold
+29	as the population of insects decreases , the population of lizards will likely decrease because lizards eat insects	nongold
+30	a fish is a kind of predator	nongold
+31	a living thing is a kind of object	nongold
+32	as  population of prey decreases , the population of predators will  decrease	gold
+33	as a resource required by an organism decreases , the population of that organism will decrease	nongold
+34	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+35	as the population of plants decreases , the population of herbivores will decrease	nongold
+36	an insect is a kind of prey	nongold
+37	a decrease in prey populations	answer
+38	an event is a kind of action	nongold
+39	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+40	as the cause of something decreases , that something will decrease	nongold
+41	as the supply of food in an environment decreases , the population of animals in that environment will decrease	nongold
+42	to change means to cause a change	nongold
+43	low is similar to decrease	nongold
+44	a predator usually kills its prey to eat it	nongold
+45	killing means harming something causing death	nongold
+46	if something releases something else then that something else decreases in that something	nongold
+47	to limit means to decrease	nongold
+48	to cause something means to contribute to that something happening	nongold
+49	humans changing an environment causes animal populations to decrease in that environment	nongold
+50	negative impacts on a species will decrease populations of a species	nongold
+51	death means to die	nongold
+52	affected means changed	nongold
+53	an animal needs to eat food for nutrients	nongold
+54	a predator eats other animals for food	nongold
+55	killing a living thing decreases the number; population size of that living thing	nongold
+56	carnivores; omnivores are predators	nongold
+57	when an animal moves away from an area then the population of that animal decreases in that area	nongold
+58	an animal; living thing requires nutrients for survival	gold
+59	most predators live in; live near the same environment as their prey	nongold
+60	if an organism dies then the population of that organism will decrease	nongold
+61	if an organism eats something then that something is a source of frood to that organism	gold
+62	a source of something emits; produces; generates; provides that something	nongold
+63	as a population of organisms increases , the resources used by those organisms will decrease	nongold
+64	to lower means to decrease	nongold
+65	positive impacts on a species will increase populations of a species	nongold
+66	to reduce means to decrease	nongold
+67	a predator is a kind of animal	gold
+68	an hawk is a kind of predator	nongold
+69	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+70	food supply often limits predator population size in an ecosystem	nongold
+71	to be a source of something means to cause that something	nongold
+72	impact means effect	nongold
+73	to decline means to decrease	nongold
+74	increase means more	nongold
+75	an increase is the opposite of a decrease	nongold
+76	to impact means to affect	nongold
+77	a population is made of one type of organism in an area	nongold
+78	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+79	a plant; living thing requires food for survival	nongold
+80	predators eat prey	gold
+81	harming something has a  negative impact on; effect on that something	gold
+82	high is similar to increase	nongold
+83	become prey means get eaten	nongold
+84	a worm is a kind of living thing	nongold
+85	an increase is a kind of change	nongold
+86	as available resources increases , the population of an organism that uses those resources will increase	nongold
+87	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+88	an eagle is a kind of predator	nongold
+89	to prey on an animal means to eat that animal	nongold
+90	predators; carnivores; omnivores eat other animals	nongold
+91	eating something decreases the amount of that something	nongold
+92	an organism is a living thing	gold
+93	harming an animal species has a  negative impact on the population size of that species	nongold
+94	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+95	a panther is a kind of predator	nongold
+96	a reptile is a kind of animal	nongold
+97	if a new predator begins eating prey then the population of that prey will decrease	nongold
+98	prey is a kind of food for predators	nongold
+99	causing is a kind of affecting	nongold
+100	a worm is a kind of animal	nongold

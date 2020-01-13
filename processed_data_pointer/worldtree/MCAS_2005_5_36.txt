@@ -1,0 +1,102 @@
+Question	Which weather instrument measures air pressure?	question
+Answer	barometer	answer
+0	a barometer is a kind of instrument for measuring air pressure	gold
+1	a barometer is used to measure air pressure	gold
+2	as air pressure increases , the reading on a barometer will rise	nongold
+3	a bar is a kind of object	nongold
+4	air pressure is a property of air; the atmosphere	nongold
+5	instrument means tool	nongold
+6	water pressure is a kind of pressure	nongold
+7	an instrument is a piece of equipment	nongold
+8	extreme means very high in value	nongold
+9	cold  air is usually high in air pressure	nongold
+10	an increase is a kind of change	nongold
+11	high is similar to increase	nongold
+12	air pressure affects wind speed	nongold
+13	a thermometer is a kind of instrument for measuring temperature	nongold
+14	instrument means device	nongold
+15	air is a kind of gas	nongold
+16	gas flows from high pressure area to low pressure area	nongold
+17	high pressure systems cause clear weather	nongold
+18	measuring requires reading a measurement	nongold
+19	a thermometer is used to measure temperature	nongold
+20	as temperature decreases , the air pressure will decrease	nongold
+21	atmosphere means  air	nongold
+22	cloudy conditions cause a low-pressure weather system	nongold
+23	air is a kind of matter	nongold
+24	weather is  a measure of the condition of the air in a place at a certain time	nongold
+25	as altitude increases , air pressure will decrease	nongold
+26	warm air is  usually low  in air pressure	nongold
+27	a decrease is a kind of change	nongold
+28	measuring is used for describing an object	nongold
+29	pressure is a kind of condition	nongold
+30	low is similar to decrease	nongold
+31	to lower means to decrease	nongold
+32	low means down	nongold
+33	increase means more	nongold
+34	measuring is a kind of observing	nongold
+35	calculation means measurement	nongold
+36	to reduce means to decrease	nongold
+37	the air is a kind of substance	nongold
+38	air temperature is a kind of temperature	nongold
+39	gas is a kind of object	nongold
+40	temperature is a property of weather	nongold
+41	low is the opposite of high	nongold
+42	greater means higher; more in value	nongold
+43	property is similar to measurement	nongold
+44	an anemometer is a kind of instrument for measuring wind speed	nongold
+45	a weather report describes weather	nongold
+46	high means a lot of something	nongold
+47	answering questions requires information	nongold
+48	measuring sometimes requires  recording; learning an amount	nongold
+49	seconds ( s; sec ) are a  metric unit used for measuring time generally used for values between 1.0 and 300.0	nongold
+50	a measurement is a kind of data	nongold
+51	gas is a kind of material	nongold
+52	cloudy is a kind of  weather	nongold
+53	seconds are a kind of unit for measuring time	nongold
+54	an anemometer is used to measure wind speed	nongold
+55	a type is synonymous with a kind	nongold
+56	can be means able to be	nongold
+57	to add means to increase	nongold
+58	weather is a property of a environment	nongold
+59	an indicator is made of litmus paper	nongold
+60	low means low in elevation; height; altitude	nongold
+61	a tool is a kind of object	nongold
+62	a source of something emits; produces; generates; provides that something	nongold
+63	the atmosphere is a kind of area	nongold
+64	gas is a kind of substance	nongold
+65	storm is a kind of weather; weather event	nongold
+66	precipitation is a kind of weather	nongold
+67	weather  usually happens in troposphere	nongold
+68	lowering is a kind of motion	nongold
+69	a component means a part of	nongold
+70	a cloud is a kind of weather	nongold
+71	a motion is a kind of event; action	nongold
+72	a meter is a kind of unit for measuring distance; measuring length	nongold
+73	seconds are used to measure time	nongold
+74	an event is a kind of action	nongold
+75	higher means greater; above in value; amount; number	nongold
+76	a change is a kind of event	nongold
+77	meters ( m ) are a  metric; SI unit used for measuring length; distance generally used for values between 1.0 and 1000.0	nongold
+78	gas is a kind of state of matter	nongold
+79	vapor is synonymous with gas	nongold
+80	weather is a source of wind and water for the weathering process	nongold
+81	affected means changed	nongold
+82	wind speed is a property of weather	nongold
+83	air is a part of the environment	nongold
+84	a  gas is a kind of  element	nongold
+85	an increase is the opposite of a decrease	nongold
+86	snowstorm is a kind of weather	nongold
+87	below means lower down	nongold
+88	if a cover is put on in a location , then the  air pressure inside of the bottle will be equal to the air pressure of that location	nongold
+89	a rain gauge is a kind of graduated cylinder	nongold
+90	atmospheric means of the atmosphere	nongold
+91	cold is a kind of weather	nongold
+92	to produce means to create	nongold
+93	to create means to make	nongold
+94	water vapor has an impact on weather conditions associated with an air mass	nongold
+95	temperature; heat energy is a property of objects; weather and includes ordered values of cold; cool; warm; hot	nongold
+96	rainy is a kind of weather	nongold
+97	counter means reduce; stop; resist	nongold
+98	heat means heat energy	nongold
+99	to exhale means to release	nongold

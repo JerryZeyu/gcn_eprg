@@ -1,0 +1,97 @@
+0	A student heated a pan of soup on a stove. While stirring the soup with a metal spoon, the student noticed the spoon became very warm. What is the most likely reason the spoon became warm?	question
+1	being  on something; placed in something; placed over something means touching  that something	gold
+2	soup is a kind of food	gold
+3	a thermal conductor is made of materials that conduct thermal energy	gold
+4	heating means adding heat	gold
+5	a pan;frying pan;pot is used for cooking food by heating food in it on a stove	nongold
+6	if something comes from something else then that something else is a source of that something	nongold
+7	a spoon is a kind of object	gold
+8	if an object is held under a substance then that object is touching that substance	nongold
+9	an object; material; substance comes from that object or material's source	nongold
+10	if an object is made of a material then that object has the properties of that material	gold
+11	a stove generates heat for cooking usually	gold
+12	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	gold
+13	being  on something; placed in something; placed over something means touching  that something	gold
+14	an increase is a kind of change	nongold
+15	a stove generates heat for cooking usually	gold
+16	A student heated a pan of soup on a stove. While stirring the soup with a metal spoon, the student noticed the spoon became very warm. What is the most likely reason the spoon became warm?	question
+17	metal is a thermal; thermal energy conductor	gold
+18	moisture means liquid; liquid water	nongold
+19	transferring is moving from one place to another place	nongold
+20	person is synonymous with human	nongold
+21	hot means high in heat energy; temperature	nongold
+22	a spoon is a kind of object	gold
+23	to conduct is similar to to transfer	gold
+24	a thermal conductor is made of materials that conduct thermal energy	gold
+25	a human is a kind of animal	nongold
+26	a container is a kind of object	gold
+27	transfer is a kind of change	nongold
+28	a pan;frying pan is a kind of container for cooking; food	gold
+29	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	gold
+30	a container is a kind of object	gold
+31	a container contains objects; material; substances	gold
+32	a pan;frying pan is a kind of container for cooking; food	gold
+33	a pan is a kind of object	nongold
+34	boiling;evaporation means matter; a substance changes from a liquid into a gas by increasing heat energy	nongold
+35	a pan;frying pan is a kind of container for cooking; food	gold
+36	if one surface; one substance; one object touches something then one is exposed to that something	gold
+37	pot;pan;frying pan is made of metal for cooking	gold
+38	a stove is used for cooking by generating heat	nongold
+39	heating means adding heat	gold
+40	if a hot object; substance is exposed to; touches a cold object; substance then that object; that substance will likely cool	nongold
+41	transfer is a kind of process	nongold
+42	metal is a kind of material	gold
+43	if a container contains something then that container touches that something	gold
+44	a container contains objects; material; substances	gold
+45	a source of something emits; produces; generates; provides that something	gold
+46	metal is a thermal; thermal energy conductor	gold
+47	metal is a thermal; thermal energy conductor	gold
+48	pot;pan;frying pan is made of metal for cooking	gold
+49	metal is a kind of material	gold
+50	soup is a kind of liquid	nongold
+51	if heat is transferred to an object , then the object will get hot	nongold
+52	A student heated a pan of soup on a stove. While stirring the soup with a metal spoon, the student noticed the spoon became very warm. What is the most likely reason the spoon became warm?	question
+53	if something is places over a heat source then that something is exposed to that heat source	nongold
+54	cooling;colder means removing;reducing;decreasing heat;temperature	nongold
+55	Heat from the soup was transferred to the spoon.	answer
+56	A student heated a pan of soup on a stove. While stirring the soup with a metal spoon, the student noticed the spoon became very warm. What is the most likely reason the spoon became warm?	question
+57	a spoon is a kind of object	gold
+58	a thermal conductor is made of materials that conduct thermal energy	gold
+59	a source of something emits; produces; generates; provides that something	gold
+60	soup is a kind of food	gold
+61	a container is a kind of object	gold
+62	if a container contains something then that container touches that something	gold
+63	a container contains objects; material; substances	gold
+64	being  on something; placed in something; placed over something means touching  that something	gold
+65	Heat from the soup was transferred to the spoon.	answer
+66	Heat from the soup was transferred to the spoon.	answer
+67	condensing means matter; a substance changes from a gas into a liquid by decreasing heat energy	nongold
+68	gas is a kind of state of matter	nongold
+69	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+70	a liquid is a kind of substance	nongold
+71	a source of something emits; produces; generates; provides that something	gold
+72	a source of heat can be used to heat something	nongold
+73	Heat from the soup was transferred to the spoon.	answer
+74	if an object is hot then the surfaces of that object are hot	nongold
+75	metal is a kind of material	gold
+76	soup is a kind of food	gold
+77	if a spoon; an object is used to stir a liquid; mixture then that spoon; that object is touching that liquid; that mixture	gold
+78	if an object is made of a material then that object has the properties of that material	gold
+79	pot;pan;frying pan is made of metal for cooking	gold
+80	to conduct is similar to to transfer	gold
+81	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+82	heat energy is synonymous with thermal energy	nongold
+83	when a cooler object touches a warmer object , thermal conduction occurs	nongold
+84	if a container contains something then that container touches that something	gold
+85	if a thermal conductor; an object is exposed to a source of heat then that conductor; that object may become hot; warm	gold
+86	heating means adding heat	gold
+87	temperature is a measure of heat energy	nongold
+88	if heat is added to a substance then that substance absorbs that heat	nongold
+89	if an object is made of a material then that object has the properties of that material	gold
+90	if one surface; one substance; one object touches something then one is exposed to that something	gold
+91	warmer means greater; higher in temperature; warmth	nongold
+92	thermal conduction is when materials conduct heat through those materials through collision of particles	nongold
+93	a stove generates heat for cooking usually	gold
+94	convert is similar to transfer	nongold
+95	if one surface; one substance; one object touches something then one is exposed to that something	gold
+96	to conduct is similar to to transfer	gold

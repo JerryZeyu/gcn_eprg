@@ -1,0 +1,102 @@
+Question	Which phase of the Moon occurs after a waxing gibbous?	question
+Answer	full moon	answer
+0	a full moon occurs after a waxing gibbous moon	gold
+1	a waxing gibbous is a kind of phase of the moon	gold
+2	a full moon is a kind of phase of the moon	gold
+3	a waning gibbous is a kind of phase of the moon	nongold
+4	lunar phase is synonymous with moon phase	nongold
+5	a new moon occurs 14 days after a full moon	nongold
+6	a waxing crescent is a kind of phase of the moon	nongold
+7	type of moon; kind of moon means moon phase	nongold
+8	a phase of the moon is a kind of state	nongold
+9	the moon revolving around; orbiting the Earth causes the phases of the moon	nongold
+10	the first quarter phase of the moon occurs after the new moon	nongold
+11	a new moon is a kind of phase of the moon	nongold
+12	phase means state	nongold
+13	a lunar eclipse could only occur during a full moon	nongold
+14	a moon phase occurs 28 days after the last time it occurred	nongold
+15	each of the moon's phases occurs once per month	nongold
+16	to happen means to occur	nongold
+17	the Moon is Earth's moon	nongold
+18	a moon phase is a kind of natural event	nongold
+19	a phase change is a kind of physical change	nongold
+20	astronomy is the study of celestial (objects, bodies)	nongold
+21	the moon orbits the Earth	nongold
+22	the moon orbiting the Earth occurs once per month	nongold
+23	a waning crescent is a kind of phase of the moon	nongold
+24	events occur at a specific place; at a specific time; with a specific frequency	nongold
+25	orbiting is a kind of action	nongold
+26	a revolution of the moon around the Earth takes 1; one month	nongold
+27	a planet is a kind of celestial object; body	nongold
+28	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+29	a motion is a kind of event; action	nongold
+30	a moon is a kind of celestial object; body	nongold
+31	a rotation of the moon takes 1; one month	nongold
+32	a revolution occurs when something revolves around something else	nongold
+33	revolving  around something means orbiting that something	nongold
+34	the moon orbiting the Earth occurs approximately 13 times per year	nongold
+35	a different moon phase occurs once per week	nongold
+36	the Moon completes a lunar cycle over a period of 29 days	nongold
+37	Earth is a kind of planet	nongold
+38	a change is a kind of event	nongold
+39	a first quarter is a kind of phase of the moon	nongold
+40	revolving is a kind of motion	nongold
+41	something that happens is a kind of event	nongold
+42	Earth's revolution is a kind of cycle	nongold
+43	take place means happen	nongold
+44	a complete revolution of the Earth around the sun takes 1; one year; solar year; Earth year	nongold
+45	cycles of day and night occur once per day	nongold
+46	an event is a kind of action	nongold
+47	to turn means to change	nongold
+48	moons orbit planets	nongold
+49	a process is a kind of event	nongold
+50	length of time means period of time	nongold
+51	a last quarter is a kind of phase of the moon	nongold
+52	phase changes do not change mass	nongold
+53	period is similar to amount of time	nongold
+54	the new moon is when the dark half of the moon faces the Earth	nongold
+55	the day time is part of one day	nongold
+56	melting is a kind of phase change	nongold
+57	setting is a kind of motion	nongold
+58	the phases of the Moon change the appearance of the Moon	nongold
+59	month is a kind of period of time	nongold
+60	Jupiter is a kind of planet	nongold
+61	Venus has moon-like phases	nongold
+62	rotation is a kind of motion	nongold
+63	the night time is part of one day	nongold
+64	the new moon is when the lighted half of the moon faces the Sun	nongold
+65	months are a kind of unit for measuring time	nongold
+66	a measure of time is a length of time	nongold
+67	temperature changing can cause phase changes	nongold
+68	motion is when moves an object; something to a direction	nongold
+69	gravity causes orbits	nongold
+70	years are a kind of unit for measuring time	nongold
+71	freezing is a kind of phase change	nongold
+72	an increase is a kind of change	nongold
+73	a planet rotating causes cycles of day and night on that planet	nongold
+74	turns is similar to changes	nongold
+75	affected means changed	nongold
+76	all the time means at day and at night	nongold
+77	to change means to cause a change	nongold
+78	a vehicle for something allows; enables that something to occur	nongold
+79	turning is a kind of motion	nongold
+80	rising is a kind of motion	nongold
+81	form means kind	nongold
+82	evaporating is a kind of phase change	nongold
+83	can be means able to be	nongold
+84	a process usually requires all of the stages in that process	nongold
+85	astronomical unit is a measure of distance between Earth and the Sun	nongold
+86	the moon rotates on its axis	nongold
+87	a part of a process means a stage in a process	nongold
+88	event is similar to occurrence	nongold
+89	variable means able to change	nongold
+90	1 year is equal to 12 months	nongold
+91	a Rotation of the Earth on Earth's axis; itself takes 1; one day	nongold
+92	occur is similar to appear	nongold
+93	ability to undergo a phase change is a property of a substance; material	nongold
+94	once means one time	nongold
+95	composed of means made of	nongold
+96	Jupiter is a kind of outer planet	nongold
+97	hours are a kind of unit for measuring time	nongold
+98	days are a kind of unit for measuring time	nongold
+99	revolving is a kind of action	nongold

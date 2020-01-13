@@ -1,0 +1,102 @@
+Question	In one area, a large source of prey for eagles is rabbits. If the number of rabbits suddenly decreases, what effect will it most likely have on the eagles?	question
+Answer	Their numbers will decrease.	answer
+0	an eagle is a kind of predator	gold
+1	killing a living thing decreases the number; population size of that living thing	nongold
+2	an eagle is a kind of bird	nongold
+3	an eagle is a kind of animal	nongold
+4	an eagle is a kind of carnivore	nongold
+5	as  population of prey decreases , the population of predators will  decrease	gold
+6	eagles eat rabbits	gold
+7	harming something has a  negative impact on; effect on that something	nongold
+8	as population of predators increases , the population of prey will decrease in an environment	nongold
+9	as the population of an animal decreases , the population of that animal's source of food will decrease	nongold
+10	as population of predators decreases , the population of prey will increase in an environment	nongold
+11	harming an animal species causes that animal's population to decrease	nongold
+12	if an amount of objects decreases then those objects are fewer in number	nongold
+13	a rabbit is a kind of prey	gold
+14	harming an animal species has a  negative impact on the population size of that species	nongold
+15	impact means effect	nongold
+16	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+17	a rabbit is a kind of mammal	nongold
+18	eating something decreases the amount of that something	nongold
+19	hawks;eagles eat snakes;lizards; rats; rabbits; mice	nongold
+20	a bird is a kind of living thing	nongold
+21	killing means harming something causing death	nongold
+22	to cause means to have an effect	nongold
+23	a rabbit is a kind of animal	nongold
+24	an increase is the opposite of a decrease	nongold
+25	predators eat prey	gold
+26	reproduction increases the number; population of a living thing	nongold
+27	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	nongold
+28	to impact means to affect	nongold
+29	a bird is a kind of animal	nongold
+30	if an organism dies then the population of that organism will decrease	nongold
+31	living things eat their food source	nongold
+32	eagles live in trees	nongold
+33	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+34	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+35	prey is a kind of food for predators	nongold
+36	eagles eat fish	nongold
+37	a predator is a kind of animal	nongold
+38	prey  is a kind of animal	nongold
+39	some birds are predators	nongold
+40	a predator usually kills its prey to eat it	nongold
+41	less is similar to decrease	nongold
+42	to change means to have an effect	nongold
+43	killing means changing a living thing from alive to dead by harming	nongold
+44	if an organism eats something then that something is a source of frood to that organism	nongold
+45	an animal is a member of an animal species	nongold
+46	as the rate of  reproduction decreases , the population will decrease	nongold
+47	an animal is a kind of living thing	nongold
+48	an animal; living thing requires nutrients for survival	nongold
+49	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+50	to reduce means to decrease	nongold
+51	population is a measure of the number of a species in an environment	gold
+52	a predator eats other animals for food	nongold
+53	an organism is a living thing	nongold
+54	hunting; overhunting decreases animal populations	nongold
+55	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+56	a source of something increases the amount of that something	nongold
+57	amount is similar to number	nongold
+58	as the number of offspring an animal has increases , the number of offspring that survive will increase	nongold
+59	low is similar to decrease	nongold
+60	to prey on an animal means to eat that animal	nongold
+61	predators; carnivores; omnivores eat other animals	nongold
+62	as the supply of food in an environment decreases , the population of animals in that environment will decrease	nongold
+63	a living thing is a kind of object	nongold
+64	negative impacts on a species will decrease populations of a species	nongold
+65	an animal is a kind of organism	nongold
+66	negative impact is the opposite of positive impact	nongold
+67	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+68	rabbits eat plants	nongold
+69	eating prey requires catching prey	nongold
+70	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+71	an environment means an area	gold
+72	if members of a species are born; survive then the population of that species increases	nongold
+73	a population is made of one type of organism in an area	nongold
+74	increase means more	nongold
+75	if a new predator begins eating prey then the population of that prey will decrease	nongold
+76	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+77	as the cause of something decreases , that something will decrease	nongold
+78	if a living thing requires something then that something has a positive impact on that living thing	nongold
+79	an increase is a kind of change	nongold
+80	a decrease is a kind of change	nongold
+81	decreasing something negative has a positive impact on a thing	nongold
+82	positive impacts on a species will increase populations of a species	nongold
+83	to lower means to decrease	nongold
+84	high is similar to increase	nongold
+85	harming an organism can cause that organism to die	nongold
+86	a mammal is a kind of animal	nongold
+87	protecting a living thing has a  positive impact on that living thing's survival; health	nongold
+88	fewer means lower; less in number	nongold
+89	to eat means to consume food	nongold
+90	food is what an animal eats	nongold
+91	having no natural predators increases population size	nongold
+92	as the use of something decreases , the use of the source of that something will decrease	nongold
+93	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+94	some rabbits live in forests	nongold
+95	as number of organisms in a group increases , the chance of survival of each organism will increase	nongold
+96	decreasing something positive has a negative impact on a thing	nongold
+97	the decrease of something required by an organism has a negative impact on that organism's survival; that organism's ability	nongold
+98	less is the opposite of more	nongold
+99	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold

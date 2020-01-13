@@ -1,0 +1,102 @@
+0	particles in a liquid are close to each other	nongold
+1	particles in a solid are closer together than particles in a liquid	nongold
+2	a liquid is a kind of fluid	nongold
+3	being pushed together is similar to colliding	nongold
+4	liquid is a kind of state of matter	nongold
+5	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+6	heat is a kind of energy	nongold
+7	a phase change is when matter; a substance changes from one state of matter into another state of matter	nongold
+8	particles in objects are a kind of matter	nongold
+9	particles in a liquid are closer together than particles in a gas	gold
+10	not is similar to the opposite of	nongold
+11	objects are made of materials; substances; matter	nongold
+12	a molecule is a kind of object	nongold
+13	to slow; to slow down decreases speed	nongold
+14	Particles of a liquid are slower and closer together.	answer
+15	heat means heat energy	nongold
+16	heat energy can change the state of matter	nongold
+17	vapor is synonymous with gas	nongold
+18	state of matter is a property of matter and includes ordered values of solid; liquid; gas	nongold
+19	mass is a measure of the amount of matter in an object	nongold
+20	atoms are made of particles	nongold
+21	charged particles are a kind of high-energy particles	nongold
+22	a liquid is a kind of substance	nongold
+23	an increase is the opposite of a decrease	nongold
+24	Matter in the liquid phase has definite volume	nongold
+25	matter is made of molecules	nongold
+26	materials are made of matter	nongold
+27	Matter in the gas phase has variable shape	nongold
+28	mass is a property of objects; matter	nongold
+29	break down is the opposite of put together	nongold
+30	gas is a kind of object	nongold
+31	gas is a kind of nonmetal	nongold
+32	to turn means to change	nongold
+33	together means in a group	nongold
+34	faster means an increase; higher in speed	nongold
+35	a pure substance is made of only one kind of atom; molecule	nongold
+36	a source of something emits; produces; generates; provides that something	nongold
+37	variability of shape; variability of volume is a property of matter and includes values of variable; definite	nongold
+38	a container is a kind of object	nongold
+39	to convert means to change	nongold
+40	to change means to become different	nongold
+41	to be formed by is similar to being produced by	nongold
+42	gas is a kind of state of matter	nongold
+43	variable means able to change	nongold
+44	low is similar to decrease	nongold
+45	can be means able to be	nongold
+46	causing means influencing	nongold
+47	apart is the opposite of together	nongold
+48	plasma is a kind of state of matter	nongold
+49	to add means to increase	nongold
+50	closer means lower; less; a decrease in distance	nongold
+51	speed is a property of an object and includes values of slow; fast	nongold
+52	particles in a solid are slower than particles in a liquid	nongold
+53	Which statement is true about the particles of a liquid compared to the particles of a gas?	question
+54	affected means changed	nongold
+55	matter; materials; substances are made of atoms; particles	nongold
+56	made up of means contains; made of	nongold
+57	particles in a liquid are slower than particles in a gas	gold
+58	substances are made of matter	nongold
+59	comparing requires measuring	nongold
+60	solid is a kind of state of matter	nongold
+61	definite is the opposite of variable	nongold
+62	if two objects are apart from each other then matter is between those two objects	nongold
+63	towards means closer to something	nongold
+64	temperature is a measure of heat energy	nongold
+65	particles in a gas have more kinetic energy than particles in a liquid	nongold
+66	an increase is a kind of change	nongold
+67	gas is a kind of substance	nongold
+68	phase means state	nongold
+69	atoms in a gas move independently of one another	nongold
+70	stay the same means not changing	nongold
+71	fast is the opposite of slow	nongold
+72	a molecule is a kind of particle	nongold
+73	volume is a property of matter	nongold
+74	far is the opposite of close	nongold
+75	gaseous means of gas	nongold
+76	a container contains objects; material; substances	nongold
+77	water is a kind of matter	nongold
+78	to change means to cause a change	nongold
+79	molecules; atoms are constantly; always moving; vibrating in substance;matter	nongold
+80	as the temperature of a substance; of an object decreases , the molecules in that substance will move slower; closer	nongold
+81	high is similar to increase	nongold
+82	counter means reduce; stop; resist	nongold
+83	faster means increased rate	nongold
+84	composed of means made of	nongold
+85	gas is a kind of material	nongold
+86	form means kind	nongold
+87	material means substance	nongold
+88	a  gas is a kind of  element	nongold
+89	near means close	nongold
+90	close means low in distance	nongold
+91	composition is a property of an object; matter	nongold
+92	to be made of something means to be formed of that something	nongold
+93	a particle is a kind of object	nongold
+94	less is similar to decrease	nongold
+95	near; close is the opposite of far; away	nongold
+96	Matter in the liquid phase has variable shape	nongold
+97	Matter in the gas phase has variable volume	nongold
+98	mass; weight is a property of matter; objects; materials	nongold
+99	a decrease is a kind of change	nongold
+100	combustibility is a property of matter and includes ordered values of combustible; incombustible	nongold
+101	extreme means very high in value	nongold

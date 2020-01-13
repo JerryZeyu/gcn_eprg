@@ -1,0 +1,102 @@
+0	Which animal eats only plants?	question
+1	Rabbit	answer
+2	rabbits eat plants	nongold
+3	a rabbit is a kind of animal	gold
+4	a rabbit is a kind of prey	nongold
+5	a rabbit is a kind of mammal	nongold
+6	a rabbit is a kind of herbivore	gold
+7	a plant; living thing requires food for survival	nongold
+8	a plant is a kind of living thing	nongold
+9	an animal is a kind of living thing	nongold
+10	herbivores only eat plants	gold
+11	an animal; living thing requires nutrients for survival	nongold
+12	eating an animal; a plant means killing that animal; that plant	nongold
+13	a plant is a kind of organism	nongold
+14	food is what an animal eats	nongold
+15	diet means what an animal eats	nongold
+16	an animal is a kind of organism	nongold
+17	to eat means to consume food	nongold
+18	squirrels eat edible plants; fruit	nongold
+19	a rabbit cannot fly; climb	nongold
+20	an animal needs to eat food for nutrients	nongold
+21	an organism is a living thing	nongold
+22	vegetation means plants	nongold
+23	green plants provide food for themselves; animals; consumers by performing photosynthesis	nongold
+24	some rabbits live in forests	nongold
+25	eating; taking in food is used to get nutrients;energy by animals; living things	nongold
+26	a predator eats other animals for food	nongold
+27	a hare is similar to a rabbit	nongold
+28	if an organism eats something then that something is a source of frood to that organism	nongold
+29	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+30	predators eat prey	nongold
+31	a deer is a kind of prey	nongold
+32	crops are a kind of edible plant for eating	nongold
+33	a living thing is a kind of object	nongold
+34	a food contains nutrients for living things	nongold
+35	foxes eat rabbits	nongold
+36	eating;digestion is when an organism takes in nutrients from food into itself by eating	nongold
+37	a human is a kind of animal	nongold
+38	a mammal is a kind of animal	nongold
+39	answering questions requires information	nongold
+40	humans eat crops	nongold
+41	if a living thing requires something then that something has a positive impact on that living thing	nongold
+42	a vegetable is a kind of plant	nongold
+43	fur is usually part of a mammal	nongold
+44	eagles eat rabbits	nongold
+45	a hare is a kind of animal	nongold
+46	a predator is a kind of animal	nongold
+47	nonliving; non-living; die is the opposite of living; alive; live	nongold
+48	carnivores only eat animals	nongold
+49	become prey means get eaten	nongold
+50	consumption means use	nongold
+51	living things eat their food source	nongold
+52	green plants are a kind of producer	nongold
+53	to prey on an animal means to eat that animal	nongold
+54	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+55	a deer is a kind of herbivore	nongold
+56	prey is a kind of food for predators	nongold
+57	if an organism makes food for itself then that organism does not need to eat other organisms	nongold
+58	hawks;eagles eat snakes;lizards; rats; rabbits; mice	nongold
+59	In the food chain process an animal has the role of  consumer which eats producers;other animals for food	nongold
+60	An example of seed dispersal is animals eating; excreting seeds	nongold
+61	plants are a part of the environment	nongold
+62	killing means harming something causing death	nongold
+63	an adaptation; an ability has a positive impact on an animal's; living thing's survival; health; ability to reproduce	nongold
+64	a cat is a kind of carnivore	nongold
+65	a deer is a kind of animal	nongold
+66	trait is synonymous with characteristic	nongold
+67	an organism eating is a kind of action	nongold
+68	if a plant dies then that plant will not produce food	nongold
+69	eating prey requires catching prey	nongold
+70	a tree is a kind of plant	nongold
+71	a fox is a kind of animal	nongold
+72	trait means property	nongold
+73	meadow voles eat plants; insects	nongold
+74	wolves eat elk; deer	nongold
+75	survive means live	nongold
+76	survive means live	nongold
+77	In the food chain process a  green plant has the role of  producer	nongold
+78	if an animal eats a crop with something on its surface then that animal will eat the something on the surface	nongold
+79	a source of something emits; produces; generates; provides that something	nongold
+80	insects eat crops	nongold
+81	a plant is a member of a plant species	nongold
+82	a predator usually kills its prey to eat it	nongold
+83	consumers eat other organisms	nongold
+84	an instinctive behavior is a kind of inherited characteristic; behavioral adaptation	nongold
+85	humans sometimes eat seeds	nongold
+86	killing means changing a living thing from alive to dead by harming	nongold
+87	life means living things	nongold
+88	a vegetable is a kind of food	nongold
+89	a human is a kind of mammal	nongold
+90	fur is often part of an animal	nongold
+91	prey  is a kind of animal	nongold
+92	an animal is a kind of consumer	nongold
+93	a plants; living things require water for survival; to grow	nongold
+94	food is a source of energy for animals; plants	nongold
+95	food is a kind of substance	nongold
+96	the  diet of an animal is an inherited characteristic	nongold
+97	animals; living things live and feed in their habitats; near their habitats	nongold
+98	eating something decreases the amount of that something	nongold
+99	dead plants means dead plant material	nongold
+100	an event is a kind of action	nongold
+101	nonliving means not living	nongold

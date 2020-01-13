@@ -1,0 +1,101 @@
+0	manufacture means make	nongold
+1	light is made of photons	nongold
+2	best means most positive	nongold
+3	instrument means device	nongold
+4	a light bulb generates visible light when it is turned on	nongold
+5	wood is a light material	nongold
+6	a light bulb converts electrical energy; electricity into light energy; light energy and heat energy when it is turned on	nongold
+7	a machine is a kind of object	nongold
+8	a light bulb requires electrical energy to produce light	nongold
+9	sunlight is a kind of solar energy	nongold
+10	tool is similar to appliance	nongold
+11	answering questions requires information	nongold
+12	a device is a kind of object	nongold
+13	an invention is a kind of tool	nongold
+14	high is similar to increase	nongold
+15	helping means to assist in a change	nongold
+16	a function is an activity	nongold
+17	a machine is a kind of  device	nongold
+18	a human is a kind of animal	nongold
+19	inventing a tool allows; enables that tool to be used	gold
+20	an animal is a kind of living thing	nongold
+21	a light bulb is a kind of tool for seeing in the dark	gold
+22	most means over 50% of something	nongold
+23	seeing requires light	nongold
+24	helping something has a  positive impact on that something	nongold
+25	undertaking is similar to doing	nongold
+26	making discoveries requires observing	nongold
+27	to discover means to make a discovery	nongold
+28	using an object often requires creating that object	nongold
+29	creating is a kind of activity	nongold
+30	reading	answer
+31	reproducing is a kind of activity	nongold
+32	a human requires new information to invent things	nongold
+33	to help means to aid	nongold
+34	a process is a kind of event	nongold
+35	helping bodily processes has a positive impact on an animal; an animal's health	nongold
+36	a person is a kind of animal	nongold
+37	literacy is when humans can read and write	nongold
+38	to be used for something means to be required by that something	nongold
+39	discovering something usually requires seeing that something	nongold
+40	to make means to invent	nongold
+41	to enable is to help	nongold
+42	some light bulbs convert electrical energy; electricity into light energy and heat energy	nongold
+43	a user is a kind of person	nongold
+44	shiny things; objects reflect light	nongold
+45	a light bulb is a part of a  lamp	nongold
+46	light is a kind of energy	nongold
+47	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+48	a source of something emits; produces; generates; provides that something	nongold
+49	materials are made of matter	nongold
+50	being able to read is a kind of skill	nongold
+51	the function of something is what that something  is used to do	nongold
+52	emit means produce	nongold
+53	an event is a kind of action	nongold
+54	a living thing is a kind of object	nongold
+55	device means tool	nongold
+56	to be used  for something means to help to do that something	nongold
+57	a plant light is used for help plants by mimicking sunlight	nongold
+58	light means light energy	nongold
+59	technology is similar to tool	nongold
+60	light bulb filaments are made of tungsten usually	nongold
+61	instrument means tool	nongold
+62	an incandescent light bulb converts electrical energy; electricity into light energy and heat energy by sending electricity through a filament	nongold
+63	Thomas Edison invented the light bulb	nongold
+64	a light bulb is used for seeing in the dark	gold
+65	if something; an invention; a discovery is invented; discovered then that something; that invention; that discovery can be used	nongold
+66	light is a kind of wave	nongold
+67	sunlight is a kind of light	nongold
+68	reading  requires seeing	gold
+69	adding is a kind of activity	nongold
+70	person is synonymous with human	nongold
+71	action means activity	nongold
+72	material means substance	nongold
+73	a flashlight emits light	nongold
+74	largest amount means most	nongold
+75	substances are made of matter	nongold
+76	literacy is a kind of skill for reading and writing	nongold
+77	to illuminate means to light up	nongold
+78	an animal is a kind of organism	nongold
+79	light is a kind of energy	nongold
+80	to help; to benefit means to be of use	nongold
+81	a tool is a kind of object	nongold
+82	if an object is made of a material then that object has the properties of that material	nongold
+83	Which activity has the invention of the light bulb helped the most?	question
+84	reading is a kind of activity	gold
+85	UV light is a kind of light	nongold
+86	a light bulb is a kind of electrical device	nongold
+87	when electricity flows to a light bulb , the light bulb will turn on; come on	nongold
+88	the heat energy produced by the light bulb is not used	nongold
+89	a book is a kind of object	nongold
+90	increase means more	nongold
+91	matter; materials; substances are made of atoms; particles	nongold
+92	looking is a kind of activity	nongold
+93	becoming is a kind of action	nongold
+94	objects are made of materials; substances; matter	nongold
+95	humans usually develop inventions that they require	nongold
+96	developing means creating; inventing	nongold
+97	combustion is a kind of activity	nongold
+98	to be helpful means to help to do	nongold
+99	helping means something can be done; completed more easily; better	nongold
+100	light bulb means lightbulb	nongold

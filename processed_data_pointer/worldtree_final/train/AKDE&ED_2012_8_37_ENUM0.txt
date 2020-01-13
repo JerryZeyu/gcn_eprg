@@ -1,0 +1,102 @@
+0	larger means greater; higher; more; increase in size	gold
+1	bright means a lot of light	nongold
+2	studying is similar to observing	nongold
+3	as distance from an object decreases , the the pull of gravity on that object increases	nongold
+4	apparent magnitude is a measure of the brightness of a celestial object; celestial body as observed on Earth	nongold
+5	shrinking decreases size	nongold
+6	studying  something usually requires seeing that something	nongold
+7	the sun is average in size for a star in our galaxy	nongold
+8	sunlight is a kind of light	nongold
+9	greater means higher; more in value	nongold
+10	stellar means related to stars	nongold
+11	to lower means to decrease	nongold
+12	as the size of a source of something increases , the amount of the something that that source produces will decrease	nongold
+13	Earth is the planet that is third closest to the  Sun	nongold
+14	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+15	higher means greater; above in value; amount; number	nongold
+16	greatest means largest; highest; most amount of something	nongold
+17	less is similar to decrease	gold
+18	the Sun has average brightness compared to other stars	nongold
+19	dimmer means less bright	nongold
+20	small is the opposite of large	nongold
+21	brightness is a property of a light source	nongold
+22	closer means lower; less; a decrease in distance	gold
+23	if something emits something else then that something increases the amount of that something else	nongold
+24	two objects are usually different in size	nongold
+25	shorter means smaller; less in  height	nongold
+26	definite is the opposite of variable	nongold
+27	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+28	the Sun is a kind of star	nongold
+29	mass; weight are the same on Earth	nongold
+30	opposite is a kind of different	nongold
+31	a star produces light and heat	gold
+32	expand means increase in size	nongold
+33	astronomy is the study of celestial (objects, bodies)	nongold
+34	distant means great in distance	nongold
+35	growing larger is when size increases	nongold
+36	as the cause of something decreases , that something will decrease	nongold
+37	another means different	nongold
+38	the properties of something are used for describing that something	nongold
+39	as distance to an object increases , that object will appear smaller	nongold
+40	less is the opposite of more	nongold
+41	largest means greatest in size	nongold
+42	an increase is a kind of change	gold
+43	as distance from a source of light increases , that source of  light will appear dimmer	nongold
+44	a star is made of gases	nongold
+45	massive is similar to large	nongold
+46	the sun is a source of light; light energy called sunlight	nongold
+47	little means small	nongold
+48	gravity means gravitational pull; gravitational energy; gravitational force; gravitational attraction	nongold
+49	as distance from a source of something increases , that something will decrease	nongold
+50	a star is usually larger than a planet	nongold
+51	high is similar to increase	gold
+52	An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?	question
+53	a change is a kind of difference	nongold
+54	identical is the opposite of different	nongold
+55	stars are located light years apart from each other	nongold
+56	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+57	Star X is larger than star Y.	answer
+58	as distance from an object decreases , that object will appear larger	nongold
+59	low is the opposite of high	gold
+60	smaller means less; lower in size	nongold
+61	size is an extensive property	nongold
+62	little is similar to decrease	nongold
+63	the sun is  the largest celestial body in our solar system	nongold
+64	length is a part of size	nongold
+65	wider means greater in width	nongold
+66	different is the opposite of the same	gold
+67	both means two	nongold
+68	as amount; size of something increases , the intensive properties of that something will not change	nongold
+69	to change means to become different	gold
+70	the sun is a source of radiation; heat called sunlight	nongold
+71	the Earth revolving around the sun causes stars to appear  in different areas in the sky at different times of year	nongold
+72	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	nongold
+73	as a source of light becomes closer , that source will appear brighter	gold
+74	increase means more	nongold
+75	near; close is the opposite of far; away	nongold
+76	a source of something increases the amount of that something	nongold
+77	decreasing is similar to becoming smaller	nongold
+78	dimmer is the opposite of brighter	nongold
+79	if a star runs out of hydrogen , it becomes hotter; more luminous	nongold
+80	low is similar to decrease	nongold
+81	a star's type is determined by the star's mass	nongold
+82	larger; bigger is the opposite of smaller	nongold
+83	a decrease is a kind of change	gold
+84	as the size of a source of light increases , that source of light will appear brighter	gold
+85	taller means greater in height; size	nongold
+86	Earth is greater in mass than Mars	nongold
+87	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+88	same means identical; equal in value; amount; number; quantity	nongold
+89	mass is similar to size	nongold
+90	a star's surface temperature causes the star's  color	nongold
+91	brightness means amount of light	nongold
+92	larger is a kind of difference	nongold
+93	far means great in distance	nongold
+94	an increase is the opposite of a decrease	nongold
+95	stars can be classified by temperature; color; chemical composition; brightness	nongold
+96	brighter means higher; greater in brightness	nongold
+97	a star is a kind of celestial object; celestial body	nongold
+98	size difference is a kind of difference	nongold
+99	brightness is a kind of property	nongold
+100	Earth is a kind of planet	nongold
+101	bright means bright; light in color	nongold

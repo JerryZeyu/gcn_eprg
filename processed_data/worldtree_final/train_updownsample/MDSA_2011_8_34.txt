@@ -1,0 +1,87 @@
+0	contaminated means polluted	gold
+1	an aquatic animal is a kind of animal	gold
+2	an animal is a kind of living thing	gold
+3	a human is a kind of animal	gold
+4	if something affects a part of something else then that something affects that something else	nongold
+5	an organism is a living thing	gold
+6	person is synonymous with human	gold
+7	an aquatic animal is a kind of animal	gold
+8	living things in a polluted environment often contain pollutants	gold
+9	to belong to a group means to be a kind of something	nongold
+10	a bay is a kind of body of water	gold
+11	if something releases something else then that something is the source of that something else	nongold
+12	a fish lives in water	gold
+13	An example of protecting the environment is reducing the amount of waste; the amount of pollutants	nongold
+14	pollution is a source of pollutants	nongold
+15	animals are a source of carbon dioxide by exhaling	nongold
+16	a fish lives in water	gold
+17	a human is a kind of animal	gold
+18	harming an animal species has a  negative impact on the population size of that species	nongold
+19	polluting gasses are a kind of pollution	nongold
+20	an organism is a living thing	gold
+21	a body of water is a kind of environment	gold
+22	predators eat prey	nongold
+23	to eat means to consume food	gold
+24	to impact means to affect	gold
+25	humans sometimes eat fish	gold
+26	living things eat their food source	nongold
+27	an animal; living thing requires nutrients for survival	nongold
+28	people who consume fish from the bay	answer
+29	an organism is a living thing	gold
+30	fish is a kind of meat	nongold
+31	contaminated means polluted	gold
+32	to impact means to affect	gold
+33	causing is a kind of affecting	nongold
+34	living things in a polluted environment often contain pollutants	gold
+35	if an animal eats another animal then that animal is a carnivore or omnivore or predator	nongold
+36	Data indicate that chemical pollutants contaminate 53% of the waterways that empty into the Chesapeake Bay. These chemical pollutants are found in the tissues of animals living in the bay. Which group of people who live away from the bay might be most affected by these chemical pollutants?	question
+37	to be found in means to be contained in	nongold
+38	a body of water is a kind of environment	gold
+39	impact means effect	nongold
+40	a fish lives in water	gold
+41	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+42	person is synonymous with human	gold
+43	a body of water is a kind of environment	gold
+44	a positive impact is  a benefit	nongold
+45	a human is a kind of animal	gold
+46	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	gold
+47	to impact means to affect	gold
+48	decreasing something negative has a positive impact on a thing	nongold
+49	a fish is a kind of animal	nongold
+50	humans sometimes eat fish	gold
+51	ocean is a source of wild fish for human populations	nongold
+52	to eat means to consume food	gold
+53	an aquatic animal is a kind of animal	gold
+54	ocean animal is similar to water animal	nongold
+55	Data indicate that chemical pollutants contaminate 53% of the waterways that empty into the Chesapeake Bay. These chemical pollutants are found in the tissues of animals living in the bay. Which group of people who live away from the bay might be most affected by these chemical pollutants?	question
+56	something harmful can cause harm	nongold
+57	an animal is a member of an animal species	nongold
+58	people who consume fish from the bay	answer
+59	negative impact is the opposite of positive impact	nongold
+60	harming an animal species causes that animal's population to decrease	nongold
+61	a fish is a kind of aquatic animal	gold
+62	contaminated means polluted	gold
+63	a bay is a kind of body of water	gold
+64	polluting means something harmful; something poisonous is added in an environment causes harm in the environment	nongold
+65	person is synonymous with human	gold
+66	if something is made by something else then that something is affected by that something else	nongold
+67	Data indicate that chemical pollutants contaminate 53% of the waterways that empty into the Chesapeake Bay. These chemical pollutants are found in the tissues of animals living in the bay. Which group of people who live away from the bay might be most affected by these chemical pollutants?	question
+68	fish eat insects	nongold
+69	Data indicate that chemical pollutants contaminate 53% of the waterways that empty into the Chesapeake Bay. These chemical pollutants are found in the tissues of animals living in the bay. Which group of people who live away from the bay might be most affected by these chemical pollutants?	question
+70	a fish is a kind of aquatic animal	gold
+71	an animal is a kind of living thing	gold
+72	to eat means to consume food	gold
+73	to be a source of something means to cause that something	nongold
+74	a source of something emits; produces; generates; provides that something	nongold
+75	people who consume fish from the bay	answer
+76	an animal is a kind of living thing	gold
+77	a fish is a kind of aquatic animal	gold
+78	a pollutant is a kind of substance	nongold
+79	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	gold
+80	living things in a polluted environment often contain pollutants	gold
+81	fishing is when a human kills; catches fish for food	nongold
+82	humans sometimes eat fish	gold
+83	where something  comes from is a source of that something	nongold
+84	a bay is a kind of body of water	gold
+85	eating something that contains pollutants has a negative impact on an organism's survival; health; ability to reproduce	gold
+86	people who consume fish from the bay	answer

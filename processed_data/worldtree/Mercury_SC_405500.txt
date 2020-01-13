@@ -1,0 +1,102 @@
+Question	Many people throw away almost five pounds of trash each day. How could everyone decrease the amount of trash thrown away daily?	question
+Answer	recycle materials	answer
+0	daily means every day; once per day	nongold
+1	to discard means to throw away	nongold
+2	everyday means daily	nongold
+3	to recycle means return	nongold
+4	if a human discards an object then that object will become waste	nongold
+5	trash is synonymous with waste	gold
+6	recyclable means a material can be recycled	nongold
+7	garbage means waste	nongold
+8	take away means decreasing	nongold
+9	an increase is the opposite of a decrease	nongold
+10	recycling reduces; decreases the amount of waste sent to landfills	gold
+11	person is synonymous with human	nongold
+12	destroying something decreases the amount of that something	nongold
+13	to reduce means to decrease	nongold
+14	recycling means reusing	nongold
+15	monthly means once per month	nongold
+16	recycling is similar to reusing	nongold
+17	less is similar to decrease	nongold
+18	to lower means to decrease	nongold
+19	a decrease is a kind of change	nongold
+20	a person is a kind of animal	nongold
+21	as the time a tool lasts increases , the number of tools discarded will decrease	nongold
+22	recycling has a  positive impact on the environment	nongold
+23	low is similar to decrease	nongold
+24	recycling is a kind of method of disposal	nongold
+25	recycling reduces the resources needed to make something	nongold
+26	as the cause of something decreases , that something will decrease	nongold
+27	humans discarding waste in an environment causes harm to that environment	nongold
+28	a human is a kind of animal	nongold
+29	decreasing something negative has a positive impact on a thing	nongold
+30	An example of recycling is using an object to make a new object	nongold
+31	recycling is a kind of action	nongold
+32	negative impact is the opposite of positive impact	nongold
+33	if the amount of; quantity of something stops decreasing then the amount of; quantity of that something may  increase	nongold
+34	all living things eliminate waste	nongold
+35	human waste often causes harm to an environment	nongold
+36	using raw materials increases waste	nongold
+37	an increase is a kind of change	nongold
+38	high is similar to increase	nongold
+39	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+40	less means a reduced amount	nongold
+41	recycling means using over again	nongold
+42	harming something has a  negative impact on; effect on that something	nongold
+43	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+44	decreasing something positive has a negative impact on a thing	nongold
+45	waste has a  negative impact on the environment	nongold
+46	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+47	greatest means largest; highest; most amount of something	nongold
+48	increase means more	nongold
+49	if an amount of objects decreases then those objects are fewer in number	nongold
+50	little is similar to decrease	nongold
+51	objects are made of materials; substances; matter	nongold
+52	reducing is a kind of change	nongold
+53	most means over 50% of something	nongold
+54	remove means decrease	nongold
+55	if something emits something else then that something increases the amount of that something else	nongold
+56	a pound is a kind of unit for measuring mass	nongold
+57	An example of avoiding waste is using an object; a material more than once	nongold
+58	a source of something increases the amount of that something	nongold
+59	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+60	if something has a positive impact on something else then increasing the amount of that something has a positive impact on that something else	nongold
+61	dust is a kind of material	nongold
+62	a material is a kind of resource	nongold
+63	humans move waste to a  landfill for disposal;storage	nongold
+64	replacing is similar to recycling	nongold
+65	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+66	reusing is similar to using many times	nongold
+67	dead organisms are a kind of waste	nongold
+68	once per means every	nongold
+69	losing something decreases the amount of that something	nongold
+70	helping something has a  positive impact on that something	nongold
+71	damage has a negative impact on a thing	nongold
+72	requiring is similar to needing help	nongold
+73	a process is a kind of event	nongold
+74	materials are made of matter	nongold
+75	less is the opposite of more	nongold
+76	a trashcan contains trash; garbage; waste	nongold
+77	deplete is similar to decrease	nongold
+78	a weight is a kind of object	nongold
+79	change is a kind of impact	nongold
+80	waste must be removed	nongold
+81	dumping something in an environment means adding that something to that environment	nongold
+82	accumulation means increase	nongold
+83	paper is a kind of material	nongold
+84	if there is a loss of something then that something decreases	nongold
+85	to limit means to decrease	nongold
+86	a lot means large in amount; quantity	nongold
+87	metal is a kind of material	nongold
+88	a source of something emits; produces; generates; provides that something	nongold
+89	if an object is made of a material then that object has the properties of that material	nongold
+90	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+91	impact means effect	nongold
+92	processes sometimes produce waste products	nongold
+93	solution is similar to a positive impact	nongold
+94	an object; material; substance comes from that object or material's source	nongold
+95	largest amount means most	nongold
+96	to depend on; to rely on; to need means to require	nongold
+97	destroying something causes harm to that something	nongold
+98	too much is similar to increase	nongold
+99	a negative impact is a kind of consequence; risk	nongold

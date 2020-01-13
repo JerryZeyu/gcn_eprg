@@ -1,0 +1,102 @@
+0	to reduce means to decrease	nongold
+1	adverse effect means negative impact	nongold
+2	removing a forest means cutting down a forest	nongold
+3	recycling reduces the resources needed to make something	gold
+4	if something has a negative impact on something else then increasing the amount of that something has a negative impact on that something else	nongold
+5	paper is a kind of material	nongold
+6	decreasing something negative has a positive impact on a thing	nongold
+7	using recycled paper reduces the cutting of new trees.	answer
+8	impact means effect	nongold
+9	recyclable means a material can be recycled	nongold
+10	change is a kind of impact	nongold
+11	Recycling of a resource, such as paper, is important because	question
+12	if something is a raw material in a process then that something is required for that process	nongold
+13	creating wood-free paper does not require cutting down trees	nongold
+14	An example of avoiding waste is using an object; a material more than once	nongold
+15	to impact means to affect	nongold
+16	helping something has a  positive impact on that something	nongold
+17	recycling is similar to reusing	nongold
+18	an increase is a kind of change	nongold
+19	a paper is a kind of object	nongold
+20	a tree can be replaced by planting a new tree each time one is cut down	nongold
+21	replacing something causes that something to decrease	nongold
+22	recyclability is a property of a material and includes ordered values of nonrecyclable; recyclable	nongold
+23	a positive impact is a helpful effect	nongold
+24	less is similar to decrease	nongold
+25	wasting  a resource harms that resource	nongold
+26	a tree is a kind of living thing	nongold
+27	creating paper requires cutting down trees	gold
+28	using resources decreases those resources	nongold
+29	cutting means changing the object from a whole into smaller pieces	nongold
+30	to lower means to decrease	nongold
+31	if a resource is limited in supply then that resource should be recycled	nongold
+32	cutting down trees has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+33	building usually requires cutting down trees	nongold
+34	to be used for something means to be required by that something	nongold
+35	logging is when humans cut down trees; forests for wood	nongold
+36	high is similar to increase	nongold
+37	requiring is similar to needing help	nongold
+38	trees are a kind of resource	gold
+39	low is similar to decrease	nongold
+40	paper is not durable	nongold
+41	using less of a resource increases the availability of that resource	nongold
+42	an increase is the opposite of a decrease	nongold
+43	waste has a  negative impact on the environment	nongold
+44	timber companies cut down trees	nongold
+45	solution is similar to a positive impact	nongold
+46	recycling is a kind of action	nongold
+47	a renewable resource is a kind of naturally replaced resource	nongold
+48	a required resource being low in availability has a negative impact on the something  that requires that resource	nongold
+49	using less resources usually causes money to be saved	nongold
+50	recycling reduces; decreases the amount of waste sent to landfills	nongold
+51	loss means reduction	nongold
+52	cutting down trees in a forest causes the number of trees to decrease in that forest	nongold
+53	a material is a kind of resource	nongold
+54	making something requires resources	nongold
+55	using raw materials increases waste	nongold
+56	trees are a renewable resource	nongold
+57	replacing is similar to recycling	nongold
+58	harvesting is a kind of using	nongold
+59	planting trees is the opposite of cutting down trees	nongold
+60	green plants are a kind of producer	nongold
+61	wood is a renewable resource	nongold
+62	roots are a part of a plant; tree	nongold
+63	trees are a kind of natural resource	nongold
+64	An example of recycling is using an object to make a new object	nongold
+65	a decrease is a kind of change	nongold
+66	a tree is a kind of plant	nongold
+67	as the cause of something decreases , that something will decrease	nongold
+68	removing a forest means cutting down the trees in that forest	nongold
+69	if something requires something else then that something else is important to that something	nongold
+70	removing trees is a kind of task	nongold
+71	recycling resources; nonrenewable resources has a  positive impact on the environment; conservation of those resources	nongold
+72	if something has a positive impact on something else then that something is important to that something else	nongold
+73	plants are a kind of resource	nongold
+74	if something is required for a process then that something positively impacts that process	nongold
+75	less means a reduced amount	nongold
+76	if something causes a process then that something is required for that process	nongold
+77	remove means decrease	nongold
+78	waste must be removed	nongold
+79	counter means reduce; stop; resist	nongold
+80	as the amount of a source of something decreases , the amount of that something will decrease	nongold
+81	if a tree is cut down then that tree will die	nongold
+82	An example of replacing a natural resource is planting new trees where a forest once stood	nongold
+83	requiring too much of a resource has a negative impact on the availiability of that resource	nongold
+84	using less of a resource means conserving that resource	nongold
+85	paper is recyclable	nongold
+86	decreasing something positive has a negative impact on a thing	nongold
+87	as the use of something decreases , the use of the source of that something will decrease	nongold
+88	loss is similar to removal	nongold
+89	a plant is a kind of living thing	nongold
+90	to help; to benefit means to be of use	nongold
+91	all living things eliminate waste	nongold
+92	wood is a kind of resource	nongold
+93	recycling has a  positive impact on the environment	gold
+94	wasting a resource is reducing the amount  of that resource without using that resource	nongold
+95	reducing is a kind of change	nongold
+96	negative impact is the opposite of positive impact	nongold
+97	cutting down a forest means cutting down the trees in that forest	nongold
+98	trees are a source of paper	gold
+99	if a living thing is destroyed then the resources used by that living thing will become available	nongold
+100	recycling means using over again	nongold
+101	recycling means reusing	nongold

@@ -1,0 +1,102 @@
+Question	When an octopus feels threatened, it can release black ink into the water. The ink MOST likely helps the octopus	question
+Answer	hide from predators.	answer
+0	ink is used for hiding from predators by octopuses	gold
+1	an octopus is a kind of animal	nongold
+2	hiding is a kind of protection against predators; from predators	gold
+3	octopuses releasing ink into the water causes predators to have difficulty seeing the octopus	gold
+4	camouflage is used for protection; hiding by prey; animals against predators; from predators	nongold
+5	hiding can be used for avoiding predators	nongold
+6	an threat threatens	nongold
+7	an aquatic animal is a kind of animal	nongold
+8	an animal is a kind of living thing	nongold
+9	avoiding predators; escaping predators; avoiding consumers is a kind of protection	nongold
+10	camouflage is a kind of protection against predators; from predators; against consumers	nongold
+11	a predator is a kind of animal	nongold
+12	avoiding predators has a positive impact on prey's; an organism's survival; health; ability to reproduce	nongold
+13	helping something has a  positive impact on that something	gold
+14	aquatic animal means water animal	nongold
+15	to help; to benefit means to be of use	gold
+16	a living thing is a kind of object	nongold
+17	an animal is a kind of organism	nongold
+18	to be used  for something means to help to do that something	nongold
+19	hiding means visibility; ability to be seen decreases for camouflage	gold
+20	harm means danger	nongold
+21	to be released is similar to escape	nongold
+22	to emit means to release	nongold
+23	prey  is a kind of animal	nongold
+24	water is a kind of object	nongold
+25	danger has a negative impact on a thing	nongold
+26	animals; living things require water for survival	nongold
+27	if an object is black then that object absorbs all visible light; heat	nongold
+28	harming something has a  negative impact on; effect on that something	nongold
+29	a body of water is a source of water	nongold
+30	water is a kind of substance	nongold
+31	a body of water is a kind of environment	nongold
+32	threatening the existence of an organism has a negative impact on that organism	nongold
+33	a fish is a kind of predator	nongold
+34	protecting a living thing has a  positive impact on that living thing's survival; health	gold
+35	avoiding  predators is synonymous with avoiding being eaten	nongold
+36	ocean animal is similar to water animal	nongold
+37	An example of camouflage is when something is; has the same color as its environment	nongold
+38	carnivores; omnivores are predators	nongold
+39	water is a part of an environment	nongold
+40	an ocean is a kind of body of water	nongold
+41	to be in danger means to be around; to be near something dangerous	nongold
+42	color is a kind of physical; visual property	nongold
+43	requiring is similar to needing help	nongold
+44	to hurt means to harm	nongold
+45	moisture means liquid; liquid water	nongold
+46	aquatic animals; plants live in bodies of water	nongold
+47	an organism is a living thing	nongold
+48	a deep sea animal is a kind of marine organism	nongold
+49	a fish lives in water	nongold
+50	if a living thing requires something then that something has a positive impact on that living thing	nongold
+51	water is a kind of liquid at room temperature	nongold
+52	a fish is a kind of aquatic animal	nongold
+53	color is a property of  an object; a material	nongold
+54	killing means harming something causing death	nongold
+55	black is a kind of color	nongold
+56	a body of water contains water	nongold
+57	escape means avoid	nongold
+58	most predators live in; live near the same environment as their prey	nongold
+59	camouflage is a kind of adaptation for hiding in an environment	nongold
+60	a human is a kind of animal	nongold
+61	to protect means to make safe	nongold
+62	camouflage can be used for hunting for prey; food	nongold
+63	disguise means  changing appearance to hide	nongold
+64	answering questions requires information	nongold
+65	a fish is a kind of animal	nongold
+66	a predator is a kind of enemy to its prey	nongold
+67	predators; carnivores; omnivores eat other animals	nongold
+68	something dangerous can cause harm	nongold
+69	An example of being careful is avoiding danger	nongold
+70	an aquatic animal; aquatic plant requires great amounts of water to survive; thrive	nongold
+71	a predator avoiding some types of prey is a learned behavior	nongold
+72	prey is a kind of food for predators	nongold
+73	something hard; something strong can be used for protection	nongold
+74	releasing something overboard a ship causes that something to be in the water	nongold
+75	a predator eats other animals for food	nongold
+76	protecting something means preventing harm to that something	nongold
+77	to enable is to help	nongold
+78	killing means changing a living thing from alive to dead by harming	nongold
+79	sharks live in oceans	nongold
+80	become prey means get eaten	nongold
+81	something that contains water is similar to a body of water	nongold
+82	black is dark in color	nongold
+83	an animal; living thing requires nutrients for survival	nongold
+84	if something releases something else then that something is the source of that something else	nongold
+85	a danger is dangerous	nongold
+86	predators eat prey	nongold
+87	some animals move quickly to escape predators	nongold
+88	water is a kind of matter	nongold
+89	helping means to assist in a change	nongold
+90	black objects absorbs the most sunlight	nongold
+91	producing is similar to releasing	nongold
+92	An example of camouflage is when an organism looks like its environment	nongold
+93	a reptile is a kind of animal	nongold
+94	water is a kind of natural resource	nongold
+95	water is a kind of natural resource	nongold
+96	high is similar to increase	nongold
+97	to help means to aid	nongold
+98	something harmful can cause harm	nongold
+99	organism requires liquid water to survive	nongold

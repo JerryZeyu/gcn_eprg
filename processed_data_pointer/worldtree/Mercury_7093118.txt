@@ -1,0 +1,102 @@
+Question	Gasoline for cars is produced from fossil fuels. Using gasoline can most likely lead to which environmental problem?	question
+Answer	global warming	answer
+0	global warming is a kind of environmental problem	gold
+1	a car is a kind of vehicle	nongold
+2	a problem has a negative impact on a thing	nongold
+3	a concern; a problem is a possible negative impact	nongold
+4	an automobile is a kind of vehicle	nongold
+5	a car is a kind of automobile	nongold
+6	using a car causes pollution	nongold
+7	to lead to means to cause	gold
+8	using a gasoline engine requires burning  gasoline	nongold
+9	problem is similar to issue	nongold
+10	gasoline is a kind of fuel	nongold
+11	using gasoline is a source of carbon dioxide	gold
+12	using the fuel requires burning the fuel	nongold
+13	burning gasoline; oil is a source of air pollution	nongold
+14	pollution is a kind of environmental problem	nongold
+15	global warming is when worldwide temperature increases	nongold
+16	oil is a source of gasoline	nongold
+17	gases released during the use of fossil fuels causes global warming	gold
+18	operating an automobile usually requires fossil fuels	nongold
+19	causing problems is a kind of negative impact	nongold
+20	a car is a kind of object	nongold
+21	automobiles; industrialization are a source of carbon dioxide	nongold
+22	vehicles usually require gasoline to operate	nongold
+23	burning gasoline is a source of  heat energy	nongold
+24	a fossil fuel is a kind of natural resource	nongold
+25	a car engine is a source of heat	nongold
+26	a car engine is a part of a car	nongold
+27	an engine is a part of an automobile	nongold
+28	greenhouse gases building up can cause global warming	nongold
+29	oil is a kind of fossil fuel	nongold
+30	impact means effect	nongold
+31	pollution has a negative impact on the environment; air quality; water quality; society	nongold
+32	natural gas is a kind of fossil fuel	nongold
+33	address a problem means reduce a problem	nongold
+34	adverse effect means negative impact	nongold
+35	fossil fuels are a nonrenewable resource	nongold
+36	a source of something emits; produces; generates; provides that something	nongold
+37	to produce means to provide	nongold
+38	make means produce	nongold
+39	fossil fuels burning causes pollution	nongold
+40	producing is a kind of process	nongold
+41	if something comes from something else then that something else is a source of that something	nongold
+42	emit means produce	nongold
+43	a internal combustion engine; car engine; automobile engine usually converts fuel into kinetic energy and heat energy through combustion	nongold
+44	negative impact is the opposite of positive impact	nongold
+45	harming something has a  negative impact on; effect on that something	nongold
+46	oil is a nonrenewable resource	nongold
+47	solution is similar to a positive impact	nongold
+48	an object; material; substance comes from that object or material's source	nongold
+49	to impact means to affect	nongold
+50	a negative impact is a kind of consequence; risk	nongold
+51	gasoline is a source of chemical energy	nongold
+52	as the use of alternative fuels increases , the use of gasoline will decrease	nongold
+53	the automobile is a kind of technology	nongold
+54	producing is similar to causing	nongold
+55	a climate is synonymous with an environment	nongold
+56	if something is required for a process then that something positively impacts that process	nongold
+57	renewable is the opposite of nonrenewable	nongold
+58	an environment means an area	nongold
+59	a producer is a kind of living thing	nongold
+60	if something causes a process then that something is required for that process	nongold
+61	to be used for something means to be required by that something	nongold
+62	natural gas is a nonrenewable resource	nongold
+63	to cause means to make	nongold
+64	to cause means to have an effect	nongold
+65	converting is similar to producing	nongold
+66	to cause something means to contribute to that something happening	nongold
+67	an automobile engine converts chemical energy into mechanical energy and heat energy	nongold
+68	a vehicle is a kind of object	nongold
+69	consumption means use	nongold
+70	to cause an event is similar to being involved in that event	nongold
+71	humans changing ecosystems;environments usually has a  negative impact on an ecosystem; organisms living in an ecosystem	nongold
+72	helping something has a  positive impact on that something	nongold
+73	gasoline is a kind of chemical power source	nongold
+74	to cause an event means to make that event more likely	nongold
+75	to change means to cause a change	nongold
+76	to change means to have an effect	nongold
+77	to help; to benefit means to be of use	nongold
+78	to be a source of something means to cause that something	nongold
+79	harming an environment causes harm to the living things; to the organisms in that environment	nongold
+80	fossil fuels are a kind of energy resource	nongold
+81	where something  comes from is a source of that something	nongold
+82	to add means to increase	nongold
+83	many vehicles emit pollution into the air	nongold
+84	organisms are a part of an environment	nongold
+85	acquiring fossil fuels is dangerous for the environment	nongold
+86	to produce means to create	nongold
+87	generate means produce	nongold
+88	high is similar to increase	nongold
+89	the atmosphere is a part of nature; the environment	nongold
+90	processes sometimes produce waste products	nongold
+91	alternative fuel is usually a renewable resource	nongold
+92	change is a kind of impact	nongold
+93	to contribute is similar to produce	nongold
+94	temperature is a measure of heat energy	nongold
+95	powering is similar to fueling	nongold
+96	often is similar to likely	nongold
+97	petroleum is a kind of fossil fuel	nongold
+98	An example of conservation is not using fossil fuel	nongold
+99	to keep a process or event happening is similar to causing that process or event to happen	nongold

@@ -1,0 +1,102 @@
+0	A paper bag is ripped into pieces. Which of these BEST describes the pieces of the bag?	question
+1	Smaller than the whole bag	answer
+2	a piece of an object is smaller in size than the whole object	gold
+3	a paper bag is a kind of object	gold
+4	an part of an object is smaller than the entire object	nongold
+5	larger means greater; higher; more; increase in size	nongold
+6	smaller means less; lower in size	nongold
+7	the volume of an object can be used to describe  the size of that object	nongold
+8	largest means greatest in size	nongold
+9	tearing means changing a whole into pieces	gold
+10	a piece is a part of a whole	nongold
+11	larger; bigger is the opposite of smaller	nongold
+12	small is the opposite of large	nongold
+13	tearing means  ripping	gold
+14	to break down means to break into smaller pieces	nongold
+15	a piece of something is a kind of object	nongold
+16	greatest means largest; highest; most amount of something	nongold
+17	tearing an object changes that object's shape	nongold
+18	break down means change from a whole into pieces	nongold
+19	a paper is a kind of object	nongold
+20	size is a property of objects and includes ordered values of microscopic; tiny; small; medium; large	gold
+21	paper is a kind of material	nongold
+22	length is a part of size	nongold
+23	tearing is a kind of damage	nongold
+24	an object is made of its parts	nongold
+25	decreasing is similar to becoming smaller	nongold
+26	cutting means changing the object from a whole into smaller pieces	nongold
+27	size; amount of space means volume	nongold
+28	low is similar to decrease	nongold
+29	larger is a kind of difference	nongold
+30	the properties of something are used for describing that something	gold
+31	objects are made of materials; substances; matter	nongold
+32	measuring is used for describing an object	nongold
+33	largest amount means most	nongold
+34	an increase is the opposite of a decrease	nongold
+35	shredding is similar to tearing	nongold
+36	a whole is formed by its parts	nongold
+37	a decrease is a kind of change	nongold
+38	less is similar to decrease	nongold
+39	an object is an item	nongold
+40	high is similar to increase	nongold
+41	a description sometimes provides information	nongold
+42	density is a measure of mass of an object over volume; divided by volume	nongold
+43	shortest means least; smallest in length	nongold
+44	a human is a kind of animal	nongold
+45	mass is similar to size	nongold
+46	as the size of an object appears larger , that object will be seen;be observed more easily; better	nongold
+47	breaking down into pieces is a kind of change in shape	nongold
+48	an insect usually has a small size	nongold
+49	mass; weight is a property of matter; objects; materials	nongold
+50	to lower means to decrease	nongold
+51	shrinking decreases size	nongold
+52	shorter means smaller; less in  height	nongold
+53	an increase is a kind of change	nongold
+54	matter with variable volume and shape assumes; expands to fill; takes the shape and size of its entire container	nongold
+55	a lot means large in amount; quantity	nongold
+56	as the thickness of an object increases , the resistance to tearing; to breaking will increase	nongold
+57	amount is a property of something and includes ordered  values of none; least; little; some; half; much; many; most; all	nongold
+58	a living thing is a kind of object	nongold
+59	highest means largest; greatest; most in height	nongold
+60	two objects are usually different in size	nongold
+61	an animal is a kind of living thing	nongold
+62	the location of an object can be used to describe that object	nongold
+63	if an object has a small volume and large mass , then the object will  have a high density	nongold
+64	greater means higher; more in value	nongold
+65	lighter means lower; less in weight	nongold
+66	materials are made of matter	nongold
+67	size difference is a kind of difference	nongold
+68	an animal is a kind of organism	nongold
+69	if an object is made of something then the parts of that object are made of that something	nongold
+70	weight is a property of objects; matter	nongold
+71	as the thickness of something; of an object increases , the resistance to damage of that object; of that something will increase	nongold
+72	mass is a measure of the amount of matter in an object	nongold
+73	meters;centimeters;kilometers are used to describe distance; describe length	nongold
+74	thin means small in width	nongold
+75	little is similar to decrease	nongold
+76	a weight is a kind of object	nongold
+77	size is an extensive property	nongold
+78	to reduce means to decrease	nongold
+79	heat means heat energy	nongold
+80	wider means greater in width	nongold
+81	a molecule is exceptionally small in size	nongold
+82	expand means increase in size	nongold
+83	structure is a property of an object; a material; a substance	nongold
+84	paper is recyclable	nongold
+85	paper burns	nongold
+86	growing larger is when size increases	nongold
+87	structure is similar to shape	nongold
+88	an atom is the smallest particle; unit that has the properties of an element	nongold
+89	the size of an organism is an inherited characteristic	nongold
+90	substances are made of matter	nongold
+91	thickness is  a measure of how thick an object  is	nongold
+92	best means most positive	nongold
+93	answering questions requires information	nongold
+94	separate is similar to break down	nongold
+95	liquid is a kind of state of matter	nongold
+96	a molecule is the smallest particle; unit that has the properties of a compound	nongold
+97	if an object is made of a material then that object has the properties of that material	nongold
+98	a product is a kind of object	nongold
+99	light means low  in weight	nongold
+100	made up of means contains; made of	nongold
+101	a structure of something is synonymous with a part of that something	nongold
